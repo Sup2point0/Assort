@@ -6,7 +6,7 @@ The codes for all the levels can also be found on [Scratch](https://scratch.mit.
 ## The Adventure
 Series 1
 
-- [Smashed](Series%201%20–%20The%20Adventure/Smashed)
+- [Smashed](Series%201%20–%20The%20Adventure/Smashed.md)
 - [The Cave](Series%201%20–%20The%20Adventure/The%20Cave)
 - [Wormhole](Series%201%20–%20The%20Adventure/Wormhole)
 - [Precision](Series%201%20–%20The%20Adventure/Precision)
