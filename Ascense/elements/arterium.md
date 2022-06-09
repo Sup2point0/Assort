@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td> symbol </td>
-    <td> At </td>
+    <td> <code> At </code> </td>
   </tr>
   <tr>
     <td> class </td>
@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td> generation </td>
-    <td> I </td>
+    <td> <code> I </code> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Nomenclature </h4> </th>
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td> eponym </td>
-    <td> *Arterion* the Electromagnetic Warrior </td>
+    <td> <em> Arterion </em> the Electromagnetic Warrior </td>
   </tr>
   <tr>
     <td> category </td>
@@ -61,11 +61,11 @@
     <th colspan="2"> <h4> Navigation </h4> </th>
   </tr>
   <tr>
-    <td> ‹ <a href="–"> – </a> </td>
-    <td> <a href="–"> – </a> › </td>
-  </tr>
-  <tr>
     <td> related </td>
     <td> <a href="–"> anerium </a> </td> 
+  </tr>
+  <tr>
+    <td> ‹ <a href="–"> – </a> </td>
+    <td> <a href="–"> – </a> › </td>
   </tr>
 </table>
