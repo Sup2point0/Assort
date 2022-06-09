@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td> class </td>
-    <td> – </td> 
+    <td> arcetal </td> 
   </tr>
   <tr>
     <td> affinity </td>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td> pronounciation </td>
-    <td> <code> /ɑː'tɛɹɪəm/ </code> </td> 
+    <td> <code> /ɑː'tɛrɪəm/ </code> </td> 
   </tr>
   <tr>
     <td> eponym </td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td> category </td>
-    <td> named after figures </td>
+    <td> after figure </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Miscellaneous </h4> </th>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td> compounds </td>
-    <td> anarterium </td>
+    <td> <a href="–"> anarterium </a> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Navigation </h4> </th>
