@@ -3,8 +3,7 @@
 The codes for all the levels can also be found on [Scratch](https://scratch.mit.edu/projects/467369291/).
 
 
-## The Adventure
-Series 1
+## Series 1 – The Adventure
 
 - [Smashed](Series%201%20–%20The%20Adventure/Smashed.md)
 - [The Cave](Series%201%20–%20The%20Adventure/The%20Cave)
