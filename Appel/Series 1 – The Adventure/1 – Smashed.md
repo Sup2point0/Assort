@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>  </td>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/Appel/Series%201%20%E2%80%93%20The%20Adventure/2%20–%20The%20Cave.md"> The Cave </a> › </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/Appel/Series 1 – The Adventure/2 – The Cave.md"> The Cave </a> › </td>
   </tr>
 </table>
 
