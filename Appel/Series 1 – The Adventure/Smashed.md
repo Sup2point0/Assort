@@ -1,5 +1,29 @@
 # Smashed
 
+{desc}
+
+<table>
+  <tr>
+    <th colspan="2"> <h3> Smashed </h3> </th>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td> <a href="github.com/Sup2point0/Assort/blob/main/Appel/Series%201%20%E2%80%93%20The%20Adventure/The%20Cave.md"> The Cave </a> › </td>
+  </tr>
+</table>
+
 ## Code
 
 ```
