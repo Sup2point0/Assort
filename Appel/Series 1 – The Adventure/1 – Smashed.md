@@ -2,27 +2,37 @@
 
 {desc}
 
+
 <table>
   <tr>
     <th colspan="2"> <h3> Smashed </h3> </th>
   </tr>
   <tr>
-    <td>  </td>
-    <td>  </td>
+    <td> length </td>
+    <td> – </td>
+  </tr>
+  <tr>
+    <td> difficulty </td>
+    <td> – </td>
+  </tr>
+  <tr>
+    <td> appels </td>
+    <td> – </td>
+  </tr>
+  <tr>
+    <td> series </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/tree/main/Appel/Series 1 – The Adventure"> 1 – The Adventure </a> </td>
+  </tr>
+  <tr>
+    <td> released </td>
+    <td> – </td>
   </tr>
   <tr>
     <td>  </td>
-    <td>  </td>
-  </tr>
-  <tr>
-    <td>  </td>
-    <td>  </td>
-  </tr>
-  <tr>
-    <td>  </td>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/Appel/Series%201%20%E2%80%93%20The%20Adventure/The%20Cave.md"> The Cave </a> › </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/Appel/Series%201%20%E2%80%93%20The%20Adventure/2%20–%20The%20Cave.md"> The Cave </a> › </td>
   </tr>
 </table>
+
 
 ## Code
 
