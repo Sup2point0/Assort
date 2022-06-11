@@ -8,9 +8,9 @@
 | affinity | affinitic | ability |
 | :------- | :-------- | :------ |
 | aerokinesis | aerokinetic, gust | air control |
-| – | animos | enhanced sense |
 | amaris | amaros | love control |
-| metakinesis | metakinetic | weather control |
+| – | animos | enhanced sense |
+| cryokinesis | cryokinetic, shiver | Control ice |
 | – | banshee | deadly screams |
 | – | bomber | explosive control |
 | – | bonebreaker | break bones (contact) |
@@ -35,6 +35,7 @@
 | geokinesis | geokinetic | Control dirt and rocks |
 | – | gravitron | gravity control |
 | gyrokinesis | gyrokinetic, wall-walker | Shift centre of gravity |
+| – | healer | Heal themselves |
 | hydrokinesis | hydrokinetic, nymph | water control |
 | – | illusion | illusion control |
 | invisibility | invisitron | invisible and incorporeal |
@@ -42,7 +43,7 @@
 | laservision | lazitron | shooting lasers from eyes |
 | – | levitron | flight |
 | metallokinesis | metallokinetic, magnetron | Control metal |
-| ximic | ximic | affinity copying |
+| metakinesis | metakinetic | weather control |
 | – | mindreader | Read others' mind |
 | necromancy | necromancer | Revive the dead |
 | necronaucy | necronaut | Journey into the realm of the dead |
@@ -54,11 +55,9 @@
 | – | psychic | Sense things |
 | pyrokinesis | pyrokinetic | Control fire |
 | – | seer | See the future |
-| – | healer | Heal themselves |
 | – | shadow-walker | Blend in with shadows and can teleport into them |
 | – | shapeshifter | Change their appearance |
 | – | shield | Create shields |
-| cryokinesis | cryokinetic, shiver | Control ice |
 | – | sentinel, warden | Disable another's ability |
 | – | slasher | Cut things with mind |
 | somnus | somnos | Make people fall asleep |
@@ -75,6 +74,7 @@
 | – | windwalker | Walk in midair |
 | – | windweaver | Control wind |
 | – | wrecker | Super strength
+| ximic | ximic | affinity copying |
 
 Change others' emotions
 Control paper
