@@ -2,6 +2,11 @@
 
 {WIP}
 
+
+## Index
+
+| affinity | – | ability |
+
 Aerokinetic   -   Control air
 
 Animos   -   Have super sensitive senses
