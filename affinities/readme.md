@@ -34,7 +34,6 @@
 | – | frostwalker | ice walking |
 | geokinesis | geokinetic | Control dirt and rocks |
 | – | gravitron | gravity control |
-| 
 | gyrokinesis | gyrokinetic, wall-walker | Shift centre of gravity |
 | hydrokinesis | hydrokinetic, nymph | water control |
 | – | illusion | illusion control |
