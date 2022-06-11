@@ -5,43 +5,44 @@
 
 ## Index
 
-| affinity | – | ability |
-| :------- | :- | :------ |
-| Aerokinetic | – | Control air |
-| Animos | – | Have super sensitive senses |
-| Amaros | – | Make people fall in love |
-| Metakinetic | – | Control weather and atmospheres |
-| Banshee | – | Scream, causing pain and headaches |
-| Bomber | – | Generate explosions |
-| Bonebreaker | – | Break bones on touch |
-| Carbokinetic | – | Control cells |
-| Chlorokinetic | – | Control plant life |
-| Cloner | – | Create clones of themselves |
-| Cognitron | – | Have perfect memory |
-| Droid/Cyborg | – | Change limbs into weapons |
-| Druid/Animos | – | Control animals |
-| Duplicator/Multiplyer | – | Duplicate things |
-| Earthquake | – | Generate shockwaves |
-| Echo | – | Mimic sounds |
-| Electrokinetic/Electricon | – | Control electricity |
-| Elemental | – | Control all elements |
-| Empath | – | Sense emotions |
-| Energist | – | Control Energy |
-| Enzokinetic | – | Control chemical reactions |
-| Eye | – | Sense the immediate future |
-| Florokinetic | – | Control flowers and scents |
-| Force | – | Stop bullets in mid-air |
-| Frostwalker | – | Walk on water and turn it to ice |
-| Geokinetic/Groundbreaker | – | Control dirt and rocks |
-| Gravitron | – | Control gravity |
-| Gyrokinetic/Wall-Walker | – | Shift centre of gravity |
-| Hydrokinetic/Nymph | – | Control water |
-| Illusion | – | Create illusions |
-| Invisitron | – | Can turn invisible |
-| Key | – | Open locks with touch |
-| Lazitron | – | Shoot lazers from eyes |
-| Levitron | – | Fly |
-| Magnetron | – | Control metal |
+| affinity | affinitic | ability |
+| :------- | :-------- | :------ |
+| aerokinesis | aerokinetic, gust | air control |
+| – | animos | enhanced sense |
+| amaris | amaros | love control |
+| metakinesis | metakinetic | weather control |
+| – | banshee | deadly screams |
+| – | bomber | explosive control |
+| – | bonebreaker | break bones (contact) |
+| cytokinesis | cytokinetic | cell control |
+| phytokinesis | phytokinetic | plant control |
+| – | cloner | self-cloning |
+| cognitris | cognitron | perfect memory |
+| – | droid | weaponyzed limbs |
+| druidity | druid | animal control |
+| duplication | duplicator, multiplyer | object duplication |
+| ergokinetic | quake, ground/earth-shaker/breaker | shockwave generation |
+| – | echo | sound mimic |
+| electrokinesis | electrokinetic, electricon | electricity control |
+| elementalis | elemental | elemental control |
+| empathis | empath | emotion control |
+| energis | energist | energy control |
+| enzokinesis | enzokinetic | chemical reaction control |
+| – | eye | sense immediate future |
+| florokinesis | florokinetic | flower and scent control |
+| – | force | force control |
+| – | frostwalker | ice walking |
+| geokinesis | geokinetic | Control dirt and rocks |
+| – | gravitron | gravity control |
+| 
+| gyrokinesis | gyrokinetic, wall-walker | Shift centre of gravity |
+| hydrokinesis | hydrokinetic, nymph | water control |
+| – | illusion | illusion control |
+| invisibility | invisitron | invisible and incorporeal |
+| – | key | unlock |
+| laservision | lazitron | shooting lasers from eyes |
+| – | levitron | flight |
+| metallokinesis | metallokinetic, magnetron | Control metal |
 | Mimic | – | Mimic other abilities |
 | Mindreader | – | Read others' mind |
 | Necromancer | – | Revive the dead |
