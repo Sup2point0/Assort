@@ -70,11 +70,11 @@
 | teleportation | teleporter | Teleport |
 | terrakinesis | terrakinetic | Control terrains |
 | vitakinesis | vitakinetic | Transfer life forces |
-| Weaver | – | Shoot silk from hand |
-| Whisper | – | Control others' minds |
-| Windwalker | – | Walk in midair |
-| Windweaver | – | Control wind |
-| Wrecker | – | Super strength
+| – | weaver | Shoot silk from hand |
+| – | whisper | Control others' minds |
+| – | windwalker | Walk in midair |
+| – | windweaver | Control wind |
+| – | wrecker | Super strength
 
 Change others' emotions
 Control paper
