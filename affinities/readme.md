@@ -44,8 +44,12 @@
 | laservision | lazitron | shooting lasers from eyes |
 | – | levitron | flight |
 | metallokinesis | metallokinetic, magnetron | Control metal |
+<<<<<<< HEAD
+| ximic | ximic | affinity copying |
+=======
 | metakinesis | metakinetic | weather control |
 | – | mindreader | Read others' mind |
+>>>>>>> 230e25d7c2f21fb4c2d9729da72f7db22653c4f8
 | necromancy | necromancer | Revive the dead |
 | necronaucy | necronaut | Journey into the realm of the dead |
 | – | nightwalker | Turn invisible and silent in darkness |
