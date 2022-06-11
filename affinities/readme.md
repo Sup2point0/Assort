@@ -42,37 +42,34 @@
 | laservision | lazitron | shooting lasers from eyes |
 | – | levitron | flight |
 | metallokinesis | metallokinetic, magnetron | Control metal |
-| Mimic | – | Mimic other abilities |
-| Mindreader | – | Read others' mind |
-| Necromancer | – | Revive the dead |
-| Necronaut | – | Journey into the realm of the dead |
-| Nightwalker | – | Turn invisible and silent in darkness |
-| Oblivion | – | Explode things on touch |
-| Overseer | – | See all possible futures |
-| Photokinetic/Shadow | – | Control light |
-| Poison | – | Spread poison with touch |
-| Psychic | – | Sense things |
-| Psychic Oblivion | – | Explode things on thought |
-| Pyrokinetic/Burner | – | Control fire |
-| Ranged Oblivion | – | Explode things on sight |
-| Seer | – | See the future |
-| Self Healer | – | Heal themselves |
-| Shadow-Walker | – | Blend in with shadows and can teleport into them |
-| Shapeshifter | – | Change their appearance |
-| Shield | – | Create shields |
-| Cryokinetic/Shiver | – | Control ice |
-| Silent | – | Disable another's ability |
-| Slasher | – | Cut things with mind |
-| Somnus | – | Make people fall asleep |
-| Spirit | – | Hear messages from the dead |
-| Superior | – | Learn others' abilities |
-| Swift | – | Move extremely fast |
-| Telekinetic/Telky | – | Move things with mind |
-| Telepath | – | Communicate with thoughts |
-| Teleporter | – | Teleport |
-| Terrakinetic | – | Control terrains |
-| Touch Healer/Healer | – | Heal on touch |
-| Vitakinetic | – | Transfer life forces |
+| ximic | ximic | affinity copying |
+| – | mindreader | Read others' mind |
+| necromancy | necromancer | Revive the dead |
+| necronaucy | necronaut | Journey into the realm of the dead |
+| – | nightwalker | Turn invisible and silent in darkness |
+| oblivius | oblivion | Explode things on touch |
+| – | oversee | See all possible futures |
+| photokinesis | photokinetic | Control light |
+| – | poison | Spread poison with touch |
+| – | psychic | Sense things |
+| pyrokinesis | pyrokinetic | Control fire |
+| – | seer | See the future |
+| – | healer | Heal themselves |
+| – | shadow-walker | Blend in with shadows and can teleport into them |
+| – | shapeshifter | Change their appearance |
+| – | shield | Create shields |
+| cryokinesis | cryokinetic, shiver | Control ice |
+| – | sentinel, warden | Disable another's ability |
+| – | slasher | Cut things with mind |
+| somnus | somnos | Make people fall asleep |
+| – | spirit | Hear messages from the dead |
+| – | superior | Learn others' abilities |
+| – | swift | Move extremely fast |
+| telekinesis | telekinetic, telky | Move things with mind |
+| telepathy | telepath | Communicate with thoughts |
+| teleportation | teleporter | Teleport |
+| terrakinesis | terrakinetic | Control terrains |
+| vitakinesis | vitakinetic | Transfer life forces |
 | Weaver | – | Shoot silk from hand |
 | Whisper | – | Control others' minds |
 | Windwalker | – | Walk in midair |
