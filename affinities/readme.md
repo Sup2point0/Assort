@@ -43,38 +43,36 @@
 | koniokinesis | koniokinetic | dust control |
 | laservision | lazitron | shooting lasers from eyes |
 | – | levitron | flight |
-| metallokinesis | metallokinetic, magnetron | Control metal |
+| metallokinesis | metallokinetic, magnetron | metal control |
 | metakinesis | metakinetic | weather control |
-| – | mindreader | Read others' mind |
-| necromancy | necromancer | Revive the dead |
-| necronaucy | necronaut | Journey into the realm of the dead |
-| – | nightwalker | Turn invisible and silent in darkness |
-| oblivius | oblivion | Explode things on touch |
-| – | oversee | See all possible futures |
-| photokinesis | photokinetic | Control light |
-| – | poison | Spread poison with touch |
-| – | psychic | Sense things |
-| pyrokinesis | pyrokinetic | Control fire |
-| – | seer | See the future |
-| – | shadow-walker | Blend in with shadows and can teleport into them |
-| – | shapeshifter | Change their appearance |
-| – | shield | Create shields |
-| – | sentinel, warden | Disable another's ability |
-| – | slasher | Cut things with mind |
-| somnus | somnos | Make people fall asleep |
-| – | spirit | Hear messages from the dead |
-| – | superior | Learn others' abilities |
-| – | swift | Move extremely fast |
-| telekinesis | telekinetic, telky | Move things with mind |
-| telepathy | telepath | Communicate with thoughts |
-| teleportation | teleporter | Teleport |
-| terrakinesis | terrakinetic | Control terrains |
-| vitakinesis | vitakinetic | Transfer life forces |
-| – | weaver | Shoot silk from hand |
-| – | whisper | Control others' minds |
-| – | windwalker | Walk in midair |
-| – | windweaver | Control wind |
-| – | wrecker | Super strength
+| necromancy | necromancer | revival of the dead |
+| necronaucy | necronaut | venture into realm of the dead |
+| – | nightwalker | invisibility and silence in darkness |
+| oblivius | oblivion | item detonation |
+| photokinesis | photokinetic | light control |
+| – | poison | poison touch |
+| – | psychic | sense |
+| pyrokinesis | pyrokinetic | fire control |
+| – | seer | future sensing |
+| – | shadow-walker | shadow invisibility and teleportation |
+| – | shapeshifter | appearance alteration |
+| – | shield | shield creation |
+| – | sentinel, warden | affinity disabling |
+| – | slasher | mental cutting |
+| somnus | somnos | sleep control |
+| – | spirit | interaction with the dead |
+| – | superior | affinity learning |
+| – | swift | superfast movements |
+| telekinesis | telekinetic, telky | mental control of objects |
+| telepathy | telepath | mental communication |
+| teleportation | teleporter | instant travel |
+| terrakinesis | terrakinetic | earth control |
+| vitakinesis | vitakinetic | life control |
+| – | weaver | silk shooting |
+| imperius | whisper | mind control |
+| – | windwalker | walk on wind |
+| aerokinesis | aerokinetic, windweaver | wind control |
+| – | wrecker | super strength |
 | ximic | ximic | affinity copying |
 
 Change others' emotions
