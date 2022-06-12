@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> – </td>
+    <td> <code> /–/ </code> </td>
   </tr>
   <tr>
     <td> affinitic </td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> – </td>
+    <td> <code> /–/ </code> </td>
   </tr>
   <tr>
     <td> etymologics </td>
@@ -93,3 +93,18 @@
     <td> <a href="–"> – </a> </td>
   </tr>
 </table>
+
+
+## Classes
+
+
+## Strengths
+
+
+## Weaknesses
+
+
+## Synchronics
+
+
+## Emergence
