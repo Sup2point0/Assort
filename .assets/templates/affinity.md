@@ -74,6 +74,14 @@
     <td> – </td>
   </tr>
   <tr>
+    <td> competency </td>
+    <td> – </td>
+  </tr>
+  <tr>
+    <td> mastery </td>
+    <td> – </td>
+  </tr>
+  <tr>
     <th colspan="2"> <h4> Genetics </h4> </th>
   </tr>
   <tr>
