@@ -12,11 +12,11 @@
     <td> <code> – </code> </td>
   </tr>
   <tr>
-    <td> class </td>
+    <td> affinity </td>
     <td> – </td> 
   </tr>
   <tr>
-    <td> affinity </td>
+    <td> class </td>
     <td> – </td>
   </tr>
   <tr>
