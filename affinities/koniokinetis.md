@@ -1,6 +1,6 @@
-# Affinity
+# Koniokinetis
 
-{desc}
+> *A highly specialyzed derivative of telekinetis, opting only to control dust and other fine particulates, which gives finer control and stronger power.*
 
 
 <table>
@@ -16,7 +16,7 @@
     <td> matter manipulation </td>
   </tr>
   <tr>
-    <td> archetype </td>
+    <td> attribute </td>
     <td> dust </td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code> /–/ </code> </td>
+    <td> <code> /ˌkəʊniːəʊkɪ'nɛtɪs/ </code> </td>
   </tr>
   <tr>
     <td> affinitic </td>
@@ -40,11 +40,11 @@
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code> /–/ </code> </td>
+    <td> <code> /ˌkəʊniːəʊkɪ'nɛtɪk/ </code> </td>
   </tr>
   <tr>
     <td> etymologics </td>
-    <td> – </td>
+    <td> Greek <em>konio</em> ‘dust’ + Antarctican English <em>kinetis</em> ‘supernatural manipulation’ </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Affinitics </h4> </th>
@@ -72,6 +72,14 @@
   <tr>
     <td> synchrony </td>
     <td> variable (generally high) </td>
+  </tr>
+  <tr>
+    <td> competency </td>
+    <td> moderate </td>
+  </tr>
+  <tr>
+    <td> mastery </td>
+    <td> very difficult </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Genetics </h4> </th>
