@@ -84,8 +84,8 @@
 | [platonium](elements/platonium.md) | Pt |
 | [prismarine](elements/prismarine.md) | Pm |
 | [protogen](elements/protogen.md) | Pt |
-| [provokon](elements/provokon.md) | – |
-| [pyrogen](elements/pyrogen.md) | Py |
+| [provokon](elements/provokon.md) | Pk |
+| [pyrogen](elements/pyrogen.md) | P |
 | [redcium](elements/redcium.md) | – |
 | [redstone](elements/redstone.md) | – |
 | [regalium](elements/regalium.md) | – |
