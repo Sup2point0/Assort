@@ -1,39 +1,39 @@
 # Corporations
 
-An assortment of (fictional) corporations.
+An assortment of (fictional) corporations in all fields, but mostly technologics.
 
 
-## Contents
+## Index
 
-Accel
-Aviaze
-Avrax
-Capaciti
-Cellulite
-Coltron
-Dextris
-Evaze
-Fuze
-Galactron
-HiTech
-Infrare
-Injekt
-Innovision
-Invictis
-Kinetik
-Magnetech
-Mars
-Molecure
-NeuroForce
-Plethoron
-Portal
-Protocell
-Regna
-Rubicon
-Scion
-TechTonic
-Vengeance
-Venturi
-Vorking
-Xserve
-Yottle
+- [Accel](.md)
+- [Aviaze](.md)
+- [Avrax](.md)
+- [Capaciti](.md)
+- [Cellulite](.md)
+- [Coltron](.md)
+- [Dextris](.md)
+- [Evaze](.md)
+- [Fuze](.md)
+- [Galactron](.md)
+- [HiTech](.md)
+- [Infrare](.md)
+- [Injekt](.md)
+- [Innovision](.md)
+- [Invictis](.md)
+- [Kinetik](.md)
+- [Magnetech](.md)
+- [Mars](.md)
+- [Molecure](.md)
+- [NeuroForce](.md)
+- [Plethoron](.md)
+- [Portal](.md)
+- [Protocell](.md)
+- [Regna](.md)
+- [Rubicon](.md)
+- [Scion](.md)
+- [TechTonic](.md)
+- [Vengeance](.md)
+- [Venturi](.md)
+- [Vorking](.md)
+- [Xserve](.md)
+- [Yottle](.md)
