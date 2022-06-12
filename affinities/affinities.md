@@ -2,79 +2,79 @@
 
 | affinity | affinitic | ability |
 | :------- | :-------- | :------ |
-| aerokinesis | aerokinetic, gust | air control |
+| aerokinetis | aerokinetic, gust | air control |
+| anemokinetis | anemokinetic, windweaver | wind control |
 | amaris | amaros | love control |
 | – | animos | enhanced sense |
-| cryokinesis | cryokinetic, shiver | Control ice |
 | – | banshee | deadly screams |
+| biokinetis | biokinetic | life control |
 | – | bomber | explosive control |
-| – | bonebreaker | break bones (contact) |
-| cytokinesis | cytokinetic | cell control |
-| phytokinesis | phytokinetic | plant control |
-| – | cloner | self-cloning |
+| bonebreaking | bonebreaker | break bones (contact) |
+| chronokinetis | chronokinetic | time control |
+| cryokinetis | cryokinetic, shiver | Control ice |
+| cytokinetis | cytokinetic | cell control |
+| cloning | cloner | object cloning |
 | cognitris | cognitron | perfect memory |
 | – | droid | weaponyzed limbs |
 | druidity | druid | animal control |
 | duplication | duplicator, multiplyer | object duplication |
-| ergokinetic | quake, ground/earth-shaker/breaker | shockwave generation |
 | – | echo | sound mimic |
-| electrokinesis | electrokinetic, electricon | electricity control |
+| electrokinetis | electrokinetic, electricon | electricity control |
 | elementalis | elemental | elemental control |
 | empathis | empath | emotion control |
 | energis | energist | energy control |
-| enzokinesis | enzokinetic | chemical reaction control |
-| – | eye | sense immediate future |
-| florokinesis | florokinetic | flower and scent control |
+| enzokinetis | enzokinetic | chemical reaction control |
+| ergokinetis | ergokinetic | energy control |
+| florokinetis | florokinetic | flower and scent control |
 | – | force | force control |
 | – | frostwalker | ice walking |
-| geokinesis | geokinetic | Control dirt and rocks |
+| geokinetis | geokinetic | Control dirt and rocks |
 | – | gravitron | gravity control |
-| gyrokinesis | gyrokinetic, wall-walker | Shift centre of gravity |
+| gyrokinetis | gyrokinetic, wall-walker | Shift centre of gravity |
 | – | healer | Heal themselves |
-| hydrokinesis | hydrokinetic, nymph | water control |
-| – | illusionist | illusion control |
+| hydrokinetis | hydrokinetic, nymph | water control |
+| illusionis | illusionist | illusion control |
+| imperius | whisper | mind control |
 | invisibility | invisitron | invisible and incorporeal |
+| invulnerability | impervious | impervious to harm |
 | – | key | unlock |
-| [koniokinesis](koniokinesis.md) | koniokinetic | dust control |
+| [koniokinetis](koniokinetis.md) | koniokinetic | dust control |
 | laservision | lazitron | shooting lasers from eyes |
 | – | levitron | flight |
-| metallokinesis | metallokinetic, magnetron | metal control |
-| metakinesis | metakinetic | weather control |
+| metallokinetis | metallokinetic, magnetron | metal control |
+| metakinetis | metakinetic | weather control |
 | necromancy | necromancer | revival of the dead |
 | necronaucy | necronaut | venture into realm of the dead |
 | – | nightwalker | invisibility and silence in darkness |
 | oblivius | oblivion | item detonation |
-| photokinesis | photokinetic | light control |
+| photokinetis | photokinetic | light control |
+| phytokinetis | phytokinetic | plant control |
 | – | poison | poison touch |
-| – | psychic | sense |
-| pyrokinesis | pyrokinetic | fire control |
-| – | seer | future sensing |
+| pyrokinetis | pyrokinetic | fire control |
+| – | seer, eye | future sensing |
 | – | shadow-walker | shadow invisibility and teleportation |
 | – | shapeshifter | appearance alteration |
 | – | shield | shield creation |
 | – | sentinel, warden | affinity disabling |
+| – | silk | agility |
 | – | slasher | mental cutting |
-| somnus | somnos | sleep control |
+| somnis | somnos | sleep control |
 | – | spirit | interaction with the dead |
 | – | superior | affinity learning |
 | – | swift | superfast movements |
-| telekinesis | telekinetic, telky | mental control of objects |
+| telekinetis | telekinetic, telky | mental control of objects |
 | telepathy | telepath | mental communication |
 | teleportation | teleporter | instant travel |
-| terrakinesis | terrakinetic | earth control |
-| vitakinesis | vitakinetic | life control |
+| terrakinetis | terrakinetic | earth control |
+| vitakinetis | vitakinetic | life control |
 | – | weaver | silk shooting |
-| imperius | whisper | mind control |
 | – | windwalker | walk on wind |
-| aerokinesis | aerokinetic, windweaver | wind control |
 | – | wrecker | super strength |
 | ximic | ximic | affinity copying |
+| – | cloudjumper | walk on clouds |
+| – | quake, ground/earth-shaker/breaker | shockwave generation |
 
 Change others' emotions
-Control paper
-Change size
 Decay away materials on touch
 Can move through things
-Super agility
 Give others their ability
-Are indestructible
