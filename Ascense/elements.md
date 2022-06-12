@@ -2,12 +2,16 @@
 
 | element | symbol |
 | :------ | :----- |
+| [achillium](elements/achillium.md) | – |
 | [aetherium](elements/aetherium.md) | – |
+| [aloverium](elements/aloverium.md) | – |
 | [alphon](elements/alphon.md) | – |
 | [anerium](elements/anerium.md) | – |
+| [aquillium](elements/aquillium.md) | – |
 | [archnium](elements/archnium.md) | – |
 | [arterium](elements/arterium.md) | – |
 | [aurium](elements/aurium.md) | – |
+| [avagadron](elements/avagadron.md) | – |
 | [axividium](elements/axividium.md) | – |
 | [berserkium](elements/berserkium.md) | – |
 | [beton](elements/beton.md) | – |
@@ -18,6 +22,7 @@
 | [celestium](elements/celestium.md) | – |
 | [criticine](elements/criticine.md) | – |
 | [cryzelium](elements/cryzelium.md) | – |
+| [cykerium](elements/cykerium.md) | – |
 | [cynium](elements/cynium.md) | – |
 | [cypton](elements/cypton.md) | – |
 | [deathcium](elements/deathcium.md) | – |
@@ -25,9 +30,11 @@
 | [deracium](elements/deracium.md) | – |
 | [dissanaikium](elements/dissanaikium.md) | – |
 | [dycurium](elements/dycurium.md) | – |
+| [dyllerium](elements/dyllerium.md) | – |
 | [dynatium](elements/dynatium.md) | – |
 | [elekine](elements/elekine.md) | – |
 | [elektronomium](elements/elektronomium.md) | – |
+| [elytrium](elements/elytrium.md) | – |
 | [emerium](elements/emerium.md) | – |
 | [eridine](elements/eridine.md) | – |
 | [etanium](elements/etanium.md) | – |
@@ -104,6 +111,7 @@
 | [vicinium](elements/vicinium.md) | – |
 | [victorium](elements/victorium.md) | – |
 | [vitalitine](elements/vitalitine.md) | – |
+| [vitrium](elements/vitrium.md) | – |
 | [vizorium](elements/vizorium.md) | – |
 | [xanadium](elements/xanadium.md) | – |
 | [xandorium](elements/xandorium.md) | – |
