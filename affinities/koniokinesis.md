@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <th colspan="2"> <h2> koniokinesis </h2> </th>
+    <th colspan="2"> <h3> koniokinesis </h3> </th>
   </tr>
   <tr>
     <td> ability </td>
@@ -24,7 +24,7 @@
     <td> flexible (specialyzed–unspecialyzed) </td>
   </tr>
   <tr>
-    <th colspan="2"> <h3> Nomenclature </h3> </th>
+    <th colspan="2"> <h4> Nomenclature </h4> </th>
   </tr>
   <tr>
     <td> alternatives </td>
@@ -47,7 +47,7 @@
     <td> – </td>
   </tr>
   <tr>
-    <th colspan="2"> <h3> Affinitics </h3> </th>
+    <th colspan="2"> <h4> Affinitics </h4> </th>
   </tr>
   <tr>
     <td> abilities </td>
@@ -74,7 +74,7 @@
     <td> variable (generally high) </td>
   </tr>
   <tr>
-    <th colspan="2"> <h3> Genetics </h3> </th>
+    <th colspan="2"> <h4> Genetics </h4> </th>
   </tr>
   <tr>
     <td> rarity </td>

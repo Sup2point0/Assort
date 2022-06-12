@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <th colspan="2"> <h2> – </h2> </th>
+    <th colspan="2"> <h3> – </h3> </th>
   </tr>
   <tr>
     <td> symbol </td>
@@ -28,7 +28,7 @@
     <td> <code> – </code> </td>
   </tr>
   <tr>
-    <th colspan="2"> <h3> Nomenclature </h3> </th>
+    <th colspan="2"> <h4> Nomenclature </h4> </th>
   </tr>
   <tr>
     <td> pronounciation </td>
@@ -43,7 +43,7 @@
     <td> – </td>
   </tr>
   <tr>
-    <th colspan="2"> <h3> Miscellaneous </h3> </th>
+    <th colspan="2"> <h4> Miscellaneous </h4> </th>
   </tr>
   <tr>
     <td> rarity </td>
@@ -58,7 +58,7 @@
     <td> – </td>
   </tr>
   <tr>
-    <th colspan="2"> <h3> Navigation </h3> </th>
+    <th colspan="2"> <h4> Navigation </h4> </th>
   </tr>
   <tr>
     <td> related </td>
