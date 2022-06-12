@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <th colspan="2"> <h3> – </h3> </th>
+    <th colspan="2"> <h2> – </h2> </th>
   </tr>
   <tr>
     <td> founded </td>
