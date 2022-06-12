@@ -5,6 +5,7 @@ An assortment of (fictional) corporations in all fields, but mostly technologics
 
 ## Index
 
+- [2.0 Studios](2.0%20Studios.md)
 - [Accel](.md)
 - [Aviaze](.md)
 - [Avrax](.md)
