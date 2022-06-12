@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <th colspan="2"> <h3> HiTech LVC</h3> </th>
+    <th colspan="2"> <h3> HiTech LVC </h3> </th>
   </tr>
   <tr>
     <td> founded </td>
@@ -13,11 +13,11 @@
   </tr>
   <tr>
     <td> fields </td>
-    <td> – </td>
+    <td> technologics, electronics, transport </td>
   </tr>
   <tr>
     <td> focus </td>
-    <td> – </td>
+    <td> laptops, processors, cars </td>
   </tr>
   <tr>
     <td> products </td>
