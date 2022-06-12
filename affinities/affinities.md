@@ -32,7 +32,7 @@
 | gyrokinesis | gyrokinetic, wall-walker | Shift centre of gravity |
 | – | healer | Heal themselves |
 | hydrokinesis | hydrokinetic, nymph | water control |
-| – | illusion | illusion control |
+| – | illusionist | illusion control |
 | invisibility | invisitron | invisible and incorporeal |
 | – | key | unlock |
 | [koniokinesis](koniokinesis.md) | koniokinetic | dust control |
