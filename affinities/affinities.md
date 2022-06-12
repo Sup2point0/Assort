@@ -35,7 +35,7 @@
 | – | illusion | illusion control |
 | invisibility | invisitron | invisible and incorporeal |
 | – | key | unlock |
-| koniokinesis | koniokinetic | dust control |
+| [koniokinesis](koniokinesis.md) | koniokinetic | dust control |
 | laservision | lazitron | shooting lasers from eyes |
 | – | levitron | flight |
 | metallokinesis | metallokinetic, magnetron | metal control |
