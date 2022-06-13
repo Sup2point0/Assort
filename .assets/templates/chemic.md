@@ -50,7 +50,7 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> standard state </td>
+    <td> state </td>
     <td> – </td>
   </tr>
   <tr>
