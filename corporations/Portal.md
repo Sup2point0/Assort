@@ -33,11 +33,11 @@
 <table>
   <th> blank </th>
   <tr> <td>
-    <br> Portal 1
-    <br> Portal 1X
+    Portal 1 <br>
+    Portal 1X
   </td> </tr>
   <tr> <td>
-    <br> Portal 2
-    <br> Portal 2Y
+    Portal 2 <br>
+    Portal 2Y
   </td> </tr>
 </table>
