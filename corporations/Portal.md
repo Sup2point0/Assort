@@ -31,6 +31,7 @@
 ### Original Series
 
 <table>
+  <th> </th>
   <tr>
     Portal 1
     Portal 1X
