@@ -20,6 +20,10 @@
     <td> dust </td>
   </tr>
   <tr>
+    <td> channels </td>
+    <td> psychic </td>
+  </tr>
+  <tr>
     <td> classes </td>
     <td> flexible (specialyzed–unspecialyzed) </td>
   </tr>
@@ -104,6 +108,9 @@
 
 
 ## Classes
+
+
+## Skills
 
 
 ## Strengths
