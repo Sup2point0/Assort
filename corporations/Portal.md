@@ -30,14 +30,17 @@
 
 ### Original Series
 
-<table>
-  <th> blank </th>
-  <tr> <td>
-    Portal 1 <br>
-    Portal 1X
-  </td> </tr>
-  <tr> <td>
-    Portal 2 <br>
-    Portal 2Y
-  </td> </tr>
-</table>
+| Portal | Spin | Whirl |
+| :----- | :--- | :---- |
+| Portal 1 <br> Portal 1X | | |
+| Portal 2 <br> Portal 2Y | | |
+
+### New Generation
+
+| Nova | Entropy | Syzygy |
+| :--- | :------ | :----- |
+| Portal Nova <br> Portal Nova Plus | | |
+| Portal Nova Burst <br> Portal Nova S <br> Portal Nova Pro <br> Portal Nova Burst Pro | | |
+| Portal Nova Ray <br> Portal Nova Burst Ray <br> Portal Nova Lite <br> Portal Nova Lite Ray <br> | | |
+| Portal Nova X <br> Portal Nova Z <br> Portal Nova Burst Ray Z | | |
+| Portal Nova Ultra | | |
