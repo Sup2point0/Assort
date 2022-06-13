@@ -50,6 +50,7 @@
       Portal Nova Burst <br>
       Portal Nova S
     </td>
+    <td></td> <td></td>
   </tr>
   <tr>
     <td>
@@ -58,6 +59,7 @@
       Portal Nova Ray <br>
       Portal Nova Burst Ray
     </td>
+    <td></td> <td></td>
   </tr>
   <tr>
     <td>
@@ -65,14 +67,17 @@
       Portal Nova Lite Ray <br>
       Portal Nova X
     </td>
+    <td></td> <td></td>
   </tr>
   <tr>
     <td>
       Portal Nova Z <br>
       Portal Nova Burst Ray Z
     </td>
+    <td></td> <td></td>
   </tr>
   <tr>
     <td> Portal Nova Ultra </td>
+    <td></td> <td></td>
   </tr>
 </table>
