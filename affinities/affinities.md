@@ -2,55 +2,55 @@
 
 | affinity | affinitic | ability |
 | :------- | :-------- | :------ |
-| aerokinetis | aerokinetic, gust | air control |
-| anemokinetis | anemokinetic, windweaver | wind control |
-| amaris | amaros | love control |
+| [aerokinetis](aerokinetis.md) | aerokinetic, gust | air control |
+| [anemokinetis](anemokinetis.md) | anemokinetic, windweaver | wind control |
+| [amaris](amaris.md) | amaros | love control |
 | – | animos | enhanced sense |
 | – | banshee | deadly screams |
-| biokinetis | biokinetic | life control |
+| [biokinetis](biokinetis.md) | biokinetic | life control |
 | – | bomber | explosive control |
-| bonebreaking | bonebreaker | break bones (contact) |
-| chronokinetis | chronokinetic | time control |
-| cryokinetis | cryokinetic, shiver | Control ice |
-| cytokinetis | cytokinetic | cell control |
-| cloning | cloner | object cloning |
-| cognitris | cognitron | perfect memory |
+| [bonebreaking](bonebreaking.md) | bonebreaker | break bones (contact) |
+| [chronokinetis](chronokinetis.md) | chronokinetic | time control |
+| [cryokinetis](cryokinetis.md) | cryokinetic, shiver | Control ice |
+| [cytokinetis](cytokinetis.md) | cytokinetic | cell control |
+| [cloning](cloning.md) | cloner | object cloning |
+| [cognitris](cognitris.md) | cognitron | perfect memory |
 | – | droid | weaponyzed limbs |
-| druidity | druid | animal control |
-| duplication | duplicator, multiplyer | object duplication |
+| [druidity](druidity.md) | druid | animal control |
+| [duplication](duplication.md) | duplicator, multiplyer | object duplication |
 | – | echo | sound mimic |
-| electrokinetis | electrokinetic, electricon | electricity control |
-| elementalis | elemental | elemental control |
-| empathis | empath | emotion control |
-| energis | energist | energy control |
-| enzokinetis | enzokinetic | chemical reaction control |
-| ergokinetis | ergokinetic | energy control |
-| florokinetis | florokinetic | flower and scent control |
+| [electrokinetis](electrokinetis.md) | electrokinetic, electricon | electricity control |
+| [elementalis](elementalis.md) | elemental | elemental control |
+| [empathis](empathis.md) | empath | emotion control |
+| [energis](energis.md) | energist | energy control |
+| [enzokinetis](enzokinetis.md) | enzokinetic | chemical reaction control |
+| [ergokinetis](ergokinetis.md) | ergokinetic | energy control |
+| [florokinetis](florokinetis.md) | florokinetic | flower and scent control |
 | – | force | force control |
 | – | frostwalker | ice walking |
-| geokinetis | geokinetic | Control dirt and rocks |
+| [geokinetis](geokinetis.md) | geokinetic | Control dirt and rocks |
 | – | gravitron | gravity control |
-| gyrokinetis | gyrokinetic, wall-walker | Shift centre of gravity |
+| [gyrokinetis](gyrokinetis.md) | gyrokinetic, wall-walker | Shift centre of gravity |
 | – | healer | Heal themselves |
-| hydrokinetis | hydrokinetic, nymph | water control |
-| illusionis | illusionist | illusion control |
-| imperius | whisper | mind control |
-| invisibility | invisitron | invisible and incorporeal |
-| invulnerability | impervious | impervious to harm |
+| [hydrokinetis](hydrokinetis.md) | hydrokinetic, nymph | water control |
+| [illusionis](illusionis.md) | illusionist | illusion control |
+| [imperius](imperius.md) | whisper | mind control |
+| [invisibility](invisibility.md) | invisitron | invisible and incorporeal |
+| [invulnerability](invulnerability.md) | impervious | impervious to harm |
 | – | key | unlock |
 | [koniokinetis](koniokinetis.md) | koniokinetic | dust control |
-| laservision | lazitron | shooting lasers from eyes |
+| [laservision](laservision.md) | lazitron | shooting lasers from eyes |
 | – | levitron | flight |
-| metallokinetis | metallokinetic, magnetron | metal control |
-| metakinetis | metakinetic | weather control |
-| necromancy | necromancer | revival of the dead |
-| necronaucy | necronaut | venture into realm of the dead |
+| [metallokinetis](metallokinetis.md) | metallokinetic, magnetron | metal control |
+| [metakinetis](metakinetis.md) | metakinetic | weather control |
+| [necromancy](necromancy.md) | necromancer | revival of the dead |
+| [necronaucy](necronaucy.md) | necronaut | venture into realm of the dead |
 | – | nightwalker | invisibility and silence in darkness |
-| oblivius | oblivion | item detonation |
-| photokinetis | photokinetic | light control |
-| phytokinetis | phytokinetic | plant control |
+| [oblivius](oblivius.md) | oblivion | item detonation |
+| [photokinetis](photokinetis.md) | photokinetic | light control |
+| [phytokinetis](phytokinetis.md) | phytokinetic | plant control |
 | – | poison | poison touch |
-| pyrokinetis | pyrokinetic | fire control |
+| [pyrokinetis](pyrokinetis.md) | pyrokinetic | fire control |
 | – | seer, eye | future sensing |
 | – | shadow-walker | shadow invisibility and teleportation |
 | – | shapeshifter | appearance alteration |
@@ -58,19 +58,19 @@
 | – | sentinel, warden | affinity disabling |
 | – | silk | agility |
 | – | slasher | mental cutting |
-| somnis | somnos | sleep control |
+| [somnis](somnis.md) | somnos | sleep control |
 | – | spirit | interaction with the dead |
 | – | superior | affinity learning |
 | – | swift | superfast movements |
-| telekinetis | telekinetic, telky | mental control of objects |
-| telepathy | telepath | mental communication |
-| teleportation | teleporter | instant travel |
-| terrakinetis | terrakinetic | earth control |
-| vitakinetis | vitakinetic | life control |
+| [telekinetis](telekinetis.md) | telekinetic, telky | mental control of objects |
+| [telepathy](telepathy.md) | telepath | mental communication |
+| [teleportation](teleportation.md) | teleporter | instant travel |
+| [terrakinetis](terrakinetis.md) | terrakinetic | earth control |
+| [vitakinetis](vitakinetis.md) | vitakinetic | life control |
 | – | weaver | silk shooting |
 | – | windwalker | walk on wind |
 | – | wrecker | super strength |
-| ximic | ximic | affinity copying |
+| [ximic](ximic.md) | ximic | affinity copying |
 | – | cloudjumper | walk on clouds |
 | – | quake, ground/earth-shaker/breaker | shockwave generation |
 
