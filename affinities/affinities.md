@@ -27,7 +27,6 @@
 | [ergokinetis](ergokinetis.md) | ergokinetic | energy control |
 | [florokinetis](florokinetis.md) | florokinetic | flower and scent control |
 | – | force | force control |
-| – | frostwalker | ice walking |
 | [geokinetis](geokinetis.md) | geokinetic | Control dirt and rocks |
 | – | gravitron | gravity control |
 | [gyrokinetis](gyrokinetis.md) | gyrokinetic, wall-walker | Shift centre of gravity |
@@ -45,36 +44,40 @@
 | [metakinetis](metakinetis.md) | metakinetic | weather control |
 | [necromancy](necromancy.md) | necromancer | revival of the dead |
 | [necronaucy](necronaucy.md) | necronaut | venture into realm of the dead |
-| – | nightwalker | invisibility and silence in darkness |
 | [oblivius](oblivius.md) | oblivion | item detonation |
 | [photokinetis](photokinetis.md) | photokinetic | light control |
 | [phytokinetis](phytokinetis.md) | phytokinetic | plant control |
 | – | poison | poison touch |
 | [pyrokinetis](pyrokinetis.md) | pyrokinetic | fire control |
 | – | seer, eye | future sensing |
-| – | shadow-walker | shadow invisibility and teleportation |
 | – | shapeshifter | appearance alteration |
 | – | shield | shield creation |
 | – | sentinel, warden | affinity disabling |
 | – | silk | agility |
 | – | slasher | mental cutting |
 | [somnis](somnis.md) | somnos | sleep control |
-| – | spirit | interaction with the dead |
+| [sonokinetis](sonokinetis.md) | sonokinetic | sound control |
 | – | superior | affinity learning |
-| – | swift | superfast movements |
+| [superspeed](superspeed.md) | swift | superfast movements |
 | [telekinetis](telekinetis.md) | telekinetic, telky | mental control of objects |
 | [telepathy](telepathy.md) | telepath | mental communication |
 | [teleportation](teleportation.md) | teleporter | instant travel |
 | [terrakinetis](terrakinetis.md) | terrakinetic | earth control |
 | [vitakinetis](vitakinetis.md) | vitakinetic | life control |
 | – | weaver | silk shooting |
-| – | windwalker | walk on wind |
 | – | wrecker | super strength |
 | [ximic](ximic.md) | ximic | affinity copying |
-| – | cloudjumper | walk on clouds |
-| – | quake, ground/earth-shaker/breaker | shockwave generation |
 
 Change others' emotions
 Decay away materials on touch
 Can move through things
 Give others their ability
+
+spirit
+quake, ground/earth-shaker/breaker
+
+nightwalker
+shadow-walker
+windwalker
+frostwalker
+cloudjumper
