@@ -37,10 +37,42 @@
 
 ### New Generation
 
-| Nova | Entropy | Syzygy |
-| :--- | :------ | :----- |
-| Portal Nova <br> Portal Nova Plus | | |
-| Portal Nova Burst <br> Portal Nova S <br> Portal Nova Pro <br> Portal Nova Burst Pro | | |
-| Portal Nova Ray <br> Portal Nova Burst Ray <br> Portal Nova Lite <br> Portal Nova Lite Ray <br> | | |
-| Portal Nova X <br> Portal Nova Z <br> Portal Nova Burst Ray Z | | |
-| Portal Nova Ultra | | |
+<table>
+  <tr>
+    <th> Nova </th>
+    <th> Entropy </th>
+    <th> Syzygy </th>
+  </tr>
+  <tr>
+    <td>
+      Portal Nova <br>
+      Portal Nova Plus <br>
+      Portal Nova Burst <br>
+      Portal Nova S
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Portal Nova Pro <br>
+      Portal Nova Burst Pro <br>
+      Portal Nova Ray <br>
+      Portal Nova Burst Ray
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Portal Nova Lite <br>
+      Portal Nova Lite Ray <br>
+      Portal Nova X
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Portal Nova Z <br>
+      Portal Nova Burst Ray Z
+    </td>
+  </tr>
+  <tr>
+    <td> Portal Nova Ultra </td>
+  </tr>
+</table>
