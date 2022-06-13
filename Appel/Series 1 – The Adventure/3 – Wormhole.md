@@ -28,8 +28,8 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> ‹ <a href="The Cave.md"> The Cave </a> </td>
-    <td> <a href="Precision.md"> Precision </a> › </td>
+    <td> ‹ <a href="2 – The Cave.md"> The Cave </a> </td>
+    <td> <a href="4 – Precision.md"> Precision </a> › </td>
   </tr>
 </table>
 
