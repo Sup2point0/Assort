@@ -12,11 +12,11 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> types </td>
+    <td> type </td>
     <td> – </td>
   </tr>
   <tr>
-    <td> attributes </td>
+    <td> attribute </td>
     <td> – </td>
   </tr>
   <tr>
