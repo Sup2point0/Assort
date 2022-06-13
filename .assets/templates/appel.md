@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td> series </td>
-    <td> – </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/tree/main/Appel/–"> – </a> </td>
   </tr>
   <tr>
     <td> released </td>
