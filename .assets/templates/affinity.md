@@ -12,11 +12,15 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> type </td>
+    <td> types </td>
     <td> – </td>
   </tr>
   <tr>
-    <td> attribute/archetype </td>
+    <td> attributes </td>
+    <td> – </td>
+  </tr>
+  <tr>
+    <td> channels </td>
     <td> – </td>
   </tr>
   <tr>
@@ -50,7 +54,7 @@
     <th colspan="2"> <h4> Affinitics </h4> </th>
   </tr>
   <tr>
-    <td> abilities </td>
+    <td> skills </td>
     <td> – </td>
   </tr>
   <tr>
