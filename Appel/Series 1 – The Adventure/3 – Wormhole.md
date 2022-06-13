@@ -8,6 +8,10 @@
     <th colspan="2"> <h3> Wormhole </h3> </th>
   </tr>
   <tr>
+    <td> level </td>
+    <td> <a href=""> 1 </a> – 3 </td>
+  </tr>
+  <tr>
     <td> length </td>
     <td> – </td>
   </tr>
@@ -18,10 +22,6 @@
   <tr>
     <td> appels </td>
     <td> – </td>
-  </tr>
-  <tr>
-    <td> series </td>
-    <td> <a href="https://github.com/Sup2point0/Assort/tree/main/Appel/Series 1 – The Adventure"> 1 – The Adventure </a> </td>
   </tr>
   <tr>
     <td> released </td>
