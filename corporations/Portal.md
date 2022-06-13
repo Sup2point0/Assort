@@ -90,7 +90,7 @@
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2" align="center">
+    <td colspan="2" align="center">
       Portal Entropy Nova <br>
       Portal Entropy Nova (XLE)
     </td>
