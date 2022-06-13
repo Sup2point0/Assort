@@ -32,12 +32,12 @@
 
 <table>
   <th> blank </th>
-  <tr>
+  <tr> <td>
     Portal 1
     Portal 1X
-  </tr>
-  <tr>
+  </td> </tr>
+  <tr> <td>
     Portal 2 <br>
     Portal 2Y
-  </tr>
+  </td> </tr>
 </table>
