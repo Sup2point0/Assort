@@ -4,10 +4,10 @@
 | :------ | :----- |
 | [achillium](elements/achillium.md) | Ac |
 | [aetherium](elements/aetherium.md) | Ae |
-| [aloverium](elements/aloverium.md) | Al |
+| [aloverium](elements/aloverium.md) | Lv |
 | [alphon](elements/alphon.md) | A |
 | [anerium](elements/anerium.md) | An |
-| [aquillium](elements/aquillium.md) | Aq |
+| [aquilium](elements/aquilium.md) | Aq |
 | [archnium](elements/archnium.md) | Ar |
 | [arterium](elements/arterium.md) | At |
 | [aurium](elements/aurium.md) | Au |
@@ -17,7 +17,7 @@
 | [beton](elements/beton.md) | B |
 | [bloonarium](elements/bloonarium.md) | Br |
 | [bloontonium](elements/bloontonium.md) | Bt |
-| [bluestone](elements/bluestone.md) | Bl |
+| [bluestone](elements/bluestone.md) | Bs |
 | [cavium](elements/cavium.md) | Mc |
 | [celestium](elements/celestium.md) | Cs |
 | [criticine](elements/criticine.md) | Ct |
