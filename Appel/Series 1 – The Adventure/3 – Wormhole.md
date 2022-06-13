@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <th colspan="2"> <h3> – </h3> </th>
+    <th colspan="2"> <h3> Wormhole </h3> </th>
   </tr>
   <tr>
     <td> length </td>
@@ -28,8 +28,8 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> ‹ <a href="–"> – </a> </td>
-    <td> <a href="–"> – </a> › </td>
+    <td> ‹ <a href="The Cave.md"> The Cave </a> </td>
+    <td> <a href="Precision.md"> Precision </a> › </td>
   </tr>
 </table>
 
