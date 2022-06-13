@@ -47,30 +47,30 @@
     <td>
       Portal Nova <br>
       Portal Nova Plus <br>
-      Portal Nova Burst <br>
-      Portal Nova S
+      Portal Nova Burst
     </td>
     <td></td> <td></td>
   </tr>
   <tr>
     <td>
+      Portal Nova S <br>
       Portal Nova Pro <br>
-      Portal Nova Burst Pro <br>
+      Portal Nova Burst Pro
+    </td>
+    <td></td> <td></td>
+  </tr>
+  <tr>
+    <td>
       Portal Nova Ray <br>
-      Portal Nova Burst Ray
-    </td>
-    <td></td> <td></td>
-  </tr>
-  <tr>
-    <td>
+      Portal Nova Burst Ray <br>
       Portal Nova Lite <br>
-      Portal Nova Lite Ray <br>
-      Portal Nova X
+      Portal Nova Lite Ray
     </td>
     <td></td> <td></td>
   </tr>
   <tr>
     <td>
+      Portal Nova X <br>
       Portal Nova Z <br>
       Portal Nova Burst Ray Z
     </td>
