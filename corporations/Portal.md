@@ -24,3 +24,19 @@
     <td> Portal Nova </td>
   </tr>
 </table>
+
+
+## Phones
+
+### Original Series
+
+<table>
+  <tr>
+    Portal 1
+    Portal 1X
+  </tr>
+  <tr>
+    Portal 2 <br>
+    Portal 2Y
+  </tr>
+</table>
