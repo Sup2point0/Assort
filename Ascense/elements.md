@@ -4,7 +4,7 @@
 | :------ | :----- |
 | [achillium](elements/achillium.md) | Ac |
 | [aetherium](elements/aetherium.md) | Ae |
-| [aloverium](elements/aloverium.md) | – |
+| [aloverium](elements/aloverium.md) | Al |
 | [alphon](elements/alphon.md) | A |
 | [anerium](elements/anerium.md) | An |
 | [aquillium](elements/aquillium.md) | Aq |
