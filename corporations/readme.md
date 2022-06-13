@@ -27,7 +27,7 @@ An assortment of (fictional) corporations in all fields, but mostly technologics
 - [Molecure](Molecure.md)
 - [NeuroForce](NeuroForce.md)
 - [Plethoron](Plethoron.md)
-- [Portal](Portal.md)
+- [Portal](Portal/readme.md)
 - [Protocell](Protocell.md)
 - [Regna](Regna.md)
 - [Rubicon](Rubicon.md)
