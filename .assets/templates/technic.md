@@ -20,6 +20,14 @@
     <td> – </td>
   </tr>
   <tr>
+    <td> scope </td>
+    <td> – </td>
+  </tr>
+  <tr>
+    <td> value </td>
+    <td> – </td>
+  </tr>
+  <tr>
     <td> products </td>
     <td> – </td>
   </tr>
