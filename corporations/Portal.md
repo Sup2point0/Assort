@@ -80,4 +80,24 @@
     <td> Portal Nova Ultra </td>
     <td></td> <td></td>
   </tr>
+  <tr>
+    <td></td>
+    <td>
+      Portal Entropy S <br>
+      Portal Entropy R <br>
+      Portal Entropy Z <br>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2" align="center">
+      Portal Entropy Nova <br>
+      Portal Entropy Nova (XLE)
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> Portal Nova 2 </td>
+    <td></td> <td></td>
+  </tr>
 </table>
