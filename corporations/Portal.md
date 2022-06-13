@@ -100,4 +100,26 @@
     <td> Portal Nova 2 </td>
     <td></td> <td></td>
   </tr>
+  <tr>
+    <td></td> <td></td>
+    <td> Portal Syzygy </td>
+  </tr>
+  <tr>
+    <td></td> <td></td>
+    <td>
+      Portal Syzygy Alpha <br>
+      Portal Syzygy Delta
+    </td>
+  </tr>
+  <tr>
+    <td></td> <td></td>
+    <td>
+      Portal Syzygy Iota <br>
+      Portal Syzygy Zeta
+    </td>
+  </tr>
+  <tr>
+    <td></td> <td></td>
+    <td> Portal Syzygy Strium </td>
+  </tr>
 </table>
