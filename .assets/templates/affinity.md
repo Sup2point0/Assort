@@ -78,6 +78,10 @@
     <td> – </td>
   </tr>
   <tr>
+    <td> enhancement </td>
+    <td> – </td>
+  </tr>
+  <tr>
     <td> competency </td>
     <td> – </td>
   </tr>
