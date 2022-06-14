@@ -122,4 +122,53 @@
     <td></td> <td></td>
     <td> Portal Syzygy Strium </td>
   </tr>
+  <tr>
+    <td>
+      Portal Nova Strium <br>
+      Portal Nova Strium (XLE)
+    </td>
+  </tr>
 </table>
+
+### Next Generation
+
+<table>
+  <tr>
+    <th> Quadra </th>
+    <th> Nova </th>
+  </tr>
+  <tr>
+    <td>
+      Portal Quadra <br>
+      Portal Quadra Spectre <br>
+      Portal Quadra Spark <br>
+      Portal Quadra Nano
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td> Portal Nova Next </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      Portal Nova Cluster <br>
+      Portal Nova Centauri <br>
+      Portal Nova Creator
+    </td>
+  </tr>
+</table>
+
+
+## Desktop Components
+
+| keyboards | pointers | gamecard slots |
+| :-------- | :------- | :------------- |
+| Portal Radient Cell | Portal Litra | Portal Prism S |
+| Portal Radient Track | Portal Litra Magic <br> Portal Litra Pro <br> Portal Litra Lite | Portal Prism X |
+| Portal Radient Stream | Portal Litra 2.0 | Portal Prism Duo |
+| | | Portal Prism Z |
+| | | Portal Prism Triad |
+| | | Portal Prism (2nd gen) |
+| | | Portal Prism Duo X |
