@@ -114,9 +114,6 @@
 ## Classes
 
 
-## Skills
-
-
 ## Strengths
 
 
