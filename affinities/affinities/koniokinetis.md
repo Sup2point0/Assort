@@ -12,20 +12,20 @@
     <td> dust control </td>
   </tr>
   <tr>
-    <td> type </td>
-    <td> matter manipulation </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#types"> type </a> </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#matter manipulation"> matter manipulation </a> </td>
   </tr>
   <tr>
-    <td> attribute </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#attributes"> attribute </a> </td>
     <td> dust </td>
   </tr>
   <tr>
-    <td> channels </td>
-    <td> psychic </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#channels"> channels </a> </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#psychic"> psychic </a> </td>
   </tr>
   <tr>
-    <td> classes </td>
-    <td> specialyzation spectrus </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#classes"> classes </a> </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/–"> specialyzation spectrus </a> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Nomenclature </h4> </th>
@@ -54,8 +54,8 @@
     <th colspan="2"> <h4> Affinitics </h4> </th>
   </tr>
   <tr>
-    <td> abilities </td>
-    <td> mental manipulation of dust and other fine particulates </td>
+    <td> skills </td>
+    <td> psychic manipulation of dust and other fine particulates </td>
   </tr>
   <tr>
     <td> power </td>
@@ -66,19 +66,19 @@
     <td> very high </td>
   </tr>
   <tr>
-    <td> finesse </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#finesse"> finesse </a> </td>
     <td> extremely high </td>
   </tr>
   <tr>
-    <td> harmony </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#harmony"> harmony </a> </td>
     <td> moderate </td>
   </tr>
   <tr>
-    <td> synchrony </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#synchrony"> synchrony </a> </td>
     <td> variable (generally high) </td>
   </tr>
   <tr>
-    <td> enhancement </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#enhancement"> enhancement </a> </td>
     <td> very high </td>
   </tr>
   <tr>

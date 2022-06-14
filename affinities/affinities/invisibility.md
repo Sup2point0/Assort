@@ -12,20 +12,20 @@
     <td> becoming invisible or incorporeal </td>
   </tr>
   <tr>
-    <td> type </td>
-    <td> self-manipulation </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#types"> type </a> </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#self manipulation"> self manipulation </a> </td>
   </tr>
   <tr>
-    <td> attribute </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#attributes"> attribute </a> </td>
     <td> none </td>
   </tr>
   <tr>
-    <td> channels </td>
-    <td> psychic, haptic </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#channels"> channels </a> </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#psychic">psychic</a>, <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#haptic">haptic</a> </td>
   </tr>
   <tr>
-    <td> classes </td>
-    <td> absolute </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#classes"> classes </a> </td>
+    <td> <a href="#absolute">absolute</a> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Nomenclature </h4> </th>
@@ -66,19 +66,19 @@
     <td> extremely high </td>
   </tr>
   <tr>
-    <td> finesse </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#finesse"> finesse </a> </td>
     <td> very high </td>
   </tr>
   <tr>
-    <td> harmony </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#harmony"> harmony </a> </td>
     <td> very high </td>
   </tr>
   <tr>
-    <td> synchrony </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#synchrony"> synchrony </a> </td>
     <td> extremely high </td>
   </tr>
   <tr>
-    <td> enhancement </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#enhancement"> enhancement </a> </td>
     <td> very low </td>
   </tr>
   <tr>
@@ -112,6 +112,10 @@
 
 
 ## Classes
+
+### Absolute
+
+test
 
 
 ## Skills
