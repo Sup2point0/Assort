@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td> classes </td>
-    <td> flexible (specialyzed–unspecialyzed) </td>
+    <td> specialyzation spectrus </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Nomenclature </h4> </th>
@@ -76,6 +76,10 @@
   <tr>
     <td> synchrony </td>
     <td> variable (generally high) </td>
+  </tr>
+  <tr>
+    <td> enhancement </td>
+    <td> very high </td>
   </tr>
   <tr>
     <td> competency </td>

@@ -1,6 +1,6 @@
 # Invisibility
 
-> **
+> *One of the oldest affinities, the ability to render oneself invisible to others.*
 
 
 <table>
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code> /–/ </code> </td>
+    <td> <code> /ɪnvɪzɪ'bɪlɪti/ </code> </td>
   </tr>
   <tr>
     <td> affinitic </td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td> etymologics </td>
-    <td> – </td>
+    <td> English <em>invisibility</em> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Affinitics </h4> </th>
@@ -76,6 +76,10 @@
   <tr>
     <td> synchrony </td>
     <td> extremely high </td>
+  </tr>
+  <tr>
+    <td> enhancement </td>
+    <td> very low </td>
   </tr>
   <tr>
     <td> competency </td>
