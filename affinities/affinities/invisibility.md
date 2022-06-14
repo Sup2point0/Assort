@@ -113,30 +113,6 @@
 
 ## Classes
 
-l
-
-l
-
-l
-
-l
-
-l
-
-### Absolute
-
-l
-
-l
-
-l
-
-l
-
-l
-
-test
-
 
 ## Skills
 
