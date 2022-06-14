@@ -16,7 +16,7 @@ An assortment of (fictional) corporations in all fields, but mostly technologics
 - [Evaze](Evaze.md)
 - [Fuze](Fuze.md)
 - [Galactron](Galactron.md)
-- [HiTech](HiTech.md)
+- [HiTech](HiTech/readme.md)
 - [Infrare](Infrare.md)
 - [Injekt](Injekt.md)
 - [Innovision](Innovision.md)
