@@ -106,7 +106,7 @@
   </tr>
   <tr>
     <td> related </td>
-    <td> <a href="flight"> flight, </a><a href="camoflage"> camoflage </a> </td>
+    <td> <a href="flight">flight</a>, <a href="camoflage">camoflage</a> </td>
   </tr>
 </table>
 

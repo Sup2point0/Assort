@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td> etymologics </td>
-    <td> Greek <em>konio</em> ‘dust’ + Antarctican English <em>kinetis</em> ‘supernatural manipulation’ </td>
+    <td> Greek <em>konio</em> ‘dust’ + Antarctican English <em>kinetis</em> ‘supernatural movement manipulation’ </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Affinitics </h4> </th>
@@ -98,7 +98,7 @@
   </tr>
   <tr>
     <td> derivation </td>
-    <td> <a href="–"> telekinesis </a> </td>
+    <td> <a href="telekinetis.md"> telekinetis </a> </td>
   </tr>
   <tr>
     <td> derivatives </td>
