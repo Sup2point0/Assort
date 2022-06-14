@@ -127,6 +127,7 @@
       Portal Nova Strium <br>
       Portal Nova Strium (XLE)
     </td>
+    <td></td> <td></td>
   </tr>
 </table>
 
