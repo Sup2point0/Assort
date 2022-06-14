@@ -12,19 +12,19 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> type </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#types"> type </a> </td>
     <td> – </td>
   </tr>
   <tr>
-    <td> attribute </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#attributes"> attribute </a> </td>
     <td> – </td>
   </tr>
   <tr>
-    <td> channels </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#channels"> channels </a> </td>
     <td> – </td>
   </tr>
   <tr>
-    <td> classes </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#classes"> classes </a> </td>
     <td> – </td>
   </tr>
   <tr>
@@ -66,19 +66,19 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> finesse </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#finesse"> finesse </a> </td>
     <td> – </td>
   </tr>
   <tr>
-    <td> harmony </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#harmony"> harmony </a> </td>
     <td> – </td>
   </tr>
   <tr>
-    <td> synchrony </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#synchrony"> synchrony </a> </td>
     <td> – </td>
   </tr>
   <tr>
-    <td> enhancement </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#enhancement"> enhancement </a> </td>
     <td> – </td>
   </tr>
   <tr>
