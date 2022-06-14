@@ -123,8 +123,8 @@
   <tr>
     <th> standard </th>
     <td> <a href="#Auto Invisibility"> <em>autoinvisibilis</em> </a> </td>
-    <td> <a href="#Haptic Viral Invisibility"> <em>haptonovis</em> </a> </td>
-    <td> <a href="#Haptic Viral Invisibility"> <em>psychonovis</em> </a> </td>
+    <td> <a href="#Viral Invisibility"> <em>haptonovis</em> </a> </td>
+    <td> <a href="#Viral Invisibility"> <em>psychonovis</em> </a> </td>
   </tr>
   <tr>
     <th> <a href="#Absolute Invisibility"> absolute </a> </th>
@@ -137,14 +137,12 @@
 ### Auto Invisibility
 *autoinvisibilis* – turn oneself invisible.
 
-### Haptic Viral Invisibility
+### Viral Invisibility
 *haptonovis* – turn objects invisible with touch.
-
-### Psychic Viral Invisibility
 *psychonovis* – turn objects invisible with mind.
 
 ### Absolute Invisibility
-*ultra-invisibilis* (superclass) – turn object incorporeal
+*ultra-invisibilis* (superclass) – turn objects incorporeal.
 
 
 ## Skills
