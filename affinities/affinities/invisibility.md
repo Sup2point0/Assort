@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#types"> type </a> </td>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#self manipulation"> self manipulation </a> </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#self manipulation"> self manipulation, matter manipulation </a> </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#attributes"> attribute </a> </td>
@@ -25,14 +25,14 @@
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#classes"> classes </a> </td>
-    <td> <a href="#absolute">absolute</a> </td>
+    <td> viral (<em>novis</em>), <a href="#absolute">absolute</a> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Nomenclature </h4> </th>
   </tr>
   <tr>
     <td> alternatives </td>
-    <td> <em>invisibilis</em>, <em>novis</em> </td>
+    <td> <em>invisibilis</em> </td>
   </tr>
   <tr>
     <td> pronunciation </td>
@@ -113,9 +113,38 @@
 
 ## Classes
 
-- auto invisibility (*autonovis*) – 
-- absolute invisibility (*ultranovis*) – 
-- haptic invisibility (*haptonovis*) – 
+<table>
+  <tr>
+    <td></td>
+    <th> auto </td>
+    <th> haptic viral </td>
+    <th> psychic viral </td>
+  </tr>
+  <tr>
+    <th> standard </th>
+    <td> <a href="#Auto Invisibility"> <em>autoinvisibilis</em> </a> </td>
+    <td> <a href="#Haptic Viral Invisibility"> <em>haptonovis</em> </a> </td>
+    <td> <a href="#Haptic Viral Invisibility"> <em>psychonovis</em> </a> </td>
+  </tr>
+  <tr>
+    <th> <a href="#Absolute Invisibility"> absolute </a> </th>
+    <td> <em>ultra-autoinvisibilis</em> </td>
+    <td> <em>ultrahaptonovis</em> </td>
+    <td> <em>ultrapsychonovis</em> </td>
+  </tr>
+</table>
+
+### Auto Invisibility
+*autoinvisibilis* – turn oneself invisible.
+
+### Haptic Viral Invisibility
+*haptonovis* – turn objects invisible with touch.
+
+### Psychic Viral Invisibility
+*psychonovis* – turn objects invisible with mind.
+
+### Absolute Invisibility
+*ultra-invisibilis* (superclass) – turn object incorporeal
 
 
 ## Skills
