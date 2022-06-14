@@ -1,5 +1,7 @@
 # Invisibility
 
+> Not to be confused with *[novis](novis.md)* – viral invisiblity.
+
 > *One of the oldest affinities, the ability to render oneself invisible to others.*
 
 
@@ -9,11 +11,11 @@
   </tr>
   <tr>
     <td> ability </td>
-    <td> becoming invisible or incorporeal </td>
+    <td> become invisible or incorporeal </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#types"> type </a> </td>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#self manipulation"> self manipulation, matter manipulation </a> </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#self manipulation"> self manipulation </a> </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#attributes"> attribute </a> </td>
@@ -21,11 +23,11 @@
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#channels"> channels </a> </td>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#psychic">psychic</a>, <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#haptic">haptic</a> </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#psychic"> psychic </a> </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#classes"> classes </a> </td>
-    <td> viral (<em>novis</em>), <a href="#absolute">absolute</a> </td>
+    <td> <a href="#absolute">absolute</a> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Nomenclature </h4> </th>
@@ -36,15 +38,15 @@
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code> /ɪnvɪzɪ'bɪlɪti/ </code> </td>
+    <td> <code>/ɪnvɪzɪ'bɪlɪti/</code>, <code>/ɪnvɪzɪ'bɪlɪs/</code> </td>
   </tr>
   <tr>
     <td> affinitic </td>
-    <td> – </td>
+    <td> invisitron </td>
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code> /–/ </code> </td>
+    <td> <code> /ɪn'vɪzɪtrɒn/ </code> </td>
   </tr>
   <tr>
     <td> etymologics </td>
@@ -55,7 +57,7 @@
   </tr>
   <tr>
     <td> skills </td>
-    <td> become invisible <br> become incorporeal <br> turn other things invisible </td>
+    <td> become invisible <br> become incorporeal </td>
   </tr>
   <tr>
     <td> power </td>
@@ -102,7 +104,7 @@
   </tr>
   <tr>
     <td> derivatives </td>
-    <td> none </td>
+    <td> <a href="novis.md"> novis </a> </td>
   </tr>
   <tr>
     <td> related </td>
@@ -143,9 +145,6 @@
 
 ### Absolute Invisibility
 *ultra-invisibilis* (superclass) – turn objects incorporeal.
-
-
-## Skills
 
 
 ## Strengths
