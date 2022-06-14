@@ -1,7 +1,5 @@
 # Cores
 
-{WIP}
-
 - Turbocharged XI SuperFusion Core
 - Z/X Fusion Core+
 - Z/X Fusion Core
