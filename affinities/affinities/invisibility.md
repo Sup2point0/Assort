@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td> alternatives </td>
-    <td> – </td>
+    <td> <em>invisibilis</em>, <em>novis</em> </td>
   </tr>
   <tr>
     <td> pronunciation </td>
@@ -112,6 +112,10 @@
 
 
 ## Classes
+
+- auto invisibility (*autonovis*) – 
+- absolute invisibility (*ultranovis*) – 
+- haptic invisibility (*haptonovis*) – 
 
 
 ## Skills
