@@ -50,7 +50,6 @@
 | [gyrogen](elements/gyrogen.md) | Gy |
 | [hikarium](elements/hikarium.md) | Ph |
 | [ignitium](elements/ignitium.md) | It |
-| [imperium](elements/imperium.md) | Im |
 | [integrium](elements/integrium.md) | In |
 | [intrisium](elements/intrisium.md) | Is |
 | [iotanium](elements/iotanium.md) | I |
@@ -107,7 +106,7 @@
 | [superium](elements/superium.md) | Sp |
 | [symbium](elements/symbium.md) | Sy |
 | [syzocium](elements/syzocium.md) | Sz |
-| [taygon](elements/taygon.md) | Tg |
+| [taygon](elements/taygon.md) | Ty |
 | [technocium](elements/technocium.md) | Tc |
 | [trinitium](elements/trinitium.md) | Tn |
 | [trycogen](elements/trycogen.md) | T |
