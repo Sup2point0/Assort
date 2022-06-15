@@ -25,6 +25,7 @@
 | [enzokinetis](affinities/enzokinetis.md) | enzokinetic | chemical reaction control |
 | [ergokinetis](affinities/ergokinetis.md) | ergokinetic | energy control |
 | [explodokinetis](affinities/explodokinetis.md) | explodokinetic, bomber | explosion control |
+| [externis](affinities/externis.md) | externus | alter material composition |
 | [florokinetis](affinities/florokinetis.md) | florokinetic | flower and scent control |
 | – | force | force control |
 | [geokinetis](affinities/geokinetis.md) | geokinetic | Control dirt and rocks |
@@ -34,6 +35,7 @@
 | [hydrokinetis](affinities/hydrokinetis.md) | hydrokinetic, nymph | water control |
 | [illusionis](affinities/illusionis.md) | illusionist | illusion control |
 | [imperius](affinities/imperius.md) | whisper | mind control |
+| [internis](affinities/internis.md) | internus | alter own body material |
 | [invisibility](affinities/invisibility.md) | invisitron | turn invisible or incorporeal |
 | [invulnerability](affinities/invulnerability.md) | impervious | impervious to harm |
 | [cincinnis](affinities/cincinnic.md) | cincinnic, key | lock control |
@@ -59,7 +61,7 @@
 | [somnis](affinities/somnis.md) | somnos | sleep control |
 | [sonokinetis](affinities/sonokinetis.md) | sonokinetic | sound control |
 | – | superior | affinity learning |
-| [superspeed](affinities/superspeed.md) | swift | superfast movements |
+| [accelis](affinities/superspeed.md) | accelus, swift | superfast movements |
 | [telekinetis](affinities/telekinetis.md) | telekinetic, telky, psychokinetic | mental control of objects |
 | [telepathy](affinities/telepathy.md) | telepath | mental communication |
 | [teleportation](affinities/teleportation.md) | teleporter | instant travel |
