@@ -1,6 +1,6 @@
 # Novis
 
-
+> *Not to be confused with [invisibility](invisibility.md).*
 
 
 <table>

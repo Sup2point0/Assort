@@ -2,7 +2,7 @@
 
 > *Not to be confused with [novis](novis.md) (viral invisiblity) or [incorporealis](incorporealis.md) (absolute invisibility).*
 
-One of the oldest affinities, the ability to render oneself invisible to others.
+One of the oldest affinities, the ability to render oneself invisible.
 
 
 <table>
