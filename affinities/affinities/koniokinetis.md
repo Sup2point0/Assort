@@ -1,6 +1,6 @@
 # Koniokinetis
 
-> *A highly specialyzed derivative of telekinetis, opting only to control dust and other fine particulates, which gives finer control and stronger power.*
+A highly specialyzed derivative of telekinetis, opting only to control dust and other fine particulates, which gives finer control and stronger power.
 
 
 <table>
