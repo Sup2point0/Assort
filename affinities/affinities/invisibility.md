@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td> ability </td>
-    <td> become invisible or incorporeal </td>
+    <td> turn self invisible </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#types"> type </a> </td>
@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td> skills </td>
-    <td> become invisible <br> become incorporeal </td>
+    <td> become invisible </td>
   </tr>
   <tr>
     <td> power </td>
@@ -104,7 +104,7 @@
   </tr>
   <tr>
     <td> derivatives </td>
-    <td> <a href="novis.md"> novis </a> </td>
+    <td> <a href="novis.md">novis</a>, <a href="incorporealis.md">incorporealis</a> </td>
   </tr>
   <tr>
     <td> related </td>
@@ -114,37 +114,6 @@
 
 
 ## Classes
-
-<table>
-  <tr>
-    <td></td>
-    <th> auto </td>
-    <th> haptic viral </td>
-    <th> psychic viral </td>
-  </tr>
-  <tr>
-    <th> standard </th>
-    <td> <a href="#Auto Invisibility"> <em>autoinvisibilis</em> </a> </td>
-    <td> <a href="#Viral Invisibility"> <em>haptonovis</em> </a> </td>
-    <td> <a href="#Viral Invisibility"> <em>psychonovis</em> </a> </td>
-  </tr>
-  <tr>
-    <th> <a href="#Absolute Invisibility"> absolute </a> </th>
-    <td> <em>ultra-autoinvisibilis</em> </td>
-    <td> <em>ultrahaptonovis</em> </td>
-    <td> <em>ultrapsychonovis</em> </td>
-  </tr>
-</table>
-
-### Auto Invisibility
-*autoinvisibilis* – turn oneself invisible.
-
-### Viral Invisibility
-*haptonovis* – turn objects invisible with touch.
-*psychonovis* – turn objects invisible with mind.
-
-### Absolute Invisibility
-*ultra-invisibilis* (superclass) – turn objects incorporeal.
 
 
 ## Strengths
