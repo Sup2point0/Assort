@@ -27,7 +27,7 @@ One of the oldest affinities, the ability to render oneself invisible.
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#classes"> classes </a> </td>
-    <td> <a href="#absolute">absolute</a> </td>
+    <td> none </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Nomenclature </h4> </th>

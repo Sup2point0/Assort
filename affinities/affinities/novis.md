@@ -48,14 +48,14 @@
   </tr>
   <tr>
     <td> etymologics </td>
-    <td> – </td>
+    <td> Lorien, possibly English *no* + *vis* from ‘visibility’ </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Affinitics </h4> </th>
   </tr>
   <tr>
     <td> skills </td>
-    <td> turn other objects invisible <br> turn other objects incorporeal </td>
+    <td> turn other objects invisible/incorporeal </td>
   </tr>
   <tr>
     <td> power </td>
