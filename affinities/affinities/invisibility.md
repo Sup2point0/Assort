@@ -1,6 +1,6 @@
 # Invisibility
 
-> *Not to be confused with <br> [novis](novis.md) – viral invisiblity <br> [incorporealis](incorporealis.md) – absolute invisibility*
+> *Not to be confused with [novis](novis.md) (viral invisiblity) or [incorporealis](incorporealis.md) (absolute invisibility).*
 
 One of the oldest affinities, the ability to render oneself invisible to others.
 
