@@ -108,7 +108,7 @@ One of the oldest affinities, the ability to render oneself invisible.
   </tr>
   <tr>
     <td> derivatives </td>
-    <td> <a href="novis.md">novis</a>, <a href="incorporealis.md">incorporealis</a> </td>
+    <td> <a href="novis.md"> novis </a> </td>
   </tr>
   <tr>
     <td> related </td>

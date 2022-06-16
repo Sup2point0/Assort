@@ -36,81 +36,81 @@
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code>/ˌɪnkəˈpɔːrɪalɪs, ˌɪnkɔːˈpɔːrɪalɪs/</code>, <code>/ˌɪnkə'pɔːrɪalɪti, ˌɪnkɔː'pɔːrɪalɪti/</code> </td>
+    <td> <code>/ˌɪnkəˈpɔːrɪalɪs, ˌɪnkɔːˈpɔːrɪalɪs/</code>, <code>/ˌɪnkəˈpɔːrɪalɪti, ˌɪnkɔːˈpɔːrɪalɪti/</code> </td>
   </tr>
   <tr>
     <td> affinitic </td>
-    <td> – </td>
+    <td> spectre </td>
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code> /–/ </code> </td>
+    <td> <code> /'spɛktə/ </code> </td>
   </tr>
   <tr>
     <td> etymologics </td>
-    <td> – </td>
+    <td> English *incorporeal* + Antarctican *-is* ‘affinity’ </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Affinitics </h4> </th>
   </tr>
   <tr>
     <td> skills </td>
-    <td> – </td>
+    <td> become incorporeal </td>
   </tr>
   <tr>
     <td> power </td>
-    <td> – </td>
+    <td> none </td>
   </tr>
   <tr>
     <td> control </td>
-    <td> – </td>
+    <td> high </td>
   </tr>
   <tr>
     <td> endurance </td>
-    <td> – </td>
+    <td> standard </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#finesse"> finesse </a> </td>
-    <td> – </td>
+    <td> very high </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#harmony"> harmony </a> </td>
-    <td> – </td>
+    <td> high </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#synchrony"> synchrony </a> </td>
-    <td> – </td>
+    <td> very high </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#enhancement"> enhancement </a> </td>
-    <td> – </td>
+    <td> low </td>
   </tr>
   <tr>
     <td> competency </td>
-    <td> – </td>
+    <td> difficult </td>
   </tr>
   <tr>
     <td> mastery </td>
-    <td> – </td>
+    <td> difficult </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Genetics </h4> </th>
   </tr>
   <tr>
     <td> rarity </td>
-    <td> – </td>
+    <td> low </td>
   </tr>
   <tr>
     <td> derivation </td>
-    <td> – </td>
+    <td> prime </td>
   </tr>
   <tr>
     <td> derivatives </td>
-    <td> – </td>
+    <td> <a href="novis.md"> novis </a> </td>
   </tr>
   <tr>
     <td> related </td>
-    <td> <a href="–"> – </a> </td>
+    <td> <a href="internis.md"> internis </a> </td>
   </tr>
 </table>
 
