@@ -66,6 +66,10 @@ A highly specialyzed derivative of telekinetis, opting only to control dust and 
     <td> very high </td>
   </tr>
   <tr>
+    <td> endurance </td>
+    <td> moderate </td>
+  </tr>
+  <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#finesse"> finesse </a> </td>
     <td> extremely high </td>
   </tr>
