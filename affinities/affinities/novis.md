@@ -66,6 +66,10 @@
     <td> high </td>
   </tr>
   <tr>
+    <td> endurance </td>
+    <td> high </td>
+  </tr>
+  <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#finesse"> finesse </a> </td>
     <td> high </td>
   </tr>

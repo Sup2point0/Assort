@@ -68,6 +68,10 @@ One of the oldest affinities, the ability to render oneself invisible.
     <td> extremely high </td>
   </tr>
   <tr>
+    <td> endurance </td>
+    <td> very high </td>
+  </tr>
+  <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#finesse"> finesse </a> </td>
     <td> very high </td>
   </tr>

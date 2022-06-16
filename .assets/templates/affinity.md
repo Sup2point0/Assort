@@ -66,11 +66,11 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#finesse"> finesse </a> </td>
+    <td> endurance </td>
     <td> – </td>
   </tr>
   <tr>
-    <td> endurance </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#finesse"> finesse </a> </td>
     <td> – </td>
   </tr>
   <tr>
