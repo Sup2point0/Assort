@@ -4,6 +4,7 @@
 | :------- | :-------- | :------ |
 | [accelis](affinities/superspeed.md) | accelus, swift | superfast movements |
 | [aerokinetis](affinities/aerokinetis.md) | aerokinetic, gust | air control |
+| [aeternis](affinities/aeternis.md) | aeternus | alter own age |
 | [amaris](affinities/amaris.md) | amaros | love control |
 | [anemokinetis](affinities/anemokinetis.md) | anemokinetic, windweaver | wind control |
 | – | animos | enhanced sense |
