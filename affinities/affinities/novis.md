@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#channels"> channels </a> </td>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#haptic">haptic</a>, <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#psychic">psychic</a> </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#haptic">haptic</a>, <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#optic">optic</a>, <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#haptic">haptic</a> </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#classes"> classes </a> </td>
@@ -106,7 +106,7 @@
   </tr>
   <tr>
     <td> derivatives </td>
-    <td> – </td>
+    <td> none </td>
   </tr>
   <tr>
     <td> related </td>
@@ -116,6 +116,29 @@
 
 
 ## Classes
+
+<table>
+  <tr>
+    <td></td>
+    <th colspan="2"> standard </th>
+    <th colspan="2"> absolute </th>
+  </tr>
+  <tr>
+    <td></td>
+    <th> instant </th>
+    <th> lingering </th>
+  <tr>
+  <tr>
+    <th> haptic </th>
+    <td> <em>haptonovis</em>, <em>instahaptonovis</em> </td>
+  </tr>
+  <tr>
+    <th> optic </th>
+  </tr>
+  <tr>
+    <th> psychic </th>
+  </tr>
+</table>
 
 
 ## Strengths
