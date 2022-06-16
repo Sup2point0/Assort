@@ -70,6 +70,10 @@
     <td> – </td>
   </tr>
   <tr>
+    <td> endurance </td>
+    <td> – </td>
+  </tr>
+  <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#harmony"> harmony </a> </td>
     <td> – </td>
   </tr>
