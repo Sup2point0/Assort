@@ -23,7 +23,7 @@ One of the oldest affinities, the ability to render oneself invisible.
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#channels"> channels </a> </td>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#psychic"> psychic </a> </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#innate"> innate </a> </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/main/affinities/readme.md#classes"> classes </a> </td>
