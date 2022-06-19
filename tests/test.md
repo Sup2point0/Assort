@@ -8,4 +8,4 @@ jumps over the lazy dog
 
 | head | head |
 | :--- | :--- |
-| ![](https://github.com/Sup2point0/Assort/blob/main/.assets/kenzokinetics/receptor.key.png) | ![](https://github.com/Sup2point0/Assort/blob/main/.assets/kenzokinetics/receptor.lock.png) |
+| ![](https://github.com/Sup2point0/Assort/blob/main/.assets/kenzokinetics/receptor.key.png) <br> caption | ![](https://github.com/Sup2point0/Assort/blob/main/.assets/kenzokinetics/receptor.lock.png) |
