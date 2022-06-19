@@ -5,26 +5,24 @@
 
 ## Series I
 
-+ Training: Stage I – Navigation
-+ Training: Stage II – Takedown
-+ Training: Stage III – Induction
-
-+ Operation Danger Sky – Assault
-+ Operation Danger Sky – Fort
-+ Operation Red Dawn – Lockdown
-+ Operation Red Dawn – Laboratory
-+ Operation Dark Storm – Whirlwind
-+ Operation Dark Storm – Power Plant
-+ Operation Silver Lightning
-
+- Training: Stage I – Navigation
+- Training: Stage II – Takedown
+- Training: Stage III – Induction
+- Operation Danger Sky – Assault
+- Operation Danger Sky – Fort
+- Operation Red Dawn – Lockdown
+- Operation Red Dawn – Laboratory
+- Operation Dark Storm – Whirlwind
+- Operation Dark Storm – Power Plant
+- Operation Silver Lightning
 - Mission: Base V
 - Mission: Node R
+
 
 ## Series II
 
 - Training: Stage IV  Genesis
 - Training: Stage V  Boss
-
 - Operation Yellow Cross – Village
 - Operation Yellow Cross – Pyramid
 - Operation Glass Sword – Shields
@@ -33,16 +31,15 @@
 - Operation Black Sea – Hurricane
 - Operation White Thunder – Blitz
 - Operation White Thunder – Island
-
 - Mission: Path L
 - Mission: Link S
+
 
 ## Series III
 
 - Mastery I  Control
 - Mastery II  Precision
 - Mastery III  Showdown
-
 - Operation Grey Wind
 - Operation Grey Wind – Cyclone
 - Operation Blue Horizon – Ocean
@@ -52,9 +49,9 @@
 - Operation Dark Void – Vortex
 - Operation Dark Void – End
 - Operation Last Stand
-
 - Mission: Code X
 - Mission: Nova Z
+
 
 ## Series IV
 
