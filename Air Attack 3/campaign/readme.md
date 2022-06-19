@@ -2,6 +2,7 @@
 
 {desc}
 
+<br>
 
 ## Series I
 
@@ -18,6 +19,7 @@
 - Mission: Base V
 - Mission: Node R
 
+<br>
 
 ## Series II
 
@@ -34,6 +36,7 @@
 - Mission: Path L
 - Mission: Link S
 
+<br>
 
 ## Series III
 
@@ -52,6 +55,7 @@
 - Mission: Code X
 - Mission: Nova Z
 
+<br>
 
 ## Series IV
 
