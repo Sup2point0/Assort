@@ -1,4 +1,4 @@
-> *So way back during lockdown when the Caves and Cliffs update for minecraft 1.17 was announced, I came up with a bunch of cool ideas and enhancements. Unfortunately it doesn't look like any made it in, but hey, still the coolest update ever.*
+So way back during lockdown when the Caves and Cliffs update for minecraft 1.17 was announced, I came up with a bunch of cool ideas and enhancements. Unfortunately it doesn't look like any made it in, but hey, still the coolest update ever.
 
 
 ## Ideas for Minecraft 1.17
