@@ -2,10 +2,13 @@
 
 
 ## Index
-- Cells
-- Membranes
-- Shields
-- Spikes
-- Thrusters
-- Pulsars
-- Cores
+- Cell
+- Membrane
+- Shield
+- Receptor
+- Spike
+- Claw
+- Thruster
+- Turret
+- Pulsar
+- Core
