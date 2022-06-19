@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td> products </td>
-    <td> <a href="#New Generation"> Portal Nova </a> </td>
+    <td> <a href="#Next-Generation"> Portal Nova </a> </td>
   </tr>
 </table>
 
