@@ -3,28 +3,24 @@
 {desc}
 
 
-### Series I
+## Series I
 
-- Training: Stage I – Navigation
-- Training: Stage II – Takedown
-- Training: Stage III – Induction
++ Training: Stage I – Navigation
++ Training: Stage II – Takedown
++ Training: Stage III – Induction
 
-<br>
-
-- Operation Danger Sky – Assault
-- Operation Danger Sky – Fort
-- Operation Red Dawn – Lockdown
-- Operation Red Dawn – Laboratory
-- Operation Dark Storm – Whirlwind
-- Operation Dark Storm – Power Plant
-- Operation Silver Lightning
-
-<br>
++ Operation Danger Sky – Assault
++ Operation Danger Sky – Fort
++ Operation Red Dawn – Lockdown
++ Operation Red Dawn – Laboratory
++ Operation Dark Storm – Whirlwind
++ Operation Dark Storm – Power Plant
++ Operation Silver Lightning
 
 - Mission: Base V
 - Mission: Node R
 
-### Series II
+## Series II
 
 - Training: Stage IV  Genesis
 - Training: Stage V  Boss
@@ -41,7 +37,7 @@
 - Mission: Path L
 - Mission: Link S
 
-### Series III
+## Series III
 
 - Mastery I  Control
 - Mastery II  Precision
@@ -60,7 +56,7 @@
 - Mission: Code X
 - Mission: Nova Z
 
-### Series IV
+## Series IV
 
 - Operation Space Z – Island
 - Operation Space Z – Runway
