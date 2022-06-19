@@ -8,4 +8,4 @@ This is ridiculous.
 
 Atrocious.
 
-Just Go.
+Just go.
