@@ -1,5 +1,4 @@
 # Sea Adventure
 
-Monster Forest
-\
-Sky Savannah
+Monster Forest \
+Sky Savannah \
