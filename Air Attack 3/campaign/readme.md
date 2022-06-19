@@ -9,6 +9,8 @@
 - Training: Stage II – Takedown
 - Training: Stage III – Induction
 
+<br>
+
 - Operation Danger Sky – Assault
 - Operation Danger Sky – Fort
 - Operation Red Dawn – Lockdown
@@ -16,6 +18,8 @@
 - Operation Dark Storm – Whirlwind
 - Operation Dark Storm – Power Plant
 - Operation Silver Lightning
+
+<br>
 
 - Mission: Base V
 - Mission: Node R
