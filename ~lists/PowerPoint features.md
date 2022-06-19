@@ -1,4 +1,4 @@
-PowerPoint is *so* awesome. But like anything, there's still plenty of room for improvement, and there are loads of features I'd love to see!
+> *PowerPoint is **so** awesome. But like anything, there's still plenty of room for improvement, and there are loads of features I'd love to see!*
 
 
 ## Features I'd Love in PowerPoint
