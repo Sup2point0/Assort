@@ -25,6 +25,7 @@
   </tr>
 </table>
 
+<br>
 
 ## Laptops
 
@@ -61,6 +62,7 @@
 | HiTech Vision Connect S <br> HiTech Vision Connect V |
 | HiTech Vision Connect X <br> HiTech Vision Connect Z |
 
+<br>
 
 ## Desktop Components
 
@@ -70,6 +72,7 @@
 | HiTech K2 Linear <br> HiTech Linear Expanded <br> HiTech Linear Mech <br> HiTech Linear Mech Expanded | HiTech J2 Range <br> HiTech J2 Synchron <br> HiTech J2 Pro | HiTech L2 |
 | HiTech K3 Linear <br> HiTech K3 Linear Extra <br> HiTech K3 Linear Plus <br> HiTech K3 Linear Mech <br> HiTech K3 Linear Mech Extra <br> HiTech K3 Linear Mech Plus <br> HiTech K3 Studio <br> HiTech K3 Studio Plus <br> HiTech K3 Studio Ultra | HiTech J3 Range <br> HiTech J3 Synchron <br> HiTech J3 Pro <br> HiTech J3 Studio | |
 
+<br>
 
 ## Cores
 
