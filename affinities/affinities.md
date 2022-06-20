@@ -4,8 +4,8 @@
 | :------- | :-------- | :------ |
 | [accelis](affinities/superspeed.md) | accelus, swift | superfast movements |
 | [aerokinetis](affinities/aerokinetis.md) | aerokinetic, gust | air control |
-| [aeternis](affinities/aeternis.md) | aeternus | alter own age |
-| [amaris](affinities/amaris.md) | amaros | love control |
+| [aeternis](affinities/aeternis.md) | aeternus, eternal | alter own age |
+| [amatokinetis](affinities/amatokinetis.md) | amatokinetis, amaros | love control |
 | [anemokinetis](affinities/anemokinetis.md) | anemokinetic, windweaver | wind control |
 | – | animos | enhanced sense |
 | [automorphis](affinities/metamorphis.md) | automorphic, shapeshifter | self appearance alteration |
@@ -44,6 +44,7 @@
 | [cincinnis](affinities/cincinnic.md) | cincinnic, key | lock control |
 | [koniokinetis](affinities/koniokinetis.md) | koniokinetic | dust control |
 | [laservision](affinities/laservision.md) | lasitron | shooting lasers from eyes |
+| [legacy](affinities/legacy.md) | legend, legatron | affinity gifting |
 | [flight](affinities/flight.md) | levitron | fly |
 | [metallokinetis](affinities/metallokinetis.md) | metallokinetic, magnetron | metal control |
 | [metakinetis](affinities/metakinetis.md) | metakinetic | weather control |
@@ -51,7 +52,7 @@
 | [necromancy](affinities/necromancy.md) | necromancer | dead control |
 | [necronaucy](affinities/necronaucy.md) | necronaut | venture into realm of the dead |
 | [novis](affinities/novis.md) | novus | turn objects invisible or incorporeal |
-| [oblivius](affinities/oblivius.md) | oblivion | item detonation |
+| [oblivius](affinities/oblivius.md) | oblivion | item decay |
 | [photokinetis](affinities/photokinetis.md) | photokinetic | light control |
 | [phytokinetis](affinities/phytokinetis.md) | phytokinetic | plant control |
 | [plagis](affinities/plagis.md) | poison | poison touch |
@@ -73,10 +74,14 @@
 | – | wrecker | super strength |
 | [ximis](affinities/ximic.md) | ximic | affinity copying |
 
-Change others' emotions
-Decay away materials on touch
-Can move through things
-Give others their ability
+<br>
+
+## Superaffinities
+
+| superaffinity | superaffinitic | ability |
+| :------------ | :------------- | :------ |
+| [void](affinities/void.md) | – | void manipulation |
+
 
 spirit
 quake, ground/earth-shaker/breaker
