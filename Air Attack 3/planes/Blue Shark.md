@@ -28,6 +28,10 @@
     <td> Homing Missile </td>
   </tr>
   <tr>
+    <td> boost </td>
+    <td> +10% coin earning </td>
+  </tr>
+  <tr>
     <th colspan="2"> <h3> Miscellaneous </h3> </th>
   </tr>
   <tr>
@@ -47,7 +51,7 @@
 | stars | cost | upgrades |
 | :---- | :--- | :------- |
 | ⭐️⭐️ | 🔸1000 | unlocks ability + colours |
-| ⭐️⭐️⭐️ | 🔸8000 | unlocks buff + body custolyzation |
+| ⭐️⭐️⭐️ | 🔸8000 | unlocks boost + body custolyzation |
 
 <br>
 
