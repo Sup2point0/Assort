@@ -32,3 +32,19 @@
     <td> – </td>
   </tr>
 </table>
+
+<br>
+
+## Stars
+
+<br>
+
+## Upgrades
+
+<br>
+
+## Ability
+
+<br>
+
+## Colours
