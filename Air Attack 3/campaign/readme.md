@@ -21,7 +21,6 @@ Operation Silver Lightning
 Mission: Base V  
 Mission: Node R  
 
-<br>
 
 ## Series II
 
