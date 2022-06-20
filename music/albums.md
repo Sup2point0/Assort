@@ -1,8 +1,4 @@
-# Music
-
-I don't have the expertise, time or devotion to become a proper music producer, but that doesn't stop me from dreaming about it in my mind!
-
-## Albums
+# Albums
 
 | album | tracks |
 | :---- | :----- |
@@ -25,7 +21,9 @@ I don't have the expertise, time or devotion to become a proper music producer, 
 | [Antarctica](#Antarctica) | 12 |
 | [Essence](#Essence) | 20+ |
 
-### Silence of War
+
+## Silence of War
+
 Stargazer  
 Lifeless  
 Incendiary  
@@ -37,7 +35,9 @@ Bitter Flames
 Road to Extinction  
 **Final Excursion**
 
-### Sea Adventure
+
+## Sea Adventure
+
 Islands  
 **Epic Expedition**  
 Call to Arms  
@@ -49,7 +49,9 @@ Sea Fire
 Distant Days  
 Glorious Destiny
 
-### Affinity
+
+## Affinity
+
 **Forest Foliage**  
 Solitude  
 Wind Warrior  
@@ -60,7 +62,9 @@ Night Camp
 Mellow Hearth  
 Lonely Adventurer
 
-### Droplets
+
+## Droplets
+
 Splash  
 Twinkle  
 Skydrop  
@@ -68,7 +72,9 @@ Melting
 **Pinpricks**  
 Ghost of a Touch
 
-### The Next Generation
+
+## The Next Generation
+
 Preserve  
 If Only  
 Eternal  
@@ -79,13 +85,17 @@ Everlasting
 **When Time Became History**  
 Second Chance
 
-### X4
+
+## X4
+
 Darkness Rising  
 Charge  
 Quasar  
 Dark Victory
 
-### Adventure Z
+
+## Adventure Z
+
 Stardust  
 To the Skies  
 Empty  
@@ -100,7 +110,9 @@ Burning Up
 For the Last Time  
 Singularity
 
-### Bloon Away
+
+## Bloon Away
+
 **Monkey Mayhem**  
 Bloon Bop  
 Popping Party  
@@ -108,7 +120,9 @@ Jungle Jam
 Twilight Twinkle  
 Discombobloonation
 
-### Invictus
+
+## Invictus
+
 Unconquerable  
 Annexed  
 Battalion  
@@ -123,7 +137,9 @@ Hollow Crown
 Survive  
 Time Rider
 
-### Ocean Adventure
+
+## Ocean Adventure
+
 Going Under  
 Leviathan  
 Falling from the Sky  
@@ -137,7 +153,9 @@ Bloodstained Treasure
 Journey's End  
 At What Cost
 
-### Making
+
+## Making
+
 **Strength**  
 Fearless  
 Courageous  
@@ -148,7 +166,9 @@ Perseverance
 Experience  
 Champion
 
-### Cortex
+
+## Cortex
+
 Screen  
 Frame  
 Port  
@@ -159,7 +179,9 @@ Wire
 Centre  
 Membrane
 
-### Dark Thoughts
+
+## Dark Thoughts
+
 Ambition  
 **Revenge**  
 Vengeance  
@@ -167,7 +189,9 @@ Retribution
 Avenge  
 Mercy
 
-### Memory of War
+
+## Memory of War
+
 Veteran  
 Timeless  
 Where We Started  
@@ -179,7 +203,9 @@ Never Again
 Remembrance  
 Finality
 
-### Fidelity
+
+## Fidelity
+
 Our Time  
 A Place Far Away  
 Whisper  
@@ -188,7 +214,9 @@ Intrepid
 A Time Long Ago  
 Our Story
 
-### Fantasy
+
+## Fantasy
+
 **Phantasm**  
 Pulse  
 Overdrive  
@@ -200,7 +228,9 @@ Fusion
 Wreckless  
 Touchdown
 
-### Antarctica
+
+## Antarctica
+
 Adrift  
 Ice Shards  
 Shelf Collapse  
@@ -213,7 +243,9 @@ Journey to the South Pole
 **Antarctic Adventure**  
 Aurora Australis
 
-### Essence
+
+## Essence
+
 Elements  
 Lithium  
 Nitrogen  
