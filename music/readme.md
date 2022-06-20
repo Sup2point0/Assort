@@ -29,18 +29,18 @@ Freefall \
 Fusion \
 Future \
 Galaxy \
-  Galaxy Rising \
+: Galaxy Rising \
 **Homecoming** \
 **Infinity** \
-  Infinity (Extended Mix) \
-  Infinity (2020 Revitalization) \
+: Infinity (Extended Mix) \
+: Infinity (2020 Revitalization) \
 Incredible \
 Insenza \
 Ion \
 Lightning \
 Lightyear \
-  Lightyear (Extended Mix) \
-  Lightyear Beyond \
+: Lightyear (Extended Mix) \
+: Lightyear Beyond \
 Lonely Wander \
 Loop \
 Magnetic \
@@ -50,17 +50,17 @@ Nebula \
 Nexus \
 Night Light \
 **Nostalgia** \
-  Nostalgia (Extended Mix) \
+: Nostalgia (Extended Mix) \
 **Nova** \
-  Nova Strium \
+: Nova Strium \
 Supernova \
 Oddly Specific \
 **Photosynthesis** (2018) \
-  Photosynthesis (2019) \
-  Photosynthesis (2020) \
-  Photosynthesis (Extended Mix) \
-  Photosynthesis (2021) \
-  Photosynthesis (2022) \
+: Photosynthesis (2019) \
+: Photosynthesis (2020) \
+: Photosynthesis (Extended Mix) \
+: Photosynthesis (2021) \
+: Photosynthesis (2022) \
 Prior \
 Radiant \
 Reaction \
@@ -71,12 +71,12 @@ Scale \
 Sever \
 Shining \
 Showdown \
-  Showdown (Extended Mix) \
-  Ultimate Showdown \
+: Showdown (Extended Mix) \
+: Ultimate Showdown \
 Skies Above \
 Sometime \
 Speed \
-  Speed of Light \
+: Speed of Light \
 Spinning Out \
 Stride \
 Sunshine \
@@ -85,13 +85,13 @@ Syzygy \
 Turn \
 **Ultra** \
 Utopia \
-  Utopia Beyond \
-  Utopia Rising \
+: Utopia Beyond \
+: Utopia Rising \
 Veloce \
 Vibrant \
 Viral \
 **Vortex** \
-  Vortex (2020 Revitalization) \
+: Vortex (2020 Revitalization) \
 Wasting Away \
 We'll Meet Again \
 Zap
