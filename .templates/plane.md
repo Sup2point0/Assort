@@ -70,3 +70,4 @@
 
 | colour | unlock |
 | :----- | :----- |
+| – | default |

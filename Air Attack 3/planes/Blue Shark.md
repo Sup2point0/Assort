@@ -71,7 +71,7 @@
 
 | colour | unlock |
 | :----- | :----- |
-| blue | free |
+| blue | default |
 | green | free |
 | silver | ⭐️⭐️ |
 | black | ⭐️⭐️ |
