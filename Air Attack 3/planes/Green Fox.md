@@ -79,4 +79,4 @@
 | dark green | free |
 | grey + green | ⭐⭐ |
 | grey + green bands | ⭐⭐ |
-| Flare | event |
+| *Flare* | event |
