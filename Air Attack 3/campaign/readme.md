@@ -6,18 +6,20 @@
 
 ## Series I
 
-- Training: Stage I – Navigation
-- Training: Stage II – Takedown
-- Training: Stage III – Induction
-- Operation Danger Sky – Assault
-- Operation Danger Sky – Fort
-- Operation Red Dawn – Lockdown
-- Operation Red Dawn – Laboratory
-- Operation Dark Storm – Whirlwind
-- Operation Dark Storm – Power Plant
-- Operation Silver Lightning
-- Mission: Base V
-- Mission: Node R
+Training: Stage I – Navigation  
+Training: Stage II – Takedown  
+Training: Stage III – Induction  
+
+Operation Danger Sky – Assault  
+Operation Danger Sky – Fort  
+Operation Red Dawn – Lockdown  
+Operation Red Dawn – Laboratory  
+Operation Dark Storm – Whirlwind  
+Operation Dark Storm – Power Plant  
+Operation Silver Lightning  
+
+Mission: Base V  
+Mission: Node R  
 
 <br>
 
