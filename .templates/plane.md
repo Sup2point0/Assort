@@ -32,7 +32,7 @@
     <td> – </td>
   </tr>
   <tr>
-    <th colspan="2"> <h3> Miscellaneous </h3> </th>
+    <th colspan="2"> <h4> Miscellaneous </h4> </th>
   </tr>
   <tr>
     <td> equivalent </td>
@@ -50,7 +50,7 @@
 
 | stars | cost | upgrades |
 | :---- | :--- | :------- |
-| ⭐ | 🔸 | – |
+| ⭐⭐ | 🔸 | – |
 
 <br>
 
@@ -58,7 +58,11 @@
 
 <br>
 
-## Ability
+## Abilities
+
+<br>
+
+## Boosts
 
 <br>
 
