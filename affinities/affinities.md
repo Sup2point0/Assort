@@ -8,20 +8,20 @@
 | [amatokinetis](affinities/amatokinetis.md) | amatokinetis, amaros | love control |
 | [anemokinetis](affinities/anemokinetis.md) | anemokinetic, windweaver | wind control |
 | – | animos | enhanced sense |
+| [autoduplication](affinities/autoduplication.md) | autoduplicator, cloned | self duplication |
 | [automorphis](affinities/metamorphis.md) | automorphic, shapeshifter | self appearance alteration |
 | [biokinetis](affinities/biokinetis.md) | biokinetic | life control |
 | [bonebreaking](affinities/bonebreaking.md) | bonebreaker | break bones |
 | [chronokinetis](affinities/chronokinetis.md) | chronokinetic | time control |
 | [cryokinetis](affinities/cryokinetis.md) | cryokinetic, shiver | Control ice |
 | [cytokinetis](affinities/cytokinetis.md) | cytokinetic | cell control |
-| [cloning](affinities/cloning.md) | cloner | object cloning |
 | [cognitris](affinities/cognitris.md) | cognitron | perfect memory |
 | – | droid | weaponyzed limbs |
 | [druidity](affinities/druidity.md) | druid | animal control |
 | [duplication](affinities/duplication.md) | duplicator, multiplyer | object duplication |
 | – | echo | sound mimic |
 | [electrokinetis](affinities/electrokinetis.md) | electrokinetic, electricon | electricity control |
-| [elementalis](affinities/elementalis.md) | elemental | elemental control |
+| [elementis](affinities/elementalis.md) | elemental | elemental control |
 | [affectis](affinities/affectis.md) | affectus | emotion control |
 | [energis](affinities/energis.md) | energist | energy control |
 | [enzokinetis](affinities/enzokinetis.md) | enzokinetic | chemical reaction control |
