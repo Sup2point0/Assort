@@ -96,6 +96,96 @@ I don't have the expertise, time or devotion to become a proper music producer, 
 - We'll Meet Again
 - Zap
 
+Airborne \
+Antidextrous \
+Arcane \
+Away \
+Base Memories \
+Bloop \
+Bright Memories \
+Bullet \
+Charm \
+Conception \
+Cosmos \
+Cyclone \
+Dactyl \
+**Day** \
+**Decimal** \
+Decked Out \
+Descension \
+Electric \
+Forthcoming \
+Freefall \
+Fusion \
+Future \
+Galaxy \
+Galaxy Rising \
+**Homecoming** \
+**Infinity** \
+Infinity (Extended Mix) \
+Infinity (2020 Revitalization) \
+Incredible \
+Insenza \
+Ion \
+Lightning \
+Lightyear \
+Lightyear (Extended Mix) \
+Lightyear Beyond \
+Lonely Wander \
+Loop \
+Magnetic \
+Memories \
+Miracle \
+Nebula \
+Nexus \
+Night Light \
+**Nostalgia** \
+Nostalgia (Extended Mix) \
+**Nova** \
+Nova Strium \
+Supernova \
+Oddly Specific \
+**Photosynthesis** (2018) \
+Photosynthesis (2019) \
+Photosynthesis (2020) \
+Photosynthesis (Extended Mix) \
+Photosynthesis (2021) \
+Photosynthesis (2022) \
+Prior \
+Radiant \
+Reaction \
+Rejuvenation \
+Riptide \
+Rise \
+Scale \
+Sever \
+Shining \
+Showdown \
+Showdown (Extended Mix) \
+Ultimate Showdown \
+Skies Above \
+Sometime \
+Speed \
+Speed of Light \
+Spinning Out \
+Stride \
+Sunshine \
+**Superior** \
+Syzygy \
+Turn \
+**Ultra** \
+Utopia \
+Utopia Beyond \
+Utopia Rising \
+Veloce \
+Vibrant \
+Viral \
+**Vortex** \
+Vortex (2020 Revitalization) \
+Wasting Away \
+We'll Meet Again \
+Zap
+
 <br>
 
 ## Albums
