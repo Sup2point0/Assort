@@ -32,7 +32,7 @@
     <td> +10% coin earning </td>
   </tr>
   <tr>
-    <th colspan="2"> <h3> Miscellaneous </h3> </th>
+    <th colspan="2"> <h4> Miscellaneous </h4> </th>
   </tr>
   <tr>
     <td> equivalent </td>
@@ -50,8 +50,8 @@
 
 | stars | cost | upgrades |
 | :---- | :--- | :------- |
-| ⭐️⭐️ | 🔸1000 | unlocks ability + colours |
-| ⭐️⭐️⭐️ | 🔸8000 | unlocks boost + body custolyzation |
+| ⭐️⭐️ | 🔸 1000 | unlocks ability + colours |
+| ⭐️⭐️⭐️ | 🔸 8000 | unlocks boost + body custolyzation |
 
 <br>
 
@@ -60,6 +60,10 @@
 <br>
 
 ## Ability
+
+<br>
+
+## Boosts
 
 <br>
 
