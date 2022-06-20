@@ -44,6 +44,9 @@
 
 ## Stars
 
+| stars | cost | upgrades |
+| :---- | :--- | :------- |
+
 <br>
 
 ## Upgrades
