@@ -55,3 +55,6 @@
 <br>
 
 ## Colours
+
+| colour | unlock |
+| :----- | :----- |
