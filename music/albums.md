@@ -21,6 +21,7 @@
 | [Antarctica](#Antarctica) | 12 |
 | [Essence](#Essence) | 20+ |
 
+<br>
 
 ## Silence of War
 
@@ -35,6 +36,7 @@ Bitter Flames
 Road to Extinction  
 **Final Excursion**
 
+<br>
 
 ## Sea Adventure
 
@@ -49,6 +51,7 @@ Sea Fire
 Distant Days  
 Glorious Destiny
 
+<br>
 
 ## Affinity
 
@@ -62,6 +65,7 @@ Night Camp
 Mellow Hearth  
 Lonely Adventurer
 
+<br>
 
 ## Droplets
 
@@ -72,6 +76,7 @@ Melting
 **Pinpricks**  
 Ghost of a Touch
 
+<br>
 
 ## The Next Generation
 
@@ -85,6 +90,7 @@ Everlasting
 **When Time Became History**  
 Second Chance
 
+<br>
 
 ## X4
 
@@ -93,6 +99,7 @@ Charge
 Quasar  
 Dark Victory
 
+<br>
 
 ## Adventure Z
 
@@ -110,6 +117,7 @@ Burning Up
 For the Last Time  
 Singularity
 
+<br>
 
 ## Bloon Away
 
@@ -120,6 +128,7 @@ Jungle Jam
 Twilight Twinkle  
 Discombobloonation
 
+<br>
 
 ## Invictus
 
@@ -137,6 +146,7 @@ Hollow Crown
 Survive  
 Time Rider
 
+<br>
 
 ## Ocean Adventure
 
@@ -153,6 +163,7 @@ Bloodstained Treasure
 Journey's End  
 At What Cost
 
+<br>
 
 ## Making
 
@@ -166,6 +177,7 @@ Perseverance
 Experience  
 Champion
 
+<br>
 
 ## Cortex
 
@@ -179,6 +191,7 @@ Wire
 Centre  
 Membrane
 
+<br>
 
 ## Dark Thoughts
 
@@ -189,6 +202,7 @@ Retribution
 Avenge  
 Mercy
 
+<br>
 
 ## Memory of War
 
@@ -203,6 +217,7 @@ Never Again
 Remembrance  
 Finality
 
+<br>
 
 ## Fidelity
 
@@ -214,6 +229,7 @@ Intrepid
 A Time Long Ago  
 Our Story
 
+<br>
 
 ## Fantasy
 
@@ -228,6 +244,7 @@ Fusion
 Wreckless  
 Touchdown
 
+<br>
 
 ## Antarctica
 
@@ -243,6 +260,7 @@ Journey to the South Pole
 **Antarctic Adventure**  
 Aurora Australis
 
+<br>
 
 ## Essence
 
