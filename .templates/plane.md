@@ -28,6 +28,13 @@
     <td> – </td>
   </tr>
   <tr>
+    <th colspan="2"> <h3> Miscellaneous </h3> </th>
+  </tr>
+  <tr>
+    <td> equivalent </td>
+    <td> – </td>
+  </tr>
+  <tr>
     <td> colour </td>
     <td> – </td>
   </tr>
