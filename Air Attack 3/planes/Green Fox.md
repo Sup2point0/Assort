@@ -39,6 +39,10 @@
     <td> Curtiss P40 Tigershark </td>
   </tr>
   <tr>
+    <td> attribute </td>
+    <td> 🔥 fire </td>
+  </tr>
+  <tr>
     <td> colour </td>
     <td> green </td>
   </tr>
@@ -74,5 +78,5 @@
 | green | default |
 | dark green | free |
 | grey + green | ⭐⭐ |
-| grey + green banded | ⭐⭐ |
+| grey + green bands | ⭐⭐ |
 | Flare | event |
