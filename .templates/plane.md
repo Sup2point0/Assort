@@ -39,6 +39,10 @@
     <td> – </td>
   </tr>
   <tr>
+    <td> attribute </td>
+    <td> – </td>
+  </tr>
+  <tr>
     <td> colour </td>
     <td> – </td>
   </tr>

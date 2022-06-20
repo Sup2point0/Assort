@@ -39,6 +39,10 @@
     <td> Vought F4U Corsair </td>
   </tr>
   <tr>
+    <td> attribute </td>
+    <td> ⚡️ lightning </td>
+  </tr>
+  <tr>
     <td> colour </td>
     <td> blue </td>
   </tr>
