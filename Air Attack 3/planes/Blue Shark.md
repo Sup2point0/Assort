@@ -24,6 +24,10 @@
     <td> <em> Red Lightning </em> </td>
   </tr>
   <tr>
+    <td> duration </td>
+    <td> 8s </td>
+  </tr>
+  <tr>
     <td> passive </td>
     <td> Homing Missile </td>
   </tr>

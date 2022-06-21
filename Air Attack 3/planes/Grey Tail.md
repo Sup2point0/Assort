@@ -24,6 +24,10 @@
     <td> <em> Tail Winger </em> </td>
   </tr>
   <tr>
+    <td> duration </td>
+    <td> &lt;30s </td>
+  </tr>
+  <tr>
     <td> passive </td>
     <td> Tailgun </td>
   </tr>
