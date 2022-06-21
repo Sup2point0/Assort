@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td> boost </td>
-    <td> increased flight speed </td>
+    <td> +10% flight speed </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Miscellaneous </h4> </th>
