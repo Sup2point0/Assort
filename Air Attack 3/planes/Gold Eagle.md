@@ -58,7 +58,7 @@
 
 | stars | cost | upgrades |
 | :---- | :--- | :------- |
-| ⭐⭐ | 🔸 10000 | unlocks ability (*Sun Lazer*) <br> unlocks colours () |
+| ⭐⭐ | 🔸 10000 | unlocks ability (*Sun Lazer*) <br> unlocks colours (white + gold bands) |
 | ⭐⭐⭐ | 🔹 15 | unlocks boost (+10% strength) <br> unlocks body custolyzation |
 | ⭐⭐⭐⭐ | 🔹 30 | upgrades passive (increased range) <br> upgrades boost (+10% » **+20%** strength) |
 | ⭐⭐⭐⭐⭐ | 🔹 45 | upgrades ability (burns enemies) |
