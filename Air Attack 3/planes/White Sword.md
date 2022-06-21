@@ -24,6 +24,10 @@
     <td> <em> Razor Ram </em> </td>
   </tr>
   <tr>
+    <td> duration </td>
+    <td> none </td>
+  </tr>
+  <tr>
     <td> passive </td>
     <td> <em> Close Cutting </em> </td>
   </tr>

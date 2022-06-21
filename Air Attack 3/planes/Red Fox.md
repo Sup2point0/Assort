@@ -24,6 +24,10 @@
     <td> <em> Inferno Storm </em> </td>
   </tr>
   <tr>
+    <td> duration </td>
+    <td> 5s </td>
+  </tr>
+  <tr>
     <td> passive </td>
     <td> <em> Heavy Inflammation </em> </td>
   </tr>

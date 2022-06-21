@@ -24,6 +24,10 @@
     <td> <em> Silver Laser </em> </td>
   </tr>
   <tr>
+    <td> duration </td>
+    <td> 7s </td>
+  </tr>
+  <tr>
     <td> passive </td>
     <td> <em> Discharge </em> </td>
   </tr>

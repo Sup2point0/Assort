@@ -24,6 +24,10 @@
     <td> <em> Flamethrower </em> </td>
   </tr>
   <tr>
+    <td> duration </td>
+    <td> 8s </td>
+  </tr>
+  <tr>
     <td> passive </td>
     <td> <em> Inflammation </em> </td>
   </tr>
