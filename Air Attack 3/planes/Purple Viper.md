@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td> duration </td>
-    <td> &#10097;30s </td>
+    <td> &lt;30s </td>
   </tr>
   <tr>
     <td> passive </td>
