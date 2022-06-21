@@ -9,7 +9,6 @@
 | [agilitis](affinities/agilitis.md) | agilitus, silk | agility |
 | [amatokinetis](affinities/amatokinetis.md) | amatokinetis, amaros | love control |
 | [anemokinetis](affinities/anemokinetis.md) | anemokinetic, windweaver | wind control |
-| – | animos | enhanced sense |
 | [autoduplication](affinities/autoduplication.md) | autoduplicator, cloned | self duplication |
 | [automorphis](affinities/metamorphis.md) | automorphic, shapeshifter | self appearance alteration |
 | [biokinetis](affinities/biokinetis.md) | biokinetic | life control |
@@ -20,10 +19,8 @@
 | [cuteness](affinities/cuteness.md) | cutiepie | weaponyzed cuteness |
 | [cytokinetis](affinities/cytokinetis.md) | cytokinetic | cell control |
 | [cognitris](affinities/cognitris.md) | cognitron | perfect memory |
-| – | droid | weaponyzed limbs |
 | [druidity](affinities/druidity.md) | druid | animal control |
 | [duplication](affinities/duplication.md) | duplicator, multiplyer | object duplication |
-| – | echo | sound mimic |
 | [electrokinetis](affinities/electrokinetis.md) | electrokinetic, electricon | electricity control |
 | [elementis](affinities/elementalis.md) | elemental | elemental control |
 | [energis](affinities/energis.md) | energist | energy control |
@@ -32,14 +29,13 @@
 | [explodokinetis](affinities/explodokinetis.md) | explodokinetic, bomber | explosion control |
 | [externis](affinities/externis.md) | externus | alter material composition |
 | [florokinetis](affinities/florokinetis.md) | florokinetic | flower and scent control |
-| – | force | force control |
+| [fortis](affinities/fortis.md) | fortus, wrecker | super strength |
+| [forzakinetis](affinities/forzakinetis.md) | forzakinetic, force | force control |
 | [geokinetis](affinities/geokinetis.md) | geokinetic | Control dirt and rocks |
 | – | gravitron | gravity control |
 | [gyrokinetis](affinities/gyrokinetis.md) | gyrokinetic, wall-walker | Shift centre of gravity |
-| – | healer | heal themselves |
 | [hydrokinetis](affinities/hydrokinetis.md) | hydrokinetic, nymph | water control |
 | [illusionis](affinities/illusionis.md) | illusionist | illusion control |
-| [imperius](affinities/imperius.md) | whisper | mind control |
 | [incorporealis](affinities/incorporealis.md) | spectre | turn self incorporeal |
 | [internis](affinities/internis.md) | internus | alter own body material |
 | [invictis](affinities/invictis.md) | invictus, impervious | impervious to harm |
@@ -57,19 +53,24 @@
 | [photokinetis](affinities/photokinetis.md) | photokinetic | light control |
 | [phytokinetis](affinities/phytokinetis.md) | phytokinetic | plant control |
 | [plagis](affinities/plagis.md) | poison | poison control |
+| [portalis](affinities/portalis.md) | porter | object teleportation |
 | [pyrokinetis](affinities/pyrokinetis.md) | pyrokinetic | fire control |
-| – | seer, eye | future sensing |
-| – | shield | shield creation |
 | [secaris](affinities/secaris.md) | slasher | mental cutting |
 | [serikinetis](affinities/serikinetis.md) | serikinetic, weaver | silk shooting |
 | [somnis](affinities/somnis.md) | somnos | sleep control |
+| [sonis](affinities/sonis.md) | sonus | sound enchantment |
 | [sonokinetis](affinities/sonokinetis.md) | sonokinetic | sound control |
+| [synchronis](affinities/synchronis.md) | synchronic, seer, eye | future sensing |
+| [technokinetis](affinities/technokinetis.md) | technokinetic, techy | technological control |
 | [telekinetis](affinities/telekinetis.md) | telekinetic, telky, psychokinetic | mental control of objects |
 | [telepathy](affinities/telepathy.md) | telepath | mental communication |
-| [teleportation](affinities/teleportation.md) | teleporter | instant travel |
+| [teleportalis](affinities/teleportalis.md) | teleporter | instant travel |
 | [terrakinetis](affinities/terrakinetis.md) | terrakinetic | earth control |
 | [vitakinetis](affinities/vitakinetis.md) | vitakinetic | life control |
-| – | wrecker | super strength |
+| – | animos | enhanced sense |
+| – | healer | heal themselves |
+| – | shield | shield creation |
+| – | echo | sound mimic |
 
 <br>
 
@@ -79,9 +80,11 @@
 | :------------ | :------------- | :------ |
 | [legacy](affinities/legacy.md) | legend, legatron | affinity gifting |
 | [superis](affinities/superis.md) | superior | affinity learning |
+| [tychis](affinities/tychis.md) | tychus, felixen | luck |
 | [void](affinities/void.md) | – | void manipulation |
 | [ximis](affinities/ximic.md) | ximic | affinity copying |
 | – | sentinel, warden | affinity disabling |
+| – | whisper | mind control |
 
 
 spirit
