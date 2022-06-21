@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td> boost </td>
-    <td> increased coin earning </td>
+    <td> +10% coin earning </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Miscellaneous </h4> </th>

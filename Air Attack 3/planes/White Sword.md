@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td> boost </td>
-    <td> increased resistance to collision damage </td>
+    <td> +20% resistance to collision damage </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Miscellaneous </h4> </th>

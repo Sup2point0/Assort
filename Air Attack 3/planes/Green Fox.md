@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td> boost </td>
-    <td> increased resistance to fire damage </td>
+    <td> +10% resistance to fire damage </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Miscellaneous </h4> </th>

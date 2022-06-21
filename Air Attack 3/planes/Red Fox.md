@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td> health </td>
-    <td> 120 </td>
+    <td> 120 (<b>125</em>) </td>
   </tr>
   <tr>
     <td> ability </td>
@@ -29,14 +29,14 @@
   </tr>
   <tr>
     <td> boost </td>
-    <td> increased resistance to fire damage </td>
+    <td> +25% (<b>+50%</b>) resistance to fire damage </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Miscellaneous </h4> </th>
   </tr>
   <tr>
     <td> equivalent </td>
-    <td> <em> Supermarine Spitfire </em> </td>
+    <td> <a href="https://en.wikipedia.org/wiki/Supermarine_Spitfire"> <em> Supermarine Spitfire </em> </a> </td>
   </tr>
   <tr>
     <td> attribute </td>

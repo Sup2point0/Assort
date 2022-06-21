@@ -29,14 +29,14 @@
   </tr>
   <tr>
     <td> boost </td>
-    <td> +20% resistance to laser attacks </td>
+    <td> +20% (<b>+40%</b>) resistance to laser attacks </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Miscellaneous </h4> </th>
   </tr>
   <tr>
     <td> equivalent </td>
-    <td> <em> Lockheed P-38 Lightning </em> </td>
+    <td> <a href="https://en.wikipedia.org/wiki/Lockheed_P-38_Lightning"> <em> Lockheed P-38 Lightning </em> </a> </td>
   </tr>
   <tr>
     <td> attribute </td>
