@@ -1,5 +1,4 @@
 # Heavy Crown
-Autumn 2022  
 
 Time, time, and time again  
 For far too many times have rulers been  
@@ -22,3 +21,7 @@ For I shall live up to my promises
 Weed out who worms their way into the ring  
 Stay true and loyal to myself and you  
 And so I ask, allow me to be king.
+
+<br>
+
+(Autumn 2022)
