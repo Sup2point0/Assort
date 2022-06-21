@@ -29,14 +29,14 @@
   </tr>
   <tr>
     <td> boost </td>
-    <td> +10% coin earning </td>
+    <td> increased coin earning </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Miscellaneous </h4> </th>
   </tr>
   <tr>
     <td> equivalent </td>
-    <td> Vought F4U Corsair </td>
+    <td> <a href="https://en.wikipedia.org/wiki/Vought_F4U_Corsair"> <em> Vought F4U Corsair </em> </a> </td>
   </tr>
   <tr>
     <td> attribute </td>
@@ -54,8 +54,8 @@
 
 | stars | cost | upgrades |
 | :---- | :--- | :------- |
-| ⭐️⭐️ | 🔸 1000 | unlocks ability + colours |
-| ⭐️⭐️⭐️ | 🔸 8000 | unlocks boost + body custolyzation |
+| ⭐️⭐️ | 🔸 1000 | unlocks ability (*Red Lightning*) <br> unlocks colours (silver, black, grey) |
+| ⭐️⭐️⭐️ | 🔸 8000 | unlocks boost (+10% coin earning) <br> unlocks body custolyzation |
 
 <br>
 

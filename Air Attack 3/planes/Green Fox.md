@@ -29,14 +29,14 @@
   </tr>
   <tr>
     <td> boost </td>
-    <td> +10% resistance to fire damage </td>
+    <td> increased resistance to fire damage </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Miscellaneous </h4> </th>
   </tr>
   <tr>
     <td> equivalent </td>
-    <td> Curtiss P40 Tigershark </td>
+    <td> <a href="https://en.wikipedia.org/wiki/Curtiss_P-40_Warhawk"> <em> Curtiss P-40 Warhawk </em> </a> </td>
   </tr>
   <tr>
     <td> attribute </td>
@@ -54,8 +54,8 @@
 
 | stars | cost | upgrades |
 | :---- | :--- | :------- |
-| ⭐⭐ | 🔸 2000 | unlocks ability + colours |
-| ⭐⭐⭐ | 🔸 15000 | unlocks boost + body custolyzation |
+| ⭐⭐ | 🔸 2000 | unlocks ability (*Flamethrower*) <br> unlocks colours (grey + green, grey + green bands) |
+| ⭐⭐⭐ | 🔸 15000 | unlocks boost (+10% resistance to fire damage) <br> unlocks body custolyzation |
 
 <br>
 
