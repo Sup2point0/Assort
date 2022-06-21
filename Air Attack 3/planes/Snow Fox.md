@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td> attribute </td>
-    <td> ❄️ snow </td>
+    <td> ❄️ ice </td>
   </tr>
   <tr>
     <td> colour </td>
