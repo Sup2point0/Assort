@@ -8,18 +8,17 @@ And feel like they're slipping out of your grasp;
 Those blissful days of naive hopes and dreams,  
 Unknowingly creating precious  
 memories to last for years;  
-Not all that long ago it sometimes seems,
-
+Not all that long ago it sometimes seems,  
 It's almost like just yesterday  
-That we were standing just right here.  
+That we were standing just right here.
+
 Often the past seems better than the now  
-The good ol' days when everything was pure,
-
+The good ol' days when everything was pure,  
 Without everything to worry about  
-And the novel facet still held allure;  
-With desperation swim against the tide,  
-Like aves struggling to lift, strained down
+And the novel facet still held allure;
 
+With desperation swim against the tide,  
+Like aves struggling to lift, strained down  
 by damp wings tangled in a net;  
 It's that funny feeling you get inside,  
 Helpless, drowning, unreal, gone  
