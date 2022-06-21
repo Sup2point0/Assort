@@ -8,7 +8,7 @@ And lost sight of their original dream
 Abandoned goals once noble and worthy  
 Forgotten promises once made  
 As if just mere stepping stones used to climb  
-And once there 'mediately cast away
+And once there ’mediately cast away
 
 Through the blurred lens of their myopic eye  
 Do nought but flaunt ceremonial right  
