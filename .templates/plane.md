@@ -24,6 +24,10 @@
     <td> – </td>
   </tr>
   <tr>
+    <td> duration </td>
+    <td> s </td>
+  </tr>
+  <tr>
     <td> passive </td>
     <td> – </td>
   </tr>
