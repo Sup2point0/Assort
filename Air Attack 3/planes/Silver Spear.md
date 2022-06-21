@@ -53,7 +53,7 @@
 ## Stars
 
 | stars | cost | upgrades |
-| :---- | :––– | :------- |
+| :---- | :--- | :------- |
 | ⭐⭐ | 🔸 7500 | unlocks ability – *Silver Laser* <br> unlocks colours – white + silver |
 | ⭐⭐⭐ | 🔹 10 | unlocks boost – +20% resistance to laser attacks <br> unlocks body custolyzations |
 | ⭐⭐⭐⭐ | 🔹 20 | upgrades boost – +20% » **+40%** resistance to laser attacks |
