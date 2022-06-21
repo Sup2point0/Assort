@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td> ability </td>
-    <td> Tail Winger </td>
+    <td> <em> Tail Winger </em> </td>
   </tr>
   <tr>
     <td> passive </td>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td> boost </td>
-    <td> +10% flight speed </td>
+    <td> increased flight speed </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Miscellaneous </h4> </th>
@@ -54,8 +54,8 @@
 
 | stars | cost | upgrades |
 | :---- | :--- | :------- |
-| ⭐⭐ | 🔸 2500 | unlocks ability + colours |
-| ⭐⭐⭐ | 🔸 12500 | unlocks boost + body custolyzation |
+| ⭐⭐ | 🔸 2500 | unlocks ability (*Tail Winger*) <br> unlocks colours (dark grey) |
+| ⭐⭐⭐ | 🔸 12500 | unlocks boost (+10% flight speed) <br> unlocks body custolyzation |
 
 <br>
 

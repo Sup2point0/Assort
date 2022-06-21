@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td> boost </td>
-    <td> -20% damage from collisions </td>
+    <td> increased resistance to collision damage </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Miscellaneous </h4> </th>
@@ -54,8 +54,8 @@
 
 | stars | cost | upgrades |
 | :---- | :--- | :------- |
-| ⭐⭐ | 🔸 3000 | unlocks ability + colours |
-| ⭐⭐⭐ | 🔸 12000 | unlocks boost + body custolyzation |
+| ⭐⭐ | 🔸 3000 | unlocks ability (*Razor Ram*) <br> unlocks colours (white + silver bands) |
+| ⭐⭐⭐ | 🔸 12000 | unlocks boost (+20% resistance to collision damage) <br> unlocks body custolyzation |
 
 <br>
 

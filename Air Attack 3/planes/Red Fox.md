@@ -21,22 +21,22 @@
   </tr>
   <tr>
     <td> ability </td>
-    <td> <em>Inferno Storm</em> </td>
+    <td> <em> Inferno Storm </em> </td>
   </tr>
   <tr>
     <td> passive </td>
-    <td> <em>Heavy Inflammation</em> </td>
+    <td> <em> Heavy Inflammation </em> </td>
   </tr>
   <tr>
     <td> boost </td>
-    <td> +25% resistance to fire damage </td>
+    <td> increased resistance to fire damage </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Miscellaneous </h4> </th>
   </tr>
   <tr>
     <td> equivalent </td>
-    <td> <em>Supermarine Spitfire</em> </td>
+    <td> <em> Supermarine Spitfire </em> </td>
   </tr>
   <tr>
     <td> attribute </td>
@@ -54,9 +54,9 @@
 
 | stars | cost | upgrades |
 | :---- | :--- | :------- |
-| ⭐⭐ | 🔸 4000 | unlocks ability + colours |
-| ⭐⭐⭐ | 🔸 24000 | unblocks boost + body custolyzation |
-| ⭐⭐⭐⭐ | 🔹 25 | upgrades boost + health |
+| ⭐⭐ | 🔸 4000 | unlocks ability (*Inferno Storm*) <br> unlocks colours (black + red bands, black) |
+| ⭐⭐⭐ | 🔸 24000 | unblocks boost (+25% resistance to fire damage) <br> unlocks body custolyzation |
+| ⭐⭐⭐⭐ | 🔹 25 | upgrades health (120 » **125**) <br> upgrades boost (+25% » **+50%** resistance to fire damage) |
 
 <br>
 
