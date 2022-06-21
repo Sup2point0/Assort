@@ -55,7 +55,7 @@
 | stars | cost | upgrades |
 | :---- | :--- | :------- |
 | ⭐⭐ | 🔸 2000 | unlocks ability + colours |
-| ⭐⭐⭐ | 🔸 15000 | unlocks boost + body custolyzations |
+| ⭐⭐⭐ | 🔸 15000 | unlocks boost + body custolyzation |
 
 <br>
 
