@@ -35,4 +35,43 @@
 
 | achievement | action | reward |
 | :---------- | :----- | :----- |
+| Getting Stronger | rank up a plane to ⭐️⭐️ | 🔸 5000 |
+| Levelling Up | rank up a plane to ⭐️⭐️⭐️ | 🔸 10000 |
+| First Class | rank up a plane to ⭐️⭐️⭐️⭐️ | 🔸 25000 |
+| – | rank up a plane to ⭐️⭐️⭐️⭐️⭐️ | 🔹 10 |
+| Maxing Out | rank up a plane to ⭐️⭐️⭐️⭐️⭐️⭐️ | 🔹 40 |
+| All-Powerful | rank up a plane to ⭐️⭐️⭐️⭐️⭐️⭐️⭐️ | 🔹 150 |
+| Limitless | rank up a plane to ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ | 🔹 400 |
+
+| achievement | action | reward |
+| :---------- | :----- | :----- |
+| Shooter | destroy 50 planes | 🔸 1000 |
+| Blaster | destroy 200 planes | 🔸 3000 |
+| Destroyer | destroy 1000 planes | 🔸 5000 |
+| Super Destroyer | destroy 3000 planes | 🔸 8000 |
+| Royal Destroyer | destroy 8000 planes | 🔸 15000 |
+| Ultra Destroyer | destroy 25000 planes | 🔹 10 |
+| Ultimate Destroyer | destroy 200000 planes | ✈️ [Royal Destroyer](planes/Royal%20Destroyer.md) &emsp; 🔹 50 |
+
+| achievement | action | reward |
+| :---------- | :----- | :----- |
+| The Ambition | defeat a boss | 🔹 2 |
+| Eliminator | defeat 10 bosses | 🔹 10 |
+| Assassin | defeat 40 bosses | 🔹 20 |
+| Superweapon | defeat 120 bosses | 🔹 30 |
+| Annihilator | defeat 450 bosses | 🔹 50 |
+| Obliterator | defeat 1000 bosses | 🔹 100 |
+
+| achievement | action | reward |
+| :---------- | :----- | :----- |
+| – | destroy 5 vehicles | 🔸 1000 |
+| – | destroy 30 vehicles | 🔸 3000 |
+| – | destroy 150 vehicles | 🔸 5000 |
+| – | destroy 1000 vehicles | 🔸 8000 |
+| – | destroy 2500 vehicles | 🔸 15000 |
+| Shadowed Threat | destroy 6000 vehicles | 🔹 10 |
+| – | destroy 12500 vehicles | 🔹 75 |
+
+| achievement | action | reward |
+| :---------- | :----- | :----- |
 | – |  |  |
