@@ -1,11 +1,11 @@
-# Plane
+# Red Wing
 
 {desc}
 
 
 <table>
   <tr>
-    <th colspan="2"> <h3> – </h3> </th>
+    <th colspan="2"> <h3> Red Wing </h3> </th>
   </tr>
   <tr>
     <td> stars </td>
