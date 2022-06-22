@@ -1,6 +1,6 @@
 # *Air Attack 3*
 
-A trequel to *[Air Attack]()* and *[Air Attack 2]()*, 2 of my favourite childhood games. Released in 2020.
+A trequel to *[Air Attack](https://en.wikipedia.org/wiki/AirAttack)* and *[Air Attack 2](https://en.wikipedia.org/wiki/AirAttack_2)*, 2 of my favourite childhood games. Released in 2020.
 
 <br>
 
