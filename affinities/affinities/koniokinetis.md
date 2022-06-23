@@ -101,6 +101,10 @@ A highly specialyzed derivative of telekinetis, opting only to control dust and 
     <td> high </td>
   </tr>
   <tr>
+    <td> obscurity </td>
+    <td> moderate </td>
+  </tr>
+  <tr>
     <td> derivation </td>
     <td> <a href="telekinetis.md"> telekinetis </a> </td>
   </tr>
