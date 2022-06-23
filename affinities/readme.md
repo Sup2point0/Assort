@@ -57,4 +57,4 @@ A full list of affinities can be found [here](affinities.md).
 
 ## See Also
 
-- [Foundational Principles of Affinitics](foundational%20principles%20of%affinitics.md)
+- [Foundational Principles of Affinitics](foundational%20principles%20of%20affinitics.md)
