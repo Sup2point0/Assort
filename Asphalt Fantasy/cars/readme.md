@@ -10,7 +10,7 @@ Audi RS Ion TX8
 WM Rover 750  
 Tyson TGC Knight  
 Ford Firenza FM2  
-**LEGO^TM^ WP-89 Truckload**  
+**LEGO<sup>TM</sup> WP-89 Truckload**  
 Cybre Cobra Prototype  
 FortiF50 ZN  
 DuraByte Vision GT  
@@ -39,7 +39,7 @@ Fantasy FS-20 Hyperspeed
 Lamborghini Asterix  
 Cellulite GT  
 HiTech Nucleus Evo  
-**LEGO^TM^ SF-33 Speed Champion X**  
+**LEGO<sup>TM</sup> SF-33 Speed Champion X**  
 **Ceptor C12**  
 DeLorean DMC-12  
 DuraByte 7 RJ  
