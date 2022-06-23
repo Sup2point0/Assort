@@ -15,6 +15,7 @@ A full list of affinities can be found [here](affinities.md).
   - [Genetis](#genetis)
   - [Technis](#technis)
   - [Portalis](#portalis)
+  - [Connectis](#connectis)
   - [Synchronis](#synchronis)
 - [Channels](#channels)
   - [Psychic](#psychic)
