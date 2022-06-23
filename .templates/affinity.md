@@ -101,6 +101,10 @@
     <td> – </td>
   </tr>
   <tr>
+    <td> obscurity </td>
+    <td> – </td>
+  </tr>
+  <tr>
     <td> derivation </td>
     <td> – </td>
   </tr>
