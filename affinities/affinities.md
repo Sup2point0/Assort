@@ -50,6 +50,7 @@
 | [necronaucy](affinities/necronaucy.md) | necronaut | dead communication |
 | [novis](affinities/novis.md) | novus | turn objects invisible or incorporeal |
 | [oblivius](affinities/oblivius.md) | oblivion | item decay |
+| [obscuris](affinities/obscurus.md) | obscurus | – |
 | [photokinetis](affinities/photokinetis.md) | photokinetic | light control |
 | [phytokinetis](affinities/phytokinetis.md) | phytokinetic | plant control |
 | [plagis](affinities/plagis.md) | poison | poison control |
@@ -66,6 +67,8 @@
 | [telepathy](affinities/telepathy.md) | telepath | mental communication |
 | [teleportalis](affinities/teleportalis.md) | teleporter | instant travel |
 | [terrakinetis](affinities/terrakinetis.md) | terrakinetic | earth control |
+| [vibrokinetis](affinities/vibrokinetis.md) | vibrokinetic | vibration control |
+| [virokinetis](affinities/virokinetis.md) | virokinetic | virus control |
 | [vitakinetis](affinities/vitakinetis.md) | vitakinetic | life control |
 | – | animos | enhanced sense |
 | – | healer | heal themselves |
