@@ -1,14 +1,18 @@
 # Components
 
+Components
+
+<br>
 
 ## Index
-- Cell
-- Membrane
-- Shield
-- Receptor
-- Spike
-- Claw
-- Thruster
-- Turret
-- Pulsar
-- Core
+
+- [Cell](#cell)
+- [Membrane](#membrane)
+- [Shield](#shield)
+- [Receptor](#receptor)
+- [Spike](#spike)
+- [Claw](#claw)
+- [Thruster](#thruster)
+- [Turret](#turret)
+- [Pulsar](#pulsar)
+- [Core](#core)
