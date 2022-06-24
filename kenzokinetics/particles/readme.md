@@ -6,7 +6,7 @@ Particles are the active weapons utilyzed by other structures.
 
 ## Index
 
-- [Antibody](#antibody)]
+- [Antibody](#antibody)
 - [Proton](#proton)
 - [Alpha](#alpha)
 
