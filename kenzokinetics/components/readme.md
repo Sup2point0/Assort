@@ -24,3 +24,17 @@ Components are the individual constituents of all other structures and compounds
 - [Thruster](#thruster)
 - [Core](#core)
 - [Driver](#driver)
+
+<br>
+
+## Cell
+
+| basic cell |
+| :--------: |
+| ![cell.basic]() |
+
+### Bridge
+
+| bridge cell | resonance bridge cell |
+| :---------: | :-------------------: |
+| ![cell.bridge]() | ![cell.bridge.res]() |
