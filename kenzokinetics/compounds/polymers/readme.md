@@ -10,5 +10,3 @@ Polymers are a special class of compounds which involve repeating units that can
 - [Polyphenylpede](#polyphenylpede)
 - [Polysilipede](#polysilipede)
 - [Polysilicopede](#polysilicopede)
-
-<br>
