@@ -18,7 +18,7 @@ Antibodies are the mass soldiers, ineffective by themselves, but overwhelmingly 
 
 | basic antibody | charged antibody |
 | :------------: | :--------------: |
-| ![antibody.basic]() | ![antibody.charged]() |
+| ![antibody.basic](https://github.com/Sup2point0/Assort/blob/origin/.assets/kenzokinetics/particles/antibody.basic.png) | ![antibody.charged]() |
 
 | supercharged antibody |
 | :-------------------: |
