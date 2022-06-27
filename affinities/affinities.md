@@ -5,7 +5,7 @@
 | [accelis](affinities/superspeed.md) | accelus, swift | superfast movements |
 | [aerokinetis](affinities/aerokinetis.md) | aerokinetic, gust | air control |
 | [aeternis](affinities/aeternis.md) | aeternus, eternal | alter own age |
-| [affectis](affinities/affectis.md) | affectus | emotion control |
+| [affectis](affinities/affectis.md) | affectus | emotion sensing, control |
 | [agilitis](affinities/agilitis.md) | agilitus, silk | agility |
 | [amatokinetis](affinities/amatokinetis.md) | amatokinetis, amaros | love control |
 | [anemokinetis](affinities/anemokinetis.md) | anemokinetic, windweaver | wind control |
