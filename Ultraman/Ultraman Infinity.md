@@ -79,7 +79,7 @@
 - light blue incorporeal body
 
 #### Abilities
-__Physical Attacks__
+<ins> Physical Attacks </ins>
 * Flying Sky Kick
 * Infinity Impact
     * Infinity Impact Zero
