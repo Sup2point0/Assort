@@ -79,64 +79,63 @@
 - light blue incorporeal body
 
 #### Abilities
-<ins> Physical Attacks </ins>
-* Flying Sky Kick
-* Infinity Impact
-    * Infinity Impact Zero
-* Infinity Slash
-* Infinity Strike
-* Infinity Thrust
+<ins> Attacks </ins>
+Flying Sky Kick  
+Infinity Impact  
+Infinity Impact Zero  
+Infinity Slash  
+Infinity Strike  
+Infinity Thrust
 
-Techniques
-* Absorption
-* Deflection
-* Infinity Afterimages
-* Infinity Slice
-    * Infinity Barrier
-    * Infinity Sceptre
-    * Infinity Shields
-    * Infinity Staff
-* Phase Shift
-* Solidify
-* Teleportation
-* Travel Stream
-* Ultra Spirit
+<ins> Techniques </ins>
+Absorption  
+Deflection  
+Infinity Afterimages  
+Infinity Slice  
+Infinity Barrier  
+Infinity Sceptre  
+Infinity Shields  
+Infinity Staff  
+Phase Shift  
+Solidify  
+Teleportation  
+Travel Stream  
+Ultra Spirit
 
-Finishers
-* Infinity Ray
-* Infinity Burst
-* Infinity Stream
-* Infinity Drive
-
+<ins> Finishers </ins>
+Infinity Ray  
+Infinity Burst  
+Infinity Stream  
+Infinity Drive
 
 ### Plasma Powered
 
-« “Ultraman Infinity: Plasma Powered! Solidify.” »
+> *Ultraman Infinity: Plasma Powered! Solidify.*
 
 Features
 Colour: Red, Orange
 Counterpart: Solar Light, Infrared
 
 Additions
-* Illuminable orange strips on body
+- Illuminable orange strips on body
 
 Abilities
 Physical Attacks
-* Infinity Buster
-* Plasma Burst
-* Powered Punch
-* Powered Slam
+- Infinity Buster
+- Plasma Burst
+- Powered Punch
+- Powered Slam
 
 Techniques
-* Infrared Intensity
-* Plasma Charge
-* Plasma Hurricane
+- Infrared Intensity
+- Plasma Charge
+- Plasma Hurricane
 
 Finishers
-* Plasma Burster
+- Plasma Burster
 
 Combo Finishers
-* Miracle Burster
+- Miracle Burster
 
 ### Absolute Miracle
 
@@ -151,31 +150,31 @@ Combo Finishers
   </tr>
 </table>
 
-« “Ultraman Infinity: Absolute Miracle. Solidify!” »
+> *Ultraman Infinity: Absolute Miracle. Solidify!*
 
 Features
 Colour: Blue
 Counterpart: Lunar Light, Radio
 
 Additions
-* 
+- 
 
 Abilities
 Physical Attacks
-* Absolute Impact
-* Absolute Slash
+- Absolute Impact
+- Absolute Slash
 
 Techniques
-* Absolute Astonish
-* Miracle Cyclone
-* Miracle Ray
-* Infinity Daggers
+- Absolute Astonish
+- Miracle Cyclone
+- Miracle Ray
+- Infinity Daggers
 
 Finishers
-* Miracle Beam
+- Miracle Beam
 
 Combo Finishers
-* Miracle Burster
+- Miracle Burster
 
 ### Mythical Break
 
@@ -190,24 +189,24 @@ Combo Finishers
   </tr>
 </table>
 
-« “Ultraman Infinity: Mythical Break. Solidify.” »
+> *Ultraman Infinity: Mythical Break. Solidify.*
 
 Features
 Colour: Purple
 Counterpart: Ultraviolet
 
 Additions
-* 
+- 
 
 Abilities
 Physical Attacks
-* 
+- 
 
 Techniques
-* Multi Spark
+- Multi Spark
 
 Finishers
-* Infinity Break
+- Infinity Break
 
 ### Gamma Strium
 
@@ -222,25 +221,25 @@ Finishers
   </tr>
 </table>
 
-« “Quote” »
+> *Quote*
 
 Features
 Colour: Pink
 Counterpart: Gamma
 
 Additions
-* 
+- 
 
 Abilities
 Physical Attacks
-* 
+- 
 
 Techniques
-* Violet Galaxy
+- Violet Galaxy
 
 Finishers
-* Infinity Strium
-* Strium Drive
+- Infinity Strium
+- Strium Drive
 
 ### White Light
 
@@ -255,27 +254,27 @@ Finishers
   </tr>
 </table>
 
-« “This is our light! Ultraman Infinity: White Light!” »
+> *This is our light! Ultraman Infinity: White Light!*
 
 Features
 Colour: White
 Counterpart: White Light
 
 Additions
-* 
+- 
 
 Abilities
 Physical Attacks
-* Infinity Impact Ultimate
+- Infinity Impact Ultimate
 
 Techniques
-* Infinity Cage
-* Infinity Slice Ultimate
-    * Infinity Shield Swarm
+- Infinity Cage
+- Infinity Slice Ultimate
+- Infinity Shield Swarm
 
 Finishers
-* Ultimate Drive
-* Ultimate Infinity Ray
+- Ultimate Drive
+- Ultimate Infinity Ray
 
 ### Shining Spectrum
 
@@ -290,28 +289,28 @@ Finishers
   </tr>
 </table>
 
-« “It's time to end this, once and for all.” »
+> *It's time to end this, once and for all.*
 
 Features
 Colour: Rainbow
 Counterpart: Electromagnetic Spectrum
 
 Additions
-* 
+- 
 
 Abilities
 Physical Attacks
-* Infinity Impact Beyond
+- Infinity Impact Beyond
 
 Techniques
-* Infinity Slice Ultimate
-    * Shining Barrier
-    * Spectrum Sceptre
-    * Shining Shields
-    * Spectrum Staff
+- Infinity Slice Ultimate
+- Shining Barrier
+- Spectrum Sceptre
+- Shining Shields
+- Spectrum Staff
 
 Finishers
-* Infinity Overdrive
+- Infinity Overdrive
 
 ### Infinity Edge
 
@@ -326,47 +325,47 @@ Finishers
   </tr>
 </table>
 
-« “Edge Evolution.” »
+> *Edge Evolution.*
 
 Features
 Colour: White, Yellow, Green
 Counterpart: Solar Light
 
 Signatures
-* X: Devize
-* Arc: Realize
-* Zero: 
-* Victory: Energize
-* Z: Finalize
-* Jean-Nine: Digitize
+- X: Devize
+- Arc: Realize
+- Zero: 
+- Victory: Energize
+- Z: Finalize
+- Jean-Nine: Digitize
 
 Additions
-* Core
-* Edge X
-* [Unnamed]
-* Edge Extreme
-* Edge Nine
+- Core
+- Edge X
+- [Unnamed]
+- Edge Extreme
+- Edge Nine
 
 Abilities
 Physical Attacks
-* Lightning Pulse
-* Lightning Slasher
-* Lightning Tackle
+- Lightning Pulse
+- Lightning Slasher
+- Lightning Tackle
 
 Techniques
-* Electric Edge
-* Electric Evasion
-* Lightning Punisher
-* Lightning Spark
-* Xanadium Arc
-    * Xanadium Arc V(ictory)
-    * Xanadium Arc Z
+- Electric Edge
+- Electric Evasion
+- Lightning Punisher
+- Lightning Spark
+- Xanadium Arc
+- Xanadium Arc V(ictory)
+- Xanadium Arc Z
 
 Finishers
-* Lightning Drive
-* Electrix Arc Dragon
-    * Emerium Arc Dragon
-* Edge Especially
+- Lightning Drive
+- Electrix Arc Dragon
+- Emerium Arc Dragon
+- Edge Especially
 
 ### Infinity Essence
 
@@ -381,26 +380,26 @@ Finishers
   </tr>
 </table>
 
-« “No watch, no spark, no fusions. Just me, and myself. My purest form.” »
+> *No watch, no spark, no fusions. Just me, and myself. My purest form.*
 
 Features
 Colour: 
 Signature: 
 
 Additions
-* 
+- 
 
 Abilities
 Physical Attacks
-* [Unnamed]
+- [Unnamed]
 
 Techniques
-* Infinity Impact Inversion
+- Infinity Impact Inversion
 
 Finishers
-* Finitium Ray
-* Finitium Burst
-* Infinity Embrace
+- Finitium Ray
+- Finitium Burst
+- Infinity Embrace
 
 
 
@@ -415,16 +414,16 @@ Infinity Spark
 
 Infinity Neo Calibur
 
-« “Since I don’t really need it anymore, I guess... you can have it.” »
+> *Since I don’t really need it anymore, I guess... you can have it.*
 
 Features
 
 Abilities
 Techniques
-* 
+- 
 
 Finishers
-* 
+- 
 
 
 
@@ -433,74 +432,74 @@ Ultraman Heart
 
 Ultraman Mebius
 
-« “Fire... that’s it. That’s its weakness!” »
+> *Fire... that’s it. That’s its weakness!*
 
 Features
 Colour: Orange
 Signature: Brace, Phoenix
 
 Additions
-* Mebium-Infinity Brace
-* Diamond-shape Colour Timer
-* Golden strips on body
-* Red strips over eyes
+- Mebium-Infinity Brace
+- Diamond-shape Colour Timer
+- Golden strips on body
+- Red strips over eyes
 
 Abilities
 Techniques
-* Doublade
+- Doublade
 
 Finishers
-* Flame Drive
-* Infinity Dynamite
+- Flame Drive
+- Infinity Dynamite
 
 Combination
-* Phoenix Infinity
+- Phoenix Infinity
 
 
 Ultraman Horizon
 
-« “Quote” »
+> *Quote*
 
 Features
 Colour: Blue
 
 Additions
-* 
+- 
 
 Abilities
 Physical Attacks
-* Dashing Kick
-* Dashing Punch
+- Dashing Kick
+- Dashing Punch
 
 
 Ultraman Arc
 
-« “Quote” »
+> *Quote*
 
 Features
 Colour: Red
 
 Additions
-* 
+- 
 
 Abilities
 Physical Attacks
-* Arcium Slash
-* Whirlwind Arc
+- Arcium Slash
+- Whirlwind Arc
 
 Finishers
-* Infinity Arc
+- Infinity Arc
 
 
 Ultrawoman Kade
 
-« “Quote” »
+> *Quote*
 
 Features
 Colour: Dark Red
 
 Additions
-* 
+- 
 
 
 
