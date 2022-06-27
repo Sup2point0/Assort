@@ -12,9 +12,27 @@
   <tr> <td>
     <a href="#overview"> Overview </a> <br>
     <a href="#transformations"> Transformations </a> <br>
+    &ensp; <a href="#initial"> Initial </a> <br>
+    &ensp; <a href="#standard"> Standard </a> <br>
     <a href="#forms"> Forms </a> <br>
+    &ensp; <a href="#ultraman-infinity"> Ultraman Infinity </a> <br>
+    &ensp; <a href="#plasma-powered"> Plasma Powered </a> <br>
+    &ensp; <a href="#absolute-miracle"> Absolute Miracle </a> <br>
+    &ensp; <a href="#mythical-break"> Mythical Break </a> <br>
+    &ensp; <a href="#gamma-strium"> Gamma Strium </a> <br>
+    &ensp; <a href="#white-light"> White Light </a> <br>
+    &ensp; <a href="#shining-spectrum"> Shining Spectrum </a> <br>
+    &ensp; <a href="#infinity-edge"> Infinity Edge </a> <br>
+    &ensp; <a href="#infinity-essence"> Infinity Essence </a> <br>
     <a href="#weapons"> Weapons </a> <br>
+    &ensp; <a href="#infinity-watch"> Infinity Watch </a> <br>
+    &ensp; <a href="#infinity-spark"> Infinity Spark </a> <br>
+    &ensp; <a href="#infinity-neo-calibur"> Infinity Neo Calibur </a> <br>
     <a href="#ultraman-heart"> Ultraman Heart </a> <br>
+    &ensp; <a href="#ultraman-mebius"> Ultraman Mebius </a> <br>
+    &ensp; <a href="#ultraman-horizon"> Ultraman Horizon </a> <br>
+    &ensp; <a href="#ultraman-arc"> Ultraman Arc </a> <br>
+    &ensp; <a href="#ultraman-kade"> Ultraman Kade </a> <br>
     <a href="#quotes"> Quotes </a>
   </td> </tr>
 </table>
@@ -332,11 +350,11 @@ Infinity Overdrive
 </table>
 
 #### Signatures
-X &ndash; Devize
-Arc &ndash; Realize
-Zero &ndash; 
-Victory &ndash; Energize
-Z &ndash; Finalize
+X &ndash; Devize  
+Arc &ndash; Realize  
+Zero &ndash;   
+Victory &ndash; Energize  
+Z &ndash; Finalize  
 Jean-Nine &ndash; Digitize
 
 #### Additions
