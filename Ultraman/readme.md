@@ -5,7 +5,7 @@
 
 ## Index
 
-- [Ultraman Infinity](ultraman%20infinity.md)
-- [Ultraman Horizon](ultraman%20horizon.md)
-- [Ultraman S](ultraman%20s.md)
-- [Ultraman Miracle Brothers](miracle%20brothers.md)
+- [Ultraman Infinity](Ultraman%20Fnfinity.md)
+- [Ultraman Horizon](Ultraman%20Horizon.md)
+- [Ultraman S](Ultraman%20S.md)
+- [Ultraman Miracle Brothers](Miracle%20Brothers.md)
