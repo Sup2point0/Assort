@@ -1,6 +1,6 @@
 # Ultraman Infinity
 
-> *“I am Ultraman Infinity. Born from the infinite light of the Plasma Spark.”*
+> *I am Ultraman Infinity. Born from the infinite light of the Plasma Spark.*
 
 <br>
 
@@ -10,7 +10,8 @@
   <tr> <td>
     <a href="#overview"> Overview </a> <br>
     <a href="#transformations"> Transformations </a> <br>
-    <a href="#forms"> Forms </a>
+    <a href="#forms"> Forms </a> <br>
+    <a href="#quotes"> Quotes </a>
   </td> </tr>
 </table>
 
@@ -59,20 +60,26 @@
 
 ## Forms
 
-
 ### Ultraman Infinity
 
-> *“Quote”* »*
+> *Quote*
 
-Features
-Colour: Light Blue
-Counterpart: Visible Light
+<table>
+  <tr>
+    <td> colour </td>
+    <td> light blue </td>
+  </tr>
+  <tr>
+    <td> counterpart </td>
+    <td> visible light </td>
+  </tr>
+</table>
 
-Additions
-* Light blue incorporeal body
+#### Additions
+- light blue incorporeal body
 
-Abilities
-Physical Attacks
+#### Abilities
+##### Physical Attacks
 * Flying Sky Kick
 * Infinity Impact
     * Infinity Impact Zero
@@ -102,7 +109,7 @@ Finishers
 * Infinity Drive
 
 
-Plasma Powered
+### Plasma Powered
 
 « “Ultraman Infinity: Plasma Powered! Solidify.” »
 
@@ -131,8 +138,18 @@ Finishers
 Combo Finishers
 * Miracle Burster
 
+### Absolute Miracle
 
-Absolute Miracle
+<table>
+  <tr>
+    <td> colour </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> counterpart </td>
+    <td>  </td>
+  </tr>
+</table>
 
 « “Ultraman Infinity: Absolute Miracle. Solidify!” »
 
@@ -160,8 +177,18 @@ Finishers
 Combo Finishers
 * Miracle Burster
 
+### Mythical Break
 
-Mythical Break
+<table>
+  <tr>
+    <td> colour </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> counterpart </td>
+    <td>  </td>
+  </tr>
+</table>
 
 « “Ultraman Infinity: Mythical Break. Solidify.” »
 
@@ -182,8 +209,18 @@ Techniques
 Finishers
 * Infinity Break
 
+### Gamma Strium
 
-Gamma Strium
+<table>
+  <tr>
+    <td> colour </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> counterpart </td>
+    <td>  </td>
+  </tr>
+</table>
 
 « “Quote” »
 
@@ -205,8 +242,18 @@ Finishers
 * Infinity Strium
 * Strium Drive
 
+### White Light
 
-White Light
+<table>
+  <tr>
+    <td> colour </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> counterpart </td>
+    <td>  </td>
+  </tr>
+</table>
 
 « “This is our light! Ultraman Infinity: White Light!” »
 
@@ -230,8 +277,18 @@ Finishers
 * Ultimate Drive
 * Ultimate Infinity Ray
 
+### Shining Spectrum
 
-Shining Spectrum
+<table>
+  <tr>
+    <td> colour </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> counterpart </td>
+    <td>  </td>
+  </tr>
+</table>
 
 « “It's time to end this, once and for all.” »
 
@@ -256,8 +313,18 @@ Techniques
 Finishers
 * Infinity Overdrive
 
+### Infinity Edge
 
-Infinity Edge
+<table>
+  <tr>
+    <td> colour </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> counterpart </td>
+    <td>  </td>
+  </tr>
+</table>
 
 « “Edge Evolution.” »
 
@@ -301,8 +368,18 @@ Finishers
     * Emerium Arc Dragon
 * Edge Especially
 
+### Infinity Essence
 
-Infinity Essence
+<table>
+  <tr>
+    <td> colour </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> counterpart </td>
+    <td>  </td>
+  </tr>
+</table>
 
 « “No watch, no spark, no fusions. Just me, and myself. My purest form.” »
 
@@ -427,17 +504,16 @@ Additions
 
 
 
-Quotes
+## Quotes
 
+> *Sup.*
 
-« “Sup.” »
+> *There cannot be light without darkness. But there cannot be darkness without light. Maybe we'll never eradicate darkness. But we’ll sure as hell keep trying.*
 
-« “There cannot be light without darkness. But there cannot be darkness without light. Maybe we'll never eradicate darkness. But we’ll sure as hell keep trying.” »
+> *Things are never quite as black and white as they seem.*
 
-« “Things are never quite as black and white as they seem.” »
+> *This is the last time. No more.*
 
-« “This is the last time. No more.” »
+> *The time has come for me to reunite with the light, and give back what I have taken.*
 
-« “The time has come for me to reunite with the light, and give back what I have taken.” »
-
-« “Nothing is infinite. Including me.” »
+> *Nothing is infinite. Including me.*
