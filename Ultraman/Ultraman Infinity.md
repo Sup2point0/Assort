@@ -127,38 +127,34 @@ Infinity Drive
 <table>
   <tr>
     <td> colour </td>
-    <td>  </td>
+    <td> red, orange </td>
   </tr>
   <tr>
     <td> counterpart </td>
-    <td>  </td>
+    <td> infrared </td>
   </tr>
 </table>
 
-Features
-Colour: Red, Orange
-Counterpart: Solar Light, Infrared
-
-Additions
+#### Additions
 - Illuminable orange strips on body
 
-Abilities
-Physical Attacks
-- Infinity Buster
-- Plasma Burst
-- Powered Punch
-- Powered Slam
+#### Abilities
+<ins> Attacks </ins>
+Infinity Buster  
+Plasma Burst  
+Powered Punch  
+Powered Slam
 
-Techniques
-- Infrared Intensity
-- Plasma Charge
-- Plasma Hurricane
+<ins> Techniques </ins>
+Infrared Intensity  
+Plasma Charge  
+Plasma Hurricane
 
-Finishers
-- Plasma Burster
+<ins> Finishers </ins>
+Plasma Burster
 
-Combo Finishers
-- Miracle Burster
+<ins> Combo Finishers </ins>
+Miracle Burster
 
 
 ### Absolute Miracle
@@ -168,37 +164,33 @@ Combo Finishers
 <table>
   <tr>
     <td> colour </td>
-    <td>  </td>
+    <td> blue </td>
   </tr>
   <tr>
     <td> counterpart </td>
-    <td>  </td>
+    <td> lunar light, radio </td>
   </tr>
 </table>
 
-Features
-Colour: Blue
-Counterpart: Lunar Light, Radio
-
-Additions
+#### Additions
 - 
 
-Abilities
-Physical Attacks
-- Absolute Impact
-- Absolute Slash
+#### Abilities
+<ins> Attacks </ins>
+Absolute Impact  
+Absolute Slash
 
-Techniques
-- Absolute Astonish
-- Miracle Cyclone
-- Miracle Ray
-- Infinity Daggers
+<ins> Techniques </ins>
+Absolute Astonish  
+Miracle Cyclone  
+Miracle Ray  
+Infinity Daggers
 
-Finishers
-- Miracle Beam
+<ins> Finishers </ins>
+Miracle Beam
 
-Combo Finishers
-- Miracle Burster
+<ins> Combo Finishers </ins>
+Miracle Burster
 
 
 ### Mythical Break
@@ -208,29 +200,25 @@ Combo Finishers
 <table>
   <tr>
     <td> colour </td>
-    <td>  </td>
+    <td> purple </td>
   </tr>
   <tr>
     <td> counterpart </td>
-    <td>  </td>
+    <td> ultraviolet </td>
   </tr>
 </table>
 
-Features
-Colour: Purple
-Counterpart: Ultraviolet
-
-Additions
+#### Additions
 - 
 
-Abilities
-Physical Attacks
+#### Abilities
+<ins> Attacks </ins>
 - 
 
-Techniques
+<ins> Techniques </ins>
 - Multi Spark
 
-Finishers
+<ins> Finishers </ins>
 - Infinity Break
 
 
@@ -241,29 +229,25 @@ Finishers
 <table>
   <tr>
     <td> colour </td>
-    <td>  </td>
+    <td> pink </td>
   </tr>
   <tr>
     <td> counterpart </td>
-    <td>  </td>
+    <td> gamma </td>
   </tr>
 </table>
 
-Features
-Colour: Pink
-Counterpart: Gamma
-
-Additions
+#### Additions
 - 
 
-Abilities
-Physical Attacks
+#### Abilities
+<ins> Attacks </ins>
 - 
 
-Techniques
+<ins> Techniques </ins>
 - Violet Galaxy
 
-Finishers
+<ins> Finishers </ins>
 - Infinity Strium
 - Strium Drive
 
@@ -275,31 +259,27 @@ Finishers
 <table>
   <tr>
     <td> colour </td>
-    <td>  </td>
+    <td> white </td>
   </tr>
   <tr>
     <td> counterpart </td>
-    <td>  </td>
+    <td> white light </td>
   </tr>
 </table>
 
-Features
-Colour: White
-Counterpart: White Light
-
-Additions
+#### Additions
 - 
 
-Abilities
-Physical Attacks
+#### Abilities
+<ins> Attacks </ins>
 - Infinity Impact Ultimate
 
-Techniques
+<ins> Techniques </ins>
 - Infinity Cage
 - Infinity Slice Ultimate
 - Infinity Shield Swarm
 
-Finishers
+<ins> Finishers </ins>
 - Ultimate Drive
 - Ultimate Infinity Ray
 
@@ -311,33 +291,29 @@ Finishers
 <table>
   <tr>
     <td> colour </td>
-    <td>  </td>
+    <td> rainbow </td>
   </tr>
   <tr>
     <td> counterpart </td>
-    <td>  </td>
+    <td> electromagnetic spectrum </td>
   </tr>
 </table>
 
-Features
-Colour: Rainbow
-Counterpart: Electromagnetic Spectrum
-
-Additions
+#### Additions
 - 
 
-Abilities
-Physical Attacks
+#### Abilities
+<ins> Attacks </ins>
 - Infinity Impact Beyond
 
-Techniques
+<ins> Techniques </ins>
 - Infinity Slice Ultimate
 - Shining Barrier
 - Spectrum Sceptre
 - Shining Shields
 - Spectrum Staff
 
-Finishers
+<ins> Finishers </ins>
 - Infinity Overdrive
 
 
@@ -348,17 +324,13 @@ Finishers
 <table>
   <tr>
     <td> colour </td>
-    <td>  </td>
+    <td> white, yellow, green </td>
   </tr>
   <tr>
     <td> counterpart </td>
-    <td>  </td>
+    <td> solar light </td>
   </tr>
 </table>
-
-Features
-Colour: White, Yellow, Green
-Counterpart: Solar Light
 
 Signatures
 - X: Devize
@@ -368,20 +340,20 @@ Signatures
 - Z: Finalize
 - Jean-Nine: Digitize
 
-Additions
+#### Additions
 - Core
 - Edge X
 - [Unnamed]
 - Edge Extreme
 - Edge Nine
 
-Abilities
-Physical Attacks
+#### Abilities
+<ins> Attacks </ins>
 - Lightning Pulse
 - Lightning Slasher
 - Lightning Tackle
 
-Techniques
+<ins> Techniques </ins>
 - Electric Edge
 - Electric Evasion
 - Lightning Punisher
@@ -390,7 +362,7 @@ Techniques
 - Xanadium Arc V(ictory)
 - Xanadium Arc Z
 
-Finishers
+<ins> Finishers </ins>
 - Lightning Drive
 - Electrix Arc Dragon
 - Emerium Arc Dragon
@@ -412,55 +384,55 @@ Finishers
   </tr>
 </table>
 
-Features
-Colour: 
-Signature: 
-
-Additions
+#### Additions
 - 
 
-Abilities
-Physical Attacks
+#### Abilities
+<ins> Attacks </ins>
 - [Unnamed]
 
-Techniques
+<ins> Techniques </ins>
 - Infinity Impact Inversion
 
-Finishers
+<ins> Finishers </ins>
 - Finitium Ray
 - Finitium Burst
 - Infinity Embrace
 
 
-
-Weapons
-
-
-Infinity Watch
+<br>
 
 
-Infinity Spark
+## Weapons
 
 
-Infinity Neo Calibur
+### Infinity Watch
+
+
+### Infinity Spark
+
+
+### Infinity Neo Calibur
 
 > *Since I don’t really need it anymore, I guess... you can have it.*
 
 Features
 
-Abilities
-Techniques
+#### Abilities
+<ins> Techniques </ins>
 - 
 
-Finishers
+<ins> Finishers </ins>
 - 
 
 
+<br>
 
-Ultraman Heart
+
+## Ultraman Heart
 
 
-Ultraman Mebius
+### Ultraman Mebius
 
 > *Fire... that’s it. That’s its weakness!*
 
@@ -468,17 +440,17 @@ Features
 Colour: Orange
 Signature: Brace, Phoenix
 
-Additions
+#### Additions
 - Mebium-Infinity Brace
 - Diamond-shape Colour Timer
 - Golden strips on body
 - Red strips over eyes
 
-Abilities
-Techniques
+#### Abilities
+<ins> Techniques </ins>
 - Doublade
 
-Finishers
+<ins> Finishers </ins>
 - Flame Drive
 - Infinity Dynamite
 
@@ -486,49 +458,49 @@ Combination
 - Phoenix Infinity
 
 
-Ultraman Horizon
+### Ultraman Horizon
 
 > *Quote*
 
 Features
 Colour: Blue
 
-Additions
+#### Additions
 - 
 
-Abilities
-Physical Attacks
+#### Abilities
+<ins> Attacks </ins>
 - Dashing Kick
 - Dashing Punch
 
 
-Ultraman Arc
+### Ultraman Arc
 
 > *Quote*
 
 Features
 Colour: Red
 
-Additions
+#### Additions
 - 
 
-Abilities
-Physical Attacks
+#### Abilities
+<ins> Attacks </ins>
 - Arcium Slash
 - Whirlwind Arc
 
-Finishers
+<ins> Finishers </ins>
 - Infinity Arc
 
 
-Ultrawoman Kade
+### Ultrawoman Kade
 
 > *Quote*
 
 Features
 Colour: Dark Red
 
-Additions
+#### Additions
 - 
 
 
