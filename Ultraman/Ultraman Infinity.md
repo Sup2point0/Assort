@@ -13,6 +13,8 @@
     <a href="#overview"> Overview </a> <br>
     <a href="#transformations"> Transformations </a> <br>
     <a href="#forms"> Forms </a> <br>
+    <a href="#weapons"> Weapons </a> <br>
+    <a href="#ultraman-heart"> Ultraman Heart </a> <br>
     <a href="#quotes"> Quotes </a>
   </td> </tr>
 </table>
@@ -90,7 +92,7 @@
 - light blue incorporeal body
 
 #### Abilities
-<ins> Attacks </ins>
+<ins> Attacks </ins>  
 Flying Sky Kick  
 Infinity Impact  
 Infinity Impact Zero  
@@ -98,7 +100,7 @@ Infinity Slash
 Infinity Strike  
 Infinity Thrust
 
-<ins> Techniques </ins>
+<ins> Techniques </ins>  
 Absorption  
 Deflection  
 Infinity Afterimages  
@@ -113,7 +115,7 @@ Teleportation
 Travel Stream  
 Ultra Spirit
 
-<ins> Finishers </ins>
+<ins> Finishers </ins>  
 Infinity Ray  
 Infinity Burst  
 Infinity Stream  
@@ -139,21 +141,21 @@ Infinity Drive
 - Illuminable orange strips on body
 
 #### Abilities
-<ins> Attacks </ins>
+<ins> Attacks </ins>  
 Infinity Buster  
 Plasma Burst  
 Powered Punch  
 Powered Slam
 
-<ins> Techniques </ins>
+<ins> Techniques </ins>  
 Infrared Intensity  
 Plasma Charge  
 Plasma Hurricane
 
-<ins> Finishers </ins>
+<ins> Finishers </ins>  
 Plasma Burster
 
-<ins> Combo Finishers </ins>
+<ins> Combo Finishers </ins>  
 Miracle Burster
 
 
@@ -176,20 +178,20 @@ Miracle Burster
 - 
 
 #### Abilities
-<ins> Attacks </ins>
+<ins> Attacks </ins>  
 Absolute Impact  
 Absolute Slash
 
-<ins> Techniques </ins>
+<ins> Techniques </ins>  
 Absolute Astonish  
 Miracle Cyclone  
 Miracle Ray  
 Infinity Daggers
 
-<ins> Finishers </ins>
+<ins> Finishers </ins>  
 Miracle Beam
 
-<ins> Combo Finishers </ins>
+<ins> Combo Finishers </ins>  
 Miracle Burster
 
 
@@ -212,13 +214,13 @@ Miracle Burster
 - 
 
 #### Abilities
-<ins> Attacks </ins>
+<ins> Attacks </ins>  
 - 
 
-<ins> Techniques </ins>
+<ins> Techniques </ins>  
 - Multi Spark
 
-<ins> Finishers </ins>
+<ins> Finishers </ins>  
 - Infinity Break
 
 
@@ -241,13 +243,13 @@ Miracle Burster
 - 
 
 #### Abilities
-<ins> Attacks </ins>
+<ins> Attacks </ins>  
 - 
 
-<ins> Techniques </ins>
+<ins> Techniques </ins>  
 - Violet Galaxy
 
-<ins> Finishers </ins>
+<ins> Finishers </ins>  
 - Infinity Strium
 - Strium Drive
 
@@ -271,15 +273,15 @@ Miracle Burster
 - 
 
 #### Abilities
-<ins> Attacks </ins>
+<ins> Attacks </ins>  
 - Infinity Impact Ultimate
 
-<ins> Techniques </ins>
+<ins> Techniques </ins>  
 - Infinity Cage
 - Infinity Slice Ultimate
 - Infinity Shield Swarm
 
-<ins> Finishers </ins>
+<ins> Finishers </ins>  
 - Ultimate Drive
 - Ultimate Infinity Ray
 
@@ -303,17 +305,17 @@ Miracle Burster
 - 
 
 #### Abilities
-<ins> Attacks </ins>
+<ins> Attacks </ins>  
 - Infinity Impact Beyond
 
-<ins> Techniques </ins>
+<ins> Techniques </ins>  
 - Infinity Slice Ultimate
 - Shining Barrier
 - Spectrum Sceptre
 - Shining Shields
 - Spectrum Staff
 
-<ins> Finishers </ins>
+<ins> Finishers </ins>  
 - Infinity Overdrive
 
 
@@ -348,12 +350,12 @@ Signatures
 - Edge Nine
 
 #### Abilities
-<ins> Attacks </ins>
+<ins> Attacks </ins>  
 - Lightning Pulse
 - Lightning Slasher
 - Lightning Tackle
 
-<ins> Techniques </ins>
+<ins> Techniques </ins>  
 - Electric Edge
 - Electric Evasion
 - Lightning Punisher
@@ -362,7 +364,7 @@ Signatures
 - Xanadium Arc V(ictory)
 - Xanadium Arc Z
 
-<ins> Finishers </ins>
+<ins> Finishers </ins>  
 - Lightning Drive
 - Electrix Arc Dragon
 - Emerium Arc Dragon
@@ -388,13 +390,13 @@ Signatures
 - 
 
 #### Abilities
-<ins> Attacks </ins>
+<ins> Attacks </ins>  
 - [Unnamed]
 
-<ins> Techniques </ins>
+<ins> Techniques </ins>  
 - Infinity Impact Inversion
 
-<ins> Finishers </ins>
+<ins> Finishers </ins>  
 - Finitium Ray
 - Finitium Burst
 - Infinity Embrace
@@ -419,10 +421,10 @@ Signatures
 Features
 
 #### Abilities
-<ins> Techniques </ins>
+<ins> Techniques </ins>  
 - 
 
-<ins> Finishers </ins>
+<ins> Finishers </ins>  
 - 
 
 
@@ -447,10 +449,10 @@ Signature: Brace, Phoenix
 - Red strips over eyes
 
 #### Abilities
-<ins> Techniques </ins>
+<ins> Techniques </ins>  
 - Doublade
 
-<ins> Finishers </ins>
+<ins> Finishers </ins>  
 - Flame Drive
 - Infinity Dynamite
 
@@ -469,7 +471,7 @@ Colour: Blue
 - 
 
 #### Abilities
-<ins> Attacks </ins>
+<ins> Attacks </ins>  
 - Dashing Kick
 - Dashing Punch
 
@@ -485,11 +487,11 @@ Colour: Red
 - 
 
 #### Abilities
-<ins> Attacks </ins>
+<ins> Attacks </ins>  
 - Arcium Slash
 - Whirlwind Arc
 
-<ins> Finishers </ins>
+<ins> Finishers </ins>  
 - Infinity Arc
 
 
