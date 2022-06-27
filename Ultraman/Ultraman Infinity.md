@@ -8,8 +8,8 @@
 
 <table>
   <tr> <td>
-    <a href="#overview"> Overview </a>
-    <a href="#transformations"> Transformations </a>
+    <a href="#overview"> Overview </a> <br>
+    <a href="#transformations"> Transformations </a> <br>
     <a href="#forms"> Forms </a>
   </td> </tr>
 </table>
