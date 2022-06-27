@@ -2,7 +2,9 @@
 
 > *I am Ultraman Infinity. Born from the infinite light of the Plasma Spark.*
 
+
 <br>
+
 
 ## Index
 
@@ -15,13 +17,18 @@
   </td> </tr>
 </table>
 
+
 <br>
+
 
 ## Overview
 
+
 <br>
 
+
 ## Transformations
+
 
 ### Initial
 
@@ -37,6 +44,7 @@
 » Raises hand
 » Light blue Infinity ♾ emerges from Infinity Watch
 » Engulfed in light
+
 
 ### Standard
 
@@ -56,9 +64,12 @@
 » Light blue infinity ♾ emerges from Infinity Watch
 » Real-time rise begins
 
+
 <br>
 
+
 ## Forms
+
 
 ### Ultraman Infinity
 
@@ -92,10 +103,10 @@ Absorption
 Deflection  
 Infinity Afterimages  
 Infinity Slice  
-Infinity Barrier  
-Infinity Sceptre  
-Infinity Shields  
-Infinity Staff  
+  Infinity Barrier  
+  Infinity Sceptre  
+  Infinity Shields  
+  Infinity Staff  
 Phase Shift  
 Solidify  
 Teleportation  
@@ -108,9 +119,21 @@ Infinity Burst
 Infinity Stream  
 Infinity Drive
 
+
 ### Plasma Powered
 
 > *Ultraman Infinity: Plasma Powered! Solidify.*
+
+<table>
+  <tr>
+    <td> colour </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> counterpart </td>
+    <td>  </td>
+  </tr>
+</table>
 
 Features
 Colour: Red, Orange
@@ -137,7 +160,10 @@ Finishers
 Combo Finishers
 - Miracle Burster
 
+
 ### Absolute Miracle
+
+> *Ultraman Infinity: Absolute Miracle. Solidify!*
 
 <table>
   <tr>
@@ -149,8 +175,6 @@ Combo Finishers
     <td>  </td>
   </tr>
 </table>
-
-> *Ultraman Infinity: Absolute Miracle. Solidify!*
 
 Features
 Colour: Blue
@@ -176,7 +200,10 @@ Finishers
 Combo Finishers
 - Miracle Burster
 
+
 ### Mythical Break
+
+> *Ultraman Infinity: Mythical Break. Solidify.*
 
 <table>
   <tr>
@@ -188,8 +215,6 @@ Combo Finishers
     <td>  </td>
   </tr>
 </table>
-
-> *Ultraman Infinity: Mythical Break. Solidify.*
 
 Features
 Colour: Purple
@@ -208,7 +233,10 @@ Techniques
 Finishers
 - Infinity Break
 
+
 ### Gamma Strium
+
+> *Quote*
 
 <table>
   <tr>
@@ -220,8 +248,6 @@ Finishers
     <td>  </td>
   </tr>
 </table>
-
-> *Quote*
 
 Features
 Colour: Pink
@@ -241,7 +267,10 @@ Finishers
 - Infinity Strium
 - Strium Drive
 
+
 ### White Light
+
+> *This is our light! Ultraman Infinity: White Light!*
 
 <table>
   <tr>
@@ -253,8 +282,6 @@ Finishers
     <td>  </td>
   </tr>
 </table>
-
-> *This is our light! Ultraman Infinity: White Light!*
 
 Features
 Colour: White
@@ -276,7 +303,10 @@ Finishers
 - Ultimate Drive
 - Ultimate Infinity Ray
 
+
 ### Shining Spectrum
+
+> *It's time to end this, once and for all.*
 
 <table>
   <tr>
@@ -288,8 +318,6 @@ Finishers
     <td>  </td>
   </tr>
 </table>
-
-> *It's time to end this, once and for all.*
 
 Features
 Colour: Rainbow
@@ -312,7 +340,10 @@ Techniques
 Finishers
 - Infinity Overdrive
 
+
 ### Infinity Edge
+
+> *Edge Evolution.*
 
 <table>
   <tr>
@@ -324,8 +355,6 @@ Finishers
     <td>  </td>
   </tr>
 </table>
-
-> *Edge Evolution.*
 
 Features
 Colour: White, Yellow, Green
@@ -367,7 +396,10 @@ Finishers
 - Emerium Arc Dragon
 - Edge Especially
 
+
 ### Infinity Essence
+
+> *No watch, no spark, no fusions. Just me, and myself. My purest form.*
 
 <table>
   <tr>
@@ -379,8 +411,6 @@ Finishers
     <td>  </td>
   </tr>
 </table>
-
-> *No watch, no spark, no fusions. Just me, and myself. My purest form.*
 
 Features
 Colour: 
