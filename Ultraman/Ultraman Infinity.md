@@ -1,24 +1,30 @@
 # Ultraman Infinity
 
-> *“I am Ultraman Infinity. Born from the infinite light of the Plasma Spark.”
+> *“I am Ultraman Infinity. Born from the infinite light of the Plasma Spark.”*
 
+<br>
 
+## Index
 
-Overview
+<table>
+  <tr> <td>
+    <a href="#overview"> Overview </a>
+    <a href="#transformations"> Transformations </a>
+    <a href="#forms"> Forms </a>
+  </td> </tr>
+</table>
 
+<br>
 
-Description
+## Overview
 
-Introduction
+<br>
 
+## Transformations
 
+### Initial
 
-Transformations
-
-
-First
-
-Real-Time
+#### Real-Time
 » Holds hand in front of chest
 » Infinity Watch starts glowing light blue
 » Presses down button
@@ -26,23 +32,21 @@ Real-Time
 » Light blue Infinity ♾ emerges from Infinity Watch
 » Rise begins
 
-Trailer/Opening
+#### Trailer/Opening
 » Raises hand
 » Light blue Infinity ♾ emerges from Infinity Watch
 » Engulfed in light
 
+### Standard
 
-Standard
+#### Real-Time
 
-
-Real-Time
-
-Walking
+#### Walking
 » Infinity Watch starts glowing light blue
 » Places hand over chest
 » Engulfed in light and transforms
 
-Running
+#### Running
 » Throws arm out to side
 » Brings arm up
 » Presses button and slides Infinity Watch
@@ -51,14 +55,14 @@ Running
 » Light blue infinity ♾ emerges from Infinity Watch
 » Real-time rise begins
 
+<br>
+
+## Forms
 
 
-Forms
+### Ultraman Infinity
 
-
-Ultraman Infinity
-
-« “Quote” »
+> *“Quote”* »*
 
 Features
 Colour: Light Blue
