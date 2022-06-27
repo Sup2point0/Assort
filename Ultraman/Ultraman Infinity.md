@@ -35,16 +35,16 @@
 ### Initial
 
 #### Real-Time
-» Holds hand in front of chest
-» Infinity Watch starts glowing light blue
-» Presses down button
-» Pulls arm back and raises it up
-» Light blue Infinity ♾ emerges from Infinity Watch
+» Holds hand in front of chest  
+» Infinity Watch starts glowing light blue  
+» Presses down button  
+» Pulls arm back and raises it up  
+» Light blue Infinity emerges from Infinity Watch  
 » Rise begins
 
 #### Trailer/Opening
 » Raises hand
-» Light blue Infinity ♾ emerges from Infinity Watch
+» Light blue Infinity emerges from Infinity Watch  
 » Engulfed in light
 
 
@@ -53,17 +53,17 @@
 #### Real-Time
 
 #### Walking
-» Infinity Watch starts glowing light blue
-» Places hand over chest
+» Infinity Watch starts glowing light blue  
+» Places hand over chest  
 » Engulfed in light and transforms
 
 #### Running
-» Throws arm out to side
-» Brings arm up
-» Presses button and slides Infinity Watch
-» Throws arm out to side again
-» Throws arm forward
-» Light blue infinity ♾ emerges from Infinity Watch
+» Throws arm out to side  
+» Brings arm up  
+» Presses button and slides Infinity Watch  
+» Throws arm out to side again  
+» Throws arm forward  
+» Light blue infinity emerges from Infinity Watch  
 » Real-time rise begins
 
 
@@ -87,9 +87,6 @@
     <td> visible light </td>
   </tr>
 </table>
-
-#### Additions
-- light blue incorporeal body
 
 #### Abilities
 <ins> Attacks </ins>  
@@ -138,7 +135,7 @@ Infinity Drive
 </table>
 
 #### Additions
-- Illuminable orange strips on body
+- Infinity gains several winding strips of glowing orange down the sides of his body.
 
 #### Abilities
 <ins> Attacks </ins>  
@@ -175,7 +172,7 @@ Miracle Burster
 </table>
 
 #### Additions
-- 
+- &ensp;
 
 #### Abilities
 <ins> Attacks </ins>  
@@ -211,17 +208,17 @@ Miracle Burster
 </table>
 
 #### Additions
-- 
+- &ensp;
 
 #### Abilities
 <ins> Attacks </ins>  
-- 
+&ensp;
 
 <ins> Techniques </ins>  
-- Multi Spark
+Multi Spark
 
 <ins> Finishers </ins>  
-- Infinity Break
+Infinity Break
 
 
 ### Gamma Strium
@@ -240,18 +237,18 @@ Miracle Burster
 </table>
 
 #### Additions
-- 
+- &ensp;
 
 #### Abilities
 <ins> Attacks </ins>  
-- 
+&ensp;
 
 <ins> Techniques </ins>  
-- Violet Galaxy
+Violet Galaxy
 
 <ins> Finishers </ins>  
-- Infinity Strium
-- Strium Drive
+Infinity Strium  
+Strium Drive
 
 
 ### White Light
@@ -270,20 +267,20 @@ Miracle Burster
 </table>
 
 #### Additions
-- 
+- &ensp;
 
 #### Abilities
 <ins> Attacks </ins>  
-- Infinity Impact Ultimate
+Infinity Impact Ultimate
 
 <ins> Techniques </ins>  
-- Infinity Cage
-- Infinity Slice Ultimate
-- Infinity Shield Swarm
+Infinity Cage  
+Infinity Slice Ultimate  
+Infinity Shield Swarm
 
 <ins> Finishers </ins>  
-- Ultimate Drive
-- Ultimate Infinity Ray
+Ultimate Drive  
+Ultimate Infinity Ray
 
 
 ### Shining Spectrum
@@ -302,21 +299,21 @@ Miracle Burster
 </table>
 
 #### Additions
-- 
+- &ensp;
 
 #### Abilities
 <ins> Attacks </ins>  
-- Infinity Impact Beyond
+Infinity Impact Beyond
 
 <ins> Techniques </ins>  
-- Infinity Slice Ultimate
-- Shining Barrier
-- Spectrum Sceptre
-- Shining Shields
-- Spectrum Staff
+Infinity Slice Ultimate  
+Shining Barrier  
+Spectrum Sceptre  
+Shining Shields  
+Spectrum Staff
 
 <ins> Finishers </ins>  
-- Infinity Overdrive
+Infinity Overdrive
 
 
 ### Infinity Edge
@@ -334,41 +331,43 @@ Miracle Burster
   </tr>
 </table>
 
-Signatures
-- X: Devize
-- Arc: Realize
-- Zero: 
-- Victory: Energize
-- Z: Finalize
-- Jean-Nine: Digitize
+#### Signatures
+X &ndash; Devize
+Arc &ndash; Realize
+Zero &ndash; 
+Victory &ndash; Energize
+Z &ndash; Finalize
+Jean-Nine &ndash; Digitize
 
 #### Additions
-- Core
-- Edge X
-- [Unnamed]
-- Edge Extreme
-- Edge Nine
+<ins> Core </ins>
+
+<ins> Edge X </ins>
+
+<ins> Edge Extreme </ins>
+
+<ins> Edge Nine </ins>
 
 #### Abilities
 <ins> Attacks </ins>  
-- Lightning Pulse
-- Lightning Slasher
-- Lightning Tackle
+Lightning Pulse  
+Lightning Slasher  
+Lightning Tackle
 
 <ins> Techniques </ins>  
-- Electric Edge
-- Electric Evasion
-- Lightning Punisher
-- Lightning Spark
-- Xanadium Arc
-- Xanadium Arc V(ictory)
-- Xanadium Arc Z
+Electric Edge  
+Electric Evasion  
+Lightning Punisher  
+Lightning Spark  
+Xanadium Arc  
+Xanadium Arc V(ictory)  
+Xanadium Arc Z
 
 <ins> Finishers </ins>  
-- Lightning Drive
-- Electrix Arc Dragon
-- Emerium Arc Dragon
-- Edge Especially
+Lightning Drive  
+Electrix Arc Dragon  
+Emerium Arc Dragon  
+Edge Especially
 
 
 ### Infinity Essence
@@ -387,19 +386,19 @@ Signatures
 </table>
 
 #### Additions
-- 
+- &ensp;
 
 #### Abilities
 <ins> Attacks </ins>  
-- [Unnamed]
+&ensp;
 
 <ins> Techniques </ins>  
-- Infinity Impact Inversion
+Infinity Impact Inversion
 
 <ins> Finishers </ins>  
-- Finitium Ray
-- Finitium Burst
-- Infinity Embrace
+Finitium Ray  
+Finitium Burst  
+Infinity Embrace
 
 
 <br>
@@ -418,14 +417,14 @@ Signatures
 
 > *Since I don’t really need it anymore, I guess... you can have it.*
 
-Features
+#### Features
 
 #### Abilities
 <ins> Techniques </ins>  
-- 
+&ensp;
 
 <ins> Finishers </ins>  
-- 
+&ensp;
 
 
 <br>
@@ -438,9 +437,18 @@ Features
 
 > *Fire... that’s it. That’s its weakness!*
 
-Features
-Colour: Orange
-Signature: Brace, Phoenix
+#### Features
+
+<table>
+  <tr>
+    <td> colour </td>
+    <td> orange </td>
+  </tr>
+  <tr>
+    <td> signature </td>
+    <td> brace, phoenix </td>
+  </tr>
+</table>
 
 #### Additions
 - Mebium-Infinity Brace
@@ -450,60 +458,84 @@ Signature: Brace, Phoenix
 
 #### Abilities
 <ins> Techniques </ins>  
-- Doublade
+Doublade
 
 <ins> Finishers </ins>  
-- Flame Drive
-- Infinity Dynamite
+Flame Drive  
+Infinity Dynamite
 
-Combination
-- Phoenix Infinity
+<ins> Combination </ins>
+Phoenix Infinity
 
 
 ### Ultraman Horizon
 
 > *Quote*
 
-Features
-Colour: Blue
+<table>
+  <tr>
+    <td> colour </td>
+    <td> blue </td>
+  </tr>
+  <tr>
+    <td> signature </td>
+    <td>  </td>
+  </tr>
+</table>
 
 #### Additions
-- 
+- &ensp;
 
 #### Abilities
 <ins> Attacks </ins>  
-- Dashing Kick
-- Dashing Punch
+Dashing Kick  
+Dashing Punch
 
 
 ### Ultraman Arc
 
 > *Quote*
 
-Features
-Colour: Red
+<table>
+  <tr>
+    <td> colour </td>
+    <td> red </td>
+  </tr>
+  <tr>
+    <td> signature </td>
+    <td>  </td>
+  </tr>
+</table>
 
 #### Additions
-- 
+- &ensp;
 
 #### Abilities
 <ins> Attacks </ins>  
-- Arcium Slash
-- Whirlwind Arc
+Arcium Slash  
+Whirlwind Arc
 
 <ins> Finishers </ins>  
-- Infinity Arc
+Infinity Arc
 
 
 ### Ultrawoman Kade
 
 > *Quote*
 
-Features
-Colour: Dark Red
+<table>
+  <tr>
+    <td> colour </td>
+    <td> dark red </td>
+  </tr>
+  <tr>
+    <td> signature </td>
+    <td>  </td>
+  </tr>
+</table>
 
 #### Additions
-- 
+- &ensp;
 
 
 
