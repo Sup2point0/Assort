@@ -19,7 +19,9 @@ Yep, I collect quotes.
 
 > *Time is a great teacher, but unfortunately it kills all its pupils.*
 
+
 <br>
+
 
 ## Intriguing
 
@@ -39,7 +41,9 @@ Yep, I collect quotes.
 
 > *Every saint has a past, and every sinner has a future.*
 
+
 <br>
+
 
 ## Just Funny
 
