@@ -1,31 +1,16 @@
-s
+# Game Mechanics
 
-s
+An overview of all the mechanics of the game.
 
-s
 
-s
+## Index
 
-s
-
-s
-
-s
-
-# stats
-
-s
-
-s
-
-s
-
-s
-
-s
-
-s
-
-## test
-
-testing
+<table>
+  <td>
+    <a href="#"> vehicles </a> <br>
+    <a href="#"> classes </a> <br>
+    <a href="#"> stats </a> <br>
+    <a href="#"> types </a> <br>
+    <a href="#"> – </a>
+  </td>
+</table>
