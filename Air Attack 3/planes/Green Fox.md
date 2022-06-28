@@ -52,7 +52,9 @@
   </tr>
 </table>
 
+
 <br>
+
 
 ## Stars
 
@@ -61,19 +63,27 @@
 | ⭐⭐ | 🔸 2000 | unlocks ability (*Flamethrower*) <br> unlocks colours (grey + green, grey + green bands) |
 | ⭐⭐⭐ | 🔸 15000 | unlocks boost (+10% resistance to fire damage) <br> unlocks body custolyzation |
 
+
 <br>
+
 
 ## Upgrades
 
+
 <br>
+
 
 ## Ability
 
+
 <br>
+
 
 ## Boosts
 
+
 <br>
+
 
 ## Colours
 

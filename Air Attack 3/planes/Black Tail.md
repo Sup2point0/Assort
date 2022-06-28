@@ -52,7 +52,9 @@
   </tr>
 </table>
 
+
 <br>
+
 
 ## Stars
 
@@ -62,19 +64,27 @@
 | ⭐⭐⭐ | 🔸 24000 | unlocks boost (+15% flight speed) <br> unlocks body custolyzation |
 | ⭐⭐⭐⭐ | 🔹 10 | upgrades ability (increased accuracy) <br> upgrades boost (+15% » **+20%** flight speed) |
 
+
 <br>
+
 
 ## Upgrades
 
+
 <br>
+
 
 ## Abilities
 
+
 <br>
+
 
 ## Boosts
 
+
 <br>
+
 
 ## Colours
 

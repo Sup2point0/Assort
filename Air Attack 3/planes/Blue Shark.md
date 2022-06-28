@@ -52,7 +52,9 @@
   </tr>
 </table>
 
+
 <br>
+
 
 ## Stars
 
@@ -61,19 +63,27 @@
 | ⭐️⭐️ | 🔸 1000 | unlocks ability (*Red Lightning*) <br> unlocks colours (silver, black, grey) |
 | ⭐️⭐️⭐️ | 🔸 8000 | unlocks boost (+10% coin earning) <br> unlocks body custolyzation |
 
+
 <br>
+
 
 ## Upgrades
 
+
 <br>
+
 
 ## Ability
 
+
 <br>
+
 
 ## Boosts
 
+
 <br>
+
 
 ## Colours
 

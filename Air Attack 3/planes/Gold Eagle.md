@@ -52,7 +52,9 @@
   </tr>
 </table>
 
+
 <br>
+
 
 ## Stars
 
@@ -63,19 +65,27 @@
 | ⭐⭐⭐⭐ | 🔹 30 | upgrades passive (increased range) <br> upgrades boost (+10% » **+20%** strength) |
 | ⭐⭐⭐⭐⭐ | 🔹 45 | upgrades ability (burns enemies) |
 
+
 <br>
+
 
 ## Upgrades
 
+
 <br>
+
 
 ## Abilities
 
+
 <br>
+
 
 ## Boosts
 
+
 <br>
+
 
 ## Colours
 

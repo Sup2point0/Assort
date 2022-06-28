@@ -52,7 +52,9 @@
   </tr>
 </table>
 
+
 <br>
+
 
 ## Stars
 
@@ -62,19 +64,27 @@
 | ⭐⭐⭐ | 🔸 30000 | unlocks boost (-5% enemy movement speed) <br> unlocks body custolyzation |
 | ⭐⭐⭐⭐ | 🔹 20 | upgrades ability (7s » **8s** duration) <br> upgrades boost (-5% » **-10%** enemy movement speed) |
 
+
 <br>
+
 
 ## Upgrades
 
+
 <br>
+
 
 ## Abilities
 
+
 <br>
+
 
 ## Boosts
 
+
 <br>
+
 
 ## Colours
 

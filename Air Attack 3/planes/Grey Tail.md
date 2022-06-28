@@ -52,7 +52,9 @@
   </tr>
 </table>
 
+
 <br>
+
 
 ## Stars
 
@@ -61,19 +63,27 @@
 | ⭐⭐ | 🔸 2500 | unlocks ability (*Tail Winger*) <br> unlocks colours (dark grey) |
 | ⭐⭐⭐ | 🔸 12500 | unlocks boost (+10% flight speed) <br> unlocks body custolyzation |
 
+
 <br>
+
 
 ## Upgrades
 
+
 <br>
+
 
 ## Abilities
 
+
 <br>
+
 
 ## Boosts
 
+
 <br>
+
 
 ## Colours
 

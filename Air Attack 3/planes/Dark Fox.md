@@ -52,7 +52,9 @@
   </tr>
 </table>
 
+
 <br>
+
 
 ## Stars
 
@@ -64,19 +66,27 @@
 | ⭐⭐⭐⭐⭐ | 🔹 60 | ugprades ability (increased range) |
 | ⭐⭐⭐⭐⭐⭐ | 🔹 75 | upgrades ability (infects planes with dark virus) <br> unlocks boost () |
 
+
 <br>
+
 
 ## Upgrades
 
+
 <br>
+
 
 ## Abilities
 
+
 <br>
+
 
 ## Boosts
 
+
 <br>
+
 
 ## Colours
 

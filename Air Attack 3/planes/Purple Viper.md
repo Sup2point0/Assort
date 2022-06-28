@@ -52,7 +52,9 @@
   </tr>
 </table>
 
+
 <br>
+
 
 ## Stars
 
@@ -62,19 +64,27 @@
 | ⭐⭐⭐ | 🔸 50000 | unlocks boost (+3s with all powerups) <br> unlocks body custolyzations |
 | ⭐⭐⭐⭐ | 🔹 50 | upgrades ability (increased ghosting effectiveness) <br> upgrades boost (+3s » **+5s** with all powerups) |
 
+
 <br>
+
 
 ## Upgrades
 
+
 <br>
+
 
 ## Abilities
 
+
 <br>
+
 
 ## Boosts
 
+
 <br>
+
 
 ## Colours
 
