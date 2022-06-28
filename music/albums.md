@@ -2,26 +2,28 @@
 
 | album | tracks |
 | :---- | :----- |
-| [Silence of War](#Silence-of-War) | 10 |
-| [Sea Adventure](#Sea-Adventure) | 10 |
-| [Affinity](#Affinity) | 9 |
-| [Droplets](#Droplets) | 6 |
-| [The Next Generation](#The-Next-Generation) | 8 |
-| [X4](#X4) | 4 |
-| [Adventure Z](#Adventure-Z) | 13 |
-| [Bloon Away](#Bloon-Away) | 6 |
-| [Invictus](#Invictus) | 13 |
-| [Ocean Adventure](#Ocean-Adventure) | 12 |
-| [Making](#Making) | 9 |
-| [Cortex](#Cortex) | 9 |
-| [Dark Thoughts](#Dark-Thoughts) | 6 |
-| [Memory of War](#Memory-of-War) | 10 |
-| [Fidelity](#Fidelity) | 7 |
-| [Fantasy](#Fantasy) | 20 |
-| [Antarctica](#Antarctica) | 12 |
-| [Essence](#Essence) | 20+ |
+| [Silence of War](#silence-of-war) | 10 |
+| [Sea Adventure](#sea-adventure) | 10 |
+| [Affinity](#affinity) | 9 |
+| [Droplets](#droplets) | 6 |
+| [The Next Generation](#the-next-generation) | 8 |
+| [X4](#x4) | 4 |
+| [Adventure Z](#adventure-z) | 13 |
+| [Bloon Away](#bloon-away) | 6 |
+| [Invictus](#invictus) | 13 |
+| [Ocean Adventure](#ocean-adventure) | 12 |
+| [Making](#making) | 9 |
+| [Cortex](#cortex) | 9 |
+| [Dark Thoughts](#dark-thoughts) | 6 |
+| [Memory of War](#memory-of-war) | 10 |
+| [Fidelity](#fidelity) | 7 |
+| [Fantasy](#fantasy) | 20 |
+| [Antarctica](#antarctica) | 12 |
+| [Essence](#essence) | 20+ |
+
 
 <br>
+
 
 ## Silence of War
 
@@ -36,7 +38,9 @@ Bitter Flames
 Road to Extinction  
 **Final Excursion**
 
+
 <br>
+
 
 ## Sea Adventure
 
@@ -51,7 +55,9 @@ Sea Fire
 Distant Days  
 Glorious Destiny
 
+
 <br>
+
 
 ## Affinity
 
@@ -65,7 +71,9 @@ Night Camp
 Mellow Hearth  
 Lonely Adventurer
 
+
 <br>
+
 
 ## Droplets
 
@@ -76,7 +84,9 @@ Melting
 **Pinpricks**  
 Ghost of a Touch
 
+
 <br>
+
 
 ## The Next Generation
 
@@ -90,7 +100,9 @@ Everlasting
 **When Time Became History**  
 Second Chance
 
+
 <br>
+
 
 ## X4
 
@@ -99,7 +111,9 @@ Charge
 Quasar  
 Dark Victory
 
+
 <br>
+
 
 ## Adventure Z
 
@@ -117,7 +131,9 @@ Burning Up
 For the Last Time  
 Singularity
 
+
 <br>
+
 
 ## Bloon Away
 
@@ -128,7 +144,9 @@ Jungle Jam
 Twilight Twinkle  
 Discombobloonation
 
+
 <br>
+
 
 ## Invictus
 
@@ -146,7 +164,9 @@ Hollow Crown
 Survive  
 Time Rider
 
+
 <br>
+
 
 ## Ocean Adventure
 
@@ -163,7 +183,9 @@ Bloodstained Treasure
 Journey’s End  
 At What Cost
 
+
 <br>
+
 
 ## Making
 
@@ -177,7 +199,9 @@ Perseverance
 Experience  
 Champion
 
+
 <br>
+
 
 ## Cortex
 
@@ -191,7 +215,9 @@ Wire
 Centre  
 Membrane
 
+
 <br>
+
 
 ## Dark Thoughts
 
@@ -202,7 +228,9 @@ Retribution
 Avenge  
 Mercy
 
+
 <br>
+
 
 ## Memory of War
 
@@ -217,7 +245,9 @@ Never Again
 Remembrance  
 Finality
 
+
 <br>
+
 
 ## Fidelity
 
@@ -229,7 +259,9 @@ Intrepid
 A Time Long Ago  
 Our Story
 
+
 <br>
+
 
 ## Fantasy
 
@@ -244,7 +276,9 @@ Fusion
 Wreckless  
 Touchdown
 
+
 <br>
+
 
 ## Antarctica
 
@@ -260,7 +294,9 @@ Journey to the South Pole
 **Antarctic Adventure**  
 Aurora Australis
 
+
 <br>
+
 
 ## Essence
 
