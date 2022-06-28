@@ -2,10 +2,16 @@
 
 Compounds are distinctive entities comprised of various structures and components.
 
+
 <br>
+
 
 ## Index
 
-- [Paladin](#paladin)
-- [Payback](#payback)
-- [Vengeance](#vengeance)
+<table>
+  <td>
+    <a href="#paladin"> Paladin </a> <br>
+    <a href="#payback"> Payback </a> <br>
+    <a href="#vengeance"> Vengeance </a>
+  </td>
+</table>
