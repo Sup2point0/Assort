@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td> level </td>
-    <td> <a href=""> 1 </a> – 8 </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/Appel/readme.md#series-1--the-adventure">1</a> – 8 </td>
   </tr>
   <tr>
     <td> length </td>
@@ -32,6 +32,9 @@
     <td> <a href="9 – Micro Resistance.md"> Micro Resistance </a> › </td>
   </tr>
 </table>
+
+
+<br>
 
 
 ## Code
