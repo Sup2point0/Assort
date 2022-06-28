@@ -2,15 +2,23 @@
 
 Particles are the active weapons utilyzed by other structures.
 
+
 <br>
+
 
 ## Index
 
-- [Antibody](#antibody)
-- [Proton](#proton)
-- [Alpha](#alpha)
+<table>
+  <td>
+    <a href="#antibody"> Antibody </a> <br>
+    <a href="#proton"> Proton </a> <br>
+    <a href="#alpha"> Alpha </a>
+  </td>
+</table>
+
 
 <br>
+
 
 ## Antibody
 
