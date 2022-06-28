@@ -118,22 +118,32 @@
   </tr>
 </table>
 
+
 <br>
+
 
 ## Classes
 
+
 <br>
+
 
 ## Strengths
 
+
 <br>
+
 
 ## Weaknesses
 
+
 <br>
+
 
 ## Synchronics
 
+
 <br>
+
 
 ## Emergence
