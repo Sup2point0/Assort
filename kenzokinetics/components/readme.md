@@ -19,17 +19,29 @@ Components are the individual constituents of all other structures and compounds
 </table>
 
 ### Physical Weapons
-- [Spike](#spike)
-- [Claw](#claw)
+<table>
+  <td>
+    <a href="#spike"> Spike </a> <br>
+    <a href="#claw"> Claw </a>
+  </td>
+</table>
 
 ### Chemical Weapons
-- [Turret](#turret)
-- [Pulsar](#pulsar)
+<table>
+  <td>
+    <a href="#turret"> Turret </a> <br>
+    <a href="#pulsar"> Pulsar </a>
+  </td>
+</table>
 
 ### Power
-- [Thruster](#thruster)
-- [Core](#core)
-- [Driver](#driver)
+<table>
+  <td>
+    <a href="#thruster"> Thruster </a> <br>
+    <a href="#core"> Core </a> <br>
+    <a href="#driver"> Driver </a>
+  </td>
+</table>
 
 
 <br>
