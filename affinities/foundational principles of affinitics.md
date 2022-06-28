@@ -2,9 +2,15 @@
 
 {desc}
 
+
 <br>
+
 
 ## Index
 
-- [Specialyzation](#specialyzation)
-- [Evolution](#evolution)
+<table>
+  <td>
+    <a href="#specialyzation"> Specialyzation </a> <br>
+    <a href="#evolution"> Evolution </a>
+  </td>
+</table>
