@@ -2,7 +2,9 @@
 
 {desc}
 
+
 <br>
+
 
 ## Series I
 
@@ -21,7 +23,9 @@ Operation Silver Lightning
 Mission: Base V  
 Mission: Node R
 
+
 <br>
+
 
 ## Series II
 
@@ -40,7 +44,9 @@ Operation White Thunder – Island
 Mission: Path L  
 Mission: Link S
 
+
 <br>
+
 
 ## Series III
 
@@ -61,7 +67,9 @@ Operation Last Stand
 Mission: Code X  
 Mission: Nova Z
 
+
 <br>
+
 
 ## Series IV
 
