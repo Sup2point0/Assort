@@ -9,10 +9,14 @@ Components are the individual constituents of all other structures and compounds
 ## Index
 
 ### Structural
-- [Cell](#cell)
-- [Membrane](#membrane)
-- [Shield](#shield)
-- [Receptor](#receptor)
+<table>
+  <td>
+    <a href="#cell"> Cell </a> <br>
+    <a href="#membrane"> Membrane </a> <br>
+    <a href="#shield"> Shield </a> <br>
+    <a href="#receptor"> Receptor </a>
+  </td>
+</table>
 
 ### Physical Weapons
 - [Spike](#spike)
