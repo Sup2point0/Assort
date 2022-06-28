@@ -52,7 +52,9 @@
   </tr>
 </table>
 
+
 <br>
+
 
 ## Stars
 
@@ -63,19 +65,27 @@
 | ⭐⭐⭐⭐ | 🔹 35 | upgrades passive (increased range) <br> upgrades boost (-10% » **-15%** enemy movement speed) |
 | ⭐⭐⭐⭐⭐ | 🔹 50 | upgrades ability (leaves cold air) |
 
+
 <br>
+
 
 ## Upgrades
 
+
 <br>
+
 
 ## Abilities
 
+
 <br>
+
 
 ## Boosts
 
+
 <br>
+
 
 ## Colours
 

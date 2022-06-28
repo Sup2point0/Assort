@@ -52,7 +52,9 @@
   </tr>
 </table>
 
+
 <br>
+
 
 ## Stars
 
@@ -63,19 +65,27 @@
 | ⭐⭐⭐⭐ | 🔸 75000 | upgrades ability (increased splash range) <br> upgrades buff (+10% » **+20%** resistance) |
 | ⭐⭐⭐⭐⭐ | 🔸 200000 | upgrades ability (leaves poisonous gas) |
 
+
 <br>
+
 
 ## Upgrades
 
+
 <br>
+
 
 ## Abilities
 
+
 <br>
+
 
 ## Boosts
 
+
 <br>
+
 
 ## Colours
 

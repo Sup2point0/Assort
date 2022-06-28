@@ -52,7 +52,9 @@
   </tr>
 </table>
 
+
 <br>
+
 
 ## Stars
 
@@ -61,19 +63,27 @@
 | ⭐⭐ | 🔸 3000 | unlocks ability (*Razor Ram*) <br> unlocks colours (white + silver bands) |
 | ⭐⭐⭐ | 🔸 12000 | unlocks boost (+20% resistance to collision damage) <br> unlocks body custolyzation |
 
+
 <br>
+
 
 ## Upgrades
 
+
 <br>
+
 
 ## Abilities
 
+
 <br>
+
 
 ## Boosts
 
+
 <br>
+
 
 ## Colours
 

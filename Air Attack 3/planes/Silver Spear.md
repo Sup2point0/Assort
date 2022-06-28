@@ -52,7 +52,9 @@
   </tr>
 </table>
 
+
 <br>
+
 
 ## Stars
 
@@ -62,19 +64,27 @@
 | ⭐⭐⭐ | 🔹 10 | unlocks boost (+20% resistance to laser attacks) <br> unlocks body custolyzations |
 | ⭐⭐⭐⭐ | 🔹 20 | upgrades ability (increased width) <br> upgrades boost (+20% » **+40%** resistance to laser attacks) |
 
+
 <br>
+
 
 ## Upgrades
 
+
 <br>
+
 
 ## Abilities
 
+
 <br>
+
 
 ## Boosts
 
+
 <br>
+
 
 ## Colours
 

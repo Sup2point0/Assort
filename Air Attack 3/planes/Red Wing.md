@@ -52,7 +52,9 @@
   </tr>
 </table>
 
+
 <br>
+
 
 ## Stars
 
@@ -64,19 +66,27 @@
 | ⭐⭐⭐⭐⭐ | 🔹 75 | ugprades ability (*Phoenix Burst* – scatters laser bullets) |
 | ⭐⭐⭐⭐⭐⭐ | 🔹 100 | upgrades ability (*Scarlet Laser* – releases laser bullets) <br> unlocks secondary boost (+5% strength) |
 
+
 <br>
+
 
 ## Upgrades
 
+
 <br>
+
 
 ## Abilities
 
+
 <br>
+
 
 ## Boosts
 
+
 <br>
+
 
 ## Colours
 

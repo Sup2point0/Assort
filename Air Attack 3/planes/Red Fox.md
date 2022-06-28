@@ -52,7 +52,9 @@
   </tr>
 </table>
 
+
 <br>
+
 
 ## Stars
 
@@ -62,19 +64,27 @@
 | ⭐⭐⭐ | 🔸 24000 | unblocks boost (+25% resistance to fire damage) <br> unlocks body custolyzation |
 | ⭐⭐⭐⭐ | 🔹 25 | upgrades health (120 » **125**) <br> upgrades boost (+25% » **+50%** resistance to fire damage) |
 
+
 <br>
+
 
 ## Upgrades
 
+
 <br>
+
 
 ## Abilities
 
+
 <br>
+
 
 ## Boosts
 
+
 <br>
+
 
 ## Colours
 

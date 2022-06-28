@@ -52,7 +52,9 @@
   </tr>
 </table>
 
+
 <br>
+
 
 ## Stars
 
@@ -64,19 +66,27 @@
 | ⭐⭐⭐⭐⭐ | 🔹 40 | upgrades ability (recovers 10 health) |
 | ⭐⭐⭐⭐⭐⭐ | 🔹 80 | upgrades ability (recovers 10 » **20** health) <br> unlocks secondary boost (+25% coin earning) |
 
+
 <br>
+
 
 ## Upgrades
 
+
 <br>
+
 
 ## Abilities
 
+
 <br>
+
 
 ## Boosts
 
+
 <br>
+
 
 ## Colours
 

@@ -52,7 +52,9 @@
   </tr>
 </table>
 
+
 <br>
+
 
 ## Stars
 
@@ -63,19 +65,27 @@
 | ⭐⭐⭐⭐ | 🔹 40 | upgrades flight speed <br> upgrades boost (-10% » **-15%** boss health) |
 | ⭐⭐⭐⭐⭐ | 🔹 50 | upgrades ability (sucks in enemies) |
 
+
 <br>
+
 
 ## Upgrades
 
+
 <br>
+
 
 ## Abilities
 
+
 <br>
+
 
 ## Boosts
 
+
 <br>
+
 
 ## Colours
 
