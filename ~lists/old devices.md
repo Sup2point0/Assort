@@ -2,5 +2,3 @@ I own a second generation iPad and a half-broken but still somehow functioning i
 
 
 ## Annoying Moments When You’re Using an Old Device
-
-{TBA}
