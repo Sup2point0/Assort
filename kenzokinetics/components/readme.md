@@ -2,7 +2,9 @@
 
 Components are the individual constituents of all other structures and compounds. They span a variety of functions, including maintaining structural integrity, powering reactions and forming weapons.
 
+
 <br>
+
 
 ## Index
 
@@ -25,7 +27,9 @@ Components are the individual constituents of all other structures and compounds
 - [Core](#core)
 - [Driver](#driver)
 
+
 <br>
+
 
 ## Cell
 
