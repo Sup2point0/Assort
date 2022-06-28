@@ -27,7 +27,7 @@
     <th colspan="2"> <h4> Stats </h4> </th>
   </tr>
   <tr>
-    <td> <a href="https://github.com/Sup2point0/Assort/tree/origin/Asphalt%20Fantasy/mechanics.md#stats#test"> test </a> </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/tree/origin/Asphalt%20Fantasy/mechanics.md#test"> test </a> </td>
     <td> – </td>
   </tr>
 </table>
