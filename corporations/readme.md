@@ -5,40 +5,36 @@ An assortment of (fictional) corporations in all fields, but mostly technologics
 
 ## Index
 
-<table>
-  <td>
-    <a href="2.0 Studios.md"> 2.0 Studios </a> <br>
-    <a href="Accel.md"> Accel </a> <br>
-    <a href="Aviaze.md"> Aviaze </a> <br>
-    <a href="Avrax.md"> Avrax </a> <br>
-    <a href="Capaciti.md"> Capaciti </a> <br>
-    <a href="Cellulite.md"> Cellulite </a> <br>
-    <a href="Coltron.md"> Coltron </a> <br>
-    <a href="Dextris.md"> Dextris </a> <br>
-    <a href="Evaze.md"> Evaze </a> <br>
-    <a href="Fuze.md"> Fuze </a> <br>
-    <a href="Galactron.md"> Galactron </a> <br>
-    <a href="HiTech/readme.md"> HiTech/readme </a> <br>
-    <a href="Infrare.md"> Infrare </a> <br>
-    <a href="Injekt.md"> Injekt </a> <br>
-    <a href="Innovision.md"> Innovision </a> <br>
-    <a href="Invictis.md"> Invictis </a> <br>
-    <a href="Kinetik.md"> Kinetik </a> <br>
-    <a href="Magnetech.md"> Magnetech </a> <br>
-    <a href="Mars.md"> Mars </a> <br>
-    <a href="Molecure.md"> Molecure </a> <br>
-    <a href="NeuroForce.md"> NeuroForce </a> <br>
-    <a href="Plethoron.md"> Plethoron </a> <br>
-    <a href="Portal/readme.md"> Portal/readme </a> <br>
-    <a href="Protocell.md"> Protocell </a> <br>
-    <a href="Regna.md"> Regna </a> <br>
-    <a href="Rubicon.md"> Rubicon </a> <br>
-    <a href="Scion.md"> Scion </a> <br>
-    <a href="TechTonic.md"> TechTonic </a> <br>
-    <a href="Vengeance.md"> Vengeance </a> <br>
-    <a href="Venturi.md"> Venturi </a> <br>
-    <a href="Vorking.md"> Vorking </a> <br>
-    <a href="Xserve.md"> Xserve </a> <br>
-    <a href="Yottle.md"> Yottle </a>
-  </td>
-</table>
+[2.0 Studios](2.0%20Studios.md)  
+[Accel](Accel.md)  
+[Aviaze](Aviaze.md)  
+[Avrax](Avrax.md)  
+[Capaciti](Capaciti.md)  
+[Cellulite](Cellulite.md)  
+[Coltron](Coltron.md)  
+[Dextris](Dextris.md)  
+[Evaze](Evaze.md)  
+[Fuze](Fuze.md)  
+[Galactron](Galactron.md)  
+[HiTech](HiTech/readme.md)  
+[Infrare](Infrare.md)  
+[Injekt](Injekt.md)  
+[Innovision](Innovision.md)  
+[Invictis](Invictis.md)  
+[Kinetik](Kinetik.md)  
+[Magnetech](Magnetech.md)  
+[Mars](Mars.md)  
+[Molecure](Molecure.md)  
+[NeuroForce](NeuroForce.md)  
+[Plethoron](Plethoron.md)  
+[Portal](Portal/readme.md)  
+[Protocell](Protocell.md)  
+[Regna](Regna.md)  
+[Rubicon](Rubicon.md)  
+[Scion](Scion.md)  
+[TechTonic](TechTonic.md)  
+[Vengeance](Vengeance.md)  
+[Venturi](Venturi.md)  
+[Vorking](Vorking.md)  
+[Xserve](Xserve.md)  
+[Yottle](Yottle.md)
