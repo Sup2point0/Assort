@@ -25,7 +25,9 @@
   </tr>
 </table>
 
+
 <br>
+
 
 ## Phones
 
@@ -162,7 +164,9 @@
   </tr>
 </table>
 
+
 <br>
+
 
 ## Desktop Components
 
