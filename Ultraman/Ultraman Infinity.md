@@ -33,6 +33,7 @@
     &emsp; <a href="#ultraman-horizon"> Ultraman Horizon </a> <br>
     &emsp; <a href="#ultraman-arc"> Ultraman Arc </a> <br>
     &emsp; <a href="#ultraman-kade"> Ultraman Kade </a> <br>
+    <a href="#trivia"> Trivia </a>
     <a href="#quotes"> Quotes </a>
   </td> </tr>
 </table>
@@ -555,6 +556,16 @@ Infinity Arc
 #### Additions
 - &ensp;
 
+
+<br>
+
+
+## Trivia
+
+- &ensp;
+
+
+<br>
 
 
 ## Quotes
