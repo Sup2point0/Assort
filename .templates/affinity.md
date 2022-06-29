@@ -31,7 +31,7 @@
     <th colspan="2"> <h4> Nomenclature </h4> </th>
   </tr>
   <tr>
-    <td> alternatives </td>
+    <td> aliases </td>
     <td> – </td>
   </tr>
   <tr>
