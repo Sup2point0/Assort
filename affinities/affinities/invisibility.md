@@ -114,10 +114,10 @@ One of the oldest affinities, the ability to render oneself invisible.
 
 ## Nomenclature
 
-| affinity | pronunciation | etymologics | affinitic | pronunciation | etmyologics |
-| :------- | :------------ | :---------- | :-------- | :------------ | :---------- |
-| invisibility | `/ɪnvɪzɪ'bɪlɪti/` | English *invisibility* | invisitron | `/ɪn'vɪzɪtrɒn/` | English *invisibility* + Antarctican *-tron* ‘affinitic’ |
-| *invisibilis* | `/ɪnvɪzɪ'bɪlɪs/` | English *invisibility* + Antarctican *-is* ‘affinity’ | | | |
+| affinity | etymologics | affinitic | etmyologics |
+| :------- | :---------- | :-------- | :---------- |
+| invisibility <br> `/ɪnvɪzɪ'bɪlɪti/` | English *invisibility* | invisitron <br> `/ɪn'vɪzɪtrɒn/` | English *invisibility* + Antarctican *-tron* ‘affinitic’ |
+| *invisibilis* <br>  `/ɪnvɪzɪ'bɪlɪs/` | English *invisibility* + Antarctican *-is* ‘affinity’ | | | |
 
 
 <br>
