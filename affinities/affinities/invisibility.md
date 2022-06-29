@@ -38,7 +38,7 @@ One of the oldest affinities, the ability to render oneself invisible.
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code>/ɪnvɪzɪ'bɪlɪti/</code> <br> <code>/ɪnvɪzɪ'bɪlɪs/</code> </td>
+    <td> <code>/ɪnvɪzɪ'bɪlɪti/</code>, <code>/ɪnvɪzɪ'bɪlɪs/</code> </td>
   </tr>
   <tr>
     <td> affinitic </td>
