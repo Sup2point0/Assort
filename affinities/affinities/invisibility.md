@@ -1,6 +1,6 @@
 # Invisibility
 
-> *Not to be confused with [novis](novis.md) (viral invisiblity) or [incorporealis](incorporealis.md) (absolute invisibility).*
+> *Not to be confused with [novis](novis.md) (viral invisiblity) or [incorporealis](incorporealis.md) (incorporeality).*
 
 One of the oldest affinities, the ability to render oneself invisible.
 
@@ -117,16 +117,31 @@ One of the oldest affinities, the ability to render oneself invisible.
 </table>
 
 
+<br>
+
+
 ## Classes
 
 
-## Strengths
+<br>
 
 
-## Weaknesses
+## Skills
+
+
+<br>
+
+
+## Combat
+
+
+<br>
 
 
 ## Synchronics
+
+
+<br>
 
 
 ## Emergence
