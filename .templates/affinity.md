@@ -39,6 +39,10 @@
     <td> <code> /–/ </code> </td>
   </tr>
   <tr>
+    <td> etymologics </td>
+    <td> – </td>
+  </tr>
+  <tr>
     <td> affinitic </td>
     <td> – </td>
   </tr>
