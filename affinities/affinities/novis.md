@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#channels"> channels </a> </td>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#haptic">haptic</a>, <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#optic">optic</a>, <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#haptic">haptic</a> </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#haptic">haptic</a>, <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#optic">optic</a>, <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#psychic">psychic</a> </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#classes"> classes </a> </td>
@@ -48,14 +48,10 @@
   </tr>
   <tr>
     <td> etymologics </td>
-    <td> Lorien, possibly English *no* + *vis* from ‘visibility’ </td>
+    <td> Loric, possibly English *no* + *vis* in ‘visibility’ </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Affinitics </h4> </th>
-  </tr>
-  <tr>
-    <td> skills </td>
-    <td> turn other objects invisible/incorporeal </td>
   </tr>
   <tr>
     <td> power </td>
@@ -115,6 +111,9 @@
 </table>
 
 
+<br>
+
+
 ## Classes
 
 <table>
@@ -141,13 +140,31 @@
 </table>
 
 
-## Strengths
+<br>
 
 
-## Weaknesses
+## Skills
+
+
+<br>
+
+
+## Combatics
+
+
+<br>
 
 
 ## Synchronics
 
 
+<br>
+
+
 ## Emergence
+
+
+<br>
+
+
+## Trivia
