@@ -134,10 +134,10 @@
     <td colspan="2" align="center"> <em> ultrahaptonovis </em> </td>
   </tr>
   <tr>
-    <td> <em> instahaptonovis </em> </td>
-    <td> <em> permahaptonovis </em> </td>
-    <td> <em> insta-ultrahaptonovis </em> </td>
-    <td> <em> perma-ultrahaptonovis </em> </td>
+    <td> <em> insta-haptonovis </em> </td>
+    <td> <em> perma-haptonovis </em> </td>
+    <td> <em> insta-ultra-haptonovis </em> </td>
+    <td> <em> perma-ultra-haptonovis </em> </td>
   </tr>
   <tr>
     <th rowspan="2"> optic </th>
