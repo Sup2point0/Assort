@@ -130,8 +130,8 @@
   <tr>
   <tr>
     <th rowspan="2"> haptic </th>
-    <td colspan="2"> <em> haptonovis </em> </td>
-    <td colspan="2"> <em> ultrahaptonovis </em> </td>
+    <td colspan="2" align="centre"> <em> haptonovis </em> </td>
+    <td colspan="2" align="centre"> <em> ultrahaptonovis </em> </td>
   </tr>
   <tr>
     <td> <em> instahaptonovis </em> </td>
