@@ -140,7 +140,15 @@
     <td> <em> perma-ultrahaptonovis </em> </td>
   </tr>
   <tr>
-    <th> optic </th>
+    <th rowspan="2"> optic </th>
+    <td colspan="2" align="center"> <em> optonovis </em> </td>
+    <td colspan="2" align="center"> <em> ultra-optonovis </em> </td>
+  </tr>
+  <tr>
+    <td> <em> insta-optonovis </em> </td>
+    <td> <em> perma-optonovis </em> </td>
+    <td> <em> insta-ultra-optonovis </em> </td>
+    <td> <em> perma-ultra-optonovis </em> </td>
   </tr>
   <tr>
     <th> psychic </th>
