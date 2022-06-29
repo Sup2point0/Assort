@@ -128,13 +128,13 @@
 <br>
 
 
-## Strengths
+## Skills
 
 
 <br>
 
 
-## Weaknesses
+## Combat
 
 
 <br>
@@ -147,3 +147,9 @@
 
 
 ## Emergence
+
+
+<br>
+
+
+## Trivia
