@@ -75,16 +75,17 @@
 | [ogatanium](elements/ogatanium.md) | Og |
 | [operium](elements/operium.md) | Op |
 | [oscillium](elements/oscillium.md) | Os |
-| [parallium](elements/parallium.md) | Pa |
+| [paragon](elements/paragon.md) | Pr |
+| [parallium](elements/parallium.md) | Pl |
 | [pedanium](elements/pedanium.md) | Pd |
 | [penduline](elements/penduline.md) | Pe |
 | [pitticine](elements/pitticine.md) | Pi |
-| [plasmium](elements/plasmium.md) | Pl |
-| [platonium](elements/platonium.md) | Pt |
+| [plasmium](elements/plasmium.md) | Ps |
 | [prismarine](elements/prismarine.md) | Pm |
 | [protogen](elements/protogen.md) | P |
 | [provokon](elements/provokon.md) | Pk |
 | [pyrogen](elements/pyrogen.md) | Py |
+| [razzium](elements/razzium.md) | Rz |
 | [redcium](elements/redcium.md) | Re |
 | [redstone](elements/redstone.md) | R |
 | [regalium](elements/regalium.md) | Rg |
@@ -108,6 +109,7 @@
 | [syzocium](elements/syzocium.md) | Sz |
 | [taygon](elements/taygon.md) | Ty |
 | [technocium](elements/technocium.md) | Tc |
+| [tessellium](elements/tessellium.md) | Ts |
 | [trinitium](elements/trinitium.md) | Tn |
 | [trycogen](elements/trycogen.md) | T |
 | [tykon](elements/tykon.md) | Tk |
@@ -123,6 +125,7 @@
 | [vitalitine](elements/vitalitine.md) | Vi |
 | [vitrium](elements/vitrium.md) | V |
 | [vizorium](elements/vizorium.md) | Vz |
+| [vorterium](elements/vorterium.md) | Vo |
 | [xanadium](elements/xanadium.md) | X |
 | [xandorium](elements/xandorium.md) | Xd |
 | [xitharis](elements/xitharis.md) | Xi |
