@@ -48,14 +48,10 @@
   </tr>
   <tr>
     <td> etymologics </td>
-    <td> English *incorporeal* + Antarctican *-is* ‘affinity’ </td>
+    <td> English <em>incorporeal</em> + Antarctican <em>-is</em> ‘affinity’ </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Affinitics </h4> </th>
-  </tr>
-  <tr>
-    <td> skills </td>
-    <td> become incorporeal </td>
   </tr>
   <tr>
     <td> power </td>
