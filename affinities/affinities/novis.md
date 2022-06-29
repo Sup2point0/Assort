@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#classes"> classes </a> </td>
-    <td> <a href="#absolute">absolute</a> </td>
+    <td> <a href="#absolute">absolute</a>, <a href="#instant">instant</a>, <a href="#lingering">lingering</a> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Nomenclature </h4> </th>
@@ -118,7 +118,7 @@
 
 <table>
   <tr>
-    <td></td>
+    <td rowspan="2"></td>
     <th colspan="2"> standard </th>
     <th colspan="2"> absolute </th>
   </tr>
@@ -126,10 +126,13 @@
     <td></td>
     <th> instant </th>
     <th> lingering </th>
+    <th> instant </th>
+    <th> lingering </th>
   <tr>
   <tr>
-    <th> haptic </th>
+    <th rowspan="2"> haptic </th>
     <td> <em>haptonovis</em>, <em>instahaptonovis</em> </td>
+    <td>  </td>
   </tr>
   <tr>
     <th> optic </th>
