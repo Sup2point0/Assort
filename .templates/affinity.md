@@ -54,10 +54,6 @@
     <th colspan="2"> <h4> Affinitics </h4> </th>
   </tr>
   <tr>
-    <td> skills </td>
-    <td> – </td>
-  </tr>
-  <tr>
     <td> power </td>
     <td> – </td>
   </tr>
