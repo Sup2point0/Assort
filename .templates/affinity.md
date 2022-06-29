@@ -39,20 +39,12 @@
     <td> <code> /–/ </code> </td>
   </tr>
   <tr>
-    <td> etymologics </td>
-    <td> – </td>
-  </tr>
-  <tr>
     <td> affinitic </td>
     <td> – </td>
   </tr>
   <tr>
     <td> pronunciation </td>
     <td> <code> /–/ </code> </td>
-  </tr>
-  <tr>
-    <td> etymologics </td>
-    <td> – </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Affinitics </h4> </th>
