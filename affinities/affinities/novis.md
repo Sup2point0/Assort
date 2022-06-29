@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code> /'nəʊvɪs/ </code> </td>
+    <td> <code> /'noʊvɪs/ </code> </td>
   </tr>
   <tr>
     <td> affinitic </td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code> /'nəʊvəs/ </code> </td>
+    <td> <code> /'noʊvəs/ </code> </td>
   </tr>
   <tr>
     <td> etymologics </td>
