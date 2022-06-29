@@ -151,7 +151,15 @@
     <td> <em> perma-ultra-optonovis </em> </td>
   </tr>
   <tr>
-    <th> psychic </th>
+    <th rowspan="2"> psychic </th>
+    <td colspan="2" align="center"> <em> psychonovis </em> </td>
+    <td colspan="2" align="center"> <em> ultra-psychonovis </em> </td>
+  </tr>
+  <tr>
+    <td> <em> insta-psychonovis </em> </td>
+    <td> <em> perma-psychonovis </em> </td>
+    <td> <em> insta-ultra-psychonovis </em> </td>
+    <td> <em> perma-ultra-psychonovis </em> </td>
   </tr>
 </table>
 
