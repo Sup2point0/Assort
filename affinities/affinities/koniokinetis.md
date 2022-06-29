@@ -36,7 +36,7 @@ A highly specialyzed derivative of telekinetis, opting only to control dust and 
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code> /ˌkoʊniːoʊkɪ'nɛtɪs/ </code> </td>
+    <td> <code> /ˌkoʊniːoʊkɪˈnɛtɪs/ </code> </td>
   </tr>
   <tr>
     <td> affinitic </td>
@@ -44,7 +44,7 @@ A highly specialyzed derivative of telekinetis, opting only to control dust and 
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code> /ˌkoʊniːoʊkɪ'nɛtɪk/ </code> </td>
+    <td> <code> /ˌkoʊniːoʊkɪˈnɛtɪk/ </code> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Affinitics </h4> </th>
@@ -118,8 +118,8 @@ A highly specialyzed derivative of telekinetis, opting only to control dust and 
 
 ### Standard
 
-**koniokinetis** `/ˌkoʊniːoʊkɪ'nɛtɪs/`  
-Greek *konio* ‘dust’ + Antarctican English *kinetis* ‘supernatural manipulation’
+koniokinetis `/ˌkoʊniːoʊkɪˈnɛtɪs/`  
+&emsp; Greek *konio* ‘dust’ + Antarctican English *kinetis* ‘supernatural manipulation’
 
 
 <br>
