@@ -15,7 +15,7 @@ One of the oldest affinities, the ability to render oneself invisible.
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#types"> type </a> </td>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#self manipulation"> self manipulation </a> </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#self-manipulation"> self manipulation </a> </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#attributes"> attribute </a> </td>
@@ -33,12 +33,12 @@ One of the oldest affinities, the ability to render oneself invisible.
     <th colspan="2"> <h4> Nomenclature </h4> </th>
   </tr>
   <tr>
-    <td> alternatives </td>
-    <td> <em>invisibilis</em> </td>
+    <td> aliases </td>
+    <td> invisibility, <em>invisibilis</em> </td>
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code>/ɪnvɪzɪ'bɪlɪti/</code>, <code>/ɪnvɪzɪ'bɪlɪs/</code> </td>
+    <td> <code>/ɪnvɪzɪ'bɪlɪti/</code> <br> <code>/ɪnvɪzɪ'bɪlɪs/</code> </td>
   </tr>
   <tr>
     <td> affinitic </td>
@@ -49,15 +49,7 @@ One of the oldest affinities, the ability to render oneself invisible.
     <td> <code> /ɪn'vɪzɪtrɒn/ </code> </td>
   </tr>
   <tr>
-    <td> etymologics </td>
-    <td> English <em>invisibility</em> </td>
-  </tr>
-  <tr>
     <th colspan="2"> <h4> Affinitics </h4> </th>
-  </tr>
-  <tr>
-    <td> skills </td>
-    <td> become invisible </td>
   </tr>
   <tr>
     <td> power </td>
@@ -115,6 +107,17 @@ One of the oldest affinities, the ability to render oneself invisible.
     <td> <a href="flight">flight</a>, <a href="camoflage">camoflage</a> </td>
   </tr>
 </table>
+
+
+<br>
+
+
+## Nomenclature
+
+| affinity | pronunciation | etymologics | affinitic | pronunciation | etmyologics |
+| :------- | :------------ | :---------- | :-------- | :------------ | :---------- |
+| invisibility | `/ɪnvɪzɪ'bɪlɪti/` | English *invisibility* | invisitron | `/ɪn'vɪzɪtrɒn/` | English *invisibility* + Antarctican *-tron* ‘affinitic’ |
+| *invisibilis* | `/ɪnvɪzɪ'bɪlɪs/` | English *invisibility* + Antarctican *-is* ‘affinity’ | | | |
 
 
 <br>
