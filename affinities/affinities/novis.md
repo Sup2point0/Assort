@@ -123,7 +123,6 @@
     <th colspan="2"> absolute </th>
   </tr>
   <tr>
-    <td></td>
     <th> instant </th>
     <th> lingering </th>
     <th> instant </th>
