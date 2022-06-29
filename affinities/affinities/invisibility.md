@@ -132,7 +132,7 @@ One of the oldest affinities, the ability to render oneself invisible.
 <br>
 
 
-## Combat
+## Combatics
 
 
 <br>
