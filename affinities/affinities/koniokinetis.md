@@ -31,12 +31,12 @@ A highly specialyzed derivative of telekinetis, opting only to control dust and 
     <th colspan="2"> <h4> Nomenclature </h4> </th>
   </tr>
   <tr>
-    <td> alternatives </td>
-    <td> none </td>
+    <td> aliases </td>
+    <td> koniokinetis </td>
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code> /ˌkəʊniːəʊkɪ'nɛtɪs/ </code> </td>
+    <td> <code> /ˌkoʊniːoʊkɪ'nɛtɪs/ </code> </td>
   </tr>
   <tr>
     <td> affinitic </td>
@@ -44,11 +44,7 @@ A highly specialyzed derivative of telekinetis, opting only to control dust and 
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code> /ˌkəʊniːəʊkɪ'nɛtɪk/ </code> </td>
-  </tr>
-  <tr>
-    <td> etymologics </td>
-    <td> Greek <em>konio</em> ‘dust’ + Antarctican English <em>kinetis</em> ‘supernatural manipulation’ </td>
+    <td> <code> /ˌkoʊniːoʊkɪ'nɛtɪk/ </code> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Affinitics </h4> </th>
@@ -113,6 +109,17 @@ A highly specialyzed derivative of telekinetis, opting only to control dust and 
     <td> <a href="–"> – </a> </td>
   </tr>
 </table>
+
+
+<br>
+
+
+## Nomenclature
+
+### Standard
+
+**koniokinetis** `/ˌkoʊniːoʊkɪ'nɛtɪs/`  
+Greek *konio* ‘dust’ + Antarctican English *kinetis* ‘supernatural manipulation’
 
 
 <br>
