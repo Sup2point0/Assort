@@ -8,3 +8,5 @@ Don’t we all love to complain about stuff?
 
 - rubber creases paper
 > It is inevitable. And it is just the worst.
+
+- runny nose for several days when even slightly chilled.
