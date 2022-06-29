@@ -25,7 +25,7 @@ A highly specialyzed derivative of telekinetis, opting only to control dust and 
   </tr>
   <tr>
     <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#classes"> classes </a> </td>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/–"> specialyzation spectrus </a> </td>
+    <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/foundational principles of affinitics.md#specialyzation"> specialyzation spectrus </a> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Nomenclature </h4> </th>
@@ -48,18 +48,14 @@ A highly specialyzed derivative of telekinetis, opting only to control dust and 
   </tr>
   <tr>
     <td> etymologics </td>
-    <td> Greek <em>konio</em> ‘dust’ + Antarctican English <em>kinetis</em> ‘supernatural movement manipulation’ </td>
+    <td> Greek <em>konio</em> ‘dust’ + Antarctican English <em>kinetis</em> ‘supernatural manipulation’ </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Affinitics </h4> </th>
   </tr>
   <tr>
-    <td> skills </td>
-    <td> psychic manipulation of dust and other fine particulates </td>
-  </tr>
-  <tr>
     <td> power </td>
-    <td> variable, proficiency-dependent, specialyzation-dependent </td>
+    <td> variable (proficiency-dependent, specialyzation-dependent) </td>
   </tr>
   <tr>
     <td> control </td>
@@ -119,19 +115,37 @@ A highly specialyzed derivative of telekinetis, opting only to control dust and 
 </table>
 
 
+<br>
+
+
 ## Classes
+
+
+<br>
 
 
 ## Skills
 
 
-## Strengths
+<br>
 
 
-## Weaknesses
+## Combatics
+
+
+<br>
 
 
 ## Synchronics
 
 
+<br>
+
+
 ## Emergence
+
+
+<br>
+
+
+## Trivia
