@@ -115,16 +115,37 @@
 </table>
 
 
+<br>
+
+
 ## Classes
 
 
-## Strengths
+<br>
 
 
-## Weaknesses
+## Skills
+
+
+<br>
+
+
+## Combat
+
+
+<br>
 
 
 ## Synchronics
 
 
+<br>
+
+
 ## Emergence
+
+
+<br>
+
+
+## Trivia
