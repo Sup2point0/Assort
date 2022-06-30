@@ -54,7 +54,8 @@
 | [photokinetis](affinities/photokinetis.md) | photokinetic | light control |
 | [phytokinetis](affinities/phytokinetis.md) | phytokinetic | plant control |
 | [plagis](affinities/plagis.md) | poison | poison control |
-| [portalis](affinities/portalis.md) | porter | object teleportation |
+| [portagenetis](affinities/portagenetis.md) | porter | portal creation |
+| [portalis](affinities/portalis.md) | portalus | object teleportation |
 | [pyrokinetis](affinities/pyrokinetis.md) | pyrokinetic | fire control |
 | [secaris](affinities/secaris.md) | slasher | mental cutting |
 | [serikinetis](affinities/serikinetis.md) | serikinetic, weaver | silk shooting |
