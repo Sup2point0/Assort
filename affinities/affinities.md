@@ -14,8 +14,10 @@
 | [biokinetis](affinities/biokinetis.md) | biokinetic | life control |
 | [bonebreaking](affinities/bonebreaking.md) | bonebreaker | break bones |
 | [chronokinetis](affinities/chronokinetis.md) | chronokinetic | time control |
+| [chronosynchronis](affinities/chronosynchronis.md) | chronosynchronic, seer, eye | future sensing |
 | [cincinnis](affinities/cincinnic.md) | cincinnic, key | lock control |
-| [cryokinetis](affinities/cryokinetis.md) | cryokinetic, shiver | Control ice |
+| [conjuris](affinities/conjuris.md) | conjurus, conjurer | object conjuration |
+| [cryokinetis](affinities/cryokinetis.md) | cryokinetic, shiver | control ice |
 | [cuteness](affinities/cuteness.md) | cutiepie | weaponyzed cuteness |
 | [cytokinetis](affinities/cytokinetis.md) | cytokinetic | cell control |
 | [cognitris](affinities/cognitris.md) | cognitron | perfect memory |
@@ -31,9 +33,9 @@
 | [florokinetis](affinities/florokinetis.md) | florokinetic | flower and scent control |
 | [fortis](affinities/fortis.md) | fortus, wrecker | super strength |
 | [forzakinetis](affinities/forzakinetis.md) | forzakinetic, force | force control |
-| [geokinetis](affinities/geokinetis.md) | geokinetic | Control dirt and rocks |
+| [geokinetis](affinities/geokinetis.md) | geokinetic | control dirt and rocks |
 | – | gravitron | gravity control |
-| [gyrokinetis](affinities/gyrokinetis.md) | gyrokinetic, wall-walker | Shift centre of gravity |
+| [gyrokinetis](affinities/gyrokinetis.md) | gyrokinetic, wall-walker | shift centre of gravity |
 | [hydrokinetis](affinities/hydrokinetis.md) | hydrokinetic, nymph | water control |
 | [illusionis](affinities/illusionis.md) | illusionist | illusion control |
 | [incorporealis](affinities/incorporealis.md) | spectre | turn self incorporeal |
@@ -62,7 +64,6 @@
 | [somnis](affinities/somnis.md) | somnos | sleep control |
 | [sonis](affinities/sonis.md) | sonus | sound enchantment |
 | [sonokinetis](affinities/sonokinetis.md) | sonokinetic | sound control |
-| [synchronis](affinities/synchronis.md) | synchronic, seer, eye | future sensing |
 | [technokinetis](affinities/technokinetis.md) | technokinetic, techy | technological control |
 | [telekinetis](affinities/telekinetis.md) | telekinetic, telky, psychokinetic | mental control of objects |
 | [telepathy](affinities/telepathy.md) | telepath | mental communication |
@@ -74,7 +75,6 @@
 | – | animos | enhanced sense |
 | – | healer | heal themselves |
 | – | shield | shield creation |
-| – | echo | sound mimic |
 
 <br>
 
@@ -86,7 +86,7 @@
 | [superis](affinities/superis.md) | superior | affinity learning |
 | [tychis](affinities/tychis.md) | tychus, felixen | luck |
 | [void](affinities/void.md) | – | void manipulation |
-| [ximis](affinities/ximic.md) | ximic | affinity copying |
+| [affinitis](affinities/affinitis.md) | affinitus | affinity copying |
 | – | sentinel, warden | affinity disabling |
 | – | whisper | mind control |
 
