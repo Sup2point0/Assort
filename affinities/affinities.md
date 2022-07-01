@@ -76,7 +76,9 @@
 | – | healer | heal themselves |
 | – | shield | shield creation |
 
+
 <br>
+
 
 ## Superaffinities
 
