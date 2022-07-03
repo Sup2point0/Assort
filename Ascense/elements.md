@@ -23,8 +23,8 @@
 | [criticine](elements/criticine.md) | Ct |
 | [cryzelium](elements/cryzelium.md) | Cz |
 | [cykerium](elements/cykerium.md) | Ck |
-| [cynium](elements/cynium.md) | Cn |
-| [cypton](elements/cypton.md) | Cy |
+| [cynium](elements/cynium.md) | Cy |
+| [cypton](elements/cypton.md) | C |
 | [deathcium](elements/deathcium.md) | Dc |
 | [delton](elements/delton.md) | D |
 | [deracium](elements/deracium.md) | Tg |
@@ -45,7 +45,7 @@
 | [finessine](elements/finessine.md) | Fi |
 | [forium](elements/forium.md) | Fr |
 | [galaxium](elements/galaxium.md) | Gx |
-| [gammium](elements/gammium.md) | C |
+| [gammium](elements/gammium.md) | G |
 | [generacium](elements/generacium.md) | Gc |
 | [gyrogen](elements/gyrogen.md) | Gy |
 | [hikarium](elements/hikarium.md) | Ph |
@@ -62,7 +62,7 @@
 | [loricium](elements/loricium.md) | Li |
 | [lorium](elements/lorium.md) | L |
 | [lucinium](elements/lucinium.md) | Lu |
-| [lycium](elements/lycium.md) | Lc |
+| [lycium](elements/lycium.md) | Ly |
 | [lyrine](elements/lyrine.md) | Lr |
 | [magatanium](elements/magatanium.md) | Mg |
 | [magnium](elements/magnium.md) | Mn |
@@ -80,7 +80,6 @@
 | [pedanium](elements/pedanium.md) | Pd |
 | [penduline](elements/penduline.md) | Pe |
 | [pitticine](elements/pitticine.md) | Pi |
-| [plasmium](elements/plasmium.md) | Ps |
 | [prismarine](elements/prismarine.md) | Pm |
 | [protogen](elements/protogen.md) | P |
 | [provokon](elements/provokon.md) | Pk |
