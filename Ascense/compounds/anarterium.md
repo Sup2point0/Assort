@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td> composition </td>
-    <td> 68~92% arterium <br> 8~32% anerium </td>
+    <td> 68~92% At <br> 8~32% An </td>
   </tr>
   <tr>
     <td> <a href="–"> class </a> </td>
@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td> <a href="–"> archetype </a> </td>
-    <td> anerionics </td>
+    <td> anerionic </td>
   </tr>
   <tr>
     <td> <a href="–"> affinity </a> </td>
