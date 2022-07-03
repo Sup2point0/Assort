@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td> compounds </td>
-    <td> <a href="compounds/anarterium.md"> anarterium </a> </td>
+    <td> <a href="../compounds/anarterium.md"> anarterium </a> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Navigation </h4> </th>
