@@ -1,4 +1,4 @@
-# Element
+# Compound
 
 {desc}
 
@@ -8,39 +8,35 @@
     <th colspan="2"> <h3> – </h3> </th>
   </tr>
   <tr>
-    <td> symbol </td>
+    <td> formula </td>
     <td> <code> – </code> </td>
   </tr>
   <tr>
-    <td> affinity </td>
+    <td> composition </td>
+    <td> – </td>
+  </tr>
+  <tr>
+    <td> <a href="–"> class </a> </td>
     <td> – </td> 
   </tr>
   <tr>
-    <td> class </td>
+    <td> <a href="–"> archetype </a> </td>
     <td> – </td>
   </tr>
   <tr>
-    <td> archetype </td>
-    <td> – </td>
-  </tr>
-  <tr>
-    <td> generation </td>
-    <td> <code> – </code> </td>
+    <td> <a href="–"> affinity </a> </td>
+    <td> – </td> 
   </tr>
   <tr>
     <th colspan="2"> <h4> Nomenclature </h4> </th>
   </tr>
   <tr>
+    <td> alternatives </td>
+    <td> – </td>
+  </tr>
+  <tr>
     <td> pronounciation </td>
     <td> <code> /–/ </code> </td> 
-  </tr>
-  <tr>
-    <td> eponym </td>
-    <td> – </td>
-  </tr>
-  <tr>
-    <td> category </td>
-    <td> – </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Miscellaneous </h4> </th>
@@ -54,7 +50,7 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> compounds </td>
+    <td> stability </td>
     <td> – </td>
   </tr>
   <tr>
@@ -62,10 +58,11 @@
   </tr>
   <tr>
     <td> related </td>
-    <td> <a href="–"> – </a> </td> 
+    <td> <a href="–"> – </a> </td>
   </tr>
   <tr>
-    <td> ‹ <a href="–"> – </a> </td>
-    <td> <a href="–"> – </a> › </td>
+    <td> constituents </td>
+    <td> <a href="elements/.md"> – </a> </td>
+    <td> <a href="elements/.md"> – </a> </td>
   </tr>
 </table>
