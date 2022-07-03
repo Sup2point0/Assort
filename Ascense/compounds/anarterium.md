@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td> constituents </td>
-    <td> <a href="elements/arterium.md"> arterium </a> </td>
-    <td> <a href="elements/anerium.md"> anerium </a> </td>
+    <td> <a href="elements/arterium.md"> arterium </a>
+    <br> <a href="elements/anerium.md"> anerium </a> </td>
   </tr>
 </table>
