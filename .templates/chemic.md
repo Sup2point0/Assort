@@ -16,15 +16,15 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> <a href="–"> class </a> </td>
+    <td> <a href="../readme.md#class"> class </a> </td>
     <td> – </td> 
   </tr>
   <tr>
-    <td> <a href="–"> archetype </a> </td>
+    <td> <a href="../readme.md#archetype"> archetype </a> </td>
     <td> – </td>
   </tr>
   <tr>
-    <td> <a href="–"> affinity </a> </td>
+    <td> <a href="../readme.md#affinity"> affinity </a> </td>
     <td> – </td> 
   </tr>
   <tr>
