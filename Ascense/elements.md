@@ -11,7 +11,6 @@
 | [archnium](elements/archnium.md) | Ar |
 | [arterium](elements/arterium.md) | At |
 | [aurium](elements/aurium.md) | Au |
-| [avagadron](elements/avagadron.md) | Av |
 | [axividium](elements/axividium.md) | Ax |
 | [berserkium](elements/berserkium.md) | Bk |
 | [beton](elements/beton.md) | B |
@@ -38,7 +37,6 @@
 | [emerium](elements/emerium.md) | Em |
 | [eridine](elements/eridine.md) | Er |
 | [etanium](elements/etanium.md) | E |
-| [evangelium](elements/evangelium.md) | Eg |
 | [evorium](elements/evorium.md) | Ev |
 | [exogen](elements/exogen.md) | Ex |
 | [fidelium](elements/fidelium.md) | Fd |
@@ -65,7 +63,6 @@
 | [lycium](elements/lycium.md) | Ly |
 | [lyrine](elements/lyrine.md) | Lr |
 | [magatanium](elements/magatanium.md) | Mg |
-| [magnium](elements/magnium.md) | Mn |
 | [mebium](elements/mebium.md) | Mb |
 | [netherine](elements/netherine.md) | Nt |
 | [nexon](elements/nexon.md) | Nx |
@@ -85,12 +82,12 @@
 | [provokon](elements/provokon.md) | Pk |
 | [pyrogen](elements/pyrogen.md) | Py |
 | [razzium](elements/razzium.md) | Rz |
-| [redcium](elements/redcium.md) | Re |
+| [redcium](elements/redcium.md) | Rc |
 | [redstone](elements/redstone.md) | R |
 | [regalium](elements/regalium.md) | Rg |
-| [retinium](elements/retinium.md) | Rt |
+| [retinium](elements/retinium.md) | Re |
 | [revolium](elements/revolium.md) | Rv |
-| [reycurium](elements/reycurium.md) | Rc |
+| [reycurium](elements/reycurium.md) | Ry |
 | [rubicon](elements/rubicon.md) | Rb |
 | [runium](elements/runium.md) | Rn |
 | [sepron](elements/sepron.md) | S |
@@ -110,6 +107,7 @@
 | [technocium](elements/technocium.md) | Tc |
 | [tessellium](elements/tessellium.md) | Ts |
 | [trinitium](elements/trinitium.md) | Tn |
+| [trivedium](elements/trivedium.md) | Rt |
 | [trycogen](elements/trycogen.md) | T |
 | [tykon](elements/tykon.md) | Tk |
 | [ultron](elements/ultron.md) | U |
@@ -127,7 +125,7 @@
 | [vorterium](elements/vorterium.md) | Vo |
 | [xanadium](elements/xanadium.md) | X |
 | [xandorium](elements/xandorium.md) | Xd |
-| [xitharis](elements/xitharis.md) | Xi |
+| [xitharine](elements/xitharine.md) | Xi |
 | [xyzium](elements/xyzium.md) | Xz |
 | [yvelton](elements/yvelton.md) | Yv |
 | [zedcium](elements/zedcium.md) | Zc |
@@ -136,4 +134,3 @@
 | [zetanium](elements/zetanium.md) | Z |
 | [zexallium](elements/zexallium.md) | Zx |
 | [zycium](elements/zycium.md) | Zy |
-| [zygon](elements/zygon.md) | Zg |
