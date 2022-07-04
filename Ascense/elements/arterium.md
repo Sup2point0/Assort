@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td> etymologics </td>
-    <td> <em> Arterion </em> the Electromagnetic Warrior </td>
+    <td> <em>Arterion</em> the Electromagnetic Warrior (legendary figure) </td>
   </tr>
   <tr>
     <td> category </td>
