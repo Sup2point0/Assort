@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td> pronounciation </td>
-    <td> <code> /–/ </code> </td> 
+    <td> <code> /'sɛprɒn/ </code> </td> 
   </tr>
   <tr>
     <td> etymologics </td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td> compounds </td>
-    <td> <a href="–"> seprone </a> </td>
+    <td> <a href="../compounds/seprone.md"> seprone </a> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Navigation </h4> </th>

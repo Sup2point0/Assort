@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td> pronounciation </td>
-    <td> <code> /–/ </code> </td> 
+    <td> <code> /'sɪptɒn/ </code> </td> 
   </tr>
   <tr>
     <td> etymologics </td>
