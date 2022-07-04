@@ -23,7 +23,7 @@ A full list of affinities can be found [here](affinities.md).
     &emsp; <a href="#technis"> Technis </a> <br>
     &emsp; <a href="#portalis"> Portalis </a> <br>
     <a href="#channels"> Channels </a> <br>
-    &emsp; <a href="#innate"> Innate </a>
+    &emsp; <a href="#innate"> Innate </a> <br>
     &emsp; <a href="#psychic"> Psychic </a> <br>
     &emsp; <a href="#haptic"> Haptic </a> <br>
     &emsp; <a href="#optic"> Optic </a> <br>
