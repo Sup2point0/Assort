@@ -11,7 +11,7 @@ Every favourite thing you could ever imagine (eventually).
 | category | favourite |
 | :------- | :-------- |
 | animal | dragon <br> spider |
-| book genre | dystopian fantasy fiction |
+| book genre | dystopian fantasy future fiction |
 | colour | blue <br> pink <br> orange <br> purple |
 | country | Antarctica |
 | climate | temperate |
