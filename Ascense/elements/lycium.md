@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td> pronounciation </td>
-    <td> <code> /–/ </code> </td> 
+    <td> <code> /'lɪsɪəm, lʌɪ'sɪəm/ </code> </td> 
   </tr>
   <tr>
     <td> etymologics </td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td> compounds </td>
-    <td> <a href="–"> lycerium </a> </td>
+    <td> <a href="../compounds/lycerium.md"> lycerium </a> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Navigation </h4> </th>
