@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td> level </td>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/Appel/readme.md#series-1--the-adventure">1</a> – 10 </td>
+    <td> <a href="../readme.md#series-1--the-adventure">1</a> – 10 </td>
   </tr>
   <tr>
     <td> length </td>

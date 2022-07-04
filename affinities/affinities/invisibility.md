@@ -14,19 +14,19 @@ One of the oldest affinities, the ability to render oneself invisible.
     <td> turn self invisible </td>
   </tr>
   <tr>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#types"> type </a> </td>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#self-manipulation"> self manipulation </a> </td>
+    <td> <a href="../readme.md#types"> type </a> </td>
+    <td> <a href="../readme.md#self-manipulation"> self manipulation </a> </td>
   </tr>
   <tr>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#attributes"> attribute </a> </td>
+    <td> <a href="../readme.md#attributes"> attribute </a> </td>
     <td> none </td>
   </tr>
   <tr>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#channels"> channels </a> </td>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#innate"> innate </a> </td>
+    <td> <a href="../readme.md#channels"> channels </a> </td>
+    <td> <a href="../readme.md#innate"> innate </a> </td>
   </tr>
   <tr>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#classes"> classes </a> </td>
+    <td> <a href="../readme.md#classes"> classes </a> </td>
     <td> none </td>
   </tr>
   <tr>
@@ -64,19 +64,19 @@ One of the oldest affinities, the ability to render oneself invisible.
     <td> very high </td>
   </tr>
   <tr>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#finesse"> finesse </a> </td>
+    <td> <a href="../readme.md#finesse"> finesse </a> </td>
     <td> very high </td>
   </tr>
   <tr>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#harmony"> harmony </a> </td>
+    <td> <a href="../readme.md#harmony"> harmony </a> </td>
     <td> very high </td>
   </tr>
   <tr>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#synchrony"> synchrony </a> </td>
+    <td> <a href="../readme.md#synchrony"> synchrony </a> </td>
     <td> extremely high </td>
   </tr>
   <tr>
-    <td> <a href="https://github.com/Sup2point0/Assort/blob/origin/affinities/readme.md#enhancement"> enhancement </a> </td>
+    <td> <a href="../readme.md#enhancement"> enhancement </a> </td>
     <td> very low </td>
   </tr>
   <tr>
