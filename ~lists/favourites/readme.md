@@ -92,6 +92,7 @@ Every favourite thing you could ever imagine (eventually).
 | mathematics field | geometry |
 | musical key | C# major <br> D major <br> F# major |
 | Microsoft Office application | Microsoft PowerPoint (2016) |
+| Minecraft wood type | stripped oak <br> stripped birch <br> oak wood |
 | phone | iPhone SE (2016) <br> iPhone SE (2020) <br> iPhone 5s |
 | physics field | particle physics |
 | pokémon | Pikachu <br> Squirtle <br> Yveltal |
