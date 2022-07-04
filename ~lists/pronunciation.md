@@ -3,7 +3,13 @@ Some words I first encountered through only text, and so devyzed my own pronunci
 
 ## Words I Obstinately Refuse to Pronounce Correctly
 
+### acetic
+
 ### disciple
+
+### -erium
+
+### polypropylene
 
 ### psychiatry
 
