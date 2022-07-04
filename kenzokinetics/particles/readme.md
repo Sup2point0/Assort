@@ -26,7 +26,7 @@ Antibodies are the mass soldiers, ineffective by themselves, but overwhelmingly 
 
 | basic antibody | boosted antibody | charged antibody |
 | :------------: | :--------------: | :--------------: |
-| ![antibody.basic](https://github.com/Sup2point0/Assort/blob/origin/.assets/kenzokinetics/particles/antibody.basic.png) | ![antibody.boosted](https://github.com/Sup2point0/Assort/blob/origin/.assets/kenzokinetics/particles/antibody.boosted.png) | ![antibody.charged](https://github.com/Sup2point0/Assort/blob/origin/.assets/kenzokinetics/particles/antibody.boosted.png) |
+| ![antibody.basic](../.assets/kenzokinetics/particles/antibody.basic.png) | ![antibody.boosted](../../.assets/kenzokinetics/particles/antibody.boosted.png) | ![antibody.charged](https://github.com/Sup2point0/Assort/blob/origin/.assets/kenzokinetics/particles/antibody.boosted.png) |
 
 | spike antibody | signal antibody |
 | :------------: | :-------------: |
