@@ -51,4 +51,4 @@ Components are the individual constituents of all other structures and compounds
 
 | basic cell |
 | :--------: |
-| ![cell.basic](https://github.com/Sup2point0/Assort/blob/origin/.assets/kenzokinetics/components/cell.basic.png) |
+| ![cell.basic](../../.assets/kenzokinetics/components/cell.basic.png) |
