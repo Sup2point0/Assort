@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td> alternatives </td>
-    <td> viral invisibility </td>
+    <td> viral invisibility, viral incorporeality </td>
   </tr>
   <tr>
     <td> pronunciation </td>
@@ -124,8 +124,8 @@
 
 | class | term | pronunciation | etymologics |
 | :---- | :--- | :------------ | :---------- |
-| affinity | novis | `/'noʊvɪs/` | Loric, possibly English ***no*** + ***vis*** in *visibility*, or English ***nova*** + Antarctican English ***-is*** ‘affinity’ |
-| affinitic | novus | `/'noʊvəs/` | ***nov*** in *novis* + Antarctican English *-us* ‘affinitic’ |
+| affinity | novis | `/'noʊvɪs/` | Loric <br> possibly English ***no*** (possibly in *not*) + ***vis*** in *visibile*, literally ‘not visible’ <br> possibly English ***nova*** + Antarctican English ***-is*** ‘affinity’ |
+| affinitic | novus | `/'noʊvəs/` | ***nov***- in *novis* + Antarctican English *-us* ‘affinitic’ |
 
 ### Colloquial
 
