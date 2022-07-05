@@ -31,6 +31,10 @@
     <th colspan="2"> <h4> Nomenclature </h4> </th>
   </tr>
   <tr>
+    <td> pronunciation </td>
+    <td> <code> /–/ </code> </td>
+  </tr>
+  <tr>
     <td> aliases </td>
     <td> – </td>
   </tr>
