@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td> etymologics </td>
-    <td> <em>Arterion</em> the Electromagnetic Warrior (legendary figure) </td>
+    <td> <em>Arterion</em> the Electromagnetic Warrior (legendary figure) + English </em>-ium</em> ‘element’ </td>
   </tr>
   <tr>
     <td> category </td>
