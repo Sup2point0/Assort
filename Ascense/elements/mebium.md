@@ -1,23 +1,23 @@
-# Elekine
+# Mebium
 
 {desc}
 
 
 <table>
   <tr>
-    <th colspan="2"> <h3> elekine </h3> </th>
+    <th colspan="2"> <h3> mebium </h3> </th>
   </tr>
   <tr>
     <td> symbol </td>
-    <td> <code> Ek </code> </td>
+    <td> <code> Mb </code> </td>
   </tr>
   <tr>
     <td> <a href="../readme.md#class"> class </a> </td>
-    <td> – </td> 
+    <td> viscetal </td> 
   </tr>
   <tr>
     <td> <a href="../readme.md#archetype"> archetype </a> </td>
-    <td> – </td>
+    <td> <a href="–"> luxine </a> </td>
   </tr>
   <tr>
     <td> generation </td>
@@ -28,40 +28,40 @@
   </tr>
   <tr>
     <td> pronounciation </td>
-    <td> <code> /'ɛləkiːn, 'ɛlɪkiːn/ </code> </td> 
+    <td> <code> /'mɛbɪəm/ </code> </td> 
   </tr>
   <tr>
     <td> etymologics </td>
-    <td> <a href="https://ultra.fandom.com/wiki/Eleking"> <em> Eleking </em> </a> (kaiju) </td>
+    <td> <a href="https://ultra.fandom.com/wiki/Ultraman_Mebius_(character)"> Ultraman <em>Mebius</em> </a> </td>
   </tr>
   <tr>
     <td> category </td>
-    <td> eponymous </td>
+    <td> – </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Miscellaneous </h4> </th>
   </tr>
   <tr>
     <td> rarity </td>
-    <td> moderate </td>
+    <td> – </td>
   </tr>
   <tr>
     <td> state </td>
-    <td> plasflux </td>
+    <td> – </td>
   </tr>
   <tr>
     <td> compounds </td>
-    <td> <a href="../compounds/elektrokine.md"> elektrokine </a> </td>
+    <td> – </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Navigation </h4> </th>
   </tr>
   <tr>
     <td> related </td>
-    <td> <a href="elektronomium.md"> elektronomium </a> </td>
+    <td> <a href="–"> – </a> </td>
   </tr>
   <tr>
-    <td> ‹ <a href="dynatium.md"> dynatium </a> </td>
-    <td> <a href="elektronomium.md"> elektronomium </a> › </td>
+    <td> ‹ <a href="–"> – </a> </td>
+    <td> <a href="–"> – </a> › </td>
   </tr>
 </table>
