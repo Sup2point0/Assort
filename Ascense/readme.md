@@ -64,7 +64,7 @@ The Antarctican Scientific Complete Enumeration of Natural and Synthesyzed Eleme
 
 ## Archetypes
 
-{desc}
+Archetypes are series of elements or compounds with similar properties, and often nomenclature.
 
 ### Prime
 
