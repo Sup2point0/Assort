@@ -31,12 +31,16 @@
     <th colspan="2"> <h4> Nomenclature </h4> </th>
   </tr>
   <tr>
+    <td> pronunciation </td>
+    <td> <code> /ˌɪnkəˈpɔːrɪalɪs, ˌɪnkɔːˈpɔːrɪalɪs/ </code> </td>
+  </tr>
+  <tr>
     <td> alternatives </td>
     <td> incorporeality </td>
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code>/ˌɪnkəˈpɔːrɪalɪs, ˌɪnkɔːˈpɔːrɪalɪs/</code>, <code>/ˌɪnkəˈpɔːrɪalɪti, ˌɪnkɔːˈpɔːrɪalɪti/</code> </td>
+    <td> <code> /ˌɪnkəˈpɔːrɪalɪti, ˌɪnkɔːˈpɔːrɪalɪti/ </code> </td>
   </tr>
   <tr>
     <td> affinitic </td>
@@ -45,10 +49,6 @@
   <tr>
     <td> pronunciation </td>
     <td> <code> /'spɛktə/ </code> </td>
-  </tr>
-  <tr>
-    <td> etymologics </td>
-    <td> English <em>incorporeal</em> + Antarctican <em>-is</em> ‘affinity’ </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Affinitics </h4> </th>
@@ -113,6 +113,25 @@
     <td> <a href="internis.md"> internis </a> </td>
   </tr>
 </table>
+
+
+<br>
+
+
+## Nomenclature
+
+### Standard
+
+| class | term | pronunciation | etymologics |
+| :---- | :--- | :------------ | :---------- |
+| affinity | incorporealis | `/ˌɪnkəˈpɔːrɪalɪs, ˌɪnkɔːˈpɔːrɪalɪs/` | English ***incorporeal*** + Antarctican ***-is*** ‘affinity’ |
+| affinitic | spectre | `/'spɛktə/` | *spectre* – a ghost, which is *incorporeal* |
+
+### Colloquial
+
+| class | term | pronunciation | etymologics |
+| :---- | :--- | :------------ | :---------- |
+| affinity | incorporeality | `/ˌɪnkəˈpɔːrɪalɪti, ˌɪnkɔːˈpɔːrɪalɪti/` | *incorporeality* – having no material existence |
 
 
 <br>
