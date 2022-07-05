@@ -12,11 +12,11 @@
     <td> <code> Cy </code> </td>
   </tr>
   <tr>
-    <td> class </td>
+    <td> <a href="../readme.md#class"> class </td>
     <td> – </td> 
   </tr>
   <tr>
-    <td> archetype </td>
+    <td> <a href="../readme.md#archetype"> archetype </td>
     <td> prime </td>
   </tr>
   <tr>

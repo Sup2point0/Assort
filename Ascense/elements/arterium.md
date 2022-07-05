@@ -12,11 +12,11 @@
     <td> <code> At </code> </td>
   </tr>
   <tr>
-    <td> class </td>
+    <td> <a href="../readme.md#class"> class </td>
     <td> arcetal </td> 
   </tr>
   <tr>
-    <td> archetype </td>
+    <td> <a href="../readme.md#archetype"> archetype </td>
     <td> – </td>
   </tr>
   <tr>
