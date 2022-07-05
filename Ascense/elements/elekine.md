@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td> etymologics </td>
-    <td> <a href="https://ultra.fandom.com/wiki/Eleking"> <em> Eleking </em> </a> (kaiju) </td>
+    <td> <a href="https://ultra.fandom.com/wiki/Eleking"><em>Eleking</em></a> (kaiju) </td>
   </tr>
   <tr>
     <td> category </td>
