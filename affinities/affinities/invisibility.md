@@ -68,6 +68,10 @@ One of the oldest affinities, the ability to render oneself invisible.
     <td> very high </td>
   </tr>
   <tr>
+    <td> range </td>
+    <td> self </td>
+  </tr>
+  <tr>
     <td> <a href="../readme.md#harmony"> harmony </a> </td>
     <td> very high </td>
   </tr>

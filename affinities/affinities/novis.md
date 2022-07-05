@@ -70,6 +70,10 @@
     <td> high </td>
   </tr>
   <tr>
+    <td> range </td>
+    <td> short </td>
+  </tr>
+  <tr>
     <td> <a href="../readme.md#harmony"> harmony </a> </td>
     <td> moderate </td>
   </tr>

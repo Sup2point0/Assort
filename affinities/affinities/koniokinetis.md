@@ -66,6 +66,10 @@ A highly specialyzed derivative of telekinetis, opting only to control dust and 
     <td> extremely high </td>
   </tr>
   <tr>
+    <td> range </td>
+    <td> moderate </td>
+  </tr>
+  <tr>
     <td> <a href="../readme.md#harmony"> harmony </a> </td>
     <td> moderate </td>
   </tr>
