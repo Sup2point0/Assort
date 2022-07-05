@@ -31,12 +31,16 @@ A highly specialyzed derivative of telekinetis, opting only to control dust and 
     <th colspan="2"> <h4> Nomenclature </h4> </th>
   </tr>
   <tr>
+    <td> pronunciation </td>
+    <td> <code> /ˌkoʊniːoʊkɪˈnɛtɪs/ </code> </td>
+  </tr>
+  <tr>
     <td> aliases </td>
-    <td> koniokinetis </td>
+    <td> none </td>
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code> /ˌkoʊniːoʊkɪˈnɛtɪs/ </code> </td>
+    <td> <code> /–/ </code> </td>
   </tr>
   <tr>
     <td> affinitic </td>
