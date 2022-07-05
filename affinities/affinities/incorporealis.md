@@ -124,14 +124,14 @@
 
 | class | term | pronunciation | etymologics |
 | :---- | :--- | :------------ | :---------- |
-| affinity | incorporealis | `/ˌɪnkəˈpɔːrɪalɪs, ˌɪnkɔːˈpɔːrɪalɪs/` | English ***incorporeal*** + Antarctican ***-is*** ‘affinity’ |
+| affinity | incorporealis | `/ˌɪnkəˈpɔːrɪalɪs/` <br> `/ˌɪnkɔːˈpɔːrɪalɪs/` | English ***incorporeal*** + Antarctican ***-is*** ‘affinity’ |
 | affinitic | spectre | `/'spɛktə/` | *spectre* – a ghost, which is *incorporeal* |
 
 ### Colloquial
 
 | class | term | pronunciation | etymologics |
 | :---- | :--- | :------------ | :---------- |
-| affinity | incorporeality | `/ˌɪnkəˈpɔːrɪalɪti, ˌɪnkɔːˈpɔːrɪalɪti/` | *incorporeality* – having no material existence |
+| affinity | incorporeality | `/ˌɪnkəˈpɔːrɪalɪti/` <br> `/ˌɪnkɔːˈpɔːrɪalɪti/` | *incorporeality* – having no material existence |
 
 
 <br>
