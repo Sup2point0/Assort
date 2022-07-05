@@ -66,6 +66,10 @@
     <td> – </td>
   </tr>
   <tr>
+    <td> range </td>
+    <td> – </td>
+  </tr>
+  <tr>
     <td> <a href="../readme.md#harmony"> harmony </a> </td>
     <td> – </td>
   </tr>
