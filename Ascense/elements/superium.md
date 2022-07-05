@@ -17,11 +17,7 @@
   </tr>
   <tr>
     <td> <a href="../readme.md#archetype"> archetype </a> </td>
-    <td> – </td>
-  </tr>
-  <tr>
-    <td> <a href="../readme.md#affinity"> affinity </a> </td>
-    <td> superprime </td> 
+    <td> superprime </td>
   </tr>
   <tr>
     <td> generation </td>
