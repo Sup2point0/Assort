@@ -31,12 +31,16 @@
     <th colspan="2"> <h4> Nomenclature </h4> </th>
   </tr>
   <tr>
+    <td> pronunciation </td>
+    <td> <code> /'noʊvɪs/ </code> </td>
+  </tr>
+  <tr>
     <td> alternatives </td>
     <td> viral invisibility </td>
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code> /'noʊvɪs/ </code> </td>
+    <td> <code> /––/ </code> </td>
   </tr>
   <tr>
     <td> affinitic </td>
@@ -45,10 +49,6 @@
   <tr>
     <td> pronunciation </td>
     <td> <code> /'noʊvəs/ </code> </td>
-  </tr>
-  <tr>
-    <td> etymologics </td>
-    <td> Loric, possibly English *no* + *vis* in ‘visibility’ </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Affinitics </h4> </th>
@@ -113,6 +113,26 @@
     <td> <a href="–"> – </a> </td>
   </tr>
 </table>
+
+
+<br>
+
+
+## Nomenclature
+
+### Standard
+
+| class | term | pronunciation | etymologics |
+| :---- | :--- | :------------ | :---------- |
+| affinity | novis | `/'noʊvɪs/` | Loric, possibly English ***no*** + ***vis*** in *visibility*, or English ***nova*** + Antarctican English ***-is*** ‘affinity’ |
+| affinitic | novus | `/'noʊvəs/` | ***nov*** in *novis* + Antarctican English *-us* ‘affinitic’ |
+
+### Colloquial
+
+| class | term | pronunciation | etymologics |
+| :---- | :--- | :------------ | :---------- |
+| affinity | viral invisibility | `––` | *viral* – transferring *invisibility* to other objects |
+| affinity | viral incorporeality | `––` | *viral* – transferring *incorporeality* to other objects |
 
 
 <br>
