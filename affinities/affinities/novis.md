@@ -125,7 +125,7 @@
 | class | term | pronunciation | etymologics |
 | :---- | :--- | :------------ | :---------- |
 | affinity | novis | `/'noʊvɪs/` | Loric <br> possibly English ***no*** (possibly in *not*) + ***vis*** in *visibile*, literally ‘not visible’ <br> possibly English ***nova*** + Antarctican English ***-is*** ‘affinity’ |
-| affinitic | novus | `/'noʊvəs/` | ***nov***- in *novis* + Antarctican English *-us* ‘affinitic’ |
+| affinitic | novus | `/'noʊvəs/` | ***nov***- in *novis* + Antarctican English ***-us*** ‘affinitic’ |
 
 ### Colloquial
 
@@ -155,7 +155,7 @@
   <tr>
     <th rowspan="2"> haptic </th>
     <td colspan="2" align="center"> <em> haptonovis </em> </td>
-    <td colspan="2" align="center"> <em> ultrahaptonovis </em> </td>
+    <td colspan="2" align="center"> <em> ultra-haptonovis </em> </td>
   </tr>
   <tr>
     <td> <em> insta-haptonovis </em> </td>
