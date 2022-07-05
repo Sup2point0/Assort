@@ -33,12 +33,16 @@ One of the oldest affinities, the ability to render oneself invisible.
     <th colspan="2"> <h4> Nomenclature </h4> </th>
   </tr>
   <tr>
+    <td> pronunciation </td>
+    <td> <code> /ɪnvɪzɪ'bɪlɪti/ </code> </td>
+  </tr>
+  <tr>
     <td> aliases </td>
-    <td> invisibility, <em>invisibilis</em> </td>
+    <td> <em> invisibilis </em> </td>
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code>/ɪnvɪzɪ'bɪlɪti/</code>, <code>/ɪnvɪzɪ'bɪlɪs/</code> </td>
+    <td> <code> /ɪnvɪzɪ'bɪlɪs/ </code> </td>
   </tr>
   <tr>
     <td> affinitic </td>
@@ -108,7 +112,7 @@ One of the oldest affinities, the ability to render oneself invisible.
   </tr>
   <tr>
     <td> related </td>
-    <td> <a href="flight">flight</a>, <a href="camoflage">camoflage</a> </td>
+    <td> <a href="flight.md">flight</a>, <a href="camoflage.md">camoflage</a> </td>
   </tr>
 </table>
 
@@ -118,10 +122,18 @@ One of the oldest affinities, the ability to render oneself invisible.
 
 ## Nomenclature
 
-| affinity | etymologics | affinitic | etmyologics |
-| :------- | :---------- | :-------- | :---------- |
-| invisibility <br> `/ɪnvɪzɪ'bɪlɪti/` | English *invisibility* | invisitron <br> `/ɪn'vɪzɪtrɒn/` | English *invisibility* + Antarctican *-tron* ‘affinitic’ |
-| *invisibilis* <br>  `/ɪnvɪzɪ'bɪlɪs/` | English *invisibility* + Antarctican *-is* ‘affinity’ | | | |
+### Standard
+
+| class | term | pronunciation | etymologics |
+| :---- | :--- | :------------ | :---------- |
+| affinity | invisibility | `/ɪnvɪzɪ'bɪlɪti/` | English ***invisibility*** |
+| affinitic | invisitron | `/ɪn'vɪzɪtrɒn/` | English ***invisibility*** + Antarctican ***-tron*** ‘affinitic’ |
+
+### Classification
+
+| class | term | pronunciation | etymologics |
+| :---- | :--- | :------------ | :---------- |
+| affinity | *invisibilis* | /ɪnvɪzɪ'bɪlɪs/ | English ***invisibility*** + Antarctican ***-is*** ‘affinity’ |
 
 
 <br>
