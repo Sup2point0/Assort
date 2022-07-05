@@ -13,7 +13,6 @@
 | [automorphis](affinities/metamorphis.md) | automorphic, shapeshifter | self appearance alteration |
 | [biokinetis](affinities/biokinetis.md) | biokinetic | life control |
 | [bonebreaking](affinities/bonebreaking.md) | bonebreaker | break bones |
-| [chronokinetis](affinities/chronokinetis.md) | chronokinetic | time control |
 | [chronosynchronis](affinities/chronosynchronis.md) | chronosynchronic, seer, eye | future sensing |
 | [cincinnis](affinities/cincinnic.md) | cincinnic, key | lock control |
 | [conjuris](affinities/conjuris.md) | conjurus, conjurer | object conjuration |
@@ -84,6 +83,7 @@
 
 | superaffinity | superaffinitic | ability |
 | :------------ | :------------- | :------ |
+| [chronokinetis](affinities/chronokinetis.md) | chronokinetic | time control |
 | [legacy](affinities/legacy.md) | legend, legatron | affinity gifting |
 | [superis](affinities/superis.md) | superior | affinity learning |
 | [tychis](affinities/tychis.md) | tychus, felixen | luck |
