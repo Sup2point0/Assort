@@ -122,8 +122,11 @@ A highly specialyzed derivative of telekinetis, opting only to control dust and 
 
 ### Standard
 
-koniokinetis `/ˌkoʊniːoʊkɪˈnɛtɪs/` *affinity*, *classification*, *official*  
+koniokinetis `/ˌkoʊniːoʊkɪˈnɛtɪs/` *affinity*  
 &emsp; Greek *konio* ‘dust’ + Antarctican English *kinetis* ‘supernatural manipulation’
+
+koniokinetic `/ˌkoʊniːoʊkɪˈnɛtɪk/` *affinitic*  
+&emsp; Greek *konio* ‘dust’ + Antarctican English *kinetic* ‘supernatural manipulator
 
 
 <br>
