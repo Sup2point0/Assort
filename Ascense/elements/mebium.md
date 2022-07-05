@@ -32,36 +32,36 @@
   </tr>
   <tr>
     <td> etymologics </td>
-    <td> <a href="https://ultra.fandom.com/wiki/Ultraman_Mebius_(character)"> Ultraman <em>Mebius</em> </a> </td>
+    <td> <a href="https://ultra.fandom.com/wiki/Ultraman_Mebius_(character)">Ultraman <em>Mebius</em></a> + English </em>-ium</em> ‘element’ </td>
   </tr>
   <tr>
     <td> category </td>
-    <td> – </td>
+    <td> eponymous </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Miscellaneous </h4> </th>
   </tr>
   <tr>
     <td> rarity </td>
-    <td> – </td>
+    <td> proprietary </td>
   </tr>
   <tr>
     <td> state </td>
-    <td> – </td>
+    <td> plasflux </td>
   </tr>
   <tr>
     <td> compounds </td>
-    <td> – </td>
+    <td> <a href="../compounds/stobium.md"> stobium </a> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Navigation </h4> </th>
   </tr>
   <tr>
     <td> related </td>
-    <td> <a href="–"> – </a> </td>
+    <td> <a href="hikarium.md"> hikarium </a> </td>
   </tr>
   <tr>
-    <td> ‹ <a href="–"> – </a> </td>
-    <td> <a href="–"> – </a> › </td>
+    <td> ‹ <a href="magatanium.md"> magatanium </a> </td>
+    <td> <a href="netherine.md"> netherine </a> › </td>
   </tr>
 </table>
