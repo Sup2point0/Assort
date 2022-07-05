@@ -17,3 +17,69 @@ The Antarctican Scientific Complete Enumeration of Natural and Synthesyzed Eleme
     <a href="#valency"> Valency </a>
   </td>
 </table>
+
+
+<br>
+
+
+## Nomenclature
+
+
+<br>
+
+
+## States
+
+{desc}
+
+### Solid
+
+### Liquid
+
+### Gas
+
+### Plasma
+
+### Plasflux
+
+
+<br>
+
+
+## Classes
+
+{desc}
+
+### Cetal
+
+### Arcetal
+
+### Supcetal
+
+
+<br>
+
+
+## Archetypes
+
+{desc}
+
+### Prime
+
+### Seprine
+
+
+<br>
+
+
+## Valency
+
+{desc}
+
+### Allovalent
+
+### Bionic
+
+### Cetallic
+
+### Concovalent
