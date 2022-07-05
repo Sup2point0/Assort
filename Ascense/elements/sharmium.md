@@ -17,11 +17,7 @@
   </tr>
   <tr>
     <td> <a href="../readme.md#archetype"> archetype </a> </td>
-    <td> – </td>
-  </tr>
-  <tr>
-    <td> <a href="../readme.md#affinity"> affinity </a> </td>
-    <td> synthesyzed </td> 
+    <td> synthesyzed </td>
   </tr>
   <tr>
     <td> generation </td>

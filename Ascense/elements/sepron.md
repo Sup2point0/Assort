@@ -17,11 +17,7 @@
   </tr>
   <tr>
     <td> archetype </td>
-    <td> <a href="–"> seprine </a> </td>
-  </tr>
-  <tr>
-    <td> affinity </td>
-    <td> prime </td> 
+    <td> <a href="–">prime</a>, <a href="–">seprine</a> </td>
   </tr>
   <tr>
     <td> generation </td>

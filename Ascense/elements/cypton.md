@@ -17,11 +17,7 @@
   </tr>
   <tr>
     <td> archetype </td>
-    <td> – </td>
-  </tr>
-  <tr>
-    <td> affinity </td>
-    <td> prime </td> 
+    <td> prime </td>
   </tr>
   <tr>
     <td> generation </td>

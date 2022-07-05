@@ -20,10 +20,6 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> affinity </td>
-    <td> – </td> 
-  </tr>
-  <tr>
     <td> generation </td>
     <td> <code> I </code> </td>
   </tr>
