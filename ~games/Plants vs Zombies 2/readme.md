@@ -22,14 +22,14 @@ All the fictional content that I’ve come up with for my beloved childhood game
 
 | world | difficulty |
 | :---- | :--------- |
-| Ancient Greece | 🌶️🌶️🌶️🌶️ |
-| Ancient Rome | 🌶️🌶️🌶️🌶️🌶️ |
-| Dense Forest | 🌶️🌶️🌶️🌶️🌶️ |
-| Mountain Ranges | 🌶️🌶️🌶️🌶️🌶️🌶️ |
-| Paradise Island | 🌶️🌶️🌶️🌶️🌶️🌶️ |
-| World War II | 🌶️🌶️🌶️🌶️🌶️🌶️🌶️ |
-| Floodland | 🌶️🌶️🌶️🌶️🌶️🌶️🌶️ |
-| Victorian Era | 🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️ |
-| Martial Times | 🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️ |
-| Pixel Period | 🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️ |
-| Timeshift Terrors | 🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️ |
+| Ancient Greece | 🌶️ x4 |
+| Ancient Rome | 🌶️ x5 |
+| Dense Forest | 🌶️ x5 |
+| Mountain Ranges | 🌶️ x6 |
+| Paradise Island | 🌶️ x6 |
+| World War II | 🌶️ x7 |
+| Floodland | 🌶️ x7 |
+| Victorian Era | 🌶️ x8 |
+| Martial Times | 🌶️ x9 |
+| Pixel Period | 🌶️ x9 |
+| Timeshift Terrors | 🌶️ x10 |
