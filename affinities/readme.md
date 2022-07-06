@@ -28,6 +28,8 @@ A full list of affinities can be found [here](affinities.md).
     &emsp; <a href="#haptic"> Haptic </a> <br>
     &emsp; <a href="#optic"> Optic </a> <br>
     <a href="#classes"> Classes </a> <br>
+    &emsp; <a href="#instant"> Instant </a> <br>
+    &emsp; <a href="#lingering"> Lingering </a> <br>
     <a href="#affinitics"> Affinitics </a> <br>
     &emsp; <a href="#power"> Power </a> <br>
     &emsp; <a href="#control"> Control </a> <br>
