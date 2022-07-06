@@ -49,8 +49,8 @@ All the fictional content that I’ve come up with for my beloved childhood game
 | Mountain Ranges | Torchid <br> Primal Spikerock <br> Tangle Vine |
 | Paradise Island | Tanglerine <br> Mineapple <br> Dragonfruit <br> Cue-slumber <br> Bango <br> Nectarmancer |
 | World War II | Rhubarbarian <br> Bombelo <br> Corn Gunner <br> Killer Artillerwheat <br> Gatling Pea <br> Aspara-gas <br> Core-Jet |
-| Floodland |  |
-| Victorian Era |  |
-| Martial Times |  |
-| Pixel Period |  |
-| Timeshift Terrors |  |
+| Floodland | Broccodile <br> Bubble Spout <br> Howl-gae <br> Plank-tonne <br> Planktern |
+| Victorian Era | Lupin Lance |
+| Martial Times | Ray-corn <br> Tobako <br> Snowberry <br> Honeysucker |
+| Pixel Period | Hyacinth |
+| Timeshift Terrors | Grapefruit <br> Clementime <br> Death Plum |
