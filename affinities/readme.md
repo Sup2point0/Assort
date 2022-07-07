@@ -62,6 +62,22 @@ A full list of affinities can be found [here](affinities.md).
 
 ## Channels
 
+The various ways in which affinities can be harnessed.
+
+To illustrate the differences, consider a –.
+
+### Innate
+Affinities that channel from within the very core. Harnessing them is just like manipulating any other part of oneself – it feels like second nature.
+
+### Psychic
+Affinities controlled by the mind.
+
+### Haptic
+Affinities that channel through physical contact. This usually refers to directly touching the skin, but the exact constraints are often variable – {*damn this is hard to phrase*}
+
+### Optic
+Affinities controlled by sight.
+
 
 <br>
 
