@@ -57,6 +57,7 @@
 | [plagis](affinities/plagis.md) | poison | poison control |
 | [portagenetis](affinities/portagenetis.md) | porter | portal creation |
 | [portalis](affinities/portalis.md) | portalus | object teleportation |
+| [psychosynchronis](affinities/psychosynchronis.md) | psychosynchronic | mental sensing |
 | [pyrokinetis](affinities/pyrokinetis.md) | pyrokinetic | fire control |
 | [secaris](affinities/secaris.md) | slasher | mental cutting |
 | [serikinetis](affinities/serikinetis.md) | serikinetic, weaver | silk shooting |
@@ -71,6 +72,7 @@
 | [vibrokinetis](affinities/vibrokinetis.md) | vibrokinetic | vibration control |
 | [virokinetis](affinities/virokinetis.md) | virokinetic | virus control |
 | [vitakinetis](affinities/vitakinetis.md) | vitakinetic | life control |
+| [vitasynchronis](affinities/vitasynchronis.md) | vitasychronic | life sensing |
 | – | animos | enhanced sense |
 | – | healer | heal themselves |
 | – | shield | shield creation |
