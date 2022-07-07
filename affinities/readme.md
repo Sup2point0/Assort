@@ -64,10 +64,12 @@ A full list of affinities can be found [here](affinities.md).
 
 The various ways in which affinities can be harnessed.
 
-To illustrate the differences, consider a –.
+To illustrate the differences, consider a [novus](affinities/novis.md). Usually, they will be a haptic novus – *haptonovis* – which means they can turn objects invisible by touching them. A rarer optic novus – *optonovis* – can achieve this simply by looking at objects. An even rarer psychic novus – *psychonovis* – can do this just by thinking about it, meaning they can affect objects they cannot see, sense or know exist. This is generally the hierarchy of power between the 3 channels, with psychic being the most potent – not that this means haptic affinities are weak. Notice the signficant difference is range: while haptic affinitics must come into contact, psychic affinitics can attack from afar, which is more effective.
 
 ### Innate
 Affinities that channel from within the very core. Harnessing them is just like manipulating any other part of oneself – it feels like second nature.
+
+Examples include [invisibility](affinities/invisibility.md).
 
 ### Psychic
 Affinities controlled by the mind.
