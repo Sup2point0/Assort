@@ -5,6 +5,8 @@ Some words I first encountered through only text, and so devyzed my own pronunci
 
 ### acetic
 
+### crystalline
+
 ### disciple
 
 ### -erium
