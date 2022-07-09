@@ -14,6 +14,7 @@
 | [automorphis](affinities/metamorphis.md) | automorphus, shapeshifter | self appearance alteration |
 | [biogenetis](affinities/biogenetis.md) | biogenetic | life creation |
 | [biokinetis](affinities/biokinetis.md) | biokinetic | life control |
+| [biosynchronis](affinities/biosynchronis.md) | biosynchronic | life sensing |
 | [bonebreaking](affinities/bonebreaking.md) | bonebreaker | break bones |
 | [chronosynchronis](affinities/chronosynchronis.md) | chronosynchronic, seer, eye | future sensing |
 | [cincinnis](affinities/cincinnic.md) | cincinnic, key | lock control |
@@ -62,6 +63,9 @@
 | [psychosynchronis](affinities/psychosynchronis.md) | psychosynchronic | mental sensing, control |
 | [pyrokinetis](affinities/pyrokinetis.md) | pyrokinetic | fire control |
 | [secaris](affinities/secaris.md) | secarus, slasher | mental cutting |
+| [sensis](affinities/sensis.md) | sensus, sensorus | enhanced senses |
+| [sensokinetis](affinities/sensokinetis.md) | sensokinetic | sense control |
+| [sensosynchronis](affinities/sensosynchronis.md) | sensosynchronic | sense others’ senses |
 | [serikinetis](affinities/serikinetis.md) | serikinetic, weaver | silk shooting |
 | [somnis](affinities/somnis.md) | somnos | sleep control |
 | [sonis](affinities/sonis.md) | sonus | sound enchantment |
@@ -72,10 +76,8 @@
 | [terrakinetis](affinities/terrakinetis.md) | terrakinetic | earth control |
 | [vibrokinetis](affinities/vibrokinetis.md) | vibrokinetic | vibration control |
 | [virokinetis](affinities/virokinetis.md) | virokinetic | virus control |
-| [vitakinetis](affinities/vitakinetis.md) | vitakinetic | life control |
-| [vitasynchronis](affinities/vitasynchronis.md) | vitasychronic | life sensing |
-| – | animos | enhanced sense |
-| – | healer | heal themselves |
+| [vitakinetis](affinities/vitakinetis.md) | vitakinetic | health control |
+| [vitasynchronis](affinities/vitasynchronis.md) | vitasychronic | health sensing |
 | – | shield | shield creation |
 
 
