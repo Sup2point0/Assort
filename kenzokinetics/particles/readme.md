@@ -24,21 +24,13 @@ Particles are the active weapons utilyzed by other structures.
 
 Antibodies are the mass soldiers, ineffective by themselves, but overwhelmingly deadly in their thousands. They have multiple points which can bond or bind to other structures, especially enemies and other antibodies, forming [antibody complexes]().
 
-| basic antibody | special antibody |
-| :------------: | :--------------: |
-| ![antibody.basic](../../.assets/kenzokinetics/particles/antibody.basic.png) | ![antibody.special](../../.assets/kenzokinetics/particles/antibody.special.png) |
+| basic antibody | special antibody | charged antibody | boosted antibody |
+| :------------: | :--------------: | :--------------: | :--------------: |
+| ![antibody.basic](../../.assets/kenzokinetics/particles/antibody.basic.png) | ![antibody.special](../../.assets/kenzokinetics/particles/antibody.special.png) | ![antibody.charged](../../.assets/kenzokinetics/particles/antibody.charged.png) | ![antibody.boosted](../../.assets/kenzokinetics/particles/antibody.boosted.png) |
 
-| charged antibody | boosted antibody |
-| :--------------: | :--------------: |
-| ![antibody.charged](../../.assets/kenzokinetics/particles/antibody.charged.png) | ![antibody.boosted](../../.assets/kenzokinetics/particles/antibody.boosted.png) |
-
-| spike antibody | binding antibody |
-| :------------: | :--------------: |
-| ![antibody.spike](../../.assets/kenzokinetics/particles/antibody.spike.png) | ![antibody.binding](../../.assets/kenzokinetics/particles/antibody.binding.png) |
-
-| signal antibody | special signal antibody |
-| :-------------: | :---------------------: |
-| ![antibody.signal](../../.assets/kenzokinetics/particles/antibody.signal.png) | ![antibody.signal.special](../../.assets/kenzokinetics/particles/antibody.signal.special.png) |
+| spike antibody | binding antibody | signal antibody | special signal antibody |
+| :------------: | :--------------: | :-------------: | :---------------------: |
+| ![antibody.spike](../../.assets/kenzokinetics/particles/antibody.spike.png) | ![antibody.binding](../../.assets/kenzokinetics/particles/antibody.binding.png) | ![antibody.signal](../../.assets/kenzokinetics/particles/antibody.signal.png) | ![antibody.signal.special](../../.assets/kenzokinetics/particles/antibody.signal.special.png) |
 
 | star antibody | spike star antibody | angle antibody |
 | :-----------: | :-----------------: | :------------: |
