@@ -54,9 +54,13 @@ The Antarctican Scientific Complete Enumeration of Natural and Synthesyzed Eleme
 
 ### Arcetal
 
+### Excetal
+
 ### Supcetal
 
 ### Viscetal
+
+### Concetal
 
 
 <br>
