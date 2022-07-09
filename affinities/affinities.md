@@ -5,12 +5,14 @@
 | [accelis](affinities/superspeed.md) | accelus, swift | superfast movements |
 | [aerokinetis](affinities/aerokinetis.md) | aerokinetic, gust | air control |
 | [aeternis](affinities/aeternis.md) | aeternus, eternal | alter own age |
-| [affectis](affinities/affectis.md) | affectus | emotion sensing, control |
+| [affectokinetis](affinities/affectokinetis.md) | affectokinetic, affectic | emotion control |
+| [affectosynchronis](affinities/affectosynchronis.md) | affectosynchronic, affectus | emotion sense |
 | [agilitis](affinities/agilitis.md) | agilitus, silk | agility |
 | [amatokinetis](affinities/amatokinetis.md) | amatokinetis, amaros | love control |
 | [anemokinetis](affinities/anemokinetis.md) | anemokinetic, windweaver | wind control |
-| [autoduplication](affinities/autoduplication.md) | autoduplicator, cloned | self duplication |
-| [automorphis](affinities/metamorphis.md) | automorphic, shapeshifter | self appearance alteration |
+| [autoduplication](affinities/autoduplication.md) | autoduplicator, cloner | self duplication |
+| [automorphis](affinities/metamorphis.md) | automorphus, shapeshifter | self appearance alteration |
+| [biogenetis](affinities/biogenetis.md) | biogenetic | life creation |
 | [biokinetis](affinities/biokinetis.md) | biokinetic | life control |
 | [bonebreaking](affinities/bonebreaking.md) | bonebreaker | break bones |
 | [chronosynchronis](affinities/chronosynchronis.md) | chronosynchronic, seer, eye | future sensing |
@@ -32,8 +34,8 @@
 | [florokinetis](affinities/florokinetis.md) | florokinetic | flower and scent control |
 | [fortis](affinities/fortis.md) | fortus, wrecker | super strength |
 | [forzakinetis](affinities/forzakinetis.md) | forzakinetic, force | force control |
-| [geokinetis](affinities/geokinetis.md) | geokinetic | control dirt and rocks |
-| – | gravitron | gravity control |
+| [geokinetis](affinities/geokinetis.md) | geokinetic | control ground |
+| [gravitris](affinities/gravitris.md) | gravitron | gravity control |
 | [gyrokinetis](affinities/gyrokinetis.md) | gyrokinetic, wall-walker | shift centre of gravity |
 | [hydrokinetis](affinities/hydrokinetis.md) | hydrokinetic, nymph | water control |
 | [illusionis](affinities/illusionis.md) | illusionist | illusion control |
@@ -46,7 +48,7 @@
 | [flight](affinities/flight.md) | levitron | fly |
 | [metallokinetis](affinities/metallokinetis.md) | metallokinetic, magnetron | metal control |
 | [metakinetis](affinities/metakinetis.md) | metakinetic | weather control |
-| [morphis](affinities/morphis.md) | morphus | appearance alteration |
+| [extomorphis](affinities/extomorphis.md) | morphus | appearance alteration |
 | [necromancy](affinities/necromancy.md) | necromancer | dead control |
 | [necronaucy](affinities/necronaucy.md) | necronaut | dead communication |
 | [novis](affinities/novis.md) | novus | turn objects invisible or incorporeal |
@@ -57,16 +59,15 @@
 | [plagis](affinities/plagis.md) | poison | poison control |
 | [portagenetis](affinities/portagenetis.md) | porter | portal creation |
 | [portalis](affinities/portalis.md) | portalus | object teleportation |
-| [psychosynchronis](affinities/psychosynchronis.md) | psychosynchronic | mental sensing |
+| [psychosynchronis](affinities/psychosynchronis.md) | psychosynchronic | mental sensing, control |
 | [pyrokinetis](affinities/pyrokinetis.md) | pyrokinetic | fire control |
-| [secaris](affinities/secaris.md) | slasher | mental cutting |
+| [secaris](affinities/secaris.md) | secarus, slasher | mental cutting |
 | [serikinetis](affinities/serikinetis.md) | serikinetic, weaver | silk shooting |
 | [somnis](affinities/somnis.md) | somnos | sleep control |
 | [sonis](affinities/sonis.md) | sonus | sound enchantment |
 | [sonokinetis](affinities/sonokinetis.md) | sonokinetic | sound control |
 | [technokinetis](affinities/technokinetis.md) | technokinetic, techy | technological control |
-| [telekinetis](affinities/telekinetis.md) | telekinetic, telky, psychokinetic | mental control of objects |
-| [telepathy](affinities/telepathy.md) | telepath | mental communication |
+| [telekinetis](affinities/telekinetis.md) | telekinetic, telky | mental control of objects |
 | [teleportalis](affinities/teleportalis.md) | teleporter | instant travel |
 | [terrakinetis](affinities/terrakinetis.md) | terrakinetic | earth control |
 | [vibrokinetis](affinities/vibrokinetis.md) | vibrokinetic | vibration control |
@@ -92,7 +93,7 @@
 | [void](affinities/void.md) | – | void manipulation |
 | [affinitis](affinities/affinitis.md) | affinitus | affinity copying |
 | – | sentinel, warden | affinity disabling |
-| – | whisper | mind control |
+| [psychokinetis](affinities/psychokinetis.md) | psychokinetic, whisper | mind control |
 
 
 spirit
