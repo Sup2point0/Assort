@@ -30,7 +30,7 @@ Antibodies are the mass soldiers, ineffective by themselves, but overwhelmingly 
 
 | special antibody | charged antibody | boosted antibody |
 | :--------------: | :--------------: | :--------------: |
-| ![antibody.special](../../.assets/kenzokinetics/particles/antibody.special.png) | ![antibody.boosted](../../.assets/kenzokinetics/particles/antibody.charged.png) | ![antibody.charged](../../.assets/kenzokinetics/particles/antibody.boosted.png) |
+| ![antibody.special](../../.assets/kenzokinetics/particles/antibody.special.png) | ![antibody.charged](../../.assets/kenzokinetics/particles/antibody.charged.png) | ![antibody.boosted](../../.assets/kenzokinetics/particles/antibody.boosted.png) |
 
 | spike antibody | binding antibody | signal antibody | special signal antibody |
 | :------------: | :--------------: | :-------------: | :---------------------: |
