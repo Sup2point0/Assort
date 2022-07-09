@@ -22,7 +22,7 @@ Particles are the active weapons utilyzed by other structures.
 
 ## Antibody
 
-Antibodies are the mass soldiers, ineffective by themselves, but overwhelmingly deadly in their thousands. They have multiple points which can bond or bind to other structures, especially enemies and other antibodies, forming [antibody complexes]().
+Antibodies are the mass soldiers, ineffective by themselves, but overwhelmingly deadly in their thousands. They have multiple points which can bond or bind to other structures, especially enemies and other antibodies, forming [antibody complexes](../structures/readme.md#antibody-complex).
 
 | basic antibody | special antibody | charged antibody | boosted antibody |
 | :------------: | :--------------: | :--------------: | :--------------: |
