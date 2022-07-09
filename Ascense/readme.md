@@ -74,6 +74,8 @@ Archetypes are series of elements or compounds with similar properties, and ofte
 
 ### Seprine
 
+### Astrol
+
 ### Luxine
 
 
