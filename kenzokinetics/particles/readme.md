@@ -38,7 +38,7 @@ Antibodies are the mass soldiers, ineffective by themselves, but overwhelmingly 
 
 | star antibody | spike star antibody | angle antibody |
 | :-----------: | :-----------------: | :------------: |
-| ![antibody.star](../../.assets/kenzokinetics/particles/antibody.plus.png) | ![antibody.star.spike](../../.assets/kenzokinetics/particles/antibody.star.spike.png) | ![antibody.angle](../../.assets/kenzokinetics/particles/antibody.angle.png) |
+| ![antibody.star](../../.assets/kenzokinetics/particles/antibody.star.png) | ![antibody.star.spike](../../.assets/kenzokinetics/particles/antibody.star.spike.png) | ![antibody.angle](../../.assets/kenzokinetics/particles/antibody.angle.png) |
 
 | super antibody | mega antibody | super mega antibody |
 | :------------: | :-----------: | :-----------------: |
