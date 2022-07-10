@@ -1,13 +1,13 @@
-# Vitakinetis
+# Vitalis
 
-> *For the same affinity used for negative purposes, see [antevitakinetis](antevitakinetis.md).*
+> *For the same affinity used for negative purposes, see [antevitalis](antevitalis.md).*
 
-One of the most invaluable affinities, the ability to control health
+One of the most invaluable affinities, the ability to control health.
 
 
 <table>
   <tr>
-    <th colspan="2"> <h3> vitakinetis </h3> </th>
+    <th colspan="2"> <h3> vitalis </h3> </th>
   </tr>
   <tr>
     <td> ability </td>
@@ -34,7 +34,7 @@ One of the most invaluable affinities, the ability to control health
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code> /ˌvɪtəkɪˈnɛtɪs/ </code> </td>
+    <td> <code> /vʌɪˈtalɪs/ </code> </td>
   </tr>
   <tr>
     <td> aliases </td>
@@ -42,15 +42,15 @@ One of the most invaluable affinities, the ability to control health
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code> /–/ </code> </td>
+    <td> <code> /'hiːlɪŋ/ </code> </td>
   </tr>
   <tr>
     <td> affinitic </td>
-    <td> vitakinetic, healer </td>
+    <td> vitalus, healer </td>
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code>/ˌvɪtəkɪˈnɛtɪk/</code>, <code>/–/</code> </td>
+    <td> <code>/vʌɪˈtaləs/</code>, <code>/'hiːlə/</code> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Affinitics </h4> </th>
@@ -116,7 +116,7 @@ One of the most invaluable affinities, the ability to control health
   </tr>
   <tr>
     <td> related </td>
-    <td> <a href="vitalis.md"> vitalis </a> </td>
+    <td> <a href="autovitalis.md">autovitalis</a>, <a href="antevitalis.md">antevitalis</a> </td>
   </tr>
 </table>
 
@@ -130,15 +130,15 @@ One of the most invaluable affinities, the ability to control health
 
 | class | term | pronunciation | etymologics |
 | :---- | :--- | :------------ | :---------- |
-| affinity | vitakinetis | `/ˌvɪtəkɪˈnɛtɪs/` | Latin *vita* ‘life’ + Antarctican *kinetis* ‘supernatural manipulation’ |
-| affinitic | vitakinetic | `/ˌvɪtəkɪˈnɛtɪk/` | Latin *vita* ‘life’ + Antarctican *kinetic* ‘supernatural manipulator’ |
+| affinity | vitalis | `/vʌɪˈtalɪs/` | Latin ***vita*** ‘life’ + Antarctican ***-is*** ‘affinity’ |
+| affinitic | vitalus | `/vʌɪˈtaləs/` | Latin ***vita*** ‘life’ + Antarctican ***-us*** ‘affinitic’ |
 
 ### Colloquial
 
 | class | term | pronunciation | etymologics |
 | :---- | :--- | :------------ | :---------- |
-| affinity | healing | `//` | English ***healing*** |
-| affinitic | healer | `//` | English ***healer*** |
+| affinity | healing | `/'hiːlɪŋ/` | English ***healing*** |
+| affinitic | healer | `/'hiːlə/` | English ***healer*** |
 
 
 <br>
@@ -154,35 +154,35 @@ One of the most invaluable affinities, the ability to control health
   </tr>
   <tr>
     <th rowspan="2"> haptic </th>
-    <td colspan="2" align="center"> <em> haptovitakinetis </em> </td>
+    <td colspan="2" align="center"> <em> haptovitalis </em> </td>
   </tr>
   <tr>
-    <td> <em> hapto-senzavitakinetis </em> </td>
-    <td> <em> hapto-ultravitakinetis </em> </td>
+    <td> <em> hapto-senzavitalis </em> </td>
+    <td> <em> hapto-ultravitalis </em> </td>
   </tr>
   <tr>
     <th rowspan="2"> proxic </th>
-    <td colspan="2" align="center"> <em> proxivitakinetis </em> </td>
+    <td colspan="2" align="center"> <em> proxivitalis </em> </td>
   </tr>
   <tr>
-    <td> <em> proxi-senzavitakinetis </em> </td>
-    <td> <em> proxi-ultravitakinetis </em> </td>
+    <td> <em> proxi-senzavitalis </em> </td>
+    <td> <em> proxi-ultravitalis </em> </td>
   </tr>
   <tr>
     <th rowspan="2"> optic </th>
-    <td colspan="2" align="center"> <em> optovitakinetis </em> </td>
+    <td colspan="2" align="center"> <em> optovitalis </em> </td>
   </tr>
   <tr>
-    <td> <em> opto-senzavitakinetis </em> </td>
-    <td> <em> opto-ultravitakinetis </em> </td>
+    <td> <em> opto-senzavitalis </em> </td>
+    <td> <em> opto-ultravitalis </em> </td>
   </tr>
   <tr>
     <th rowspan="2"> psychic </th>
-    <td colspan="2" align="center"> <em> psychovitakinetis </em> </td>
+    <td colspan="2" align="center"> <em> psychovitalis </em> </td>
   </tr>
   <tr>
-    <td> <em> psycho-senzavitakinetis </em> </td>
-    <td> <em> psycho-ultravitakinetis </em> </td>
+    <td> <em> psycho-senzavitalis </em> </td>
+    <td> <em> psycho-ultravitalis </em> </td>
   </tr>
 </table>
 
