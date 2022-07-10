@@ -54,7 +54,7 @@
 ## Nomenclature
 
 <details>
-  <summary> Terminology
+  <summary> <h3> Terminology </h3> </summary>
 
 - **affine** – the concept of supernaturalism, and the energy released through its utilyzation
 - **affinity** – a supernatural power
@@ -63,7 +63,6 @@
 - **affinitics** – the subject of affinities
 - **affinyzation** – the process of unlocking an affinity
 
-  </summary>
 </details>
 
 Throughout different skeparxes, affinities
