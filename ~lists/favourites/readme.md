@@ -97,7 +97,7 @@ Every favourite thing you could ever imagine (eventually).
 | physics field | particle physics |
 | pokémon | Pikachu <br> Squirtle <br> Yveltal |
 | programming language | Python <br> Markdown <br> CSS |
-| subreddit | r/programmerhumor <br> r/chemistrymemes |
+| subreddit | [r/programmerhumor](https://reddit.com/r/programmerhumor) <br> [r/chemistrymemes](reddit.com/r/chemistrymemes) |
 | tablet | 2019 iPad Air (3rd gen) |
 
 
