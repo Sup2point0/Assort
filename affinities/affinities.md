@@ -4,7 +4,6 @@
 | :------- | :-------- | :------ |
 | [accelis](affinities/superspeed.md) | accelus, swift | superfast movements |
 | [aerokinetis](affinities/aerokinetis.md) | aerokinetic, gust | air control |
-| [aeternis](affinities/aeternis.md) | aeternus, eternal | alter own age |
 | [affectokinetis](affinities/affectokinetis.md) | affectokinetic, affectic | emotion control |
 | [affectosynchronis](affinities/affectosynchronis.md) | affectosynchronic, affectus | emotion sense |
 | [agilitis](affinities/agilitis.md) | agilitus, silk | agility |
@@ -77,6 +76,7 @@
 | [vibrokinetis](affinities/vibrokinetis.md) | vibrokinetic | vibration control |
 | [virokinetis](affinities/virokinetis.md) | virokinetic | virus control |
 | [vitakinetis](affinities/vitakinetis.md) | vitakinetic | health control |
+| [vitalis](affinities/vitalis.md) | vitalus | self healer |
 | [vitasynchronis](affinities/vitasynchronis.md) | vitasychronic | health sensing |
 | – | shield | shield creation |
 
@@ -88,6 +88,7 @@
 
 | superaffinity | superaffinitic | ability |
 | :------------ | :------------- | :------ |
+| [aeternis](affinities/aeternis.md) | aeternus, eternal | alter own age |
 | [chronokinetis](affinities/chronokinetis.md) | chronokinetic | time control |
 | [legacy](affinities/legacy.md) | legend, legatron | affinity gifting |
 | [superis](affinities/superis.md) | superior | affinity learning |
