@@ -18,6 +18,7 @@ A full list of affinities can be found [here](affinities.md).
     <a href="#types"> Types </a> <br>
     &emsp; <a href="#matter-manipulation"> Matter Manipulation </a> <br>
     &emsp; <a href="#self-manipulation"> Self Manipulation </a> <br>
+    &emsp; <a href="#essence-manipulation"> Essence Manipulation </a> <br>
     <a href="#abilities"> Abilities </a> <br>
     &emsp; <a href="#kinetis"> Kinetis </a> <br>
     &emsp; <a href="#genetis"> Genetis </a> <br>
