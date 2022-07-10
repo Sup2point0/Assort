@@ -23,9 +23,9 @@
 
 In order of ascending scale:
 
-&emsp; [particles](particles)
-&emsp; [components](components)
-&emsp; [structures](structures)
+&emsp; [particles](particles)  
+&emsp; [components](components)  
+&emsp; [structures](structures)  
 &emsp; [compounds](compounds)
 
 
