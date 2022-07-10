@@ -1,6 +1,6 @@
 # Components
 
-Components are the individual constituents of all other structures and compounds. They span a variety of functions, including maintaining structural integrity, powering reactions and forming weapons.
+Components are the basic individual constituents of all other structures and compounds. They span a variety of functions, including maintaining structural integrity, powering reactions and forming weapons.
 
 
 <br>
@@ -9,6 +9,7 @@ Components are the individual constituents of all other structures and compounds
 ## Index
 
 ### Structural
+
 <table>
   <td>
     <a href="#cell"> Cell </a> <br>
@@ -19,6 +20,7 @@ Components are the individual constituents of all other structures and compounds
 </table>
 
 ### Physical Weapons
+
 <table>
   <td>
     <a href="#spike"> Spike </a> <br>
@@ -27,19 +29,11 @@ Components are the individual constituents of all other structures and compounds
 </table>
 
 ### Chemical Weapons
-<table>
-  <td>
-    <a href="#turret"> Turret </a> <br>
-    <a href="#pulsar"> Pulsar </a>
-  </td>
-</table>
 
-### Power
 <table>
   <td>
-    <a href="#thruster"> Thruster </a> <br>
-    <a href="#core"> Core </a> <br>
-    <a href="#driver"> Driver </a>
+    <a href="#cannon"> Cannon </a> <br>
+    <a href="#turret"> Turret </a>
   </td>
 </table>
 
