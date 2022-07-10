@@ -54,18 +54,20 @@
 ## Nomenclature
 
 <details>
-  <summary> <h3> Terminology </h3> </summary>
+  <summary> Terminology </summary>
 
 - **affine** – the concept of supernaturalism, and the energy released through its utilyzation
 - **affinity** – a supernatural power
 - **affinitic** – a being with an affinity
 - **affinics** – the subject of affine
+- **affinical** – relating to affine
 - **affinitics** – the subject of affinities
-- **affinyzation** – the process of unlocking an affinity
+- **affinitical** – relating to affinities
+- **affinyzation** – the process of unlocking affinities
 
 </details>
 
-Throughout different skeparxes, affinities
+Throughout different skeparxes and in different circumstances, affinities are known by different names. For most, there is usually a *colloquial* name, often a standard word (*whisper*, *legend*), and a *standard* name (*telekinetis*, *psychosynchronis*).
 
 
 <br>
