@@ -1,4 +1,4 @@
-# Affinities
+# Affine
 
 {desc}
 
