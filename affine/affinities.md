@@ -12,8 +12,9 @@
 | [antevitakinetis](affinities/antevitakinetis.md) | antevitakinetic | control health in negative ways |
 | [autoduplication](affinities/autoduplication.md) | autoduplicator, cloner | self duplication |
 | [automorphis](affinities/metamorphis.md) | automorphus, shapeshifter | self appearance alteration |
-| [biogenetis](affinities/biogenetis.md) | biogenetic | life creation |
-| [biokinetis](affinities/biokinetis.md) | biokinetic | life control |
+| [autovitalis](affinities/autovitalis.md) | autovitalus | self healer |
+| [biogenetis](affinities/biogenetis.md) | biogenetic | organic creation |
+| [biokinetis](affinities/biokinetis.md) | biokinetic | organic control |
 | [biosynchronis](affinities/biosynchronis.md) | biosynchronic | life sensing |
 | [bonebreaking](affinities/bonebreaking.md) | bonebreaker | break bones |
 | [camoflage](affinities/camoflage.md) | – | blend in with surroundings |
@@ -78,9 +79,8 @@
 | [terrakinetis](affinities/terrakinetis.md) | terrakinetic | earth control |
 | [vibrokinetis](affinities/vibrokinetis.md) | vibrokinetic | vibration control |
 | [virokinetis](affinities/virokinetis.md) | virokinetic | virus control |
-| [vitakinetis](affinities/vitakinetis.md) | vitakinetic | healing |
-| [vitalis](affinities/vitalis.md) | vitalus | self healer |
-| [vitasynchronis](affinities/vitasynchronis.md) | vitasychronic | health sensing |
+| [vitalis](affinities/vitalis.md) | vitalus, healer | healing |
+| [vitasynchronis](affinities/vitasynchronis.md) | vitasychronic, spirit | life sensing |
 
 
 <br>
@@ -91,17 +91,17 @@
 | superaffinity | superaffinitic | ability |
 | :------------ | :------------- | :------ |
 | [aeternis](affinities/aeternis.md) | aeternus, eternal | alter own age |
+| [affinitis](affinities/affinitis.md) | affinitus | affinity copying |
 | [chronokinetis](affinities/chronokinetis.md) | chronokinetic | time control |
 | [legacy](affinities/legacy.md) | legend, legatron | affinity gifting |
+| [psychokinetis](affinities/psychokinetis.md) | psychokinetic, whisper | mind control |
 | [superis](affinities/superis.md) | superior | affinity learning |
 | [tychis](affinities/tychis.md) | tychus, felixus | luck |
+| [vitakinetis](affinities/vitakinetis.md) | vitakinetic | life control |
 | [void](affinities/void.md) | – | void manipulation |
-| [affinitis](affinities/affinitis.md) | affinitus | affinity copying |
 | – | sentinel, warden | affinity hindering |
-| [psychokinetis](affinities/psychokinetis.md) | psychokinetic, whisper | mind control |
 
 
-spirit
 quake, ground/earth-shaker/breaker
 
 nightwalker
