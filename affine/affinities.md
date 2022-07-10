@@ -61,6 +61,7 @@
 | [plagis](affinities/plagis.md) | poison | poison control |
 | [portagenetis](affinities/portagenetis.md) | porter | portal creation |
 | [portalis](affinities/portalis.md) | portalus | object teleportation |
+| [protis](affinities/protis.md) | protus, shielder | shield generation |
 | [psychosynchronis](affinities/psychosynchronis.md) | psychosynchronic | mental sensing, control |
 | [pyrokinetis](affinities/pyrokinetis.md) | pyrokinetic | fire control |
 | [secaris](affinities/secaris.md) | secarus, slasher | mental cutting |
@@ -80,7 +81,6 @@
 | [vitakinetis](affinities/vitakinetis.md) | vitakinetic | healing |
 | [vitalis](affinities/vitalis.md) | vitalus | self healer |
 | [vitasynchronis](affinities/vitasynchronis.md) | vitasychronic | health sensing |
-| – | shield | shield creation |
 
 
 <br>
@@ -94,10 +94,10 @@
 | [chronokinetis](affinities/chronokinetis.md) | chronokinetic | time control |
 | [legacy](affinities/legacy.md) | legend, legatron | affinity gifting |
 | [superis](affinities/superis.md) | superior | affinity learning |
-| [tychis](affinities/tychis.md) | tychus, felixen | luck |
+| [tychis](affinities/tychis.md) | tychus, felixus | luck |
 | [void](affinities/void.md) | – | void manipulation |
 | [affinitis](affinities/affinitis.md) | affinitus | affinity copying |
-| – | sentinel, warden | affinity disabling |
+| – | sentinel, warden | affinity hindering |
 | [psychokinetis](affinities/psychokinetis.md) | psychokinetic, whisper | mind control |
 
 
