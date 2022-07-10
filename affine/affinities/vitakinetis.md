@@ -149,7 +149,7 @@ One of the most invaluable affinities, the ability to control health
 <table>
   <tr>
     <td></td>
-    <th> essence <th>
+    <th> essence </th>
     <th> absolute </th>
   </tr>
   <tr>
@@ -157,7 +157,7 @@ One of the most invaluable affinities, the ability to control health
     <td colspan="2" align="center"> <em> haptovitakinetis </em> </td>
   </tr>
   <tr>
-    <td> <em>  </em> </td>
+    <td> <em> hapto-senzavitakinetis </em> </td>
     <td> <em> hapto-ultravitakinetis </em> </td>
   </tr>
   <tr>
@@ -165,7 +165,7 @@ One of the most invaluable affinities, the ability to control health
     <td colspan="2" align="center"> <em> proxivitakinetis </em> </td>
   </tr>
   <tr>
-    <td> <em>  </em> </td>
+    <td> <em> proxi-senzavitakinetis </em> </td>
     <td> <em> proxi-ultravitakinetis </em> </td>
   </tr>
   <tr>
@@ -173,7 +173,7 @@ One of the most invaluable affinities, the ability to control health
     <td colspan="2" align="center"> <em> optovitakinetis </em> </td>
   </tr>
   <tr>
-    <td> <em>  </em> </td>
+    <td> <em> opto-senzavitakinetis </em> </td>
     <td> <em> opto-ultravitakinetis </em> </td>
   </tr>
   <tr>
@@ -181,7 +181,7 @@ One of the most invaluable affinities, the ability to control health
     <td colspan="2" align="center"> <em> psychovitakinetis </em> </td>
   </tr>
   <tr>
-    <td> <em>  </em> </td>
+    <td> <em> psycho-senzavitakinetis </em> </td>
     <td> <em> psycho-ultravitakinetis </em> </td>
   </tr>
 </table>
