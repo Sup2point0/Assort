@@ -29,7 +29,7 @@
 | [duplication](affinities/duplication.md) | duplicator, multiplyer | object duplication |
 | [electrokinetis](affinities/electrokinetis.md) | electrokinetic, electricon | electricity control |
 | [elementis](affinities/elementalis.md) | elemental | elemental control |
-| [energis](affinities/energis.md) | energist | energy control |
+| [energis](affinities/energis.md) | energist | infinite energy |
 | [enzokinetis](affinities/enzokinetis.md) | enzokinetic | chemical reaction control |
 | [ergokinetis](affinities/ergokinetis.md) | ergokinetic | energy control |
 | [explodokinetis](affinities/explodokinetis.md) | explodokinetic, bomber | explosion control |
