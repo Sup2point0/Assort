@@ -104,7 +104,7 @@ One of the oldest affinities, the ability to render oneself invisible.
   </tr>
   <tr>
     <td> derivation </td>
-    <td> prime </td>
+    <td> <a href="../readme.md#prime"> prime </a> </td>
   </tr>
   <tr>
     <td> derivatives </td>

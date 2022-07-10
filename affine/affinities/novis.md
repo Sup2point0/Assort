@@ -155,35 +155,35 @@
   <tr>
     <th rowspan="2"> haptic </th>
     <td colspan="2" align="center"> <em> haptonovis </em> </td>
-    <td colspan="2" align="center"> <em> ultra-haptonovis </em> </td>
+    <td colspan="2" align="center"> <em> hapto-ultranovis </em> </td>
   </tr>
   <tr>
     <td> <em> insta-haptonovis </em> </td>
     <td> <em> perma-haptonovis </em> </td>
-    <td> <em> insta-ultra-haptonovis </em> </td>
-    <td> <em> perma-ultra-haptonovis </em> </td>
+    <td> <em> insta-hapto-ultranovis </em> </td>
+    <td> <em> perma-hapto-ultranovis </em> </td>
   </tr>
   <tr>
     <th rowspan="2"> optic </th>
     <td colspan="2" align="center"> <em> optonovis </em> </td>
-    <td colspan="2" align="center"> <em> ultra-optonovis </em> </td>
+    <td colspan="2" align="center"> <em> opto-ultranovis </em> </td>
   </tr>
   <tr>
     <td> <em> insta-optonovis </em> </td>
     <td> <em> perma-optonovis </em> </td>
-    <td> <em> insta-ultra-optonovis </em> </td>
-    <td> <em> perma-ultra-optonovis </em> </td>
+    <td> <em> insta-opto-ultranovis </em> </td>
+    <td> <em> perma-opto-ultranovis </em> </td>
   </tr>
   <tr>
     <th rowspan="2"> psychic </th>
     <td colspan="2" align="center"> <em> psychonovis </em> </td>
-    <td colspan="2" align="center"> <em> ultra-psychonovis </em> </td>
+    <td colspan="2" align="center"> <em> psycho-ultranovis </em> </td>
   </tr>
   <tr>
     <td> <em> insta-psychonovis </em> </td>
     <td> <em> perma-psychonovis </em> </td>
-    <td> <em> insta-ultra-psychonovis </em> </td>
-    <td> <em> perma-ultra-psychonovis </em> </td>
+    <td> <em> insta-psycho-ultranovis </em> </td>
+    <td> <em> perma-psycho-ultranovis </em> </td>
   </tr>
 </table>
 
