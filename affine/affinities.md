@@ -9,7 +9,7 @@
 | [agilitis](affinities/agilitis.md) | agilitus, silk | agility |
 | [amatokinetis](affinities/amatokinetis.md) | amatokinetis, amaros | love control |
 | [anemokinetis](affinities/anemokinetis.md) | anemokinetic, windweaver | wind control |
-| [antevitakinetis](affinities/antevitakinetis.md) | antevitakinetic | control health in negative ways |
+| [antevitalis](affinities/antevitalis.md) | antevitalis | negative health control |
 | [autoduplication](affinities/autoduplication.md) | autoduplicator, cloner | self duplication |
 | [automorphis](affinities/metamorphis.md) | automorphus, shapeshifter | self appearance alteration |
 | [autovitalis](affinities/autovitalis.md) | autovitalus | self healer |
