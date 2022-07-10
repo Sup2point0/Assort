@@ -1,6 +1,6 @@
 # Affine
 
-{desc}
+*Affine* – magic or supernaturalism – is a phenomenon present in certain skeparxes, in particular the Supskeparx.
 
 
 
@@ -13,6 +13,7 @@
 <table>
   <td>
     <a href="#nomenclature"> Nomenclature </a> <br>
+    <a href="#affinyzation"> Affinyzation </a> <br>
     <a href="#types"> Types </a> <br>
     &emsp; <a href="#matter-manipulation"> Matter Manipulation </a> <br>
     &emsp; <a href="#self-manipulation"> Self Manipulation </a> <br>
@@ -42,9 +43,30 @@
     &emsp; <a href="#enhancement"> Enhancement </a> <br>
     &emsp; <a href="#competency"> Competency </a> <br>
     &emsp; <a href="#mastery"> Mastery </a> <br>
-    <a href="#see-also"> See Also </a>
+    <a href="#evolution"> Evolution </a>
   </td>
 </table>
+
+
+<br>
+
+
+## Nomenclature
+
+<details>
+  <summary> Terminology
+
+- **affine** – the concept of supernaturalism, and the energy released through its utilyzation
+- **affinity** – a supernatural power
+- **affinitic** – a being with an affinity
+- **affinics** – the subject of affine
+- **affinitics** – the subject of affinities
+- **affinyzation** – the process of unlocking an affinity
+
+  </summary>
+</details>
+
+Throughout different skeparxes, affinities
 
 
 <br>
@@ -197,6 +219,4 @@ Affinities that retain their effect while no longer being controlled.
 <br>
 
 
-## See Also
-
-- [Foundational Principles of Affine](foundational%20principles%20of%20affine.md)
+## Evolution
