@@ -16,6 +16,7 @@
 | [biokinetis](affinities/biokinetis.md) | biokinetic | life control |
 | [biosynchronis](affinities/biosynchronis.md) | biosynchronic | life sensing |
 | [bonebreaking](affinities/bonebreaking.md) | bonebreaker | break bones |
+| [camoflage](affinities/camoflage.md) | – | blend in with surroundings |
 | [chronosynchronis](affinities/chronosynchronis.md) | chronosynchronic, seer, eye | future sensing |
 | [cincinnis](affinities/cincinnic.md) | cincinnic, key | lock control |
 | [conjuris](affinities/conjuris.md) | conjurus, conjurer | object conjuration |
