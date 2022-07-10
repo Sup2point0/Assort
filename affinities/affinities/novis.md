@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td> <a href="../readme.md#types"> type </a> </td>
-    <td> <a href="../readme.md#matter manipulation"> matter manipulation </a> </td>
+    <td> <a href="../readme.md#matter-manipulation"> matter manipulation </a> </td>
   </tr>
   <tr>
     <td> <a href="../readme.md#attributes"> attribute </a> </td>
