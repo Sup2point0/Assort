@@ -9,6 +9,7 @@
 | [agilitis](affinities/agilitis.md) | agilitus, silk | agility |
 | [amatokinetis](affinities/amatokinetis.md) | amatokinetis, amaros | love control |
 | [anemokinetis](affinities/anemokinetis.md) | anemokinetic, windweaver | wind control |
+| [antevitakinetis](affinities/antevitakinetis.md) | antevitakinetic | control health in negative ways |
 | [autoduplication](affinities/autoduplication.md) | autoduplicator, cloner | self duplication |
 | [automorphis](affinities/metamorphis.md) | automorphus, shapeshifter | self appearance alteration |
 | [biogenetis](affinities/biogenetis.md) | biogenetic | life creation |
@@ -75,7 +76,7 @@
 | [terrakinetis](affinities/terrakinetis.md) | terrakinetic | earth control |
 | [vibrokinetis](affinities/vibrokinetis.md) | vibrokinetic | vibration control |
 | [virokinetis](affinities/virokinetis.md) | virokinetic | virus control |
-| [vitakinetis](affinities/vitakinetis.md) | vitakinetic | health control |
+| [vitakinetis](affinities/vitakinetis.md) | vitakinetic | healing |
 | [vitalis](affinities/vitalis.md) | vitalus | self healer |
 | [vitasynchronis](affinities/vitasynchronis.md) | vitasychronic | health sensing |
 | – | shield | shield creation |

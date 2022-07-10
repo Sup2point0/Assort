@@ -1,4 +1,4 @@
-# Foundational Principles of Affinitics
+# Foundational Principles of Affine
 
 {desc}
 
@@ -10,6 +10,7 @@
 
 <table>
   <td>
+    <a href="#core"> Core </a> <br>
     <a href="#specialyzation"> Specialyzation </a> <br>
     <a href="#evolution"> Evolution </a>
   </td>
