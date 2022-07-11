@@ -19,6 +19,7 @@
 `/–/`
 
 1. *sense*  
+&emsp; test
 - definition  
 &emsp; *test*
 > similar: [](#)
