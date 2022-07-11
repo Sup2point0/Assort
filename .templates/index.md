@@ -13,7 +13,7 @@
 ### Sense
 `/–/`
 
-1. *transitivity*
+1. *transitivity*  
 &emsp; definition  
 > *test*
 
