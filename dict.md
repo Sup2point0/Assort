@@ -9,7 +9,7 @@ A dictionary of all the fictional words I’ve created.
 ## Index
 
 <details>
-  <summary> Display </summary> <br>
+  <summary> index </summary> <br>
 
 <table>
   <td>
