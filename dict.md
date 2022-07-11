@@ -57,15 +57,15 @@ A dictionary of all the fictional words I’ve created.
 <details>
   <summary> <b> Derivatives </b> </summary>
 
-[antectics](#antectics)  
-[antectical](#antectical)
+&emsp; [antectics](#antectics)  
+&emsp; [antectical](#antectical)
 
 </details>
 
 <details>
   <summary> <b> Related </b> </summary>
 
-[decate](#decate)
+&emsp; [decate](#decate)
 
 </details>
 
