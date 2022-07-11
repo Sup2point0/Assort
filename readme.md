@@ -20,4 +20,4 @@ This is the scale of magnitude used throughout various sections.
 &emsp; very low  
 &emsp; extremely low
 
-&emsp; variable
+**Variable** may also be used to indicate variation.
