@@ -14,7 +14,7 @@
 `/–/`
 
 1. definition  
-&emsp; *test*
+> *test*
 
 <details>
   <summary> <b> – </b> </summary> <br>
