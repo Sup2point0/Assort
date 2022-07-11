@@ -16,6 +16,7 @@
 1. *sense*  
 - definition  
 &emsp; *test*
+> similar: [](#)
 
 <details>
   <summary> <b> – </b> </summary> <br>
