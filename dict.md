@@ -66,7 +66,7 @@ A dictionary of all the fictional words I’ve created.
 <details>
   <summary> <b> Etymologics </b> </summary>
 
-*Spontaneous emergence* may have derived from ‘Antarctica’
+&emsp; *Spontaneous emergence* may have derived from ‘Antarctica’
 
 </details>
 
@@ -129,7 +129,7 @@ A dictionary of all the fictional words I’ve created.
 &emsp; *The decate is 20.*
 
 <details>
-  <summary> <b> Etymologics </b> </summary> <br>
+  <summary> <b> Etymologics </b> </summary>
 
 &emsp; *New Antarctica* » Greek ***deka*** ‘ten’ + ***-ate***
 &emsp; also from Antarctican *decant*
