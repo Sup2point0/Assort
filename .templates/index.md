@@ -27,3 +27,18 @@
   <summary> <b> – </b> </summary> <br>
 
 </details>
+
+<details>
+  <summary> <b> Derivatives </b> </summary>
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary> <br>
+
+</details>
+
+<details>
+  <summary> <b> Related </b> </summary>
+
+</details>
