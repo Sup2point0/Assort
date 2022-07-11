@@ -9,11 +9,11 @@ A dictionary of all the fictional words I’ve created.
 ## Index
 
 <details>
-  <summary> Display </summary>
+  <summary> Display </summary> <br>
 
 <table>
   <td>
-    <a href="#"> – </a> <br>
+    <a href="#antect"> antect </a> <br>
     <a href="#"> – </a> <br>
     <a href="#"> – </a> <br>
     <a href="#"> – </a> <br>
@@ -29,10 +29,10 @@ A dictionary of all the fictional words I’ve created.
   </td>
 </table>
 
-<details>
+</details>
 
 
 <br>
 
 
-## 
+## antect
