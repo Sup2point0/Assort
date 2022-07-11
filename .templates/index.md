@@ -18,10 +18,8 @@
 ### Case
 `/–/`
 
-1. *sense*  
-&emsp; test
-- definition  
-&emsp; *test*
+1. *[sense]()* test  
+&ensp; *test*
 > similar: [](#)
 
 <details>
