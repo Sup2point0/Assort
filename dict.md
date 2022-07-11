@@ -8,8 +8,8 @@ A dictionary of all the fictional words I’ve created.
 
 ## Index
 
-<details>
-  <summary> index </summary> <br>
+<details open>
+  <summary> <b> display </b> </summary> <br>
 
 <table>
   <td>
