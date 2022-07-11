@@ -14,7 +14,7 @@
 `/–/`
 
 1. *transitivity*  
-&emsp; definition  
+&ensp; definition  
 > *test*
 
 <details>
