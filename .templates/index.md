@@ -1,11 +1,16 @@
 ## Index
 
+<details open>
+  <summary> <b> display </b> </summary>
+
 <table>
   <td>
     <a href="#"> – </a> <br>
     <a href="#"> – </a>
   </td>
 </table>
+
+</details>
 
 
 ## word
