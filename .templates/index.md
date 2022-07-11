@@ -18,7 +18,9 @@
 ### Case
 `/–/`
 
-1. *[sense]()* test  
+*[sense]()*
+
+1.  test  
 &ensp; *test*
 > similar: [](#)
 
