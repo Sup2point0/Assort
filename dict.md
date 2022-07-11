@@ -55,7 +55,7 @@ A dictionary of all the fictional words I’ve created.
 </details>
 
 <details>
-  <summary> <b> Derivatives </b> </summary> <br>
+  <summary> <b> Derivatives </b> </summary>
 
 [antectics](#antectics)  
 [antectical](#antectical)
@@ -63,14 +63,14 @@ A dictionary of all the fictional words I’ve created.
 </details>
 
 <details>
-  <summary> <b> Related </b> </summary> <br>
+  <summary> <b> Related </b> </summary>
 
 [decate](#decate)
 
 </details>
 
 <details>
-  <summary> <b> Etymologics </b> </summary> <br>
+  <summary> <b> Etymologics </b> </summary>
 
 *Spontaneous emergence* may have derived from ‘Antarctica’
 
