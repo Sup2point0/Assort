@@ -20,6 +20,7 @@ A dictionary of all the fictional words I’ve created.
     <a href="#decant"> decant </a> <br>
     <a href="#decate"> decate </a> <br>
     <a href="#deuteric"> deuteric </a> <br>
+    <a href="#didecant"> didecant </a> <br>
     <a href="#eximplode"> eximplode </a> <br>
     <a href="#protic"> protic </a> <br>
     <a href="#synthevetix"> synthevetix </a> <br>
@@ -37,7 +38,7 @@ A dictionary of all the fictional words I’ve created.
 ## antect
 
 ### Verb
-`/antekt/`
+`/an'tɛkt/`
 
 1. *prototransitive*
 - to convert a date from another calendar to the Antarctican calendar.  
@@ -63,8 +64,37 @@ A dictionary of all the fictional words I’ve created.
 </details>
 
 <details>
+  <summary> <b> Etymologics </b> </summary>
+
+*Spontaneous emergence* may have derived from ‘Antarctica’
+
+</details>
+
+<details>
   <summary> <b> Related </b> </summary>
 
+&emsp; [decate](#decate)
+
+</details>
+
+
+<br>
+
+
+## decant
+
+### Noun
+`/'dɛkənt/`
+
+1. *abstract*  
+- a unit of time in the Antarctican calendar, corresponding to a month in the Gregorian calendar. Each year consists of 10 decants, alternating between 37 and 36 days long.  
+&emsp; *test*
+> similar: month
+
+<details>
+  <summary> <b> Derivatives </b> </summary>
+
+&emsp; [didecant](#didecant)  
 &emsp; [decate](#decate)
 
 </details>
@@ -72,6 +102,43 @@ A dictionary of all the fictional words I’ve created.
 <details>
   <summary> <b> Etymologics </b> </summary>
 
-*Spontaneous emergence* may have derived from ‘Antarctica’
+&emsp; *New Antarctica* » Greek ***deka*** ‘ten’ + ***ant*** in *Antarctica*
+
+</details>
+
+<details>
+  <summary> <b> Related </b> </summary>
+
+&emsp; [decate](#decate)
+
+</details>
+
+
+<br>
+
+
+## decate
+
+### Noun
+`/'dɛkeɪt/`
+
+1. *abstract*  
+- the date.  
+&emsp; *What’s the decate?*
+- the specific day of the decant.  
+&emsp; *The decate is 20.*
+
+<details>
+  <summary> <b> Etymologics </b> </summary> <br>
+
+&emsp; *New Antarctica* » Greek ***deka*** ‘ten’ + ***-ate***
+&emsp; also from Antarctican *decant*
+
+</details>
+
+<details>
+  <summary> <b> Related </b> </summary>
+
+&emsp; [decant](#decant)
 
 </details>
