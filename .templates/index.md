@@ -15,7 +15,7 @@
 
 1. *sense*  
 - definition  
-> *test*
+&emsp; *test*
 
 <details>
   <summary> <b> – </b> </summary> <br>
