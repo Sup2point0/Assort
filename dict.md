@@ -88,7 +88,6 @@ A dictionary of all the fictional words I’ve created.
 
 1. *abstract*  
 - a unit of time in the Antarctican calendar, corresponding to a month in the Gregorian calendar. Each year consists of 10 decants, alternating between 37 and 36 days long.  
-&emsp; *test*
 > similar: month
 
 <details>
