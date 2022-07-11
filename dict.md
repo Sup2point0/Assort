@@ -40,9 +40,8 @@ A dictionary of all the fictional words I’ve created.
 ### Verb
 `/an'tɛkt/`
 
-1. *prototransitive*
-- to convert a date from another calendar to the Antarctican calendar.  
-&emsp; *All devices have an inbuilt feature to antect a given decate.*
+1. *[prototransitive]()* to convert a date from another calendar to the Antarctican calendar.  
+&ensp; *All devices have an inbuilt feature to antect a given decate.*
 
 <details>
   <summary> <b> Conjugation </b> </summary> <br>
@@ -86,8 +85,7 @@ A dictionary of all the fictional words I’ve created.
 ### Noun
 `/'dɛkənt/`
 
-1. *abstract*  
-- a unit of time in the Antarctican calendar, corresponding to a month in the Gregorian calendar. Each year consists of 10 decants, alternating between 37 and 36 days long.  
+1. *[abstract]()* a unit of time in the Antarctican calendar, corresponding to a month in the Gregorian calendar. Each year consists of 10 decants, alternating between 37 and 36 days long.  
 > similar: month
 
 <details>
@@ -121,10 +119,9 @@ A dictionary of all the fictional words I’ve created.
 ### Noun
 `/'dɛkeɪt/`
 
-1. *abstract*  
-- the date.  
-&emsp; *What’s the decate?*
-- the specific day of the decant.  
+1. *[abstract]()* the date.  
+&ensp; *What’s the decate?*
+-  the specific day of the decant.  
 &emsp; *The decate is 20.*
 
 <details>
