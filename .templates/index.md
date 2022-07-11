@@ -13,7 +13,7 @@
 ### Sense
 `/–/`
 
-1. definition  
+1. *transitivity* definition  
 > *test*
 
 <details>
