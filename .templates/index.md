@@ -20,7 +20,7 @@
 
 *[sense]()*
 
-1.  test  
+1. definition  
 &ensp; *test*
 > similar: [](#)
 
