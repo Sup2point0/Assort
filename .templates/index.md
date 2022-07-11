@@ -8,13 +8,13 @@
 </table>
 
 
-## Word
+## word
 
-### Sense
+### Case
 `/–/`
 
-1. *transitivity*  
-&ensp; definition  
+1. *sense*  
+- definition  
 > *test*
 
 <details>
