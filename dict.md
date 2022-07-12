@@ -159,7 +159,7 @@ A dictionary of all the fictional words I’ve created.
 ## lynt
 
 ### Verb
-`/lɪnt/`
+`/'lɪnt/`
 
 *[prototransitive]()*
 
@@ -189,6 +189,28 @@ A dictionary of all the fictional words I’ve created.
   <summary> <b> Etymologics </b> </summary>
 
 &emsp; *Republic of Antarctica* » from English ***simmer***, ***sinter***
+
+</details>
+
+<details>
+  <summary> <b> Related </b> </summary>
+
+&emsp; [](#)
+
+</details>
+
+### Noun
+`/'lɪnt/`
+
+*[count]()*
+
+1. {definition}  
+&ensp; *Care for some lynts?*
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *New Antarctica* » Antarctican verb ***lynt*** (since sweets are lynted)
 
 </details>
 
