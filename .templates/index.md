@@ -25,7 +25,7 @@
 > similar: [](#)
 
 <details>
-  <summary> <b> – </b> </summary> <br>
+  <summary> <b> Conjugation </b> </summary> <br>
 
 </details>
 
@@ -35,7 +35,7 @@
 </details>
 
 <details>
-  <summary> <b> Etymologics </b> </summary> <br>
+  <summary> <b> Etymologics </b> </summary>
 
 </details>
 
@@ -43,3 +43,6 @@
   <summary> <b> Related </b> </summary>
 
 </details>
+
+
+<br>
