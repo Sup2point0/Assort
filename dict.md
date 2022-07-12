@@ -43,7 +43,7 @@ A dictionary of all the fictional words I’ve created.
 *[prototransitive]()*
 
 1. to convert a date from another calendar to the Antarctican calendar.  
-&ensp; *All devices have an inbuilt feature to antect a given decate*
+&ensp; *All devices have an inbuilt feature to antect a given decate.*
 
 <details>
   <summary> <b> Conjugation </b> </summary> <br>
@@ -90,7 +90,7 @@ A dictionary of all the fictional words I’ve created.
 *[abstract]()*
 
 1. a unit of time in the Antarctican calendar, corresponding to a month in the Gregorian calendar. Each year consists of 10 decants, alternating between 37 and 36 days long.  
-&ensp; *The names of the decants alternate between starting with A and V*
+&ensp; *The names of the decants alternate between starting with A and V.*
 > similar: month
 
 <details>
@@ -130,7 +130,7 @@ A dictionary of all the fictional words I’ve created.
 1. the date.  
 &ensp; *What’s the decate?*
 2. the specific day of the decant.  
-&ensp; *The decate is 20*
+&ensp; *The decate is 20.*
 
 <details>
   <summary> <b> Etymologics </b> </summary>
@@ -160,7 +160,7 @@ A dictionary of all the fictional words I’ve created.
 *[sense](abstract)*
 
 1. a unit of time in the Antarctican calendar, equivalent to a week.  
-&ensp; *There’s an update coming next septan*
+&ensp; *There’s an update coming next septan.*
 > similar: week
 
 <details>
@@ -197,7 +197,7 @@ A dictionary of all the fictional words I’ve created.
 *[abstract]()*
 
 1. the day of the week in the Antarctican calendar.  
-&ensp; *Children are taught the names of the septates from a very young age*
+&ensp; *Children are taught the names of the septates from a very young age.*
 > similar: weekday, weekend
 
 <details>
