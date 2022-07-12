@@ -5,8 +5,8 @@
 
 <table>
   <td>
-    <a href="#"> – </a> <br>
-    <a href="#"> – </a>
+    <a href="##"> – </a> <br>
+    <a href="##"> – </a>
   </td>
 </table>
 
@@ -26,6 +26,12 @@
 
 <details>
   <summary> <b> Conjugation </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
 
 </details>
 
