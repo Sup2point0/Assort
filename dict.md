@@ -156,7 +156,7 @@ A dictionary of all the fictional words I’ve created.
 ### Noun
 `/'sɛptən/`
 
-*[sense](abstract)*
+*[abstract]()*
 
 1. a unit of time in the Antarctican calendar, equivalent to a week.  
 &ensp; *There’s an update coming next septan.*
