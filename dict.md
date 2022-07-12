@@ -111,7 +111,6 @@ A dictionary of all the fictional words I’ve created.
 <details>
   <summary> <b> Related </b> </summary>
 
-&emsp; [decate](#decate)  
 &emsp; [septan](#septan)
 
 </details>
@@ -135,7 +134,7 @@ A dictionary of all the fictional words I’ve created.
 <details>
   <summary> <b> Etymologics </b> </summary>
 
-&emsp; *New Antarctica* » Greek ***deka*** ‘ten’ + ***-ate***
+&emsp; *New Antarctica* » Greek ***deka*** ‘ten’ + ***-ate***  
 &emsp; also from Antarctican *decant*
 
 </details>
@@ -180,7 +179,6 @@ A dictionary of all the fictional words I’ve created.
 <details>
   <summary> <b> Related </b> </summary>
 
-&emsp; [septate](#septate)  
 &emsp; [decant](#decant)
 
 </details>
