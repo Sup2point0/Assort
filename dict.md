@@ -111,7 +111,7 @@ A dictionary of all the fictional words I’ve created.
 <details>
   <summary> <b> Related </b> </summary>
 
-&emsp; [decate](#decate)
+&emsp; [decate](#decate)  
 &emsp; [septan](#septan)
 
 </details>
@@ -143,7 +143,7 @@ A dictionary of all the fictional words I’ve created.
 <details>
   <summary> <b> Related </b> </summary>
 
-&emsp; [decant](#decant)
+&emsp; [decant](#decant)  
 &emsp; [septate](#septate)
 
 </details>
@@ -180,7 +180,7 @@ A dictionary of all the fictional words I’ve created.
 <details>
   <summary> <b> Related </b> </summary>
 
-&emsp; [septate](#septate)
+&emsp; [septate](#septate)  
 &emsp; [decant](#decant)
 
 </details>
@@ -210,7 +210,7 @@ A dictionary of all the fictional words I’ve created.
 <details>
   <summary> <b> Related </b> </summary>
 
-&emsp; [septan](#septan)
+&emsp; [septan](#septan)  
 &emsp; [decate](#decate)
 
 </details>
