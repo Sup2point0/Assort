@@ -1,7 +1,7 @@
 ## Index
 
 <details open>
-  <summary> <b> display </b> </summary>
+  <summary> <b> display </b> </summary> <br>
 
 <table>
   <td>
