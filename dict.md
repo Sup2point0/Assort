@@ -156,6 +156,53 @@ A dictionary of all the fictional words I’ve created.
 <br>
 
 
+## deuterical
+
+### Adjective
+`/duː'tɛrɪk(ə)l/`
+
+*[attributive]()*
+
+1. secondary  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugation </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Derivatives </b> </summary>
+
+&emsp; [](#)
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – »
+
+</details>
+
+<details>
+  <summary> <b> Related </b> </summary>
+
+&emsp; [](#)
+
+</details>
+
+
+<br>
+
+
 ## lynt
 
 ### Verb
