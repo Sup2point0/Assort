@@ -14,15 +14,20 @@ A dictionary of all the fictional words I’ve created.
 <table>
   <td>
     <a href="#antect"> antect </a> <br>
+    <a href="#avricop"> avricop </a> <br>
     <a href="#antectical"> antectical </a> <br>
     <a href="#antectics"> antectics </a> <br>
     <a href="#concyze"> concyze </a> <br>
+    <a href="#crabatista"> crabatista </a> <br>
     <a href="#decant"> decant </a> <br>
     <a href="#decate"> decate </a> <br>
     <a href="#deuteric"> deuteric </a> <br>
     <a href="#didecant"> didecant </a> <br>
     <a href="#eximplode"> eximplode </a> <br>
+    <a href="#greencorn"> greencorn </a> <br>
+    <a href="#lynt"> lynt </a> <br>
     <a href="#protic"> protic </a> <br>
+    <a href="#sylonautilla"> sylonautilla </a> <br>
     <a href="#synthevetix"> synthevetix </a> <br>
     <a href="#"> – </a> <br>
     <a href="#"> – </a>
@@ -144,6 +149,53 @@ A dictionary of all the fictional words I’ve created.
 
 &emsp; [decant](#decant)  
 &emsp; [septate](#septate)
+
+</details>
+
+
+<br>
+
+
+## lynt
+
+### Verb
+`/lɪnt/`
+
+*[prototransitive]()*
+
+1. {definition}  
+&ensp; *{test}*
+
+<details>
+  <summary> <b> Conjugation </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | lynting |
+| past | lynted |
+| perfect | lynt |
+
+</details>
+
+<details>
+  <summary> <b> Derivatives </b> </summary>
+
+&emsp; [lynted](#lynted)  
+&emsp; [lynts](#lynt#noun)
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *Republic of Antarctica* » from English ***simmer***, ***sinter***
+
+</details>
+
+<details>
+  <summary> <b> Related </b> </summary>
+
+&emsp; [](#)
 
 </details>
 
