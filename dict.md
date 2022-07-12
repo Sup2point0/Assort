@@ -170,7 +170,7 @@ A dictionary of all the fictional words I’ve created.
 </details>
 
 <details>
-  <summary> <b> Etymologics </b> </summary> <br>
+  <summary> <b> Etymologics </b> </summary>
 
 &emsp; *New Antarctica* » ***sept*** in Latin *septem* ‘seven’ + ***-an*** in *Antarctica*
 
@@ -199,7 +199,7 @@ A dictionary of all the fictional words I’ve created.
 > similar: weekday, weekend
 
 <details>
-  <summary> <b> Etymologics </b> </summary> <br>
+  <summary> <b> Etymologics </b> </summary>
 
 &emsp; *New Antarctica* » ***sept*** in Latin *septem* ‘seven’ + ***-ate***
 
