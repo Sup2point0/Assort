@@ -43,7 +43,7 @@ A dictionary of all the fictional words I’ve created.
 *[prototransitive]()*
 
 1. to convert a date from another calendar to the Antarctican calendar.  
-&ensp; *All devices have an inbuilt feature to antect a given decate.*
+&ensp; *All devices have an inbuilt feature to antect a given decate*
 
 <details>
   <summary> <b> Conjugation </b> </summary> <br>
