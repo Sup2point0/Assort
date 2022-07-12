@@ -38,15 +38,21 @@
 <details>
   <summary> <b> Derivatives </b> </summary>
 
+&emsp; [](#)
+
 </details>
 
 <details>
   <summary> <b> Etymologics </b> </summary>
 
+&emsp; – »
+
 </details>
 
 <details>
   <summary> <b> Related </b> </summary>
+
+&emsp; [](#)
 
 </details>
 
