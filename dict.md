@@ -90,6 +90,7 @@ A dictionary of all the fictional words I’ve created.
 *[abstract]()*
 
 1. a unit of time in the Antarctican calendar, corresponding to a month in the Gregorian calendar. Each year consists of 10 decants, alternating between 37 and 36 days long.  
+&ensp; *The names of the decants alternate between starting with A and V*
 > similar: month
 
 <details>
@@ -111,6 +112,7 @@ A dictionary of all the fictional words I’ve created.
   <summary> <b> Related </b> </summary>
 
 &emsp; [decate](#decate)
+&emsp; [septan](#septan)
 
 </details>
 
@@ -127,8 +129,8 @@ A dictionary of all the fictional words I’ve created.
 
 1. the date.  
 &ensp; *What’s the decate?*
-- the specific day of the decant.  
-&ensp; *The decate is 20.*
+2. the specific day of the decant.  
+&ensp; *The decate is 20*
 
 <details>
   <summary> <b> Etymologics </b> </summary>
@@ -142,5 +144,73 @@ A dictionary of all the fictional words I’ve created.
   <summary> <b> Related </b> </summary>
 
 &emsp; [decant](#decant)
+&emsp; [septate](#septate)
+
+</details>
+
+
+<br>
+
+
+## septan
+
+### Noun
+`/'sɛptən/`
+
+*[sense](abstract)*
+
+1. a unit of time in the Antarctican calendar, equivalent to a week.  
+&ensp; *There’s an update coming next septan*
+> similar: week
+
+<details>
+  <summary> <b> Derivatives </b> </summary>
+
+&emsp; [septate](#septate)
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary> <br>
+
+&emsp; *New Antarctica* » ***sept*** in Latin *septem* ‘seven’ + ***-an*** in *Antarctica*
+
+</details>
+
+<details>
+  <summary> <b> Related </b> </summary>
+
+&emsp; [septate](#septate)
+&emsp; [decant](#decant)
+
+</details>
+
+
+<br>
+
+
+## septate
+
+### Noun
+`/'sɛpteɪt/`
+
+*[abstract]()*
+
+1. the day of the week in the Antarctican calendar.  
+&ensp; *Children are taught the names of the septates from a very young age*
+> similar: weekday, weekend
+
+<details>
+  <summary> <b> Etymologics </b> </summary> <br>
+
+&emsp; *New Antarctica* » ***sept*** in Latin *septem* ‘seven’ + ***-ate***
+
+</details>
+
+<details>
+  <summary> <b> Related </b> </summary>
+
+&emsp; [septan](#septan)
+&emsp; [decate](#decate)
 
 </details>
