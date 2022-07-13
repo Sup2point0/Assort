@@ -166,7 +166,7 @@ A dictionary of all the fictional words I’ve created.
 *[attributive]()*
 
 1. secondary.  
-&ensp; *test*
+&ensp; *{test}*
 
 <details>
   <summary> <b> Etymologics </b> </summary>
@@ -264,7 +264,7 @@ A dictionary of all the fictional words I’ve created.
 *[attributive]()*
 
 1. primary.  
-&ensp; *test*
+&ensp; *{test}*
 
 <details>
   <summary> <b> Etymologics </b> </summary>
