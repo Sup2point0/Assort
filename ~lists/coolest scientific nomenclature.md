@@ -3,7 +3,7 @@ Scientists and mathematicians may be the absolute worst at naming stuff, but the
 
 ## Coolest Nomenclature in STEM Subjects
 
-### exponentiatino
+### exponentiation
 
 ### polymerization
 

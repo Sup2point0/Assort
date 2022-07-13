@@ -3,12 +3,12 @@
 
 ## Features I’d Love in Markdown
 
-- grey text
+### Grey text
 
-- table cell span
+### Table cell span
 
-- image caption
+### Image caption
 
-- quote author
+### Quote author
 
-- multiple tickboxes
+### Multiple tickboxes
