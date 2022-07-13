@@ -168,34 +168,17 @@ A dictionary of all the fictional words I’ve created.
 > similar: [](#)
 
 <details>
-  <summary> <b> Conjugation </b> </summary> <br>
-
-| tense | participle |
-| :---- | :--------- |
-| present | – |
-| past | – |
-| perfect | – |
-
-</details>
-
-<details>
-  <summary> <b> Derivatives </b> </summary>
-
-&emsp; [](#)
-
-</details>
-
-<details>
   <summary> <b> Etymologics </b> </summary>
 
-&emsp; – »
+&emsp; *New Antarctica* » Antarctican ***deuteric*** ‘secondary object’ + ***-al*** ‘adjective’
 
 </details>
 
 <details>
   <summary> <b> Related </b> </summary>
 
-&emsp; [](#)
+&emsp; [deuteric](#deuteric)  
+&emsp; [protical](#protical)
 
 </details>
 
