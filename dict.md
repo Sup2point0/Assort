@@ -22,11 +22,13 @@ A dictionary of all the fictional words I’ve created.
     <a href="#decant"> decant </a> <br>
     <a href="#decate"> decate </a> <br>
     <a href="#deuteric"> deuteric </a> <br>
+    <a href="#deuterical"> deuterical </a> <br>
     <a href="#didecant"> didecant </a> <br>
     <a href="#eximplode"> eximplode </a> <br>
     <a href="#greencorn"> greencorn </a> <br>
     <a href="#lynt"> lynt </a> <br>
     <a href="#protic"> protic </a> <br>
+    <a href="#protical"> protical </a> <br>
     <a href="#sylonautilla"> sylonautilla </a> <br>
     <a href="#synthevetix"> synthevetix </a> <br>
     <a href="#"> – </a> <br>
@@ -163,9 +165,8 @@ A dictionary of all the fictional words I’ve created.
 
 *[attributive]()*
 
-1. secondary  
+1. secondary.  
 &ensp; *test*
-> similar: [](#)
 
 <details>
   <summary> <b> Etymologics </b> </summary>
@@ -248,6 +249,35 @@ A dictionary of all the fictional words I’ve created.
   <summary> <b> Related </b> </summary>
 
 &emsp; [](#)
+
+</details>
+
+
+<br>
+
+
+## protical
+
+### Adjective
+`/'prəʊtɪk(ə)l/`
+
+*[attributive]()*
+
+1. primary.  
+&ensp; *test*
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *New Antarctica* » Antarctican ***protic*** ‘primary object’ + ***-al*** ‘adjective’
+
+</details>
+
+<details>
+  <summary> <b> Related </b> </summary>
+
+&emsp; [deuterical](#deuterical)  
+&emsp; [protic](#protic)
 
 </details>
 
