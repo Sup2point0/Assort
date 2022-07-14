@@ -29,7 +29,7 @@ Every favourite thing you could ever imagine (eventually).
 | school subject | Computer Science |
 | social media | Discord <br> reddit |
 | sport | tennis |
-| supernatural ability | invisibility |
+| supernatural ability | invisibility <br> teleportation <br> incorporeality |
 | transport | train |
 
 
@@ -41,7 +41,7 @@ Every favourite thing you could ever imagine (eventually).
 | category | favourite |
 | :------- | :-------- |
 | cake flavour | chocolate |
-| cereal | – |
+| cereal | *Honey Monster* sugar puffs <br> *Kellogg’s* coco pops |
 | cookie flavour | chocolate |
 | crisp flavour | *Lay’s* tomato <br> *Walker’s* cheese & onion |
 | dish | tomato and scrambled eggs stir-fry <br> leek and scrambled eggs stir-fry |
@@ -89,7 +89,8 @@ Every favourite thing you could ever imagine (eventually).
 | image editor | Microsoft PowerPoint |
 | laptop | Dell XPS |
 | mainstream subreddit | r/showerthoughts |
-| mathematics field | geometry |
+| mathematics field | geometry <br> complex numbers |
+| military division | air |
 | musical key | C# major <br> D major <br> F# major |
 | Microsoft Office application | Microsoft PowerPoint (2016) |
 | Minecraft wood type | stripped oak <br> stripped birch <br> oak wood |
@@ -97,7 +98,7 @@ Every favourite thing you could ever imagine (eventually).
 | physics field | particle physics |
 | pokémon | Pikachu <br> Squirtle <br> Yveltal |
 | programming language | Python <br> Markdown <br> CSS |
-| subreddit | [r/programmerhumor](https://reddit.com/r/programmerhumor) <br> [r/chemistrymemes](reddit.com/r/chemistrymemes) |
+| subreddit | [r/programmerhumor](https://reddit.com/r/programmerhumor) <br> [r/chemistrymemes](https://reddit.com/r/chemistrymemes) <br> [r/cursedchemistry](https://reddit.com/r/cursedchemistry) |
 | tablet | 2019 iPad Air (3rd gen) |
 
 
