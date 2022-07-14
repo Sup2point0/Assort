@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td> alternatives </td>
-    <td> galaxividium </td>
+    <td> galaxividium, axividium galaxyde, galaxium axivyde </td>
   </tr>
   <tr>
     <td> pronounciation </td>
