@@ -297,6 +297,9 @@ Journey to the South Pole
 Aurora Australis  
 
 
+<br>
+
+
 ## Elements
 
 Lithium  
@@ -306,6 +309,9 @@ Phosphorus
 Platinum  
 Astatine  
 Roentgenium  
+
+
+<br>
 
 
 ## Essence
