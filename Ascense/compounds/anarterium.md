@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td> pronounciation </td>
-    <td> <code> /–/ </code> </td> 
+    <td> <code>/ˌanɑːˈtɛrɪəm/</code>, <code>/ɑː'tɛrɪəm 'anɛrʌɪd/</code> </td> 
   </tr>
   <tr>
     <th colspan="2"> <h4> Miscellaneous </h4> </th>
