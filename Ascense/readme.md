@@ -70,13 +70,68 @@ The Antarctican Scientific Complete Enumeration of Natural and Synthesyzed Eleme
 
 Archetypes are series of elements or compounds with similar properties, and often nomenclature.
 
-### Prime
+### Proticine
+
+<table>
+  <tr>
+    <td> affinity </td>
+    <td> <a href="elements/cypton.md"> cypton </a> </td>
+  </tr>
+</table>
 
 ### Seprine
 
-### Astrol
+<table>
+  <tr>
+    <td> affinity </td>
+    <td> <a href="elements/sepron.md"> sepron </a> </td>
+  </tr>
+</table>
+
+### Astraline
+
+<table>
+  <tr>
+    <td> affinity </td>
+    <td> </td>
+  </tr>
+</table>
+
+### Vitaline
+
+<table>
+  <tr>
+    <td> affinity </td>
+    <td> <a href="elements/vitalitine.md"> vitalitine </a> </td>
+  </tr>
+</table>
 
 ### Luxine
+
+<table>
+  <tr>
+    <td> affinity </td>
+    <td> </td>
+  </tr>
+</table>
+
+### Nexine
+
+<table>
+  <tr>
+    <td> affinity </td>
+    <td> </td>
+  </tr>
+</table>
+
+### Vexine
+
+<table>
+  <tr>
+    <td> affinity </td>
+    <td> </td>
+  </tr>
+</table>
 
 
 <br>
