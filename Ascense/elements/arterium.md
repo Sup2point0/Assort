@@ -62,6 +62,6 @@
   </tr>
   <tr>
     <td> ‹ <a href="archnium.md"> archnium </a> </td>
-    <td> <a href="aurium.md"> aurium </a> › </td>
+    <td> <a href="aurine.md"> aurine </a> › </td>
   </tr>
 </table>
