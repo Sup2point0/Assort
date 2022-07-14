@@ -18,9 +18,10 @@ Assorted favourite tracks in a multitude of genres.
 [Eternity Roze](https://youtube.com/c/EternityRoze) – [Canon in D x River Flows in You Mix](https://youtube.com/watch?v=qyl9pdczYVE)  
 [Avril Lavigne](https://youtube.com/user/AvrilLavigneVEVO) – [When You’re Gone](https://youtube.com/watch?v=0G3_kG5FFfQ)  
 [Vexento](https://youtube.com/c/Vexento) – [Tevo](https://youtube.com/watch?v=cOoGIy4C5eY)  
-[]() – [Miracle of Ultra](https://youtube.com/watch?v=lTLsjRjn7PI)  
+[Project DMM]() – [Miracle of Ultra](https://youtube.com/watch?v=lTLsjRjn7PI)  
 [Owl City](https://youtube.com/channel/UCyo4FFY5_6v_ZzPl-Fq6FZw) – [Fireflies](https://youtube.com/watch?v=psuRGfAaju4)  
 []() – []()  
+朴树 – [平凡之路](https://youtube.com/watch?v=NjTT5_RSkw4)  
 [Ezza Wan](https://youtube.com/channel/UCHmOtVQh5lYF1w1NapyHKqA) – [Reverie](https://youtube.com/watch?v=3ddoak9fuf0)  
 
 
@@ -36,6 +37,7 @@ Assorted favourite soundtracks from games, movies, series and all.
 陈雪燃 – [无名之辈](https://youtube.com/watch?v=esYjbyBm8zw)  
 [Project DMM]() – [Ultraman Mebius](https://youtube.com/watch?v=hjWAVkSfniw)  
 [Voyager]() – [Susume! Ultraman Zero](https://youtube.com/watch?v=h_YYmNzydy8)  
+[Project DMM]() – [Miracle of Ultra](https://youtube.com/watch?v=lTLsjRjn7PI)
 [Air Attack](https://en.wikipedia.org/wiki/AirAttack) – [Operation Red Sea](https://youtube.com/watch?v=JsJPVD9EwW8)  
 [Air Attack](https://en.wikipedia.org/wiki/AirAttack) – [White Storm Dam](https://youtube.com/watch?v=-fkGQTZavhA)  
 [Air Attack](https://en.wikipedia.org/wiki/AirAttack) – [Operation Dark Sand](https://youtube.com/watch?v=Vv_qT9tJLCc)  
@@ -48,7 +50,6 @@ Assorted favourite soundtracks from games, movies, series and all.
 [Tiny Defense](https://tinydefense.fandom.com/wiki/Tiny_Defense_Wiki) – [Mission](https://youtube.com/watch?v=XMFS6PH47xI)  
 [jono](https://youtube.com/c/shmidi) – [Rendog Theme Remastered](https://youtube.com/watch?v=jJLs8MD6bjs)  
 [熊出没](https://youtube.com/c/%E7%86%8A%E5%87%BA%E6%B2%A1BoonieBears) – [你从末力去](https://youtube.com/watch?v=KEZx9ZJKgLQ)  
-朴树 – [平凡之路](https://youtube.com/watch?v=NjTT5_RSkw4)  
 
 
 <br>
