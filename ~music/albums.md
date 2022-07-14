@@ -19,7 +19,8 @@
 | [Fidelity](#fidelity) | 7 |
 | [Fantasy](#fantasy) | 20 |
 | [Antarctica](#antarctica) | 12 |
-| [Essence](#essence) | 20+ |
+| [Elements](#elements) | 20+ |
+| [Essence](#essence) | 20 |
 
 
 <br>
@@ -289,18 +290,15 @@ Snow Flurry
 Penguin Dash  
 Ice Core  
 Blizzard  
+Infinite Isolation  
 What Have We Here  
 Journey to the South Pole  
 **Antarctic Adventure**  
-Aurora Australis
+Aurora Australis  
 
 
-<br>
+## Elements
 
-
-## Essence
-
-Elements  
 Lithium  
 Nitrogen  
 Silicon  
@@ -308,4 +306,15 @@ Phosphorus
 Platinum  
 Astatine  
 Roentgenium  
+
+
+## Essence
+
+Elements  
+Reaction  
+Neutraliyation  
+Dissociation  
+Hydrogen Bond  
+Nuclear Fission  
+Nuclear Fission  
 Island of Stability
