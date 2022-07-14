@@ -61,7 +61,7 @@
     <td> <a href="sepron.md"> sepron </a> </td>
   </tr>
   <tr>
-    <td> ‹ <a href="cynium.md"> cynium </a> </td>
+    <td> ‹ <a href="cykerium.md"> cykerium </a> </td>
     <td> <a href="deathcium.md"> deathcium </a> › </td>
   </tr>
 </table>
