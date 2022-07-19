@@ -83,7 +83,7 @@ A highly specialyzed derivative of telekinetis, opting to control only dust and 
   </tr>
   <tr>
     <td> <a href="../readme.md#enhancement"> enhancement </a> </td>
-    <td> <img src="spectrus.test.png" height="20px"> very high </td>
+    <td> <img src="spectrus.test.png" height="16px"> very high </td>
   </tr>
   <tr>
     <td> competency </td>
