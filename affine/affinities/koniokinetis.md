@@ -59,23 +59,23 @@ A highly specialyzed derivative of telekinetis, opting to control only dust and 
   </tr>
   <tr>
     <td> control </td>
-    <td> very high </td>
+    <td> very high <img src="../../.assets/spectrus.pink.high.very.png"> </td>
   </tr>
   <tr>
     <td> endurance </td>
-    <td> moderate </td>
+    <td> moderate <img src="../../.assets/spectrus.pink.moderate.png"> </td>
   </tr>
   <tr>
     <td> <a href="../readme.md#finesse"> finesse </a> </td>
-    <td> extremely high </td>
+    <td> extremely high <img src="../../.assets/spectrus.pink.high.especially.png"> </td>
   </tr>
   <tr>
     <td> range </td>
-    <td> moderate </td>
+    <td> moderate <img src="../../.assets/spectrus.pink.moderate.png"> </td>
   </tr>
   <tr>
     <td> <a href="../readme.md#harmony"> harmony </a> </td>
-    <td> moderate </td>
+    <td> moderate <img src="../../.assets/spectrus.pink.moderate.png"> </td>
   </tr>
   <tr>
     <td> <a href="../readme.md#synchrony"> synchrony </a> </td>
@@ -83,26 +83,26 @@ A highly specialyzed derivative of telekinetis, opting to control only dust and 
   </tr>
   <tr>
     <td> <a href="../readme.md#enhancement"> enhancement </a> </td>
-    <td> very high </td>
+    <td> very high <img src="../../.assets/spectrus.pink.high.very.png"> </td>
   </tr>
   <tr>
     <td> competency </td>
-    <td> moderate </td>
+    <td> moderate <img src="../../.assets/spectrus.pink.moderate.png"> </td>
   </tr>
   <tr>
     <td> mastery </td>
-    <td> very difficult </td>
+    <td> very difficult <img src="../../.assets/spectrus.pink.high.very.png"> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Genetics </h4> </th>
   </tr>
   <tr>
     <td> rarity </td>
-    <td> high </td>
+    <td> high <img src="../../.assets/spectrus.pink.high.png"> </td>
   </tr>
   <tr>
     <td> obscurity </td>
-    <td> moderate </td>
+    <td> moderate <img src="../../.assets/spectrus.pink.moderate.png"> </td>
   </tr>
   <tr>
     <td> derivation </td>
