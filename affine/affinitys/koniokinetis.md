@@ -221,7 +221,7 @@ Koniokinetics’ versatility makes them fantastic for support, working from behi
 
 ## Emergence
 
-[Tencent Cataract](–) invented the affinity when creating xis form for the Supique.
+[Tencent Cataract](–) invented the affinity when creating xis form for the Supxeriique.
 
 
 <br>
