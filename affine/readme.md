@@ -1,6 +1,6 @@
 # Affine
 
-*Affine* – magic or supernaturalism – is a phenomenon present in certain skeparxes, in particular the Supskeparx.
+*Affine* – magic or supernaturalism – is a phenomenon present in certain xeriques, in particular the Supxerique.
 
 
 
@@ -67,7 +67,7 @@
 
 </details>
 
-Throughout different skeparxes and in different circumstances, affinitys are known by different names. For most, there is usually a *colloquial* name, often a standard word (*whisper*, *legend*), and a *standard* name (*telekinetis*, *psychosynchronis*).
+Throughout different xeriques and in different circumstances, affinitys are known by different names. For most, there is usually a *colloquial* name, often a standard word (*whisper*, *legend*), and a *standard* name (*telekinetis*, *psychosynchronis*).
 
 
 <br>
