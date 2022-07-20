@@ -187,6 +187,49 @@ There are no classes of koniokinetis – all koniokinetics are psychic. Instead,
 
 When wielded proficiently, koniokinetis can be exceptionally powerful. Its high specialyzation grants koniokinetics greatly enhanced strength and finesse, far exceeding that of a regular telekinetic. As a protical affinity, it is very versatile and flexible, effective at both attack and defence, along with combat and utility, which is often overlooked. With the ability to manipulate dust however they desire, a koniokinetic’s potential is restricted only by their creativity and imagination. This adaptability and unpredictability is part of what makes them so powerful, especially to those who have never encountered koniokinetis before – which is often the case, due to its rarity.
 
+<table>
+  <tr>
+    <th align="left"> <a href="../readme.md#power"> power </a> </th>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#control"> control </a> </th>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#endurance"> endurance </a> </th>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#finesse"> finesse </a> </th>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#range"> range </a> </th>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#harmony"> harmony </a> </th>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#synchrony"> synchrony </a> </th>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#enhancement"> enhancement </a> </th>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#competency"> competency </a> </th>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#mastery"> mastery </a> </th>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+  </tr>
+</table>
+
 ### Manipulation
 While dust may not seem like a particularly potent weapon, in the hands of a koniokinetic it is just as deadly as any other. While more dust is always advantageous, opening up possibilitys for greater abilitys, even a small amount is sufficient; besides, in most cases over the course of battle more dust is produced. Using tiny particulates, they can create the sharpest weapons imaginable, compacting them to form ultra-hard structures, and propel other structures with as little as a couple dozen specks of dust.
 
