@@ -61,13 +61,13 @@
 - **affinitic** – a being with an affinity
 - **affinics** – the subject of affine
 - **affinical** – relating to affine
-- **affinitics** – the subject of affinities
-- **affinitical** – relating to affinities
-- **affinyzation** – the process of unlocking affinities
+- **affinitics** – the subject of affinitys
+- **affinitical** – relating to affinitys
+- **affinyzation** – the process of unlocking affinitys
 
 </details>
 
-Throughout different skeparxes and in different circumstances, affinities are known by different names. For most, there is usually a *colloquial* name, often a standard word (*whisper*, *legend*), and a *standard* name (*telekinetis*, *psychosynchronis*).
+Throughout different skeparxes and in different circumstances, affinitys are known by different names. For most, there is usually a *colloquial* name, often a standard word (*whisper*, *legend*), and a *standard* name (*telekinetis*, *psychosynchronis*).
 
 
 <br>
@@ -75,7 +75,7 @@ Throughout different skeparxes and in different circumstances, affinities are kn
 
 ## Types
 
-> *For a full list of affinities, see [affinities](affinities.md).*
+> *For a full list of affinitys, see [affinitys](affinitys.md).*
 
 
 <br>
@@ -101,9 +101,9 @@ Transporting something.
 
 ## Channels
 
-The various ways in which affinities can be harnessed.
+The various ways in which affinitys can be harnessed.
 
-To illustrate the differences, consider a [novus](affinities/novis.md). Usually, they will be a haptic novus – *haptonovis* – which means they can turn objects invisible by touching them. A rarer optic novus – *optonovis* – can achieve this simply by looking at objects. An even rarer psychic novus – *psychonovis* – can do this just by thinking about it, meaning they can affect objects they cannot see, sense or know exist. This is generally the hierarchy of power between the 3 channels, with psychic being the most potent – not that this means haptic affinities are weak. Notice the signficant difference is range: while haptic affinitics must come into contact, psychic affinitics can attack from afar, which is more effective.
+To illustrate the differences, consider a [novus](affinitys/novis.md). Usually, they will be a haptic novus – *haptonovis* – which means they can turn objects invisible by touching them. A rarer optic novus – *optonovis* – can achieve this simply by looking at objects. An even rarer psychic novus – *psychonovis* – can do this just by thinking about it, meaning they can affect objects they cannot see, sense or know exist. This is generally the hierarchy of power between the 3 channels, with psychic being the most potent – not that this means haptic affinitys are weak. Notice the signficant difference is range: while haptic affinitics must come into contact, psychic affinitics can attack from afar, which is more effective.
 
 ### Psychic
 
@@ -114,11 +114,11 @@ To illustrate the differences, consider a [novus](affinities/novis.md). Usually,
   </tr>
   <tr>
     <td> examples </td>
-    <td> <a href="affinities/telekinetis.md">  </a> </td>
+    <td> <a href="affinitys/telekinetis.md">  </a> </td>
   </tr>
 </table>
 
-Affinities controlled by the mind.
+Affinitys controlled by the mind.
 
 ### Haptic
 
@@ -129,11 +129,11 @@ Affinities controlled by the mind.
   </tr>
   <tr>
     <td> examples </td>
-    <td> <a href="affinities/.md">  </a> </td>
+    <td> <a href="affinitys/.md">  </a> </td>
   </tr>
 </table>
 
-Affinities that channel through physical contact. This usually refers to directly touching the skin, but the exact constraints are often variable – {*damn this is hard to phrase*}
+Affinitys that channel through physical contact. This usually refers to directly touching the skin, but the exact constraints are often variable – {*damn this is hard to phrase*}
 
 ### Proxic
 
@@ -144,7 +144,7 @@ Affinities that channel through physical contact. This usually refers to directl
   </tr>
   <tr>
     <td> examples </td>
-    <td> <a href="affinities/vitakinetis.md">  </a> </td>
+    <td> <a href="affinitys/vitakinetis.md">  </a> </td>
   </tr>
 </table>
 
@@ -159,11 +159,11 @@ Affinities that channel through physical contact. This usually refers to directl
   </tr>
   <tr>
     <td> examples </td>
-    <td> <a href="affinities/.md">  </a> </td>
+    <td> <a href="affinitys/.md">  </a> </td>
   </tr>
 </table>
 
-Affinities controlled by sight.
+Affinitys controlled by sight.
 
 ### Innate
 
@@ -174,11 +174,11 @@ Affinities controlled by sight.
   </tr>
   <tr>
     <td> examples </td>
-    <td> <a href="affinities/invisibility.md">invisibility</a>, <a href="affinities/automorphis.md">automorphis</a> </td>
+    <td> <a href="affinitys/invisibility.md">invisibility</a>, <a href="affinitys/automorphis.md">automorphis</a> </td>
   </tr>
 </table>
 
-Affinities that stem from within an affinitic’s [affine core](foundational%20principles%20of%20affine.md). Notice that this is different to psychic – channelling innate affinities feels like part of oneself, as natural as moving a limb.
+Affinitys that stem from within an affinitic’s [affine core](foundational%20principles%20of%20affine.md). Notice that this is different to psychic – channelling innate affinitys feels like part of oneself, as natural as moving a limb.
 
 In moments of extreme emotion or circumstances, affinitics may unwittingly channel through their core, which releases affine far more powerful than normal.
 
@@ -197,7 +197,7 @@ In moments of extreme emotion or circumstances, affinitics may unwittingly chann
   </tr>
 </table>
 
-Affinities that must be actively controlled to retain their effect.
+Affinitys that must be actively controlled to retain their effect.
 
 ### Lingering
 
@@ -208,7 +208,7 @@ Affinities that must be actively controlled to retain their effect.
   </tr>
 </table>
 
-Affinities that retain their effect while no longer being controlled.
+Affinitys that retain their effect while no longer being controlled.
 
 
 <br>
