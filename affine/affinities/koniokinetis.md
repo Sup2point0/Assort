@@ -128,8 +128,8 @@ A highly specialyzed derivative of telekinetis, opting to control only dust and 
 
 | class | term | pronunciation | etymologics |
 | :---- | :--- | :------------ | :---------- |
-| affinity | koniokinetis | `/ˌkoʊniːoʊkɪˈnɛtɪs/` | Greek ***konio*** ‘dust’ + Antarctican ***kinetis*** ‘supernatural manipulation’ |
-| affinitic | koniokinetic | `/ˌkoʊniːoʊkɪˈnɛtɪk/` | Greek ***konio*** ‘dust’ + Antarctican ***kinetic*** ‘supernatural manipulator’ |
+| affinity | koniokinetis | `/ˌkoʊniːoʊkɪˈnɛtɪs/` | Greek ***konis*** ‘dust’ + Antarctican ***kinetis*** ‘supernatural manipulation’ |
+| affinitic | koniokinetic | `/ˌkoʊniːoʊkɪˈnɛtɪk/` | Greek ***konis*** ‘dust’ + Antarctican ***kinetic*** ‘supernatural manipulator’ |
 
 
 <br>
@@ -149,10 +149,10 @@ There are no classes of koniokinetis – all koniokinetics are psychic. Instead,
 
 - **psychokoniokinetis** – psychic manipulation of dust
   - other particulates that can be controlled include:
-  - grime
-  - dandruff, dead skin
-  - bogeys, snot
-  - dead bacteria
+    - grime
+    - dandruff, dead skin
+    - bogeys, snot
+    - dead bacteria
 - **koniosynchronis** – dust sensing
   - koniokinetics can sense every particulate in their close vicinity, including those that they cannot control. At first, this can result in sensory overload, but they can learn to quell it until needed.
 
@@ -160,7 +160,7 @@ There are no classes of koniokinetis – all koniokinetics are psychic. Instead,
 - **dust cleaning** – remove all dust from a surface. Very useful in daily life.
 - **dust mechanics** – form hands and tools of dust to operate on intricate entraptions. Very useful for engineers.
 - **dust platforms** – platforms to support other objects.
-- **dust propellation** – propel or pick up other objects with dust, akin to koniokinetis but weaker.
+- **dust propellation** – propel or pick up other objects with dust, akin to telekinetis but weaker.
   - propelling oneself is entirely possible, and can be used to levitate or even fly, though this becomes very draining.
 
 ### Attack
