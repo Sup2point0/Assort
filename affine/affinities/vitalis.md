@@ -2,7 +2,7 @@
 
 > *For the same affinity used for negative purposes, see [antevitalis](antevitalis.md).*
 
-One of the most invaluable affinities, the ability to control health.
+One of the most invaluable affinitys, the ability to control health.
 
 
 <table>
