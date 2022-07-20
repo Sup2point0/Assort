@@ -51,49 +51,6 @@
     <td> <code> /–/ </code> </td>
   </tr>
   <tr>
-    <th colspan="2"> <h4> Affinitics </h4> </th>
-  </tr>
-  <tr>
-    <td> power </td>
-    <td> – </td>
-  </tr>
-  <tr>
-    <td> control </td>
-    <td> – </td>
-  </tr>
-  <tr>
-    <td> endurance </td>
-    <td> – </td>
-  </tr>
-  <tr>
-    <td> <a href="../readme.md#finesse"> finesse </a> </td>
-    <td> – </td>
-  </tr>
-  <tr>
-    <td> range </td>
-    <td> – </td>
-  </tr>
-  <tr>
-    <td> <a href="../readme.md#harmony"> harmony </a> </td>
-    <td> – </td>
-  </tr>
-  <tr>
-    <td> <a href="../readme.md#synchrony"> synchrony </a> </td>
-    <td> – </td>
-  </tr>
-  <tr>
-    <td> <a href="../readme.md#enhancement"> enhancement </a> </td>
-    <td> – </td>
-  </tr>
-  <tr>
-    <td> competency </td>
-    <td> – </td>
-  </tr>
-  <tr>
-    <td> mastery </td>
-    <td> – </td>
-  </tr>
-  <tr>
     <th colspan="2"> <h4> Genetics </h4> </th>
   </tr>
   <tr>
@@ -149,43 +106,43 @@
 <table>
   <tr>
     <th align="left"> <a href="../readme.md#power"> power </a> </th>
-    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> <br> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#control"> control </a> </th>
-    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> <br> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#endurance"> endurance </a> </th>
-    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> <br> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#finesse"> finesse </a> </th>
-    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> <br> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#range"> range </a> </th>
-    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> <br> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#harmony"> harmony </a> </th>
-    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> <br> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#synchrony"> synchrony </a> </th>
-    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> <br> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#enhancement"> enhancement </a> </th>
-    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> <br> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#competency"> competency </a> </th>
-    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> <br> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#mastery"> mastery </a> </th>
-    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> <br> – </td>
   </tr>
 </table>
 
