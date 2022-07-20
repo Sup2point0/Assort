@@ -136,17 +136,36 @@
 
 ## Skills
 
+### Tecniques
 
-<br>
-
-
-## Combatics
+### Attack
 
 
 <br>
 
 
-## Synchronics
+## Affinitics
+
+| stat | scale | notes |
+| :--- | :---- | :---- |
+| power | ![](../.assets/spectrus.pink.low.especially.png) | |
+| control | ![](../.assets/spectrus.pink.low.very.png) | |
+| endurance | ![](../.assets/spectrus.pink.low.png) | |
+| finesse | ![](../.assets/spectrus.pink.mediocre.png) | |
+| range | ![](../.assets/spectrus.pink.standard.png) | |
+| harmony | ![](../.assets/spectrus.pink.moderate.png) | |
+| synchrony | ![](../.assets/spectrus.pink.high.png) | |
+| enhancement | ![](../.assets/spectrus.pink.high.very.png) | |
+| competency | ![](../.assets/spectrus.pink.high.especially.png) | |
+| mastery | ![](../.assets/spectrus.pink.standard.png) | |
+
+### Attack
+
+### Strategys
+
+### Weaknesses
+
+### Synchronics
 
 
 <br>
