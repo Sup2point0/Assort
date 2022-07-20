@@ -190,43 +190,43 @@ When wielded proficiently, koniokinetis can be exceptionally powerful. Its high 
 <table>
   <tr>
     <th align="left"> <a href="../readme.md#power"> power </a> </th>
-    <td> <img src="../../.assets/spectrus.standard.png" height="12px"> </td>
+    <td> <img src="../../.assets/spectrus.pink.standard.png" height="12px"> </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#control"> control </a> </th>
-    <td> <img src="../../.assets/spectrus.standard.png" height="12px"> </td>
+    <td> <img src="../../.assets/spectrus.pink.standard.png" height="12px"> </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#endurance"> endurance </a> </th>
-    <td> <img src="../../.assets/spectrus.standard.png" height="12px"> </td>
+    <td> <img src="../../.assets/spectrus.pink.standard.png" height="12px"> </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#finesse"> finesse </a> </th>
-    <td> <img src="../../.assets/spectrus.standard.png" height="12px"> </td>
+    <td> <img src="../../.assets/spectrus.pink.standard.png" height="12px"> </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#range"> range </a> </th>
-    <td> <img src="../../.assets/spectrus.standard.png" height="12px"> </td>
+    <td> <img src="../../.assets/spectrus.pink.standard.png" height="12px"> </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#harmony"> harmony </a> </th>
-    <td> <img src="../../.assets/spectrus.standard.png" height="12px"> </td>
+    <td> <img src="../../.assets/spectrus.pink.standard.png" height="12px"> </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#synchrony"> synchrony </a> </th>
-    <td> <img src="../../.assets/spectrus.standard.png" height="12px"> </td>
+    <td> <img src="../../.assets/spectrus.pink.standard.png" height="12px"> </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#enhancement"> enhancement </a> </th>
-    <td> <img src="../../.assets/spectrus.standard.png" height="12px"> </td>
+    <td> <img src="../../.assets/spectrus.pink.standard.png" height="12px"> </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#competency"> competency </a> </th>
-    <td> <img src="../../.assets/spectrus.standard.png" height="12px"> </td>
+    <td> <img src="../../.assets/spectrus.pink.standard.png" height="12px"> </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#mastery"> mastery </a> </th>
-    <td> <img src="../../.assets/spectrus.standard.png" height="12px"> </td>
+    <td> <img src="../../.assets/spectrus.pink.standard.png" height="12px"> </td>
   </tr>
 </table>
 
