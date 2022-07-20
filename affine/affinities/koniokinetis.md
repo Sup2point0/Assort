@@ -156,7 +156,7 @@ There are no classes of koniokinetis – all koniokinetics are psychic. Instead,
 - **koniosynchronis** – dust sensing
   - koniokinetics can sense every particulate in their close vicinity, including those that they cannot control. At first, this can result in sensory overload, but they can learn to quell it until needed.
 
-### Techniques
+### Tecniques
 - **dust cleaning** – remove all dust from a surface. Very useful in daily life.
 - **dust mechanics** – form hands and tools of dust to operate on intricate entraptions. Very useful for engineers.
 - **dust platforms** – platforms to support other objects.
@@ -183,7 +183,7 @@ There are no classes of koniokinetis – all koniokinetics are psychic. Instead,
 <br>
 
 
-## Combatics
+## Affinitics
 
 When wielded proficiently, koniokinetis can be exceptionally powerful. Its high specialyzation grants koniokinetics greatly enhanced strength and finesse, far exceeding that of a regular telekinetic. As a protical affinity, it is very versatile and flexible, effective at both attack and defence, along with combat and utility, which is often overlooked. With the ability to manipulate dust however they desire, a koniokinetic’s potential is restricted only by their creativity and imagination. This adaptability and unpredictability is part of what makes them so powerful, especially to those who have never encountered koniokinetis before – which is often the case, due to its rarity.
 
@@ -207,11 +207,7 @@ There are no direct antics to koniokinetis, so the optimal counters are psychoki
 
 Koniokinetics, as with many kinetics, are entirely ineffective against each other, as they can simply shield themselves to prevent any dust from reaching them. The only exception to this is where one attempts to suffocate another and they press back, in which case it ends up being a battle of psychic strength. Although, when in the presence of other affinitics, things become much more interesting, as there are many more opportunitys opened up by the complexity of combat.
 
-
-<br>
-
-
-## Synchronics
+### Synchronics
 
 Koniokinetis generally synchronyzes well with other affinitys. It can be used simultaneously alongside other deutical affinitys with relative ease, and shifting between protical affinitys is very fluent. However, its effectiveness greatly decreases if the affinitic possesses multiple other protical affinitys.
 
