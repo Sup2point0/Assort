@@ -146,18 +146,48 @@
 
 ## Affinitics
 
-| stat | scale | notes |
-| :--- | :---- | :---- |
-| power | ![](../.assets/spectrus.pink.low.especially.png) | |
-| control | ![](../.assets/spectrus.pink.low.very.png) | |
-| endurance | ![](../.assets/spectrus.pink.low.png) | |
-| finesse | ![](../.assets/spectrus.pink.mediocre.png) | |
-| range | ![](../.assets/spectrus.pink.standard.png) | |
-| harmony | ![](../.assets/spectrus.pink.moderate.png) | |
-| synchrony | ![](../.assets/spectrus.pink.high.png) | |
-| enhancement | ![](../.assets/spectrus.pink.high.very.png) | |
-| competency | ![](../.assets/spectrus.pink.high.especially.png) | |
-| mastery | ![](../.assets/spectrus.pink.standard.png) | |
+<table>
+  <tr>
+    <th> <a href="../readme.md#power"> power </a> </th>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+  </tr>
+  <tr>
+    <th> <a href="../readme.md#control"> control </a> </th>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+  </tr>
+  <tr>
+    <th> <a href="../readme.md#endurance"> endurance </a> </th>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+  </tr>
+  <tr>
+    <th> <a href="../readme.md#finesse"> finesse </a> </th>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+  </tr>
+  <tr>
+    <th> <a href="../readme.md#range"> range </a> </th>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+  </tr>
+  <tr>
+    <th> <a href="../readme.md#harmony"> harmony </a> </th>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+  </tr>
+  <tr>
+    <th> <a href="../readme.md#synchrony"> synchrony </a> </th>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+  </tr>
+  <tr>
+    <th> <a href="../readme.md#enhancement"> enhancement </a> </th>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+  </tr>
+  <tr>
+    <th> <a href="../readme.md#competency"> competency </a> </th>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+  </tr>
+  <tr>
+    <th> <a href="../readme.md#mastery"> mastery </a> </th>
+    <td> <img src="../../.assets/spectrus..png" height="12px"> </td>
+  </tr>
+</table>
 
 ### Attack
 
