@@ -10,7 +10,7 @@ I have *so* many interests, like an absolutely ridiculous number of interests, i
 
 <table>
   <td>
-    <a href="#programming"> programming </a> <br>
+    <a href="#programming"> Programming </a> <br>
   </td>
 </table>
 
