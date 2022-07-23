@@ -8,7 +8,7 @@
 
 ## Index
 
-<details>
+<details open>
   <summary> <b> display </b> </summary> <br>
 
 <table>
