@@ -13,6 +13,14 @@ A dictionary of all the fictional words I’ve created.
 
 <table>
   <td>
+    <a href="#affine"> affine </a> <br>
+    <a href="#affinical"> affinical </a> <br>
+    <a href="#affinics"> affinics </a> <br>
+    <a href="#affinitic"> affinitic </a> <br>
+    <a href="#affinitical"> affinitical </a> <br>
+    <a href="#affinitics"> affinitics </a> <br>
+    <a href="#affinity"> affinity </a> <br>
+    <a href="#affinyze"> affinyze </a> <br>
     <a href="#antect"> antect </a> <br>
     <a href="#avricop"> avricop </a> <br>
     <a href="#antectical"> antectical </a> <br>
@@ -29,12 +37,57 @@ A dictionary of all the fictional words I’ve created.
     <a href="#lynt"> lynt </a> <br>
     <a href="#protic"> protic </a> <br>
     <a href="#protical"> protical </a> <br>
+    <a href="#spectrus"> spectrus </a> <br>
     <a href="#sylonautilla"> sylonautilla </a> <br>
     <a href="#synthevetix"> synthevetix </a> <br>
+    <a href="#xerique"> xerique </a> <br>
     <a href="#"> – </a> <br>
     <a href="#"> – </a>
   </td>
 </table>
+
+</details>
+
+
+<br>
+
+
+## affine
+
+### Noun
+`/ə'fiːn, a'fiːn/`
+
+*[abstract]()*
+
+1. magic; supernaturalism.  
+&ensp; *Affine is a phenomenon found in many xeriques.*
+> similar: magic, supernaturalism
+
+2. magical or supernatural energy.  
+&ensp; *Xe released a huge burst of affine.*
+> similar: magic
+
+<details>
+  <summary> <b> Derivatives </b> </summary>
+
+&emsp; [affinical](#affinical)  
+&emsp; [affinics](#affinics)  
+&emsp; [affinity](#affinity)  
+&emsp; [affinyze](#affinyze)
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *unknown* » 
+
+</details>
+
+<details>
+  <summary> <b> Related </b> </summary>
+
+&emsp; [](#)
 
 </details>
 
