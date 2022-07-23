@@ -31,7 +31,7 @@
     <th colspan="2"> <h4> Nomenclature </h4> </th>
   </tr>
   <tr>
-    <td> pronunciation </td>
+    <td> pronouncyzation </td>
     <td> <code> /–/ </code> </td>
   </tr>
   <tr>
@@ -39,7 +39,7 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> pronunciation </td>
+    <td> pronouncyzation </td>
     <td> <code> /–/ </code> </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> pronunciation </td>
+    <td> pronouncyzation </td>
     <td> <code> /–/ </code> </td>
   </tr>
   <tr>
@@ -62,11 +62,11 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> derivation </td>
+    <td> deryvation </td>
     <td> – </td>
   </tr>
   <tr>
-    <td> derivatives </td>
+    <td> deryvatives </td>
     <td> – </td>
   </tr>
   <tr>
@@ -105,6 +105,26 @@
 
 <table>
   <tr>
+    <th align="left"> <a href="../readme.md#attack"> attack </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#defence"> defence </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#support"> support </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#utility"> utility </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#affine"> affine </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+  </tr>
+  <tr>
     <th align="left"> <a href="../readme.md#power"> power </a> </th>
     <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
   </tr>
@@ -117,7 +137,7 @@
     <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
   </tr>
   <tr>
-    <th align="left"> <a href="../readme.md#finesse"> finesse </a> </th>
+    <th align="left"> <a href="../readme.md#precision"> precision </a> </th>
     <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
   </tr>
   <tr>
@@ -130,6 +150,10 @@
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#synchrony"> synchrony </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#versatility"> versatility </a> </th>
     <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
   </tr>
   <tr>
