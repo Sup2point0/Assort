@@ -159,7 +159,7 @@ When wielded proficiently, koniokinetis can be exceptionally powerful. Its high 
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#finesse"> finesse </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus.pink.high.especially.png" width="360px"> <br> extremely high </td>
+    <td> <img src="../../.assets/spectrus/spectrus.pink.high.spec.png" width="360px"> <br> extremely high </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#range"> range </a> </th>
