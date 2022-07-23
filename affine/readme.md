@@ -76,7 +76,7 @@
 
 </details>
 
-Throughout different xeriques and in different contexts, affinitys and affinitics may be known by different names. For most, there is usually a *absolute* name (*telekinetis*, *psychosynchronis*), which follows certain naming structures; and a *colloquial* name, often a regular word (*whisper*, *legend*). In formal or official scenarios, the absolute name is preferred, while informally the colloquial is often used. Often, affinitys will have a colloquial name for the affinitic, but not the affinity – as such, in regular usage the absolute name is used for the affinity, and the colloquial for the affinitic.
+Throughout different xeriques and in different contexts, affinitys and affinitics may be known by different names. For most, there is usually a *absolute* name (*[telekinetis](affinitys/telekinetis.md)*, *[psychosynchronis](affinitys/psychosynchronis.md*), which follows certain naming structures; and a *colloquial* name, often a regular word (*[whisper](affinitys/psychokinetic.md)*, *[legend](affinitys/legacy.md)*). In formal or official scenarios, the absolute name is preferred, while informally the colloquial is often used. Often, affinitys will have a colloquial name for the affinitic, but not the affinity – as such, in regular usage the absolute name is used for the affinity, and the colloquial for the affinitic.
 
 
 <br>
