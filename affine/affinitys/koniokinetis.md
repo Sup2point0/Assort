@@ -146,6 +146,22 @@ When wielded proficiently, koniokinetis can be exceptionally powerful. Its high 
 
 <table>
   <tr>
+    <th align="left"> <a href="../readme.md#attack"> attack </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> <br> moderate </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#defence"> defence </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.high.png" width="360px"> <br> high </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#support"> support </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.high.png" width="360px"> <br> high </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#utility"> utility </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.sky.high.very.png" width="360px"> <br> very high </td>
+  </tr>
+  <tr>
     <th align="left"> <a href="../readme.md#affine"> affine </a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.blue.high.png" width="360px"> <br> high </td>
   </tr>
