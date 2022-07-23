@@ -31,3 +31,33 @@ I have *so* many interests, like an absolutely ridiculous number of interests, i
 
 
 ## Graphic Design
+
+
+## Music Composition
+
+
+## Reading
+
+
+## Language
+
+
+## Piano
+
+
+## Drums
+
+
+## Skyscrapers
+
+
+## Art
+
+
+## Card Games
+
+
+## Typing
+
+
+## Chess
