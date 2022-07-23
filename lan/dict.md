@@ -22,6 +22,7 @@ A dictionary of all the fictional words I’ve created.
     <a href="#affinity"> affinity </a> <br>
     <a href="#affinyze"> affinyze </a> <br>
     <a href="#antect"> antect </a> <br>
+    <a href="#antic"> antic </a> <br>
     <a href="#avricop"> avricop </a> <br>
     <a href="#antectical"> antectical </a> <br>
     <a href="#antectics"> antectics </a> <br>
