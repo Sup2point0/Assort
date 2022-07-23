@@ -151,7 +151,7 @@ When wielded proficiently, koniokinetis can be exceptionally powerful. Its high 
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#control"> control </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus.pink.high.very.png" width="360px"> <br> very high </td>
+    <td> <img src="../../.assets/spectrus/spectrus.sky.high.very.png" width="360px"> <br> very high </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#endurance"> endurance </a> </th>
@@ -159,7 +159,7 @@ When wielded proficiently, koniokinetis can be exceptionally powerful. Its high 
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#finesse"> finesse </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus.pink.high.spec.png" width="360px"> <br> extremely high </td>
+    <td> <img src="../../.assets/spectrus/spectrus.sky.high.spec.png" width="360px"> <br> extremely high </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#range"> range </a> </th>
@@ -179,11 +179,11 @@ When wielded proficiently, koniokinetis can be exceptionally powerful. Its high 
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#competency"> competency </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus.purple.moderate.png" width="360px"> <br> moderate </td>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> <br> moderate </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#mastery"> mastery </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus.purple.high.very.png" width="360px"> <br> very difficult </td>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.high.very.png" width="360px"> <br> very difficult </td>
   </tr>
 </table>
 
