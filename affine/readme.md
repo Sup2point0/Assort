@@ -8,6 +8,9 @@
 
 ## Index
 
+<details>
+  <summary> <b> display </b> </summary> <br>
+
 <table>
   <td>
     <a href="#nomenclature"> Nomenclature </a> <br>
@@ -50,6 +53,8 @@
     <a href="#evolution"> Evolution </a>
   </td>
 </table>
+
+</details>
 
 
 <br>
