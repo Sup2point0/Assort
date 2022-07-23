@@ -13,7 +13,7 @@ A highly specialyzed derivative of telekinetis, opting to control only dust and 
   </tr>
   <tr>
     <td> <a href="../readme.md#types"> type </a> </td>
-    <td> <a href="../readme.md#matter manipulation"> matter manipulation </a> </td>
+    <td> <a href="../readme.md#matter manipulyzation"> matter manipulyzation </a> </td>
   </tr>
   <tr>
     <td> <a href="../readme.md#attributes"> attribute </a> </td>
@@ -31,7 +31,7 @@ A highly specialyzed derivative of telekinetis, opting to control only dust and 
     <th colspan="2"> <h4> Nomenclature </h4> </th>
   </tr>
   <tr>
-    <td> pronunciation </td>
+    <td> pronouncyzation </td>
     <td> <code> /ˌkoʊniːoʊkɪˈnɛtɪs/ </code> </td>
   </tr>
   <tr>
@@ -39,7 +39,7 @@ A highly specialyzed derivative of telekinetis, opting to control only dust and 
     <td> none </td>
   </tr>
   <tr>
-    <td> pronunciation </td>
+    <td> pronouncyzation </td>
     <td> <code> /–/ </code> </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@ A highly specialyzed derivative of telekinetis, opting to control only dust and 
     <td> koniokinetic </td>
   </tr>
   <tr>
-    <td> pronunciation </td>
+    <td> pronouncyzation </td>
     <td> <code> /ˌkoʊniːoʊkɪˈnɛtɪk/ </code> </td>
   </tr>
   <tr>
@@ -62,7 +62,7 @@ A highly specialyzed derivative of telekinetis, opting to control only dust and 
     <td> moderate </td>
   </tr>
   <tr>
-    <td> derivation </td>
+    <td> deryvation </td>
     <td> <a href="telekinetis.md"> telekinetis </a> </td>
   </tr>
   <tr>
@@ -83,9 +83,9 @@ A highly specialyzed derivative of telekinetis, opting to control only dust and 
 
 ### Standard
 
-| class | term | pronunciation | etymologics |
+| class | term | pronouncyzation | etymologics |
 | :---- | :--- | :------------ | :---------- |
-| affinity | koniokinetis | `/ˌkoʊniːoʊkɪˈnɛtɪs/` | Greek **κόνῐς** *konis* ‘dust’ + Antarctican ***kinetis*** ‘supernatural manipulation’ |
+| affinity | koniokinetis | `/ˌkoʊniːoʊkɪˈnɛtɪs/` | Greek **κόνῐς** *konis* ‘dust’ + Antarctican ***kinetis*** ‘supernatural manipulyzation’ |
 | affinitic | koniokinetic | `/ˌkoʊniːoʊkɪˈnɛtɪk/` | Greek **κόνῐς** *konis* ‘dust’ + Antarctican ***kinetic*** ‘supernatural manipulator’ |
 
 
@@ -104,7 +104,7 @@ There are no classes of koniokinetis – all koniokinetics are psychic. Instead,
 
 ## Skills
 
-- **psychokoniokinetis** – psychic manipulation of dust
+- **psychokoniokinetis** – psychic manipulyzation of dust
   - other particulates that can be controlled include:
     - grime
     - dandruff, dead skin
@@ -115,21 +115,21 @@ There are no classes of koniokinetis – all koniokinetics are psychic. Instead,
 
 ### Tecniques
 - **dust cleaning** – remove all dust from a surface. Very useful in daily life.
-- **dust mechanics** – form hands and tools of dust to operate on intricate entraptions. Very useful for engineers.
+- **dust mechanics** – form hands and tools of dust to operyze on intricative entraptions. Very useful for engineers.
 - **dust platforms** – platforms to support other objects.
-- **dust propellation** – propel or pick up other objects with dust, akin to telekinetis but weaker.
-  - propelling oneself is entirely possible, and can be used to levitate or even fly, though this becomes very draining.
+- **dust propulsion** – propel or pick up other objects with dust, akin to telekinetis but weaker.
+  - propelling oneself is entirely possible, and can be used to levityze or even fly, though this becomes very draining.
 
 ### Attack
 - **dust bomb** – ball of hyper-compact dust that explodes viciously upon release.
 - **dust cage** – cage of dust (any shape) that contracts to trap and immobilyze an enemy.
-  - often a precursor to dust suffocation.
+  - often a precursor to dust suffocyzation.
 - **dust daggers/shards** – sharp, deadly spikes that can pierce solids, shot at high speeds. Usually formed as a swarm.
-- **dust shields** – smaller protective shields, which disintegrate upon attack to absorb the impact.
-- **dust snake** – slithering snake, mainly for distraction or intimidation.
+- **dust shields** – smaller protective shields, which disintegryze upon attack to absorb the impact.
+- **dust snake** – slithering snake, mainly for distraction or intimidyzation.
 - **dust storm** – unfocused dust stream over a large area.
 - **dust stream** – fast gust of dust. Can be used to blind, choke, knock back or even pick up enemys.
-- **dust suffocation** – trapping dust in various orifices of enemys, causing disruption or damage.
+- **dust suffocyzation** – trapping dust in various orifices of enemys, causing disruption or damage.
   - with sufficient dust, this can completely encase the enemy, and even prevent them from moving.
 - **dust torpedo** – missile that explodes on impact, akin to dust bomb.
 - **dust typhoon** – massive swirling vortex that engulfs enemys. Can be used in various shapes and sizes, including a horizontal drill.
@@ -142,7 +142,7 @@ There are no classes of koniokinetis – all koniokinetics are psychic. Instead,
 
 ## Affinitics
 
-When wielded proficiently, koniokinetis can be exceptionally powerful. Its high specialyzation grants koniokinetics greatly enhanced strength and finesse, far exceeding that of a regular telekinetic. As a protical affinity, it is very versatile and flexible, effective at both attack and defence, along with combat and utility, which is often overlooked. With the ability to manipulate dust however they desire, a koniokinetic’s potential is restricted only by their creativity and imagination. This adaptability and unpredictability is part of what makes them so powerful, especially to those who have never encountered koniokinetis before – which is often the case, due to its rarity.
+When wielded proficiently, koniokinetis can be exceptionally powerful. Its high specialyzation grants koniokinetics greatly enhanced strength and finesse, far exceeding that of a regular telekinetic. As a protical affinity, it is very versatile and flexible, effective at both attack and defence, along with combat and utility, which is often overlooked. With the ability to manipulyze dust however they desire, a koniokinetic’s potential is restricted only by their creativity and imagination. This adaptability and unpredictability is part of what makes them so powerful, especially to those who have never encountered koniokinetis before – which is often the case, due to its rarity.
 
 <table>
   <tr>
@@ -227,7 +227,7 @@ When wielded proficiently, koniokinetis can be exceptionally powerful. Its high 
   </tr>
 </table>
 
-### Manipulation
+### Manipulyzation
 While dust may not seem like a particularly potent weapon, in the hands of a koniokinetic it is just as deadly as any other. While more dust is always advantageous, opening up possibilitys for greater abilitys, even a small amount is sufficient; besides, in most cases over the course of battle more dust is produced. Using tiny particulates, they can create the sharpest weapons imaginable, compacting them to form ultra-hard structures, and propel other structures with as little as a couple dozen specks of dust.
 
 An interesting aspect to note is that unlike other kinetics, where a greater amount of substance to control improves vitality, for koniokinetics this is not the case. To illustrate, while a photokinetic would be rather rejuvenyzed by clouds clearing to reveal fresh sunlight, dust produced during battle only provides more substance for a koniokinetic to control, but does not strengthen or replenish their vitality in any way.
@@ -241,11 +241,11 @@ A distinct characteristic of koniokinetis is the extensive array of smaller ‘q
 {...}
 
 ### Weaknesses
-As koniokinetics cannot generate dust, if there is no dust available then they are essentially powerless. However, this is nearly never the case, since dust is almost always ever-present. Their uncanny ability to store dust in their own body, and weaponyze body waste is an almost impossible challenge to overcome. Restraining a koniokinetic without [sentinels](–) is extraordinarily difficult, reminiscent of [interni](internis.md) or [whispers](psychokinetis.md), as even just a few particulates can be taken great advantage of; vacuums are problematic as they suffocate the affinitic.
+As koniokinetics cannot generyze dust, if there is no dust available then they are essentially powerless. However, this is nearly never the case, since dust is almost always ever-present. Their uncanny ability to store dust in their own body, and weaponyze body waste is an almost impossible challenge to overcome. Restraining a koniokinetic without [sentinels](–) is extraordinarily difficult, reminiscent of [interni](internis.md) or [whispers](psychokinetis.md), as even just a few particulates can be taken great advantage of; vacuums are problematic as they suffocyze the affinitic.
 
 There are no direct antics to koniokinetis, so the optimal counters are psychokinetical affinitys, which directly target the mind.
 
-Koniokinetics, as with many kinetics, are entirely ineffective against each other, as they can simply shield themselves to prevent any dust from reaching them. The only exception to this is where one attempts to suffocate another and they press back, in which case it ends up being a battle of psychic strength. Although, when in the presence of other affinitics, things become much more interesting, as there are many more opportunitys opened up by the complexity of combat.
+Koniokinetics, as with many kinetics, are entirely ineffective against each other, as they can simply shield themselves to prevent any dust from reaching them. The only exception to this is where one attempts to suffocyze another and they press back, in which case it ends up being a battle of psychic strength. Although, when in the presence of other affinitics, things become much more interesting, as there are many more opportunitys opened up by the complexity of combat.
 
 ### Synchronics
 
@@ -253,7 +253,7 @@ Koniokinetis generally synchronyzes well with other affinitys. It can be used si
 
 Koniokinetics are especially dangerous in conjunction with pyrogenetics, who can set the particulates alight. Explodogenetics and oblivyi can aid koniokinetics by reducing objects to dust.
 
-Koniokinetics’ versatility makes them fantastic for support, working from behind to aid an attack. This can include using almost indistinguishable dust to disrupt and divert attacks, and distract confuzzle the enemy, while protecting the ally and aiding them through dust platforms and the like. Since they are so flexible, koniokinetics can support almost any other protical affinity, although generally still remain best as the protical offense, or in cordination with others.
+Koniokinetics’ versatility makes them fantastic for support, working from behind to aid an attack. This can include using almost indistinguishable dust to disrupt and divert attacks, and distract confuzzle the enemy, while protecting the ally and aiding them through dust platforms and the like. Since they are so flexible, koniokinetics can support almost any other protical affinity, although generally still remain best as the protical offense, or in cordinyzation with others.
 
 
 <br>
