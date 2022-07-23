@@ -147,43 +147,43 @@ When wielded proficiently, koniokinetis can be exceptionally powerful. Its high 
 <table>
   <tr>
     <th align="left"> <a href="../readme.md#power"> power </a> </th>
-    <td> <img src="../../.assets/spectrus.blue.moderate.png" width="360px"> <br> variable </td>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> <br> variable </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#control"> control </a> </th>
-    <td> <img src="../../.assets/spectrus.pink.high.very.png" width="360px"> <br> very high </td>
+    <td> <img src="../../.assets/spectrus/spectrus.pink.high.very.png" width="360px"> <br> very high </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#endurance"> endurance </a> </th>
-    <td> <img src="../../.assets/spectrus.blue.moderate.png" width="360px"> <br> moderate </td>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> <br> moderate </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#finesse"> finesse </a> </th>
-    <td> <img src="../../.assets/spectrus.pink.high.especially.png" width="360px"> <br> extremely high </td>
+    <td> <img src="../../.assets/spectrus/spectrus.pink.high.especially.png" width="360px"> <br> extremely high </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#range"> range </a> </th>
-    <td> <img src="../../.assets/spectrus.blue.moderate.png" width="360px"> <br> moderate </td>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> <br> moderate </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#harmony"> harmony </a> </th>
-    <td> <img src="../../.assets/spectrus.blue.moderate.png" width="360px"> <br> moderate </td>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> <br> moderate </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#synchrony"> synchrony </a> </th>
-    <td> <img src="../../.assets/spectrus.blue.high.png" width="360px"> <br> variable, general high </td>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.high.png" width="360px"> <br> variable, general high </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#enhancement"> enhancement </a> </th>
-    <td> <img src="../../.assets/spectrus.blue.moderate.png" width="360px"> <br> very high </td>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> <br> very high </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#competency"> competency </a> </th>
-    <td> <img src="../../.assets/spectrus.purple.moderate.png" width="360px"> <br> moderate </td>
+    <td> <img src="../../.assets/spectrus/spectrus.purple.moderate.png" width="360px"> <br> moderate </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#mastery"> mastery </a> </th>
-    <td> <img src="../../.assets/spectrus.purple.high.very.png" width="360px"> <br> very difficult </td>
+    <td> <img src="../../.assets/spectrus/spectrus.purple.high.very.png" width="360px"> <br> very difficult </td>
   </tr>
 </table>
 
