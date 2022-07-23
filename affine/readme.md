@@ -44,6 +44,7 @@
     &emsp; <a href="#control"> Control </a> <br>
     &emsp; <a href="#endurance"> Endurance </a> <br>
     &emsp; <a href="#precision"> Precision </a> <br>
+    &emsp; <a href="#range"> Range </a> <br>
     &emsp; <a href="#harmony"> Harmony </a> <br>
     &emsp; <a href="#synchrony"> Synchrony </a> <br>
     &emsp; <a href="#versatility"> Versatility </a> <br>
