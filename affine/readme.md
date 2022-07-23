@@ -3,9 +3,7 @@
 *Affine* – magic or supernaturalism – is a phenomenon present in certain xeriques, in particular the Supxerique.
 
 
-
 <br>
-
 
 
 ## Index
@@ -34,12 +32,18 @@
     &emsp; <a href="#lingering"> Lingering </a> <br>
     &emsp; <a href="#viral"> Viral </a> <br>
     <a href="#affinitics"> Affinitics </a> <br>
+    &emsp; <a href="#attack"> Attack </a> <br>
+    &emsp; <a href="#defence"> Defence </a> <br>
+    &emsp; <a href="#support"> Support </a> <br>
+    &emsp; <a href="#utility"> Utility </a> <br>
+    &emsp; <a href="#affine"> Affine </a> <br>
     &emsp; <a href="#power"> Power </a> <br>
     &emsp; <a href="#control"> Control </a> <br>
     &emsp; <a href="#endurance"> Endurance </a> <br>
-    &emsp; <a href="#finesse"> Finesse </a> <br>
+    &emsp; <a href="#precision"> Precision </a> <br>
     &emsp; <a href="#harmony"> Harmony </a> <br>
     &emsp; <a href="#synchrony"> Synchrony </a> <br>
+    &emsp; <a href="#versatility"> Versatility </a> <br>
     &emsp; <a href="#enhancement"> Enhancement </a> <br>
     &emsp; <a href="#competency"> Competency </a> <br>
     &emsp; <a href="#mastery"> Mastery </a> <br>
@@ -67,7 +71,13 @@
 
 </details>
 
-Throughout different xeriques and in different circumstances, affinitys are known by different names. For most, there is usually a *colloquial* name, often a standard word (*whisper*, *legend*), and a *standard* name (*telekinetis*, *psychosynchronis*).
+Throughout different xeriques and in different contexts, affinitys and affinitics may be known by different names. For most, there is usually a *absolute* name (*telekinetis*, *psychosynchronis*), which follows certain naming structures; and a *colloquial* name, often a regular word (*whisper*, *legend*). In formal or official scenarios, the absolute name is preferred, while informally the colloquial is often used. Often, affinitys will have a colloquial name for the affinitic, but not the affinity – as such, in regular usage the absolute name is used for the affinity, and the colloquial for the affinitic.
+
+
+<br>
+
+
+## Affinyzation
 
 
 <br>
@@ -76,6 +86,12 @@ Throughout different xeriques and in different circumstances, affinitys are know
 ## Types
 
 > *For a full list of affinitys, see [affinitys](affinitys.md).*
+
+### Matter Manipulation
+
+### Self Manipulation
+
+### Essence Manipulation
 
 
 <br>
