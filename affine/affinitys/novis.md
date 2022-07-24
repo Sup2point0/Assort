@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td> pronunciation </td>
-    <td> <code> /––/ </code> </td>
+    <td> <code> /–/ </code> </td>
   </tr>
   <tr>
     <td> affinitic </td>
@@ -124,15 +124,15 @@
 
 | class | term | pronunciation | etymologics |
 | :---- | :--- | :------------ | :---------- |
-| affinity | novis | `/'noʊvɪs/` | Loric <br> possibly English ***no*** (possibly in *not*) + ***vis*** in *visibile*, literally ‘not visible’ <br> possibly English ***nova*** + Antarctican ***-is*** ‘affinity’ |
-| affinitic | novus | `/'noʊvəs/` | ***nov***- in *novis* + Antarctican ***-us*** ‘affinitic’ |
+| affinity | novis | `/'noʊvɪs/` | Loric <br> possibly English ***no*** (possibly in *not*) + ***vis*** in *visible*, literally ‘not visible’ <br> possibly English ***nova*** + Antarctican ***-is*** ‘affinity’ |
+| affinitic | novus | `/'noʊvəs/` | ***novis*** + Antarctican ***-us*** ‘affinitic’ |
 
 ### Colloquial
 
 | class | term | pronunciation | etymologics |
 | :---- | :--- | :------------ | :---------- |
-| affinity | viral invisibility | `––` | *viral* – transferring *invisibility* to other objects |
-| affinity | viral incorporeality | `––` | *viral* – transferring *incorporeality* to other objects |
+| affinity | viral invisibility | `–` | *viral* – transferring *invisibility* to other objects |
+| affinity | viral incorporeality | `–` | *viral* – transferring *incorporeality* to other objects |
 
 
 <br>
@@ -193,17 +193,106 @@
 
 ## Skills
 
+### Tecniques
 
-<br>
-
-
-## Combatics
+### Attack
 
 
 <br>
 
 
-## Synchronics
+## Affinitics
+
+<table>
+  <tr>
+    <th align="left"> <a href="../readme.md#attack"> attack </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> </td>
+    <td> moderate </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#defence"> defence </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.mediocre.png" width="360px"> </td>
+    <td> mediocre </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#support"> support </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.sky.high.spec.png" width="360px"> </td>
+    <td> especially high </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#utility"> utility </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.sky.high.very.png" width="360px"> </td>
+    <td> very high </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#affine"> affine </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.high.png" width="360px"> </td>
+    <td> high </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#power"> power </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.standard.png" width="360px"> </td>
+    <td> standard </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#control"> control </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.high.png" width="360px"> </td>
+    <td> high </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#endurance"> endurance </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.high.png" width="360px"> </td>
+    <td> high </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#precision"> precision </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.high.png" width="360px"> </td>
+    <td> high </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#range"> range </a> </th>
+    <td>  </td>
+    <td> variable </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#harmony"> harmony </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> </td>
+    <td> moderate </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#synchrony"> synchrony </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> </td>
+    <td> moderate </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#versatility"> versatility </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.standard.png" width="360px"> </td>
+    <td> standard </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#enhancement"> enhancement </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.low.png" width="360px"> </td>
+    <td> low </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#competency"> competency </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.standard.png" width="360px"> </td>
+    <td> standard </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#mastery"> mastery </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.standard.png" width="360px"> </td>
+    <td> standard </td>
+  </tr>
+</table>
+
+### Attack
+
+### Strategys
+
+### Weaknesses
+
+### Synchronics
 
 
 <br>
