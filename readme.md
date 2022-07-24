@@ -2,6 +2,13 @@
 
 An assortment of my various creations.
 
+Unsure where to start? Try checking out some of these!
+
+&emsp; [affine](affine)
+&emsp; [kenzokinetics](kenzokinetics)
+&emsp; [Ascense](Ascense)
+&emsp; [favourites](~lists/favourites)
+
 
 <br>
 
