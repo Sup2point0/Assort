@@ -105,7 +105,7 @@ A dictionary of all the fictional words I’ve created.
 
 *[abstract]()*
 
-1. an affinical power  
+1. an affinical power.  
 &ensp; *Xe unlocked xis first affinity.*
 > similar: superpower
 
@@ -168,7 +168,7 @@ A dictionary of all the fictional words I’ve created.
 <details>
   <summary> <b> Etymologics </b> </summary>
 
-&emsp; *Spontaneous emergence* may have derived from ‘Antarctica’
+&emsp; *Spontaneous emergence* » may have derived from ‘Antarctica’
 
 </details>
 
