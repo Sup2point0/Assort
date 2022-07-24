@@ -2,7 +2,7 @@
 
 *Affine* – magic or supernaturalism – is a phenomenon present in certain xeriques, in particular the Supxerique.
 
-Unsure where to start? Try checking out some of these!
+Unsure where to start? Check out these affinitys!
 
 &emsp; [koniokinetis](affinitys/koniokinetics.md)  
 &emsp; [novis](affinitys/novis.md)  
@@ -235,3 +235,5 @@ Affinitys that retain their effect while no longer being controlled.
 
 
 ## Evolution
+
+Most affinitys are entirely unique, spontaneously emerging. Some deryve from others through evolution, changing or specialyzing the way in which the affinity is harnessed. The *prime* affinitys are the primordial fundamental superpowers bestowed upon the first affinitics, and indeed remain the most common.
