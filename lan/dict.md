@@ -41,9 +41,11 @@ A dictionary of all the fictional words I’ve created.
     <a href="#spectrus"> spectrus </a> <br>
     <a href="#sylonautilla"> sylonautilla </a> <br>
     <a href="#synthevetix"> synthevetix </a> <br>
+    <a href="#xenic"> xenic </a> <br>
+    <a href="#xenical"> xenical </a> <br>
     <a href="#xerique"> xerique </a> <br>
-    <a href="#"> – </a> <br>
-    <a href="#"> – </a>
+    <a href="##"> – </a> <br>
+    <a href="##"> – </a>
   </td>
 </table>
 
@@ -81,7 +83,7 @@ A dictionary of all the fictional words I’ve created.
 <details>
   <summary> <b> Etymologics </b> </summary>
 
-&emsp; *unknown* » 
+&emsp; *unknown* » English ***affinity***
 
 </details>
 
@@ -89,6 +91,44 @@ A dictionary of all the fictional words I’ve created.
   <summary> <b> Related </b> </summary>
 
 &emsp; [](#)
+
+</details>
+
+
+<br>
+
+
+## affinity
+
+### Noun
+`/əˈfɪnɪti/`
+
+*[abstract]()*
+
+1. an affinical power  
+&ensp; *Xe unlocked xis first affinity.*
+> similar: superpower
+
+<details>
+  <summary> <b> Derivatives </b> </summary>
+
+&emsp; [affinitic](#affinitic)  
+&emsp; [affinitical](#affinitical)  
+&emsp; [affinitics](#affinitics)
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *unknown* » English ***affinity***
+
+</details>
+
+<details>
+  <summary> <b> Related </b> </summary>
+
+&emsp; [affine](#affine)
 
 </details>
 
