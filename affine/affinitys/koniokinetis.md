@@ -163,7 +163,7 @@ When wielded proficiently, koniokinetis can be exceptionally powerful. Its high 
   <tr>
     <th align="left"> <a href="../readme.md#utility"> utility </a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.sky.high.very.png" width="360px"> </td>
-    <td> very high </td>
+    <td> <b> very high </b> </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#affine"> affine </a> </th>
@@ -178,7 +178,7 @@ When wielded proficiently, koniokinetis can be exceptionally powerful. Its high 
   <tr>
     <th align="left"> <a href="../readme.md#control"> control </a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.sky.high.very.png" width="360px"> </td>
-    <td> very high </td>
+    <td> <b> very high </b> </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#endurance"> endurance </a> </th>
@@ -188,7 +188,7 @@ When wielded proficiently, koniokinetis can be exceptionally powerful. Its high 
   <tr>
     <th align="left"> <a href="../readme.md#precision"> precision </a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.sky.high.spec.png" width="360px"> </td>
-    <td> especially high </td>
+    <td> <b> especially high </b> </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#range"> range </a> </th>
@@ -208,7 +208,7 @@ When wielded proficiently, koniokinetis can be exceptionally powerful. Its high 
   <tr>
     <th align="left"> <a href="../readme.md#versatility"> versatility </a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.sky.high.very.png" width="360px"> </td>
-    <td> very high </td>
+    <td> <b> very high </b> </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#enhancement"> enhancement </a> </th>
