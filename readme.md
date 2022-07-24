@@ -40,8 +40,8 @@ The scale of magnitude used throughout various sections.
     <td> <img src=".assets/spectrus/spectrus.blue.standard.png" width="360px"> </td>
   </tr>
   <tr>
-    <th align="left"> standard </th>
-    <td> <img src=".assets/spectrus/spectrus.blue.standard.png" width="360px"> </td>
+    <th align="left"> mediocre </th>
+    <td> <img src=".assets/spectrus/spectrus.blue.mediocre.png" width="360px"> </td>
   </tr>
   <tr>
     <th align="left"> low </th>
