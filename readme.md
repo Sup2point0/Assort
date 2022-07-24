@@ -20,39 +20,39 @@ The scale of magnitude used throughout various sections.
 
 <table>
   <tr>
-    <th> especially high </th>
+    <th align="left"> especially high </th>
     <td> <img src=".assets/spectrus/spectrus.blue.high.spec.png" width="360px"> </td>
   </tr>
   <tr>
-    <th> very high </th>
+    <th align="left"> very high </th>
     <td> <img src=".assets/spectrus/spectrus.blue.high.very.png" width="360px"> </td>
   </tr>
   <tr>
-    <th> high </th>
+    <th align="left"> high </th>
     <td> <img src=".assets/spectrus/spectrus.blue.high.png" width="360px"> </td>
   </tr>
   <tr>
-    <th> moderate </th>
+    <th align="left"> moderate </th>
     <td> <img src=".assets/spectrus/spectrus.blue.moderate.png" width="360px"> </td>
   </tr>
   <tr>
-    <th> standard </th>
+    <th align="left"> standard </th>
     <td> <img src=".assets/spectrus/spectrus.blue.standard.png" width="360px"> </td>
   </tr>
   <tr>
-    <th> standard </th>
+    <th align="left"> standard </th>
     <td> <img src=".assets/spectrus/spectrus.blue.standard.png" width="360px"> </td>
   </tr>
   <tr>
-    <th> low </th>
+    <th align="left"> low </th>
     <td> <img src=".assets/spectrus/spectrus.blue.low.png" width="360px"> </td>
   </tr>
   <tr>
-    <th> very low </th>
+    <th align="left"> very low </th>
     <td> <img src=".assets/spectrus/spectrus.blue.low.very.png" width="360px"> </td>
   </tr>
   <tr>
-    <th> especially low </th>
+    <th align="left"> especially low </th>
     <td> <img src=".assets/spectrus/spectrus.blue.low.spec.png" width="360px"> </td>
   </tr>
 </table>
