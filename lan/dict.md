@@ -98,6 +98,41 @@ A dictionary of all the fictional words I’ve created.
 <br>
 
 
+## affinitic
+
+### Noun
+`/əˈfɪnɪtik/`
+
+*[agentive]()*
+
+1. A being possessing an affinity.  
+&ensp; *Xe’s an affinitic.*
+
+<details>
+  <summary> <b> Derivatives </b> </summary>
+
+&emsp; [affinitics](#affinitics)
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *unknown* » English ***affinity*** + ***-ic***
+
+</details>
+
+<details>
+  <summary> <b> Related </b> </summary>
+
+&emsp; [affinity](#affinity)
+
+</details>
+
+
+<br>
+
+
 ## affinity
 
 ### Noun
@@ -325,7 +360,7 @@ A dictionary of all the fictional words I’ve created.
 </details>
 
 ### Noun
-`/'lɪnt/`
+`/lɪnt/`
 
 *[count]()*
 
@@ -400,7 +435,7 @@ A dictionary of all the fictional words I’ve created.
 <details>
   <summary> <b> Etymologics </b> </summary>
 
-&emsp; *New Antarctica* » ***sept*** in Latin *septem* ‘seven’ + ***-an*** in *Antarctica*
+&emsp; *New Antarctica* » Latin ***septem*** ‘seven’ + ***-an*** in *Antarctica*
 
 </details>
 
@@ -429,7 +464,7 @@ A dictionary of all the fictional words I’ve created.
 <details>
   <summary> <b> Etymologics </b> </summary>
 
-&emsp; *New Antarctica* » ***sept*** in Latin *septem* ‘seven’ + ***-ate***
+&emsp; *New Antarctica* » Latin ***septem*** ‘seven’ + ***-ate***
 
 </details>
 
@@ -438,5 +473,38 @@ A dictionary of all the fictional words I’ve created.
 
 &emsp; [septan](#septan)  
 &emsp; [decate](#decate)
+
+</details>
+
+
+<br>
+
+
+## xerique
+
+### Noun
+`/'ksɛrɪk, ksɛ'riːk/`
+`/'zɛrɪk, zɛ'riːk/`
+
+*[count]()*  
+plural *xeriques*
+
+1. a realm; a dimension. Our universe is a xerique.  
+&ensp; *test*
+> similar: universe, dimension, world
+
+> See [Supxerique](–) for more.
+
+<details>
+  <summary> <b> Derivatives </b> </summary>
+
+&emsp; [Supxerique](#supxerique)
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *primordial* » Ancient Greek **ξέρω** *xéro* ‘know’ + ***-ique*** (alternative *-ic*)
 
 </details>
