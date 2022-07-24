@@ -103,7 +103,8 @@ A dictionary of all the fictional words I’ve created.
 ### Noun
 `/əˈfɪnɪtik/`
 
-*[agentive]()*
+*[agentive]()*  
+plural *affinitics*
 
 1. A being possessing an affinity.  
 &ensp; *Xe’s an affinitic.*
@@ -138,7 +139,8 @@ A dictionary of all the fictional words I’ve created.
 ### Noun
 `/əˈfɪnɪti/`
 
-*[abstract]()*
+*[abstract]()*  
+plural *affinitys*
 
 1. an affinical power.  
 &ensp; *Xe unlocked xis first affinity.*
@@ -223,7 +225,8 @@ A dictionary of all the fictional words I’ve created.
 ### Noun
 `/'dɛkənt/`
 
-*[abstract]()*
+*[abstract]()*  
+plural *decants*
 
 1. a unit of time in the Antarctican calendar, corresponding to a month in the Gregorian calendar. Each year consists of 10 decants, alternating between 37 and 36 days long.  
 &ensp; *The names of the decants alternate between starting with A and V.*
@@ -260,7 +263,8 @@ A dictionary of all the fictional words I’ve created.
 ### Noun
 `/'dɛkeɪt/`
 
-*[abstract]()*
+*[abstract]()*  
+plural *decates*
 
 1. the date.  
 &ensp; *What’s the decate?*
@@ -362,7 +366,8 @@ A dictionary of all the fictional words I’ve created.
 ### Noun
 `/lɪnt/`
 
-*[count]()*
+*[count]()*  
+plural *lynts*
 
 1. {definition}  
 &ensp; *Care for some lynts?*
@@ -419,7 +424,8 @@ A dictionary of all the fictional words I’ve created.
 ### Noun
 `/'sɛptən/`
 
-*[abstract]()*
+*[abstract]()*  
+plural *septans*
 
 1. a unit of time in the Antarctican calendar, equivalent to a week.  
 &ensp; *There’s an update coming next septan.*
@@ -455,7 +461,8 @@ A dictionary of all the fictional words I’ve created.
 ### Noun
 `/'sɛpteɪt/`
 
-*[abstract]()*
+*[abstract]()*  
+plural *septates*
 
 1. the day of the week in the Antarctican calendar.  
 &ensp; *Children are taught the names of the septates from a very young age.*
