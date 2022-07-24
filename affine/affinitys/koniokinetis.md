@@ -5,7 +5,7 @@ A highly specialyzed deryvative of telekinetis, opting to control only dust and 
 
 <table>
   <tr>
-    <th colspan="2"> <h3> koniokinesis </h3> </th>
+    <th colspan="2"> <h3> koniokinetis </h3> </th>
   </tr>
   <tr>
     <td> ability </td>
