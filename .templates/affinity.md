@@ -106,67 +106,83 @@
 <table>
   <tr>
     <th align="left"> <a href="../readme.md#attack"> attack </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+    <td> <img src="../../.assets/spectrus/spectrus..png" width="360px"> </td>
+    <td> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#defence"> defence </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+    <td> <img src="../../.assets/spectrus/spectrus..png" width="360px"> </td>
+    <td> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#support"> support </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+    <td> <img src="../../.assets/spectrus/spectrus..png" width="360px"> </td>
+    <td> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#utility"> utility </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+    <td> <img src="../../.assets/spectrus/spectrus..png" width="360px"> </td>
+    <td> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#affine"> affine </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+    <td> <img src="../../.assets/spectrus/spectrus..png" width="360px"> </td>
+    <td> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#power"> power </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+    <td> <img src="../../.assets/spectrus/spectrus..png" width="360px"> </td>
+    <td> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#control"> control </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+    <td> <img src="../../.assets/spectrus/spectrus..png" width="360px"> </td>
+    <td> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#endurance"> endurance </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+    <td> <img src="../../.assets/spectrus/spectrus..png" width="360px"> </td>
+    <td> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#precision"> precision </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+    <td> <img src="../../.assets/spectrus/spectrus..png" width="360px"> </td>
+    <td> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#range"> range </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+    <td> <img src="../../.assets/spectrus/spectrus..png" width="360px"> </td>
+    <td> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#harmony"> harmony </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+    <td> <img src="../../.assets/spectrus/spectrus..png" width="360px"> </td>
+    <td> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#synchrony"> synchrony </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+    <td> <img src="../../.assets/spectrus/spectrus..png" width="360px"> </td>
+    <td> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#versatility"> versatility </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+    <td> <img src="../../.assets/spectrus/spectrus..png" width="360px"> </td>
+    <td> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#enhancement"> enhancement </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+    <td> <img src="../../.assets/spectrus/spectrus..png" width="360px"> </td>
+    <td> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#competency"> competency </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+    <td> <img src="../../.assets/spectrus/spectrus..png" width="360px"> </td>
+    <td> – </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#mastery"> mastery </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus..png" height="12px"> <br> – </td>
+    <td> <img src="../../.assets/spectrus/spectrus..png" width="360px"> </td>
+    <td> – </td>
   </tr>
 </table>
 
