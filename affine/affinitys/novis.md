@@ -134,6 +134,17 @@
     <td> <em> perma-opto-ultranovis </em> </td>
   </tr>
   <tr>
+    <th rowspan="2"> proxic </th>
+    <td colspan="2" align="center"> <em> proxinovis </em> </td>
+    <td colspan="2" align="center"> <em> proxi-ultranovis </em> </td>
+  </tr>
+  <tr>
+    <td> <em> insta-proxinovis </em> </td>
+    <td> <em> perma-proxinovis </em> </td>
+    <td> <em> insta-proxi-ultranovis </em> </td>
+    <td> <em> perma-proxi-ultranovis </em> </td>
+  </tr>
+  <tr>
     <th rowspan="2"> psychic </th>
     <td colspan="2" align="center"> <em> psychonovis </em> </td>
     <td colspan="2" align="center"> <em> psycho-ultranovis </em> </td>
