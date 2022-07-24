@@ -7,6 +7,7 @@ Unsure where to start? Try checking out some of these!
 &emsp; [affine](affine)  
 &emsp; [kenzokinetics](kenzokinetics)  
 &emsp; [Ascense](Ascense)  
+&emsp; [games](~games)  
 &emsp; [favourites](~lists/favourites)  
 &emsp; [Myriad Manifestation Trident](~misc/Myriad%20Manifestation%20Trident.md)
 
