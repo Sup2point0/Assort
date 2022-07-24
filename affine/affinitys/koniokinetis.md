@@ -152,8 +152,8 @@ When wielded proficiently, koniokinetis can be exceptionally powerful. Its high 
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#defence"> defence </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus.blue.high.png" width="360px"> </td>
-    <td> high </td>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> </td>
+    <td> moderate </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#support"> support </a> </th>
@@ -167,13 +167,13 @@ When wielded proficiently, koniokinetis can be exceptionally powerful. Its high 
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#affine"> affine </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus.blue.high.png" width="360px"> </td>
-    <td> high </td>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> </td>
+    <td> moderate </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#power"> power </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> </td>
-    <td> variable </td>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.high.png" width="360px"> </td>
+    <td> variable, generally high </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#control"> control </a> </th>
@@ -192,8 +192,8 @@ When wielded proficiently, koniokinetis can be exceptionally powerful. Its high 
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#range"> range </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> </td>
-    <td> moderate </td>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.high.png" width="360px"> </td>
+    <td> variable, generally high </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#harmony"> harmony </a> </th>
@@ -212,8 +212,8 @@ When wielded proficiently, koniokinetis can be exceptionally powerful. Its high 
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#enhancement"> enhancement </a> </th>
-    <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> </td>
-    <td> very high </td>
+    <td> <img src="../../.assets/spectrus/spectrus.blue.high.png" width="360px"> </td>
+    <td> high </td>
   </tr>
   <tr>
     <th align="left"> <a href="../readme.md#competency"> competency </a> </th>
