@@ -4,8 +4,8 @@
 
 Unsure where to start? Try checking out some of these!
 
-&emsp; [koniokinetis](affinitys/koniokinetics.md)
-&emsp; [novis](affinitys/novis.md)
+&emsp; [koniokinetis](affinitys/koniokinetics.md)  
+&emsp; [novis](affinitys/novis.md)  
 &emsp; [vitalis](affinitys/vitalis.md)
 
 
