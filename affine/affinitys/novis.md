@@ -2,10 +2,12 @@
 
 > *Not to be confused with [invisibility](invisibility.md).*
 
+{desc}
+
 
 <table>
   <tr>
-    <th colspan="2"> <h3> viral invisibility </h3> </th>
+    <th colspan="2"> <h3> novis </h3> </th>
   </tr>
   <tr>
     <td> ability </td>
@@ -21,7 +23,7 @@
   </tr>
   <tr>
     <td> <a href="../readme.md#channels"> channels </a> </td>
-    <td> <a href="../readme.md#haptic">haptic</a>, <a href="../readme.md#optic">optic</a>, <a href="../readme.md#psychic">psychic</a> </td>
+    <td> <a href="../readme.md#haptic">haptic</a>, <a href="../readme.md#optic">optic</a>, <a href="../readme.md#proxic">proxic</a>, <a href="../readme.md#psychic">psychic</a> </td>
   </tr>
   <tr>
     <td> <a href="../readme.md#classes"> classes </a> </td>
@@ -51,49 +53,6 @@
     <td> <code> /'noʊvəs/ </code> </td>
   </tr>
   <tr>
-    <th colspan="2"> <h4> Affinitics </h4> </th>
-  </tr>
-  <tr>
-    <td> power </td>
-    <td> very high </td>
-  </tr>
-  <tr>
-    <td> control </td>
-    <td> high </td>
-  </tr>
-  <tr>
-    <td> endurance </td>
-    <td> high </td>
-  </tr>
-  <tr>
-    <td> <a href="../readme.md#finesse"> finesse </a> </td>
-    <td> high </td>
-  </tr>
-  <tr>
-    <td> range </td>
-    <td> close </td>
-  </tr>
-  <tr>
-    <td> <a href="../readme.md#harmony"> harmony </a> </td>
-    <td> moderate </td>
-  </tr>
-  <tr>
-    <td> <a href="../readme.md#synchrony"> synchrony </a> </td>
-    <td> moderate </td>
-  </tr>
-  <tr>
-    <td> <a href="../readme.md#enhancement"> enhancement </a> </td>
-    <td> standard </td>
-  </tr>
-  <tr>
-    <td> competency </td>
-    <td> standard </td>
-  </tr>
-  <tr>
-    <td> mastery </td>
-    <td> standard </td>
-  </tr>
-  <tr>
     <th colspan="2"> <h4> Genetics </h4> </th>
   </tr>
   <tr>
@@ -101,16 +60,16 @@
     <td> moderate </td>
   </tr>
   <tr>
-    <td> derivation </td>
+    <td> deryvation </td>
     <td> <a href="invisibility.md"> invisibility </a> </td>
   </tr>
   <tr>
-    <td> derivatives </td>
+    <td> deryvatives </td>
     <td> none </td>
   </tr>
   <tr>
     <td> related </td>
-    <td> <a href="–"> – </a> </td>
+    <td> <a href="incorporealis.md"> incorporealis </a> </td>
   </tr>
 </table>
 
