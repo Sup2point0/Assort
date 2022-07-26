@@ -10,10 +10,10 @@ Structures are larger compounds formed from several components.
 
 <table>
   <td>
-    <a href="#core"> Core </a> <br>
-    <a href="#driver"> Driver </a> <br>
-    <a href="#railgun"> Railgun </a> <br>
-    <a href="#antibody-complex"> Antibody Complex </a>
+    <a href="#core">Core</a> <br>
+    <a href="#driver">Driver</a> <br>
+    <a href="#railgun">Railgun</a> <br>
+    <a href="#antibody-complex">Antibody Complex</a>
   </td>
 </table>
 
@@ -22,6 +22,8 @@ Structures are larger compounds formed from several components.
 
 
 ## Core
+
+The most important and integral part of a macrostructure, akin to the nucleus of a biological cell. Powered by a rare radioactive element, usually an actinide or lanthanide, it drives the vitality and reactions of the structure. Megastructures are powered by a single core, while gigastructures and terastructures possess more.
 
 
 <br>
