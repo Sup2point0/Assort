@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td> round projectiles </td>
-    <td> 3 </td> 
+    <td> 3 (4) </td> 
   </tr>
   <tr>
     <td> inaccuracy </td>
@@ -45,6 +45,6 @@
   </tr>
   <tr>
     <td> special </td>
-    <td> critical hits knockback enemies and bullets near to them 2 tiles away from player </td> 
+    <td> critical hits knockback enemies and nearby bullets 2 tiles away from player </td> 
   </tr>
 </table>
