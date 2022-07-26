@@ -31,13 +31,13 @@ A dictionary of all the fictional words I’ve created.
     <a href="#decant"> decant </a> <br>
     <a href="#decate"> decate </a> <br>
     <a href="#deuteric"> deuteric </a> <br>
-    <a href="#deuterical"> deuterical </a> <br>
+    <a href="#deuterive"> deuterive </a> <br>
     <a href="#didecant"> didecant </a> <br>
     <a href="#eximplode"> eximplode </a> <br>
     <a href="#greencorn"> greencorn </a> <br>
     <a href="#lynt"> lynt </a> <br>
     <a href="#protic"> protic </a> <br>
-    <a href="#protical"> protical </a> <br>
+    <a href="#protive"> protive </a> <br>
     <a href="#spectrus"> spectrus </a> <br>
     <a href="#sylonautilla"> sylonautilla </a> <br>
     <a href="#synthevetix"> synthevetix </a> <br>
@@ -98,10 +98,39 @@ A dictionary of all the fictional words I’ve created.
 <br>
 
 
+## affinical
+
+### Adjective
+`/əˈfɪnɪtɪk(ə)l/`
+
+*[descriptive]()*
+
+1. related to affine.  
+&ensp; *Affinical weapons are far deadlier than traditional wepaons.*
+> similar: magical, supernatural
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *unknown* » Antarctican ***affine*** + ***-ical*** ‘adjective’
+
+</details>
+
+<details>
+  <summary> <b> Related </b> </summary>
+
+&emsp; [affinics](#affinics)
+
+</details>
+
+
+<br>
+
+
 ## affinitic
 
 ### Noun
-`/əˈfɪnɪtik/`
+`/əˈfɪnɪtɪk/`
 
 *[agentive]()*  
 plural *affinitics*
@@ -127,6 +156,35 @@ plural *affinitics*
   <summary> <b> Related </b> </summary>
 
 &emsp; [affinity](#affinity)
+
+</details>
+
+
+<br>
+
+
+## affinitics
+
+### Noun
+`/əˈfɪnɪtiks/`
+
+*[abstract]()*, *[topic]()*
+
+1. the topic of aspects related to affinitys.  
+&ensp; *It is beneficial to understand the underlying principles of affinitcs.*
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *unknown* » English ***affinity*** + Antarctican ***-ics*** ‘topic’
+
+</details>
+
+<details>
+  <summary> <b> Related </b> </summary>
+
+&emsp; [affinity](#affinity)  
+&emsp; [affinics](#affinics)
 
 </details>
 
@@ -291,10 +349,10 @@ plural *decates*
 <br>
 
 
-## deuterical
+## deutive
 
 ### Adjective
-`/duː'tɛrɪk(ə)l/`
+`/duː'tɪv/`
 
 *[attributive]()*
 
@@ -312,7 +370,7 @@ plural *decates*
   <summary> <b> Related </b> </summary>
 
 &emsp; [deuteric](#deuteric)  
-&emsp; [protical](#protical)
+&emsp; [protive](#protive)
 
 </details>
 
@@ -390,10 +448,10 @@ plural *lynts*
 <br>
 
 
-## protical
+## protive
 
 ### Adjective
-`/'prəʊtɪk(ə)l/`
+`/'prəʊtɪv/`
 
 *[attributive]()*
 
@@ -410,7 +468,7 @@ plural *lynts*
 <details>
   <summary> <b> Related </b> </summary>
 
-&emsp; [deuterical](#deuterical)  
+&emsp; [deutive](#deutive)  
 &emsp; [protic](#protic)
 
 </details>
