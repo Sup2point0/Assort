@@ -10,9 +10,9 @@ Particles are the active weapons utilyzed by other structures.
 
 <table>
   <td>
-    <a href="#antibody"> Antibody </a> <br>
-    <a href="#proton"> Proton </a> <br>
-    <a href="#alpha"> Alpha </a>
+    <a href="#antibody">Antibody</a> <br>
+    <a href="#proton">Proton</a> <br>
+    <a href="#alpha">Alpha</a>
   </td>
 </table>
 
