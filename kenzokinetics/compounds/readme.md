@@ -1,6 +1,39 @@
 # Compounds
 
-Compounds are distinctive entities comprised of various structures and components.
+Distinctive entities comprised of various interconnected structures and components.
+
+Compounds are classyzed as *microstructures*, which have no core, and *macrostructures*, which do. Only sufficiently large compounds require a core.
+
+<table>
+  <tr>
+    <td></td>
+    <th colspan="2" align="center"> microstructure </th>
+    <th colspan="3" align="center"> macrostructure </th>
+  </tr>
+  <tr>
+    <td></td>
+    <th> </th>
+    <th> </th>
+    <th> megastructure </th>
+    <th> gigastructure </th>
+    <th> terastructure </th>
+  </tr>
+  <tr>
+    <th> cores </th>
+    <td colspan="2" align="center"> none </td>
+    <td> 1 </td>
+    <td> 2+ </td>
+    <td> 4+ with 1+ special cores </td>
+  </tr>
+  <tr>
+    <th> examples </th>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+</table>
 
 
 <br>
