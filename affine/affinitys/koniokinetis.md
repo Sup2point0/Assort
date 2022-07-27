@@ -12,20 +12,20 @@ A highly specialyzed deryvative of telekinetis, opting to control only dust and 
     <td> dust control </td>
   </tr>
   <tr>
-    <td> <a href="../readme.md#types"> type </a> </td>
-    <td> <a href="../readme.md#matter manipulyzation"> matter manipulyzation </a> </td>
+    <td> <a href="../readme.md#types">type</a> </td>
+    <td> <a href="../readme.md#matter manipulyzation">matter manipulyzation</a> </td>
   </tr>
   <tr>
-    <td> <a href="../readme.md#attributes"> attribute </a> </td>
+    <td> <a href="../readme.md#attributes">attribute</a> </td>
     <td> dust </td>
   </tr>
   <tr>
-    <td> <a href="../readme.md#channels"> channels </a> </td>
-    <td> <a href="../readme.md#psychic"> psychic </a> </td>
+    <td> <a href="../readme.md#channels">channels</a> </td>
+    <td> <a href="../readme.md#psychic">psychic</a> </td>
   </tr>
   <tr>
-    <td> <a href="../readme.md#classes"> classes </a> </td>
-    <td> <a href="../foundational principles of affinitics.md#specialyzation"> specialyzation spectrus </a> </td>
+    <td> <a href="../readme.md#classes">classes</a> </td>
+    <td> <a href="../foundational principles of affinitics.md#specialyzation">specialyzation spectrus</a> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Nomenclature </h4> </th>
@@ -63,7 +63,7 @@ A highly specialyzed deryvative of telekinetis, opting to control only dust and 
   </tr>
   <tr>
     <td> deryvation </td>
-    <td> <a href="telekinetis.md"> telekinetis </a> </td>
+    <td> <a href="telekinetis.md">telekinetis</a> </td>
   </tr>
   <tr>
     <td> deryvatives </td>
@@ -71,7 +71,7 @@ A highly specialyzed deryvative of telekinetis, opting to control only dust and 
   </tr>
   <tr>
     <td> related </td>
-    <td> <a href="–"> – </a> </td>
+    <td> <a href="–">–</a> </td>
   </tr>
 </table>
 
@@ -81,7 +81,7 @@ A highly specialyzed deryvative of telekinetis, opting to control only dust and 
 
 ## Nomenclature
 
-### Standard
+### Absolute
 
 | class | term | pronouncyzation | etymologics |
 | :---- | :--- | :------------ | :---------- |
@@ -146,82 +146,82 @@ When wielded proficiently, koniokinetis can be exceptionally powerful. Its high 
 
 <table>
   <tr>
-    <th align="left"> <a href="../readme.md#attack"> attack </a> </th>
+    <th align="left"> <a href="../readme.md#attack">attack</a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> </td>
     <td> moderate </td>
   </tr>
   <tr>
-    <th align="left"> <a href="../readme.md#defence"> defence </a> </th>
+    <th align="left"> <a href="../readme.md#defence">defence</a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> </td>
     <td> moderate </td>
   </tr>
   <tr>
-    <th align="left"> <a href="../readme.md#support"> support </a> </th>
+    <th align="left"> <a href="../readme.md#support">support</a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.blue.high.png" width="360px"> </td>
     <td> high </td>
   </tr>
   <tr>
-    <th align="left"> <a href="../readme.md#utility"> utility </a> </th>
+    <th align="left"> <a href="../readme.md#utility">utility</a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.sky.high.very.png" width="360px"> </td>
     <td> <b> very high </b> </td>
   </tr>
   <tr>
-    <th align="left"> <a href="../readme.md#affine"> affine </a> </th>
+    <th align="left"> <a href="../readme.md#affine">affine</a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> </td>
     <td> moderate </td>
   </tr>
   <tr>
-    <th align="left"> <a href="../readme.md#power"> power </a> </th>
+    <th align="left"> <a href="../readme.md#power">power</a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.blue.high.png" width="360px"> </td>
     <td> variable, generally high </td>
   </tr>
   <tr>
-    <th align="left"> <a href="../readme.md#control"> control </a> </th>
+    <th align="left"> <a href="../readme.md#control">control</a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.sky.high.very.png" width="360px"> </td>
     <td> <b> very high </b> </td>
   </tr>
   <tr>
-    <th align="left"> <a href="../readme.md#endurance"> endurance </a> </th>
+    <th align="left"> <a href="../readme.md#endurance">endurance</a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> </td>
     <td> moderate </td>
   </tr>
   <tr>
-    <th align="left"> <a href="../readme.md#precision"> precision </a> </th>
+    <th align="left"> <a href="../readme.md#precision">precision</a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.sky.high.spec.png" width="360px"> </td>
     <td> <b> especially high </b> </td>
   </tr>
   <tr>
-    <th align="left"> <a href="../readme.md#range"> range </a> </th>
+    <th align="left"> <a href="../readme.md#range">range</a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.blue.high.png" width="360px"> </td>
     <td> variable, generally high </td>
   </tr>
   <tr>
-    <th align="left"> <a href="../readme.md#harmony"> harmony </a> </th>
+    <th align="left"> <a href="../readme.md#harmony">harmony</a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> </td>
     <td> moderate </td>
   </tr>
   <tr>
-    <th align="left"> <a href="../readme.md#synchrony"> synchrony </a> </th>
+    <th align="left"> <a href="../readme.md#synchrony">synchrony</a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.blue.high.png" width="360px"> </td>
     <td> variable, general high </td>
   </tr>
   <tr>
-    <th align="left"> <a href="../readme.md#versatility"> versatility </a> </th>
+    <th align="left"> <a href="../readme.md#versatility">versatility</a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.sky.high.very.png" width="360px"> </td>
     <td> <b> very high </b> </td>
   </tr>
   <tr>
-    <th align="left"> <a href="../readme.md#enhancement"> enhancement </a> </th>
+    <th align="left"> <a href="../readme.md#enhancement">enhancement</a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.blue.high.png" width="360px"> </td>
     <td> high </td>
   </tr>
   <tr>
-    <th align="left"> <a href="../readme.md#competency"> competency </a> </th>
+    <th align="left"> <a href="../readme.md#competency">competency</a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.blue.moderate.png" width="360px"> </td>
     <td> moderate </td>
   </tr>
   <tr>
-    <th align="left"> <a href="../readme.md#mastery"> mastery </a> </th>
+    <th align="left"> <a href="../readme.md#mastery">mastery</a> </th>
     <td> <img src="../../.assets/spectrus/spectrus.blue.high.very.png" width="360px"> </td>
     <td> very difficult </td>
   </tr>
