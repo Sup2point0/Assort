@@ -2,7 +2,7 @@
 
 *Affine* – magic or supernaturalism – is a phenomenon present in certain xeriques, in particular the Supxerique.
 
-Unsure where to start? Check out these affinitys!
+For a full list of affinitys, see [affinitys](affinitys.md). Here are some cool ones to check out first!
 
 &emsp; [koniokinetis](affinitys/koniokinetics.md)  
 &emsp; [novis](affinitys/novis.md)  
@@ -19,45 +19,45 @@ Unsure where to start? Check out these affinitys!
 
 <table>
   <td>
-    <a href="#nomenclature"> Nomenclature </a> <br>
-    <a href="#affinyzation"> Affinyzation </a> <br>
-    <a href="#types"> Types </a> <br>
-    &emsp; <a href="#matter-manipulation"> Matter Manipulation </a> <br>
-    &emsp; <a href="#self-manipulation"> Self Manipulation </a> <br>
-    &emsp; <a href="#essence-manipulation"> Essence Manipulation </a> <br>
-    <a href="#abilities"> Abilities </a> <br>
-    &emsp; <a href="#kinetis"> Kinetis </a> <br>
-    &emsp; <a href="#genetis"> Genetis </a> <br>
-    &emsp; <a href="#synchronis"> Synchronis </a> <br>
-    &emsp; <a href="#portalis"> Portalis </a> <br>
-    <a href="#channels"> Channels </a> <br>
-    &emsp; <a href="#psychic"> Psychic </a> <br>
-    &emsp; <a href="#haptic"> Haptic </a> <br>
-    &emsp; <a href="#proxic"> Proxic </a> <br>
-    &emsp; <a href="#optic"> Optic </a> <br>
-    &emsp; <a href="#innate"> Innate </a> <br>
-    <a href="#classes"> Classes </a> <br>
-    &emsp; <a href="#instant"> Instant </a> <br>
-    &emsp; <a href="#lingering"> Lingering </a> <br>
-    &emsp; <a href="#viral"> Viral </a> <br>
-    <a href="#affinitics"> Affinitics </a> <br>
-    &emsp; <a href="#attack"> Attack </a> <br>
-    &emsp; <a href="#defence"> Defence </a> <br>
-    &emsp; <a href="#support"> Support </a> <br>
-    &emsp; <a href="#utility"> Utility </a> <br>
-    &emsp; <a href="#affine"> Affine </a> <br>
-    &emsp; <a href="#power"> Power </a> <br>
-    &emsp; <a href="#control"> Control </a> <br>
-    &emsp; <a href="#endurance"> Endurance </a> <br>
-    &emsp; <a href="#precision"> Precision </a> <br>
-    &emsp; <a href="#range"> Range </a> <br>
-    &emsp; <a href="#harmony"> Harmony </a> <br>
-    &emsp; <a href="#synchrony"> Synchrony </a> <br>
-    &emsp; <a href="#versatility"> Versatility </a> <br>
-    &emsp; <a href="#enhancement"> Enhancement </a> <br>
-    &emsp; <a href="#competency"> Competency </a> <br>
-    &emsp; <a href="#mastery"> Mastery </a> <br>
-    <a href="#evolution"> Evolution </a>
+    <a href="#nomenclature">Nomenclature</a> <br>
+    <a href="#affinyzation">Affinyzation</a> <br>
+    <a href="#types">Types</a> <br>
+    &emsp; <a href="#matter-manipulation">Matter Manipulation</a> <br>
+    &emsp; <a href="#self-manipulation">Self Manipulation</a> <br>
+    &emsp; <a href="#essence-manipulation">Essence Manipulation</a> <br>
+    <a href="#abilities">Abilities</a> <br>
+    &emsp; <a href="#kinetis">Kinetis</a> <br>
+    &emsp; <a href="#genetis">Genetis</a> <br>
+    &emsp; <a href="#synchronis">Synchronis</a> <br>
+    &emsp; <a href="#portalis">Portalis</a> <br>
+    <a href="#channels">Channels</a> <br>
+    &emsp; <a href="#psychic">Psychic</a> <br>
+    &emsp; <a href="#haptic">Haptic</a> <br>
+    &emsp; <a href="#proxic">Proxic</a> <br>
+    &emsp; <a href="#optic">Optic</a> <br>
+    &emsp; <a href="#innate">Innate</a> <br>
+    <a href="#classes">Classes</a> <br>
+    &emsp; <a href="#instant">Instant</a> <br>
+    &emsp; <a href="#lingering">Lingering</a> <br>
+    &emsp; <a href="#viral">Viral</a> <br>
+    <a href="#affinitics">Affinitics</a> <br>
+    &emsp; <a href="#attack">Attack</a> <br>
+    &emsp; <a href="#defence">Defence</a> <br>
+    &emsp; <a href="#support">Support</a> <br>
+    &emsp; <a href="#utility">Utility</a> <br>
+    &emsp; <a href="#affine">Affine</a> <br>
+    &emsp; <a href="#power">Power</a> <br>
+    &emsp; <a href="#control">Control</a> <br>
+    &emsp; <a href="#endurance">Endurance</a> <br>
+    &emsp; <a href="#precision">Precision</a> <br>
+    &emsp; <a href="#range">Range</a> <br>
+    &emsp; <a href="#harmony">Harmony</a> <br>
+    &emsp; <a href="#synchrony">Synchrony</a> <br>
+    &emsp; <a href="#versatility">Versatility</a> <br>
+    &emsp; <a href="#enhancement">Enhancement</a> <br>
+    &emsp; <a href="#competency">Competency</a> <br>
+    &emsp; <a href="#mastery">Mastery</a> <br>
+    <a href="#evolution">Evolution</a>
   </td>
 </table>
 
@@ -82,8 +82,6 @@ Throughout different xeriques and in different contexts, affinitys and affinitic
 
 
 ## Types
-
-> *For a full list of affinitys, see [affinitys](affinitys.md).*
 
 ### Matter Manipulation
 
@@ -128,7 +126,7 @@ To illustrate the differences, consider a [novus](affinitys/novis.md). Usually, 
   </tr>
   <tr>
     <td> examples </td>
-    <td> <a href="affinitys/telekinetis.md">  </a> </td>
+    <td> <a href="affinitys/telekinetis.md"></a> </td>
   </tr>
 </table>
 
@@ -143,7 +141,7 @@ Affinitys controlled by the mind.
   </tr>
   <tr>
     <td> examples </td>
-    <td> <a href="affinitys/.md">  </a> </td>
+    <td> <a href="affinitys/.md"></a> </td>
   </tr>
 </table>
 
@@ -158,7 +156,7 @@ Affinitys that channel through physical contact. This usually refers to directly
   </tr>
   <tr>
     <td> examples </td>
-    <td> <a href="affinitys/vitakinetis.md">  </a> </td>
+    <td> <a href="affinitys/vitakinetis.md"></a> </td>
   </tr>
 </table>
 
@@ -173,7 +171,7 @@ Affinitys that channel through physical contact. This usually refers to directly
   </tr>
   <tr>
     <td> examples </td>
-    <td> <a href="affinitys/.md">  </a> </td>
+    <td> <a href="affinitys/.md"></a> </td>
   </tr>
 </table>
 
