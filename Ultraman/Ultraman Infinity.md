@@ -10,31 +10,31 @@
 
 <table>
   <tr> <td>
-    <a href="#overview"> Overview </a> <br>
-    <a href="#transformations"> Transformations </a> <br>
-    &emsp; <a href="#initial"> Initial </a> <br>
-    &emsp; <a href="#standard"> Standard </a> <br>
-    <a href="#forms"> Forms </a> <br>
-    &emsp; <a href="#ultraman-infinity"> Ultraman Infinity </a> <br>
-    &emsp; <a href="#plasma-powered"> Plasma Powered </a> <br>
-    &emsp; <a href="#absolute-miracle"> Absolute Miracle </a> <br>
-    &emsp; <a href="#mythical-break"> Mythical Break </a> <br>
-    &emsp; <a href="#gamma-strium"> Gamma Strium </a> <br>
-    &emsp; <a href="#white-light"> White Light </a> <br>
-    &emsp; <a href="#shining-spectrum"> Shining Spectrum </a> <br>
-    &emsp; <a href="#infinity-edge"> Infinity Edge </a> <br>
-    &emsp; <a href="#infinity-essence"> Infinity Essence </a> <br>
-    <a href="#weapons"> Weapons </a> <br>
-    &emsp; <a href="#infinity-watch"> Infinity Watch </a> <br>
-    &emsp; <a href="#infinity-spark"> Infinity Spark </a> <br>
-    &emsp; <a href="#infinity-neo-calibur"> Infinity Neo Calibur </a> <br>
-    <a href="#ultraman-heart"> Ultraman Heart </a> <br>
-    &emsp; <a href="#ultraman-mebius"> Ultraman Mebius </a> <br>
-    &emsp; <a href="#ultraman-horizon"> Ultraman Horizon </a> <br>
-    &emsp; <a href="#ultraman-arc"> Ultraman Arc </a> <br>
-    &emsp; <a href="#ultraman-kade"> Ultraman Kade </a> <br>
-    <a href="#trivia"> Trivia </a>
-    <a href="#quotes"> Quotes </a>
+    <a href="#overview">Overview</a> <br>
+    <a href="#transformations">Transformations</a> <br>
+    &emsp; <a href="#initial">Initial</a> <br>
+    &emsp; <a href="#standard">Standard</a> <br>
+    <a href="#forms">Forms</a> <br>
+    &emsp; <a href="#ultraman-infinity">Ultraman Infinity</a> <br>
+    &emsp; <a href="#plasma-powered">Plasma Powered</a> <br>
+    &emsp; <a href="#absolute-miracle">Absolute Miracle</a> <br>
+    &emsp; <a href="#mythical-break">Mythical Break</a> <br>
+    &emsp; <a href="#gamma-strium">Gamma Strium</a> <br>
+    &emsp; <a href="#white-light">White Light</a> <br>
+    &emsp; <a href="#shining-spectrum">Shining Spectrum</a> <br>
+    &emsp; <a href="#infinity-edge">Infinity Edge</a> <br>
+    &emsp; <a href="#infinity-essence">Infinity Essence</a> <br>
+    <a href="#weapons">Weapons</a> <br>
+    &emsp; <a href="#infinity-watch">Infinity Watch</a> <br>
+    &emsp; <a href="#infinity-spark">Infinity Spark</a> <br>
+    &emsp; <a href="#infinity-neo-calibur">Infinity Neo Calibur</a> <br>
+    <a href="#ultraman-heart">Ultraman Heart</a> <br>
+    &emsp; <a href="#ultraman-mebius">Ultraman Mebius</a> <br>
+    &emsp; <a href="#ultraman-horizon">Ultraman Horizon</a> <br>
+    &emsp; <a href="#ultraman-arc">Ultraman Arc</a> <br>
+    &emsp; <a href="#ultrawoman-kade">Ultrawoman Kade</a> <br>
+    <a href="#trivia">Trivia</a>
+    <a href="#quotes">Quotes</a>
   </td> </tr>
 </table>
 
@@ -114,28 +114,28 @@ Infinity Impact
 Infinity Impact Zero  
 Infinity Slash  
 Infinity Strike  
-Infinity Thrust
+Infinity Thrust  
 
 <ins> Techniques </ins>  
 Absorption  
 Deflection  
 Infinity Afterimages  
 Infinity Slice  
-  Infinity Barrier  
-  Infinity Sceptre  
-  Infinity Shields  
-  Infinity Staff  
+&ensp; Infinity Barrier  
+&ensp; Infinity Sceptre  
+&ensp; Infinity Shields  
+&ensp; Infinity Staff  
 Phase Shift  
 Solidify  
 Teleportation  
 Travel Stream  
-Ultra Spirit
+Ultra Spirit  
 
 <ins> Finishers </ins>  
 Infinity Ray  
 Infinity Burst  
 Infinity Stream  
-Infinity Drive
+Infinity Drive  
 
 
 ### Plasma Powered
@@ -161,18 +161,18 @@ Infinity Drive
 Infinity Buster  
 Plasma Burst  
 Powered Punch  
-Powered Slam
+Powered Slam  
 
 <ins> Techniques </ins>  
 Infrared Intensity  
 Plasma Charge  
-Plasma Hurricane
+Plasma Hurricane  
 
 <ins> Finishers </ins>  
-Plasma Burster
+Plasma Burster  
 
 <ins> Combo Finishers </ins>  
-Miracle Burster
+Miracle Burster  
 
 
 ### Absolute Miracle
@@ -196,19 +196,19 @@ Miracle Burster
 #### Abilities
 <ins> Attacks </ins>  
 Absolute Impact  
-Absolute Slash
+Absolute Slash  
 
 <ins> Techniques </ins>  
 Absolute Astonish  
 Miracle Cyclone  
 Miracle Ray  
-Infinity Daggers
+Infinity Daggers  
 
 <ins> Finishers </ins>  
-Miracle Beam
+Miracle Beam  
 
 <ins> Combo Finishers </ins>  
-Miracle Burster
+Miracle Burster  
 
 
 ### Mythical Break
@@ -234,10 +234,10 @@ Miracle Burster
 &ensp;
 
 <ins> Techniques </ins>  
-Multi Spark
+Multi Spark  
 
 <ins> Finishers </ins>  
-Infinity Break
+Infinity Break  
 
 
 ### Gamma Strium
@@ -263,11 +263,11 @@ Infinity Break
 &ensp;
 
 <ins> Techniques </ins>  
-Violet Galaxy
+Violet Galaxy  
 
 <ins> Finishers </ins>  
 Infinity Strium  
-Strium Drive
+Strium Drive  
 
 
 ### White Light
@@ -290,16 +290,16 @@ Strium Drive
 
 #### Abilities
 <ins> Attacks </ins>  
-Infinity Impact Ultimate
+Infinity Impact Ultimate  
 
 <ins> Techniques </ins>  
 Infinity Cage  
 Infinity Slice Ultimate  
-Infinity Shield Swarm
+Infinity Shield Swarm  
 
 <ins> Finishers </ins>  
 Ultimate Drive  
-Ultimate Infinity Ray
+Ultimate Infinity Ray  
 
 
 ### Shining Spectrum
@@ -322,17 +322,17 @@ Ultimate Infinity Ray
 
 #### Abilities
 <ins> Attacks </ins>  
-Infinity Impact Beyond
+Infinity Impact Beyond  
 
 <ins> Techniques </ins>  
 Infinity Slice Ultimate  
 Shining Barrier  
 Spectrum Sceptre  
 Shining Shields  
-Spectrum Staff
+Spectrum Staff  
 
 <ins> Finishers </ins>  
-Infinity Overdrive
+Infinity Overdrive  
 
 
 ### Infinity Edge
@@ -351,12 +351,12 @@ Infinity Overdrive
 </table>
 
 #### Signatures
-X &ndash; Devize  
-Arc &ndash; Realize  
-Zero &ndash;   
-Victory &ndash; Energize  
-Z &ndash; Finalize  
-Jean-Nine &ndash; Digitize
+X – Devize  
+Arc – Realize  
+Zero –   
+Victory – Energize  
+Z – Finalize  
+Jean-Nine – Digitize  
 
 #### Additions
 <ins> Core </ins>
@@ -371,7 +371,7 @@ Jean-Nine &ndash; Digitize
 <ins> Attacks </ins>  
 Lightning Pulse  
 Lightning Slasher  
-Lightning Tackle
+Lightning Tackle  
 
 <ins> Techniques </ins>  
 Electric Edge  
@@ -380,13 +380,13 @@ Lightning Punisher
 Lightning Spark  
 Xanadium Arc  
 Xanadium Arc V(ictory)  
-Xanadium Arc Z
+Xanadium Arc Z  
 
 <ins> Finishers </ins>  
 Lightning Drive  
 Electrix Arc Dragon  
 Emerium Arc Dragon  
-Edge Especially
+Edge Especially  
 
 
 ### Infinity Essence
@@ -412,12 +412,12 @@ Edge Especially
 &ensp;
 
 <ins> Techniques </ins>  
-Infinity Impact Inversion
+Infinity Impact Inversion  
 
 <ins> Finishers </ins>  
 Finitium Ray  
 Finitium Burst  
-Infinity Embrace
+Infinity Embrace  
 
 
 <br>
@@ -477,14 +477,14 @@ Infinity Embrace
 
 #### Abilities
 <ins> Techniques </ins>  
-Doublade
+Doublade  
 
 <ins> Finishers </ins>  
 Flame Drive  
-Infinity Dynamite
+Infinity Dynamite  
 
 <ins> Combination </ins>
-Phoenix Infinity
+Phoenix Infinity  
 
 
 ### Ultraman Horizon
@@ -508,7 +508,7 @@ Phoenix Infinity
 #### Abilities
 <ins> Attacks </ins>  
 Dashing Kick  
-Dashing Punch
+Dashing Punch  
 
 
 ### Ultraman Arc
@@ -532,10 +532,10 @@ Dashing Punch
 #### Abilities
 <ins> Attacks </ins>  
 Arcium Slash  
-Whirlwind Arc
+Whirlwind Arc  
 
 <ins> Finishers </ins>  
-Infinity Arc
+Infinity Arc  
 
 
 ### Ultrawoman Kade
