@@ -14,19 +14,19 @@ One of the most invaluable affinitys, the ability to control health.
     <td> healing </td>
   </tr>
   <tr>
-    <td> <a href="../readme.md#types"> type </a> </td>
-    <td> <a href="../readme.md#abstract-manipulation"> abstract manipulation </a> </td>
+    <td> <a href="../readme.md#types">type </a> </td>
+    <td> <a href="../readme.md#abstract-manipulation">abstract manipulation </a> </td>
   </tr>
   <tr>
-    <td> <a href="../readme.md#attributes"> attribute </a> </td>
+    <td> <a href="../readme.md#attributes">attribute </a> </td>
     <td> life </td>
   </tr>
   <tr>
-    <td> <a href="../readme.md#channels"> channels </a> </td>
+    <td> <a href="../readme.md#channels">channels </a> </td>
     <td> <a href="../readme.md#haptic">haptic</a>, <a href="../readme.md#proxic">proxic</a>, <a href="../readme.md#optic">optic</a>, <a href="../readme.md#psychic">psychic</a> </td>
   </tr>
   <tr>
-    <td> <a href="../readme.md#classes"> classes </a> </td>
+    <td> <a href="../readme.md#classes">classes </a> </td>
     <td> <a href="#essence">essence</a>, <a href="#absolute">absolute</a> </td>
   </tr>
   <tr>
@@ -53,49 +53,6 @@ One of the most invaluable affinitys, the ability to control health.
     <td> <code>/vʌɪˈtaləs/</code>, <code>/'hiːlə/</code> </td>
   </tr>
   <tr>
-    <th colspan="2"> <h4> Affinitics </h4> </th>
-  </tr>
-  <tr>
-    <td> power </td>
-    <td> very high </td>
-  </tr>
-  <tr>
-    <td> control </td>
-    <td> high </td>
-  </tr>
-  <tr>
-    <td> endurance </td>
-    <td> variable </td>
-  </tr>
-  <tr>
-    <td> <a href="../readme.md#finesse"> finesse </a> </td>
-    <td> very high </td>
-  </tr>
-  <tr>
-    <td> range </td>
-    <td> close </td>
-  </tr>
-  <tr>
-    <td> <a href="../readme.md#harmony"> harmony </a> </td>
-    <td> moderate </td>
-  </tr>
-  <tr>
-    <td> <a href="../readme.md#synchrony"> synchrony </a> </td>
-    <td> low </td>
-  </tr>
-  <tr>
-    <td> <a href="../readme.md#enhancement"> enhancement </a> </td>
-    <td> very low </td>
-  </tr>
-  <tr>
-    <td> competency </td>
-    <td> mediocre </td>
-  </tr>
-  <tr>
-    <td> mastery </td>
-    <td> very difficult </td>
-  </tr>
-  <tr>
     <th colspan="2"> <h4> Genetics </h4> </th>
   </tr>
   <tr>
@@ -107,11 +64,11 @@ One of the most invaluable affinitys, the ability to control health.
     <td> very low </td>
   </tr>
   <tr>
-    <td> derivation </td>
-    <td> <a href="../readme.md#prime"> prime </a> </td>
+    <td> deryvation </td>
+    <td> <a href="../readme.md#prime">prime</a> </td>
   </tr>
   <tr>
-    <td> derivatives </td>
+    <td> deryvatives </td>
     <td> – </td>
   </tr>
   <tr>
@@ -192,17 +149,106 @@ One of the most invaluable affinitys, the ability to control health.
 
 ## Skills
 
+### Tecniques
 
-<br>
-
-
-## Combatics
+### Attack
 
 
 <br>
 
 
-## Synchronics
+## Affinitics
+
+<table>
+  <tr>
+    <th align="left"> <a href="../readme.md#attack">attack </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.purple.low.spec.png" width="360px"> </td>
+    <td> especially low </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#defence">defence </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.purple.high.png" width="360px"> </td>
+    <td> high </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#support">support </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.pink.high.spec.png" width="360px"> </td>
+    <td> especially high </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#utility">utility </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.purple.high.very.png" width="360px"> </td>
+    <td> very high </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#affine">affine </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.pink.high.very.png" width="360px"> </td>
+    <td> very high </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#power">power </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.purple.low.very.png" width="360px"> </td>
+    <td> very low </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#control">control </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.purple.high.png" width="360px"> </td>
+    <td> high </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#endurance">endurance </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.purple.standard.png" width="360px"> </td>
+    <td> variable </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#precision">precision </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.purple.high.very.png" width="360px"> </td>
+    <td> very high </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#range">range </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.purple.low.png" width="360px"> </td>
+    <td> low </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#harmony">harmony </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.purple.moderate.png" width="360px"> </td>
+    <td> moderate </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#synchrony">synchrony </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.purple.low.png" width="360px"> </td>
+    <td> low </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#versatility">versatility </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.purple.standard.png" width="360px"> </td>
+    <td> standard </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#enhancement">enhancement </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.purple.low.very.png" width="360px"> </td>
+    <td> very low </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#competency">competency </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.purple.mediocre.png" width="360px"> </td>
+    <td> mediocre </td>
+  </tr>
+  <tr>
+    <th align="left"> <a href="../readme.md#mastery">mastery </a> </th>
+    <td> <img src="../../.assets/spectrus/spectrus.purple.high.very.png" width="360px"> </td>
+    <td> very difficult </td>
+  </tr>
+</table>
+
+### Attack
+
+### Strategys
+
+### Weaknesses
+
+### Synchronics
 
 
 <br>
