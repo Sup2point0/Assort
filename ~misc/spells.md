@@ -21,6 +21,10 @@ Spells I’ve created.
     <th> incantyzation </th>
     <td> <em> asphyxiskotadi </em> </td>
   </tr>
+  <tr>
+    <th> pronouncyzation </th>
+    <td> <code> asˌfɪksɪskəˈtɑːdiː </code> </td>
+  </tr>
 </table>
 
 ### Etymologics
