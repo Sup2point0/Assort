@@ -7,8 +7,6 @@ Unsure where to start? Try checking out some of these!
 &emsp; [affine](affine)  
 &emsp; [kenzokinetics](kenzokinetics)  
 &emsp; [Ascense](Ascense)  
-&emsp; [games](~games)  
-&emsp; [favourites](~lists/favourites)
 
 &emsp; [koniokinetis](affine/affinitys/koniokinetis.md)  
 &emsp; [Ultraman Infinity](Ultraman/Ultraman%20Infinity.md)  
