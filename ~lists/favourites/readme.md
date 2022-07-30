@@ -25,6 +25,7 @@ Every favourite thing you could ever imagine (eventually).
 | holiday | April Fools’ |
 | instrument | synthesizer |
 | month | September <br> April |
+| music artist | Elektronomia |
 | music genre | electronic dance music |
 | school subject | Computer Science |
 | social media | Discord <br> reddit |
@@ -45,11 +46,13 @@ Every favourite thing you could ever imagine (eventually).
 | cookie flavour | chocolate |
 | crisp flavour | *Lay’s* tomato <br> *Walker’s* cheese & onion |
 | dish | tomato and scrambled eggs stir-fry <br> leek and scrambled eggs stir-fry |
+| drink | ice tea |
 | English breakfast part | hash browns |
 | ice cream flavour | chocolate |
 | fruit | hami melon <br> Chinese pear <br> banana |
 | juice | apple |
 | meal | udon noodles |
+| number | 20 |
 | pizza flavour | margherita |
 | sauce | mayonnaise <br> soy sauce |
 | snack | 旺旺雪饼 |
@@ -82,6 +85,7 @@ Every favourite thing you could ever imagine (eventually).
 | :------- | :-------- |
 | art | modern flat vector |
 | biology field | immunology <br> genetics |
+| car | Lamborghini Aventador SV |
 | chemical formula | skeletal |
 | chemistry field | organic chemistry |
 | internet domain | `.dev` |
