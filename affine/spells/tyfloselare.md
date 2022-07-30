@@ -1,0 +1,59 @@
+# Spell
+
+{desc}
+
+
+<table>
+  <tr>
+    <th colspan="2"> <h3> – </h3> </th>
+  </tr>
+  <tr>
+    <td> class </td>
+    <td> – </td>
+  </th>
+  <tr>
+    <td> effects </td>
+    <td> – </td>
+  </tr>
+  <tr>
+    <td> appearance </td>
+    <td> – </td>
+  </tr>
+  <tr>
+    <td> incantyzation </td>
+    <td> <em> tyfloselare </em> </td>
+  </tr>
+  <tr>
+    <td> pronouncyzation </td>
+    <td> <code> /ˌtɪfləʊsɛˈlɑːreɪ/ </code> </td>
+  </tr>
+</table>
+
+
+<br>
+
+
+## Articulation
+
+
+<br>
+
+
+## Effects
+
+
+<br>
+
+
+## Origins
+
+### Emergence
+
+### Etymologics
+Greek **τυφλός** *tuphlós* ‘blind’ + **σέλᾰς** *sélas* ‘light, shine’ + Latin ***-are***
+
+
+<br>
+
+
+## Trivia
