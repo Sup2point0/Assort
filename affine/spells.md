@@ -2,10 +2,10 @@
 
 | spell | incantyzation | effects |
 | :---- | :------------ | :------ |
-| [darkchoke curse](spells/asphyxiskotadi.md) | *asphyxiskotadi* | suffocates target in darkness |
-| [protive shockwave](spells/volektrepis%20kinasphyzos.md) | *volektrepis kinasphyzos* | |
-| [–](spells/tyfloselare.md) | *tyfloselare* | |
 | [vision-sharpening charm](spells/akonizorasi.md) | *akonizorasi* | enhances vision |
+| [darkchoke curse](spells/asphyxiskotadi.md) | *asphyxiskotadi* | suffocates target in darkness |
+| [–](spells/tyfloselare.md) | *tyfloselare* | |
+| [protive shockwave](spells/volektrepis%20kinasphyzos.md) | *volektrepis kinasphyzos* | |
 
 
 <br>
