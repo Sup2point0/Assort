@@ -101,7 +101,7 @@
 | [tychis](affinitys/tychis.md) | tychus, felixus | luck |
 | [vitakinetis](affinitys/vitakinetis.md) | vitakinetic | life control |
 | [kenokinetis](affinitys/kenokinetis.md) | kenokinetic | void manipulation |
-| [kalyptis](affinitys/kalyptis.md | kalyptron, sentinel, warden | affinity hindering |
+| [kalyptis](affinitys/kalyptis.md) | kalyptron, sentinel, warden | affinity hindering |
 
 nightwalker
 shadow-walker
