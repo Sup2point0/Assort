@@ -2,6 +2,7 @@
 
 {desc}
 
+
 <table>
   <tr>
     <th colspan="2"> <h3> Darkchoke Curse </h3> </th>
@@ -57,3 +58,6 @@ The initial strike can have varying effects for different victens, usually a (qu
 
 ### Etymologics
 Greek **ασφυξία** *asphuxíā* ‘suffocation’ + **σκοτάδι** *skotádi* ‘darkness’
+
+
+## Trivia
