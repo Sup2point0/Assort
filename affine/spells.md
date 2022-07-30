@@ -42,7 +42,7 @@ Unlike other spells affected by drive, with the Darkchoke curse emotion plays no
 The initial strike can have varying effects for different victens, usually a (quasi-paralyzing) jolt of anxiety, panic, or fear; pain is often perceived.
 
 ### Etymologics
-*unknown* » Greek **ασφυξία** *asphuxíā* ‘suffocation’ + **σκοτάδι** *skotádi* ‘darkness’
+Greek **ασφυξία** *asphuxíā* ‘suffocation’ + **σκοτάδι** *skotádi* ‘darkness’
 
 
 <br>
@@ -97,7 +97,10 @@ The initial strike can have varying effects for different victens, usually a (qu
 </table>
 
 ### Etymologics
-*unknown* » Greek **τυφλός** *tuphlós* ‘blind’ + **σέλᾰς** *sélas* ‘light, shine’ + Latin ***-are***
+Greek **τυφλός** *tuphlós* ‘blind’ + **σέλᾰς** *sélas* ‘light, shine’ + Latin ***-are***
+
+
+<br>
 
 
 ## Vision-Sharpening Charm
@@ -124,4 +127,4 @@ The initial strike can have varying effects for different victens, usually a (qu
 ### Effects
 
 ### Etymologics
-*unknown* » Greek **ακονίζω** *akonízo* ‘sharpen’ + **ὅρᾱσῐς** *hórāsia* ‘sight’
+Greek **ακονίζω** *akonízo* ‘sharpen’ + **ὅρᾱσῐς** *hórāsia* ‘sight’
