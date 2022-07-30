@@ -1,4 +1,4 @@
-# Magical Spells
+# Affinical Spells
 
 Spells I’ve created.
 
