@@ -56,5 +56,64 @@
 | | Galactron MK-4X |
 | | Galactron MK-X |
 
+### Generation Deltron
+
+| MK Arc | MX Arc |
+| :----- | :----- |
+| Galactron MK-5 | |
+| Galactron MK-7 | |
+| Galactron MK-8 | |
+| | Galactron MX-1CT |
+| | Galactron MX-2 |
+| | Galactron MX-3 |
+| | Galactron MX-4 Ultimate |
+
+### Generation Iotron
+
+### Generation Orbitron
+
+| GLX Arc |
+| :------ |
+| Galactron GLX Primitive |
+| Galactron GLX Primordial |
+| Galactron GLX Prime |
+| Galaxtron GLX Protector |
+
+
+<br>
+
 
 ## Spacecraft
+
+### Generation Andron
+
+| Dragon | Dragonix | Star |
+| :----- | :------- | :--- |
+| Galactron Dragon ATX | | |
+| Galactron Dragon ATX-II | | |
+| Galactron Dragon ATX-R | | |
+| | Galactron Dragonix GX | |
+| | Galactron Dragonix GX-V | |
+| | | Galactron Star Dragon |
+| | | Galactron Star Knight |
+| | | Galactron Star Legend |
+
+### Generation Cygnon
+
+| | Stargazer |
+| | :-------- |
+| | Galactron Stargazer ETX |
+| | Galactron Stargazer ETX-II |
+| | Galactron Stargazer ETX-III |
+| | Galactron Stargazer LEETEX-4 |
+
+
+<br>
+
+
+## Landcraft
+
+<table>
+  <td> Galactron GT </td>
+  <td> Galactron GTX </td>
+</table>
