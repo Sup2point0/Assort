@@ -60,4 +60,7 @@ The initial strike can have varying effects for different victens, usually a (qu
 Greek **ασφυξία** *asphuxíā* ‘suffocation’ + **σκοτάδι** *skotádi* ‘darkness’
 
 
+<br>
+
+
 ## Trivia
