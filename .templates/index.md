@@ -13,7 +13,7 @@
 </details>
 
 
-[]() – []()  
+<br>
 
 
 ## word
@@ -61,3 +61,36 @@
 
 
 <br>
+
+
+## spell
+
+{desc}
+
+<table>
+  <tr>
+    <th align="left"> class </th>
+    <td> – </td>
+  </th>
+  <tr>
+    <th align="left"> incantyzation </th>
+    <td> <em> – </em> </td>
+  </tr>
+  <tr>
+    <th align="left"> pronouncyzation </th>
+    <td> <code> – </code> </td>
+  </tr>
+</table>
+
+### Articulation
+
+### Effects
+
+### Etymologics
+– » Greek **–** *–* ‘’
+
+
+<br>
+
+
+[]() – []()  
