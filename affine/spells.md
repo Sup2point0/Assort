@@ -11,37 +11,6 @@
 <br>
 
 
-## Protive Shockwave
-
-{desc}
-
-<table>
-  <tr>
-    <th align="left"> class </th>
-    <td> – </td>
-  </th>
-  <tr>
-    <th align="left"> incantyzation </th>
-    <td> <em> volektrepis kinasphyzos </em> </td>
-  </tr>
-  <tr>
-    <th align="left"> pronouncyzation </th>
-    <td> <code> – </code> </td>
-  </tr>
-</table>
-
-### Articulation
-
-### Effects
-
-### Etymologics
-*volektrepis* » Greek **βολή** *bolḗ* ‘shot, throw’ + εκτρέπω** *ektrépo* ‘deflect, swerve’
-*kinasphyzos* » Greek **κινώ** *kinó* ‘move’ + **σφῠγμός** *sphugmós* ‘pulse’
-
-
-<br>
-
-
 ## tyfloselare
 
 <table>
@@ -65,29 +34,3 @@ Greek **τυφλός** *tuphlós* ‘blind’ + **σέλᾰς** *sélas* ‘ligh
 
 <br>
 
-
-## Vision-Sharpening Charm
-
-{desc}
-
-<table>
-  <tr>
-    <th align="left"> class </th>
-    <td> charm </td>
-  </th>
-  <tr>
-    <th align="left"> incantyzation </th>
-    <td> <em> akonizorasi </em> </td>
-  </tr>
-  <tr>
-    <th align="left"> pronouncyzation </th>
-    <td> <code> – </code> </td>
-  </tr>
-</table>
-
-### Articulation
-
-### Effects
-
-### Etymologics
-Greek **ακονίζω** *akonízo* ‘sharpen’ + **ὅρᾱσῐς** *hórāsia* ‘sight’
