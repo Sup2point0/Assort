@@ -74,10 +74,7 @@
 
 | GLX Arc |
 | :------ |
-| Galactron GLX Primitive |
-| Galactron GLX Primordial |
-| Galactron GLX Prime |
-| Galaxtron GLX Protector |
+| Galactron GLX Primitive <br> Galactron GLX Primordial <br> Galactron GLX Prime <br> Galaxtron GLX Protector |
 
 
 <br>
@@ -117,6 +114,10 @@
 ## Landcraft
 
 <table>
-  <tr> Galactron GT </tr>
-  <tr> Galactron GTX </tr>
+  <tr>
+    <td>
+      Galactron GT
+      Galactron GTX
+    </td>
+  </tr>
 </table>
