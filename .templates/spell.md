@@ -45,4 +45,11 @@
 
 
 ## Origins
+
+### Emergence
+
+### Etymologics
 Greek **–** *–* ‘’
+
+
+## Trivia
