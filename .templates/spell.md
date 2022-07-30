@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td> pronouncyzation </td>
-    <td> <code> – </code> </td>
+    <td> <code> /–/ </code> </td>
   </tr>
 </table>
 
