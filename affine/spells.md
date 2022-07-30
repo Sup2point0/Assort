@@ -16,6 +16,8 @@ Spells I’ve created.
 
 ## Darkchoke Curse
 
+{...}
+
 <table>
   <tr>
     <th align="left"> class </th>
@@ -46,6 +48,37 @@ The initial strike can have varying effects for different victens, usually a (qu
 <br>
 
 
+## Protive Shockwave
+
+{desc}
+
+<table>
+  <tr>
+    <th align="left"> class </th>
+    <td> – </td>
+  </th>
+  <tr>
+    <th align="left"> incantyzation </th>
+    <td> <em> volektrepis kinasphyzos </em> </td>
+  </tr>
+  <tr>
+    <th align="left"> pronouncyzation </th>
+    <td> <code> – </code> </td>
+  </tr>
+</table>
+
+### Articulation
+
+### Effects
+
+### Etymologics
+*volektrepis* » Greek **βολή** *bolḗ* ‘shot, throw’ + εκτρέπω** *ektrépo* ‘deflect, swerve’
+*kinasphyzos* » Greek **κινώ** *kinó* ‘move’ + **σφῠγμός** *sphugmós* ‘pulse’
+
+
+<br>
+
+
 ## tyfloselare
 
 <table>
@@ -65,3 +98,30 @@ The initial strike can have varying effects for different victens, usually a (qu
 
 ### Etymologics
 *unknown* » Greek **τυφλός** *tuphlós* ‘blind’ + **σέλᾰς** *sélas* ‘light, shine’ + Latin ***-are***
+
+
+## Vision-Sharpening Charm
+
+{desc}
+
+<table>
+  <tr>
+    <th align="left"> class </th>
+    <td> charm </td>
+  </th>
+  <tr>
+    <th align="left"> incantyzation </th>
+    <td> <em> akonizorasi </em> </td>
+  </tr>
+  <tr>
+    <th align="left"> pronouncyzation </th>
+    <td> <code> – </code> </td>
+  </tr>
+</table>
+
+### Articulation
+
+### Effects
+
+### Etymologics
+*unknown* » Greek **ακονίζω** *akonízo* ‘sharpen’ + **ὅρᾱσῐς** *hórāsia* ‘sight’
