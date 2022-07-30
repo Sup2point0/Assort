@@ -2,11 +2,15 @@
 
 *Affine* – magic or supernaturalism – is a phenomenon present in certain xeriques, in particular the Supxerique.
 
-For a full list of affinitys, see [affinitys](affinitys.md). Here are some cool ones to check out first!
+See [affinitys](affinitys.md) for a full list of affinitys, or [spells](spells.md) for a list of affinical spells. Here are some cool ones to check out first!
 
 &emsp; [koniokinetis](affinitys/koniokinetics.md)  
 &emsp; [novis](affinitys/novis.md)  
 &emsp; [vitalis](affinitys/vitalis.md)
+
+&emsp; [asphyxiskotadi](spells/asphyxiskotadi.md)
+&emsp; [volektrepis kinasphyzos](spells/volektrepis%20kinasphyzos.md)
+&emsp; [tyfloselare](spells/tyfloselare.md)
 
 
 <br>
