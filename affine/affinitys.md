@@ -6,6 +6,7 @@
 | [aerokinetis](affinitys/aerokinetis.md) | aerokinetic, gust | air control |
 | [affectokinetis](affinitys/affectokinetis.md) | affectokinetic, affectic | emotion control |
 | [affectosynchronis](affinitys/affectosynchronis.md) | affectosynchronic, affectus | emotion sense |
+| [affinokinetis](affinitys/affinokinetis.md) | affinokinetic | affine control |
 | [agilitis](affinitys/agilitis.md) | agilitus, silk | agility |
 | [amatokinetis](affinitys/amatokinetis.md) | amatokinetis, amaros | love control |
 | [anemokinetis](affinitys/anemokinetis.md) | anemokinetic, windweaver | wind control |
@@ -65,6 +66,7 @@
 | [protis](affinitys/protis.md) | protus, shielder | shield generation |
 | [psychosynchronis](affinitys/psychosynchronis.md) | psychosynchronic | mental sensing, control |
 | [pyrokinetis](affinitys/pyrokinetis.md) | pyrokinetic | fire control |
+| [quakis](affinitys/quakis.md) | quake, ground/earth-braker/shaker | earthquake control |
 | [secaris](affinitys/secaris.md) | secarus, slasher | mental cutting |
 | [sensis](affinitys/sensis.md) | sensus, sensorus | enhanced senses |
 | [sensokinetis](affinitys/sensokinetis.md) | sensokinetic | sense control |
@@ -98,11 +100,8 @@
 | [superis](affinitys/superis.md) | superior | affinity learning |
 | [tychis](affinitys/tychis.md) | tychus, felixus | luck |
 | [vitakinetis](affinitys/vitakinetis.md) | vitakinetic | life control |
-| [void](affinitys/void.md) | – | void manipulation |
-| – | sentinel, warden | affinity hindering |
-
-
-quake, ground/earth-shaker/breaker
+| [kenokinetis](affinitys/kenokinetis.md) | kenokinetic | void manipulation |
+| [kalyptis](affinitys/kalyptis.md | kalyptron, sentinel, warden | affinity hindering |
 
 nightwalker
 shadow-walker
