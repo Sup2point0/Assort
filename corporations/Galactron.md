@@ -100,12 +100,15 @@
 
 ### Generation Cygnon
 
-| | Stargazer |
-| | :-------- |
+| Pioneer | Stargazer |
+| :------ | :-------- |
+| Galactron Pioneer Prota | |
+| Galactron Pioneer Delta | |
 | | Galactron Stargazer ETX |
 | | Galactron Stargazer ETX-II |
 | | Galactron Stargazer ETX-III |
 | | Galactron Stargazer LEETEX-4 |
+| Galactron Pioneer Zeta | |
 
 
 <br>
@@ -114,6 +117,6 @@
 ## Landcraft
 
 <table>
-  <td> Galactron GT </td>
-  <td> Galactron GTX </td>
+  <tr> Galactron GT </tr>
+  <tr> Galactron GTX </tr>
 </table>
