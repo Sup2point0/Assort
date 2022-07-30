@@ -19,6 +19,7 @@
 | [bluestone](elements/bluestone.md) | Bs |
 | [cavium](elements/cavium.md) | Mc |
 | [celestium](elements/celestium.md) | Cs |
+| [ceruline](elements/ceruline.md) | Ce |
 | [cryzelium](elements/cryzelium.md) | Cz |
 | [cykerium](elements/cykerium.md) | Cy |
 | [cypton](elements/cypton.md) | C |
