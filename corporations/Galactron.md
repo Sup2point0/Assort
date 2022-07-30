@@ -116,7 +116,7 @@
 <table>
   <tr>
     <td>
-      Galactron GT
+      Galactron GT <br>
       Galactron GTX
     </td>
   </tr>
