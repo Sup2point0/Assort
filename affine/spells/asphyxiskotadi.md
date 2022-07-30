@@ -25,7 +25,7 @@ A deadly curse that paralyzes victens, invoking perceived suffocation in darknes
   </tr>
   <tr>
     <td> pronouncyzation </td>
-    <td> <code> asˌfɪksɪskəˈtɑːdiː </code> </td>
+    <td> <code> /asˌfɪksɪskəˈtɑːdiː/ </code> </td>
   </tr>
 </table>
 
