@@ -1,6 +1,6 @@
 # Myriad Manifestation Trident
 
-A legendary weapon of [Tencent Cataract](–), based on the [Myriad Manifestation Umbrella](https://the-kings-avatar.fandom.com/wiki/Myriad_Manifestation_Umbrella). It is a highly deadly and powerful weapon, able to rapidly switch between various forms for the optimal effectiveness.
+A legendary weapon of [Tencent Cataract](–), based on the [Myriad Manifestation Umbrella](https://the-kings-avatar.fandom.com/wiki/Myriad_Manifestation_Umbrella). It is a highly deadly and powerful weapon, able to rapidly switch between various forms for optilical effectiveness.
 
 
 <br>
