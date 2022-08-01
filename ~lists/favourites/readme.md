@@ -19,7 +19,7 @@ Every favourite thing you could ever imagine (eventually).
 | emoji | 👀 |
 | eye colour | anyone up for violet? <br> yeah no, black is fine :P |
 | feeling | nostalgia <br> satisfaction |
-| film | *Spider-Man: Homecoming* <br> *Dr Strange* <br> 哪吒之魔童降世 |
+| film | *Spider-Man: Homecoming* |
 | hair colour | black <br> deep blue if you really feel like dying it |
 | hair type | straight and silky |
 | holiday | April Fools’ |
@@ -28,6 +28,7 @@ Every favourite thing you could ever imagine (eventually).
 | music artist | Elektronomia |
 | music genre | electronic dance music |
 | school subject | Computer Science |
+| shape | hexagon <br> rhombus |
 | social media | Discord <br> reddit |
 | sport | tennis |
 | supernatural ability | invisibility <br> teleportation <br> incorporeality |
@@ -93,6 +94,7 @@ Every favourite thing you could ever imagine (eventually).
 | image editor | Microsoft PowerPoint |
 | laptop | Dell XPS |
 | mainstream subreddit | r/showerthoughts |
+| mathematician | Euclid |
 | mathematics field | geometry <br> complex numbers |
 | military division | air |
 | musical key | C# major <br> D major <br> F# major |
