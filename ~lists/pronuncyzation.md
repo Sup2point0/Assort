@@ -13,6 +13,8 @@ Some words I first encountered through only text, and so devyzed my own pronunci
 
 ### polypropylene
 
+### propadiene, propadione
+
 ### psychiatry
 
 ### symbolism
