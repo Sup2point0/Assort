@@ -101,11 +101,11 @@
     <td> low </td>
   </tr>
   <tr>
-    <td> derivation </td>
+    <td> deryzation </td>
     <td> prime </td>
   </tr>
   <tr>
-    <td> derivatives </td>
+    <td> deryzatives </td>
     <td> <a href="novis.md">novis</a> </td>
   </tr>
   <tr>
