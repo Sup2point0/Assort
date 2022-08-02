@@ -5,14 +5,14 @@
 | [accelis](affinitys/superspeed.md) | accelus, swift | superfast movements |
 | [aerokinetis](affinitys/aerokinetis.md) | aerokinetic, gust | air control |
 | [affectokinetis](affinitys/affectokinetis.md) | affectokinetic, affectic | emotion control |
-| [affectosynchronis](affinitys/affectosynchronis.md) | affectosynchronic, affectus | emotion sense |
+| [affectis](affinitys/affectis.md) | affectus, affectosynchronic | emotion sense |
 | [affinokinetis](affinitys/affinokinetis.md) | affinokinetic | affine control |
 | [agilitis](affinitys/agilitis.md) | agilitus, silk | agility |
 | [amatokinetis](affinitys/amatokinetis.md) | amatokinetis, amaros | love control |
 | [anemokinetis](affinitys/anemokinetis.md) | anemokinetic, windweaver | wind control |
 | [antevitalis](affinitys/antevitalis.md) | antevitalus | negative health control |
-| [autoduplication](affinitys/autoduplication.md) | autoduplicator, cloner | self duplication |
-| [automorphis](affinitys/metamorphis.md) | automorphus, shapeshifter | self appearance alteration |
+| [autoduplis](affinitys/autoduplis.md) | autoduplist, cloner | self duplication |
+| [automorphis](affinitys/metamorphis.md) | automorphist, shapeshifter | self appearance alteration |
 | [autovitalis](affinitys/autovitalis.md) | autovitalus | self healer |
 | [biogenetis](affinitys/biogenetis.md) | biogenetic | organic creation |
 | [biokinetis](affinitys/biokinetis.md) | biokinetic | organic control |
@@ -20,14 +20,14 @@
 | [bonebreaking](affinitys/bonebreaking.md) | bonebreaker | break bones |
 | [camoflage](affinitys/camoflage.md) | – | blend in with surroundings |
 | [chronosynchronis](affinitys/chronosynchronis.md) | chronosynchronic, seer, eye | future sensing |
-| [cincinnis](affinitys/cincinnic.md) | cincinnic, key | lock control |
-| [conjuris](affinitys/conjuris.md) | conjurus, conjurer | object conjuration |
+| [cincinnis](affinitys/cincinnic.md) | cincinnus, key | lock control |
+| [conjuris](affinitys/conjuris.md) | conjurist | object conjuration |
 | [cryokinetis](affinitys/cryokinetis.md) | cryokinetic, shiver | control ice |
 | [cuteness](affinitys/cuteness.md) | cutiepie | weaponyzed cuteness |
 | [cytokinetis](affinitys/cytokinetis.md) | cytokinetic | cell control |
 | [cognitris](affinitys/cognitris.md) | cognitron | perfect memory |
 | [druidity](affinitys/druidity.md) | druid | animal control |
-| [duplication](affinitys/duplication.md) | duplicator, multiplyer | object duplication |
+| [duplis](affinitys/duplis.md) | duplist, duplicator, multiplyer | object duplication |
 | [electrokinetis](affinitys/electrokinetis.md) | electrokinetic, electricon | electricity control |
 | [elementis](affinitys/elementalis.md) | elemental | elemental control |
 | [energis](affinitys/energis.md) | energist | infinite energy |
@@ -35,6 +35,7 @@
 | [ergokinetis](affinitys/ergokinetis.md) | ergokinetic | energy control |
 | [explodokinetis](affinitys/explodokinetis.md) | explodokinetic, bomber | explosion control |
 | [externis](affinitys/externis.md) | externus | alter material composition |
+| [extomorphis](affinitys/extomorphis.md) | morphist | appearance alteration |
 | [florokinetis](affinitys/florokinetis.md) | florokinetic | flower and scent control |
 | [fortis](affinitys/fortis.md) | fortus, wrecker | super strength |
 | [forzakinetis](affinitys/forzakinetis.md) | forzakinetic, force | force control |
@@ -43,16 +44,15 @@
 | [gyrokinetis](affinitys/gyrokinetis.md) | gyrokinetic, wall-walker | shift centre of gravity |
 | [hydrokinetis](affinitys/hydrokinetis.md) | hydrokinetic, nymph | water control |
 | [illusionis](affinitys/illusionis.md) | illusionist | illusion control |
-| [incorporealis](affinitys/incorporealis.md) | spectre | turn self incorporeal |
+| [incorporealis](affinitys/incorporealis.md) | incorporealist, spectre | turn self incorporeal |
 | [internis](affinitys/internis.md) | internus | alter own body material |
-| [invictis](affinitys/invictis.md) | invictus, impervious | impervious to harm |
-| [invisibility](affinitys/invisibility.md) | invisitron | turn invisible or incorporeal |
+| [invictis](affinitys/invictis.md) | invictus, impervus | impervious to harm |
+| [invis](affinitys/invis.md) | invisitron | turn invisible or incorporeal |
 | [koniokinetis](affinitys/koniokinetis.md) | koniokinetic | dust control |
 | [laservision](affinitys/laservision.md) | lasitron | shooting lasers from eyes |
-| [flight](affinitys/flight.md) | levitron | fly |
+| [levis](affinitys/levis.md) | levitron | fly |
 | [metallokinetis](affinitys/metallokinetis.md) | metallokinetic, magnetron | metal control |
 | [metakinetis](affinitys/metakinetis.md) | metakinetic | weather control |
-| [extomorphis](affinitys/extomorphis.md) | morphus | appearance alteration |
 | [necromancy](affinitys/necromancy.md) | necromancer | dead control |
 | [necronaucy](affinitys/necronaucy.md) | necronaut | dead communication |
 | [nocturnis](affinitys/nocturnis.md) | nocturnus | night vision |
@@ -61,7 +61,7 @@
 | [obscuris](affinitys/obscurus.md) | obscurus | – |
 | [photokinetis](affinitys/photokinetis.md) | photokinetic | light control |
 | [phytokinetis](affinitys/phytokinetis.md) | phytokinetic | plant control |
-| [plagis](affinitys/plagis.md) | poison | poison control |
+| [plagis](affinitys/plagis.md) | plagist, poison | poison control |
 | [portagenetis](affinitys/portagenetis.md) | porter | portal creation |
 | [portalis](affinitys/portalis.md) | portalus | object teleportation |
 | [protis](affinitys/protis.md) | protus, shielder | shield generation |
@@ -73,7 +73,7 @@
 | [sensokinetis](affinitys/sensokinetis.md) | sensokinetic | sense control |
 | [sensosynchronis](affinitys/sensosynchronis.md) | sensosynchronic | sense others’ senses |
 | [serikinetis](affinitys/serikinetis.md) | serikinetic, weaver | silk shooting |
-| [somnis](affinitys/somnis.md) | somnos | sleep control |
+| [somnis](affinitys/somnis.md) | somnist | sleep control |
 | [sonis](affinitys/sonis.md) | sonus | sound enchantment |
 | [sonokinetis](affinitys/sonokinetis.md) | sonokinetic | sound control |
 | [technokinetis](affinitys/technokinetis.md) | technokinetic, techy | technological control |
@@ -95,7 +95,7 @@
 | :------------ | :------------- | :------ |
 | [aeternis](affinitys/aeternis.md) | aeternus, eternal | alter own age |
 | [affinitis](affinitys/affinitis.md) | affinitus | affinity copying |
-| [chronokinetis](affinitys/chronokinetis.md) | chronokinetic | time control |
+| [kronis](affinitys/kronis.md) | kronus, chronokinetic | time control |
 | [legacy](affinitys/legacy.md) | legend, legatron | affinity gifting |
 | [psychokinetis](affinitys/psychokinetis.md) | psychokinetic, whisper | mind control |
 | [superis](affinitys/superis.md) | superior | affinity learning |
