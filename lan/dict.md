@@ -13,39 +13,40 @@ A dictionary of all the fictional words I’ve created.
 
 <table>
   <td>
-    <a href="#affine"> affine </a> <br>
-    <a href="#affinical"> affinical </a> <br>
-    <a href="#affinics"> affinics </a> <br>
-    <a href="#affinitic"> affinitic </a> <br>
-    <a href="#affinitical"> affinitical </a> <br>
-    <a href="#affinitics"> affinitics </a> <br>
-    <a href="#affinity"> affinity </a> <br>
-    <a href="#affinyze"> affinyze </a> <br>
-    <a href="#antect"> antect </a> <br>
-    <a href="#antic"> antic </a> <br>
-    <a href="#avricop"> avricop </a> <br>
-    <a href="#antectical"> antectical </a> <br>
-    <a href="#antectics"> antectics </a> <br>
-    <a href="#concyze"> concyze </a> <br>
-    <a href="#crabatista"> crabatista </a> <br>
-    <a href="#decant"> decant </a> <br>
-    <a href="#decate"> decate </a> <br>
-    <a href="#deuteric"> deuteric </a> <br>
-    <a href="#deuterive"> deuterive </a> <br>
-    <a href="#didecant"> didecant </a> <br>
-    <a href="#eximplode"> eximplode </a> <br>
-    <a href="#greencorn"> greencorn </a> <br>
-    <a href="#lynt"> lynt </a> <br>
-    <a href="#protic"> protic </a> <br>
-    <a href="#protive"> protive </a> <br>
-    <a href="#spectrus"> spectrus </a> <br>
-    <a href="#sylonautilla"> sylonautilla </a> <br>
-    <a href="#synthevetix"> synthevetix </a> <br>
-    <a href="#xenic"> xenic </a> <br>
-    <a href="#xenical"> xenical </a> <br>
-    <a href="#xerique"> xerique </a> <br>
-    <a href="##"> – </a> <br>
-    <a href="##"> – </a>
+    <a href="#affine">affine</a> <br>
+    <a href="#affinical">affinical</a> <br>
+    <a href="#affinics">affinics</a> <br>
+    <a href="#affinitic">affinitic</a> <br>
+    <a href="#affinitical">affinitical</a> <br>
+    <a href="#affinitics">affinitics</a> <br>
+    <a href="#affinity">affinity</a> <br>
+    <a href="#affinyze">affinyze</a> <br>
+    <a href="#antect">antect</a> <br>
+    <a href="#antic">antic</a> <br>
+    <a href="#avricop">avricop</a> <br>
+    <a href="#antectical">antectical</a> <br>
+    <a href="#antectics">antectics</a> <br>
+    <a href="#concyze">concyze</a> <br>
+    <a href="#crabatista">crabatista</a> <br>
+    <a href="#decant">decant</a> <br>
+    <a href="#decate">decate</a> <br>
+    <a href="#deuteric">deuteric</a> <br>
+    <a href="#deuterive">deuterive</a> <br>
+    <a href="#didecant">didecant</a> <br>
+    <a href="#eximplode">eximplode</a> <br>
+    <a href="#greencorn">greencorn</a> <br>
+    <a href="#lynt">lynt</a> <br>
+    <a href="#protic">protic</a> <br>
+    <a href="#protive">protive</a> <br>
+    <a href="#spectrus">spectrus</a> <br>
+    <a href="#sylonautilla">sylonautilla</a> <br>
+    <a href="#synthevetix">synthevetix</a> <br>
+    <a href="#tersolle">tersolle</a> <br>
+    <a href="#xenic">xenic</a> <br>
+    <a href="#xenical">xenical</a> <br>
+    <a href="#xerique">xerique</a> <br>
+    <a href="##">–</a> <br>
+    <a href="##">–</a>
   </td>
 </table>
 
