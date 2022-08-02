@@ -132,7 +132,7 @@ One of the oldest affinitys, the ability to render oneself invisible.
 
 | class | term | pronunciation | etymologics |
 | :---- | :--- | :------------ | :---------- |
-| affinity | ***invis*** | `/ɪnvɪz/` | English ***invisibility*** |
+| affinity | ***invis*** | `/ɪn'vɪz/` | English ***invisibility*** |
 | affinitic | **invisitron** | `/ɪn'vɪzɪtrɒn/` | English ***invisibility*** + Antarctican ***-tron*** ‘affinitic’ |
 
 | affinity | *invisibilis* | `/ɪnvɪzɪ'bɪlɪs/` | English ***invisibility*** + Antarctican ***-is*** ‘affinity’ |
