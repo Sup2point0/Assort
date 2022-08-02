@@ -102,7 +102,7 @@
   </tr>
   <tr>
     <td> deryzation </td>
-    <td> prime </td>
+    <td> <a href="../readme.md#prime">prime</a> </td>
   </tr>
   <tr>
     <td> deryzatives </td>
