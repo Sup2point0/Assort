@@ -14,19 +14,19 @@ One of the oldest affinitys, the ability to render oneself invisible.
     <td> turn self invisible </td>
   </tr>
   <tr>
-    <td> <a href="../readme.md#types"> type </a> </td>
-    <td> <a href="../readme.md#self-manipulation"> self manipulation </a> </td>
+    <td> <a href="../readme.md#types">type</a> </td>
+    <td> <a href="../readme.md#self-manipulation">self manipulation</a> </td>
   </tr>
   <tr>
-    <td> <a href="../readme.md#attributes"> attribute </a> </td>
+    <td> <a href="../readme.md#attributes">attribute</a> </td>
     <td> none </td>
   </tr>
   <tr>
-    <td> <a href="../readme.md#channels"> channels </a> </td>
-    <td> <a href="../readme.md#innate"> innate </a> </td>
+    <td> <a href="../readme.md#channels">channels</a> </td>
+    <td> <a href="../readme.md#innate">innate</a> </td>
   </tr>
   <tr>
-    <td> <a href="../readme.md#classes"> classes </a> </td>
+    <td> <a href="../readme.md#classes">classes</a> </td>
     <td> none </td>
   </tr>
   <tr>
@@ -68,7 +68,7 @@ One of the oldest affinitys, the ability to render oneself invisible.
     <td> very high </td>
   </tr>
   <tr>
-    <td> <a href="../readme.md#finesse"> finesse </a> </td>
+    <td> <a href="../readme.md#finesse">finesse</a> </td>
     <td> very high </td>
   </tr>
   <tr>
@@ -76,15 +76,15 @@ One of the oldest affinitys, the ability to render oneself invisible.
     <td> self </td>
   </tr>
   <tr>
-    <td> <a href="../readme.md#harmony"> harmony </a> </td>
+    <td> <a href="../readme.md#harmony">harmony</a> </td>
     <td> very high </td>
   </tr>
   <tr>
-    <td> <a href="../readme.md#synchrony"> synchrony </a> </td>
+    <td> <a href="../readme.md#synchrony">synchrony</a> </td>
     <td> extremely high </td>
   </tr>
   <tr>
-    <td> <a href="../readme.md#enhancement"> enhancement </a> </td>
+    <td> <a href="../readme.md#enhancement">enhancement</a> </td>
     <td> very low </td>
   </tr>
   <tr>
@@ -103,16 +103,16 @@ One of the oldest affinitys, the ability to render oneself invisible.
     <td> mediocre </td>
   </tr>
   <tr>
-    <td> derivation </td>
-    <td> <a href="../readme.md#prime"> prime </a> </td>
+    <td> deryzation </td>
+    <td> <a href="../readme.md#prime">prime</a> </td>
   </tr>
   <tr>
-    <td> derivatives </td>
-    <td> <a href="novis.md"> novis </a> </td>
+    <td> deryzatives </td>
+    <td> <a href="novis.md">novis</a> </td>
   </tr>
   <tr>
     <td> related </td>
-    <td> <a href="flight.md">flight</a>, <a href="camoflage.md">camoflage</a> </td>
+    <td> <a href="flight.md">flight</a>, <a href="camoflage.md">amoflage</a> </td>
   </tr>
 </table>
 
@@ -122,18 +122,20 @@ One of the oldest affinitys, the ability to render oneself invisible.
 
 ## Nomenclature
 
-### Standard
+### Colloquial
 
 | class | term | pronunciation | etymologics |
 | :---- | :--- | :------------ | :---------- |
 | affinity | invisibility | `/ɪnvɪzɪ'bɪlɪti/` | English ***invisibility*** |
-| affinitic | invisitron | `/ɪn'vɪzɪtrɒn/` | English ***invisibility*** + Antarctican ***-tron*** ‘affinitic’ |
 
-### Classification
+### Absolute
 
 | class | term | pronunciation | etymologics |
 | :---- | :--- | :------------ | :---------- |
-| affinity | *invisibilis* | /ɪnvɪzɪ'bɪlɪs/ | English ***invisibility*** + Antarctican ***-is*** ‘affinity’ |
+| affinity | ***invis*** | `/ɪnvɪz/` | English ***invisibility*** |
+| affinitic | **invisitron** | `/ɪn'vɪzɪtrɒn/` | English ***invisibility*** + Antarctican ***-tron*** ‘affinitic’ |
+
+| affinity | *invisibilis* | `/ɪnvɪzɪ'bɪlɪs/` | English ***invisibility*** + Antarctican ***-is*** ‘affinity’ |
 
 
 <br>
