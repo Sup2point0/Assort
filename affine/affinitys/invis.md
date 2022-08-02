@@ -33,7 +33,7 @@ One of the oldest affinitys, the ability to render oneself invisible.
     <th colspan="2"> <h4> Nomenclature </h4> </th>
   </tr>
   <tr>
-    <td> pronuncyzation </td>
+    <td> pronouncyzation </td>
     <td> <code> /ɪn'vɪz/ </code> </td>
   </tr>
   <tr>
@@ -41,7 +41,7 @@ One of the oldest affinitys, the ability to render oneself invisible.
     <td> <em>invisibility</em>, <em>invisibilis</em> </td>
   </tr>
   <tr>
-    <td> pronuncyzation </td>
+    <td> pronouncyzation </td>
     <td> <code> /ɪnvɪzɪ'bɪlɪti/ </code>, <code> /ɪnvɪzɪ'bɪlɪs/ </code> </td>
   </tr>
   <tr>
@@ -49,7 +49,7 @@ One of the oldest affinitys, the ability to render oneself invisible.
     <td> invisitron </td>
   </tr>
   <tr>
-    <td> pronunciation </td>
+    <td> pronouncyzation </td>
     <td> <code> /ɪn'vɪzɪtrɒn/ </code> </td>
   </tr>
   <tr>
