@@ -55,6 +55,7 @@
 | [extomorphis](affinitys/extomorphis.md) | morphus | appearance alteration |
 | [necromancy](affinitys/necromancy.md) | necromancer | dead control |
 | [necronaucy](affinitys/necronaucy.md) | necronaut | dead communication |
+| [nocturnis](affinitys/nocturnis.md) | nocturnus | night vision |
 | [novis](affinitys/novis.md) | novus | turn objects invisible or incorporeal |
 | [oblivius](affinitys/oblivius.md) | oblivion | item decay |
 | [obscuris](affinitys/obscurus.md) | obscurus | – |
