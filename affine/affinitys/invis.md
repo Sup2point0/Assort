@@ -1,4 +1,4 @@
-# Invisibility
+# Invis
 
 > *Not to be confused with [novis](novis.md) (viral invisiblity) or [incorporealis](incorporealis.md) (incorporeality).*
 
@@ -7,7 +7,7 @@ One of the oldest affinitys, the ability to render oneself invisible.
 
 <table>
   <tr>
-    <th colspan="2"> <h3> invisibility </h3> </th>
+    <th colspan="2"> <h3> invis </h3> </th>
   </tr>
   <tr>
     <td> ability </td>
@@ -33,16 +33,16 @@ One of the oldest affinitys, the ability to render oneself invisible.
     <th colspan="2"> <h4> Nomenclature </h4> </th>
   </tr>
   <tr>
-    <td> pronunciation </td>
-    <td> <code> /ɪnvɪzɪ'bɪlɪti/ </code> </td>
+    <td> pronuncyzation </td>
+    <td> <code> /ɪn'vɪz/ </code> </td>
   </tr>
   <tr>
     <td> aliases </td>
-    <td> <em> invisibilis </em> </td>
+    <td> <em>invisibility</em>, <em>invisibilis</em> </td>
   </tr>
   <tr>
-    <td> pronunciation </td>
-    <td> <code> /ɪnvɪzɪ'bɪlɪs/ </code> </td>
+    <td> pronuncyzation </td>
+    <td> <code> /ɪnvɪzɪ'bɪlɪti/ </code>, <code> /ɪnvɪzɪ'bɪlɪs/ </code> </td>
   </tr>
   <tr>
     <td> affinitic </td>
