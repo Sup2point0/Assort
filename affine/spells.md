@@ -13,4 +13,4 @@
 | [–](spells/tyfloselare.md) | *tyfloselare* | dispels stream of blinding light at target |
 | [–](spells/veloskryos.md) | *veloskryos* | |
 | [protive shockwave](spells/volektrepis%20kinasphyzos.md) | *volektrepis kinasphyzos* | |
-| [evincing charm](spells/ypopyphanys.md) | *ypopyphanya* | reveals true nature of target |
+| [evincing charm](spells/ypopyphanys.md) | *ypopyphanys* | reveals true nature of target |
