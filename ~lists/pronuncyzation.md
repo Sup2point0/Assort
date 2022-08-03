@@ -3,18 +3,34 @@ Some words I first encountered through only text, and so devyzed my own pronunci
 
 ## Words I Obstinately Refuse to Pronounce Correctly
 
-### acetic
-
 ### crystalline
+
+`/'krɪst(ə)lʌɪn/` » `/'krɪst(ə)liːn/`
 
 ### disciple
 
+`/dɪ'sʌɪp(ə)l/` » `/'dɪsɪp(ə)l/`
+
 ### -erium
+
+`/ɪərɪəm/` » `/ɛrɪəm/`
+
+### polymerization
+
+`/ˌpɒliːmərʌɪˈzəɪʃ(ə)n/` » `/ˌpɒliːˌmɛrʌɪˈzəɪʃ(ə)n, ˌpɒliːˈmɛrɪzəɪʃ(ə)n/`
 
 ### polypropylene
 
-### propadiene, propadione
+`/ˌpɒlɪˈprəʊpɪliːn/` » `/ˌpɒlɪˈprɒpɪliːn/`
+
+### propadiene
+
+`/proʊpə'dʌɪiːn/` » `/proʊpə'diːn/`
 
 ### psychiatry
 
+`/sʌɪ'kʌɪətri/` » `/ˌsʌɪkiːˈatri/`
+
 ### symbolism
+
+`/'sɪmbəlɪz(ə)m/` » `/sɪm'bɒlɪz(ə)m/`
