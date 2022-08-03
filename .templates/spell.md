@@ -50,7 +50,7 @@
 ### Emergence
 
 ### Etymologics
-Greek **–** *–* ‘’
+Ancient Greek **–** *–* ‘’
 
 
 <br>
