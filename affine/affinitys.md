@@ -4,6 +4,7 @@
 | :------- | :-------- | :------ |
 | [accelis](affinitys/superspeed.md) | accelus, swift | superfast movements |
 | [aerokinetis](affinitys/aerokinetis.md) | aerokinetic, gust | air control |
+| [aeternis](affinitys/aeternis.md) | aeternus, eternal | alter own age |
 | [affectokinetis](affinitys/affectokinetis.md) | affectokinetic, affectic | emotion control |
 | [affectis](affinitys/affectis.md) | affectus, affectosynchronic | emotion sense |
 | [affinokinetis](affinitys/affinokinetis.md) | affinokinetic | affine control |
@@ -32,6 +33,7 @@
 | [elementis](affinitys/elementalis.md) | elemental | elemental control |
 | [energis](affinitys/energis.md) | energist | infinite energy |
 | [enzokinetis](affinitys/enzokinetis.md) | enzokinetic | chemical reaction control |
+| [epipedis](affinitys/epipedis.md) | epipedus | surface walker |
 | [ergokinetis](affinitys/ergokinetis.md) | ergokinetic | energy control |
 | [explodokinetis](affinitys/explodokinetis.md) | explodokinetic, bomber | explosion control |
 | [externis](affinitys/externis.md) | externus | alter material composition |
@@ -58,7 +60,6 @@
 | [nocturnis](affinitys/nocturnis.md) | nocturnus | night vision |
 | [novis](affinitys/novis.md) | novus | turn objects invisible or incorporeal |
 | [oblivius](affinitys/oblivius.md) | oblivion | item decay |
-| [obscuris](affinitys/obscurus.md) | obscurus | – |
 | [photokinetis](affinitys/photokinetis.md) | photokinetic | light control |
 | [phytokinetis](affinitys/phytokinetis.md) | phytokinetic | plant control |
 | [plagis](affinitys/plagis.md) | plagist, poison | poison control |
@@ -93,7 +94,6 @@
 
 | superaffinity | superaffinitic | ability |
 | :------------ | :------------- | :------ |
-| [aeternis](affinitys/aeternis.md) | aeternus, eternal | alter own age |
 | [affinitis](affinitys/affinitis.md) | affinitus | affinity copying |
 | [kronis](affinitys/kronis.md) | kronus, chronokinetic | time control |
 | [legacy](affinitys/legacy.md) | legend, legatron | affinity gifting |
@@ -101,11 +101,5 @@
 | [superis](affinitys/superis.md) | superior | affinity learning |
 | [tychis](affinitys/tychis.md) | tychus, felixus | luck |
 | [vitakinetis](affinitys/vitakinetis.md) | vitakinetic | life control |
-| [kenokinetis](affinitys/kenokinetis.md) | kenokinetic | void manipulation |
+| [obscuris](affinitys/obscuris.md) | obscurus, kenokinetic | void manipulation |
 | [kalyptis](affinitys/kalyptis.md) | kalyptron, sentinel, warden | affinity hindering |
-
-nightwalker
-shadow-walker
-windwalker
-frostwalker
-cloudjumper
