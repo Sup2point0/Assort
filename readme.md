@@ -2,18 +2,24 @@
 
 An assortment of my various creations.
 
-Unsure where to start? Try checking out some of these!
-
-&emsp; [affine](affine)  
-&emsp; [kenzokinetics](kenzokinetics)  
-&emsp; [Ascense](Ascense)  
-
-&emsp; [koniokinetis](affine/affinitys/koniokinetis.md)  
-&emsp; [Ultraman Infinity](Ultraman/Ultraman%20Infinity.md)  
-&emsp; [Myriad Manifestation Trident](~misc/Myriad%20Manifestation%20Trident.md)
-
 
 <br>
+
+
+## Portal
+
+Unsure where to start? Try checking out some of these!
+
+### Folders
+[affine](affine)
+[kenzokinetics](kenzokinetics)
+[Ascense](Ascense)  
+
+### Files
+[koniokinetis](affine/affinitys/koniokinetis.md)  
+[Darkchoke Curse](affine/spells/asphyxiskotadi.md)  
+[Ultraman Infinity](Ultraman/Ultraman%20Infinity.md)  
+[Myriad Manifestation Trident](Myriad%20Manifestation%20Trident.md)  
 
 
 ## Spectrus
