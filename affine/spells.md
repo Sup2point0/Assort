@@ -1,6 +1,6 @@
 # Affinical Spells
 
-| spell | incantyzation | effects |
+| spell | incantation | effects |
 | :---- | :------------ | :------ |
 | [vision-sharpening charm](spells/akonizorasi.md) | *akonizorasi* | enhances vision |
 | [–](spells/akontizo.md) | *akontizo* | |
