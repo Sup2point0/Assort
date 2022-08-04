@@ -17,10 +17,10 @@ A dictionary of all the fictional words I’ve created.
     <a href="#affinical">affinical</a> <br>
     <a href="#affinics">affinics</a> <br>
     <a href="#affinitic">affinitic</a> <br>
-    <a href="#affinitical">affinitical</a> <br>
     <a href="#affinitics">affinitics</a> <br>
+    <a href="#affinitive">affinitive</a> <br>
     <a href="#affinity">affinity</a> <br>
-    <a href="#affinyze">affinyze</a> <br>
+    <a href="#affinityze">affinityze</a> <br>
     <a href="#antect">antect</a> <br>
     <a href="#antic">antic</a> <br>
     <a href="#avricop">avricop</a> <br>
@@ -77,7 +77,6 @@ A dictionary of all the fictional words I’ve created.
 &emsp; [affinical](#affinical)  
 &emsp; [affinics](#affinics)  
 &emsp; [affinity](#affinity)  
-&emsp; [affinyze](#affinyze)
 
 </details>
 
@@ -209,8 +208,9 @@ plural *affinitys*
   <summary> <b> Derivatives </b> </summary>
 
 &emsp; [affinitic](#affinitic)  
-&emsp; [affinitical](#affinitical)  
-&emsp; [affinitics](#affinitics)
+&emsp; [affinitive](#affinitive)  
+&emsp; [affinitics](#affinitics)  
+&emsp; [affinityze](#affinityze)  
 
 </details>
 
