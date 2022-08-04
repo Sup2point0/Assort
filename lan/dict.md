@@ -1,6 +1,6 @@
 # Dictionary
 
-A dictionary of all the fictional words I’ve created.
+All the fictional words I’ve created.
 
 
 <br>
@@ -26,22 +26,20 @@ A dictionary of all the fictional words I’ve created.
     <a href="#avricop">avricop</a> <br>
     <a href="#antectical">antectical</a> <br>
     <a href="#antectics">antectics</a> <br>
-    <a href="#concyze">concyze</a> <br>
     <a href="#crabatista">crabatista</a> <br>
     <a href="#decant">decant</a> <br>
     <a href="#decate">decate</a> <br>
     <a href="#deuteric">deuteric</a> <br>
-    <a href="#deuterive">deuterive</a> <br>
+    <a href="#deutive">deutive</a> <br>
     <a href="#didecant">didecant</a> <br>
     <a href="#eximplode">eximplode</a> <br>
     <a href="#greencorn">greencorn</a> <br>
     <a href="#lynt">lynt</a> <br>
     <a href="#protic">protic</a> <br>
     <a href="#protive">protive</a> <br>
-    <a href="#spectrus">spectrus</a> <br>
     <a href="#sylonautilla">sylonautilla</a> <br>
     <a href="#synthevetix">synthevetix</a> <br>
-    <a href="#tersolle">tersolle</a> <br>
+    <a href="#Tersolle">Tersolle</a> <br>
     <a href="#xenic">xenic</a> <br>
     <a href="#xenical">xenical</a> <br>
     <a href="#xerique">xerique</a> <br>
@@ -90,7 +88,7 @@ A dictionary of all the fictional words I’ve created.
 <details>
   <summary> <b> Related </b> </summary>
 
-&emsp; [](#)
+&emsp; [](#)  
 
 </details>
 
@@ -119,7 +117,7 @@ A dictionary of all the fictional words I’ve created.
 <details>
   <summary> <b> Related </b> </summary>
 
-&emsp; [affinics](#affinics)
+&emsp; [affinics](#affinics)  
 
 </details>
 
@@ -141,7 +139,7 @@ plural *affinitics*
 <details>
   <summary> <b> Derivatives </b> </summary>
 
-&emsp; [affinitics](#affinitics)
+&emsp; [affinitics](#affinitics)  
 
 </details>
 
@@ -155,7 +153,7 @@ plural *affinitics*
 <details>
   <summary> <b> Related </b> </summary>
 
-&emsp; [affinity](#affinity)
+&emsp; [affinity](#affinity)  
 
 </details>
 
@@ -184,7 +182,7 @@ plural *affinitics*
   <summary> <b> Related </b> </summary>
 
 &emsp; [affinity](#affinity)  
-&emsp; [affinics](#affinics)
+&emsp; [affinics](#affinics)  
 
 </details>
 
@@ -224,7 +222,7 @@ plural *affinitys*
 <details>
   <summary> <b> Related </b> </summary>
 
-&emsp; [affine](#affine)
+&emsp; [affine](#affine)  
 
 </details>
 
@@ -257,7 +255,7 @@ plural *affinitys*
   <summary> <b> Derivatives </b> </summary>
 
 &emsp; [antectics](#antectics)  
-&emsp; [antectical](#antectical)
+&emsp; [antectical](#antectical)  
 
 </details>
 
@@ -271,7 +269,7 @@ plural *affinitys*
 <details>
   <summary> <b> Related </b> </summary>
 
-&emsp; [decate](#decate)
+&emsp; [decate](#decate)  
 
 </details>
 
@@ -295,7 +293,7 @@ plural *decants*
   <summary> <b> Derivatives </b> </summary>
 
 &emsp; [didecant](#didecant)  
-&emsp; [decate](#decate)
+&emsp; [decate](#decate)  
 
 </details>
 
@@ -309,7 +307,7 @@ plural *decants*
 <details>
   <summary> <b> Related </b> </summary>
 
-&emsp; [septan](#septan)
+&emsp; [septan](#septan)  
 
 </details>
 
@@ -342,7 +340,7 @@ plural *decates*
   <summary> <b> Related </b> </summary>
 
 &emsp; [decant](#decant)  
-&emsp; [septate](#septate)
+&emsp; [septate](#septate)  
 
 </details>
 
@@ -371,7 +369,7 @@ plural *decates*
   <summary> <b> Related </b> </summary>
 
 &emsp; [deuteric](#deuteric)  
-&emsp; [protive](#protive)
+&emsp; [protive](#protive)  
 
 </details>
 
@@ -404,7 +402,7 @@ plural *decates*
   <summary> <b> Derivatives </b> </summary>
 
 &emsp; [lynted](#lynted)  
-&emsp; [lynts](#lynt#noun)
+&emsp; [lynts](#lynt#noun)  
 
 </details>
 
@@ -418,7 +416,7 @@ plural *decates*
 <details>
   <summary> <b> Related </b> </summary>
 
-&emsp; [](#)
+&emsp; [](#)  
 
 </details>
 
@@ -434,14 +432,14 @@ plural *lynts*
 <details>
   <summary> <b> Etymologics </b> </summary>
 
-&emsp; *New Antarctica* » Antarctican verb ***lynt*** (since sweets are lynted)
+&emsp; *New Antarctica* » Antarctican verb ***lynt*** (since sweets are lynted)  
 
 </details>
 
 <details>
   <summary> <b> Related </b> </summary>
 
-&emsp; [](#)
+&emsp; [](#)  
 
 </details>
 
@@ -470,7 +468,7 @@ plural *lynts*
   <summary> <b> Related </b> </summary>
 
 &emsp; [deutive](#deutive)  
-&emsp; [protic](#protic)
+&emsp; [protic](#protic)  
 
 </details>
 
@@ -493,7 +491,7 @@ plural *septans*
 <details>
   <summary> <b> Derivatives </b> </summary>
 
-&emsp; [septate](#septate)
+&emsp; [septate](#septate)  
 
 </details>
 
@@ -507,7 +505,7 @@ plural *septans*
 <details>
   <summary> <b> Related </b> </summary>
 
-&emsp; [decant](#decant)
+&emsp; [decant](#decant)  
 
 </details>
 
@@ -538,7 +536,7 @@ plural *septates*
   <summary> <b> Related </b> </summary>
 
 &emsp; [septan](#septan)  
-&emsp; [decate](#decate)
+&emsp; [decate](#decate)  
 
 </details>
 
@@ -564,13 +562,13 @@ plural *xeriques*
 <details>
   <summary> <b> Derivatives </b> </summary>
 
-&emsp; [Supxerique](#supxerique)
+&emsp; [Supxerique](#supxerique)  
 
 </details>
 
 <details>
   <summary> <b> Etymologics </b> </summary>
 
-&emsp; *primordial* » Ancient Greek **ξέρω** *xéro* ‘know’ + ***-ique*** (alternative *-ic*)
+&emsp; *primordial* » Ancient Greek **ξέρω** *xéro* ‘know’ + ***-ique*** (alternative *-ic*)  
 
 </details>
