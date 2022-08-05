@@ -15,4 +15,6 @@ An avid introvert with way much in xis head.
 
 ### Affinities
 
-<img src="userbox.png" width="360px">
+<img src=".assets/Antarctica.png" width="360px">
+<img src=".assets/Slytherin.png" width="360px">
+<img src=".assets/Ravenclaw.png" width="360px">
