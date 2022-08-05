@@ -11,3 +11,8 @@ An avid introvert with way much in xis head.
 ### Applications
 
 ![app](https://skillicons.dev/icons?i=vscode,unity)
+
+
+### Affinities
+
+![test](userbox.emf)
