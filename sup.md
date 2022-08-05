@@ -15,4 +15,4 @@ An avid introvert with way much in xis head.
 
 ### Affinities
 
-![test](userbox.emf)
+![test](userbox.png)
