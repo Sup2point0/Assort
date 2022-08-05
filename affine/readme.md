@@ -1,6 +1,6 @@
 # Affine
 
-*Affine* – magic or supernaturalism – is a phenomenon present in certain xeriques, in particular the Supxerique.
+*Affine* – magic or supernaturalism – is a phenomenon present in certain [xeriques](../xeriques.md), in particular the [Supxerique](../xeriques.md#supxerique).
 
 See [affinitys](affinitys.md) for a full list of affinitys, or [spells](spells.md) for a list of affinical spells. Here are some cool ones to check out first!
 
@@ -26,7 +26,7 @@ See [affinitys](affinitys.md) for a full list of affinitys, or [spells](spells.m
 <table>
   <td>
     <a href="#nomenclature">Nomenclature</a> <br>
-    <a href="#affinyzation">Affinyzation</a> <br>
+    <a href="#affinityzation">Affinityzation</a> <br>
     <a href="#types">Types</a> <br>
     &emsp; <a href="#matter-manipulation">Matter Manipulation</a> <br>
     &emsp; <a href="#self-manipulation">Self Manipulation</a> <br>
@@ -81,7 +81,7 @@ Throughout different xeriques and in different contexts, affinitys and affinitic
 <br>
 
 
-## Affinyzation
+## Affinityzation
 
 
 <br>
