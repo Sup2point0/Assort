@@ -29,7 +29,7 @@ An avid introvert with way much in xis head.
 ## Affine
 
 <img src=".assets/sup/Slytherin.png" width="360px"> <img src=".assets/sup/Ravenclaw.png" width="360px">
-<img src=".assets/sup/Wand.png" width="360px"> <img src=".assets/sup/Patronus.png" width="360px">
+<img src=".assets/sup/Wand.png" width="360px"> <!-- <img src=".assets/sup/Patronus.png" width="360px"> -->
 
 
 ## Miscellaneous
