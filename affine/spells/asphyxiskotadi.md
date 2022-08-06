@@ -1,6 +1,6 @@
 # Darkchoke Curse
 
-A deadly curse that paralyzes victens, invoking perceived suffocation in darkness.
+A deadly curse that paralyzes victens, invoking perceived suffocyzation in darkness.
 
 
 <table>
