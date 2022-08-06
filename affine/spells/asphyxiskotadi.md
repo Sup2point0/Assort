@@ -13,7 +13,7 @@ A deadly curse that paralyzes victens, invoking perceived suffocyzation in darkn
   </th>
   <tr>
     <td> effects </td>
-    <td> perceived suffocation in darkness </td>
+    <td> perceived suffocyzation in darkness </td>
   </tr>
   <tr>
     <td> appearance </td>
