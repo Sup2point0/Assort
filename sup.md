@@ -14,9 +14,9 @@ An avid introvert with way much in xis head.
 ## Languages
 
 <img src=".assets/sup/Scratch.png" width="360px"> <img src=".assets/sup/Python.png" width="360px">
-<\img src=".assets/sup/HTML.png" width="360px"> <\img src=".assets/sup/CSS.png" width="360px">
-<\img src=".assets/sup/Swift.png" width="360px"> <img src=".assets/sup/C#.png" width="360px">
-<img src=".assets/sup/Markdown.png" width="360px"> <\img src=".assets/sup/LATEX.png" width="360px">
+<!-- <img src=".assets/sup/HTML.png" width="360px"> <img src=".assets/sup/CSS.png" width="360px"> -->
+<img src=".assets/sup/Swift.png" width="360px"> <img src=".assets/sup/CS.png" width="360px">
+<img src=".assets/sup/Markdown.png" width="360px"> <!-- <img src=".assets/sup/LATEX.png" width="360px"> -->
 <img src=".assets/sup/JSON.png" width="360px">
 <img src=".assets/sup/SQL.png" width="360px"> <img src=".assets/sup/MATLAB.png" width="360px">
 
@@ -34,4 +34,4 @@ An avid introvert with way much in xis head.
 
 ## Miscellaneous
 
-<img src=".assets/sup/Monkeyopolis.png" width="360px"> <img src=".assets/sup/.png" width="360px">
+<img src=".assets/sup/Monkeyopolis.png" width="360px">
