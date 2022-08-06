@@ -11,8 +11,8 @@ An assortment of my various creations.
 Unsure where to start? Try checking out some of these!
 
 ### Folders
-[affine](affine)
-[kenzokinetics](kenzokinetics)
+[affine](affine)  
+[kenzokinetics](kenzokinetics)  
 [Ascense](Ascense)  
 
 ### Files
