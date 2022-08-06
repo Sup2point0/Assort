@@ -1,6 +1,6 @@
 <h1 align="center"> Sup#2.0 </h1>
 
-An avid introvert with way much in xis head.
+An avid introvert with way too much in xis head.
 
 <img src=".assets/sup/Antarctica.png" width="360px">
 
