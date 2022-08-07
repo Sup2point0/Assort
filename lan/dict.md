@@ -1,6 +1,6 @@
-# Dictionary
+# Diyzacionary
 
-All the fictional words I’ve created.
+All the fiyzacional words I’ve created.
 
 
 <br>
@@ -20,10 +20,11 @@ All the fictional words I’ve created.
     <a href="#affinitics">affinitics</a> <br>
     <a href="#affinitive">affinitive</a> <br>
     <a href="#affinity">affinity</a> <br>
+    <a href="#affinityzacion">affinityzacion</a> <br>
     <a href="#affinityze">affinityze</a> <br>
     <a href="#antect">antect</a> <br>
-    <a href="#antic">antic</a> <br>
     <a href="#avricop">avricop</a> <br>
+    <a href="#antive">antive</a> <br>
     <a href="#antectical">antectical</a> <br>
     <a href="#antectics">antectics</a> <br>
     <a href="#crabatista">crabatista</a> <br>
@@ -37,12 +38,16 @@ All the fictional words I’ve created.
     <a href="#lynt">lynt</a> <br>
     <a href="#protic">protic</a> <br>
     <a href="#protive">protive</a> <br>
+    <a href="#superaffinity">superaffinity</a> <br>
     <a href="#sylonautilla">sylonautilla</a> <br>
     <a href="#synthevetix">synthevetix</a> <br>
     <a href="#Tersolle">Tersolle</a> <br>
-    <a href="#xenic">xenic</a> <br>
-    <a href="#xenical">xenical</a> <br>
+    <a href="#xenique">xenique</a> <br>
+    <a href="#xenitic">xenitic</a> <br>
+    <a href="#xenitive">xenitive</a> <br>
+    <a href="#xenoque">xenoque</a> <br>
     <a href="#xerique">xerique</a> <br>
+    <a href="#xeroque">xeroque</a> <br>
     <a href="##">–</a> <br>
     <a href="##">–</a>
   </td>
@@ -104,7 +109,7 @@ All the fictional words I’ve created.
 *[descriptive]()*
 
 1. related to affine.  
-&ensp; *Affinical weapons are far deadlier than traditional wepaons.*
+&ensp; *Affinical weapons are far deadlier than tradicional wepaons.*
 > similar: magical, supernatural
 
 <details>
@@ -118,6 +123,37 @@ All the fictional words I’ve created.
   <summary> <b> Related </b> </summary>
 
 &emsp; [affinics](#affinics)  
+
+</details>
+
+
+<br>
+
+
+<br>
+
+
+## affinics
+
+### Noun
+`/əˈfɪnɪks/`
+
+*[abstract]()*, *[topic]()*
+
+1. the topic/field of affine.  
+&ensp; *There is very little known about affinics.*
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *unknown* » Antarctican ***affine*** + ***-ics*** ‘topic’
+
+</details>
+
+<details>
+  <summary> <b> Related </b> </summary>
+
+&emsp; [affine](#affine)
 
 </details>
 
@@ -164,12 +200,12 @@ plural *affinitics*
 ## affinitics
 
 ### Noun
-`/əˈfɪnɪtiks/`
+`/əˈfɪnɪtɪks/`
 
 *[abstract]()*, *[topic]()*
 
-1. the topic of aspects related to affinitys.  
-&ensp; *It is beneficial to understand the underlying principles of affinitcs.*
+1. the topic/field of aspects related to affinitys.  
+&ensp; *It is beneficial to understand the underlying principles of affinitics.*
 
 <details>
   <summary> <b> Etymologics </b> </summary>
@@ -183,6 +219,28 @@ plural *affinitics*
 
 &emsp; [affinity](#affinity)  
 &emsp; [affinics](#affinics)  
+
+</details>
+
+
+<br>
+
+
+## affinitive
+
+### Adjective
+`/əˈfɪnɪtɪv/`
+
+*[attributive]()*
+
+1. of or relating to affinitys.  
+&ensp; *Affinitive tests are quite different to standard written examinyzacions.*
+> similar: [](#)
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *unknown* » Antarctican ***affinity*** + ***-ive*** ‘adjective’
 
 </details>
 
@@ -230,6 +288,53 @@ plural *affinitys*
 <br>
 
 
+## affinityze
+
+### Verb
+`/–/`
+
+*[sense]()*
+
+1. to unlock or grant an affinity.  
+&ensp; *Xe affinityzed for the first time upon reaching the age of 12.*
+
+<details>
+  <summary> <b> Conjugyzacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | affinityzing |
+| past | affinityzed |
+| perfect | affinityzed |
+
+</details>
+
+<details>
+  <summary> <b> Derivatives </b> </summary>
+
+&emsp; [affinityzacion](#affinityzacion)
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *unknown* » English ***affinity*** + Antarctican ***-yze*** ‘verb’
+
+</details>
+
+<details>
+  <summary> <b> Related </b> </summary>
+
+&emsp; [affinity](#affinity)  
+&emsp; [affinitic](#affinitic)  
+
+</details>
+
+
+<br>
+
+
 ## antect
 
 ### Verb
@@ -241,7 +346,7 @@ plural *affinitys*
 &ensp; *All devices have an inbuilt feature to antect a given decate.*
 
 <details>
-  <summary> <b> Conjugation </b> </summary> <br>
+  <summary> <b> Conjugyzacion </b> </summary> <br>
 
 | tense | participle |
 | :---- | :--------- |
@@ -384,11 +489,11 @@ plural *decates*
 
 *[prototransitive]()*
 
-1. {definition}  
+1. {definyzacion}  
 &ensp; *{test}*
 
 <details>
-  <summary> <b> Conjugation </b> </summary> <br>
+  <summary> <b> Conjugyzacion </b> </summary> <br>
 
 | tense | participle |
 | :---- | :--------- |
@@ -426,7 +531,7 @@ plural *decates*
 *[count]()*  
 plural *lynts*
 
-1. {definition}  
+1. {definyzacion}  
 &ensp; *Care for some lynts?*
 
 <details>
