@@ -9,7 +9,7 @@ Every favourite thing you could ever imagine (eventually).
 ## Essentials
 
 | category | favourite | favourites |
-| :------- | :-------- |
+| :------- | :-------- | :--------- |
 | animal | dragon <br> spider | |
 | bedtime remark | ‘sweet dreams’ <br> ‘gnight’ | |
 | book genre | dystopian fantasy future fiction | |
