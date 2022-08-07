@@ -1,5 +1,5 @@
 <p align="center"> <a href="https://github.com/Sup2point0/Assort/blob/origin/sup.md">
-    <img src=".assets/sup/sup.png" height="123px">
+    <img src=".assets/sup/sup.png" width="690px">
 </a> </p>
 
 An avid introvert with way too much in xis head.
