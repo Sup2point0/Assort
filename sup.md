@@ -1,5 +1,5 @@
 <html align="center">
-  <img src=".assets/sup/sup.png" href="https://github.com/Sup2point0/Assort/blob/origin/sup.md">
+  <img src=".assets/sup/sup.png" href="https://github.com/Sup2point0/Assort/blob/origin/sup.md" height="200px">
 </html>
 
 An avid introvert with way too much in xis head.
