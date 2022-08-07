@@ -1,4 +1,6 @@
-<h1 align="center"> Sup#2.0 </h1>
+<html align="center">
+  <img src=".assets/sup/sup.png" href="https://github.com/Sup2point0/Assort/sup.md">
+</html>
 
 An avid introvert with way too much in xis head.
 
