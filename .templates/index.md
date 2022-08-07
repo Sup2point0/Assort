@@ -23,12 +23,12 @@
 
 *[sense]()*
 
-1. definition  
+1. definicion  
 &ensp; *test*
 > similar: [](#)
 
 <details>
-  <summary> <b> Conjugation </b> </summary> <br>
+  <summary> <b> Conjugyzacion </b> </summary> <br>
 
 | tense | participle |
 | :---- | :--------- |
@@ -41,21 +41,21 @@
 <details>
   <summary> <b> Derivatives </b> </summary>
 
-&emsp; [](#)
+&emsp; [](#)  
 
 </details>
 
 <details>
   <summary> <b> Etymologics </b> </summary>
 
-&emsp; – »
+&emsp; – » 
 
 </details>
 
 <details>
   <summary> <b> Related </b> </summary>
 
-&emsp; [](#)
+&emsp; [](#)  
 
 </details>
 
