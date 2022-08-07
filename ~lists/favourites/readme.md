@@ -8,31 +8,37 @@ Every favourite thing you could ever imagine (eventually).
 
 ## Essentials
 
-| category | favourite |
+| category | favourite | favourites |
 | :------- | :-------- |
-| animal | dragon <br> spider |
-| book genre | dystopian fantasy future fiction |
-| colour | blue <br> pink <br> orange <br> purple |
-| country | Antarctica |
-| climate | temperate |
-| day of week | Thursday |
-| emoji | 👀 |
-| eye colour | anyone up for violet? <br> yeah no, black is fine :P |
-| feeling | nostalgia <br> satisfaction |
-| film | *Spider-Man: Homecoming* |
-| hair colour | black <br> deep blue if you really feel like dying it |
-| hair type | straight and silky |
-| holiday | April Fools’ |
-| instrument | synthesizer |
-| month | September <br> April |
-| music artist | Elektronomia |
-| music genre | electronic dance music |
-| school subject | Computer Science |
-| shape | hexagon <br> rhombus |
-| social media | Discord <br> reddit |
-| sport | tennis |
-| supernatural ability | invisibility <br> teleportation <br> incorporeality |
-| transport | train |
+| animal | dragon <br> spider | |
+| bedtime remark | ‘sweet dreams’ <br> ‘gnight’ | |
+| book genre | dystopian fantasy future fiction | |
+| car brand | Mercedes-Benz <br> Audi | |
+| colour | blue <br> pink | <br> orange <br> purple |
+| country | Antarctica | |
+| climate | temperate | |
+| day of week | Thursday | |
+| emoji | 👀 | {...} |
+| eye colour | anyone up for violet? | yeah no, black is fine :P |
+| farewell | ‘cya’ <br> ‘gbye’ | |
+| feeling | nostalgia <br> satisfaction | |
+| film | *Spider-Man: Homecoming* | [view more](films.md) |
+| greeting | ‘sup’ | ‘heyo’ |
+| hair colour | black | deep blue if you really feel like dying it |
+| hair type | straight and silky | |
+| holiday | April Fools’ | |
+| instrument | synthesizer | drums |
+| month | September <br> April | |
+| music artist | Elektronomia | [view more](music.md) |
+| music genre | electronic dance music | epic music |
+| school subject | Computer Science | Chemistry |
+| shape | hexagon | rhombus |
+| signature | ‘yours sincerely’ | |
+| social media | Discord <br> reddit | |
+| sport | tennis | |
+| sports car brand | Lamborghini <br> McLaren | |
+| supernatural ability | invisibility <br> teleportation <br> incorporeality | |
+| transport | train | |
 
 
 <br>
@@ -93,6 +99,7 @@ Every favourite thing you could ever imagine (eventually).
 | IDE | Visual Studio Code |
 | image editor | Microsoft PowerPoint |
 | laptop | Dell XPS |
+| lowercase letter | i <br> q |
 | mainstream subreddit | r/showerthoughts |
 | mathematician | Euclid |
 | mathematics field | geometry <br> complex numbers |
@@ -106,6 +113,7 @@ Every favourite thing you could ever imagine (eventually).
 | programming language | Python <br> Markdown <br> CSS |
 | subreddit | [r/programmerhumor](https://reddit.com/r/programmerhumor) <br> [r/chemistrymemes](https://reddit.com/r/chemistrymemes) <br> [r/cursedchemistry](https://reddit.com/r/cursedchemistry) |
 | tablet | 2019 iPad Air (3rd gen) |
+| uppercase letter | Q <br> J <br> V |
 
 
 <br>
