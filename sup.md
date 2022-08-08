@@ -1,7 +1,8 @@
 <p align="center"> <a href="https://github.com/Sup2point0/Assort/blob/origin/sup.md">
   <img src=".assets/sup/sup.png" width="690px"> </a>
-  An avid introvert with way too much in xis head.
 </p>
+
+<p align="center"> An avid introvert with way too much in xis head. </p>
 
 <img src=".assets/sup/Antarctica.png" width="360px">
 
