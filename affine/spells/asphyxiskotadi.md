@@ -1,6 +1,6 @@
 # Darkchoke Curse
 
-A deadly curse that paralyzes victens, invoking perceived suffocyzacion in darkness.
+A deadly curse that paralyzes victims, invoking perceived suffocyzacion in darkness.
 
 
 <table>
@@ -20,11 +20,11 @@ A deadly curse that paralyzes victens, invoking perceived suffocyzacion in darkn
     <td> wisps of dark affine swirling slowly around target </td>
   </tr>
   <tr>
-    <td> incantyzation </td>
+    <td> incantyzacion </td>
     <td> <em> asphyxiskotadi </em> </td>
   </tr>
   <tr>
-    <td> pronouncyzation </td>
+    <td> pronouncyzacion </td>
     <td> <code> /asˌfɪksɪskəˈtɑːdiː/ </code> </td>
   </tr>
 </table>
@@ -33,7 +33,7 @@ A deadly curse that paralyzes victens, invoking perceived suffocyzacion in darkn
 <br>
 
 
-## Articulation
+## Articulyzacion
 
 As a dark curse, it requires powerful intent to activyze. An intense initial strike – not darting, but drawn out – initialyzes the spell, followed by small vicious sweeps that feed the darkness. 
 
@@ -45,7 +45,7 @@ As a dark curse, it requires powerful intent to activyze. An intense initial str
 
 Unlike other spells affected by drive, with the Darkchoke curse emotion plays no role, only intent. As such, both corrupted and pure souls can harness it with equal deadliness.
 
-The initial strike can have varying effects for different victens, usually a (quasi-paralyzing) jolt of anxiety, panic, or fear; pain is often perceived.
+The initial strike can have varying effects for different victims, usually a (quasi-paralyzing) jolt of anxiety, panic, or fear; pain is often perceived.
 
 
 <br>
@@ -57,7 +57,7 @@ The initial strike can have varying effects for different victens, usually a (qu
 [Tencent Cataract](–) invented the spell.
 
 ### Etymologics
-Greek **ασφυξία** *asphuxíā* ‘suffocation’ + **σκοτάδι** *skotádi* ‘darkness’
+Greek **ασφυξία** *asphuxíā* ‘suffocyzacion’ + **σκοτάδι** *skotádi* ‘darkness’
 
 
 <br>
