@@ -10,9 +10,27 @@
 
 <img src=".assets/sup/Scratch.png" width="360px">
 <img src=".assets/sup/reddit.png" width="360px">
+<img src=".assets/sup/Fandom.png" width="360px">
+
+
+## Qualitys
+
+<img src=".assets/sup/creative.png" width="360px">
+
+
+## Interests
+
+<img src=".assets/sup/graphics.png" width="360px">
+
+<img src=".assets/sup/organic.png" width="360px">
 
 
 ## Languages
+
+<img src=".assets/sup/Antarctican.png" width="360px">
+
+
+## Programming Languages
 
 <img src=".assets/sup/Scratch.png" width="360px"> <img src=".assets/sup/Python.png" width="360px">
 <!-- <img src=".assets/sup/HTML.png" width="360px"> <img src=".assets/sup/CSS.png" width="360px"> -->
@@ -20,6 +38,20 @@
 <img src=".assets/sup/Markdown.png" width="360px"> <!-- <img src=".assets/sup/LATEX.png" width="360px"> -->
 <img src=".assets/sup/JSON.png" width="360px">
 <img src=".assets/sup/SQL.png" width="360px"> <img src=".assets/sup/MATLAB.png" width="360px">
+
+
+## Applyzacions
+
+<img src=".assets/sup/PowerPoint.png" width="360px">
+<img src=".assets/sup/VSCode.png" width="360px"> <img src=".assets/sup/replit.png" width="360px">
+
+
+## System
+
+<img src=".assets/sup/iOS.png" width="360px">
+<!-- <img src=".assets/sup/iPadOS.png" width="360px"> -->
+<img src=".assets/sup/Windows.png" width="360px">
+<img src=".assets/sup/XPS.png" width="360px">
 
 
 ## Games
