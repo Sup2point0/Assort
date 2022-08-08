@@ -21,6 +21,7 @@
 
 ## Interests
 
+<img src=".assets/sup/programming.png" width="360px">
 <img src=".assets/sup/graphics.png" width="360px">
 
 <img src=".assets/sup/organic.png" width="360px">
@@ -44,7 +45,8 @@
 ## Applyzacions
 
 <img src=".assets/sup/PowerPoint.png" width="360px">
-<img src=".assets/sup/VSCode.png" width="360px"> <img src=".assets/sup/replit.png" width="360px">
+<img src=".assets/sup/VSCode.png" width="360px"> <img src=".assets/sup/Unity.png" width="360px">
+<img src=".assets/sup/replit.png" width="360px">
 
 
 ## System
@@ -58,6 +60,7 @@
 ## Games
 
 <img src=".assets/sup/Pop.png" width="360px">
+<img src=".assets/sup/Soul.png" width="360px">
 
 
 ## Affine
