@@ -15,6 +15,7 @@
 | [autoduplis](affinitys/autoduplis.md) | autoduplist, cloner | self duplication |
 | [automorphis](affinitys/metamorphis.md) | automorphist, shapeshifter | self appearance alteration |
 | [autovitalis](affinitys/autovitalis.md) | autovitalus | self healer |
+| [avis](affinitys/avis.md) | avitron, levitron | fly |
 | [biogenetis](affinitys/biogenetis.md) | biogenetic | organic creation |
 | [biokinetis](affinitys/biokinetis.md) | biokinetic | organic control |
 | [biosynchronis](affinitys/biosynchronis.md) | biosynchronic | life sensing |
@@ -52,7 +53,6 @@
 | [invis](affinitys/invis.md) | invisitron | turn invisible or incorporeal |
 | [koniokinetis](affinitys/koniokinetis.md) | koniokinetic | dust control |
 | [laservision](affinitys/laservision.md) | lasitron | shooting lasers from eyes |
-| [levis](affinitys/levis.md) | levitron | fly |
 | [metallokinetis](affinitys/metallokinetis.md) | metallokinetic, magnetron | metal control |
 | [metakinetis](affinitys/metakinetis.md) | metakinetic | weather control |
 | [necromancy](affinitys/necromancy.md) | necromancer | dead control |
