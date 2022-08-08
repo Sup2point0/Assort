@@ -13,18 +13,18 @@
   </th>
   <tr>
     <td> effects </td>
-    <td> – </td>
+    <td> induces fear in target </td>
   </tr>
   <tr>
     <td> appearance </td>
     <td> – </td>
   </tr>
   <tr>
-    <td> incantyzation </td>
+    <td> incantyzacion </td>
     <td> <em> fovos </em> </td>
   </tr>
   <tr>
-    <td> pronouncyzation </td>
+    <td> pronouncyzacion </td>
     <td> <code> /'fɒvɒs/ </code> </td>
   </tr>
 </table>
@@ -33,7 +33,7 @@
 <br>
 
 
-## Articulation
+## Articulyzacion
 
 
 <br>
