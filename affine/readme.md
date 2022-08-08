@@ -26,11 +26,11 @@ See [affinitys](affinitys.md) for a full list of affinitys, or [spells](spells.m
 <table>
   <td>
     <a href="#nomenclature">Nomenclature</a> <br>
-    <a href="#affinityzation">Affinityzation</a> <br>
+    <a href="#affinityzacion">Affinityzacion</a> <br>
     <a href="#types">Types</a> <br>
-    &emsp; <a href="#matter-manipulation">Matter Manipulation</a> <br>
-    &emsp; <a href="#self-manipulation">Self Manipulation</a> <br>
-    &emsp; <a href="#essence-manipulation">Essence Manipulation</a> <br>
+    &emsp; <a href="#matter-manipulyzacion">Matter Manipulyzacion</a> <br>
+    &emsp; <a href="#self-manipulyzacion">Self Manipulyzacion</a> <br>
+    &emsp; <a href="#essence-manipulyzacion">Essence Manipulyzacion</a> <br>
     <a href="#abilities">Abilities</a> <br>
     &emsp; <a href="#kinetis">Kinetis</a> <br>
     &emsp; <a href="#genetis">Genetis</a> <br>
@@ -81,7 +81,7 @@ Throughout different xeriques and in different contexts, affinitys and affinitic
 <br>
 
 
-## Affinityzation
+## Affinityzacion
 
 
 <br>
@@ -89,11 +89,11 @@ Throughout different xeriques and in different contexts, affinitys and affinitic
 
 ## Types
 
-### Matter Manipulation
+### Matter Manipulyzacion
 
-### Self Manipulation
+### Self Manipulyzacion
 
-### Essence Manipulation
+### Essence Manipulyzacion
 
 
 <br>
@@ -102,7 +102,7 @@ Throughout different xeriques and in different contexts, affinitys and affinitic
 ## Abilities
 
 ### Kinetis
-Control and manipulation of existing things.
+Control and manipulyzacion of existing things.
 
 ### Genetis
 Creation something out of void.
