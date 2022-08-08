@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td> class </td>
-    <td> – </td>
+    <td> conjuracion </td>
   </th>
   <tr>
     <td> effects </td>
@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td> pronouncyzation </td>
-    <td> <code> /ˌtɪfləʊsɛˈlɑːreɪ/ </code> </td>
+    <td> <code> /ˌtɪfləʊsɛˈlɑːreɪ, /ˌtɪfləʊsəˈlɑːreɪ// </code> </td>
   </tr>
 </table>
 
@@ -33,7 +33,7 @@
 <br>
 
 
-## Articulation
+## Articulyzacion
 
 
 <br>
