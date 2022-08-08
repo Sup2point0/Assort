@@ -15,7 +15,7 @@ One of the most invaluable affinitys, the ability to control health.
   </tr>
   <tr>
     <td> <a href="../readme.md#types">type </a> </td>
-    <td> <a href="../readme.md#abstract-manipulation">abstract manipulation </a> </td>
+    <td> <a href="../readme.md#abstract-manipulzyacion">abstract manipulzyacion </a> </td>
   </tr>
   <tr>
     <td> <a href="../readme.md#attributes">attribute </a> </td>
@@ -33,7 +33,7 @@ One of the most invaluable affinitys, the ability to control health.
     <th colspan="2"> <h4> Nomenclature </h4> </th>
   </tr>
   <tr>
-    <td> pronunciation </td>
+    <td> pronouncyzacion </td>
     <td> <code> /vʌɪˈtalɪs/ </code> </td>
   </tr>
   <tr>
@@ -41,7 +41,7 @@ One of the most invaluable affinitys, the ability to control health.
     <td> healing </td>
   </tr>
   <tr>
-    <td> pronunciation </td>
+    <td> pronouncyzacion </td>
     <td> <code> /'hiːlɪŋ/ </code> </td>
   </tr>
   <tr>
@@ -49,8 +49,8 @@ One of the most invaluable affinitys, the ability to control health.
     <td> vitalus, healer </td>
   </tr>
   <tr>
-    <td> pronunciation </td>
-    <td> <code>/vʌɪˈtaləs/</code>, <code>/'hiːlə/</code> </td>
+    <td> pronouncyzacion </td>
+    <td> <code>/vʌɪˈtaləs, vɪˈtaləs, vɪˈtɑːləs/</code>, <code>/'hiːlə/</code> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Genetics </h4> </th>
@@ -64,11 +64,11 @@ One of the most invaluable affinitys, the ability to control health.
     <td> very low </td>
   </tr>
   <tr>
-    <td> deryvation </td>
+    <td> deryzacion </td>
     <td> <a href="../readme.md#prime">prime</a> </td>
   </tr>
   <tr>
-    <td> deryvatives </td>
+    <td> deryzatics </td>
     <td> – </td>
   </tr>
   <tr>
@@ -83,16 +83,16 @@ One of the most invaluable affinitys, the ability to control health.
 
 ## Nomenclature
 
-### Standard
+### Absolute|
 
-| class | term | pronunciation | etymologics |
+| class | term | pronouncyzacion | etymologics |
 | :---- | :--- | :------------ | :---------- |
-| affinity | vitalis | `/vʌɪˈtalɪs/` | Latin ***vita*** ‘life’ + Antarctican ***-is*** ‘affinity’ |
-| affinitic | vitalus | `/vʌɪˈtaləs/` | Latin ***vita*** ‘life’ + Antarctican ***-us*** ‘affinitic’ |
+| affinity | vitalis | `/vʌɪˈtalɪs/` <br> `/vɪˈtalɪs/` | Latin ***vita*** ‘life’ + Antarctican ***-is*** ‘affinity’ |
+| affinitic | vitalus | `/vʌɪˈtaləs/` <br> `/vɪˈtaləs/` <br> `/vɪˈtɑːləs/` | Latin ***vita*** ‘life’ + Antarctican ***-us*** ‘affinitic’ |
 
 ### Colloquial
 
-| class | term | pronunciation | etymologics |
+| class | term | pronouncyzacion | etymologics |
 | :---- | :--- | :------------ | :---------- |
 | affinity | healing | `/'hiːlɪŋ/` | English ***healing*** |
 | affinitic | healer | `/'hiːlə/` | English ***healer*** |
