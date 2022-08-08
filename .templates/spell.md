@@ -20,11 +20,11 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> incantyzation </td>
+    <td> incantyzacion </td>
     <td> <em> – </em> </td>
   </tr>
   <tr>
-    <td> pronouncyzation </td>
+    <td> pronouncyzacion </td>
     <td> <code> /–/ </code> </td>
   </tr>
 </table>
@@ -33,7 +33,7 @@
 <br>
 
 
-## Articulation
+## Articulyzacion
 
 
 <br>
