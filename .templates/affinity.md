@@ -31,7 +31,7 @@
     <th colspan="2"> <h4> Nomenclature </h4> </th>
   </tr>
   <tr>
-    <td> pronouncyzation </td>
+    <td> pronouncyzacion </td>
     <td> <code> /–/ </code> </td>
   </tr>
   <tr>
@@ -39,7 +39,7 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> pronouncyzation </td>
+    <td> pronouncyzacion </td>
     <td> <code> /–/ </code> </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> pronouncyzation </td>
+    <td> pronouncyzacion </td>
     <td> <code> /–/ </code> </td>
   </tr>
   <tr>
@@ -62,11 +62,11 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> deryvation </td>
+    <td> deryzacion </td>
     <td> – </td>
   </tr>
   <tr>
-    <td> deryvatives </td>
+    <td> deryzatics </td>
     <td> – </td>
   </tr>
   <tr>
