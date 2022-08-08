@@ -4,6 +4,8 @@
 
 <p align="center"> An avid introvert with way too much in xis head. </p>
 
+---
+
 <img src=".assets/sup/Antarctica.png" width="360px">
 
 
