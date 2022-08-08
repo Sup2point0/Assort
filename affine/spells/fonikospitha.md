@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td> class </td>
-    <td> conjuration </td>
+    <td> conjuracion </td>
   </th>
   <tr>
     <td> effects </td>
@@ -20,11 +20,11 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> incantyzation </td>
+    <td> incantyzacion </td>
     <td> <em> fonikospitha </em> </td>
   </tr>
   <tr>
-    <td> pronouncyzation </td>
+    <td> pronouncyzacion </td>
     <td> <code> /ˌfɒnɪkɒˈspɪθə/ </code> </td>
   </tr>
 </table>
@@ -33,7 +33,7 @@
 <br>
 
 
-## Articulation
+## Articulyzacion
 
 
 <br>
