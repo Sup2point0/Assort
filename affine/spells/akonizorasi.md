@@ -13,11 +13,11 @@
   </th>
   <tr>
     <td> effects </td>
-    <td> – </td>
+    <td> temporarily enhances vision </td>
   </tr>
   <tr>
     <td> appearance </td>
-    <td> – </td>
+    <td> colourless flash </td>
   </tr>
   <tr>
     <td> incantyzation </td>
