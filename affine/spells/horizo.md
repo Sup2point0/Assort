@@ -20,12 +20,12 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> incantyzation </td>
-    <td> <em> – </em> </td>
+    <td> incantyzacion </td>
+    <td> <em> horizo </em> </td>
   </tr>
   <tr>
-    <td> pronouncyzation </td>
-    <td> <code> /–/ </code> </td>
+    <td> pronouncyzacion </td>
+    <td> <code> /'hɒrɪzəʊ/ </code> </td>
   </tr>
 </table>
 
@@ -33,7 +33,7 @@
 <br>
 
 
-## Articulation
+## Articulyzacion
 
 
 <br>
