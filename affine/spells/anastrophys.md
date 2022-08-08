@@ -1,11 +1,11 @@
-# Restoryzation Charm
+# Restoryzacion Charm
 
 {desc}
 
 
 <table>
   <tr>
-    <th colspan="2"> <h3> Restroyzation Charm </h3> </th>
+    <th colspan="2"> <h3> Restoryzacion Charm </h3> </th>
   </tr>
   <tr>
     <td> class </td>
@@ -20,11 +20,11 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> incantyzation </td>
+    <td> incantyzacion </td>
     <td> <em> anastrophys </em> </td>
   </tr>
   <tr>
-    <td> pronouncyzation </td>
+    <td> pronouncyzacion </td>
     <td> <code> /ˌanəsˈtrɒfɪs/ </code> </td>
   </tr>
 </table>
@@ -33,7 +33,7 @@
 <br>
 
 
-## Articulation
+## Articulyzacion
 
 
 <br>
