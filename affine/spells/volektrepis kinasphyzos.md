@@ -13,18 +13,18 @@
   </th>
   <tr>
     <td> effects </td>
-    <td> – </td>
+    <td> deflects projectiles or spells </td>
   </tr>
   <tr>
     <td> appearance </td>
     <td> – </td>
   </tr>
   <tr>
-    <td> incantyzation </td>
+    <td> incantyzacion </td>
     <td> <em> volektrepis </em> </td>
   </tr>
   <tr>
-    <td> pronouncyzation </td>
+    <td> pronouncyzacion </td>
     <td> <code> /ˌvɒlɛkˈtrɛpɪs/ </code> </td>
   </tr>
 </table>
@@ -33,7 +33,7 @@
 <br>
 
 
-## Articulation
+## Articulyzacion
 
 
 <br>
@@ -50,7 +50,7 @@
 ### Emergence
 
 ### Etymologics
-Ancient Greek **βολή** *bolḗ* ‘shot, throw’ + εκτρέπω** *ektrépo* ‘deflect, swerve’
+Ancient Greek **βολή** *bolḗ* ‘shot, throw’ + **εκτρέπω** *ektrépo* ‘deflect, swerve’
 
 
 <br>
