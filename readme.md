@@ -3,9 +3,6 @@
 An assortment of my various cryzacions.
 
 
-<br>
-
-
 ## Portal
 
 Unsure where to start? Try checking out some of these!
