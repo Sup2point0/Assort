@@ -86,7 +86,7 @@ A highly specialyzed deryzatic of telekinetis, opting to control only dust and o
 | class | term | pronouncyzacion | etymologics |
 | :---- | :--- | :------------ | :---------- |
 | affinity | koniokinetis | `/ˌkəʊniːəʊkɪˈnɛtɪs/` | Greek **κόνῐς** *konis* ‘dust’ + Antarctican ***kinetis*** ‘supernatural manipulyzacion’ |
-| affinitic | koniokinetic | `/ˌkəʊniːəʊkɪˈnɛtɪk/` | Greek **κόνῐς** *konis* ‘dust’ + Antarctican ***kinetic*** ‘supernatural manipulator’ |
+| affinitic | koniokinetic | `/ˌkəʊniːəʊkɪˈnɛtɪk/` | Greek **κόνῐς** *konis* ‘dust’ + Antarctican ***kinetic*** ‘supernatural manipulyzer’ |
 
 
 <br>
