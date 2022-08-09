@@ -1,6 +1,6 @@
 # Koniokinetis
 
-A highly specialyzed deryvative of telekinetis, opting to control only dust and other fine particulates, which grants enhanced capabilitys.
+A highly specialyzed deryzatic of telekinetis, opting to control only dust and other fine particulates, which grants enhanced capabilitys.
 
 
 <table>
