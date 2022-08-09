@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td> appels </td>
-    <td> – </td>
+    <td> 45 </td>
   </tr>
   <tr>
     <td> released </td>
