@@ -39,5 +39,6 @@ An assortment of (fictional) corporations in all fields, but mostly technologics
 [Vengeance](Vengeance.md)  
 [Venturi](Venturi.md)  
 [Vorking](Vorking.md)  
+[VorTech](VorTech.md)  
 [Xserve](Xserve.md)  
-[Yottle](Yottle.md)
+[Yottle](Yottle.md)  
