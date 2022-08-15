@@ -64,54 +64,54 @@ Every favourite thing you could ever imagine (eventually).
 
 ## Attire
 
-| category | favourite |
-| :------- | :-------- |
-| coat colour | dark blue |
-| material | some polymer I forgot the name of |
-| shirt colour | light blue |
-| shoes | trainers |
-| shoe colour | dark blue |
-| sock colour | white |
-| trouser colour | dark blue |
+| category | favourite | favourites |
+| :------- | :-------- | :--------- |
+| coat colour | dark blue | |
+| material | some polymer I forgot the name of | |
+| shirt colour | light blue | |
+| shoes | trainers | |
+| shoe colour | dark blue | |
+| sock colour | white | |
+| trouser colour | dark blue | |
 
 
 ## Specialist
 
-| category | favourite |
-| :------- | :-------- |
-| art | modern flat vector |
-| biology field | immunology <br> genetics |
-| car | Lamborghini Aventador SV |
-| chemical formula | skeletal |
-| chemistry field | organic chemistry |
-| internet domain | `.dev` |
-| IDE | Visual Studio Code |
-| image editor | Microsoft PowerPoint |
-| laptop | Dell XPS |
-| lowercase letter | i <br> q |
-| mainstream subreddit | r/showerthoughts |
-| mathematician | Euclid |
-| mathematics field | geometry <br> complex numbers |
-| military division | air |
-| musical key | C# major <br> D major <br> F# major |
-| Microsoft Office application | Microsoft PowerPoint (2016) |
-| Minecraft wood type | stripped oak <br> stripped birch <br> oak wood |
-| phone | iPhone SE (2016) <br> iPhone SE (2020) <br> iPhone 5s |
-| physics field | particle physics |
-| pokémon | Pikachu <br> Squirtle <br> Yveltal |
-| programming language | Python <br> Markdown <br> CSS |
-| subreddit | [r/programmerhumor](https://reddit.com/r/programmerhumor) <br> [r/chemistrymemes](https://reddit.com/r/chemistrymemes) <br> [r/cursedchemistry](https://reddit.com/r/cursedchemistry) |
-| tablet | 2019 iPad Air (3rd gen) |
-| uppercase letter | Q <br> J <br> V |
+| category | favourite | favourites |
+| :------- | :-------- | :--------- |
+| art | modern flat vector | |
+| biology field | immunology <br> genetics | |
+| car | Lamborghini Aventador SV | [view more](cars.md) |
+| chemical formula | skeletal | |
+| chemistry field | organic chemistry | |
+| internet domain | `.dev` | `.it` |
+| IDE | Visual Studio Code | |
+| image editor | Microsoft PowerPoint | |
+| laptop | Dell XPS | |
+| lowercase letter | i <br> q | |
+| mainstream subreddit | r/showerthoughts | |
+| mathematician | Euclid | |
+| mathematics field | geometry | complex numbers |
+| military division | air | navy |
+| musical key | C# major | D major <br> F# major |
+| Microsoft Office application | Microsoft PowerPoint (2016) | |
+| Minecraft wood type | stripped oak | stripped birch <br> oak wood |
+| phone | iPhone SE (2016) | iPhone SE (2020) <br> iPhone 5s |
+| physics field | nuclear physics | particle physics |
+| pokémon | Pikachu | Squirtle <br> Yveltal |
+| programming language | Python | Markdown <br> CSS |
+| subreddit | [r/programmerhumor](https://reddit.com/r/programmerhumor) <br> [r/chemistrymemes](https://reddit.com/r/chemistrymemes) <br> [r/cursedchemistry](https://reddit.com/r/cursedchemistry) | |
+| tablet | 2019 iPad Air (3rd gen) | |
+| uppercase letter | Q <br> J <br> V | |
 
 
 ## Random
 
-| category | favourite |
-| :------- | :-------- |
-| flower | hyacinth |
-| gemstone | aventurine <br> aquamarine <br> citrine |
-| human aspect | voice |
-| human feature | eyes <br> hair |
-| scent | apple <br> aloe |
-| tree | alder |
+| category | favourite | favourites |
+| :------- | :-------- | :--------- |
+| flower | hyacinth | |
+| gemstone | aventurine | aquamarine <br> citrine |
+| human aspect | voice | |
+| human feature | eyes <br> hair | |
+| scent | apple <br> aloe | |
+| tree | alder | |
