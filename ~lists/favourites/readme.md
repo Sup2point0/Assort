@@ -3,16 +3,13 @@
 Every favourite thing you could ever imagine (eventually).
 
 
-<br>
-
-
 ## Essentials
 
 | category | favourite | favourites |
 | :------- | :-------- | :--------- |
 | animal | dragon <br> spider | |
 | bedtime remark | ‘sweet dreams’ <br> ‘gnight’ | |
-| book genre | dystopian fantasy future fiction | |
+| book genre | dystopian fantasy future fiction | romance |
 | car brand | Mercedes-Benz <br> Audi | |
 | colour | blue <br> pink | <br> orange <br> purple |
 | country | Antarctica | |
@@ -27,47 +24,42 @@ Every favourite thing you could ever imagine (eventually).
 | hair colour | black | deep blue if you really feel like dying it |
 | hair type | straight and silky | |
 | holiday | April Fools’ | |
-| instrument | synthesizer | drums |
+| instrument | synthesizer | piano <br> drums |
 | month | September <br> April | |
 | music artist | Elektronomia | [view more](music.md) |
 | music genre | electronic dance music | epic music |
 | school subject | Computer Science | Chemistry |
-| shape | hexagon | rhombus |
+| shape | hexagon | rhombus <br> kite |
 | signature | ‘yours sincerely’ | |
 | social media | Discord <br> reddit | |
-| sport | tennis | |
+| sport | tennis | rollerblading |
 | sports car brand | Lamborghini <br> McLaren | |
 | supernatural ability | invisibility <br> teleportation <br> incorporeality | |
-| transport | train | |
-
-
-<br>
+| transport | train | scooter |
 
 
 ## Food
 
-| category | favourite |
-| :------- | :-------- |
+| category | favourite | favourites |
+| :------- | :-------- | :--------- |
 | cake flavour | chocolate |
-| cereal | *Honey Monster* sugar puffs <br> *Kellogg’s* coco pops |
-| cookie flavour | chocolate |
-| crisp flavour | *Lay’s* tomato <br> *Walker’s* cheese & onion |
-| dish | tomato and scrambled eggs stir-fry <br> leek and scrambled eggs stir-fry |
-| drink | ice tea |
-| English breakfast part | hash browns |
-| ice cream flavour | chocolate |
-| fruit | hami melon <br> Chinese pear <br> banana |
-| juice | apple |
-| meal | udon noodles |
-| number | 20 |
-| pizza flavour | margherita |
-| sauce | mayonnaise <br> soy sauce |
-| snack | 旺旺雪饼 |
-| soft drink | *Fanta* orange |
-| soup | tomato and egg <br> miso soup <br> mushroom |
-
-
-<br>
+| cereal | *Honey Monster* sugar puffs | *Kellogg’s* coco pops |
+| cookie flavour | chocolate | |
+| crisp flavour | *Lay’s* tomato | *Walker’s* cheese & onion |
+| dish | tomato and scrambled eggs stir-fry | leek and scrambled eggs stir-fry |
+| drink | ice tea | aloe vera |
+| English breakfast part | hash browns | |
+| ice cream flavour | chocolate | |
+| fruit | hami melon <br> Chinese pear | banana |
+| juice | apple <br> lychee | |
+| meal | udon noodles | |
+| number | 20 | [view more](numbers.md)
+| pizza flavour | margherita | |
+| sauce | mayonnaise | soy sauce |
+| snack | 旺旺雪饼 | onion rings |
+| soft drink | *Fanta* orange | |
+| soup | tomato and egg | miso soup <br> mushroom |
+| vegetable | sweetcorn | carrots |
 
 
 ## Attire
@@ -81,9 +73,6 @@ Every favourite thing you could ever imagine (eventually).
 | shoe colour | dark blue |
 | sock colour | white |
 | trouser colour | dark blue |
-
-
-<br>
 
 
 ## Specialist
@@ -116,14 +105,13 @@ Every favourite thing you could ever imagine (eventually).
 | uppercase letter | Q <br> J <br> V |
 
 
-<br>
-
-
 ## Random
 
 | category | favourite |
 | :------- | :-------- |
-| flower | no idea, probably those blue or purple ones |
+| flower | hyacinth |
+| gemstone | aventurine <br> aquamarine <br> citrine |
 | human aspect | voice |
-| human feature | eyes |
-| scent | apple |
+| human feature | eyes <br> hair |
+| scent | apple <br> aloe |
+| tree | alder |
