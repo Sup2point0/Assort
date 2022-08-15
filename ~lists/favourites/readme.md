@@ -16,7 +16,8 @@ Every favourite thing you could ever imagine (eventually).
 | climate | temperate | |
 | day of week | Thursday | |
 | emoji | 👀 | {...} |
-| eye colour | anyone up for violet? | yeah no, black is fine :P |
+| eye colour | anyone up for violet? | heterochromical blue-green |
+| fairytale | 
 | farewell | ‘cya’ <br> ‘gbye’ | |
 | feeling | nostalgia <br> satisfaction | |
 | film | *Spider-Man: Homecoming* | [view more](films.md) |
@@ -34,6 +35,7 @@ Every favourite thing you could ever imagine (eventually).
 | social media | Discord <br> reddit | |
 | sport | tennis | rollerblading |
 | sports car brand | Lamborghini <br> McLaren | |
+| superhero | Spider-Man | Dr Strange |
 | supernatural ability | invisibility <br> teleportation <br> incorporeality | |
 | transport | train | scooter |
 
