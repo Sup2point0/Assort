@@ -1,6 +1,6 @@
-# Diyzacionary
+# Dictionary
 
-All the fiyzacional words I’ve created.
+All the fictive words I’ve created.
 
 
 <br>
