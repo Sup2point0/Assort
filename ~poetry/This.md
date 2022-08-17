@@ -10,7 +10,7 @@ Wondrous and extraordinary, radiant with the light of magic;
 This collection of abodes, humble and happy;  
 This mellow glow among the foliage,  
 Like a golden blush along the face of the Earth;  
-This refuge, this hearth, this home, this magical village.
+This refuge, this hearth, this home, this magical village.  
 
 
 <br>
