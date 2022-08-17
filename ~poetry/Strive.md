@@ -30,7 +30,7 @@ Awaiting,
 Someone, something,  
 Right there for the taking.  
 
-Just a stretch of road away,  
+Just a stretch of timea away,  
 An age of brighter days,  
 Perhaps it was not meant to be.  
 
