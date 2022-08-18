@@ -22,7 +22,7 @@
 ## Qualitys
 
 <!-- <img src=".assets/sup/introvert.png" width="360px"> <img src=".assets/sup/curious.png" width="360px"> -->
-<img src=".assets/sup/creative.png" width="360px"> <!--img src=".assets/sup/focused.png" width="360px">
+<img src=".assets/sup/creative.png" width="360px"> <!--img src=".assets/sup/focused.png" width="360px"-->
 
 
 ## Interests
