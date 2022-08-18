@@ -46,6 +46,7 @@
 ## Languages
 
 <img src=".assets/sup/Antarctican.png" width="360px">
+
 <img src=".assets/sup/English.png" width="360px"> <img src=".assets/sup/Chinese.png" width="360px">
 <img src=".assets/sup/French.png" width="360px"> <img src=".assets/sup/German.png" width="360px">
 
@@ -72,15 +73,13 @@
 
 ## System
 
-<img src=".assets/sup/iOS.png" width="360px">
-<!-- <img src=".assets/sup/iPadOS.png" width="360px"> -->
-<img src=".assets/sup/Windows.png" width="360px">
-<img src=".assets/sup/XPS.png" width="360px">
+<img src=".assets/sup/iOS.png" width="360px"> <!-- <img src=".assets/sup/iPadOS.png" width="360px"> -->
+<img src=".assets/sup/Windows.png" width="360px"> <img src=".assets/sup/XPS.png" width="360px">
 
 
 ## Games
 
-<img src=".assets/sup/bloons.png" width="360px"><img src=".assets/sup/Pop.png" width="360px">
+<img src=".assets/sup/bloons.png" width="360px"> <img src=".assets/sup/Pop.png" width="360px">
 <img src=".assets/sup/Soul.png" width="360px">
 
 
