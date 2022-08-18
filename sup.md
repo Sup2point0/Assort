@@ -22,7 +22,7 @@
 ## Qualitys
 
 <!-- <img src=".assets/sup/introvert.png" width="360px"> <img src=".assets/sup/curious.png" width="360px"> -->
-<img src=".assets/sup/creative.png" width="360px"> <img src=".assets/sup/focused.png" width="360px">
+<img src=".assets/sup/creative.png" width="360px"> <!--img src=".assets/sup/focused.png" width="360px">
 
 
 ## Interests
@@ -65,7 +65,9 @@
 
 <img src=".assets/sup/PowerPoint.png" width="360px">
 <img src=".assets/sup/VSCode.png" width="360px"> <img src=".assets/sup/Unity.png" width="360px">
+<img src=".assets/sup/MolView.png" width="360px"> <!--img src=".assets/sup/IDLE.png" width="360px"-->
 <img src=".assets/sup/replit.png" width="360px">
+<img src=".assets/sup/iMovie.png" width="360px"> <img src=".assets/sup/MuseScore.png" width="360px">
 
 
 ## System
@@ -86,6 +88,9 @@
 
 <img src=".assets/sup/Slytherin.png" width="360px"> <img src=".assets/sup/Ravenclaw.png" width="360px">
 <img src=".assets/sup/Wand.png" width="360px"> <!-- <img src=".assets/sup/Patronus.png" width="360px"> -->
+
+
+## Content
 
 
 ## Miscellaneous
