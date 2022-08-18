@@ -2,46 +2,63 @@
   <img src=".assets/sup/sup.png" width="690px"> </a>
 </p>
 
-<p align="center"> An avid Portal with way too much in xis neural cortex. </p>
+<p align="center"> An avid portal with way too much in xis neural cortex. </p>
 
 ---
 
-<img src=".assets/sup/Antarctica.png" width="360px">
+<img src=".assets/sup/Antarctica.png" width="360px"> <img src=".assets/sup/Aventurina.png" width="360px">
+<img src=".assets/sup/Arteria.png" width="360px"> <img src=".assets/sup/NioTech.png" width="360px">
+<img src=".assets/sup/Synactris.png" width="360px"> <img src=".assets/sup/Slytherclaw.png" width="360px">
+
+<img src=".assets/sup/light.png" width="360px">
 
 
 ## Profiles
 
-<img src=".assets/sup/Scratch.png" width="360px">
+<img src=".assets/sup/Scratch.png" width="360px"> <img src=".assets/sup/Fandom.png" width="360px">
 <img src=".assets/sup/reddit.png" width="360px">
-<img src=".assets/sup/Fandom.png" width="360px">
 
 
 ## Qualitys
 
-<img src=".assets/sup/creative.png" width="360px">
+<!-- <img src=".assets/sup/introvert.png" width="360px"> <img src=".assets/sup/curious.png" width="360px"> -->
+<img src=".assets/sup/creative.png" width="360px"> <img src=".assets/sup/focused.png" width="360px">
 
 
 ## Interests
 
-<img src=".assets/sup/programming.png" width="360px">
-<img src=".assets/sup/graphics.png" width="360px">
+<img src=".assets/sup/gamedev.png" width="360px"> <img src=".assets/sup/programming.png" width="360px">
+<img src=".assets/sup/graphics.png" width="360px"> <img src=".assets/sup/composition.png" width="360px">
+<img src=".assets/sup/piano.png" width="360px"> <img src=".assets/sup/drums.png" width="360px">
 
-<img src=".assets/sup/organic.png" width="360px">
+<img src=".assets/sup/organic.png" width="360px"> <img src=".assets/sup/biochemistry.png" width="360px">
+<img src=".assets/sup/geometrics.png" width="360px"> <img src=".assets/sup/complex.png" width="360px">
+<img src=".assets/sup/electronic.png" width="360px"> <img src=".assets/sup/epic.png" width="360px">
+<img src=".assets/sup/language.png" width="360px"> <img src=".assets/sup/reading.png" width="360px">
+
+
+## Aptitudes
+
+<img src=".assets/sup/procrastinyzer.png" width="360px"> <img src=".assets/sup/burst.png" width="360px">
+<img src=".assets/sup/rubix.png" width="360px"> <img src=".assets/sup/typing.png" width="360px">
 
 
 ## Languages
 
 <img src=".assets/sup/Antarctican.png" width="360px">
+<img src=".assets/sup/English.png" width="360px"> <img src=".assets/sup/Chinese.png" width="360px">
+<img src=".assets/sup/French.png" width="360px"> <img src=".assets/sup/German.png" width="360px">
 
 
 ## Programming Languages
 
 <img src=".assets/sup/Scratch.png" width="360px"> <img src=".assets/sup/Python.png" width="360px">
-<!-- <img src=".assets/sup/HTML.png" width="360px"> <img src=".assets/sup/CSS.png" width="360px"> -->
+<img src=".assets/sup/HTML.png" width="360px"> <img src=".assets/sup/CSS.png" width="360px">
 <img src=".assets/sup/Swift.png" width="360px"> <img src=".assets/sup/CS.png" width="360px">
-<img src=".assets/sup/Markdown.png" width="360px"> <!-- <img src=".assets/sup/LATEX.png" width="360px"> -->
-<img src=".assets/sup/JSON.png" width="360px">
+<img src=".assets/sup/Markdown.png" width="360px"> <img src=".assets/sup/LATEX.png" width="360px">
+<!-- <img src=".assets/sup/supcode.png" width="360px"> <img src=".assets/sup/Carbon.png" width="360px"> -->
 <img src=".assets/sup/SQL.png" width="360px"> <img src=".assets/sup/MATLAB.png" width="360px">
+<img src=".assets/sup/JSON.png" width="360px">
 
 
 ## Applyzacions
@@ -61,7 +78,7 @@
 
 ## Games
 
-<img src=".assets/sup/Pop.png" width="360px">
+<img src=".assets/sup/bloons.png" width="360px"><img src=".assets/sup/Pop.png" width="360px">
 <img src=".assets/sup/Soul.png" width="360px">
 
 
@@ -74,3 +91,4 @@
 ## Miscellaneous
 
 <img src=".assets/sup/Monkeyopolis.png" width="360px">
+<img src=".assets/sup/duelist.png" width="360px">
