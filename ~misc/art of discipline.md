@@ -21,6 +21,9 @@ Vicious words let loose in the heat of a reprimand cause long-lasting hurt and s
 ### Do not be a hypocrite.
 You want change? You set an example first. Children have never been very good at listening to their elders, but they have never failed to imitate them.
 
+### Do not mock anyone.
+Childish.
+
 ### Do not make permanent decisions over temporary feelings.
 Should you then retract those decisions, you lose credibility and respect. Empty threats, while intimidating at first, quickly lose significance and insinuate incompetency.
 
