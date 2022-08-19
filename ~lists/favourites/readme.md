@@ -11,21 +11,21 @@ Every favourite thing you could ever imagine (eventually).
 | bedtime remark | ‘sweet dreams’ <br> ‘gnight’ | |
 | book genre | dystopian fantasy future fiction | romance |
 | car brand | Mercedes-Benz <br> Audi | |
-| colour | blue <br> pink | <br> orange <br> purple |
+| colour | blue <br> pink | orange <br> purple |
 | country | Antarctica | |
 | climate | temperate | |
 | day of week | Thursday | |
-| emoji | 👀 | {...} |
+| emoji | 👀 | ![blob.party](../../.assets/blob.party.gif) <br> ![blob.happy](../../.assets/blob.happy.png) <br> ![eyes.spastic](../../.assets/eyes.spastic.png) |
 | eye colour | anyone up for violet? | heterochromical blue-green |
-| fairytale | 
+| fairytale | Jack and the Beanstalk <br> Sleeping Beauty |
 | farewell | ‘cya’ <br> ‘gbye’ | |
 | feeling | nostalgia <br> satisfaction | |
 | film | *Spider-Man: Homecoming* | [view more](films.md) |
 | greeting | ‘sup’ | ‘heyo’ |
-| hair colour | black | deep blue if you really feel like dying it |
+| hair colour | black | red <br> deep blue if you really feel like dying it |
 | hair type | straight and silky | |
 | holiday | April Fools’ | |
-| instrument | synthesizer | piano <br> drums |
+| instrument | synthesyzer | piano <br> drums |
 | month | September <br> April | |
 | music artist | Elektronomia | [view more](music.md) |
 | music genre | electronic dance music | epic music |
@@ -44,7 +44,7 @@ Every favourite thing you could ever imagine (eventually).
 
 | category | favourite | favourites |
 | :------- | :-------- | :--------- |
-| cake flavour | chocolate |
+| cake flavour | chocolate | |
 | cereal | *Honey Monster* sugar puffs | *Kellogg’s* coco pops |
 | cookie flavour | chocolate | |
 | crisp flavour | *Lay’s* tomato | *Walker’s* cheese & onion |
@@ -85,9 +85,9 @@ Every favourite thing you could ever imagine (eventually).
 | biology field | immunology <br> genetics | |
 | car | Lamborghini Aventador SV | [view more](cars.md) |
 | chemical formula | skeletal | |
-| chemistry field | organic chemistry | |
+| chemistry field | organic chemistry | biochemistry |
 | internet domain | `.dev` | `.it` |
-| IDE | Visual Studio Code | |
+| IDE | Visual Studio Code | IDLE |
 | image editor | Microsoft PowerPoint | |
 | laptop | Dell XPS | |
 | lowercase letter | i <br> q | |
