@@ -17,6 +17,7 @@
 
 <img src=".assets/sup/Scratch.png" width="360px"> <img src=".assets/sup/Fandom.png" width="360px">
 <img src=".assets/sup/reddit.png" width="360px">
+<img src=".assets/sup/Bloons Wiki.png" width="360px">
 
 
 ## Qualitys
@@ -30,11 +31,12 @@
 <img src=".assets/sup/gamedev.png" width="360px"> <img src=".assets/sup/programming.png" width="360px">
 <img src=".assets/sup/graphics.png" width="360px"> <img src=".assets/sup/composition.png" width="360px">
 <img src=".assets/sup/piano.png" width="360px"> <img src=".assets/sup/drums.png" width="360px">
+<img src=".assets/sup/reading.png" width="360px"> <img src=".assets/sup/tennis.png" width="360px">
 
 <img src=".assets/sup/organic.png" width="360px"> <img src=".assets/sup/biochemistry.png" width="360px">
 <img src=".assets/sup/geometrics.png" width="360px"> <img src=".assets/sup/complex.png" width="360px">
 <img src=".assets/sup/electronic.png" width="360px"> <img src=".assets/sup/epic.png" width="360px">
-<img src=".assets/sup/language.png" width="360px"> <img src=".assets/sup/reading.png" width="360px">
+<img src=".assets/sup/language.png" width="360px">
 
 
 ## Aptitudes
@@ -64,10 +66,9 @@
 
 ## Applyzacions
 
-<img src=".assets/sup/PowerPoint.png" width="360px">
+<img src=".assets/sup/PowerPoint.png" width="360px"> <img src=".assets/sup/MolView.png" width="360px">
 <img src=".assets/sup/VSCode.png" width="360px"> <img src=".assets/sup/Unity.png" width="360px">
-<img src=".assets/sup/MolView.png" width="360px"> <!--img src=".assets/sup/IDLE.png" width="360px"-->
-<img src=".assets/sup/replit.png" width="360px">
+<!--img src=".assets/sup/IDLE.png" width="360px"--> <img src=".assets/sup/replit.png" width="360px">
 <img src=".assets/sup/iMovie.png" width="360px"> <img src=".assets/sup/MuseScore.png" width="360px">
 
 
@@ -95,4 +96,5 @@
 ## Miscellaneous
 
 <img src=".assets/sup/Monkeyopolis.png" width="360px">
+<img src=".assets/sup/Wikia.png" width="360px">
 <img src=".assets/sup/duelist.png" width="360px">
