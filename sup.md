@@ -15,7 +15,7 @@
 
 ## Profiles
 
-<a href="https://scratch.mit.edu/users/Sup2point0"> <img src=".assets/sup/Scratch.png" width="360px"> </a> <a href="https://community.fandom.com/wiki/User:Sup2point0"> <img src=".assets/sup/Fandom.png" width="360px"> </a>
+<a href="https://scratch.mit.edu/users/Sup2point0"> <img src=".assets/sup/Scratcher.png" width="360px"> </a> <a href="https://community.fandom.com/wiki/User:Sup2point0"> <img src=".assets/sup/Fandom.png" width="360px"> </a>
 <img src=".assets/sup/reddit.png" width="360px">
 <a href="https://bloons.fandom.com/wiki/User:Sup2point0"> <img src=".assets/sup/Bloons Wiki.png" width="360px"> </a>
 
