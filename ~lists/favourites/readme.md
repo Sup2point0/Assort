@@ -15,7 +15,7 @@ Every favourite thing you could ever imagine (eventually).
 | country | Antarctica | |
 | climate | temperate | |
 | day of week | Thursday | |
-| emoji | 👀 | <img src="../../.assets/blob.party.gif" width="20px"> <br> <img src="../../.assets/blob.happy.png" width="20px"> <br> <img src="../../.assets/eyes.spastic.png" width="20px"> |
+| emoji | 👀 | <img src="../../.assets/blob.party.gif" width="20px"> <img src="../../.assets/blob.happy.png" width="20px"> <img src="../../.assets/eyes.spastic.png" width="20px"> |
 | eye colour | anyone up for violet? | heterochromical blue-green |
 | fairytale | Jack and the Beanstalk <br> Sleeping Beauty |
 | farewell | ‘cya’ <br> ‘gbye’ | |
@@ -90,7 +90,7 @@ Every favourite thing you could ever imagine (eventually).
 | IDE | Visual Studio Code | IDLE |
 | image editor | Microsoft PowerPoint | |
 | laptop | Dell XPS | |
-| lowercase letter | i <br> q | |
+| lowercase letter | `i`, `q` | |
 | mainstream subreddit | r/showerthoughts | |
 | mathematician | Euclid | |
 | mathematics field | geometry | complex numbers |
@@ -104,7 +104,7 @@ Every favourite thing you could ever imagine (eventually).
 | programming language | Python | Markdown <br> CSS |
 | subreddit | [r/programmerhumor](https://reddit.com/r/programmerhumor) <br> [r/chemistrymemes](https://reddit.com/r/chemistrymemes) <br> [r/cursedchemistry](https://reddit.com/r/cursedchemistry) | |
 | tablet | 2019 iPad Air (3rd gen) | |
-| uppercase letter | Q <br> J <br> V | |
+| uppercase letter | `Q`, `J`, `V` | |
 
 
 ## Random
