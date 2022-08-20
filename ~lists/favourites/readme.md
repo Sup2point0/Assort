@@ -82,6 +82,7 @@ Every favourite thing you could ever imagine (eventually).
 | category | favourite | favourites |
 | :------- | :-------- | :--------- |
 | art | modern flat vector | |
+| aspect ratio | 16:9 |
 | biology field | immunology <br> genetics | |
 | car | Lamborghini Aventador SV | [view more](cars.md) |
 | chemical formula | skeletal | |
@@ -89,6 +90,7 @@ Every favourite thing you could ever imagine (eventually).
 | internet domain | `.dev` | `.it` |
 | IDE | Visual Studio Code | IDLE |
 | image editor | Microsoft PowerPoint | |
+| iOS version | 12 | |
 | laptop | Dell XPS | |
 | lowercase letter | `i`, `q` | |
 | mainstream subreddit | r/showerthoughts | |
