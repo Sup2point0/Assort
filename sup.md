@@ -22,8 +22,10 @@
 
 ## Qualitys
 
-<!-- <img src=".assets/sup/introvert.png" width="360px"> <img src=".assets/sup/curious.png" width="360px"> -->
-<img src=".assets/sup/creative.png" width="360px"> <!--img src=".assets/sup/focused.png" width="360px"-->
+<img src=".assets/sup/introvert.png" width="360px"> <img src=".assets/sup/curious.png" width="360px">
+<img src=".assets/sup/independent.png" width="360px"> <img src=".assets/sup/driven.png" width="360px">
+<img src=".assets/sup/creative.png" width="360px"> <img src=".assets/sup/focused.png" width="360px">
+<img src=".assets/sup/turbulent.png" width="360px"> <img src=".assets/sup/nihilist.png" width="360px">
 
 
 ## Interests
