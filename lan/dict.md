@@ -13,6 +13,7 @@ All the fictive words I’ve created.
 
 <table>
   <td>
+    <a href="#acronyze">acronyze</a> <br>
     <a href="#affine">affine</a> <br>
     <a href="#affinical">affinical</a> <br>
     <a href="#affinics">affinics</a> <br>
@@ -23,11 +24,14 @@ All the fictive words I’ve created.
     <a href="#affinityzacion">affinityzacion</a> <br>
     <a href="#affinityze">affinityze</a> <br>
     <a href="#antect">antect</a> <br>
+    <a href="#arculent">arculent</a> <br>
+    <a href="#aspect">aspect</a> <br>
     <a href="#avricop">avricop</a> <br>
     <a href="#antive">antive</a> <br>
     <a href="#antectical">antectical</a> <br>
     <a href="#antectics">antectics</a> <br>
     <a href="#crabatista">crabatista</a> <br>
+    <a href="#dawntime">dawntime</a> <br>
     <a href="#decant">decant</a> <br>
     <a href="#decate">decate</a> <br>
     <a href="#deuteric">deuteric</a> <br>
@@ -35,18 +39,27 @@ All the fictive words I’ve created.
     <a href="#didecant">didecant</a> <br>
     <a href="#eximplode">eximplode</a> <br>
     <a href="#greencorn">greencorn</a> <br>
+    <a href="#halfwhat">halfwhat</a> <br>
     <a href="#lynt">lynt</a> <br>
     <a href="#protic">protic</a> <br>
     <a href="#protive">protive</a> <br>
     <a href="#superaffinity">superaffinity</a> <br>
     <a href="#sylonautilla">sylonautilla</a> <br>
     <a href="#synthevetix">synthevetix</a> <br>
-    <a href="#Tersolle">Tersolle</a> <br>
+    <a href="#tersolle">Tersolle</a> <br>
+    <a href="#xeliqive">xeliqive</a> <br>
+    <a href="#xelique">xelique</a> <br>
+    <a href="##">–</a> <br>
+    <a href="#xeniqive">xeniqive</a> <br>
     <a href="#xenique">xenique</a> <br>
     <a href="#xenitic">xenitic</a> <br>
     <a href="#xenitive">xenitive</a> <br>
+    <a href="#xenoqive">xenoqive</a> <br>
     <a href="#xenoque">xenoque</a> <br>
+    <a href="#xeri">Xeri</a> <br>
+    <a href="#xeriqive">xeriqive</a> <br>
     <a href="#xerique">xerique</a> <br>
+    <a href="#xero">Xero</a> <br>
     <a href="#xeroque">xeroque</a> <br>
     <a href="##">–</a> <br>
     <a href="##">–</a>
