@@ -13,6 +13,7 @@ Unsure where to start? Try checking out some of these!
 [Ascense](Ascense)  
 
 ### Files
+<!-- [xeriques](xeriques.md) -->
 [koniokinetis](affine/affinitys/koniokinetis.md)  
 [Darkchoke Curse](affine/spells/asphyxiskotadi.md)  
 [Ultraman Infinity](Ultraman/Ultraman%20Infinity.md)  
