@@ -11,7 +11,7 @@
 | [hex of terrors](spells/ephialtes) | *ephialtes* | induces nightmares on target |
 | [jinx of fear](spells/fovos.md) | *fovos* | induces fear in target |
 | [–](spells/horizo.md) | *horizo* | |
-| [–](spells/tyfloselare.md) | *tyfloselare* | dispels stream of blinding light at target |
+| [–](spells/tyfloselari.md) | *tyfloselari* | dispels stream of blinding light at target |
 | [–](spells/veloskryos.md) | *veloskryos* | |
 | [deflection spell](spells/volektrepis.md) | *volektrepis* | deflects projectiles or spells |
 | [evincing charm](spells/ypopyphanys.md) | *ypopyphanys* | reveals true nature of target |
