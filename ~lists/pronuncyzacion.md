@@ -23,6 +23,10 @@ Some words I first encountered through only text, and so devyzed my own pronunci
 
 `/ˌpɒlɪˈprəʊpɪliːn/` » `/ˌpɒlɪˈprɒpɪliːn/`
 
+### postpone
+
+`/pəʊs(t)ˈpəʊn/` » `/pəʊsˈfəʊn/`
+
 ### propadiene
 
 `/proʊpə'dʌɪiːn/` » `/proʊpə'diːn/`
