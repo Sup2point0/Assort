@@ -15,7 +15,7 @@ Some words I first encountered through only text, and so devyzed my own pronunci
 
 `/ɪərɪəm/` » `/ɛrɪəm/`
 
-### polymerization
+### polymeryzacion
 
 `/ˌpɒliːmərʌɪˈzəɪʃ(ə)n/` » `/ˌpɒliːˌmɛrʌɪˈzəɪʃ(ə)n, ˌpɒliːˈmɛrɪzəɪʃ(ə)n/`
 
