@@ -19,6 +19,34 @@ Unsure where to start? Try checking out some of these!
 [Myriad Manifestation Trident](Myriad%20Manifestation%20Trident.md)  
 
 
+## Tiers
+
+The tiers used in [favourites](~lists/favourites).
+
+<table>
+  <tr>
+    <th align="left"> xeniqive </th>
+    <td> – </td>
+  </tr>
+  <tr>
+    <th align="left"> legendary </th>
+    <td> – </td>
+  </tr>
+  <tr>
+    <th align="left"> incredible </th>
+    <td> – </td>
+  </tr>
+  <tr>
+    <th align="left"> awesome </th>
+    <td> – </td>
+  </tr>
+  <tr>
+    <th align="left"> cool </th>
+    <td> – </td>
+  </tr>
+</table>
+
+
 ## Spectrus
 
 The scale of magnitude used throughout various sections.
