@@ -21,11 +21,11 @@
   </tr>
   <tr>
     <td> incantyzation </td>
-    <td> <em> tyfloselare </em> </td>
+    <td> <em> tyfloselari </em> </td>
   </tr>
   <tr>
     <td> pronouncyzation </td>
-    <td> <code> /ˌtɪfləʊsɛˈlɑːreɪ, /ˌtɪfləʊsəˈlɑːreɪ// </code> </td>
+    <td> <code> /ˌtɪfləʊsɛˈlɑːri, ˌtɪfləʊsəˈlɑːri/ </code> </td>
   </tr>
 </table>
 
@@ -50,7 +50,7 @@
 ### Emergence
 
 ### Etymologics
-Greek **τυφλός** *tuphlós* ‘blind’ + **σέλᾰς** *sélas* ‘light, shine’ + Latin ***-are***
+Greek **τυφλός** *tuphlós* ‘blind’ + **σέλᾰς** *sélas* ‘light, shine’
 
 
 <br>
