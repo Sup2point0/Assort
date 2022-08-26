@@ -9,8 +9,10 @@ Every favourite thing you could ever imagine (eventually).
 | :------- | :-------- | :--------- |
 | animal | dragon <br> spider | |
 | bedtime remark | ‘sweet dreams’ <br> ‘gnight’ | |
+| board game | Settlers of Catan | Scrabble <br> Go <br> chess |
 | book genre | dystopian fantasy future fiction | romance |
 | car brand | Mercedes-Benz <br> Audi | |
+| card game | *Yu-Gi-Oh!* | Uno |
 | colour | blue <br> pink | orange <br> purple |
 | country | Antarctica | |
 | climate | temperate | |
@@ -87,6 +89,7 @@ Every favourite thing you could ever imagine (eventually).
 | car | Lamborghini Aventador SV | [view more](cars.md) |
 | chemical formula | skeletal | |
 | chemistry field | organic chemistry | biochemistry |
+| chess opening | Ruy Lopez | Sicilian Defence – Accelerated Dragon |
 | internet domain | `.dev` | `.it` |
 | IDE | Visual Studio Code | IDLE |
 | image editor | Microsoft PowerPoint | |
