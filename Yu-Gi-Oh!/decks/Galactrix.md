@@ -83,8 +83,8 @@
 | x1 | [Galactron Cyber Dragon](../cards/Galactron%20.md) | 7 ★★★★★★★ | Link |
 | x1 | [Galactron Arc Dragon](../cards/Galactron%20.md) | 8 ★★★★★★★★ | Link |
 | x1 | [Galactron Wing Dragon](../cards/Galactron%20.md) | 9 ★★★★★★★★★ | Synchro |
-| x1 | [Galactron STAR Synchron](../cards/Galactron%20.md) | 6 ★★★★★★★★ | Tuner Synchro | 1 ‘Galactron’ Tuner + 1+ Non-Tuner Machine Monsters |
-| x1 | [Galactron STAR Sabre](../cards/Galactron%20.md) | 7 ★★★★★★★★★ | Tuner Synchro | 1 ‘Galactron’ Tuner + 1+ Non-Tuner Machine Monsters |
+| x1 | [Galactron STAR Synchron](../cards/Galactron%20.md) | 6 ★★★★★★ | Tuner Synchro | 1 ‘Galactron’ Tuner + 1+ Non-Tuner Machine Monsters |
+| x1 | [Galactron STAR Sabre](../cards/Galactron%20.md) | 7 ★★★★★★★ | Tuner Synchro | 1 ‘Galactron’ Tuner + 1+ Non-Tuner Machine Monsters |
 | x1 | [Galactron STAR Destiny](../cards/Galactron%20.md) | 10 ★★★★★★★★★★ | Special Synchro | |
 | x1 | [Galactron STAR Legend](../cards/Galactron%20.md) | 11 ★★★★★★★★★★★ | Special Synchro | |
 | x1 | [Galactron Supreme](../cards/Galactron%20.md) | 11 ★★★★★★★★★★★ | Special Fusion | 3 ‘Galactron’ monsters |
