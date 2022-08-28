@@ -24,7 +24,7 @@
 
 | card | level | type | ATK/DEF |
 | :--- | :---- | :--- | :------ |
-| [–](../cards/monsters/–/–.md) | n ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ | – | – |
+| [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – | – |
 
 </details>
 
