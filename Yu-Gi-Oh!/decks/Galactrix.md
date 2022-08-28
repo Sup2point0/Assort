@@ -76,19 +76,19 @@
 | count | card | level | type | material |
 | :---- | :--- | :---- | :--- | :------- |
 | x1 | [Galactron MK-4](../cards/Galactron%20.md) | 8 ★★★★★★★★ | Fusion | ‘Galactron MK-II’ + ‘Galactron MK-II’ OR <br> ‘Galactron M4’ + 1 ‘Galactron MK-I’ |
-| x1 | [Galactron MK-X](../cards/Galactron%20.md) | 10 ★★★★★★★★★★ | Ritual Fusion | ‘Galactron MK-R’ + 1+ ‘Galactron M’ monsters |
+| x1 | [Galactron MK-X](../cards/Galactron%20.md) | 10 ★★★★★★★★★★ | Ritual Fusion | ‘Galactron MK-R’ + 1+ ‘Galactron M’ Monsters |
 | x1 | [Galactron MK-4X](../cards/Galactron%20.md) | 10 ★★★★★★★★★★ | Fusion Fusion | ‘Galactron MK-4’ + ‘Galactron MK-X’ |
-| x1 | [Galactron Dark](../cards/Galactron%20.md) | 5 ★★★★★ | Xyz | 2+ Level 5 ‘Galactron’ monsters |
-| x1 | [Galactron MK-Z](../cards/Galactron%20.md) | 6 ★★★★★★ | Xyz | 1 Level 6 ‘Galactron MK’ monster + 1+ Level 6 ‘Galactron’ monsters
+| x1 | [Galactron Dark](../cards/Galactron%20.md) | 5 ★★★★★ | Xyz | 2+ Level 5 ‘Galactron’ Monsters |
+| x1 | [Galactron MK-Z](../cards/Galactron%20.md) | 6 ★★★★★★ | Xyz | 1 Level 6 ‘Galactron MK’ Monster + 1+ Level 6 ‘Galactron’ Monsters
 | x1 | [Galactron Cyber Dragon](../cards/Galactron%20.md) | 7 ★★★★★★★ | Link |
 | x1 | [Galactron Arc Dragon](../cards/Galactron%20.md) | 8 ★★★★★★★★ | Link |
 | x1 | [Galactron Wing Dragon](../cards/Galactron%20.md) | 9 ★★★★★★★★★ | Synchro |
 | x1 | [Galactron STAR Synchron](../cards/Galactron%20.md) | 6 ★★★★★★ | Tuner Synchro | 1 ‘Galactron’ Tuner + 1+ Non-Tuner Machine Monsters |
 | x1 | [Galactron STAR Sabre](../cards/Galactron%20.md) | 7 ★★★★★★★ | Tuner Synchro | 1 ‘Galactron’ Tuner + 1+ Non-Tuner Machine Monsters |
-| x1 | [Galactron STAR Destiny](../cards/Galactron%20.md) | 10 ★★★★★★★★★★ | Special Synchro | |
-| x1 | [Galactron STAR Legend](../cards/Galactron%20.md) | 11 ★★★★★★★★★★★ | Special Synchro | |
-| x1 | [Galactron Supreme](../cards/Galactron%20.md) | 11 ★★★★★★★★★★★ | Special Fusion | 3 ‘Galactron’ monsters |
-| x1 | [Galactron King](../cards/Galactron%20.md) | 12 ★★★★★★★★★★★★ | Special Fusion | 2 ‘Galactron’ Special Summon monsters |
+| x1 | [Galactron STAR Destiny](../cards/Galactron%20.md) | 10 ★★★★★★★★★★ | Special Synchro | 1 ‘Galactron STAR’ Tuner Synchro Monster + 1+ ‘Galactron’ Non-Tuner Monsters |
+| x1 | [Galactron STAR Legend](../cards/Galactron%20.md) | 11 ★★★★★★★★★★★ | Special Synchro | 1 ‘Galactron STAR’ Tuner Synchro Monster + 1+ ‘Galactron’ Non-Tuner Monsters |
+| x1 | [Galactron Supreme](../cards/Galactron%20.md) | 11 ★★★★★★★★★★★ | Special Fusion | 3 ‘Galactron’ Monsters |
+| x1 | [Galactron King](../cards/Galactron%20.md) | 12 ★★★★★★★★★★★★ | Special Fusion | 2 ‘Galactron’ Special Summon Monsters |
 
 </details>
 ‘’
