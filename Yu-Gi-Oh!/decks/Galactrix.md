@@ -16,12 +16,12 @@
 
 | Type | count |
 | :--- | :---- |
-| Tuner | x |
+| Tuner | x11 |
 | Ritual | x1 |
-| Fusion | x |
-| Synchro | x |
-| Xyz | x |
-| Link | x |
+| Fusion | x5 |
+| Synchro | x5 |
+| Xyz | x2 |
+| Link | x2 |
 
 ### Monsters
 
@@ -30,7 +30,7 @@
 
 | count | card | level | notes |
 | :---- | :--- | :---- | :---- |
-| x1 | [Technic Fragment]../cards/monsters/Technic%20Fragment.md) | 1 ★★ | double sacrifice |
+| x1 | [Technic Fragment](../cards/monsters/Technic%20Fragment.md) | 1 ★★ | double sacrifice |
 | x3 | [Galactron Fragment](../cards/Galactron%20.md) | 2 ★★ | |
 | x3 | [Galactron Shard](../cards/Galactron%20.md) | 2 ★★ | |
 | x2 | [Galactron Chain](../cards/Galactron%20.md) | 1 ★ | |
