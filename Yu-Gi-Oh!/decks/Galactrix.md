@@ -1,4 +1,4 @@
-# Galaxtrix
+# Galactrix
 
 {desc}
 
@@ -10,11 +10,24 @@
 
 | type | count |
 | :--- | :---- |
-| monster | x26 |
+| monster | x27 |
 | spell | x |
 | trap | x |
 
+| Type | count |
+| :--- | :---- |
+| Tuner | x |
+| Ritual | x1 |
+| Pendulum | x |
+| Fusion | x |
+| Synchro | x |
+| Xyz | x |
+| Link | x |
+
 ### Monsters
+
+<details open>
+  <summary> <b> display </b> </summary> <br>
 
 | count | card | level | notes |
 | :---- | :--- | :---- | :---- |
@@ -30,11 +43,34 @@
 | x2 | [Galactron MK-I](../cards/Galactron%20.md) | 5 ★★★★★ | |
 | x2 | [Galactron MK-II](../cards/Galactron%20.md) | 6 ★★★★★★ | |
 | x1 | [Galactron MK-R](../cards/Galactron%20.md) | 8 ★★★★★★★★ | Ritual |
-| x1 | [Galactron STAR Dragon](../cards/Galactron%20.md) | 8 ★★★★★★★★ | |
 | x1 | [Galactron STAR Cannon](../cards/Galactron%20.md) | 7 ★★★★★★★ | |
+| x1 | [Galactron STAR Dragon](../cards/Galactron%20.md) | 8 ★★★★★★★★ | |
 | x1 | [Galactron STAR Knight](../cards/Galactron%20.md) | 9 ★★★★★★★★★ | |
 
+</details>
+
+### Spells
+
+<details open>
+  <summary> <b> display </b> </summary> <br>
+
+
+
+</details>
+
+### Traps
+
+<details open>
+  <summary> <b> display </b> </summary> <br>
+
+
+
+</details>
+
 ### Extra Deck
+
+<details open>
+  <summary> <b> display </b> </summary> <br>
 
 | count | card | level | type | material | notes |
 | :---- | :--- | :---- | :--- | :------- | :---- |
@@ -50,3 +86,6 @@
 | x1 | [Galactron Dark](../cards/Galactron%20.md) | 10 ★★★★★★★★★★ | |
 | x1 | [Galactron Supreme](../cards/Galactron%20.md) | 11 ★★★★★★★★★★★ | |
 | x1 | [Galactron King](../cards/Galactron%20.md) | 12 ★★★★★★★★★★★★ | |
+
+</details>
+‘’
