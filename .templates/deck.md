@@ -33,9 +33,9 @@
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| count | card | type |
-| :---- | :--- | :--- |
-| x1 | [–](../cards/spells/–.md) | – |
+| card | type |
+| :--- | :--- |
+| [–](../cards/spells/–.md) | – |
 
 </details>
 
@@ -44,9 +44,9 @@
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| count | card | type |
-| :---- | :--- | :--- |
-| x1 | [–](../cards/traps/–.md) | – |
+| card | type |
+| :--- | :--- |
+| [–](../cards/traps/–.md) | – |
 
 </details>
 
@@ -57,3 +57,9 @@
 ## Strategics
 
 {...}
+
+
+<br>
+
+
+## Trivia
