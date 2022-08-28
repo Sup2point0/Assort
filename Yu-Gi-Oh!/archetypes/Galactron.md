@@ -34,7 +34,7 @@ An archetype of LIGHT Machine Monsters inspired by the [Galactron](https://ultra
 | [Galactron M2](../cards/monsters/Galactron%20M2.md) | 4 ★★★★ | | 1800 / 1400 |
 | [Galactron M3](../cards/monsters/Galactron%20M3.md) | 5 ★★★★★ | Tuner | 2100 / 1700 |
 | [Galactron M4](../cards/monsters/Galactron%20M4.md) | 6 ★★★★★★ | Tuner | 2400 / 2000 |
-| [Galactron M0](../cards/monsters/Galactron%20M0.md) | 0 | 400 / 0 |
+| [Galactron M0](../cards/monsters/Galactron%20M0.md) | 0 | | 400 / 0 |
 | [Galactron MK-I](../cards/monsters/Galactron%20MK-I.md) | 5 ★★★★★ | | 2000 / 2000 |
 | [Galactron MK-II](../cards/monsters/Galactron%20MK-II.md) | 6 ★★★★★★ | | 2500 / 2500 |
 | [Galactron MK-R](../cards/monsters/Galactron%20MK-R.md) | 8 ★★★★★★★★ | Ritual | 3000 / 3000 |
@@ -50,7 +50,7 @@ An archetype of LIGHT Machine Monsters inspired by the [Galactron](https://ultra
 
 | card | level | type | ATK/DEF | material |
 | :--- | :---- | :--- | :------ | :------- |
-| [Galactron MK-4](../cards/monsters/Galactron%20.md) | 8 ★★★★★★★★ | Fusion | 3000 / 3000 | ‘Galactron MK-II’ + ‘Galactron MK-II’ OR <br> ‘Galactron M4’ + ‘Galactron MK-I’ |
+| [Galactron MK-4](../cards/monsters/Galactron%20.md) | 8 ★★★★★★★★ | Contact Fusion | 3000 / 3000 | ‘Galactron MK-II’ + ‘Galactron MK-II’ OR <br> ‘Galactron M4’ + ‘Galactron MK-I’ |
 | [Galactron MK-X](../cards/monsters/Galactron%20.md) | 10 ★★★★★★★★★★ | Ritual Fusion | 3500 / 3000 | ‘Galactron MK-R’ + 1 ‘Galactron M’ or ‘Galactron MK’ Monster |
 | [Galactron MK-4X](../cards/monsters/Galactron%20.md) | 10 ★★★★★★★★★★ | Fusion Fusion | 4000 / 4000 | ‘Galactron MK-4’ + ‘Galactron MK-X’ |
 | [Galactron Dark](../cards/monsters/Galactron%20.md) | 5 ★★★★★ | Xyz | –/– | – |
@@ -64,6 +64,11 @@ An archetype of LIGHT Machine Monsters inspired by the [Galactron](https://ultra
 | [Galactron STAR ](../cards/monsters/Galactron%20.md) | | Synchro | -/- | – |
 | [Galactron STAR Destiny](../cards/monsters/Galactron%20.md) | 10 ★★★★★★★★★★ | Special Synchro | 4000 / 3000 | 1 ‘Galactron STAR’ Tuner Synchro Monster + 1+ ‘Galactron’ Non-Tuner Monsters |
 | [Galactron STAR Legend](../cards/monsters/Galactron%20.md) | 11 ★★★★★★★★★★★ | Special Synchro | 4000 / 3600 | 1 ‘Galactron STAR’ Tuner Synchro Monster + 1+ ‘Galactron’ Non-Tuner Monsters |
+| [Galactron NOVA Strix] |
+| [Galactron NOVA Burst] |
+| [Galactron NOVA Dragon] |
+| [Galactron NOVA Phoenix] |
+| [Galactron NOVA Legend] |
 | [Galactron Supreme](../cards/monsters/Galactron%20.md) | 11 ★★★★★★★★★★★ | Special Fusion | 4500 / 4000 | 3 unique ‘Galactron’ Special Summon Monsters |
 | [Galactron King](../cards/monsters/Galactron%20.md) | 12 ★★★★★★★★★★★★ | Special Fusion | 5000 / 5000 | 3 ‘Galactron’ Special Summon Monsters |
 
