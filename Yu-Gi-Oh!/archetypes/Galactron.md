@@ -1,6 +1,6 @@
 # Galactron
 
-{desc}
+An archetype of LIGHT Machine Monsters inspired by the [Galactron](https://ultra.fandom.com/wiki/Galactron) Kaiju from Ultraman.
 
 
 <br>
@@ -108,3 +108,11 @@
 | x1 | [–](../cards/traps/–.md) | – |
 
 </details>
+
+
+<br>
+
+
+## Trivia
+
+- The Galactron archetype can utilyze every type of Summoning mechanic without leaving its archetype.
