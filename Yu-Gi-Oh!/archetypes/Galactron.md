@@ -52,7 +52,7 @@ An archetype of LIGHT Machine Monsters inspired by the [Galactron](https://ultra
 
 | card | level | type | ATK/DEF | material |
 | :--- | :---- | :--- | :------ | :------- |
-| [Galactron MK-4](../cards/monsters/fusion/Galactron%20MK-4.md) | 8 ★★★★★★★★ | Contact Fusion | 3000 / 3000 | *Galactron MK-II* + <br> *Galactron MK-II* <br> OR <br> *Galactron M4* + <br> *Galactron MK-I* |
+| [Galactron MK-4](../cards/monsters/fusion/Galactron%20MK-4.md) | 8 ★★★★★★★★ | Contact Fusion | 3000 / 3000 | *Galactron MK-II* + *Galactron MK-II* <br> OR <br> *Galactron M4* + *Galactron MK-I* |
 | [Galactron MK-X](../cards/monsters/fusion/Galactron%20MK-X.md) | 10 ★★★★★★★★★★ | Ritual Fusion | 3500 / 3000 | *Galactron MK-R* + <br> 1 ‘Galactron M’ or ‘Galactron MK’ Monster |
 | [Galactron MK-4X](../cards/monsters/fusion/Galactron%20MK-4X.md) | 10 ★★★★★★★★★★ | Fusion Fusion | 4000 / 4000 | *Galactron MK-4* + <br> *Galactron MK-X* |
 | [Galactron Dark](../cards/monsters/Galactron%20.md) | 5 ★★★★★ | Xyz | –/– | – |
