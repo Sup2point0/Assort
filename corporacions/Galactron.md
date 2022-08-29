@@ -48,6 +48,7 @@
 | Galactron M1 | |
 | Galactron M2 | |
 | Galactron M3 <br> Galactron M3 EVO | |
+| Galactron M4 | |
 | | Galactron MK-1C |
 | | Galactron MK-1 |
 | | Galactron MK-2 |
@@ -67,8 +68,6 @@
 | | Galactron MX-2 |
 | | Galactron MX-3 |
 | | Galactron MX-4 Ultimate |
-
-### Generation Iotron
 
 ### Generation Orbitron
 
