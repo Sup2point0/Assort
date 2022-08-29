@@ -1,6 +1,6 @@
-# Corporations
+# Corporacions
 
-An assortment of (fictional) corporations in all fields, but mostly technologics.
+An assortment of (fictional) corporacions in all fields, but mostly technologics.
 
 
 <br>
