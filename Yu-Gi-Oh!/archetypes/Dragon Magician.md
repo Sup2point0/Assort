@@ -29,6 +29,7 @@
 | :--- | :---- | :--- | :------ | :------- |
 | [Dragonark Magician](../cards/monsters/–/Dragonark%20Magician.md) | 6 ★★★★★★ | Fusion Pendulum | – | |
 | [Dragonspark Magician](../cards/monsters/–/Dragonspark%20Magician.md) | 7 ★★★★★★★ | Fusion Pendulum | – | |
+| [Dragonplasm Magician](../cards/monsters/–/Dragonspark%20Magician.md) | 7 ★★★★★★★ | Synchro Pendulum | – | |
 | [Dragonknight Magician](../cards/monsters/–/Dragonknight%20Magician.md) | 8 ★★★★★★★★ | Fusion Pendulum | – | |
 
 
