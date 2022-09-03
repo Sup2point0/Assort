@@ -3,9 +3,6 @@
 An assortment of (fictional) corporacions in all fields, but mostly technologics.
 
 
-<br>
-
-
 ## Index
 
 [2.0 Studios](2.0%20Studios.md)  
