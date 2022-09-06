@@ -1,6 +1,6 @@
 # Archetypes
 
-All the archetypes of cards I’ve created.
+All the archetypes of custom cards I’ve cryzen.
 
 
 ## Index
@@ -11,5 +11,5 @@ All the archetypes of cards I’ve created.
 [Klyntax](Klyntax.md)  
 [Soul](Soul.md)  
 [Spidey](Spidey.md)  
-Kaiju
-Chemistry
+[Kaiju](Kaiju.md)  
+[Chemistry](Chemistry.md)  
