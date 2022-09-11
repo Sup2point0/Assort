@@ -20,11 +20,20 @@
 ### Monsters
 
 <details open>
-  <summary> <b> display </b> </summary> <br>
+  <summary> <b> Main Deck </b> </summary> <br>
 
-| card | level | type | ATK/DEF |
-| :--- | :---- | :--- | :------ |
-| [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – | – |
+| card | level | ATK/DEF | type |
+| :--- | :---- | :------ | :--- |
+| [–](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
+
+</details>
+
+<details open>
+  <summary> <b> Extra Deck </b> </summary> <br>
+
+| card | level | ATK/DEF | type | material |
+| :--- | :---- | :------ | :--- | :------- |
+| [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – / – | – | – |
 
 </details>
 
