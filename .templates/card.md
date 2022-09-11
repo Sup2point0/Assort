@@ -35,7 +35,15 @@
     <td> – / – </td>
   </tr>
   <tr>
+    <td> material </td>
     <td> – </td>
+  </tr>
+  <tr>
+    <td> special </td>
+    <td> – </td>
+  </tr>
+  <tr>
+    <td> effect </td>
     <td> – </td>
   </tr>
 </table>
