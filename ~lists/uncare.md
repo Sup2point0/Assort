@@ -5,6 +5,6 @@
 
 ### News
 
-### History
+### Historics
 
 ### Religion
