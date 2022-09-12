@@ -15,7 +15,7 @@ Some words I first encountered through only text, and so devyzed my own pronunci
 
 `/ɪərɪəm/` » `/ɛrɪəm/`
 
-### polymeryzacion
+### polymerization
 
 `/ˌpɒliːmərʌɪˈzəɪʃ(ə)n/` » `/ˌpɒliːˌmɛrʌɪˈzəɪʃ(ə)n, ˌpɒliːˈmɛrɪzəɪʃ(ə)n/`
 
@@ -34,6 +34,10 @@ Some words I first encountered through only text, and so devyzed my own pronunci
 ### psychiatry
 
 `/sʌɪ'kʌɪətri/` » `/ˌsʌɪkiːˈatri/`
+
+### scythe
+
+`sʌɪð]` » `skiːθ`
 
 ### symbolism
 
