@@ -22,18 +22,18 @@
 <details open>
   <summary> <b> Main Deck </b> </summary> <br>
 
-| card | level | ATK/DEF | type |
-| :--- | :---- | :------ | :--- |
-| [–](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
+| card | level | ATK/DEF | type | attribute |
+| :--- | :---- | :------ | :--- | :-------- |
+| [–](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – | – |
 
 </details>
 
 <details open>
   <summary> <b> Extra Deck </b> </summary> <br>
 
-| card | level | ATK/DEF | type | material |
-| :--- | :---- | :------ | :--- | :------- |
-| [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – / – | – | – |
+| card | level | ATK/DEF | type | attribute | material |
+| :--- | :---- | :------ | :--- | :-------- | :------- |
+| [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – / – | – | – | – |
 
 </details>
 
