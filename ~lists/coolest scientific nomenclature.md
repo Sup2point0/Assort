@@ -3,6 +3,8 @@ Scientists and mathematicians may be the absolute worst at naming stuff, but the
 
 ## Coolest Nomenclature in STEM Subjects
 
+### dendrite
+
 ### exponentiation
 
 ### polymerization
@@ -10,6 +12,8 @@ Scientists and mathematicians may be the absolute worst at naming stuff, but the
 ### quasar
 
 ### supernova
+
+### synapse
 
 ### trigonometry
 
