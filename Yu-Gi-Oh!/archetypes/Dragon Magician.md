@@ -19,8 +19,8 @@
 <details open>
   <summary> <b> Main Deck </b> </summary> <br>
 
-| card | level | ATK/DEF | type | attribute |
-| :--- | :---- | :------ | :--- | :-------- |
+| card | level | scale | ATK/DEF | type | attribute |
+| :--- | :---- | :---- | :------ | :--- | :-------- |
 | [Dragonspear Magician](../cards/monsters/pendulum/Dragonspear%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Pendulum | – |
 | [Dragonlance Magician](../cards/monsters/pendulum/Dragonlance%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Pendulum | – |
 | [Dragonpoint Magician](../cards/monsters/pendulum/Dragonpoint%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Pendulum | – |
@@ -53,24 +53,26 @@
 <details open>
   <summary> <b> Extra Deck </b> </summary> <br>
 
-| card | level | ATK/DEF | type | attribute | material |
-| :--- | :---- | :------ | :--- | :-------- | :------- |
-| [Dragonknight Magician](../cards/monsters/fusion/Dragonknight%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Fusion Pendulum | – | – |
-| [Dragonguard Magician](../cards/monsters/fusion/Dragon%20Magicianguard.md) | n ★★★★★★★★★★★★ | – / – | Fusion Pendulum | – | – |
-| [Dragonark Magician](../cards/monsters/fusion/Dragonark%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Fusion Pendulum | – | – |
-| [Dragonspark Magician](../cards/monsters/fusion/Dragonspark%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Fusion Pendulum | – | – |
-| [Dragonflare Magician](../cards/monsters/synchro/Dragonflare%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Synchro Pendulum | – | – |
-| [Dragonslash Magician](../cards/monsters/synchro/Dragonslash%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Synchro Pendulum | – | – |
-| [Dragonheart Magician](../cards/monsters/synchro/Dragonheart%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Synchro Pendulum | – | – |
-| [Dragonspirit Magician](../cards/monsters/synchro/Dragonspirit%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Synchro Pendulum | – | – |
-| [Dragonmech Magician](../cards/monsters/xyz/Dragonmech%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Xyz Pendulum | – | – |
-| [Dragonplasm Magician](../cards/monsters/xyz/Dragonplasm%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Xyz Pendulum | – | – |
-| [Dragonflux Magician](../cards/monsters/link/Dragonflux%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Link Pendulum | – | – |
-| [Dragonplex Magician](../cards/monsters/link/Dragonplex%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Link Pendulum | – | – |
+| card | level | scale | ATK/DEF | type | attribute | material |
+| :--- | :---- | :---- | :------ | :--- | :-------- | :------- |
+| [Dragonknight Magician](../cards/monsters/fusion/Dragonknight%20Magician.md) | 8 ★★★★★★★★ | – | 3000 / 1500 | Fusion | LIGHT | – |
+| [Dragonguard Magician](../cards/monsters/fusion/Dragon%20Magicianguard.md) | 8 ★★★★★★★★ | 4 ◈ | 1500 / 3000 | Fusion Pendulum | LIGHT | – |
+| [Dragonark Magician](../cards/monsters/fusion/Dragonark%20Magician.md) | 7 ★★★★★★★★★★★★ | – / – | Fusion Pendulum | – | – |
+| [Dragonspark Magician](../cards/monsters/fusion/Dragonspark%20Magician.md) | 9 ★★★★★★★★★★★★ | – / – | Fusion Pendulum | – | – |
+| [Dragoncrush Magician](../cards/monsters/–/Dragoncrush%20Magician.md) | n ★★★★★★★★★★★★ | – / – | – | – | – |
+| [Dragonburst Magician](../cards/monsters/–/Dragonburst%20Magician.md) | n ★★★★★★★★★★★★ | – / – | – | – | – |
+| [Dragonflare Magician](../cards/monsters/synchro/Dragonflare%20Magician.md) | 8 ★★★★★★★★ | – / – | Synchro | – | – |
+| [Dragonslash Magician](../cards/monsters/synchro/Dragonslash%20Magician.md) | 9 ★★★★★★★★★ | – / – | Synchro | – | – |
+| [Dragonheart Magician](../cards/monsters/synchro/Dragonheart%20Magician.md) | 10 ★★★★★★★★★★ | – / – | Synchro | – | – |
+| [Dragonspirit Magician](../cards/monsters/synchro/Dragonspirit%20Magician.md) | 11 ★★★★★★★★★★★ | – / – | Synchro | – | – |
+| [Dragonmech Magician](../cards/monsters/xyz/Dragonmech%20Magician.md) | 5 ★★★★★ | – / – | Xyz | – | – |
+| [Dragonplasm Magician](../cards/monsters/xyz/Dragonplasm%20Magician.md) | 6 ★★★★★★ | – / – | Xyz | – | – |
+| [Dragonflux Magician](../cards/monsters/link/Dragonflux%20Magician.md) | LINK-3 | – / – | Link | LIGHT | – |
+| [Dragonplex Magician](../cards/monsters/link/Dragonplex%20Magician.md) | LINK-4 | – / – | Special Link | LIGHT | – |
 | [Dragonking Magician](../cards/monsters/–/Dragonking%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Pendulum | – | – |
 | [Dragonqueen Magician](../cards/monsters/–/Dragonqueen%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Pendulum | – | – |
 | [Dragonlord Magician](../cards/monsters/–/Dragonlord%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Pendulum | – | – |
-| [Dragonmaster Magician](../cards/monsters/fusion/Dragonmaster%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Fusion Pendulum | – | – |
+| [Dragonmaster Magician](../cards/monsters/fusion/Dragonmaster%20Magician.md) | 12 ★★★★★★★★★★★★ | 12 ◈ | 4500 / 3900 | Fusion Pendulum | LIGHT | – |
 | [Hypno-Eyes Dragon Magician](../cards/monsters/fusion/Hypno-Eyes%20Dragon%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Fusion Pendulum | – | – |
 
 </details>
