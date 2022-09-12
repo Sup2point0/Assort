@@ -26,7 +26,7 @@
 | [Dragonpoint Magician](../cards/monsters/pendulum/Dragonpoint%20Magician.md) | 4 ★★★★ | 4 ◈ | – / – | Pendulum | – |
 | [Dragonpunch Magician](../cards/monsters/pendulum/Dragonpunch%20Magician.md) | 4 ★★★★ | 8 ◈ | – / – | Pendulum | – |
 | [Dragonbite Magician](../cards/monsters/pendulum/Dragonbite%20Magician.md) | 4 ★★★★ | 2 ◈ | – / – | Pendulum | – |
-| [Dragongaze Magician](../cards/monsters/pendulum/Dragongaze%20Magician.md) | 4 ★★★★ | 7 ◈ | – / – | Pendulum | – |
+| [Dragongaze Magician](../cards/monsters/pendulum/Dragongaze%20Magician.md) | 4 ★★★★ | 2 ◈ | – / – | Pendulum | – |
 | [Dragonspike Magician](../cards/monsters/pendulum/Dragonspike%20Magician.md) | 4 ★★★★ | 3 ◈ | – / – | Pendulum | – |
 | [Dragonscale Magician](../cards/monsters/pendulum/Dragonscale%20Magician.md) | 4 ★★★★ | 10 ◈ | – / – | Pendulum | – |
 | [Dragonhorn Magician](../cards/monsters/pendulum/Dragonhorn%20Magician.md) | 4 ★★★★ | 4 ◈ | – / – | Pendulum | – |
