@@ -42,10 +42,10 @@
 | [Dragonclaw Magician](../cards/monsters/pendulum/Dragonclaw%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Pendulum | – |
 | [Dragonfang Magician](../cards/monsters/pendulum/Dragonfang%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Pendulum | – |
 | [Dragonpulse Magician](../cards/monsters/pendulum/Dragonpulse%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Pendulum | – |
-| [Dragonwing Magician](../cards/monsters/pendulum/Dragonwing%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Pendulum | – |
-| [Dragonblade Magician](../cards/monsters/pendulum/Dragonblade%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Pendulum | – |
-| [Dragonsword Magician](../cards/monsters/pendulum/Dragonsword%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Pendulum | – |
-| [Dragonscythe Magician](../cards/monsters/pendulum/Dragonscythe%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Pendulum | – |
+| [Dragonwing Magician](../cards/monsters/pendulum/Dragonwing%20Magician.md) | 6 ★★★★★★ | 9 ◈ | 2500 / 1200 | Pendulum | – |
+| [Dragonblade Magician](../cards/monsters/pendulum/Dragonblade%20Magician.md) | 7 ★★★★★★★ | 8 ◈ | 2600 / 1900 | Pendulum | – |
+| [Dragonsword Magician](../cards/monsters/pendulum/Dragonsword%20Magician.md) | 7 ★★★★★★★ | 8 ◈ | 2800 / 1900 | Pendulum | – |
+| [Dragonscythe Magician](../cards/monsters/pendulum/Dragonscythe%20Magician.md) | 7 ★★★★★★★ | 9 ◈ | 2900 / 1900 | Pendulum | – |
 | [Dragon Magician](../cards/monsters/pendulum/Dragon%20Magician.md) | n ★★★★★★★★★★★★ | – / – | Pendulum | – |
 
 </details>
