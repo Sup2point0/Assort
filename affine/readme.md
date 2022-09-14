@@ -37,7 +37,7 @@ See [affinitys](affinitys.md) for a full list of affinitys, or [spells](spells.m
     &emsp; <a href="#synchronis">Synchronis</a> <br>
     &emsp; <a href="#portalis">Portalis</a> <br>
     <a href="#channels">Channels</a> <br>
-    &emsp; <a href="#psychic">Psychic</a> <br>
+    &emsp; <a href="#psychive">Psychive</a> <br>
     &emsp; <a href="#haptic">Haptic</a> <br>
     &emsp; <a href="#proxic">Proxic</a> <br>
     &emsp; <a href="#optic">Optic</a> <br>
@@ -121,9 +121,9 @@ Transporting something.
 
 The various ways in which affinitys can be harnessed.
 
-To illustrate the differences, consider a [novus](affinitys/novis.md). Usually, they will be a haptic novus – *haptonovis* – which means they can turn objects invisible by touching them. A rarer optic novus – *optonovis* – can achieve this simply by looking at objects. An even rarer psychic novus – *psychonovis* – can do this just by thinking about it, meaning they can affect objects they cannot see, sense or know exist. This is generally the hierarchy of power between the 3 channels, with psychic being the most potent – not that this means haptic affinitys are weak. Notice the signficant difference is range: while haptic affinitics must come into contact, psychic affinitics can attack from afar, which is more effective.
+To illustrate the differences, consider a [novus](affinitys/novis.md). Usually, they will be a haptic novus – *haptonovis* – which means they can turn objects invisible by touching them. A rarer optic novus – *optonovis* – can achieve this simply by looking at objects. An even rarer psychive novus – *psychonovis* – can do this just by thinking about it, meaning they can affect objects they cannot see, sense or know exist. This is generally the hierarchy of power between the 3 channels, with psychive being the most potent – not that this means haptic affinitys are weak. Notice the signficant difference is range: while haptic affinitics must come into contact, psychive affinitics can attack from afar, which is more effective.
 
-### Psychic
+### Psychive
 
 <table>
   <tr>
@@ -138,7 +138,7 @@ To illustrate the differences, consider a [novus](affinitys/novis.md). Usually, 
 
 Affinitys controlled by the mind.
 
-While one’s mind is all that is required, psychic affinitics tend to find it easier to channel their power by looking at what they are manipulyzing, along with corresponding hand movements. This is especially the case during protive training at a young age, where it is difficult to control one’s affinity.
+While one’s mind is all that is required, psychive affinitics tend to find it easier to channel their power by looking at what they are manipulyzing, along with corresponding hand movements. This is especially the case during protive training at a young age, where it is difficult to control one’s affinity.
 
 ### Haptic
 
@@ -200,7 +200,7 @@ The target *must* be visible for the affinity to be effective; even if its prese
   </tr>
 </table>
 
-Affinitys that stem from within an affinitic’s [affine core](foundational%20principles%20of%20affine.md). Notice that this is different to psychic – channelling innate affinitys feels like part of oneself, as natural as moving a limb.
+Affinitys that stem from within an affinitic’s [affine core](foundational%20principles%20of%20affine.md). Notice that this is different to psychive – channelling innate affinitys feels like part of oneself, as natural as moving a limb.
 
 In moments of extreme emotion or circumstances, affinitics may unwittingly channel through their core, which releases affine far more powerful than normal.
 
@@ -293,7 +293,7 @@ How far its effect can reach. Affinitys with further ranges are more effective a
 How well it harmonyzes with xenitive affinitys. Certain affinitys may tend to clash with other affinitys, while some can harmonyze with any. Almost always, protive affinitys are less harmonical than deutive affinitys, as affinitics usually only have single or double protics.
 
 ### Synchrony
-How easy switching between it and xenitive affinitys is; also known as *fluency*. Not all affinitys can readily switch to another, and very few can freely mix, being constantly used interchangeably.
+How easy switching between it and xenotive affinitys is; also known as *fluency*. Not all affinitys can readily switch to another, and very few can freely mix, being constantly used interchangeably.
 
 ### Versatility
 General versatility in all aspects. Versatility is rare among affinitys, as almost all are specialyzed with distinct strengths and weaknesses.
