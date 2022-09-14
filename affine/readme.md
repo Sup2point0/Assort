@@ -290,7 +290,7 @@ How far its effect can reach. Affinitys with further ranges are more effective a
 | especially high | enhanced psychive ~ anything further |
 
 ### Harmony
-How well it harmonyzes with xenitive affinitys. Certain affinitys may tend to clash with other affinitys, while some can harmonyze with any. Almost always, protive affinitys are less harmonical than deutive affinitys, as affinitics usually only have single or double protics.
+How well it harmonyzes with xenotive affinitys. Certain affinitys may tend to clash with other affinitys, while some can harmonyze with any. Almost always, protive affinitys are less harmonical than deutive affinitys, as affinitics usually only have single or double protics.
 
 ### Synchrony
 How easy switching between it and xenotive affinitys is; also known as *fluency*. Not all affinitys can readily switch to another, and very few can freely mix, being constantly used interchangeably.
