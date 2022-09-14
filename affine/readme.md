@@ -99,7 +99,7 @@ Throughout different xeriques and in different contexts, affinitys and affinitic
 <br>
 
 
-## Abilities
+## Abilitys
 
 ### Kinetis
 Control and manipulyzacion of existing things.
@@ -138,6 +138,8 @@ To illustrate the differences, consider a [novus](affinitys/novis.md). Usually, 
 
 Affinitys controlled by the mind.
 
+While one’s mind is all that is required, psychic affinitics tend to find it easier to channel their power by looking at what they are manipulyzing, along with corresponding hand movements. This is especially the case during protive training at a young age, where it is difficult to control one’s affinity.
+
 ### Haptic
 
 <table>
@@ -151,7 +153,7 @@ Affinitys controlled by the mind.
   </tr>
 </table>
 
-Affinitys that channel through physical contact. This usually refers to directly touching the skin, but the exact constraints are often variable – {*damn this is hard to phrase*}
+Affinitys that channel through physical contact. This can be directly touching the skin, or through surfaces. If the latter, the exact constraints are variable. Generally, the thicker the surface, the less effective the affinity; penetrativity varies between affinitys, and can be improved through training. Rarely, an affinity can be especially penetrative, allowing the affinitic to freely affect any objects that are touching each other, as long as they all link back to xin.
 
 ### Proxic
 
@@ -162,11 +164,11 @@ Affinitys that channel through physical contact. This usually refers to directly
   </tr>
   <tr>
     <td> examples </td>
-    <td> <a href="affinitys/vitakinetis.md"></a> </td>
+    <td> <a href="affinitys/vitakinetis.md"><em>proxivitalis</em></a> </td>
   </tr>
 </table>
 
-{desc}
+Affinitys that work at close range, very similar to haptic. These usually channel through one’s hands, and involve passing the hands over a surface.
 
 ### Optic
 
@@ -182,6 +184,8 @@ Affinitys that channel through physical contact. This usually refers to directly
 </table>
 
 Affinitys controlled by sight.
+
+The target *must* be visible for the affinity to be effective; even if its presence is known, without visual contact manipulyzacion is impossible. At high levels of mastery direct focus is not so much required – a fleeting glance suffices – but during training, intense focus helps affinitics channel their power more easily.
 
 ### Innate
 
@@ -233,6 +237,75 @@ Affinitys that retain their effect while no longer being controlled.
 
 
 ## Affinitics
+
+The topic of the various **aspects** of affinitys.
+
+The aspects are generally dictated into 3 classes:
+- applyzacion » *attack*, *defence*, *support*, *utility*
+- harnession » *affine*, *power*, *control*, *endurance*, *precision*, *range*
+- utilyzacion » *harmony*, *synchrony*, *versatility*, *competency*, *mastery*
+
+For all aspects, the higher the better, except for the final 2 – competency and mastery – which are neutral.
+
+### Attack
+Offensive capability and potential.
+
+### Defence
+Defensive capability and potential.
+
+### Support
+Supportive capability and significance.
+
+### Utility
+Usefulness in regular life.
+
+### Affine
+Raw affine concentration. Some affinitys harness significantly more affine, like [necromancy](affinitys/necromancy.md), while others less so, like [automorphis](affinitys/automorphis.md). Affinical affinitics focus on unlocking and releasing more of this affine.
+
+### Power
+Raw strength and force. A notable example of its significance is with [telekinetics](affinitys/telekinetis.md), for whom sheer strength of mind is hugely valued.
+
+### Control
+How easy it is to control. Often, the greater the power, the harder it is to properly control, hence why training is so vital. Control is one of the most valued aspects, and should never be disregarded.
+
+### Endurance
+How energetically draining it is (the higher, the less draining); also known as *stamina*.
+
+### Precision
+How precise control of it can be; also known as *finesse*. It is often viewed as the opposite of power.
+
+### Range
+How far its effect can reach. Affinitys with further ranges are more effective at crowd control, while those that work at close range tend to possess higher precision. Range, as all aspects, can be improved through training, but does also directly correlyze to channel – training will move an affinitic up in the span for their particular channel, but the interval between different channels is too great for training to overcome.
+
+| scale | range |
+| :---- | :---- |
+| especially low | raw haptive |
+| very low | haptive |
+| low | viral haptive, proxive |
+| mediocre | enhanced proxive, raw optive |
+| standard | optive |
+| moderate | enhanced optive, psychive close |
+| high | psychive |
+| very high | psychive far |
+| especially high | enhanced psychive ~ anything further |
+
+### Harmony
+How well it harmonyzes with xenitive affinitys. Certain affinitys may tend to clash with other affinitys, while some can harmonyze with any. Almost always, protive affinitys are less harmonical than deutive affinitys, as affinitics usually only have single or double protics.
+
+### Synchrony
+How easy switching between it and xenitive affinitys is; also known as *fluency*. Not all affinitys can readily switch to another, and very few can freely mix, being constantly used interchangeably.
+
+### Versatility
+General versatility in all aspects. Versatility is rare among affinitys, as almost all are specialyzed with distinct strengths and weaknesses.
+
+### Enhancement
+Potential enhancement by other affinitys.
+
+### Competency
+How difficult it is to reach a level of competency.
+
+### Mastery
+How difficult it is to properly master.
 
 
 <br>
