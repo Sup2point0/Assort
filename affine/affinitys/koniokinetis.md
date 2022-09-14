@@ -1,6 +1,6 @@
 # Koniokinetis
 
-A highly specialyzed deryzatic of telekinetis, opting to control only dust and other fine particulates, which grants enhanced capabilitys.
+A highly specialyzen deryzatic of telekinetis, opting to control only dust and other fine particulates, which grants enhancen capabilitys.
 
 
 <table>
@@ -21,11 +21,11 @@ A highly specialyzed deryzatic of telekinetis, opting to control only dust and o
   </tr>
   <tr>
     <td> <a href="../readme.md#channels">channels</a> </td>
-    <td> <a href="../readme.md#psychic">psychic</a> </td>
+    <td> <a href="../readme.md#psychive">psychive</a> </td>
   </tr>
   <tr>
     <td> <a href="../readme.md#classes">classes</a> </td>
-    <td> <a href="../foundacional principles of affinitics.md#specialyzacion">specialyzacion spectrus</a> </td>
+    <td> <a href="../readme.md#specialyzacion">specialyzacion spectrus</a> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Nomenclature </h4> </th>
@@ -94,7 +94,7 @@ A highly specialyzed deryzatic of telekinetis, opting to control only dust and o
 
 ## Classes
 
-There are no classes of koniokinetis – all koniokinetics are psychic. Instead, there is a spectrus of specialyzacion, where restricting oneself to controlling fewer types of particulates gives increased power and control. For koniokinetics, this spectrus is fluid, and they can readily choose to harness or relinquish control of a type of particulate, to gain an edge in combat.
+There are no classes of koniokinetis – all koniokinetics are psychive. Instead, there is a spectrus of specialyzacion, where restricting oneself to controlling fewer types of particulates gives increased power and control. For koniokinetics, this spectrus is fluid, and they can readily choose to harness or relinquish control of a type of particulate, to gain an edge in combat.
 
 > *See [specialyzacion](../readme.md#affinitics) for more.*
 
@@ -104,7 +104,7 @@ There are no classes of koniokinetis – all koniokinetics are psychic. Instead,
 
 ## Skills
 
-- **psychokoniokinetis** – psychic manipulyzacion of dust
+- **psychokoniokinetis** – psychive manipulyzacion of dust
   - other particulates that can be controlled include:
     - grime
     - dandruff, dead skin
@@ -125,6 +125,7 @@ There are no classes of koniokinetis – all koniokinetics are psychic. Instead,
 - **dust cage** – cage of dust (any shape) that contracts to trap and immobilyze an enemy.
   - often a precursor to dust suffocyzacion.
 - **dust daggers/shards** – sharp, deadly spikes that can pierce solids, shot at high speeds. Usually formed as a swarm.
+- **dust rupture** – violent explosions of any dust structure.
 - **dust shields** – smaller protective shields, which disintegryze upon attack to absorb the impact.
 - **dust snake** – slithering snake, mainly for distraccion or intimidyzacion.
 - **dust storm** – unfocused dust stream over a large area.
@@ -134,6 +135,7 @@ There are no classes of koniokinetis – all koniokinetics are psychic. Instead,
 - **dust torpedo** – missile that explodes on impact, akin to dust bomb.
 - **dust typhoon** – massive swirling vortex that engulfs enemys. Can be used in various shapes and sizes, including a horizontal drill.
 - **dust wall** – large protective barrier. The more dust, the stronger.
+- **dustshaker** – shockwave that shakes dust off surfaces.
 - **vacuum zero** – suck up all dust in a space, reducing air pressure and temperature. Often utilyzed in conjunccion with a dust wall enclosure.
 
 
@@ -142,7 +144,7 @@ There are no classes of koniokinetis – all koniokinetics are psychic. Instead,
 
 ## Affinitics
 
-When wielded proficiently, koniokinetis can be excepcionally powerful. Its high specialyzacion grants koniokinetics greatly enhanced strength and precision, far exceeding that of a regular telekinetic. As a protical affinity, it is very versatile and flexible, effective in both attack and defence, along with combat and utility, which is often overlooked. With the ability to manipulyze dust however they desire, a koniokinetic’s potential is restricted only by their creativity and imaginacion. This adaptability and unpredictability is part of what makes them so powerful, especially to those who have never encountered koniokinetis before – which is often the case, due to its rarity.
+When wielded proficiently, koniokinetis can be exceptionally powerful. Its high specialyzation grants koniokinetics greatly enhanced strength and finesse, far exceeding that of a regular telekinetic. As a protive affinity, it is very versatile and flexible, effective at both attack and defence, along with combat and utility, which is often overlooked. With the ability to manipulyze dust however they desire, a koniokinetic’s potential is restricted only by their creativity and imaginacion. This adaptability and unpredictability is part of what makes them so powerful, especially to those who have never encountered koniokinetis before – which is often the case, due to its rarity.
 
 <table>
   <tr>
@@ -235,7 +237,9 @@ An interesting aspect to note is that unlike other kinetics, where a greater amo
 ### Attack
 Koniokinetics utilyze a myriad of attacks, of varying scale and power dependent on the availability of dust and specific circumstances.
 
-A distinct characteristic of koniokinetis is the extensive array of smaller ‘quick-fire’ attacks, intended to weaken or indeed, wear away the enemy. These happen to be surprisingly effective, mainly to biologics and [xiologics](–), and *especially* humanoids, who are particularly averse to the effects of controlling bodily waste (the unpleasant imagery can be left to the imaginacion). Less seamless machines are also susceptible to dust, as it clogs their systems and can cause major disrupcions.
+While their major abilities are not as inherently destructive as someother affinitys, tending to be more physical than affinical, they are nonetheless just as deadly. When enhanced by other affinitys,
+
+A distinct characteristic of koniokinetis is the extensive array of smaller ‘quick-fire’ attacks, intended to weaken or indeed, wear down the enemy. These happen to be surprisingly effective, mainly to biologics and [xiologics](–), and *especially* humanoids, who are particularly averse to the effects of controlling bodily waste (the unpleasant imagery can be left to the imagination). Less seamless machines are also susceptible to dust, as it clogs their systems and can cause major disruptions. As such, a protive strategy of koniokinetics is gradually finishing off enemies, rather than defeating them in a few moves.
 
 ### Strategys
 {...}
@@ -245,15 +249,14 @@ As koniokinetics cannot generyze dust, if there is no dust available then they a
 
 There are no direct antics to koniokinetis, so the optilical counters are psychokinetical affinitys, which directly target the mind.
 
-Koniokinetics, as with many kinetics, are entirely ineffective against each other, as they can simply shield themselves to prevent any dust from reaching them. The only excepcion to this is where one attempts to suffocyze another and they press back, in which case it ends up being a battle of psychic strength. Although, when in the presence of other affinitics, things become much more interesting, as there are many more opportunitys opened up by the complexity of combat.
+Koniokinetics, as with many kinetics, are entirely ineffective against each other, as they can simply shield themselves to prevent any dust from reaching them. The only excepcion to this is where one attempts to suffocyze another and they press back, in which case it ends up being a battle of psychive strength. Although, when in the presence of other affinitics, things become much more interesting, as there are many more opportunitys opened up by the complexity of combat.
 
 ### Synchronics
+Koniokinetis generally synchronyzes well with other affinitys. It can be used simoultaneously alongside other deutical affinitys with relative ease, and shifting between protive affinitys is very fluent. However, its effectiveness greatly decreases if the affinitic possesses multiple other protive affinitys.
 
-Koniokinetis generally synchronyzes well with other affinitys. It can be used simoultaneously alongside other deutical affinitys with relative ease, and shifting between protical affinitys is very fluent. However, its effectiveness greatly decreases if the affinitic possesses multiple other protical affinitys.
+Koniokinetics are especially dangerous in conjunction with pyrogenetics, who can set the particulates alight. Explodogenetics and oblivyi can aid koniokinetics by reducing objects to dust.
 
-Koniokinetics are especially dangerous in conjunccion with pyrogenetics, who can set the particulates alight. Explodogenetics and oblivyi can aid koniokinetics by reducing objects to dust.
-
-Koniokinetics’ versatility makes them fantastic for support, working from behind to aid an attack. This can include using almost indistinguishable dust to disrupt and divert attacks, and distract and confuzzle the enemy, while protecting the ally and aiding them through dust platforms and the like. Since they are so flexible, koniokinetics can support almost any other protical affinity, although generally still remain best as the protical offense, or in cordinyzacion with others.
+Koniokinetics’ versatility makes them fantastic for support, working from behind to aid an attack. This can include using almost indistinguishable dust to disrupt and divert attacks, and distract and confuzzle the enemy, while protecting the ally and aiding them through dust platforms and the like. Since they are so flexible, koniokinetics can support almost any other protive affinity, although generally still remain best as the protive offense, or in cordinyzacion with others.
 
 
 <br>
