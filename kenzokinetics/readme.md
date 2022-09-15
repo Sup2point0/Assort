@@ -39,10 +39,16 @@ In order of ascending scale:
 | ![kenzyl](../.assets/kenzokinetics/display/kenzyl.png) | ![katyl](../.assets/kenzokinetics/display/ketyl.png) | ![kexyl](../.assets/kenzokinetics/display/kexyl.png) |
 | any structure <br> represents connection points to other structures | a generic element <br> N, O, P, S | a special element |
 
-| core | driver |
-| :--: | :----: |
-| ![core](../.assets/kenzokinetics/display/core.png) | ![driver](../.assets/kenzokinetics/display/driver.md) |
+| core | driver | flekyl |
+| :--: | :----: | :----: |
+| ![core](../.assets/kenzokinetics/display/core.png) | ![driver](../.assets/kenzokinetics/display/driver.md) | ![fleky](../.assets/kenzokinetics/display/flekyl.png) |
+| structure centre | energy source | fuel source |
 
-| monomer | enemy |
-| :-----: | :---: |
-| ![monomer](../.assets/kenzokinetics/display/monomer.png) | ![enemy](../.assets/kenzokinetics/display/enemy.png) |
+| monomer | enemy | projectile |
+| :-----: | :---: | :--------: |
+| ![monomer](../.assets/kenzokinetics/display/monomer.png) | ![enemy](../.assets/kenzokinetics/display/enemy.png) | ![projectile](../.assets/kenzokinetics/display/projectile.png)
+
+| tekyl | zekyl |
+| :---: | :---: |
+| ![tekyl](../.assets/kenzokinetics/display/tekyl.png) | ![zekyl](../.assets/kenzokinetics/display/zekyl.png) |
+| radioactive source | intensifyzer source | 
