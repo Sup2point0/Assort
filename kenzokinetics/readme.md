@@ -42,7 +42,7 @@ In order of ascending scale:
 | core | driver | flekyl |
 | :--: | :----: | :----: |
 | ![core](../.assets/kenzokinetics/display/core.png) | ![driver](../.assets/kenzokinetics/display/driver.md) | ![fleky](../.assets/kenzokinetics/display/flekyl.png) |
-| structure centre | energy source | fuel source |
+| macrostructure centre | energy source | fuel source |
 
 | monomer | enemy | projectile |
 | :-----: | :---: | :--------: |
