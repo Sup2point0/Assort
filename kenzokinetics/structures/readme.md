@@ -1,6 +1,37 @@
 # Structures
 
-Structures are larger compounds formed from several components.
+Distinctive entities comprised of various interconnected structures and components. They are classyzen as *microstructures*, which have no core, and *macrostructures*, which do. Only sufficiently large structures require a core.
+
+<table>
+  <tr>
+    <td></td>
+    <th colspan="2" align="center"> microstructure </th>
+    <th colspan="3" align="center"> macrostructure </th>
+  </tr>
+  <tr>
+    <td></td>
+    <th> </th>
+    <th> </th>
+    <th> megastructure </th>
+    <th> gigastructure </th>
+    <th> terastructure </th>
+  </tr>
+  <tr>
+    <th> cores </th>
+    <td colspan="2" align="center"> none </td>
+    <td> 1 </td>
+    <td> 2+ </td>
+    <td> 4+ with 1+ special cores </td>
+  </tr>
+  <tr>
+    <th> examples </th>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+</table>
 
 
 <br>
@@ -10,39 +41,8 @@ Structures are larger compounds formed from several components.
 
 <table>
   <td>
-    <a href="#core">Core</a> <br>
-    <a href="#driver">Driver</a> <br>
-    <a href="#railgun">Railgun</a> <br>
-    <a href="#antibody-complex">Antibody Complex</a>
+    <a href="#paladin"> Paladin </a> <br>
+    <a href="#payback"> Payback </a> <br>
+    <a href="#vengeance"> Vengeance </a>
   </td>
 </table>
-
-
-<br>
-
-
-## Core
-
-The most important and integral part of a macrostructure, akin to the nucleus of a biological cell. Powered by a rare radioactive element, usually an actinide or lanthanide, it drives the vitality and reactions of the structure. Megastructures are powered by a single core, while gigastructures and terastructures possess more.
-
-
-<br>
-
-
-## Driver
-
-
-<br>
-
-
-## Railgun
-
-
-<br>
-
-
-## Antibody Complex
-
-When [antibodies](../particles/readme.md#antibody) bind together, they form a complex consisting of many different types of antibody.
-
-The chain is started by a binding antibody, which is very adept at connecting to surfaces of all types. Once it binds to an enemy, another antibody quickly attaches, providing even more easy connection points, resulting in a cascade of antibodies, and so the complex is formed.

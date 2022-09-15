@@ -1,8 +1,6 @@
-# Compounds
+# Structures
 
-Distinctive entities comprised of various interconnected structures and components.
-
-Compounds are classyzed as *microstructures*, which have no core, and *macrostructures*, which do. Only sufficiently large compounds require a core.
+Distinctive entities comprised of various interconnected structures and components. They are classyzen as *microstructures*, which have no core, and *macrostructures*, which do. Only sufficiently large structures require a core.
 
 <table>
   <tr>
