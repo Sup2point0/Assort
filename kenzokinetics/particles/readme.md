@@ -1,6 +1,6 @@
 # Particles
 
-Particles are the active weapons utilyzed by other structures.
+Active weapons utilyzen by other [constructs](../constructs).
 
 
 <br>
