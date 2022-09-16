@@ -1,6 +1,6 @@
 # Components
 
-Components are the basic individual constituents of all other structures and compounds. They span a varity of functions, including maintaining structural integrity, powering reactions and forming weapons.
+Components are the basic individual constituents of all other [structures](../structures) and compounds. They span a varity of functions, including maintaining structural integrity, powering reactions and forming weapons.
 
 
 <br>
