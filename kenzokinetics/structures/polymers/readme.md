@@ -1,6 +1,6 @@
 # Polymers
 
-Polymers are a special class of compounds which involve repeating units that can extend infinitely long.
+A special class of compounds which involve repeating units that can extend infinitely long.
 
 
 <br>
