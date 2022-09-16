@@ -7,12 +7,12 @@ See [affinitys](affinitys.md) for a full list of affinitys, or [spells](spells.m
 ### Affinitys
 [koniokinetis](affinitys/koniokinetics.md)  
 [novis](affinitys/novis.md)  
-[vitalis](affinitys/vitalis.md)
+[vitalis](affinitys/vitalis.md)  
 
 ### Spells
-[asphyxiskotadi](spells/asphyxiskotadi.md)
-[ypopyphanys](spells/ypopyphanys.md)
-[tyfloselare](spells/tyfloselare.md)
+[asphyxiskotadi](spells/asphyxiskotadi.md)  
+[ypopyphanys](spells/ypopyphanys.md)  
+[tyfloselare](spells/tyfloselare.md)  
 
 
 <br>
