@@ -46,7 +46,7 @@ In order of ascending scale:
 
 | core | driver |
 | :--: | :----: |
-| ![core](../.assets/kenzokinetics/display/core.png) | ![driver](../.assets/kenzokinetics/display/driver.md) |
+| ![core](../.assets/kenzokinetics/display/core.png) | ![driver](../.assets/kenzokinetics/display/driver.png) |
 | macrostructure centre | energy source |
 
 | monomer | enemy | projectile |
