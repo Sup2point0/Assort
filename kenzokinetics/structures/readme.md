@@ -39,8 +39,8 @@ Distinctive entities comprised of various interconnected constructs and componen
 
 <table>
   <td>
-    <a href="#paladin"> Paladin </a> <br>
-    <a href="#payback"> Payback </a> <br>
-    <a href="#vengeance"> Vengeance </a>
+    <a href="#paladin">Paladin</a> <br>
+    <a href="#payback">Payback</a> <br>
+    <a href="#vengeance">Vengeance</a>
   </td>
 </table>
