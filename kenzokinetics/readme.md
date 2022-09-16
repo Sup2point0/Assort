@@ -44,9 +44,9 @@ In order of ascending scale:
 | ![metyl](../.assets/kenzokinetics/display/metyl.png) | ![fleky](../.assets/kenzokinetics/display/flekyl.png) |
 | metal | fuel source |
 
-| core | driver | flekyl |
-| :--: | :----: | :----: |
-| ![core](../.assets/kenzokinetics/display/core.png) | ![driver](../.assets/kenzokinetics/display/driver.md) | 
+| core | driver |
+| :--: | :----: |
+| ![core](../.assets/kenzokinetics/display/core.png) | ![driver](../.assets/kenzokinetics/display/driver.md) |
 | macrostructure centre | energy source |
 
 | monomer | enemy | projectile |
