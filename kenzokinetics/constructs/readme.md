@@ -1,6 +1,6 @@
 # Constructs
 
-Larger compounds formed from several components.
+Larger compounds formed from several [components](../components).
 
 
 <br>
