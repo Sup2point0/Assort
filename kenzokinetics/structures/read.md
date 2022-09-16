@@ -1,4 +1,4 @@
-# Constructs
+# Structures
 
 Larger compounds formed from several components.
 
