@@ -10,9 +10,9 @@ A special class of compounds which involve repeating units that can extend infin
 
 <table>
   <td>
-    <a href="#oxypede"> Oxypede </a> <br>
-    <a href="#phenylpede"> Phenylpede </a> <br>
-    <a href="#silipede"> Silipede </a> <br>
-    <a href="#silicopede"> Silicopede </a>
+    <a href="#oxypede">Oxypede</a> <br>
+    <a href="#phenylpede">Phenylpede</a> <br>
+    <a href="#silipede">Silipede</a> <br>
+    <a href="#silicopede">Silicopede</a>
   </td>
 </table>
