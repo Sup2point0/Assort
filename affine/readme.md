@@ -38,9 +38,9 @@ See [affinitys](affinitys.md) for a full list of affinitys, or [spells](spells.m
     &emsp; <a href="#portalis">Portalis</a> <br>
     <a href="#channels">Channels</a> <br>
     &emsp; <a href="#psychive">Psychive</a> <br>
-    &emsp; <a href="#haptic">Haptic</a> <br>
-    &emsp; <a href="#proxic">Proxic</a> <br>
-    &emsp; <a href="#optic">Optic</a> <br>
+    &emsp; <a href="#haptive">Haptive</a> <br>
+    &emsp; <a href="#proxive">Proxive</a> <br>
+    &emsp; <a href="#optive">Optive</a> <br>
     &emsp; <a href="#innate">Innate</a> <br>
     <a href="#classes">Classes</a> <br>
     &emsp; <a href="#instant">Instant</a> <br>
@@ -121,7 +121,7 @@ Transporting something.
 
 The various ways in which affinitys can be harnessed.
 
-To illustrate the differences, consider a [novus](affinitys/novis.md). Usually, they will be a haptic novus – *haptonovis* – which means they can turn objects invisible by touching them. A rarer optic novus – *optonovis* – can achieve this simply by looking at objects. An even rarer psychive novus – *psychonovis* – can do this just by thinking about it, meaning they can affect objects they cannot see, sense or know exist. This is generally the hierarchy of power between the 3 channels, with psychive being the most potent – not that this means haptic affinitys are weak. Notice the signficant difference is range: while haptic affinitics must come into contact, psychive affinitics can attack from afar, which is more effective.
+To illustrate the differences, consider a [novus](affinitys/novis.md). Usually, they will be a haptive novus – *haptonovis* – which means they can turn objects invisible by touching them. A rarer optic novus – *optonovis* – can achieve this simply by looking at objects. An even rarer psychive novus – *psychonovis* – can do this just by thinking about it, meaning they can affect objects they cannot see, sense or know exist. This is generally the hierarchy of power between the 3 channels, with psychive being the most potent – not that this means haptive affinitys are weak. Notice the signficant difference is range: while haptive affinitics must come into contact, psychive affinitics can attack from afar, which is more effective.
 
 ### Psychive
 
@@ -136,11 +136,11 @@ To illustrate the differences, consider a [novus](affinitys/novis.md). Usually, 
   </tr>
 </table>
 
-Affinitys controlled by the mind.
+Affinitys controled by the mind.
 
 While one’s mind is all that is required, psychive affinitics tend to find it easier to channel their power by looking at what they are manipulyzing, along with corresponding hand movements. This is especially the case during protive training at a young age, where it is difficult to control one’s affinity.
 
-### Haptic
+### Haptive
 
 <table>
   <tr>
@@ -155,7 +155,7 @@ While one’s mind is all that is required, psychive affinitics tend to find it 
 
 Affinitys that channel through physical contact. This can be directly touching the skin, or through surfaces. If the latter, the exact constraints are variable. Generally, the thicker the surface, the less effective the affinity; penetrativity varies between affinitys, and can be improved through training. Rarely, an affinity can be especially penetrative, allowing the affinitic to freely affect any objects that are touching each other, as long as they all link back to xin.
 
-### Proxic
+### Proxive
 
 <table>
   <tr>
@@ -168,9 +168,9 @@ Affinitys that channel through physical contact. This can be directly touching t
   </tr>
 </table>
 
-Affinitys that work at close range, very similar to haptic. These usually channel through one’s hands, and involve passing the hands over a surface.
+Affinitys that work at close range, very similar to haptive. These usually channel through one’s hands, and involve passing the hands over a surface.
 
-### Optic
+### Optive
 
 <table>
   <tr>
@@ -179,11 +179,11 @@ Affinitys that work at close range, very similar to haptic. These usually channe
   </tr>
   <tr>
     <td> examples </td>
-    <td> <a href="affinitys/.md"></a> </td>
+    <td> <a href="affinitys/explodokinetis.md">opto-explodokinetis</a> </td>
   </tr>
 </table>
 
-Affinitys controlled by sight.
+Affinitys controled by sight.
 
 The target *must* be visible for the affinity to be effective; even if its presence is known, without visual contact manipulyzacion is impossible. At high levels of mastery direct focus is not so much required – a fleeting glance suffices – but during training, intense focus helps affinitics channel their power more easily.
 
@@ -219,7 +219,7 @@ In moments of extreme emotion or circumstances, affinitics may unwittingly chann
   </tr>
 </table>
 
-Affinitys that must be actively controlled to retain their effect.
+Affinitys that must be actively controled to retain their effect.
 
 ### Lingering
 
@@ -230,7 +230,7 @@ Affinitys that must be actively controlled to retain their effect.
   </tr>
 </table>
 
-Affinitys that retain their effect while no longer being controlled.
+Affinitys that retain their effect while no longer being controled.
 
 
 <br>
