@@ -47,6 +47,7 @@ All the fictive words I’ve created.
     <a href="#sylonautilla">sylonautilla</a> <br>
     <a href="#synthevetix">synthevetix</a> <br>
     <a href="#tersolle">Tersolle</a> <br>
+    <a href="#verity">verity</a> <br>
     <a href="#xeliqive">xeliqive</a> <br>
     <a href="#xelique">xelique</a> <br>
     <a href="#xeniqive">xeniqive</a> <br>
