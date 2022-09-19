@@ -6,6 +6,7 @@ All the archetypes of custom cards I’ve cryzen.
 ## Index
 
 [Battle Sheep](Battle%20Sheep.md)  
+[Battlemage](Battlemage.md)  
 [Bloons](Bloons.md)  
 [Chemistry](Chemistry.md)  
 [Dead-Eyes](Dead-Eyes.md)  
