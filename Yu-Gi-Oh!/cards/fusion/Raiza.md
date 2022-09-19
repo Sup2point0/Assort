@@ -21,11 +21,11 @@
     <td> Spellcaster / Fusion / Effect </td>
   </tr>
   <tr>
-    <td> attribute </td>
+    <td> Attribute </td>
     <td> DARK </td>
   </tr>
   <tr>
-    <td> level </td>
+    <td> Level </td>
     <td> 12 ★★★★★★★★★★★★ </td>
   </tr>
   <tr>
