@@ -1,6 +1,6 @@
 # Ultra
 
-An archetype of polyattribute Celestial Warriors inspired by Ultraman.
+An archetype of polyattribute LIGHT Celestial Warrior Spirit monsters inspired by Ultraman.
 
 
 <br>
