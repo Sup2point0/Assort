@@ -50,4 +50,5 @@
 
 ## Effects
 
-{...}
+| effect | type | notes |
+| :----- | :--- | :---- |
