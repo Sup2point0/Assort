@@ -22,7 +22,7 @@
 <details open>
   <summary> <b> Main Deck </b> </summary> <br>
 
-| card | level | ATK/DEF | type | attribute |
+| card | Level | ATK/DEF | Type | Attribute |
 | :--- | :---- | :------ | :--- | :-------- |
 | [–](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – | – |
 
@@ -31,7 +31,7 @@
 <details open>
   <summary> <b> Extra Deck </b> </summary> <br>
 
-| card | level | ATK/DEF | type | attribute | material |
+| card | Level | ATK/DEF | Type | Attribute | material |
 | :--- | :---- | :------ | :--- | :-------- | :------- |
 | [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – / – | – | – | – |
 
@@ -42,7 +42,7 @@
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| card | type |
+| card | Type |
 | :--- | :--- |
 | [–](../cards/spells/–.md) | – |
 
@@ -53,7 +53,7 @@
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| card | type |
+| card | Type |
 | :--- | :--- |
 | [–](../cards/traps/–.md) | – |
 
@@ -65,7 +65,6 @@
 
 ## Strategics
 
-### Mechanics
 {...}
 
 
