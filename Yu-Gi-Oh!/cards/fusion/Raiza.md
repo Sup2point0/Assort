@@ -8,7 +8,7 @@
     <th colspan="3"> <h3> Raiza the Empress of Darkness </h3> </th>
   </tr>
   <tr>
-    <td rowspan="7"> <img src="../../../.assets/cards/fusion/Raiza.PNG" width="360px"> </td>
+    <td rowspan="7"> <img src="../../../.assets/cards/fusion/Raiza.PNG" width="300px"> </td>
     <td> type </td>
     <td> monster </td>
   </tr>
