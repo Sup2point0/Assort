@@ -5,10 +5,10 @@
 
 <table>
   <tr>
-    <th colspan="2"> <h3> – </h3> </th>
+    <th colspan="3"> <h3> – </h3> </th>
   </tr>
   <tr>
-    <td colspan="2"> <img src="../.assets/cards/.png" width="px"> </td>
+    <td colspan="8"> <img src="../.assets/cards/.png" width="360px"> </td>
   </tr>
   <tr>
     <td> type </td>
