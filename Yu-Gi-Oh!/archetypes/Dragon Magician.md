@@ -1,6 +1,6 @@
 # Dragon Magician
 
-{desc}
+An archetype of Polyattribute Pendulum Spellcaster monsters with various effects involving Dragon monsters, a vast expansion of the original [Dragonpulse Magician](https://yugioh.fandom.com/wiki/Dragonpulse_Magician) and [Dragonpit Magician](https://yugioh.fandom.com/wiki/Dragonpit_Magician).
 
 
 <br>
@@ -90,3 +90,5 @@
 
 
 ## Trivia
+
+- Dragonpulse Magician has been revitalyzen, but Dragonpit Magician has been eradicyzen.
