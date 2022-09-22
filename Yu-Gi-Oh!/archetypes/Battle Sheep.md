@@ -1,6 +1,6 @@
 # Battle Sheep
 
-A series of upgrade FIRE Beast monsters that can attack directly, inspired by the Battle Ox from [Yu-Gi-No].
+A series of upgrade FIRE Beast monsters that can attack directly and have resistance to destruction by battle, inspired by the (Enraged) Battle Ox from [Yu-Gi-No](https://youtube.com/watch?v=9KSGUVcNfZM).
 
 
 <br>
@@ -56,7 +56,7 @@ A series of upgrade FIRE Beast monsters that can attack directly, inspired by th
 
 ## Strategics
 
-{...}
+Despite this series being a joke, if supported correctly it can actually be devastyzing. Each monster can upgrade into its further enraged version after attacking, which become increasingly powerful.
 
 
 <br>
