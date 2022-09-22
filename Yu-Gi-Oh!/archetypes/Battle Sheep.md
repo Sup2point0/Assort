@@ -1,0 +1,67 @@
+# Battle Sheep
+
+A series of upgrade FIRE Beast monsters that can attack directly, inspired by the Battle Ox from [Yu-Gi-No].
+
+
+<br>
+
+
+## Cards
+
+| type | count |
+| :--- | :---- |
+| Ritual | x1 |
+| Fusion | x2 |
+
+### Monsters
+
+<details open>
+  <summary> <b> Main Deck </b> </summary> <br>
+
+| card | Level | ATK/DEF | Type |
+| :--- | :---- | :------ | :--- |
+| [Baby Battle Sheep](../cards/monsters/standard/Baby%20Battle%20Sheep.md) | 1 ★ | 500 / 200 | |
+| [Battle Sheep](../cards/monsters/standard/Battle%20Sheep.md) | 3 ★★★ | 1500 / 1000 | |
+| [Enraged Battle Sheep](../cards/monsters/standard/Enraged%20Battle%20Sheep.md) | 5 ★★★★★ | 2100 / 1500 | |
+| [Super Enraged Battle Sheep of Doom](../cards/monsters/standard/Super%20Enraged%20Battle%20Sheep%20of%20Doom.md) | 7 ★★★★★★★ | 2700 / 2100 | |
+| [Ultra Enraged Battle Sheep of Death](../cards/monsters/standard/Ultra%20Enraged%20Battle%20Sheep%20of%20Death.md) | 9 ★★★★★★★★★ | 2900 / 2700 | |
+| [Celestial Battle Sheep](../cards/monsters/ritual/Celestial%20Battle%20Sheep.md) | 8 ★★★★★★★★ | 2800 / 1200 | Ritual |
+
+</details>
+
+<details open>
+  <summary> <b> Extra Deck </b> </summary> <br>
+
+| card | Level | ATK/DEF | material |
+| :--- | :---- | :------ | :------- |
+| [Twin Battle Sheep](../cards/monsters/fusion/Twin%20Battle%20Sheep.md) | 6 ★★★★★★ | 2500 / 2000 | *Battle Sheep* + *Battle Sheep* |
+| [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – / – | – |
+
+</details>
+
+### Spells
+
+<details open>
+  <summary> <b> display </b> </summary> <br>
+
+| card | Type |
+| :--- | :--- |
+| [Fluffy Rummage](../cards/spells/Fluffy%20Rummage.md) | normal |
+
+</details>
+
+
+<br>
+
+
+## Strategics
+
+{...}
+
+
+<br>
+
+
+## Trivia
+
+‘’
