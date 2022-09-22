@@ -66,7 +66,7 @@ An ‘*X*-Eyes Dragon’ archetype of polyattributive Dragon monsters.
 
 ## Strategics
 
-Similar to *Odd-Eyes*, this archetype doesn't feature much intrasynergy – the monsters don't help to bring out or revive each other – however their effects, which revolve around various restrictions, combine to severely restrict the opponent.
+Similar to *Odd-Eyes*, this archetype doesn’t feature much intrasynergy – the monsters don’t help to bring out or revive each other – however their effects, which revolve around various restrictions, combine to severely restrict the opponent.
 
 
 <br>
