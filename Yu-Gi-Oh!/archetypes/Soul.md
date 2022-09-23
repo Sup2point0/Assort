@@ -10,12 +10,12 @@ An archetype of DARK monsters, compryzen of lower level Spirit monsters, and hig
 
 | type | count |
 | :--- | :---- |
-| Ritual | x |
-| Pendulum | x |
-| Fusion | x |
+| Ritual | x0 |
+| Pendulum | x0 |
+| Fusion | x1 |
 | Synchro | x |
-| Xyz | x |
-| Link | x |
+| Xyz | x0 |
+| Link | x1 |
 
 ### Monsters
 
@@ -24,6 +24,12 @@ An archetype of DARK monsters, compryzen of lower level Spirit monsters, and hig
 
 | card | Level | ATK/DEF | Type |
 | :--- | :---- | :------ | :--- |
+| [Soul Splinter](../cards/monsters/standard/Soul%20Splinter.md) | 1 ★ | – / – | Spirit |
+| [Soul Shard](../cards/monsters/standard/Soul%20Shard.md) | 2 ★★ | – / – | Spirit |
+| [Soul Fragment](../cards/monsters/standard/Soul%20Fragment.md) | 2 ★★ | – / – | Spirit |
+| [Lost Soul](../cards/monsters/standard/Lost%20Soul.md) | 1 ★ | – / – | Spirit |
+| [Vengeful Soul](../cards/monsters/standard/Vengeful%20Soul.md) | 3 ★★★ | – / – | Spirit |
+| [Soul Synchron](../cards/monsters/standard/Soul%20Synchron.md) | 5 ★★★★★ | 0 / 2000 | Tuner |
 | [–](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
 
 </details>
