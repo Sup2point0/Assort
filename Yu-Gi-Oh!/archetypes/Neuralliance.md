@@ -8,16 +8,18 @@ A superarchetype of LIGHT and DARK monsters, inspired by the nervous system and 
 
 ## Archetypes
 
-[Neuralliance ARC](Neuralliance%20ARC.md)  
-[Neuralliance BREAK](Neuralliance%20BREAK.md)  
-[Neuralliance CORD](Neuralliance%20CORD.md)  
-[Neuralliance CORE](Neuralliance%20CORE.md)  
-[Neuralliance FLEX](Neuralliance%20FLEX.md)  
-[Neuralliance NERVE](Neuralliance%20NERVE.md)  
-[Neuralliance NODE](Neuralliance%20NODE.md)  
-[Neuralliance SENSE](Neuralliance%20SENSE.md)  
-[Neuralliance STEM](Neuralliance%20STEM.md)  
-[Neuralliance VISION](Neuralliance%20VISION.md)  
+| archetype | correspondence | notes |
+| :-------- | :------------- | :---- |
+| [Neuralliance ARC](Neuralliance%20ARC.md) | | |
+| [Neuralliance BREAK](Neuralliance%20BREAK.md) | | |
+| [Neuralliance CORD](Neuralliance%20CORD.md) | | bridging monsters |
+| [Neuralliance CORE](Neuralliance%20CORE.md) | | support and summoners |
+| [Neuralliance FLEX](Neuralliance%20FLEX.md) | reflex | |
+| [Neuralliance NERVE](Neuralliance%20NERVE.md) | | powerful searchers, summoners and cybernetics |
+| [Neuralliance NODE](Neuralliance%20NODE.md) | | quick swarming and bridging Link monsters |
+| [Neuralliance SENSE](Neuralliance%20SENSE.md) | | |
+| [Neuralliance STEM](Neuralliance%20STEM.md) | stem cells | toolbox |
+| [Neuralliance VISION](Neuralliance%20VISION.md) | visuals | |
 
 
 <br>
