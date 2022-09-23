@@ -1,6 +1,9 @@
 # Neuralliance
 
-A mega archetype of LIGHT and DARK monsters, inspired by the nervous system and neural processes.
+A superarchetype of LIGHT and DARK monsters, inspired by the nervous system and neural processes.
+
+
+<br>
 
 
 ## Archetypes
