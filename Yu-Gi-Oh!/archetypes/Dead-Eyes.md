@@ -44,6 +44,9 @@ An ‘*X*-Eyes Dragon’ archetype of DARK Zombie Dragon monsters.
 | [Dead-Eyes Rebellion Dragon](../cards/monsters/xyz/Dead-Eyes%20Rebellion%20Dragon.md) | n ★★★★★★★★★★★★ | – / – | – | – |
 | [Dead-Eyes Revenge Dragon](../cards/monsters/xyz/Dead-Eyes%20Revenge%20Dragon.md) | n ★★★★★★★★★★★★ | – / – | – | – |
 | [Dead-Eyes Underworld Dragon](../cards/monsters/fusion/Dead-Eyes%20Underworld%20Dragon.md) | n ★★★★★★★★★★★★ | – / – | – | – |
+| [Dead-Eyes Chaos Dragon](../cards/monsters/–/Dead-Eyes%Chaos%20Dragon.md) | n ★★★★★★★★★★★★ | 3000 / 500 | – | – |
+| [Dead-Eyes Nightmare Dragon](../cards/monsters/–/Dead-Eyes%20Nightmare%20Dragon.md) | 10 ★★★★★★★★★★ | 3000 / 500 | Fusion | 1 ‘Dead-Eyes’ monster + 1 ‘Nightmare Dragon’ monster |
+| [Dead-Eyes Nightmare Chaos Dragon](../cards/monsters/–/Dead-Eyes%20Nightmare%20Chaos%20Dragon.md) | 12 ★★★★★★★★★★★★ | 4000 / 500 | Fusion | *Dead-Eyes Nightmare Dragon* + *Dead-Eyes Chaos Dragon* <br> OR <br> 1 ‘Dead-Eyes’ Extra Deck monster + 1 ‘Nightmare Dragon’ monster + 1 ‘Chaos’ Dragon monster |
 | [Dead-Eyes – Dragon](../cards/monsters/–/Dead-Eyes%20–%20Dragon.md) | n ★★★★★★★★★★★★ | – / – | – | – |
 
 </details>
@@ -86,5 +89,3 @@ An ‘*X*-Eyes Dragon’ archetype of DARK Zombie Dragon monsters.
 
 
 ## Trivia
-
-◈ ‘’
