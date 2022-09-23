@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td> material </td>
-    <td> 5 DARK monsters whose Levels total 20+ </td>
+    <td> 5 DARK monsters whose total Levels exceed 20 </td>
   </tr>
   <tr>
     <td> special </td>
