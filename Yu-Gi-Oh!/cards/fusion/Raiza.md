@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td> Types </td>
-    <td> Spellcaster / Fusion / Effect </td>
+    <td> Spellcaster / Fusion </td>
   </tr>
   <tr>
     <td> Attribute </td>
