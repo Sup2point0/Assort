@@ -1,0 +1,89 @@
+# Dead-Eyes
+
+An ‘*X*-Eyes Dragon’ archetype of DARK Zombie Dragon monsters.
+
+
+<br>
+
+
+## Cards
+
+| type | count |
+| :--- | :---- |
+| Ritual | x |
+| Pendulum | x |
+| Fusion | x |
+| Synchro | x |
+| Xyz | x |
+| Link | x |
+
+### Monsters
+
+<details open>
+  <summary> <b> Main Deck </b> </summary> <br>
+
+| card | Level | ATK/DEF | Type |
+| :--- | :---- | :------ | :--- |
+| [Dead-Eyes Dragon](../cards/monsters/standard/Dead-Eyes%20Dragon.md) | 5 ★★★★★★ | 2000 / 500 | |
+| [Dead-Eyes Darkness Dragon](../cards/monsters/ritual/Dead-Eyes%20Darkness%20Dragon.md) | n ★★★★★★★★★★★★ | – / – | Ritual |
+| [Dead-Eyes Despair Dragon](../cards/monsters/ritual/Dead-Eyes%20Despair%20Dragon.md) | n ★★★★★★★★★★★★ | – / – | Ritual |
+| [Dead-Eyes – Dragon](../cards/monsters/standard/Dead-Eyes%20–%20Dragon.md) | n ★★★★★★★★★★★★ | – / – | – |
+
+</details>
+
+<details open>
+  <summary> <b> Extra Deck </b> </summary> <br>
+
+| card | Level | ATK/DEF | Type | material |
+| :--- | :---- | :------ | :--- | :------- |
+| [Dead-Eyes Doom Dragon](../cards/monsters/xyz/Dead-Eyes%20Doom%20Dragon.md) | n ★★★★★★★★★★★★ | – / – | – | – |
+| [Dead-Eyes Doomsday Dragon](../cards/monsters/xyz/Dead-Eyes%20Doomsday%20Dragon.md) | n ★★★★★★★★★★★★ | – / – | – | – |
+| [Dead-Eyes Destruction Dragon](../cards/monsters/fusion/Dead-Eyes%20Destruction%20Dragon.md) | n ★★★★★★★★★★★★ | – / – | – | – |
+| [Dead-Eyes Devastation Dragon](../cards/monsters/fusion/Dead-Eyes%20Devastation%20Dragon.md) | n ★★★★★★★★★★★★ | – / – | – | – |
+| [Dead-Eyes Rebellion Dragon](../cards/monsters/xyz/Dead-Eyes%20Rebellion%20Dragon.md) | n ★★★★★★★★★★★★ | – / – | – | – |
+| [Dead-Eyes Revenge Dragon](../cards/monsters/xyz/Dead-Eyes%20Revenge%20Dragon.md) | n ★★★★★★★★★★★★ | – / – | – | – |
+| [Dead-Eyes Underworld Dragon](../cards/monsters/fusion/Dead-Eyes%20Underworld%20Dragon.md) | n ★★★★★★★★★★★★ | – / – | – | – |
+| [Dead-Eyes – Dragon](../cards/monsters/–/Dead-Eyes%20–%20Dragon.md) | n ★★★★★★★★★★★★ | – / – | – | – |
+
+</details>
+
+### Spells
+
+<details open>
+  <summary> <b> display </b> </summary> <br>
+
+| card | Type |
+| :--- | :--- |
+| [Dead-Eyes Decay](../cards/spells/–.md) | Quick |
+| [Dead-Eyes Massacre](../cards/spells/–.md) | Ritual |
+| [Dead-Eyes Prophecy](../cards/spells/–.md) | Normal |
+| [–](../cards/spells/–.md) | – |
+
+</details>
+
+### Traps
+
+<details open>
+  <summary> <b> display </b> </summary> <br>
+
+| card | Type |
+| :--- | :--- |
+| [–](../cards/traps/–.md) | – |
+
+</details>
+
+
+<br>
+
+
+## Strategics
+
+{...}
+
+
+<br>
+
+
+## Trivia
+
+◈ ‘’
