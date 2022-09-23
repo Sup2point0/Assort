@@ -10,12 +10,12 @@ An ‘*X*-Eyes Dragon’ archetype of DARK Zombie Dragon monsters.
 
 | type | count |
 | :--- | :---- |
-| Ritual | x |
-| Pendulum | x |
-| Fusion | x |
-| Synchro | x |
-| Xyz | x |
-| Link | x |
+| Ritual | x2 |
+| Pendulum | x0 |
+| Fusion | x3 |
+| Synchro | x0 |
+| Xyz | x5 |
+| Link | x0 |
 
 ### Monsters
 
@@ -36,6 +36,7 @@ An ‘*X*-Eyes Dragon’ archetype of DARK Zombie Dragon monsters.
 
 | card | Level | ATK/DEF | Type | material |
 | :--- | :---- | :------ | :--- | :------- |
+| [Dead-Eyes Curse Dragon](../cards/monsters/–/Dead-Eyes%20Curse%20Dragon.md) | n ★★★★★★★★★★★★ | – / – | – | – |
 | [Dead-Eyes Doom Dragon](../cards/monsters/xyz/Dead-Eyes%20Doom%20Dragon.md) | n ★★★★★★★★★★★★ | – / – | – | – |
 | [Dead-Eyes Doomsday Dragon](../cards/monsters/xyz/Dead-Eyes%20Doomsday%20Dragon.md) | n ★★★★★★★★★★★★ | – / – | – | – |
 | [Dead-Eyes Destruction Dragon](../cards/monsters/fusion/Dead-Eyes%20Destruction%20Dragon.md) | n ★★★★★★★★★★★★ | – / – | – | – |
