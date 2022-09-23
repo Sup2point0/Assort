@@ -1,6 +1,6 @@
 # Dragon Magician
 
-An archetype of Polyattribute Pendulum Spellcaster monsters with various effects involving Dragon monsters, a vast expansion of the original [Dragonpulse Magician](https://yugioh.fandom.com/wiki/Dragonpulse_Magician) and [Dragonpit Magician](https://yugioh.fandom.com/wiki/Dragonpit_Magician).
+An archetype of polyattributive Spellcaster Pendulum monsters, with various effects involving Dragon monsters, a vast expansion of the original [Dragonpulse Magician](https://yugioh.fandom.com/wiki/Dragonpulse_Magician) and [Dragonpit Magician](https://yugioh.fandom.com/wiki/Dragonpit_Magician).
 
 
 <br>
@@ -19,7 +19,7 @@ An archetype of Polyattribute Pendulum Spellcaster monsters with various effects
 <details open>
   <summary> <b> Main Deck </b> </summary> <br>
 
-| card | level | scale | ATK/DEF | type | attribute |
+| card | Level | Scale | ATK/DEF | Type | Attribute |
 | :--- | :---- | :---- | :------ | :--- | :-------- |
 | [Dragonspear Magician](../cards/monsters/pendulum/Dragonspear%20Magician.md) | 4 ★★★★ | 3 ◈ | – / – | Pendulum | – |
 | [Dragonlance Magician](../cards/monsters/pendulum/Dragonlance%20Magician.md) | 4 ★★★★ | 2 ◈ | – / – | Pendulum | – |
@@ -53,7 +53,7 @@ An archetype of Polyattribute Pendulum Spellcaster monsters with various effects
 <details open>
   <summary> <b> Extra Deck </b> </summary> <br>
 
-| card | level | scale | ATK/DEF | type | attribute | material |
+| card | Level | Scale | ATK/DEF | Type | Attribute | material |
 | :--- | :---- | :---- | :------ | :--- | :-------- | :------- |
 | [Dragonknight Magician](../cards/monsters/fusion/Dragonknight%20Magician.md) | 8 ★★★★★★★★ | – | 3000 / 1500 | Fusion | LIGHT | – |
 | [Dragonguard Magician](../cards/monsters/fusion/Dragon%20Magicianguard.md) | 8 ★★★★★★★★ | 4 ◈ | 1500 / 3000 | Fusion Pendulum | LIGHT | – |
