@@ -17,7 +17,7 @@ A superarchetype of LIGHT and DARK monsters, inspired by the nervous system and 
 | [Neuralliance FLEX](Neuralliance%20FLEX.md) | reflex | |
 | [Neuralliance NERVE](Neuralliance%20NERVE.md) | | powerful searchers, summoners and cybernetics |
 | [Neuralliance NODE](Neuralliance%20NODE.md) | | quick swarming and bridging Link monsters |
-| [Neuralliance SENSE](Neuralliance%20SENSE.md) | | |
+| [Neuralliance SENSE](Neuralliance%20SENSE.md) | sensation | defensive trigger effects |
 | [Neuralliance STEM](Neuralliance%20STEM.md) | stem cells | toolbox |
 | [Neuralliance VISION](Neuralliance%20VISION.md) | visuals | |
 
