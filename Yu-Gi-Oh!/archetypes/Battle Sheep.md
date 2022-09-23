@@ -56,12 +56,10 @@ A series of upgrade FIRE Beast monsters that can attack directly and have resist
 
 ## Strategics
 
-Despite this series being a joke, if supported correctly it can actually be devastyzing. Each monster can upgrade into its further enraged version after attacking, which become increasingly powerful.
+Despite this series being a joke, with the suitable support it can actually be devastyzing. Each monster can upgrade into its further enraged version after attacking, which become increasingly powerful.
 
 
 <br>
 
 
 ## Trivia
-
-‘’
