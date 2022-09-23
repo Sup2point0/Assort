@@ -72,7 +72,7 @@ An archetype of DARK monsters, compryzen of lower level Spirit monsters, and hig
 
 | card | Type |
 | :--- | :--- |
-| [Soul Virus](../cards/traps/Soul%20Virus.md) | Continuous |
+| [Soul Virus](../cards/traps/Soul%20Virus.md) | ∞ Continuous |
 | [–](../cards/traps/–.md) | – |
 
 </details>
@@ -90,5 +90,3 @@ An archetype of DARK monsters, compryzen of lower level Spirit monsters, and hig
 
 
 ## Trivia
-
-◈ ‘’
