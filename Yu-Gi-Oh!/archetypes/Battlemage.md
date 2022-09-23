@@ -22,10 +22,10 @@ An archetype of polyattributive Spellcaster Pendulum monsters, with various effe
 <details open>
   <summary> <b> Main Deck </b> </summary> <br>
 
-| card | Level | ATK/DEF | Type | Attribute |
-| :--- | :---- | :------ | :--- | :-------- |
-| [Battlemage](../cards/monsters/standard/Battlemage.md) | 4 ★★★★ | 2000 / 1200 | – | – |
-| [Battlemage Disciple](../cards/monsters/standard/Battlemage%20Disciple.md) | 4 ★★★★ | 1600 / 900 | – | – |
+| card | Level | Scale | ATK/DEF | Type | Attribute |
+| :--- | :---- | :---- | :------ | :--- | :-------- |
+| [Battlemage](../cards/monsters/standard/Battlemage.md) | 4 ★★★★ | 2 ◈ | 2000 / 1200 | Pendulum Tuner | LIGHT |
+| [Battlemage Disciple](../cards/monsters/standard/Battlemage%20Disciple.md) | | 4 ★★★★ | 1600 / 900 | Union | LIGHT |
 | [Battlemage](../cards/monsters/standard/Battlemage.md) | n ★★★★★★★★★★★★ | – / – | – | – |
 
 </details>
@@ -33,9 +33,9 @@ An archetype of polyattributive Spellcaster Pendulum monsters, with various effe
 <details open>
   <summary> <b> Extra Deck </b> </summary> <br>
 
-| card | Level | ATK/DEF | Type | Attribute | material |
-| :--- | :---- | :------ | :--- | :-------- | :------- |
-| [Battlemage](../cards/monsters/–/Battlemage.md) | n ★★★★★★★★★★★★ | – / – | – | – | – |
+| card | Level | Scale | ATK/DEF | Type | Attribute | material |
+| :--- | :---- | :---- | :------ | :--- | :-------- | :------- |
+| [Battlemage](../cards/monsters/–/Battlemage.md) | n ★★★★★★★★★★★★ | s ◈ | – / – | – | – | – |
 
 </details>
 
@@ -75,5 +75,3 @@ An archetype of polyattributive Spellcaster Pendulum monsters, with various effe
 
 
 ## Trivia
-
-◈ ‘’
