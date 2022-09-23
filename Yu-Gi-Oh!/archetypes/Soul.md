@@ -30,6 +30,8 @@ An archetype of DARK monsters, compryzen of lower level Spirit monsters, and hig
 | [Lost Soul](../cards/monsters/standard/Lost%20Soul.md) | 1 ★ | – / – | Spirit |
 | [Vengeful Soul](../cards/monsters/standard/Vengeful%20Soul.md) | 3 ★★★ | – / – | Spirit |
 | [Soul Synchron](../cards/monsters/standard/Soul%20Synchron.md) | 5 ★★★★★ | 0 / 2000 | Tuner |
+| [Soul Dragon](../cards/monsters/standard/Soul%20Dragon.md) | 7 ★★★★★★★ | 2700 / 0 | Tuner |
+| [Soul Swordsman](../cards/monsters/standard/Soul%20Swordsman.md) | 7 ★★★★★★★ | 2700 / 0 | Tuner |
 | [–](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
 
 </details>
@@ -57,6 +59,8 @@ An archetype of DARK monsters, compryzen of lower level Spirit monsters, and hig
 
 | card | Type |
 | :--- | :--- |
+| [Pot of Souls](../cards/spells/–.md) | – |
+| [Soul Seeker](../cards/spells/–.md) | |
 | [–](../cards/spells/–.md) | – |
 
 </details>
@@ -68,6 +72,7 @@ An archetype of DARK monsters, compryzen of lower level Spirit monsters, and hig
 
 | card | Type |
 | :--- | :--- |
+| [Soul Virus](../cards/traps/Soul%20Virus.md) | Continuous |
 | [–](../cards/traps/–.md) | – |
 
 </details>
