@@ -1,6 +1,15 @@
 # Neuralliance
 
-An archetype of LIGHT Cyberse monsters.
+A mega archetype of LIGHT and DARK monsters, inspired by the nervous system and neural processes.
+
+
+## Archetypes
+
+[Neuralliance CORD](Neuralliance%20CORD.md)  
+[Neuralliance CORE](Neuralliance%20CORE.md)  
+[Neuralliance NODE](Neuralliance%20NODE.md)  
+[Neuralliance STEM](Neuralliance%20STEM.md)  
+[Neuralliance VISION](Neuralliance%20VISION.md)  
 
 
 <br>
