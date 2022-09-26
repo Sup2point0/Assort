@@ -34,7 +34,6 @@ A series of LIGHT Cyberse monsters that combine to form much more powerful Xyz m
 | :--- | :---- | :------ | :--- | :------- |
 | [Arterion the Supercharged Warrior](../cards/monsters/–/Arterion%20the%20Superionic%20Warrior.md) | 4 ★★★★ | 3650 / 3450 | Xyz | 3 ‘Charge Warrior’ monsters |
 | [Arkyion the Hypercharged Warrior](../cards/monsters/–/Arterion%20the%20Superionic%20Warrior.md) | 4 ★★★★ | 3950 / 3750 | Xyz | 4 ‘Charge Warrior’ monsters |
-| [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – / – | – | – |
 
 </details>
 
