@@ -57,7 +57,7 @@ An archetype of DARK Dragons, featuring various deadly destructive effects.
 
 | card | Type |
 | :--- | :--- |
-| [Nightmare Chasm](../cards/traps/Nightmare%20Chasm.md) | normal |
+| [Nightmare Chasm](../cards/traps/Nightmare%20Chasm.md) | |
 | [–](../cards/traps/–.md) | – |
 
 </details>
