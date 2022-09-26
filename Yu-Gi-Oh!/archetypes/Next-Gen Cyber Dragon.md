@@ -10,12 +10,10 @@ A series of LIGHT Machine monsters, an extension of the original [Cyber Dragon](
 
 | type | count |
 | :--- | :---- |
-| Ritual | x |
-| Pendulum | x |
-| Fusion | x |
-| Synchro | x |
-| Xyz | x |
-| Link | x |
+| Fusion | x2 |
+| Synchro | x1 |
+| Xyz | x1 |
+| Link | x3 |
 
 ### Monsters
 
@@ -39,7 +37,9 @@ A series of LIGHT Machine monsters, an extension of the original [Cyber Dragon](
 | [Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/link/Next-Next-Next-Next-Gen%20Cyber%20Dragon.md) | LINK-3 | 2900 | Link Link | *Next-Next-Next-Gen Cyber Dragon* + 1 Machine or Cyberse monster |
 | [Next-Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/link/Next-Next-Next-Next-Next-Gen%20Cyber%20Dragon.md) | LINK-4 | 3100 | Link Link | *Next-Next-Next-Next-Gen Cyber Dragon* + 1 Machine or Cyberse monster |
 | [Next-Next-Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/xyz/Next-Next-Next-Next-Next-Next-Gen%20Cyber%20Dragon.md) | 10 ★★★★★★★★★★ | 3300 / 0 | Link Xyz | *Next-Next-Next-Next-Next-Gen Cyber Dragon* + 2+ ‘Next-Next-Gen Cyber Dragon’ monsters |
-| [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | 3300 / – | – | – |
+| [Next-Gen Cyber Twin Dragon](../cards/monsters/fusion/Next-Gen%20Cyber%20Twin%20Dragon.md) | 8 ★★★★★★★★ | 2800 / 1900 | Fusion | 2 ‘Next-Gen Cyber Dragon’ monsters |
+| [Next-Gen Cyber Synchro Dragon](../cards/monsters/synchro/Next-Gen%20Cyber%20Synchro%20Dragon.md) | 9 ★★★★★★★★★ | 3000 / 2100 | Synchro | *Next-Gen Cyber Dragon* + 1+ non-Tuner Machine or Cyberse monsters |
+| [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – / – | – | – |
 
 </details>
 
