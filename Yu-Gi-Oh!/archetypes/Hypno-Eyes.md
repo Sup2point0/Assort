@@ -1,6 +1,6 @@
 # Hypno-Eyes
 
-An ‘*X*-Eyes Dragon’ archetype of polyattributive Dragon monsters.
+An ‘*X*-Eyes Dragon’ archetype of polyattributive Dragon monsters, with various restrictive effects.
 
 
 <br>
@@ -45,7 +45,7 @@ An ‘*X*-Eyes Dragon’ archetype of polyattributive Dragon monsters.
 
 | card | Type |
 | :--- | :--- |
-| [–](../cards/spells/–.md) | – |
+| [–](../cards/spells/–/–.md) | – |
 
 </details>
 
@@ -56,7 +56,7 @@ An ‘*X*-Eyes Dragon’ archetype of polyattributive Dragon monsters.
 
 | card | Type |
 | :--- | :--- |
-| [–](../cards/traps/–.md) | – |
+| [–](../cards/traps/–/–.md) | – |
 
 </details>
 
@@ -74,4 +74,4 @@ Similar to *Odd-Eyes*, this archetype doesn’t feature much intrasynergy – th
 
 ## Trivia
 
-- The restrictive nature of the archetype, especially involving attacks and effect activations, reflects it ‘hypontyzing’ the opponent.
+- The restrictive nature of the archetype, especially involving attacks and effect activations, reflects it ‘hypnotyzing’ the opponent.
