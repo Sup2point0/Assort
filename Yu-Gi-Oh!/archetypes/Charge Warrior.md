@@ -1,6 +1,6 @@
-# Ionic Warrior
+# Charge Warrior
 
-A series of LIGHT Cyberse monsters that combine to , an extension of the original [Magnet Warriors](yugioh.fandom.com/wiki/Magnet_Warrior).
+A series of LIGHT Cyberse monsters that combine to form much more powerful Xyz monsters, an extension of the original [Magnet Warriors](yugioh.fandom.com/wiki/Magnet_Warrior).
 
 
 <br>
