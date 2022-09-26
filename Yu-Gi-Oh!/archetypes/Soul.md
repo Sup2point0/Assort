@@ -60,9 +60,10 @@ An archetype of DARK monsters, compryzen of lower level Spirit monsters, and hig
 | card | Type |
 | :--- | :--- |
 | [Pot of Souls](../cards/spells/–/–.md) | |
-| [Soul Fracture](../cards/spells/–/–.md) | Quick |
+| [Soul Fracture](../cards/spells/–/–.md) | ⚡︎ Quick |
 | [Soul Ritual](../cards/spells/–/–.md) | Ritual |
 | [Soul Seeker](../cards/spells/–/–.md) | |
+| [Soul Trade](../cards/spells/–/–.md) | |
 | [–](../cards/spells/–/–.md) | – |
 
 </details>
