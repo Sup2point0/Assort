@@ -1,6 +1,6 @@
 # Ionic Warrior
 
-A series of Contact Fusion LIGHT Cyberse monsters, an extension of the original [Magnet Warriors](yugioh.fandom.com/wiki/Magnet_Warrior).
+A series of LIGHT Cyberse monsters that combine to , an extension of the original [Magnet Warriors](yugioh.fandom.com/wiki/Magnet_Warrior).
 
 
 <br>
@@ -20,19 +20,21 @@ A series of Contact Fusion LIGHT Cyberse monsters, an extension of the original 
 
 | card | Level | ATK/DEF |
 | :--- | :---- | :------ |
-| [Delta the Ionic Warrior](../cards/monsters/standard/Delta%20the%20Ionic%20Warrior.md) | 4 ★★★★ | 2000 / – |
-| [Iota the Ionic Warrior](../cards/monsters/standard/Iota%20the%20Ionic%20Warrior.md) | 4 ★★★★ | 1700 / – |
-| [Zeta the Ionic Warrior](../cards/monsters/standard/Zeta%20the%20Ionic%20Warrior.md) | 4 ★★★★ | 1900 / – |
+| [Alpha the Charge Warrior](../cards/monsters/standard/Alpha%20the%20Ionic%20Warrior.md) | 4 ★★★★ | 1800 / – |
+| [Delta the Charge Warrior](../cards/monsters/standard/Delta%20the%20Ionic%20Warrior.md) | 4 ★★★★ | 2000 / – |
+| [Iota the Charge Warrior](../cards/monsters/standard/Iota%20the%20Ionic%20Warrior.md) | 4 ★★★★ | 1700 / – |
+| [Zeta the Charge Warrior](../cards/monsters/standard/Zeta%20the%20Ionic%20Warrior.md) | 4 ★★★★ | 1900 / – |
 
 </details>
 
 <details open>
   <summary> <b> Extra Deck </b> </summary> <br>
 
-| card | Level | ATK/DEF | material |
-| :--- | :---- | :------ | :------- |
-| [Arterion the Superionic Warrior](../cards/monsters/–/Arterion%20the%20Superionic%20Warrior.md) | n ★★★★★★★★★★★★ | 3650 / 3450 | *Delta the Ionic Warrior* + *Iota the Ionic Warrior* + *Zeta the Ionic Warrior* |
-| [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – / – | – |
+| card | Level | ATK/DEF | Type | material |
+| :--- | :---- | :------ | :--- | :------- |
+| [Arterion the Supercharged Warrior](../cards/monsters/–/Arterion%20the%20Superionic%20Warrior.md) | 4 ★★★★ | 3650 / 3450 | Xyz | 3 ‘Charge Warrior’ monsters |
+| [Arkyion the Hypercharged Warrior](../cards/monsters/–/Arterion%20the%20Superionic%20Warrior.md) | 4 ★★★★ | 3950 / 3750 | Xyz | 4 ‘Charge Warrior’ monsters |
+| [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – / – | – | – |
 
 </details>
 
