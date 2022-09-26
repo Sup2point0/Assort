@@ -24,8 +24,8 @@ A series of LIGHT Machine monsters, an extension of the original [Cyber Dragon](
 
 | card | Level | ATK/DEF | Type |
 | :--- | :---- | :------ | :--- |
-| [Next-Gen Cyber Dragon](../cards/monsters/standard/Next-Gen%20Cyber%20Dragon.md) | n ★★★★★★★★★★★★ | 2300 / – | Tuner |
-| [Next-Next-Gen Cyber Dragon](../cards/monsters/standard/Next-Next-Gen%20Cyber%20Dragon.md) | n ★★★★★★★★★★★★ | 2500 / – | – |
+| [Next-Gen Cyber Dragon](../cards/monsters/standard/Next-Gen%20Cyber%20Dragon.md) | 5 ★★★★★ | 2300 / 1500 | Tuner |
+| [Next-Next-Gen Cyber Dragon](../cards/monsters/standard/Next-Next-Gen%20Cyber%20Dragon.md) | 6 ★★★★★★ | 2500 / 1700 | – |
 | [–](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
 
 </details>
@@ -35,10 +35,10 @@ A series of LIGHT Machine monsters, an extension of the original [Cyber Dragon](
 
 | card | Level | ATK/DEF | Type | material |
 | :--- | :---- | :------ | :--- | :------- |
-| [Next-Next-Next-Gen Cyber Dragon](../cards/monsters/link/Next-Next-Next-Gen%20Cyber%20Dragon.md) | LINK-2 | 2700 / – | – | – |
-| [Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/link/Next-Next-Next-Next-Gen%20Cyber%20Dragon.md) | LINK-3 | 2900 / – | – | – |
-| [Next-Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/link/Next-Next-Next-Next-Next-Gen%20Cyber%20Dragon.md) | LINK-4 | 3100 / – | – | – |
-| [Next-Next-Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/xyz/Next-Next-Next-Next-Next-Next-Gen%20Cyber%20Dragon.md) | n ★★★★★★★★★★★★ | – / – | – | – |
+| [Next-Next-Next-Gen Cyber Dragon](../cards/monsters/link/Next-Next-Next-Gen%20Cyber%20Dragon.md) | LINK-2 | 2700 | Link | *Next-Next-Gen Cyber Dragon* + 1 Machine or Cyberse monster |
+| [Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/link/Next-Next-Next-Next-Gen%20Cyber%20Dragon.md) | LINK-3 | 2900 | Link Link | *Next-Next-Next-Gen Cyber Dragon* + 1 Machine or Cyberse monster |
+| [Next-Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/link/Next-Next-Next-Next-Next-Gen%20Cyber%20Dragon.md) | LINK-4 | 3100 | Link Link | *Next-Next-Next-Next-Gen Cyber Dragon* + 1 Machine or Cyberse monster |
+| [Next-Next-Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/xyz/Next-Next-Next-Next-Next-Next-Gen%20Cyber%20Dragon.md) | 10 ★★★★★★★★★★ | 3300 / 0 | Link Xyz | *Next-Next-Next-Next-Next-Gen Cyber Dragon* + 2+ ‘Next-Next-Gen Cyber Dragon’ monsters |
 | [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | 3300 / – | – | – |
 
 </details>
@@ -78,5 +78,3 @@ A series of LIGHT Machine monsters, an extension of the original [Cyber Dragon](
 
 
 ## Trivia
-
-‘’ ◈ ⚡︎ ∞ ↵
