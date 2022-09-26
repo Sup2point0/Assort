@@ -20,7 +20,7 @@ All the archetypes of custom cards I’ve cryzen.
 [Next-Gen Cyber Dragon](Next-Gen%20Cyber%20Dragon.md)  
 [Nightmare](Nightmare.md)  
 [Nuclear](Nuclear.md)  
-[Photon Dragon](Photon%20Dragon.md)
+[Photon Dragon](Photon%20Dragon.md)  
 [Soul](Soul.md)  
 [Spidey](Spidey.md)  
 [Virus](Virus.md)  
