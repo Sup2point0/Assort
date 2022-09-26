@@ -44,7 +44,7 @@
 
 | card | Type |
 | :--- | :--- |
-| [–](../cards/spells/–.md) | – |
+| [–](../cards/spells/–/–.md) | – |
 
 </details>
 
@@ -55,7 +55,7 @@
 
 | card | Type |
 | :--- | :--- |
-| [–](../cards/traps/–.md) | – |
+| [–](../cards/traps/–/–.md) | – |
 
 </details>
 
