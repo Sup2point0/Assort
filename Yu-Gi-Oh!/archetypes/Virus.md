@@ -55,7 +55,7 @@ An archetype of DARK Zombie monsters and complementary Traps that focus on destr
 | [Deck Destruction Virus of Death](../cards/traps/–.md) | |
 | [Deck Devastation Virus of Doom](../cards/traps/–.md) | |
 | [Deck Desiccation Virus of Despair](../cards/traps/–.md) | |
-| [Deck Deranication Virus of Dread](../cards/traps/–.md) | |
+| [Deck Deracination Virus of Dread](../cards/traps/–.md) | |
 | [Deck Eradication Virus of Agony](../cards/traps/–.md) | ↵ Counter |
 | [Deck – Virus of Anguish](../cards/traps/–.md) | ↵ Counter |
 | [Deck Erasure Virus of Atrocity](../cards/traps/–.md) | ↵ Counter |
