@@ -41,6 +41,7 @@ An archetype of DARK Zombie monsters and complementary Traps that focus on destr
 
 | card | Type |
 | :--- | :--- |
+| [Viral Infection](../cards/spells/–.md) | – |
 | [–](../cards/spells/–.md) | – |
 
 </details>
@@ -52,14 +53,14 @@ An archetype of DARK Zombie monsters and complementary Traps that focus on destr
 
 | card | Type |
 | :--- | :--- |
-| [Deck Destruction Virus of Death](../cards/traps/–.md) | |
-| [Deck Devastation Virus of Doom](../cards/traps/–.md) | |
-| [Deck Desiccation Virus of Despair](../cards/traps/–.md) | |
-| [Deck Deracination Virus of Dread](../cards/traps/–.md) | |
-| [Deck Eradication Virus of Agony](../cards/traps/–.md) | ↵ Counter |
-| [Deck – Virus of Anguish](../cards/traps/–.md) | ↵ Counter |
-| [Deck Erasure Virus of Atrocity](../cards/traps/–.md) | ↵ Counter |
-| [Deck Extinction Virus of Annihilation](../cards/traps/–.md) | ↵ Counter |
+| [Deck Destruction Virus of Death](../cards/traps/normal/Deck%20Destruction%20Virus%20of%20Death.md) | |
+| [Deck Devastation Virus of Doom](../cards/traps/normal/Deck%20Devastation%20Virus%20of%20Doom.md) | |
+| [Deck Desiccation Virus of Despair](../cards/traps/normal/Deck%20Desiccation%20Virus%20of%20Despair.md) | |
+| [Deck Deracination Virus of Dread](../cards/traps/normal/Deck%20Deracination%20Virus%20of%20Dread.md) | |
+| [Deck Eradication Virus of Agony](../cards/traps/counter/Deck%20Eradication%20Virus%20of%20Agony.md) | ↵ Counter |
+| [Deck – Virus of Anguish](../cards/traps/counter/Deck%20–%20Virus%20of%20Anguish.md) | ↵ Counter |
+| [Deck Erasure Virus of Atrocity](../cards/traps/counter/Deck%20Erasure%20Virus%20of%20Atrocity.md) | ↵ Counter |
+| [Deck Extinction Virus of Annihilation](../cards/traps/counter/Deck%20Extinction%20Virus%20of%20Annihilation.md) | ↵ Counter |
 
 </details>
 
