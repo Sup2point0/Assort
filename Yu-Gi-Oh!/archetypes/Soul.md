@@ -59,9 +59,11 @@ An archetype of DARK monsters, compryzen of lower level Spirit monsters, and hig
 
 | card | Type |
 | :--- | :--- |
-| [Pot of Souls](../cards/spells/–.md) | – |
-| [Soul Seeker](../cards/spells/–.md) | |
-| [–](../cards/spells/–.md) | – |
+| [Pot of Souls](../cards/spells/–/–.md) | |
+| [Soul Fracture](../cards/spells/–/–.md) | Quick |
+| [Soul Ritual](../cards/spells/–/–.md) | Ritual |
+| [Soul Seeker](../cards/spells/–/–.md) | |
+| [–](../cards/spells/–/–.md) | – |
 
 </details>
 
@@ -72,8 +74,8 @@ An archetype of DARK monsters, compryzen of lower level Spirit monsters, and hig
 
 | card | Type |
 | :--- | :--- |
-| [Soul Virus](../cards/traps/Soul%20Virus.md) | ∞ Continuous |
-| [–](../cards/traps/–.md) | – |
+| [Soul Virus](../cards/traps/–/Soul%20Virus.md) | ∞ Continuous |
+| [–](../cards/traps/–/–.md) | – |
 
 </details>
 
