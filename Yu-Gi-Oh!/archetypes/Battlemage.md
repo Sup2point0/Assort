@@ -46,7 +46,8 @@ An archetype of polyattributive Spellcaster Pendulum monsters, with various effe
 
 | card | Type |
 | :--- | :--- |
-| [Myriad Manifestacion Umbrella](../cards/spells/Myriad%20Manifestacion%20Umbrella.md) | Equip |
+| [Myriad Manifestation Trident](../cards/spells/Myriad%20Manifestation%20Trident.md) | Equip |
+| [Myriad Manifestation Umbrella](../cards/spells/Myriad%20Manifestation%20Umbrella.md) | Equip |
 | [–](../cards/spells/–.md) | – |
 
 </details>
