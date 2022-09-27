@@ -8,7 +8,7 @@
     <th colspan="3"> <h3> Soul Slayer </h3> </th>
   </tr>
   <tr>
-    <td colspan="8"> <img src="../.assets/cards/link/Soul%20Slayer.png" width="320px"> </td>
+    <td rowspan="8"> <img src="../../../.assets/cards/link/Soul%20Slayer.png" width="320px"> </td>
   </tr>
   <tr>
     <td> type </td>
