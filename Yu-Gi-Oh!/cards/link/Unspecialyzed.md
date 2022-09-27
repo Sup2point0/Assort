@@ -8,7 +8,7 @@
     <th colspan="3"> <h3> Unspecialyzed </h3> </th>
   </tr>
   <tr>
-    <td colspan="8"> <img src="../.assets/cards/Unspecialyzed.png" width="320px"> </td>
+    <td rowspan="8"> <img src="../../../.assets/cards/Unspecialyzed.png" width="320px"> </td>
   </tr>
   <tr>
     <td> type </td>
