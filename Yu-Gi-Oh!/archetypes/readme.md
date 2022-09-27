@@ -17,6 +17,7 @@ All the archetypes of custom cards I’ve cryzen.
 [Kaiju](Kaiju.md)  
 [Klyntar](Klyntar.md)  
 [Neuralliance](Neuralliance.md)  
+[Next-Gen A-to-Z](Next-Gen%20A-to-Z.md)  
 [Next-Gen Cyber Dragon](Next-Gen%20Cyber%20Dragon.md)  
 [Nightmare](Nightmare.md)  
 [Nuclear](Nuclear.md)  
