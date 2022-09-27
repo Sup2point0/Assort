@@ -8,7 +8,7 @@ Our vengeance shall be unleashed.
     <th colspan="3"> <h3> Vengeance Vanguard </h3> </th>
   </tr>
   <tr>
-    <td colspan="8"> <img src="../.assets/cards/link/Vengeance Vanguard.png" width="320px" height=auto> </td>
+    <td colspan="8"> <img src="../../.assets/cards/link/Vengeance Vanguard.png" width="320px" height=auto> </td>
   </tr>
   <tr>
     <td> type </td>
