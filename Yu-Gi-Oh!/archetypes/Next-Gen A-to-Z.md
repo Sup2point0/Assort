@@ -51,22 +51,22 @@ A series of LIGHT Machine Union monsters, a revitalyzacion of the original [A-to
 
 | card | Level | ATK/DEF | Type | material |
 | :--- | :---- | :------ | :--- | :------- |
-| [Next-Gen XY-Dragon Cannon](../cards/monsters/–/Next-Gen%20.md) | 6 ★★★★★★ | 2200 / 1900 | Contact Fusion | – |
-| [Next-Gen XZ-Crush Cannon](../cards/monsters/–/Next-Gen%20.md) | 6 ★★★★★★ | 2200 / 1900 | Contact Fusion | – |
-| [Next-Gen ZY-Dragon Tank](../cards/monsters/–/Next-Gen%20.md) | 6 ★★★★★★ | 2100 / 1900 | Contact Fusion | – |
-| [Next-Gen VW-Core Catapult](../cards/monsters/–/Next-Gen%20.md) | 6 ★★★★★★ | – / – | Contact Fusion | – |
-| [Next-Gen ZW-Crush Catapult](../cards/monsters/–/Next-Gen%20.md) | 6 ★★★★★★ | – / – | Contact Fusion | – |
-| [Next-Gen ABC-](../cards/monsters/–/Next-Gen%20.md) | 8 ★★★★★★★★ | – / – | – | – |
-| [Next-Gen XYZ-Dragon Crush Cannon](../cards/monsters/–/Next-Gen%20.md) | 8 ★★★★★★★★★★★★ | – / – | – | – |
-| [Next-Gen ABCD-](../cards/monsters/–/Next-Gen%20.md) | 10 ★★★★★★★★★★ | – / – | – | – |
-| [Next-Gen IJKL-](../cards/monsters/–/Next-Gen%20.md) | 10 ★★★★★★★★★★ | – / – | – | – |
-| [Next-Gen VWXY-Dragon Core Cannon](../cards/monsters/–/Next-Gen%20.md) | 10 ★★★★★★★★★★ | – / – | – | – |
-| [Next-Gen ZWXY-Dragon Crush Catapult](../cards/monsters/–/Next-Gen%20.md) | 10 ★★★★★★★★★★ | – / – | – | – |
-| [Next-Gen ABCDE-](../cards/monsters/–/Next-Gen%20.md) | 11 ★★★★★★★★★★★ | – / – | – | – |
-| [Next-Gen PQRST-](../cards/monsters/–/Next-Gen%20.md) | 11 ★★★★★★★★★★★ | – / – | – | – |
-| [Next-Gen VWXYZ-Dragon Core Catapult Crusher](../cards/monsters/–/Next-Gen%20.md) | 11 ★★★★★★★★★★★ | – / – | – | – |
-| [Next-Gen A-to-Z-Myriad Vanquish](../cards/monsters/–/Next-Gen%20.md) | 12 ★★★★★★★★★★★★★★ | – / – | – | – |
-| [Next-Gen –](../cards/monsters/–/Next-Gen%20.md) | n ★★★★★★★★★★★★ | – / – | – | – |
+| [Next-Gen XY-Dragon Cannon](../cards/monsters/–/Next-Gen%20.md) | LINK-2 | 2200 | Union Link | – |
+| [Next-Gen XZ-Crush Cannon](../cards/monsters/–/Next-Gen%20.md) | LINK-2 | 2200 | Union Link | – |
+| [Next-Gen ZY-Dragon Tank](../cards/monsters/–/Next-Gen%20.md) | LINK-2 | 2100 | Union Link | – |
+| [Next-Gen VW-Core Catapult](../cards/monsters/–/Next-Gen%20.md) | LINK-2 | – | Union Link | – |
+| [Next-Gen ZW-Crush Catapult](../cards/monsters/–/Next-Gen%20.md) | LINK-2 | – | Union Link | – |
+| [Next-Gen ABC-](../cards/monsters/–/Next-Gen%20.md) | LINK-3 | – | Union Link | – |
+| [Next-Gen XYZ-Dragon Crush Cannon](../cards/monsters/–/Next-Gen%20.md) | LINK-3 | – | Union Link | – |
+| [Next-Gen ABCD-](../cards/monsters/–/Next-Gen%20.md) | LINK-4 | – | Union Link | – |
+| [Next-Gen IJKL-](../cards/monsters/–/Next-Gen%20.md) | LINK-4 | – | Union Link | – |
+| [Next-Gen VWXY-Dragon Core Cannon](../cards/monsters/–/Next-Gen%20.md) | LINK-4 | – | Union Link | – |
+| [Next-Gen ZWXY-Dragon Crush Catapult](../cards/monsters/–/Next-Gen%20.md) | LINK-4 | – | Union Link | – |
+| [Next-Gen ABCDE-](../cards/monsters/–/Next-Gen%20.md) | LINK-5 | – | Union Link | – |
+| [Next-Gen PQRST-](../cards/monsters/–/Next-Gen%20.md) | LINK-5 | – | Union Link | – |
+| [Next-Gen VWXYZ-Dragon Core Catapult Crusher](../cards/monsters/–/Next-Gen%20.md) | LINK-5 | – | Union Link | – |
+| [Next-Gen A-to-Z-Myriad Vanquish](../cards/monsters/–/Next-Gen%20.md) | 12 ★★★★★★★★★★★★★★ | – / – | Link Fusion | – |
+| [Next-Gen –](../cards/monsters/–/Next-Gen%20.md) | n ★★★★★★★★★★★★ | – / – | Union Link | – |
 
 </details>
 
