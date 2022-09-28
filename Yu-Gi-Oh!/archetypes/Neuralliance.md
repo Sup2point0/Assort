@@ -8,8 +8,8 @@ A superarchetype of LIGHT and DARK monsters, inspired by the nervous system and 
 
 ## Archetypes
 
-| archetype | correspondence | notes |
-| :-------- | :------------- | :---- |
+| archetype | origin | notes |
+| :-------- | :----- | :---- |
 | [Neuralliance ARC](Neuralliance%20ARC.md) | | |
 | [Neuralliance BREAK](Neuralliance%20BREAK.md) | | |
 | [Neuralliance CORD](Neuralliance%20CORD.md) | | bridging monsters |

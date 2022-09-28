@@ -1,6 +1,6 @@
 # Next-Gen A-to-Z
 
-An archetype of LIGHT Machine Union monsters, a revitalyzacion of the original [A-to-Z](https://yugioh.fandom.com/wiki/A-to-Z) archetype.
+An archetype of LIGHT Machine Union monsters, a revitalyzacion of the original [A-to-Z](https://yugipedia.com/wiki/A-to-Z) archetype.
 
 
 <br>
