@@ -11,8 +11,8 @@ An archetype of polyattributive Spellcaster Pendulum monsters, with various effe
 | type | count |
 | :--- | :---- |
 | Pendulum | x |
-| Fusion | x |
-| Link | x |
+| Fusion   | x |
+| Link     | x |
 
 ### Monsters
 

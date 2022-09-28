@@ -10,10 +10,10 @@ A series of LIGHT Machine monsters, an extension of the original [Cyber Dragon](
 
 | type | count |
 | :--- | :---- |
-| Fusion | x2 |
+| Fusion  | x2 |
 | Synchro | x1 |
-| Xyz | x1 |
-| Link | x3 |
+| Xyz     | x1 |
+| Link    | x3 |
 
 ### Monsters
 
