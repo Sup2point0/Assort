@@ -36,7 +36,7 @@ Our vengeance shall be unleashed.
   </tr>
   <tr>
     <td> material </td>
-    <td> – </td>
+    <td> <em>Vengeful Soul</em> + 1+ DARK monsters, including 1 ‘Soul’ Extra Deck monster </td>
   </tr>
   <tr>
     <td> special </td>
