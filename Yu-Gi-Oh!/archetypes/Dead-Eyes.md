@@ -10,12 +10,12 @@ An ‘*X*-Eyes Dragon’ archetype of DARK Zombie Dragon monsters.
 
 | type | count |
 | :--- | :---- |
-| Ritual | x2 |
+| Ritual   | x2 |
 | Pendulum | x0 |
-| Fusion | x3 |
-| Synchro | x0 |
-| Xyz | x5 |
-| Link | x0 |
+| Fusion   | x3 |
+| Synchro  | x0 |
+| Xyz      | x5 |
+| Link     | x0 |
 
 ### Monsters
 

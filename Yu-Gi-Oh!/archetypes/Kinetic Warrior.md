@@ -11,7 +11,7 @@ A series of LIGHT Cyberse monsters that combine to form much more powerful Xyz m
 | type | count |
 | :--- | :---- |
 | Fusion | x2 |
-| Link | x3 |
+| Link   | x3 |
 
 ### Monsters
 

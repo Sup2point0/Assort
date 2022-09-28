@@ -10,12 +10,12 @@ An archetype of polyattributive Spellcaster Pendulum monsters, with various effe
 
 | type | count |
 | :--- | :---- |
-| Ritual | x |
+| Ritual   | x |
 | Pendulum | x |
-| Fusion | x |
-| Synchro | x |
-| Xyz | x |
-| Link | x |
+| Fusion   | x |
+| Synchro  | x |
+| Xyz      | x |
+| Link     | x |
 
 ### Monsters
 

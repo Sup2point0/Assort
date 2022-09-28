@@ -11,8 +11,8 @@ An archetype of LIGHT Machine Union monsters, a revitalyzacion of the original [
 | type | count |
 | :--- | :---- |
 | Fusion | x |
-| Xyz | x |
-| Link | x |
+| Xyz    | x |
+| Link   | x |
 
 ### Monsters
 
