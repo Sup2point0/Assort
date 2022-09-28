@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td> material </td>
-    <td> </em> <a href="../standard/Next-Gen X-Head Cannon.md">Next-Gen X-Head Cannon</a> </em> + </em> <a href="../standard/Next-Gen Y-Dragon Head.md">Next-Gen Y-Dragon Head</a> </em> + </em> <a href="../standard/Next-Gen Z-Crush Tank.md">Next-Gen Z-Crush Tank</a> </em> </td>
+    <td> <em> <a href="../standard/Next-Gen X-Head Cannon.md">Next-Gen X-Head Cannon</a> </em> + <em> <a href="../standard/Next-Gen Y-Dragon Head.md">Next-Gen Y-Dragon Head</a> </em> + <em> <a href="../standard/Next-Gen Z-Crush Tank.md">Next-Gen Z-Crush Tank</a> </em> </td>
   </tr>
   <tr>
     <td> special </td>
