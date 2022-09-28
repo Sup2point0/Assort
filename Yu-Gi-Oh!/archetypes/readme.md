@@ -19,6 +19,7 @@ All the archetypes of custom cards I’ve cryzen.
 [Neuralliance](Neuralliance.md)  
 [Next-Gen A-to-Z](Next-Gen%20A-to-Z.md)  
 [Next-Gen Cyber Dragon](Next-Gen%20Cyber%20Dragon.md)  
+[Next-Gen Raidraptor](Next-Gen%20Raidraptor.md)  
 [Nightmare](Nightmare.md)  
 [Nuclear](Nuclear.md)  
 [Photon Dragon](Photon%20Dragon.md)  
