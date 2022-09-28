@@ -8,7 +8,7 @@
     <th colspan="3"> <h3> Next-Gen Raidraptor Rise Falcon </h3> </th>
   </tr>
   <tr>
-    <td rowspan="8"> <img src="../../../.assets/cards/xyz/.png" width="320px"> </td>
+    <td rowspan="9"> <img src="../../../.assets/cards/xyz/.png" width="320px"> </td>
   </tr>
   <tr>
     <td> type </td>
