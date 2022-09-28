@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td> type </td>
-    <td> Link monster </td>
+    <td> monster </td>
   </tr>
   <tr>
     <td> archetype </td>
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td> Types </td>
-    <td> Celestial Warrior </td>
+    <td> Celestial Warrior / Link </td>
   </tr>
   <tr>
     <td> Attribute </td>

@@ -12,7 +12,7 @@ Our vengeance shall be unleashed.
   </tr>
   <tr>
     <td> type </td>
-    <td> Link monster </td>
+    <td> monster </td>
   </tr>
   <tr>
     <td> archetype </td>
@@ -20,7 +20,7 @@ Our vengeance shall be unleashed.
   </tr>
   <tr>
     <td> Types </td>
-    <td> Cyberse </td>
+    <td> Cyberse / Link </td>
   </tr>
   <tr>
     <td> Attribute </td>
