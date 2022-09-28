@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td> Types </td>
-    <td> Machine / Link / Effect </td>
+    <td> Machine / Link </td>
   </tr>
   <tr>
     <td> Attribute </td>

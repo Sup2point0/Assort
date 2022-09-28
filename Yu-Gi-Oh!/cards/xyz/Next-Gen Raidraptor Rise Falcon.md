@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td> type </td>
-    <td> Xyz monster </td>
+    <td> monster </td>
   </tr>
   <tr>
     <td> archetype </td>
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td> Types </td>
-    <td> Winged Beast </td>
+    <td> Winged Beast / Xyz </td>
   </tr>
   <tr>
     <td> Attribute </td>
