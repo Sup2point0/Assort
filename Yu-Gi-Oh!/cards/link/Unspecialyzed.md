@@ -8,7 +8,7 @@
     <th colspan="3"> <h3> Unspecialyzed </h3> </th>
   </tr>
   <tr>
-    <td rowspan="8"> <img src="../../../.assets/cards/Unspecialyzed.png" width="320px"> </td>
+    <td rowspan="9"> <img src="../../../.assets/cards/Unspecialyzed.png" width="320px"> </td>
   </tr>
   <tr>
     <td> type </td>
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td> material </td>
-    <td> 2 monsters, including 1 Normal monster </td>
+    <td> 2 monsters with different Levels, Types and Attributes, including 1 Normal monster </td>
   </tr>
   <tr>
     <td> special </td>
