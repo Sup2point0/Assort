@@ -65,7 +65,7 @@ An archetype of LIGHT Machine Union monsters, a revitalyzacion of the original [
 | [Next-Gen ABCDE-](../cards/monsters/link/Next-Gen%20.md) | LINK-5 | – | Union Link | – |
 | [Next-Gen PQRST-](../cards/monsters/link/Next-Gen%20.md) | LINK-5 | – | Union Link | – |
 | [Next-Gen VWXYZ-Dragon Core Catapult Crusher](../cards/monsters/link/Next-Gen%20.md) | LINK-5 | – | Union Link | – |
-| [Next-Gen A-to-Z-Myriad Vanquish](../cards/monsters/link/Next-Gen%20.md) | 12 ★★★★★★★★★★★★★★ | – / – | Link Fusion | – |
+| [Next-Gen A-to-Z-Myriad Vanquish](../cards/monsters/link/Next-Gen%20.md) | LINK-8 | 5000 | Link Link | – |
 | [Next-Gen –](../cards/monsters/fusion/Next-Gen%20.md) | n ★★★★★★★★★★★★ | – / – | Union Link | – |
 
 </details>
