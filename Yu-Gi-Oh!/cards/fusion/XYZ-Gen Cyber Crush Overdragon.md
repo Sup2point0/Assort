@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td> special </td>
-    <td> material banish </td>
+    <td> contact fusion <br> material banish </td>
   </tr>
 </table>
 
