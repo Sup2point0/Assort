@@ -10,12 +10,12 @@ An archetype of DARK monsters, compryzen of lower level Spirit monsters, and hig
 
 | type | count |
 | :--- | :---- |
-| Ritual | x0 |
+| Ritual   | x0 |
 | Pendulum | x0 |
-| Fusion | x1 |
-| Synchro | x |
-| Xyz | x0 |
-| Link | x1 |
+| Fusion   | x1 |
+| Synchro  | x |
+| Xyz      | x0 |
+| Link     | x1 |
 
 ### Monsters
 

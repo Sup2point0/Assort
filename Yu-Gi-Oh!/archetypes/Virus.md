@@ -11,7 +11,7 @@ An archetype of DARK Zombie monsters and complementary Traps that focus on destr
 | type | count |
 | :--- | :---- |
 | Ritual | x0 |
-| Xyz | x0 |
+| Xyz    | x0 |
 
 ### Monsters
 

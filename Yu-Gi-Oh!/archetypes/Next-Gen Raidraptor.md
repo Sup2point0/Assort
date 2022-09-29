@@ -10,7 +10,7 @@ An archetype of DARK Winged Beast monsters, a revitalyzacion of the original [Ra
 
 | type | count |
 | :--- | :---- |
-| Xyz | x1 |
+| Xyz  | x1 |
 
 ### Monsters
 
