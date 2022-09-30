@@ -52,3 +52,9 @@
 
 | effect | type | notes |
 | :----- | :--- | :---- |
+
+
+<br>
+
+
+## Trivia
