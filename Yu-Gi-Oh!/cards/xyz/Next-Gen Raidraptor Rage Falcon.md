@@ -53,4 +53,4 @@
 | effect | type | notes |
 | :----- | :--- | :---- |
 | This card's type is also treated as Machine. | condition | |
-| 
+| This card can attack all monsters your opponent controls, once each. Once per turn: You can detach up to 2 materials; for each detached, this card can make 1 extra attack this Battle Phase. At the start of the Damage Step, if this card battles an opponent's monster: Reduce that monster's ATK/DEF to 0. If this card is destroyed: You can Special Summon 1 Rank 5 or lower Winged Beast Xyz monster from your Extra Deck, and if you do, attach this card to it as material. |
