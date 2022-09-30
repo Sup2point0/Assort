@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td> special </td>
-    <td> polyattributive </td>
+    <td> polytypical </td>
   </tr>
 </table>
 
