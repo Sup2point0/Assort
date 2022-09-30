@@ -50,7 +50,7 @@
 
 | effect | type | notes |
 | :----- | :--- | :---- |
-| Must first be Fusion Summoned by banishing the above materials you control (You do not use ‘Polymerization’). | condition | |
+| Must first be Fusion Summoned by banishing the above materials you control. | condition | |
 | During the End Phase, if this card was Summoned by a card effect other than its own, send it to the Graveyard. | condition | This means it can only be Summoned from the Graveyard for 1 turn. |
 | Your opponent cannot activate card effects in response to this card’s Fusion Summon. | condition | Its Summon cannot be negated or have effects chained to it. |
 | Can only attack once per Duel. | condition | Only 1 6000 ATK hit. |
