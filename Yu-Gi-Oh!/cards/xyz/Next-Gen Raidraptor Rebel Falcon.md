@@ -1,14 +1,14 @@
-# Next-Gen Raidraptor – Rage Falcon
+# Next-Gen Raidraptor – Rebel Falcon
 
 {desc}
 
 
 <table>
   <tr>
-    <th colspan="3"> <h3> Next-Gen Raidraptor – Rage Falcon </h3> </th>
+    <th colspan="3"> <h3> Next-Gen Raidraptor – Rebel Falcon </h3> </th>
   </tr>
   <tr>
-    <td rowspan="9"> <img src="../../../.assets/cards/xyz/Next-Gen Raidraptor Rage Falcon.png" width="320px"> </td>
+    <td rowspan="9"> <img src="../../../.assets/cards/xyz/Next-Gen Raidraptor Rebel Falcon.png" width="320px"> </td>
   </tr>
   <tr>
     <td> type </td>
@@ -36,11 +36,11 @@
   </tr>
   <tr>
     <td> material </td>
-    <td> 3 or 4 Level 5 DARK Winged Beast or Machine monsters </td>
+    <td> 3 or 4 Level 5 Winged Beast or DARK Machine monsters </td>
   </tr>
   <tr>
     <td> special </td>
-    <td> polyattributive </td>
+    <td> polytypical </td>
   </tr>
 </table>
 
