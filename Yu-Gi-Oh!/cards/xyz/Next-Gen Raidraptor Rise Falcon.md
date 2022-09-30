@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td> material </td>
-    <td> 3 or 4 Level 4 Winged Beast monsters </td>
+    <td> 3 or 4 Level 4 Winged Beast or Machine monsters </td>
   </tr>
   <tr>
     <td> special </td>
