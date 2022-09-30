@@ -30,11 +30,14 @@ An archetype of DARK Winged Beast (and polytypically Machine) monsters, a revita
 
 | card | Rank | ATK/DEF | material |
 | :--- | :---- | :------ | :------- |
-| [Next-Gen Raidraptor – Rise Falcon](../cards/monsters/xyz/Next-Gen%20Raidraptor%20.md) | 4 ★★★★ | 200 / 2000 | 3 or 4 Level 4 Winged Beast monsters |
-| [Next-Gen Raidraptor – Blaze Falcon](../cards/monsters/standard/Next-Gen%20Raidraptor%20.md) | 5 ★★★★★ | – / – |
-| [Next-Gen Raidraptor – Revolution Falcon](../cards/monsters/standard/Next-Gen%20Raidraptor%20.md) | 6 ★★★★★★ | 2000 / 3000 |
-| [Next-Gen Raidraptor – Arsenal Falcon](../cards/monsters/standard/Next-Gen%20Raidraptor%20.md) | 7 ★★★★★★★ | 2600 / 2000 |
-| [Next-Gen Raidraptor – Ultimate Falcon](../cards/monsters/standard/Next-Gen%20Raidraptor%20.md) | 10 ★★★★★★★★★★ | 3600 / 2000 |
+| [Next-Gen Raidraptor – Rise Falcon](../cards/monsters/xyz/Next-Gen%20Raidraptor%20Rise%20Falcon.md) | 4 ★★★★ | 200 / 2000 | 3 or 4 Level 4 Winged Beast monsters |
+| [Next-Gen Raidraptor – Rage Falcon](../cards/monsters/xyz/Next-Gen%20Raidraptor%20Rage%20Falcon.md) | 5 ★★★★★ | 1000 / 2000 |
+| [Next-Gen Raidraptor – Revolution Falcon](../cards/monsters/xyz/Next-Gen%20Raidraptor%20Revolution%20Falcon.md) | 6 ★★★★★★ | 2000 / 3000 |
+| [Next-Gen Raidraptor – Blaze Falcon](../cards/monsters/xyz/Next-Gen%20Raidraptor%20Blaze%20Falcon.md) | 7 ★★★★★★★ | 2600 / 2000 |
+| [Next-Gen Raidraptor – Blitz Falcon](../cards/monsters/xyz/Next-Gen%20Raidraptor%20Blitz%20Falcon.md) | 8 ★★★★★★★★ | 3000 / 2000 |
+| [Next-Gen Raidraptor – Break Falcon](../cards/monsters/xyz/Next-Gen%20Raidraptor%20Break%20Falcon.md) | 9 ★★★★★★★★★ | 3300 / 2000 |
+| [Next-Gen Raidraptor – Ultimate Falcon](../cards/monsters/xyz/Next-Gen%20Raidraptor%20Ultimate%20Falcon.md) | 10 ★★★★★★★★★★ | 3600 / 2000 |
+| [Next-Gen Raidraptor – Final Fortress Falcon](../cards/monsters/xyz/Next-Gen%20Raidraptor%20Final%20Fortress%20Falcon.md) | 12 ★★★★★★★★★★★★ | 4000 / 3000 |
 | [Next-Gen Raidraptor – ](../cards/monsters/xyz/Next-Gen%20Raidraptor%20.md) | n ★★★★★★★★★★★★ | 1000 / 2000 | – |
 
 </details>
