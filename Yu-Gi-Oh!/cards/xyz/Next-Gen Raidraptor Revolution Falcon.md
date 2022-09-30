@@ -52,3 +52,4 @@
 
 | effect | type | notes |
 | :----- | :--- | :---- |
+| This card can attack all monsters your opponent controls, once each. Up to twice per turn: You can detach 1 material; this card gains ATK equal to the total ATK of all 'Raidraptor' monsters in your Graveyard or attached to this card as material. At the start of the Damage Step, if this card battles an opponent's monster: Reduce that monster's ATK/DEF to 0. If this card is destroyed: You can Special Summon 1 Rank 5 or lower Winged Beast Xyz monster from your Extra Deck, and if you do, attach this card to it as material. |
