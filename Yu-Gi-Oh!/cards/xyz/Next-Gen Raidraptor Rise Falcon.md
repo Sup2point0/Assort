@@ -1,14 +1,14 @@
-# Next-Gen Raidraptor Rise Falcon
+# Next-Gen Raidraptor – Rise Falcon
 
 {desc}
 
 
 <table>
   <tr>
-    <th colspan="3"> <h3> Next-Gen Raidraptor Rise Falcon </h3> </th>
+    <th colspan="3"> <h3> Next-Gen Raidraptor – Rise Falcon </h3> </th>
   </tr>
   <tr>
-    <td rowspan="9"> <img src="../../../.assets/cards/xyz/.png" width="320px"> </td>
+    <td rowspan="9"> <img src="../../../.assets/cards/xyz/Next-Gen Raidraptor Rise Falcon.png" width="320px"> </td>
   </tr>
   <tr>
     <td> type </td>
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td> Types </td>
-    <td> Winged Beast / Xyz </td>
+    <td> Winged Beast / Machine / Xyz </td>
   </tr>
   <tr>
     <td> Attribute </td>
@@ -36,11 +36,11 @@
   </tr>
   <tr>
     <td> material </td>
-    <td> 3 or 4 Level 4 Winged Beast or Machine monsters </td>
+    <td> 3 or 4 Level 4 DARK Winged Beast or Machine monsters </td>
   </tr>
   <tr>
     <td> special </td>
-    <td> – </td>
+    <td> polyattributive </td>
   </tr>
 </table>
 
