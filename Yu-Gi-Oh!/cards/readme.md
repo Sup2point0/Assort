@@ -6,6 +6,7 @@ All the custom cards I’ve cryzen.
 ## Index
 
 ### Standard
+[Next-Gen Sky Dragon of Osiris](standard/Next-Gen%20Sky%20Dragon%20of%20Osiris.md)
 
 ### Ritual
 
@@ -16,6 +17,8 @@ All the custom cards I’ve cryzen.
 
 ### Xyz
 [Next-Gen Raidraptor Rise Falcon](xyz/Next-Gen%20Raidraptor%20Rise%20Falcon.md)
+[Next-Gen Raidraptor Rebel Falcon](xyz/Next-Gen%20Raidraptor%20Rebel%20Falcon.md)
+[Next-Gen Raidraptor Revolution Falcon](xyz/Next-Gen%20Raidraptor%20Revolution%20Falcon.md)
 
 ### Pendulum
 
