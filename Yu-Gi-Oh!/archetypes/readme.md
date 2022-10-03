@@ -26,4 +26,5 @@ All the archetypes of custom cards I’ve cryzen.
 [Photon Dragon](Photon%20Dragon.md)  
 [Soul](Soul.md)  
 [Spidey](Spidey.md)  
+[The Specialists](The%20Specialists.md)  
 [Virus](Virus.md)  
