@@ -56,7 +56,14 @@ A superarchetype of revitalyzacions of various canon archetypes.
 
 | card | Type |
 | :--- | :--- |
-| [Next-Gen Recycle](../cards/spells/–/–.md) | – |
+| [Next-Gen Cyber Claws](../cards/spells/equip/–.md) | ✦ Equip |
+| [Next-Gen Cyber Vision](../cards/spells/equip/–.md) | ✦ Equip |
+| [Next-Gen Cyber Wings](../cards/spells/equip/–.md) | ✦ Equip |
+| [Next-Gen Devolution](../cards/spells/–/–.md) | ⚡︎ Quick |
+| [Next-Gen Evolution](../cards/spells/–/–.md) | ⚡︎ Quick |
+| [Next-Gen Recycle](../cards/spells/–/–.md) | ∞ Continuous |
+| [Next-Gen Resolution](../cards/spells/–/–.md) | ∞ Continuous |
+| [Next-Gen Revolution](../cards/spells/–/–.md) | ⚡︎ Quick |
 | [Next-Gen –](../cards/spells/–/–.md) | – |
 
 </details>
@@ -85,5 +92,3 @@ A superarchetype of revitalyzacions of various canon archetypes.
 
 
 ## Trivia
-
-‘’ ◈ ⚡︎ ∞ ↵
