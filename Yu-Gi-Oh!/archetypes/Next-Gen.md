@@ -56,7 +56,8 @@ A superarchetype of revitalyzacions of various canon archetypes.
 
 | card | Type |
 | :--- | :--- |
-| [–](../cards/spells/–/–.md) | – |
+| [Next-Gen Recycle](../cards/spells/–/–.md) | – |
+| [Next-Gen –](../cards/spells/–/–.md) | – |
 
 </details>
 
