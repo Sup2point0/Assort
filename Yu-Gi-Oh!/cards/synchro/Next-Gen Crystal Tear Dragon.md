@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td> ATK / DEF </td>
-    <td> 2500 / 2000 </td>
+    <td> 2500 / 1500 </td>
   </tr>
   <tr>
     <td> material </td>
