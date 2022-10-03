@@ -12,8 +12,10 @@ All the custom cards I’ve cryzen.
 
 ### Fusion
 [Raiza the Empress of Darkness](fusion/Raiza.md)  
+[XYZ-Gen Cyber Crush Overdragon](fusion/XYZ-Gen%20Cyber%20Crush%20Overdragon.md)
 
 ### Synchro
+[Next-Gen Crystal Tear Synchro Dragon](synchro/Next-Gen%20Crystal%20Tear%20Dragon.md)
 
 ### Xyz
 [Next-Gen Raidraptor Rise Falcon](xyz/Next-Gen%20Raidraptor%20Rise%20Falcon.md)
