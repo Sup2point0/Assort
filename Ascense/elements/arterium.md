@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td> etymologics </td>
-    <td> <em>Arterion</em> the Electromagnetic Warrior (legendary figure) + English </em>-ium</em> ‘element’ </td>
+    <td> <a href="../../Yu-Gi-Oh!/cards/xyz/Arterion the Superkinetic Warrior"><em>Arterion</em> the Superkinetic Warrior</a> (legendary figure) + English </em>-ium</em> ‘element’ </td>
   </tr>
   <tr>
     <td> category </td>
