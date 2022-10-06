@@ -93,6 +93,21 @@ Must first be Fusion Summoned with 'Affinityzacion'. While an 'Affinitic' monste
 
 ### Superior &ensp; 3600 / 3600
 Lv12 Fusion  
-5 'Affinitic' monsters  
+5 'Affinitic' monsters, including 3 Extra Deck monsters  
 *(This card is always treated as an 'Affinitic' card.)*  
 Must first be Fusion Summoned with 'Affinityzacion'. 
+
+### Whisper &ensp; 2100 / 2900
+Lv11 Fusion  
+2 or 3 Effect monsters  
+*(This card is always treated as an 'Affinitic' card.)*  
+Must first be Fusion Summoned with 'Affinityzacion'. 
+
+<br>
+
+### Affinityzacion
+Activate 1 of the following effects:
+• Ritual Summon 1 'Affinitic' monster from your hand or Graveyard, Tributing monsters from your hand or field as Ritual material.
+• Fusion/Synchro/Xyz/Link Summon 1 'Affinitic' monster from your Extra Deck, using monsters from your hand or field as material.
+• Pay 700 LP; Ritual/Fusion/Synchro/Xyz/Link Summon 1 'Affinitic' monster from your Extra Deck or Graveyard, using monsters from your hand and/or either player's field or Graveyard as material/Tributes.
+If your opponent  this card is in your Graveyard
