@@ -1,6 +1,6 @@
 # Battlemage
 
-An archetype of polyattributive Spellcaster Pendulum monsters, with various effects involving Spell Cards.
+An archetype of Spellcaster Pendulum monsters, with various effects involving Spell Cards.
 
 
 <br>
