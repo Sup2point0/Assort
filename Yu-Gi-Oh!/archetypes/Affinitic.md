@@ -106,8 +106,7 @@ Must first be Fusion Summoned with 'Affinityzacion'.
 <br>
 
 ### Affinityzacion
-Activate 1 of the following effects:
-• Ritual Summon 1 'Affinitic' monster from your hand or Graveyard, Tributing monsters from your hand or field as Ritual material.
-• Fusion/Synchro/Xyz/Link Summon 1 'Affinitic' monster from your Extra Deck, using monsters from your hand or field as material.
-• Pay 700 LP; Ritual/Fusion/Synchro/Xyz/Link Summon 1 'Affinitic' monster from your Extra Deck or Graveyard, using monsters from your hand and/or either player's field or Graveyard as material/Tributes.
-If your opponent  this card is in your Graveyard
+Activate 1 of the following effects:  
+• Ritual Summon 1 'Affinitic' monster from your hand or Graveyard, using monsters from your hand or field as Ritual material.  
+• Fusion/Synchro/Xyz/Link Summon 1 'Affinitic' monster from your Extra Deck, using monsters from your hand or field as material.  
+• Pay 700 LP; Ritual/Fusion/Synchro/Xyz/Link Summon 1 'Affinitic' monster from your Extra Deck or Graveyard, using monsters from your hand and/or either player's field or Graveyard as material.  
