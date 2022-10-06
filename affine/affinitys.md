@@ -95,11 +95,11 @@
 | superaffinity | superaffinitic | ability |
 | :------------ | :------------- | :------ |
 | [affinitis](affinitys/affinitis.md) | affinitus | affinity copying |
+| [kalyptis](affinitys/kalyptis.md) | kalyptron, sentinel, warden | affinity hindering |
 | [kronis](affinitys/kronis.md) | kronus, chronokinetic | time control |
 | [legacy](affinitys/legacy.md) | legend, legatron | affinity gifting |
+| [obscuris](affinitys/obscuris.md) | obscurus, kenokinetic | void manipulation |
 | [psychokinetis](affinitys/psychokinetis.md) | psychokinetic, whisper | mind control |
 | [superis](affinitys/superis.md) | superior | affinity learning |
 | [tychis](affinitys/tychis.md) | tychus, felixus | luck |
 | [vitakinetis](affinitys/vitakinetis.md) | vitakinetic | life control |
-| [obscuris](affinitys/obscuris.md) | obscurus, kenokinetic | void manipulation |
-| [kalyptis](affinitys/kalyptis.md) | kalyptron, sentinel, warden | affinity hindering |
