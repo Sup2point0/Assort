@@ -1,6 +1,6 @@
 # The Specialists
 
-A series of polyattributive Cyberse Tuner and Link monsters, with various effects that help to summon and support other monsters.
+A series of Cyberse Tuner and Link monsters, with various effects that help to summon and support other monsters.
 
 
 <br>
@@ -21,7 +21,7 @@ A series of polyattributive Cyberse Tuner and Link monsters, with various effect
 | :--- | :---- | :------ | :--- | :-------- |
 | [The Engineer](../cards/monsters/standard/The%20Engineer.md) | 4 ★★★★ | – / – | Tuner | FIRE |
 | [The Inventor](../cards/monsters/standard/The%20Inventor.md) | 4 ★★★★ | – / – | Tuner | LIGHT |
-| [The Mechanic](../cards/monsters/standard/The%20Mechanic.md) | 4 ★★★★ | – / – | Tuner | EARTH |
+| [The Tinkerer](../cards/monsters/standard/The%20Tinkerer.md) | 4 ★★★★ | – / – | Tuner | EARTH |
 | [The Scientist](../cards/monsters/standard/The%20Scientist.md) | 4 ★★★★ | – / – | Tuner | WATER |
 | [–](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – | – |
 
@@ -74,5 +74,3 @@ A series of polyattributive Cyberse Tuner and Link monsters, with various effect
 
 
 ## Trivia
-
-‘’ ◈ ⚡︎ ∞ ✦ ↵
