@@ -71,12 +71,14 @@ An archetype of DARK monsters, focusing on Ritual and Synchro Summoning, with Gr
 | card | Type |
 | :--- | :--- |
 | [Pot of Souls](../cards/spells/–/–.md) | |
+| [Soul Corruption](../cards/spells/–/–.md) | ⚡︎ Quick |
 | [Soul Fracture](../cards/spells/–/–.md) | ⚡︎ Quick |
 | [Soul Illusion](../cards/spells/–/–.md) | – |
 | [Soul Manifestation](../cards/spells/–/–.md) | – |
 | [Soul Ritual](../cards/spells/–/–.md) | Ritual |
+| [Soul Seal](../cards/spells/–/–.md) | ∞ Continuous |
 | [Soul Seeker](../cards/spells/–/–.md) | |
-| [Soul Trade](../cards/spells/–/–.md) | |
+| [Soul Trade](../cards/spells/–/–.md) | ⚡︎ Quick |
 | [Soul –](../cards/spells/–/–.md) | – |
 
 </details>
