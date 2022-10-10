@@ -23,7 +23,23 @@ An archetype of DARK monsters, focusing on Ritual and Synchro Summoning, with Gr
 
 | card | Level | ATK/DEF | Type |
 | :--- | :---- | :------ | :--- |
-| [–](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
+| [Soul Synchron](../cards/monsters/standard/–.md) | ? | 0 / 0 | Tuner |
+| [Soul Shard](../cards/monsters/standard/–.md) | 1 ★ | 0 / 0 | Spirit |
+| [Soul Fragment](../cards/monsters/standard/–.md) | 2 ★ | – / – | Spirit |
+| [Soul Sliver](../cards/monsters/standard/–.md) | 1 ★ | – / – | Spirit |
+| [Soul Splinter](../cards/monsters/standard/–.md) | 1 ★ | – / – | Spirit |
+| [Lost Soul](../cards/monsters/standard/–.md) | 0 | – / – | Spirit |
+| [Sorrowful Soul](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | Spirit |
+| [Tearful Soul](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | Spirit |
+| [Vengeful Soul](../cards/monsters/standard/–.md) | 3 ★★★ | – / – | Spirit |
+| [Soul Dragon](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2500 / 0 | Ritual Tuner |
+| [Soul Swordsman](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2700 / 0 | Ritual Tuner |
+| [Soul Sorcerer](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2600 / 0 | Ritual Tuner |
+| [Soul Magician](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
+| [Soul Keeper](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
+| [Soul Wanderer](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
+| [Soul Guardian](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
+| [Soul –](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
 
 </details>
 
@@ -32,7 +48,7 @@ An archetype of DARK monsters, focusing on Ritual and Synchro Summoning, with Gr
 
 | card | Level | ATK/DEF | Type | material |
 | :--- | :---- | :------ | :--- | :------- |
-| [Soul Shard Synchron](../cards/monsters/synchro/–.md) | ? | 0 / 2000 | Tuner Synchro | *Soul Synchron* + *Soul Shard* |
+| [Soul Shard Synchron](../cards/monsters/synchro/–.md) | ? | 0 / 2000 | Synchro Tuner | *Soul Synchron* + *Soul Shard* |
 | [Soul Shard Dragon](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | 3000 / 0 | Ritual Synchro | – |
 | [Soul Shard Swordsman](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | 3000 / 0 | Ritual Synchro | – |
 | [Soul Shard Sorcerer](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | 3000 / 0 | Ritual Synchro | – |
