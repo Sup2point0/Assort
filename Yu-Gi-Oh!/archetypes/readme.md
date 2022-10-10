@@ -12,6 +12,8 @@ All the archetypes of custom cards I’ve cryzen.
 [Dead-Eyes](Dead-Eyes.md)  
 [Dragon Magician](Dragon%20Magician.md)  
 [Galactron](Galactron.md)  
+[GUYS](GUYS.md)  
+&emsp; [METEOR](METEOR.md)  
 [Hypno-Eyes](Hypno-Eyes.md)  
 [Kinetic Warrior](Kinetic%20Warrior.md)  
 [Kaiju](Kaiju.md)  
