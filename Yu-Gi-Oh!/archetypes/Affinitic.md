@@ -107,6 +107,17 @@ Lv12 Fusion
 *(This card is always treated as an 'Affinitic' card.)*  
 Must first be Fusion Summoned with 'Affinityzacion'. Once per turn (Quick Effect): You can target another card on the field or in either player's Graveyard; this card gains its effects. You cannot target a card with the same name twice. If this card is targeted by a card effect (Quick Effect): You can activate that effect as if it were this card's. If this card leaves your field: You can Special Summon 2 other 'Affinitic' monsters from your Graveyard.
 
+### Tychus &ensp; 0 / 0
+Lv12 Fusion
+*(This card is always treated as an 'Affinitic' card.)*  
+Must be Special Summoned by its own effect. If this card is in your Extra Deck: You can roll 2 dice; if you roll 2 sixes, Special Summon this card. You can only use this effect of 'Tychus' once per turn, also you can only Special Summon 'Tychus' once per Duel in this way. This card is unaffected by card effects (except its own) and cannot be destroyed by battle while in Defense Position. Once per turn: You can roll 2 dice, then if both rolls were equal, activate 1 of the following effects depending on the result;
+• 1: Banish this card.
+• 2: Destroy all monsters your opponent controls.
+• 3: Shuffle all other cards on the field into the Deck.
+• 4: Banish all other cards on the field.
+• 5: Destroy all monsters you control.
+• 6: You win the Duel.
+
 ### Whisper &ensp; 2100 / 2900
 Lv11 Fusion  
 3 Effect monsters  
