@@ -52,10 +52,10 @@ An archetype of DARK monsters, focusing on Ritual and Synchro Summoning, with Gr
 | [Soul Shard Dragon](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | 3000 / 0 | Ritual Synchro | – |
 | [Soul Shard Swordsman](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | 3000 / 0 | Ritual Synchro | – |
 | [Soul Shard Sorcerer](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | 3000 / 0 | Ritual Synchro | – |
-| [Soul Knight](../cards/monsters/synchro/–.md) | 8 ★★★★★★★★ | 2000 / 0 | Synchro | – |
-| [Soul Paladin](../cards/monsters/synchro/–.md) | 10 ★★★★★★★★★★ | 2000 / 0 | Synchro Synchro | – |
-| [Soul Sentinel](../cards/monsters/synchro/–.md) | 8 ★★★★★★★★ | 0 / 2700 | Synchro | – |
-| [Soul Warden](../cards/monsters/synchro/–.md) | 10 ★★★★★★★★★★ | 0 / 3000 | Synchro Synchro | – |
+| [Soul Knight](../cards/monsters/synchro/–.md) | 8 ★★★★★★★★ | 2000 / 0 | Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner monsters |
+| [Soul Paladin](../cards/monsters/synchro/–.md) | 10 ★★★★★★★★★★ | 2000 / 0 | Synchro Synchro | 1 Tuner + 1 ‘Soul’ Synchro monster |
+| [Soul Sentinel](../cards/monsters/synchro/–.md) | 8 ★★★★★★★★ | 0 / 2700 | Synchro | 1 ‘Soul’ Tuner + 1+ ‘Soul’ non-Tuner monsters |
+| [Soul Warden](../cards/monsters/synchro/–.md) | 10 ★★★★★★★★★★ | 0 / 3000 | Synchro Synchro | 1 ‘Soul’ Tuner + 1 ‘Soul’ Synchro monster |
 | [Soul Assassin](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | 3100 / 0 | Ritual Synchro | – |
 | [Soul Shard Assassin](../cards/monsters/synchro/–.md) | 11 ★★★★★★★★★★★ | 3300 / 0 | Synchro Synchro | – |
 | [Soul Slayer](../cards/monsters/synchro/–.md) | 12 ★★★★★★★★★★★★ | ? / ? | Synchro | – |
@@ -71,6 +71,8 @@ An archetype of DARK monsters, focusing on Ritual and Synchro Summoning, with Gr
 | card | Type |
 | :--- | :--- |
 | [Pot of Souls](../cards/spells/–/–.md) | |
+| [Soul Abyss](../cards/spells/–/–.md) | + Field |
+| [Soul Altar](../cards/spells/–/–.md) | ∞ Continuous |
 | [Soul Corruption](../cards/spells/–/–.md) | ⚡︎ Quick |
 | [Soul Fracture](../cards/spells/–/–.md) | ⚡︎ Quick |
 | [Soul Illusion](../cards/spells/–/–.md) | – |
