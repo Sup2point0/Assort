@@ -48,7 +48,8 @@ An archetype of polyattributive Machine Union monsters, inspired by [CREW GUYS](
 
 | card | Type |
 | :--- | :--- |
-| [–](../cards/spells/–/–.md) | – |
+| [GUYS – Sally, Go!](../cards/spells/–/–.md) | ⚡︎ Quick |
+| [GUYS – GiG!](../cards/spells/–/–.md) | ⚡︎ Quick |
 
 </details>
 
@@ -77,4 +78,5 @@ An archetype of polyattributive Machine Union monsters, inspired by [CREW GUYS](
 
 ## Trivia
 
-‘’ ◈ ⚡︎ ∞ ✦ ↵
+- The *Gun Striker* doesn’t actually exist.
+- A Fusion of *Gun Winger* and *Gun Booster* would be called *Gun Falcon*, but hasn’t been cryzen.
