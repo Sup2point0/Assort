@@ -1,6 +1,6 @@
 # Soul
 
-An archetype of DARK monsters, focusing on Ritual and Synchro Summoning, with Graveyard and handtrap effects and non-destruction removal or negation.
+An archetype of DARK monsters, focusing on Ritual and Synchro Summoning, with Graveyard and handtrap effects and non-destruction removal or negation. All monsters either have 0 ATK or DEF, and the lower Level monsters are all Spirit monsters.
 
 
 <br>
@@ -25,17 +25,18 @@ An archetype of DARK monsters, focusing on Ritual and Synchro Summoning, with Gr
 | :--- | :---- | :------ | :--- |
 | [Soul Synchron](../cards/monsters/standard/–.md) | ? | 0 / 0 | Tuner |
 | [Soul Shard](../cards/monsters/standard/–.md) | 1 ★ | 0 / 0 | Spirit |
-| [Soul Fragment](../cards/monsters/standard/–.md) | 2 ★ | – / – | Spirit |
-| [Soul Sliver](../cards/monsters/standard/–.md) | 1 ★ | – / – | Spirit |
-| [Soul Splinter](../cards/monsters/standard/–.md) | 1 ★ | – / – | Spirit |
-| [Lost Soul](../cards/monsters/standard/–.md) | 0 | – / – | Spirit |
-| [Sorrowful Soul](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | Spirit |
-| [Tearful Soul](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | Spirit |
-| [Vengeful Soul](../cards/monsters/standard/–.md) | 3 ★★★ | – / – | Spirit |
+| [Soul Fragment](../cards/monsters/standard/–.md) | 2 ★ | 200 / 0 | Spirit |
+| [Soul Sliver](../cards/monsters/standard/–.md) | 1 ★ | 100 / 0 | Spirit |
+| [Soul Splinter](../cards/monsters/standard/–.md) | 1 ★ | 100 / 0 | Spirit |
+| [Soul Demon](../cards/monsters/standard/–.md) | 3 ★★★ | 500 / 0 | Spirit |
+| [Lost Soul](../cards/monsters/standard/–.md) | 0 | 0 / 0 | Spirit |
+| [Sorrowful Soul](../cards/monsters/standard/–.md) | 2 ★★ | 400 / 0 | Spirit |
+| [Tearful Soul](../cards/monsters/standard/–.md) | 1 ★ | 300 / 0 | Spirit |
+| [Vengeful Soul](../cards/monsters/standard/–.md) | 3 ★★★ | 700 / 0 | Spirit |
 | [Soul Dragon](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2500 / 0 | Ritual Tuner |
 | [Soul Swordsman](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2700 / 0 | Ritual Tuner |
 | [Soul Sorcerer](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2600 / 0 | Ritual Tuner |
-| [Soul Magician](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
+| [Soul Magician](../cards/monsters/standard/–.md) | 6 ★★★★★★ | 2400 / 0 | – |
 | [Soul Keeper](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
 | [Soul Wanderer](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
 | [Soul Guardian](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
@@ -56,8 +57,8 @@ An archetype of DARK monsters, focusing on Ritual and Synchro Summoning, with Gr
 | [Soul Paladin](../cards/monsters/synchro/–.md) | 10 ★★★★★★★★★★ | 2000 / 0 | Synchro Synchro | 1 Tuner + 1 ‘Soul’ Synchro monster |
 | [Soul Sentinel](../cards/monsters/synchro/–.md) | 8 ★★★★★★★★ | 0 / 2700 | Synchro | 1 ‘Soul’ Tuner + 1+ ‘Soul’ non-Tuner monsters |
 | [Soul Warden](../cards/monsters/synchro/–.md) | 10 ★★★★★★★★★★ | 0 / 3000 | Synchro Synchro | 1 ‘Soul’ Tuner + 1 ‘Soul’ Synchro monster |
-| [Soul Assassin](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | 3100 / 0 | Ritual Synchro | – |
-| [Soul Shard Assassin](../cards/monsters/synchro/–.md) | 11 ★★★★★★★★★★★ | 3300 / 0 | Synchro Synchro | – |
+| [Soul Assassin](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | 3100 / 0 | Ritual Synchro | *Shadow Assassin* + 1+ ‘Soul’ monsters, including *Soul Shard* |
+| [Soul Shard Assassin](../cards/monsters/synchro/–.md) | 11 ★★★★★★★★★★★ | 3300 / 0 | Synchro Synchro | *Soul Assassin* + 1+ ‘Soul’ monsters, including *Soul Shard* |
 | [Soul Slayer](../cards/monsters/synchro/–.md) | 12 ★★★★★★★★★★★★ | ? / ? | Synchro | – |
 | [Soul –](../cards/monsters/synchro/–.md) | n ★★★★★★★★★★★★ | – / – | Synchro | – |
 
@@ -112,3 +113,4 @@ An archetype of DARK monsters, focusing on Ritual and Synchro Summoning, with Gr
 ## Trivia
 
 - [Vengeance Vanguard](../cards/fusion/Vengeance%20Vanguard.md) is the ultimate monster of the archetype, but is not in the archetype itself.
+- The 0 ATK or DEF of monsters reflects their fragility and volatility.
