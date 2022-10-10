@@ -1,6 +1,6 @@
 # Soul
 
-An archetype of DARK monsters, compryzen of lower level Spirit monsters, and high level Synchro monsters.
+An archetype of DARK monsters, focusing on Ritual and Synchro Summoning, with Graveyard and handtrap effects and non-destruction removal or negation.
 
 
 <br>
@@ -10,12 +10,11 @@ An archetype of DARK monsters, compryzen of lower level Spirit monsters, and hig
 
 | type | count |
 | :--- | :---- |
-| Ritual   | x0 |
-| Pendulum | x0 |
+| Ritual   | x3 |
 | Fusion   | x1 |
 | Synchro  | x |
 | Xyz      | x0 |
-| Link     | x1 |
+| Link     | x0 |
 
 ### Monsters
 
@@ -61,10 +60,12 @@ An archetype of DARK monsters, compryzen of lower level Spirit monsters, and hig
 | :--- | :--- |
 | [Pot of Souls](../cards/spells/–/–.md) | |
 | [Soul Fracture](../cards/spells/–/–.md) | ⚡︎ Quick |
+| [Soul Illusion](../cards/spells/–/–.md) | – |
+| [Soul Manifestation](../cards/spells/–/–.md) | – |
 | [Soul Ritual](../cards/spells/–/–.md) | Ritual |
 | [Soul Seeker](../cards/spells/–/–.md) | |
 | [Soul Trade](../cards/spells/–/–.md) | |
-| [–](../cards/spells/–/–.md) | – |
+| [Soul –](../cards/spells/–/–.md) | – |
 
 </details>
 
@@ -93,3 +94,5 @@ An archetype of DARK monsters, compryzen of lower level Spirit monsters, and hig
 
 
 ## Trivia
+
+- [Vengeance Vanguard](../cards/fusion/Vengeance%20Vanguard.md) is the ultimate monster of the archetype, but is not in the archetype itself.
