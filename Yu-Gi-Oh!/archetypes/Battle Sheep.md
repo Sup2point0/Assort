@@ -23,8 +23,8 @@ A series of upgrade FIRE Beast monsters that can attack directly and have resist
 | [Baby Battle Sheep](../cards/monsters/standard/Baby%20Battle%20Sheep.md) | 1 ★ | 500 / 200 | |
 | [Battle Sheep](../cards/monsters/standard/Battle%20Sheep.md) | 3 ★★★ | 1500 / 1000 | |
 | [Enraged Battle Sheep](../cards/monsters/standard/Enraged%20Battle%20Sheep.md) | 5 ★★★★★ | 2100 / 1500 | |
-| [Super Enraged Battle Sheep of Doom](../cards/monsters/standard/Super%20Enraged%20Battle%20Sheep%20of%20Doom.md) | 7 ★★★★★★★ | 2700 / 2100 | |
-| [Ultra Enraged Battle Sheep of Death](../cards/monsters/standard/Ultra%20Enraged%20Battle%20Sheep%20of%20Death.md) | 9 ★★★★★★★★★ | 2900 / 2700 | |
+| [Super Enraged Battle Sheep](../cards/monsters/standard/Super%20Enraged%20Battle%20Sheep%20of%20Doom.md) | 7 ★★★★★★★ | 2700 / 2100 | |
+| [Ultra Enraged Battle Sheep of Doom](../cards/monsters/standard/Ultra%20Enraged%20Battle%20Sheep%20of%20Death.md) | 9 ★★★★★★★★★ | 2900 / 2700 | |
 | [Celestial Battle Sheep](../cards/monsters/ritual/Celestial%20Battle%20Sheep.md) | 10 ★★★★★★★★★★★★ | 3000 / 1600 | Ritual |
 
 </details>
