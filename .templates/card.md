@@ -48,10 +48,10 @@
 <br>
 
 
-## Effects
+## Aspects
 
-| effect | type | notes |
-| :----- | :--- | :---- |
+| aspect | type | name | notes |
+| :----- | :--- | :--- | :---- |
 
 
 <br>
