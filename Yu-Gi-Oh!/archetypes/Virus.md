@@ -42,6 +42,7 @@ An archetype of DARK Zombie monsters and complementary Traps that focus on destr
 | card | Type |
 | :--- | :--- |
 | [Viral Infection](../cards/spells/–.md) | – |
+| [Viral Overload](../cards/spells/–.md) | – |
 | [–](../cards/spells/–.md) | – |
 
 </details>
