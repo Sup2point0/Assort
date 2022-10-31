@@ -1,22 +1,22 @@
-# Next-Gen Crystal Tear Dragon
+# Next-Gen Tear Wing Synchro Dragon
 
 {desc}
 
 
 <table>
   <tr>
-    <th colspan="3"> <h3> Next-Gen Crystal Tear Dragon </h3> </th>
+    <th colspan="3"> <h3> Next-Gen Tear Wing Synchro Dragon </h3> </th>
   </tr>
   <tr>
-    <td rowspan="9"> <img src="../../../.assets/cards/synchro/Next-Gen Crystal Tear Dragon.png" width="320px"> </td>
+    <td rowspan="9"> <img src="../../../.assets/cards/synchro/Next-Gen Tear Wing Synchro Dragon.png" width="320px"> </td>
   </tr>
   <tr>
     <td> type </td>
-    <td> monster </td>
+    <td> Monster </td>
   </tr>
   <tr>
     <td> archetype </td>
-    <td> <a href="../../archetypes/Next-Gen.md">Next-Gen</a> <br> <a href="../../archetypes/Next-Gen Crystal Tear.md">Next-Gen Crystal Tear</a> </td>
+    <td> <a href="../../archetypes/Next-Gen.md">Next-Gen</a> <br> <a href="../../archetypes/Next-Gen Tear.md">Next-Gen Tear</a> </td>
   </tr>
   <tr>
     <td> Types </td>
@@ -48,7 +48,15 @@
 <br>
 
 
-## Effects
+## Aspects
 
-| effect | type | notes |
-| :----- | :--- | :---- |
+| aspect | type | name | notes |
+| :----- | :--- | :--- | :---- |
+| 2500 ATK | attack | | |
+| | Quick Effect | Aventurescent Edge | Unlike Clear Wing Synchro Dragon, this effect is purely defensive. |
+
+
+<br>
+
+
+## Trivia
