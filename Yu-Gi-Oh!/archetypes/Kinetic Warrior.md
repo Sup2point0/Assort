@@ -1,6 +1,6 @@
 # Kinetic Warrior
 
-A series of LIGHT Cyberse monsters that combine to form much more powerful Xyz monsters, an extension of the original [Magnet Warriors](yugioh.fandom.com/wiki/Magnet_Warrior).
+A series of LIGHT Machine Union monsters that combine to form much more powerful Xyz monsters, an extension of the original [Magnet Warriors](yugioh.fandom.com/wiki/Magnet_Warrior).
 
 
 <br>
@@ -10,7 +10,7 @@ A series of LIGHT Cyberse monsters that combine to form much more powerful Xyz m
 
 | type | count |
 | :--- | :---- |
-| Xyz    | x2 |
+| Xyz  | x2 |
 
 ### Monsters
 
@@ -42,10 +42,14 @@ A series of LIGHT Cyberse monsters that combine to form much more powerful Xyz m
 
 ## Strategics
 
-{...}
+While the Kinetic Warriors cannot swarm by themselves, their effects recover each other in a cycle, with each monster searching out the next in the series upon being sent to the Graveyard (Zeta searches Alpha). This makes them excellent choices to discard, as they result in no hand advantage loss. With Kinetic Warriors in the Graveyard, all that remains is to bring them out, which can be easily achieved with support from [The Specialists](The%20Specialists.md).
+
+[Next-Gen Cyber Replication]() is extremely powerful, as it can instantly bring out 2 Kinetic Warriors as long as 1 is on the field or in the Graveyard, quickly setting up an Xyz Summon.
 
 
 <br>
 
 
 ## Trivia
+
+- Since the Xyz monsters require non-specific materials and the Kinetic Warriors do not have hard once per turn restrictions, running duplicates works splendidly. However, to ensure the search cycle can start from any point, all 4 Kinetic Warriors should be included.
