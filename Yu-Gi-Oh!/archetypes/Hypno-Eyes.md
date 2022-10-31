@@ -1,6 +1,6 @@
 # Hypno-Eyes
 
-An ‘*X*-Eyes Dragon’ archetype of polyattributive Dragon monsters, with various restrictive effects.
+An ‘*X*-Eyes Dragon’ archetype of Dragon monsters, with various restrictive effects.
 
 
 <br>
