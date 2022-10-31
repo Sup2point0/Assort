@@ -55,10 +55,9 @@ An archetype of LIGHT Machine Union monsters, a revitalyzacion of the original [
 | [Next-Gen XZ-Crush Cannon](../cards/monsters/link/Next-Gen%20.md) | LINK-2 | 2200 | Union Link | – |
 | [Next-Gen ZY-Dragon Tank](../cards/monsters/link/Next-Gen%20.md) | LINK-2 | 2100 | Union Link | – |
 | [Next-Gen VW-Core Catapult](../cards/monsters/link/Next-Gen%20.md) | LINK-2 | – | Union Link | – |
-| [Next-Gen ZW-Crush Catapult](../cards/monsters/link/Next-Gen%20.md) | LINK-2 | – | Union Link | – |
-| [Next-Gen ABC-](../cards/monsters/link/Next-Gen%20.md) | LINK-3 | – | Union Link | – |
-| [Next-Gen XYZ-Dragon Crush Cannon](../cards/monsters/link/Next-Gen%20.md) | LINK-3 | – | Union Link | – |
-| [Next-Gen ABCD-](../cards/monsters/link/Next-Gen%20.md) | LINK-4 | – | Union Link | – |
+| [Next-Gen ABC-Assault Claw Buster](../cards/monsters/link/Next-Gen%20.md) | LINK-3 | 2600 | Union Link | *Next-Gen A-Assault Drive* + *Next-Gen B-Buster Drake* + *Next-Gen C-Claw Wyvern* |
+| [Next-Gen XYZ-Dragon Crush Cannon](../cards/monsters/link/Next-Gen%20.md) | LINK-3 | 2800 | Union Link | *Next-Gen X-Head Cannon* + *Next-Gen Y-Dragon Head* + *Next-Gen Z-Crush Tank* |
+| [Next-Gen ABCD-Delta Assault Buster](../cards/monsters/link/Next-Gen%20.md) | LINK-4 | – | Union Link | – |
 | [Next-Gen IJKL-](../cards/monsters/link/Next-Gen%20.md) | LINK-4 | – | Union Link | – |
 | [Next-Gen VWXY-Dragon Core Cannon](../cards/monsters/link/Next-Gen%20.md) | LINK-4 | – | Union Link | – |
 | [Next-Gen ZWXY-Dragon Crush Catapult](../cards/monsters/link/Next-Gen%20.md) | LINK-4 | – | Union Link | – |
@@ -66,7 +65,8 @@ An archetype of LIGHT Machine Union monsters, a revitalyzacion of the original [
 | [Next-Gen PQRST-](../cards/monsters/link/Next-Gen%20.md) | LINK-5 | – | Union Link | – |
 | [Next-Gen VWXYZ-Dragon Core Catapult Crusher](../cards/monsters/link/Next-Gen%20.md) | LINK-5 | – | Union Link | – |
 | [Next-Gen A-to-Z-Myriad Vanquish](../cards/monsters/link/Next-Gen%20.md) | LINK-8 | 5000 | Link Link | – |
-| [Next-Gen –](../cards/monsters/fusion/Next-Gen%20.md) | n ★★★★★★★★★★★★ | – / – | Union Link | – |
+| [XYZ-Gen Cyber Crush Overdragon](../cards/monsters/fusion/Next-Gen%20.md) | n ★★★★★★★★★★★★ | 2800 / – | Union Link | – |
+| [Next-Gen –](../cards/monsters/link/Next-Gen%20.md) | n ★★★★★★★★★★★★ | – / – | Union Link | – |
 
 </details>
 
@@ -77,6 +77,7 @@ An archetype of LIGHT Machine Union monsters, a revitalyzacion of the original [
 
 | card | Type |
 | :--- | :--- |
+| [Frontline Defense](../cards/spells/continuous/Frontline%20Defense.md) | ∞ Continuous |
 | [–](../cards/spells/–/–.md) | – |
 
 </details>
@@ -105,5 +106,3 @@ An archetype of LIGHT Machine Union monsters, a revitalyzacion of the original [
 
 
 ## Trivia
-
-‘’ ◈ ⚡︎ ∞ ↵
