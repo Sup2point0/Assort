@@ -10,16 +10,16 @@ A superarchetype of LIGHT, DARK and WATER monsters, inspired by the nervous syst
 
 | archetype | origin | notes |
 | :-------- | :----- | :---- |
-| [Neuralliance ARC](Neuralliance%20ARC.md) | | |
-| [Neuralliance BREAK](Neuralliance%20BREAK.md) | | |
-| [Neuralliance CORD](Neuralliance%20CORD.md) | | bridging monsters |
-| [Neuralliance CORE](Neuralliance%20CORE.md) | | support and summoners |
-| [Neuralliance FLEX](Neuralliance%20FLEX.md) | reflex | |
-| [Neuralliance NERVE](Neuralliance%20NERVE.md) | | powerful searchers, summoners and cybernetics |
-| [Neuralliance NODE](Neuralliance%20NODE.md) | | quick swarming and bridging Link monsters |
-| [Neuralliance SENSE](Neuralliance%20SENSE.md) | sensation | defensive trigger effects |
-| [Neuralliance STEM](Neuralliance%20STEM.md) | stem cells | toolbox |
-| [Neuralliance VISION](Neuralliance%20VISION.md) | visuals | |
+| [Neuralliance ARC](Neuralliance%20ARC.md) | reflex arc | offensive and response |
+| [Neuralliance BREAK](Neuralliance%20BREAK.md) | breakage | offensive |
+| [Neuralliance CORD](Neuralliance%20CORD.md) | spinal cord | bridging monsters |
+| [Neuralliance CORE](Neuralliance%20CORE.md) | core | searching and support |
+| [Neuralliance FLEX](Neuralliance%20FLEX.md) | reflex | quick effects |
+| [Neuralliance NERVE](Neuralliance%20NERVE.md) | nerves | offensive and support |
+| [Neuralliance NODE](Neuralliance%20NODE.md) | nodes | link bridging |
+| [Neuralliance SENSE](Neuralliance%20SENSE.md) | sensation | defensive |
+| [Neuralliance STEM](Neuralliance%20STEM.md) | stem cells | utility |
+| [Neuralliance VISION](Neuralliance%20VISION.md) | visuals | recovery |
 
 
 <br>
@@ -29,11 +29,6 @@ A superarchetype of LIGHT, DARK and WATER monsters, inspired by the nervous syst
 
 | type | count |
 | :--- | :---- |
-| Ritual | x |
-| Pendulum | x |
-| Fusion | x |
-| Synchro | x |
-| Xyz | x |
 | Link | x |
 
 ### Monsters
@@ -84,7 +79,7 @@ A superarchetype of LIGHT, DARK and WATER monsters, inspired by the nervous syst
 
 ## Strategics
 
-Each monster features various effects that search and Summon other Neuralliance cards, especially duplicates, while Spells focus on searching and bringing out large quantitys of Neuralliance monsters, quickly setting up early Link Summons. The Extra Deck revolves entirely around Link monsters, which help to Summon more monsters and efficiently bridge up to the strongest monsters. Many monsters also have destruction effects that allow them to replace themselves, and so boards are often difficult to break.
+{...}
 
 
 <br>
