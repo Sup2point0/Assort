@@ -8,7 +8,7 @@
     <th colspan="3"> <h3> Next-Gen Sky Dragon of Osiris </h3> </th>
   </tr>
   <tr>
-    <td rowspan="9"> <img src="../../../.assets/cards/standard/Next-Gen Sky Dragon of Osiris.png" width="320px"> </td>
+    <td rowspan="9"> <img src="../../../.assets/cards/ritual/Next-Gen Sky Dragon of Osiris.png" width="320px"> </td>
   </tr>
   <tr>
     <td> type </td>
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td> Types </td>
-    <td> Divine Beast </td>
+    <td> Divine Beast / Ritual </td>
   </tr>
   <tr>
     <td> Attribute </td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td> special </td>
-    <td> summon restrict <br> dependent stats </td>
+    <td> special Ritual summon <br> summon restrict <br> dependent stats </td>
   </tr>
 </table>
 
