@@ -78,7 +78,9 @@ An archetype of DARK monsters, focusing on Ritual and Synchro Summoning, with Gr
 | [Soul Fracture](../cards/spells/–/–.md) | ⚡︎ Quick |
 | [Soul Illusion](../cards/spells/–/–.md) | – |
 | [Soul Manifestation](../cards/spells/–/–.md) | – |
+| [Soul Resurgence](../cards/spells/–/–.md) | – |
 | [Soul Ritual](../cards/spells/–/–.md) | Ritual |
+| [Soul Scripture](../cards/spells/–/–.md) | – |
 | [Soul Seal](../cards/spells/–/–.md) | ∞ Continuous |
 | [Soul Seeker](../cards/spells/–/–.md) | |
 | [Soul Trade](../cards/spells/–/–.md) | ⚡︎ Quick |
@@ -113,4 +115,5 @@ An archetype of DARK monsters, focusing on Ritual and Synchro Summoning, with Gr
 ## Trivia
 
 - [Vengeance Vanguard](../cards/fusion/Vengeance%20Vanguard.md) is the ultimate monster of the archetype, but is not in the archetype itself.
+- [Shadow Assassin](../cards/ritual/Shadow%20Assassin.md) is closely relyzen to this archetype.
 - The 0 ATK or DEF of monsters reflects their fragility and volatility.
