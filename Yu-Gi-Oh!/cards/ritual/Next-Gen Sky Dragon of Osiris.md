@@ -12,11 +12,11 @@
   </tr>
   <tr>
     <td> type </td>
-    <td> monster <br> God Card </td>
+    <td> Monster <br> God Card </td>
   </tr>
   <tr>
     <td> archetype </td>
-    <td> <a href="https://yugipedia.com/wiki/Egyptian_God">Egyptian God</a> </td>
+    <td> <a href="../../archetypes/Next-Gen.md">Next-Gen</a> <br> <a href="https://yugipedia.com/wiki/Egyptian_God">Egyptian God</a> </td>
   </tr>
   <tr>
     <td> Types </td>
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td> material </td>
-    <td> 3 Tributes </td>
+    <td> 3 Tributes, except Tokens </td>
   </tr>
   <tr>
     <td> special </td>
@@ -48,11 +48,10 @@
 <br>
 
 
-## Effects
+## Aspects
 
-| effect | type | notes |
-| :----- | :--- | :---- |
-| Requires 3 Tributes to Normal Summon (cannot be Normal Set), also you cannot summon monsters for the rest of that turn. This card's Normal Summon cannot be negated, also cards and effects cannot be activated in response. During the End Phase, if this card was Special Summoned, send it to the Graveyard. This card gains 1000 ATK/DEF for every card in each player's hand and is unaffected by your opponent's card effects. If a monster is Summoned to your opponent's field: Reduce its ATK/DEF by 2000, then if its ATK or DEF has been reduced to 0 as a result, destroy it. If this card is sent from the field to the Graveyard: You can banish it, then Normal Summon 1 'Slifer the Sky Dragon' from your hand, Deck or Graveyard. |
+| aspect | type | name | notes |
+| :----- | :--- | :--- | :---- |
 
 
 <br>
