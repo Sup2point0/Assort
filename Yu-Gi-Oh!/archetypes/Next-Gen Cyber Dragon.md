@@ -1,6 +1,6 @@
 # Next-Gen Cyber Dragon
 
-A series of LIGHT Machine monsters, an extension of the original [Cyber Dragon](https://yugipedia.com/wiki/Cyber_Dragon_(archetype)) archetype.
+A series of LIGHT Machine monsters, a revitalyzacion of the original [Cyber Dragon](https://yugipedia.com/wiki/Cyber_Dragon_(archetype)) archetype.
 
 
 <br>
@@ -12,7 +12,7 @@ A series of LIGHT Machine monsters, an extension of the original [Cyber Dragon](
 | :--- | :---- |
 | Fusion  | x2 |
 | Synchro | x1 |
-| Xyz     | x1 |
+| Xyz     | x3 |
 | Link    | x3 |
 
 ### Monsters
@@ -39,9 +39,10 @@ A series of LIGHT Machine monsters, an extension of the original [Cyber Dragon](
 | [Next-Next-Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/xyz/Next-Next-Next-Next-Next-Next-Gen%20Cyber%20Dragon.md) | 10 ★★★★★★★★★★ | 3300 / 0 | Link Xyz | *Next-Next-Next-Next-Next-Gen Cyber Dragon* + 2+ ‘Next-Next-Gen Cyber Dragon’ monsters |
 | [Next-Gen Cyber Twin Dragon](../cards/monsters/fusion/Next-Gen%20Cyber%20Twin%20Dragon.md) | 8 ★★★★★★★★ | 2800 / 1900 | Fusion | 2 ‘Next-Gen Cyber Dragon’ monsters |
 | [Next-Gen Cyber End Dragon](../cards/monsters/fusion/Next-Gen%20Cyber%20End%20Dragon.md) | 12 ★★★★★★★★★★★★ | 3800 / 2100 | Fusion | 3 ‘Next-Gen Cyber Dragon’ monsters |
-| [Next-Gen Cyber Synchro Dragon](../cards/monsters/synchro/Next-Gen%20Cyber%20Synchro%20Dragon.md) | 9 ★★★★★★★★★ | 2600 / 1900 | Synchro | *Next-Gen Cyber Dragon* + 1+ non-Tuner Machine or Cyberse monsters |
-| [Next-Gen Cyber Dragon Nova](../cards/monsters/xyz/Next-Gen%20Cyber%20Dragon%20Nova.md) | 6 ★★★★★★ | 3000 / 2100 | Xyz | 2 or 3 Level 6 Machine monsters, including 1 ‘Next-Gen Cyber Dragon’ monster |
-| [Next-Gen Cyber Dragon Infinity](../cards/monsters/xyz/Next-Gen%20Cyber%20Dragon%20Infinity.md) | 12 ★★★★★★★★★★★★ | ? / ? | Xyz Xyz | 3+ Xyz monsters with the same Rank |
+| [Next-Gen Cyber Synchro Dragon](../cards/monsters/synchro/Next-Gen%20Cyber%20Synchro%20Dragon.md) | 9 ★★★★★★★★★ | 2400 / 1800 | Synchro | *Next-Gen Cyber Dragon* + 1+ Machine monsters |
+| [Next-Gen Cyber Dragon Plasma](../cards/monsters/xyz/Next-Gen%20Cyber%20Dragon%20Plasma.md) | 0 | 2200 / 1900 | Xyz | 2+ Level 6 Machine monsters, including ‘Next-Gen Cyber Dragon’ |
+| [Next-Gen Cyber Dragon Nova](../cards/monsters/xyz/Next-Gen%20Cyber%20Dragon%20Nova.md) | 6 ★★★★★★ | 2600 / 2100 | Xyz | 2+ Level 6 Machine monsters, including ‘Next-Gen Cyber Dragon’ |
+| [Next-Gen Cyber Dragon Infinity](../cards/monsters/xyz/Next-Gen%20Cyber%20Dragon%20Infinity.md) | 12 ★★★★★★★★★★★★ | 3000 / 2600 | Xyz Xyz | 2+ Machine Xyz monsters with the same Rank |
 | [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – / – | – | – |
 
 </details>
