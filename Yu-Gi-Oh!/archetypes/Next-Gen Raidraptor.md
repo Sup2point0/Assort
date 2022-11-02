@@ -10,7 +10,8 @@ An archetype of DARK Winged Beast (and polytypically Machine) monsters, a revita
 
 | type | count |
 | :--- | :---- |
-| Xyz  | x1 |
+| Xyz  | x9 |
+| Link | x0 |
 
 ### Monsters
 
@@ -19,6 +20,7 @@ An archetype of DARK Winged Beast (and polytypically Machine) monsters, a revita
 
 | card | Level | ATK/DEF |
 | :--- | :---- | :------ |
+| [Next-Gen Raidraptor – Vanishing Lanius](../cards/monsters/standard/Next-Gen%20Raidraptor%20.md) | 4 ★★★★ | 1300 / 1600 |
 | [Next-Gen Raidraptor – Cyber Lanius](../cards/monsters/standard/Next-Gen%20Raidraptor%20.md) | 4 ★★★★ | 1600 / 1200 |
 | [Next-Gen Raidraptor – Cyber Strix](../cards/monsters/standard/Next-Gen%20Raidraptor%20.md) | 4 ★★★★ | – / – |
 | [Next-Gen Raidraptor – ](../cards/monsters/standard/Next-Gen%20Raidraptor%20.md) | n ★★★★★★★ | – / – |
