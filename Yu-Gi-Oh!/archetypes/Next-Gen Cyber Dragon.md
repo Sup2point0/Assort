@@ -37,9 +37,9 @@ A series of LIGHT Machine monsters, a revitalyzacion of the original [Cyber Drag
 
 | card | Level | ATK/DEF | Type | material |
 | :--- | :---- | :------ | :--- | :------- |
-| [Next-Next-Next-Gen Cyber Dragon](../cards/monsters/–/–.md) | Link-2 | 2700 | Link | – |
-| [Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/–/–.md) | Link-3 | 2900 | Link | – |
-| [Next-Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/–/–.md) | Link-4 | 3100 | Link | – |
+| [Next-Next-Next-Gen Cyber Dragon](../cards/monsters/–/–.md) | LINK-2 | 2700 | Link | – |
+| [Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/–/–.md) | LINK-3 | 2900 | Link | – |
+| [Next-Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/–/–.md) | LINK-4 | 3100 | Link | – |
 | [Next-Next-Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/–/–.md) | n ★★★★ | 3300 / – | Link | – |
 | [Next-Gen Cyber Dragon Edge](../cards/monsters/–/–.md) | 9 ★★★★★★★★★ | 2400 / 1800 | Synchro | – |
 | [Next-Gen Cyber Dragon Plasma](../cards/monsters/–/–.md) | 0 | 2200 / – | Xyz | – |
