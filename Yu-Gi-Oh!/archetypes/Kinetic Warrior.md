@@ -29,7 +29,7 @@ A series of LIGHT Machine Union monsters that combine to form much more powerful
 <details open>
   <summary> <b> Extra Deck </b> </summary> <br>
 
-| card | Level | ATK/DEF | Type | material |
+| card | Rank | ATK/DEF | Type | material |
 | :--- | :---- | :------ | :--- | :------- |
 | [Arterion the Superkinetic Warrior](../cards/monsters/–/Arterion%20the%20Superkinetic%20Warrior.md) | 4 ★★★★ | 2450 / 2250 | Xyz | 3 ‘Kinetic Warrior’ monsters |
 | [Arkyion the Hyperkinetic Fortress](../cards/monsters/–/Arterion%20the%20Superkinetic%20Warrior.md) | 4 ★★★★ | 3150 / 2950 | Xyz | *Arterion the Superkinetic Warrior* + 2+ ‘Kinetic Warrior’ monsters |
