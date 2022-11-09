@@ -15,7 +15,6 @@ An archetype of DARK Dragons, featuring various deadly destructive effects.
 | Fusion   | x |
 | Synchro  | x |
 | Xyz      | x |
-| Link     | x |
 
 ### Monsters
 
@@ -24,7 +23,7 @@ An archetype of DARK Dragons, featuring various deadly destructive effects.
 
 | card | Level | ATK/DEF | Type |
 | :--- | :---- | :------ | :--- |
-| [Nightmare Dragon](../cards/monsters/standard/Nightmare%20Dragon.md) | 7 ★★★★★★★ | 2700 / 0 | – |
+| [Nightmare Dragon](../cards/monsters/standard/Nightmare%20Dragon.md) | 7 ★★★★★★★ | 2700 / 0 | Ritual |
 | [–](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
 
 </details>
@@ -57,7 +56,7 @@ An archetype of DARK Dragons, featuring various deadly destructive effects.
 
 | card | Type |
 | :--- | :--- |
-| [Nightmare Chasm](../cards/traps/Nightmare%20Chasm.md) | |
+| [Nightmare Chasm](../cards/traps/Nightmare%20Chasm.md) | Ritual |
 | [–](../cards/traps/–.md) | – |
 
 </details>
@@ -68,7 +67,7 @@ An archetype of DARK Dragons, featuring various deadly destructive effects.
 
 ## Strategics
 
-The best word to describe this archetype is ‘nightmarish’. Each monster has extremely deadly effects, particularly destruction effects, often involving instantly clearing (especially banishing) the field, and inflicting vast amounts of damage.
+The best word to describe this archetype is ‘nightmarish’. Each monster has extremely deadly effects, particularly mass destruction, often involving instantly clearing (especially banishing) the field, and inflicting vast amounts of damage.
 
 
 <br>
