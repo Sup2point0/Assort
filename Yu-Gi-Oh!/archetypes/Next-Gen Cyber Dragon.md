@@ -23,8 +23,12 @@ A series of LIGHT Machine monsters, a revitalyzacion of the original [Cyber Drag
 | card | Level | ATK/DEF | Type |
 | :--- | :---- | :------ | :--- |
 | [Next-Gen Cyber Dragon](../cards/monsters/standard/Next-Gen%20Cyber%20Dragon.md) | 5 ★★★★★ | 2300 / 1500 | Tuner |
-| [Next-Next-Gen Cyber Dragon](../cards/monsters/standard/Next-Next-Gen%20Cyber%20Dragon.md) | 6 ★★★★★★ | 2500 / 1700 | – |
-| [–](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
+| [Next-Next-Gen Cyber Dragon](../cards/monsters/standard/Next-Next-Gen%20Cyber%20Dragon.md) | 6 ★★★★★★ | 2500 / 1700 | Tuner |
+| [Next-Gen Cyber Dragon Core](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
+| [Next-Gen Cyber Dragon Heart](../cards/monsters/standard/–.md) | 3 ★★★ | – / – | – |
+| [Next-Gen Cyber Dragon Nucleus](../cards/monsters/standard/–.md) | 3 ★★★ | – / – | – |
+| [Next-Gen Cyber Dragon Armour](../cards/monsters/standard/–.md) | 4 ★★★★ | – / – | Union |
+| [Next-Gen Cyber Dragon Zero](../cards/monsters/standard/–.md) | 0 | – / – | – |
 
 </details>
 
@@ -33,17 +37,15 @@ A series of LIGHT Machine monsters, a revitalyzacion of the original [Cyber Drag
 
 | card | Level | ATK/DEF | Type | material |
 | :--- | :---- | :------ | :--- | :------- |
-| [Next-Next-Next-Gen Cyber Dragon](../cards/monsters/link/Next-Next-Next-Gen%20Cyber%20Dragon.md) | LINK-2 | 2700 | Link | *Next-Next-Gen Cyber Dragon* + 1 Machine or Cyberse Effect monster |
-| [Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/link/Next-Next-Next-Next-Gen%20Cyber%20Dragon.md) | LINK-3 | 2900 | Link Link | *Next-Next-Next-Gen Cyber Dragon* + 1 Link monster |
-| [Next-Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/link/Next-Next-Next-Next-Next-Gen%20Cyber%20Dragon.md) | LINK-4 | 3100 | Link Link Ritual | *Next-Next-Next-Next-Gen Cyber Dragon* + 1 Link monster |
-| [Next-Next-Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/xyz/Next-Next-Next-Next-Next-Next-Gen%20Cyber%20Dragon.md) | 10 ★★★★★★★★★★ | 3300 / 0 | Link Xyz | *Next-Next-Next-Next-Next-Gen Cyber Dragon* + 2+ ‘Next-Next-Gen Cyber Dragon’ monsters |
-| [Next-Gen Cyber Twin Dragon](../cards/monsters/fusion/Next-Gen%20Cyber%20Twin%20Dragon.md) | 8 ★★★★★★★★ | 2800 / 1900 | Fusion | 2 ‘Next-Gen Cyber Dragon’ monsters |
-| [Next-Gen Cyber End Dragon](../cards/monsters/fusion/Next-Gen%20Cyber%20End%20Dragon.md) | 12 ★★★★★★★★★★★★ | 3800 / 2100 | Fusion | 3 ‘Next-Gen Cyber Dragon’ monsters |
-| [Next-Gen Cyber Synchro Dragon](../cards/monsters/synchro/Next-Gen%20Cyber%20Synchro%20Dragon.md) | 9 ★★★★★★★★★ | 2400 / 1800 | Synchro | *Next-Gen Cyber Dragon* + 1+ Machine monsters |
-| [Next-Gen Cyber Dragon Plasma](../cards/monsters/xyz/Next-Gen%20Cyber%20Dragon%20Plasma.md) | 0 | 2200 / 1900 | Xyz | 2+ Level 6 Machine monsters, including ‘Next-Gen Cyber Dragon’ |
-| [Next-Gen Cyber Dragon Nova](../cards/monsters/xyz/Next-Gen%20Cyber%20Dragon%20Nova.md) | 6 ★★★★★★ | 2600 / 2100 | Xyz | 2+ Level 6 Machine monsters, including ‘Next-Gen Cyber Dragon’ |
-| [Next-Gen Cyber Dragon Infinity](../cards/monsters/xyz/Next-Gen%20Cyber%20Dragon%20Infinity.md) | 12 ★★★★★★★★★★★★ | 3000 / 2600 | Xyz Xyz | 2+ Machine Xyz monsters with the same Rank |
-| [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – / – | – | – |
+| [Next-Next-Next-Gen Cyber Dragon](../cards/monsters/–/–.md) | Link-2 | 2700 | Link | – |
+| [Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/–/–.md) | Link-3 | 2900 | Link | – |
+| [Next-Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/–/–.md) | Link-4 | 3100 | Link | – |
+| [Next-Next-Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/–/–.md) | n ★★★★ | 3300 / – | Link | – |
+| [Next-Gen Cyber Dragon Edge](../cards/monsters/–/–.md) | 9 ★★★★★★★★★ | 2400 / 1800 | Synchro | – |
+| [Next-Gen Cyber Dragon Plasma](../cards/monsters/–/–.md) | 0 | 2200 / – | Xyz | – |
+| [Next-Gen Cyber Dragon Nova](../cards/monsters/–/–.md) | 6 ★★★★★★ | 2600 / – | Xyz | 2 Level 6 Machine monsters, including *Next-Gen Cyber Dragon* |
+| [Next-Gen Cyber Dragon Infinity](../cards/monsters/–/–.md) | 12 ★★★★★★★★★★★★ | 3000 / 2100 | Xyz | – |
+| [Next-Gen Cyber Dragon](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – / – | – | – |
 
 </details>
 
