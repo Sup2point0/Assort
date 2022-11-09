@@ -11,7 +11,6 @@ An archetype of LIGHT Machine Union monsters, a revitalyzacion of the original [
 | type | count |
 | :--- | :---- |
 | Fusion | x |
-| Xyz    | x |
 | Link   | x |
 
 ### Monsters
@@ -25,7 +24,7 @@ An archetype of LIGHT Machine Union monsters, a revitalyzacion of the original [
 | [Next-Gen B-Buster Drake](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
 | [Next-Gen C-Claw Wyvern](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
 | [Next-Gen D-Delta Claw](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
-| [Next-Gen E-](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
+| [Next-Gen E](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
 | [Next-Gen F](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
 | [Next-Gen G](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
 | [Next-Gen I](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
@@ -33,7 +32,7 @@ An archetype of LIGHT Machine Union monsters, a revitalyzacion of the original [
 | [Next-Gen K](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
 | [Next-Gen L](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
 | [Next-Gen P](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
-| [Next-Gen Q](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
+| [Next-Gen Q-Ring](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
 | [Next-Gen R](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
 | [Next-Gen S](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
 | [Next-Gen T](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
