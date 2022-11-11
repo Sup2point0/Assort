@@ -34,9 +34,9 @@ An archetype of polyattributive Machine Union monsters, inspired by [CREW GUYS](
 
 | card | Level | ATK/DEF | Type | Attribute | material |
 | :--- | :---- | :------ | :--- | :-------- | :------- |
-| [GUYS – Gun Phoenix](../cards/monsters/–/–.md) | 6 ★★★★★★ | 2300 / – | Union Xyz | LIGHT, FIRE, EARTH | *GUYS – Gun Winger* + *GUYS – Gun Loader* |
-| [GUYS – Gun Striker](../cards/monsters/–/–.md) | 6 ★★★★★★ | 2500 / – | Union Xyz | LIGHT, EARTH, WIND | *GUYS – Gun Loader* + *GUYS – Gun Booster* |
-| [GUYS – Gun Phoenix Striker](../cards/monsters/–/–.md) | 9 ★★★★★★★★★ | 2800 / – | Union Xyz | LIGHT, FIRE, EARTH, WIND | *GUYS – Gun Winger* + *GUYS – Gun Loader* + *GUYS – Gun Booster* |
+| [GUYS – Gun Phoenix](../cards/monsters/fusion/GUYS%20–%20Gun%20Phoenix.md) | 6 ★★★★★★ | – / – | Union Fusion | LIGHT, FIRE, EARTH | *GUYS – Gun Winger* + *GUYS – Gun Loader* |
+| [GUYS – Gun Striker](../cards/monsters/fusion/GUYS%20–%20Gun%20Striker.md) | 6 ★★★★★★ | – / – | Union Fusion | LIGHT, EARTH, WIND | *GUYS – Gun Loader* + *GUYS – Gun Booster* |
+| [GUYS – Gun Phoenix Striker](../cards/monsters/fusion/GUYS%20–%20Gun%20Phoenix%20Striker.md) | 9 ★★★★★★★★★ | – / – | Union Fusion | LIGHT, FIRE, EARTH, WIND | *GUYS – Gun Winger* + *GUYS – Gun Loader* + *GUYS – Gun Booster* |
 | [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – / – | – | – | – |
 
 </details>
