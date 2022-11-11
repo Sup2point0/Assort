@@ -83,13 +83,13 @@ An archetype of polyattributive Machine Union monsters, inspired by [CREW GUYS](
 
 
 ### GUYS - Gun Phoenix
-Rank-3
-> If this card is Xyz Summoned from your Extra Deck: You can add 1 'METEOR' Spell from your Deck or Banished Pile to your hand. You can detach 1 material, then target 1 monster your opponent controls; change that target's Battle Position, also if it is attacked this turn, inflict double piercing battle damage to your opponent. During either player's turn (Quick Effect): You can Special Summon the attached materials, and if you do, send this card to the Graveyard. You can only use each effect of 'GUYS - Gun Phoenix' once per turn.
+Lv6
+> Must first be Fusion Summoned (from your Extra Deck) by banishing the above materials you control. While you control an 'Ultraman' monster, LIGHT monsters you control gain 300 ATK. Once per turn: You can add 1 'METEOR' Spell from your Deck or Banished Pile to your hand. During either player's turn (Quick Effect): You can Tribute this card and Special Summon the banished materials above.
 
 ### GUYS - Gun Striker
-Rank-3
-> If this card is Xyz Summoned from your Extra Deck: You can add 1 'METEOR' Spell from your Deck or Banished Pile to your hand. You can detach 1 material, then target 1 monster your opponent controls; reduce that target's ATK to 0, and if you do, inflict damage equal to that lost ATK. During either player's turn (Quick Effect): You can Special Summon the attached materials, and if you do, send this card to the Graveyard. You can only use each effect of 'GUYS - Gun Striker' once per turn.
+Lv6
+> Must first be Fusion Summoned (from your Extra Deck) by banishing the above materials you control. While you control an 'Ultraman' monster, LIGHT monsters you control gain 300 ATK. Once per turn: You can add 1 'METEOR' Spell from your Graveyard or Banished Pile to your hand. During either player's turn (Quick Effect): You can Tribute this card and Special Summon the banished materials above.
 
 ### GUYS - Gun Phoenix Striker
-Rank-3
-> Can also be Xyz Summoned by using Xyz monsters that list the above materials in their material requirements. (Treat them as those materials.) You can detach all materials from this card; destroy monsters your opponent controls, up to the number of materials detached. This card cannot attack the turn you use this effect. During either player's turn (Quick Effect): You can Special Summon 1 each of the above materials from your Graveyard, and if you do, send this card to the Graveyard. You can only use each effect of 'GUYS - Gun Striker' once per turn.
+Lv9
+> Must be Fusion Summoned (from your Extra Deck) by banishing the above materials you control. While you control an 'Ultraman' monster, LIGHT monsters you control cannot be destroyed by battle. Once per turn: You can add 1 'METEOR' Spell from your Deck, Graveyard or Banished Pile to your hand. During either player's turn (Quick Effect): You can Tribute this card and Special Summon the banished materials above.
