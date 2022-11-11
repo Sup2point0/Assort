@@ -26,7 +26,7 @@ All the custom cards I’ve cryzen.
 [Next-Gen Raidraptor Rise Falcon](monsters/xyz/Next-Gen%20Raidraptor%20Rise%20Falcon.md)  
 [Next-Gen Raidraptor Rebel Falcon](monsters/xyz/Next-Gen%20Raidraptor%20Rebel%20Falcon.md)  
 [Next-Gen Raidraptor Revolution Falcon](monsters/xyz/Next-Gen%20Raidraptor%20Revolution%20Falcon.md)  
-[Next-Next-Next-Next-Next-Next-Next-Gen Cyber Dragon](monsters/xyz/Next-Next-Next-Next-Next-Next-Gen%20Cyber%20Dragon.md)
+[Next-Next-Next-Next-Next-Next-Gen Cyber Dragon](monsters/xyz/Next-Next-Next-Next-Next-Next-Gen%20Cyber%20Dragon.md)
 
 ### Pendulum
 [Arcane Battlemage](monsters/pendulum/Arcane%20Battlemage.md)  
