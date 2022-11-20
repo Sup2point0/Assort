@@ -10,4 +10,4 @@
 
 ### [Technetyx](https://duelingbook.com/deck?id=11617228)
 
-### [Vaporion](https://duelingbook.com/deck?id=11882083)
+### [Vapurion](https://duelingbook.com/deck?id=11882083)
