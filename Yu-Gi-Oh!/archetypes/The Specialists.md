@@ -30,11 +30,11 @@ A series of Cyberse Tuner and Link monsters, with various effects that help to s
 <details open>
   <summary> <b> Extra Deck </b> </summary> <br>
 
-| card | Link Rating | ATK/DEF | Type | Attribute | material |
-| :--- | :---------- | :------ | :--- | :-------- | :------- |
-| [The Prodigy](../cards/monsters/link/The%20Prodigy.md) | LINK-2 | 2100 | Link | WIND | 2 Cyberse Effect monsters |
-| [The Architect](../cards/monsters/link/The%20Architect.md) | LINK-3 | 2500 | Link | LIGHT | 2+ Effect monsters, including 1 Link monster and 1 Cyberse monster |
-| [The Mastermind](../cards/monsters/link/The%20Mastermind.md) | LINK-5 | 3000 | Link | LIGHT | [*The Architect*](../cards/monsters/link/The%20Architect.md) + 1+ monsters, including 1 Link monster |
+| card | Link Rating | ATK/DEF | Attribute | material |
+| :--- | :---------- | :------ | :-------- | :------- |
+| [The Prodigy](../cards/monsters/link/The%20Prodigy.md) | LINK-2 | 2100 | WIND | 2 Cyberse Effect monsters |
+| [The Architect](../cards/monsters/link/The%20Architect.md) | LINK-3 | 2500 | LIGHT | 2+ Effect monsters, including 1 Link monster and 1 Cyberse monster |
+| [The Mastermind](../cards/monsters/link/The%20Mastermind.md) | LINK-5 | 3000 | LIGHT | [*The Architect*](../cards/monsters/link/The%20Architect.md) + 1+ monsters, including 1 Link monster |
 | [–](../cards/monsters/link/–.md) | LINK- | – | Link | – | – |
 
 </details>
