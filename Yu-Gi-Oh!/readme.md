@@ -14,6 +14,6 @@
 
 ### [Astrix]()
 
-### [Ultra]()
+### [Ultra](https://duelingbook.com/deck?id=11509638)
 
 ### [Bananas]()
