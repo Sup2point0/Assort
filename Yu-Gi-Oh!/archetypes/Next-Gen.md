@@ -11,6 +11,7 @@ A superarchetype of revitalyzacions of various canon archetypes.
 | archetype | origin | notes |
 | :-------- | :----- | :---- |
 | [Next-Gen A-to-Z](Next-Gen%20A-to-Z.md) | [A-to-Z](https://yugipedia.com/wiki/A-to-Z) | |
+| [Next-Gen Code Talker](Next-Gen%20Code%20Talker.md) | [Code Talker](https://yugipedia.com/wiki/Code_Talker_(archetype)) | |
 | [Next-Gen Cyber Dragon](Next-Gen%20Cyber%20Dragon.md) | [Cyber Dragon](https://yugipedia.com/wiki/Cyber_Dragon_(archetype)) | evolves into [Next-Next-Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/xyz/Next-Next-Next-Next-Next-Next-Gen%20Cyber%20Dragon.md) |
 | [Next-Gen Raidraptor](Next-Gen%20Raidraptor.md) | [Raidraptor](https://yugipedia.com/wiki/Raidraptor) | |
 | [Next-Gen Tear](Next-Gen%20Tear.md) | [Clear Wing](https://yugipedia.com/wiki/Clear_Wing) | |
