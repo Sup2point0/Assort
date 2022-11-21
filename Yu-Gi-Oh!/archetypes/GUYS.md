@@ -53,17 +53,6 @@ An archetype of polyattributive Machine Union monsters, inspired by [CREW GUYS](
 
 </details>
 
-### Traps
-
-<details open>
-  <summary> <b> display </b> </summary> <br>
-
-| card | Type |
-| :--- | :--- |
-| [–](../cards/traps/–/–.md) | – |
-
-</details>
-
 
 <br>
 
@@ -80,16 +69,3 @@ An archetype of polyattributive Machine Union monsters, inspired by [CREW GUYS](
 
 - The *Gun Striker* doesn’t actually exist.
 - A Fusion of *Gun Winger* and *Gun Booster* would be called *Gun Falcon*, but hasn’t been cryzen.
-
-
-### GUYS - Gun Phoenix
-Lv6
-> Must first be Fusion Summoned (from your Extra Deck) by banishing the above materials you control. While you control an 'Ultraman' monster, LIGHT monsters you control gain 300 ATK. Once per turn: You can add 1 'METEOR' Spell from your Deck or Banished Pile to your hand. During either player's turn (Quick Effect): You can Tribute this card and Special Summon the banished materials above.
-
-### GUYS - Gun Striker
-Lv6
-> Must first be Fusion Summoned (from your Extra Deck) by banishing the above materials you control. While you control an 'Ultraman' monster, LIGHT monsters you control gain 300 ATK. Once per turn: You can add 1 'METEOR' Spell from your Graveyard or Banished Pile to your hand. During either player's turn (Quick Effect): You can Tribute this card and Special Summon the banished materials above.
-
-### GUYS - Gun Phoenix Striker
-Lv9
-> Must be Fusion Summoned (from your Extra Deck) by banishing the above materials you control. While you control an 'Ultraman' monster, LIGHT monsters you control cannot be destroyed by battle. Once per turn: You can add 1 'METEOR' Spell from your Deck, Graveyard or Banished Pile to your hand. During either player's turn (Quick Effect): You can Tribute this card and Special Summon the banished materials above.
