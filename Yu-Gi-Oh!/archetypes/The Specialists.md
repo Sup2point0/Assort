@@ -1,6 +1,6 @@
 # The Specialists
 
-A series of Cyberse Tuner and Link monsters, with various effects that help to summon and support other monsters.
+A series of Cyberse Tuner and Link monsters, with various effects that help to summon and support other Cyberse monsters.
 
 
 <br>
@@ -10,7 +10,7 @@ A series of Cyberse Tuner and Link monsters, with various effects that help to s
 
 | type | count |
 | :--- | :---- |
-| Link | x3 |
+| Link | x5 |
 
 ### Monsters
 
@@ -19,10 +19,11 @@ A series of Cyberse Tuner and Link monsters, with various effects that help to s
 
 | card | Level | ATK/DEF | Type | Attribute |
 | :--- | :---- | :------ | :--- | :-------- |
-| [The Engineer](../cards/monsters/standard/The%20Engineer.md) | 4 ★★★★ | – / – | Tuner | FIRE |
-| [The Inventor](../cards/monsters/standard/The%20Inventor.md) | 4 ★★★★ | – / – | Tuner | LIGHT |
-| [The Tinkerer](../cards/monsters/standard/The%20Tinkerer.md) | 4 ★★★★ | – / – | Tuner | EARTH |
-| [The Scientist](../cards/monsters/standard/The%20Scientist.md) | 4 ★★★★ | – / – | Tuner | WATER |
+| [The Scientist](../cards/monsters/standard/The%Scientist.md) | 4 ★★★★ | – / – | Tuner | WATER |
+| [The Technician](../cards/monsters/standard/The%Technician.md) | 4 ★★★★ | – / – | Tuner | EARTH |
+| [The Inventor](../cards/monsters/standard/The%Inventor.md) | 4 ★★★★ | – / – | Tuner | LIGHT |
+| [The Tinkerer](../cards/monsters/standard/The%Tinkerer.md) | 4 ★★★★ | – / – | Tuner | FIRE |
+| [The Wanderer](../cards/monsters/standard/The%Wanderer.md) | 4 ★★★★ | – / – | Tuner | DARK |
 | [–](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – | – |
 
 </details>
@@ -32,10 +33,11 @@ A series of Cyberse Tuner and Link monsters, with various effects that help to s
 
 | card | Link Rating | ATK/DEF | Attribute | material |
 | :--- | :---------- | :------ | :-------- | :------- |
-| [The Prodigy](../cards/monsters/link/The%20Prodigy.md) | LINK-2 | 2100 | WIND | 2 Cyberse Effect monsters |
-| [The Architect](../cards/monsters/link/The%20Architect.md) | LINK-3 | 2500 | LIGHT | 2+ Effect monsters, including 1 Link monster and 1 Cyberse monster |
-| [The Mastermind](../cards/monsters/link/The%20Mastermind.md) | LINK-5 | 3000 | LIGHT | [*The Architect*](../cards/monsters/link/The%20Architect.md) + 1+ monsters, including 1 Link monster |
-| [–](../cards/monsters/link/–.md) | LINK- | – | Link | – | – |
+| [The Prodigy](../cards/monsters/link/The%20Prodigy.md) | Link-2 | 2100 | WIND | – |
+| [The Hacker](../cards/monsters/link/The%20PHacker.md) | Link-2 | 2100 | – | – |
+| [The Architect](../cards/monsters/link/The%20Architect.md) | Link-3 | 2500 | – | – |
+| [The Developer](../cards/monsters/link/The%20Architect.md) | Link-3 | 2500 | – | – |
+| [The Mastermind](../cards/monsters/link/The%20Mastermind.md) | Link-5 | 3000 | LIGHT | 1 linked Link monster + 1+ Extra Deck monsters |
 
 </details>
 
