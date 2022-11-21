@@ -46,7 +46,8 @@ A series of upgrade FIRE Beast monsters that can attack directly and have resist
 
 | card | Type |
 | :--- | :--- |
-| [Fluffy Rummage](../cards/spells/Fluffy%20Rummage.md) | normal |
+| [Fluffy Fusion](../cards/spells/Fluffy%20Fusion.md) | ⚡︎ Quick |
+| [Fluffy Rummage](../cards/spells/Fluffy%20Rummage.md) | Normal |
 
 </details>
 
