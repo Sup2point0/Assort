@@ -1,6 +1,6 @@
 # Immunicipality
 
-An archetype of WATER monsters and Continuous Spells, with a myriad of effects that combine to form an almost impenetrable defence, inspired by the immune system.
+An archetype of WATER Psychic monsters and Continuous Spells, with a myriad of effects that combine to form an almost impenetrable defence, inspired by the immune system.
 
 It is closely related to [Immunition](Immunition.md), which represents the offensive side of the immune system. It also has cross-support with [Neuralliance](Neuralliance.md).
 
