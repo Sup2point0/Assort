@@ -12,6 +12,8 @@
 
 ### [Vapurion](https://duelingbook.com/deck?id=11882083)
 
+### [Cyburst](https://duelingbook.com/deck?id=11997304)
+
 ### [Astrix]()
 
 ### [Ultra](https://duelingbook.com/deck?id=11509638)
