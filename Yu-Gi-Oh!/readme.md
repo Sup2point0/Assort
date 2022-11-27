@@ -14,7 +14,9 @@
 
 ### [Cyburst](https://duelingbook.com/deck?id=11997304)
 
-### [Astrix]()
+### [Arcana](https://duelingbook.com/deck?id=12012335)
+
+### [Astrix](https://duelingbook.com/deck?id=11963497)
 
 ### [Ultra](https://duelingbook.com/deck?id=11509638)
 
