@@ -16,4 +16,4 @@
 | [Arcana](https://duelingbook.com/deck?id=12012335) | All | [Tekk-Knight](archetypes/Tekk-Knight.md), [Ark-Knight](archetypes/Ark-Knight.md) + [World Affinity](archetypes/World%20Affinity.md) | |
 | [Vyrux]() | Fusion, Xyz | [Virus](archetypes/Virus.md) + [Dead-Eyes](archetypes/Dead-Eyes.md) | |
 | [Ultra](https://duelingbook.com/deck?id=11509638) | Fusion | [CREW GUYS](archetypes/GUYS.md), [METEOR](archetypes/METEOR.md) + [Ultraman](archetypes/Ultraman.md) | |
-| [Bananas]() | | | |
+| [Bananas](https://duelingbook.com/deck?id=11855890) | | | |
