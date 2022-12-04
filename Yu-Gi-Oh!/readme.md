@@ -14,6 +14,7 @@
 | [Astrix](https://duelingbook.com/deck?id=11963497) | Ritual, Ritual Link | Aquilyrynx + Delphoenix | |
 | [Cyburst](https://duelingbook.com/deck?id=11997304) | Link | [The Specialists](archetypes/The%20Specialists.md) + [Next-Gen Code Talker](archetypes/Next-Gen%20Code%20Talker.md) | |
 | [Arcana](https://duelingbook.com/deck?id=12012335) | All | [Tekk-Knight](archetypes/Tekk-Knight.md), [Ark-Knight](archetypes/Ark-Knight.md) + [World Affinity](archetypes/World%20Affinity.md) | |
+| [Darquessence](https://duelingbook.com/deck?id=12053993) | Ritual, Fusion | Darquess | |
 | [Vyrux]() | Fusion, Xyz | [Virus](archetypes/Virus.md) + [Dead-Eyes](archetypes/Dead-Eyes.md) | |
 | [Ultra](https://duelingbook.com/deck?id=11509638) | Fusion | [CREW GUYS](archetypes/GUYS.md), [METEOR](archetypes/METEOR.md) + [Ultraman](archetypes/Ultraman.md) | |
 | [Bananas](https://duelingbook.com/deck?id=11855890) | | | |
