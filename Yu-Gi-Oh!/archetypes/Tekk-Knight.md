@@ -4,6 +4,8 @@ An archetype of LIGHT Celestial Warrior monsters, inspired by the [Mekk-Knight](
 
 The *Hi-Tekk-Knight* subarchetype features 1 monster for each Summoning tecnique (Ritual/Fusion/Synchro/Xyz/Link), which can all be Summoned using 2 Tekk-Knight monsters. The [*Ark-Knight*](Ark-Knight.md) subarchetype then consists of further upgraded monsters for each Summoning tecnique, which all require 2 Hi-Tekk-Knight monsters to Summon.
 
+The archetype is supported by the [*World Affinity*](World%20Affinity.md) archetype.
+
 
 <br>
 
@@ -49,35 +51,15 @@ The *Hi-Tekk-Knight* subarchetype features 1 monster for each Summoning tecnique
 
 </details>
 
-### Spells
-
-<details open>
-  <summary> <b> display </b> </summary> <br>
-
-| card | Type |
-| :--- | :--- |
-| [–](../cards/spells/–/–.md) | – |
-
-</details>
-
-### Traps
-
-<details open>
-  <summary> <b> display </b> </summary> <br>
-
-| card | Type |
-| :--- | :--- |
-| [–](../cards/traps/–/–.md) | – |
-
-</details>
-
 
 <br>
 
 
 ## Strategics
 
-{...}
+All of the Main Deck monsters are Level 4 (ignoring the Ritual monster), and share the following effect:
+
+> 
 
 
 <br>
@@ -85,4 +67,8 @@ The *Hi-Tekk-Knight* subarchetype features 1 monster for each Summoning tecnique
 
 ## Trivia
 
-‘’ ◈ ⚡︎ ∞ ✦ ↵
+- This archetype can harness every Summoning tecnique (except Pendulum).
+- *Tekk-Knight* is a pun on ‘Tech Knight’, alike to *Mekk-Knight* sounding like ‘Mech Knight’ (despite this not being the actual etymologic).
+  - Similarly, *Hi-Tekk-Knight* is a pun on ‘High Tech Knight’.
+- The names of the Main Deck monsters (and the Link-1 *Tekk-Knight Azure Iris*) follow the pattern `<colour> <abstract>`, where `abstract` is an emotion or phenomenon.
+  - The names of the Extra Deck monsters follow the pattern `<adjective> <feature>`, wehere `feature` is some kind of attribute or property (or simply a word that sounds cool), with both words being relyzen to light.
