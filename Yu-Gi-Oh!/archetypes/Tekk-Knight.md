@@ -118,10 +118,10 @@ Here is a general combo line:
 | Tune into Hi-Tekk-Knight Lucent Edge, accelling any monster from the Deck. | ▯▯▯▯▯<br>▯▯▯▯▯<br>▯▯▯▯▯ |
 | Special Summon a material if required. | ▯▯▯▯▯<br>▯▯▯▯▯<br>▯▯▯▯▯ |
 | Overlay into Hi-Tekk-Knight Shining Dawn, then detach to accel another monster from the Deck. | ▯▯▯▯▯<br>▯▯▯▯▯<br>▯▯▯▯▯ |
-| Since the previously accelled monster was overlayed as Xyz material, it is not banished. The detached material likely has another effect to search▯▯▯▯▯<br>▯▯▯▯▯<br>▯▯▯▯▯ .
+| Since the previously accelled monster was overlayed as Xyz material, it is not banished. The detached material likely has another effect to search.
 | Special Summon another material if required. | ▯▯▯▯▯<br>▯▯▯▯▯<br>▯▯▯▯▯ |
 | Fuse into Hi-Tekk-Knight Radiant Spectre, by banishing 2 monsters. | ▯▯▯▯▯<br>▯▯▯▯▯<br>▯▯▯▯▯ |
-| If [World Affinity Wonder](...) or [World Affinity Wishes](...) are available, Ritual Summon Hi-Tekk-Knight Ultramarine Wonder. (If Tributes are scarce, Teal Avidity can revive another.▯▯▯▯▯<br>▯▯▯▯▯<br>▯▯▯▯▯ )
+| If [World Affinity Wonder](...) or [World Affinity Wishes](...) are available, Ritual Summon Hi-Tekk-Knight Ultramarine Wonder. (If Tributes are scarce, Teal Avidity can revive another. | ▯▯▯▯▯<br>▯▯▯▯▯<br>▯▯▯▯▯ |
 
 
 <br>
