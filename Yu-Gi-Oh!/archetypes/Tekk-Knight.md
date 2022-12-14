@@ -47,7 +47,7 @@ The archetype is supported by the [*World Affinity*](World%20Affinity.md) archet
 | [Hi-Tekk-Knight Lucent Edge](../cards/monsters/synchro/Hi-Tekk-Knight%20–.md) | 8 ★★★★★★★★ | 2500 / 1600 | Synchro | 2 ‘Tekk-Knight’ monsters, including a Tuner |
 | [Hi-Tekk-Knight Shining Dawn](../cards/monsters/xyz/Hi-Tekk-Knight%20–.md) | 4 ★★★★ | 2500 / 1600 | Xyz | 2 Level 4 ‘Tekk-Knight’ monsters |
 | [Hi-Tekk-Knight Crystalline Lustre](../cards/monsters/link/Hi-Tekk-Knight%20–.md) | Link-2 | 2500 | Link | 2 ‘Tekk-Knight’ monsters |
-| [Hi-Tekk-Knight Radical Trinity](../cards/monsters/–/Hi-Tekk-Knight%20–.md) | Link-3 | 3000 | Link | – |
+| [Hi-Tekk-Knight Radical Trinity](../cards/monsters/–/Hi-Tekk-Knight%20–.md) | Link-3 | 3000 | Link | 2+ ‘Tekk-Knight’ monsters |
 
 </details>
 
@@ -58,14 +58,13 @@ The archetype is supported by the [*World Affinity*](World%20Affinity.md) archet
 ## Strategics
 
 ### Effects
-
-All of the Main Deck monsters are Level 4 (except the Ritual), with 2000/1200 ATK/DEF, and share the following effect:
+All of the Level 4 Main Deck monsters share the following effect:
 
 > If a column contains 2 or more cards: You can Special Summon this card from your hand to an adjacent column, then you can [...].
 
 Additionally, each has an effect to search or recover a different monster upon being sent to the Graveyard.
 
-> If this card is sent to the Graveyard: You can add 1 ‘Tekk-Knight’ monster from your [Deck/Graveyard] to your hand, except [...].
+> If this card is sent to the Graveyard: You can add 1 ‘Tekk-Knight’ monster from your [...] to your hand, except [...].
 
 | monster | effect | search |
 | :------ | :----- | :----- |
@@ -76,15 +75,34 @@ Additionally, each has an effect to search or recover a different monster upon b
 | Teal Avidity | revive a *Tekk-Knight* monster | Deck |
 | Neon Hope | change the placement of a card on the field | |
 
-The 5 *Hi-Tekk-Knight* monsters can be Summoned using 2 *Tekk-Knight*
+The *Hi-Tekk-Knight* monsters 
+
+| monster | summon | effect |
+| :------ | :----- | :----- |
+| Radiant Spectre | | double own ATK when battling Special Summoned monster in another column |
+| Lucent Edge | | halve opposing ATK when battling Special Summoned monster in another column |
+| Shining Dawn | | +500 ATK for each attached material |
+| Crystalline Lustre | Deck | +500 ATK for each *Tekk-Knight* or *Ark-Knight* monster it links to |
+
+Each monster also searches a *World Affinity* card upon being sent to the Graveyard.
+
+> If this card is sent to the Graveyard: You can add 1 ‘World Affinity’ card from your Deck to your hand.
 
 ### Style
+The archetype is extremely consistent, especially with the support of *World Affinity* cards.
 
+The core strategic is to utilyze every Summoning tecnique on the first turn, creating a formidable board with all 5 *Hi-Tekk-Knight* monsters. (Although the Ritual is often missing due to requiring a *World Affinity* card to be available.) In conjunction with [World Affinity Rivals](../cards/traps/World%20Affinity%20Rivals), this can lock the opponent completely out of their Extra Deck.
 
+The board is not unbreakable in any way – none of the monsters have any protection effects – and is dismantled with ease by Raigeki or Lightning Storm. However, the effects of all those monsters will trigger, searching out a huge number of *World Affinity* Spell/Traps, ready for an instant comeback next turn, even against negates – including powerful recovery cards such as [World Affinity Ascension].
+
+If the board remains intact, then the *Ark-Knight* monsters can easily be brought out on the second turn, with powerful omni-negates and battle effects to overwhelm the opponent. If called for, with 4 monsters of each type [Ark-Knight Cerulean Aventurescence](...) can be Summoned, clearing the opponent’s field and Graveyard ready for an OTK. [Hi-Tekk-Knight Radical Trinity](...) can also take advantage of an already established board to inflict massive amounts of damage.
 
 ### Combos
+Going first, a Set card and a Normal Summon are sufficient to allow more monsters to Summon themselves. While this does mean the Normal Summoned monster’s effect doesn’t activate, after being used as material it can easily be recovered to be used as another Special Summon. The most common target for this is [Tekk-Knight Azure Iris](...), which can search a *World Affinity* Spell/Trap, simoultaneously triggering the *Tekk-Knight* monster’s search. Since it is Summoned to the Extra Monster Zone, this also provides more space for Summons, while maintaining a column with 2 cards.
 
+The most useful openers (as a Special Summon) are [Tekk-Knight Aqua Vision](...) and [Tekk-Knight Citrine Dream](...). Aqua Vision can send any *Tekk-Knight* monster that searches another (Citrine Dream, for instance), while the prime target for Citrine Dream is [World Affinity Legacy](...), a Field Spell with the effect to search another *World Affinity* card when sent the Graveyard, instead of when activated. [Tekk-Knight Teal Avidity](...) is also useful for recursing more materials for Special Summons.
 
+The other *Tekk-Knight* monsters are useful for going second, to breakup the opponent’s board, and otherwise only serve as additional unique names for Special Summons or searches. [Tekk-Knight Neon Hope](...) is rather situational, but can disrupt cards that depend on columns or being linked, or shift the opponent’s field to be advantageous to facilityze *Tekk-Knight* Summons or *World Affinity* effects.
 
 
 <br>
@@ -100,3 +118,4 @@ The 5 *Hi-Tekk-Knight* monsters can be Summoned using 2 *Tekk-Knight*
 - The names of the Main Deck monsters (and the Link-1 *Tekk-Knight Azure Iris*) follow the pattern `<colour> <abstract>`, where `abstract` is an emotion or phenomenon.
   - The names of the Extra Deck monsters follow the pattern `<adjective> <feature>`, where `feature` is some kind of attribute or property (or simply a word that sounds cool), with both words being relyzen to light.
   - These reflect the naming scheme of the *Mekk-Knights*.
+- The ability to demonstryze a myriad of Summoning tecniques in one turn is inspired by [*D/D*](https://yugipedia.com/wiki/D/D) and [*D/D/D*](https://yugipedia.com/wiki/D/D/D) used by [Declan Akaba](https://yugipedia.com/wiki/Declan_Akaba).
