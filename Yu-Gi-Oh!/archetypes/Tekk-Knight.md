@@ -1,8 +1,8 @@
 # Tekk-Knight
 
-An archetype of LIGHT Celestial Warrior monsters, inspired by the [Mekk-Knight](https://yugipedia.com/wiki/Mekk-Knight) archetype.
+An archetype of LIGHT Celestial Warrior monsters, inspired by the [*Mekk-Knight*](https://yugipedia.com/wiki/Mekk-Knight) archetype.
 
-The *Hi-Tekk-Knight* subarchetype features 1 monster for each Summoning tecnique (Ritual/Fusion/Synchro/Xyz/Link), which can all be Summoned using 2 Tekk-Knight monsters. The [*Ark-Knight*](Ark-Knight.md) subarchetype then consists of further upgraded monsters for each Summoning tecnique (except Ritual), which all require 2 Hi-Tekk-Knight monsters to Summon.
+The *Hi-Tekk-Knight* subarchetype features 1 monster for each Summoning tecnique (Ritual/Fusion/Synchro/Xyz/Link), which can all be Summoned using 2 *Tekk-Knight* monsters. The [*Ark-Knight*](Ark-Knight.md) subarchetype then consists of further upgraded monsters for each Summoning tecnique (except Ritual), which all require 2 *Hi-Tekk-Knight* monsters to Summon.
 
 The archetype is supported by the [*World Affinity*](World%20Affinity.md) archetype.
 
@@ -57,7 +57,9 @@ The archetype is supported by the [*World Affinity*](World%20Affinity.md) archet
 
 ## Strategics
 
-All of the Main Deck monsters are Level 4 (except the Ritual), and share the following effect:
+### Effects
+
+All of the Main Deck monsters are Level 4 (except the Ritual), with 2000/1200 ATK/DEF, and share the following effect:
 
 > If a column contains 2 or more cards: You can Special Summon this card from your hand to an adjacent column, then you can [...].
 
@@ -67,12 +69,22 @@ Additionally, each has an effect to search or recover a different monster upon b
 
 | monster | effect | search |
 | :------ | :----- | :----- |
-| Tekk-Knight Aqua Vision | mill a *Tekk-Knight* monster | |
-| Tekk-Knight Citrine Dream | mill a *World Affinity* Spell/Trap | |
-| Tekk-Knight Scarlet Fury | destroy a monster in its column | Banished |
-| Tekk-Knight Violet Sorrow | destroy a Spell/Trap in its column | |
-| Tekk-Knight Teal Avidity | revive a *Tekk-Knight* monster | Deck |
-| Tekk-Knight Neon Hope | change the placement of a card on the field | |
+| Aqua Vision | mill a *Tekk-Knight* monster | |
+| Citrine Dream | mill a *World Affinity* Spell/Trap | |
+| Scarlet Fury | destroy a monster in its column | Banished |
+| Violet Sorrow | destroy a Spell/Trap in its column | |
+| Teal Avidity | revive a *Tekk-Knight* monster | Deck |
+| Neon Hope | change the placement of a card on the field | |
+
+The 5 *Hi-Tekk-Knight* monsters can be Summoned using 2 *Tekk-Knight*
+
+### Style
+
+
+
+### Combos
+
+
 
 
 <br>
