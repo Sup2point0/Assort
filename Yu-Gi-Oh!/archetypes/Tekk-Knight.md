@@ -93,7 +93,7 @@ The archetype is extremely consistent, especially with the support of *World Aff
 
 The core strategic is to utilyze every Summoning tecnique on the first turn, creating a formidable board with all 5 *Hi-Tekk-Knight* monsters. (Although the Ritual is often missing due to requiring a *World Affinity* card to be available.) In conjunction with [World Affinity Rivals](../cards/traps/World%20Affinity%20Rivals), this can lock the opponent completely out of their Extra Deck.
 
-The board is not unbreakable in any way – none of the monsters have any protection effects – and is dismantled with ease by Raigeki or Lightning Storm. However, the effects of all those monsters will trigger, searching out a huge number of *World Affinity* Spell/Traps, ready for an instant comeback next turn, even against negates – including powerful recovery cards such as [World Affinity Ascension].
+The board is not unbreakable in any way – none of the monsters have any protection effects – and is dismantled with ease by Raigeki or Lightning Storm. However, the effects of all those monsters will trigger, searching out a huge number of *World Affinity* Spell/Traps, ready for an instant comeback next turn, even against negates – including powerful recovery cards such as [World Affinity Ascension](...).
 
 If the board remains intact, then the *Ark-Knight* monsters can easily be brought out on the second turn, with powerful omni-negates and battle effects to overwhelm the opponent. If called for, with 4 monsters of each type [Ark-Knight Cerulean Aventurescence](...) can be Summoned, clearing the opponent’s field and Graveyard ready for an OTK. [Hi-Tekk-Knight Radical Trinity](...) can also take advantage of an already established board to inflict massive amounts of damage.
 
@@ -103,6 +103,25 @@ Going first, a Set card and a Normal Summon are sufficient to allow more monster
 The most useful openers (as a Special Summon) are [Tekk-Knight Aqua Vision](...) and [Tekk-Knight Citrine Dream](...). Aqua Vision can send any *Tekk-Knight* monster that searches another (Citrine Dream, for instance), while the prime target for Citrine Dream is [World Affinity Legacy](...), a Field Spell with the effect to search another *World Affinity* card when sent the Graveyard, instead of when activated. [Tekk-Knight Teal Avidity](...) is also useful for recursing more materials for Special Summons.
 
 The other *Tekk-Knight* monsters are useful for going second, to breakup the opponent’s board, and otherwise only serve as additional unique names for Special Summons or searches. [Tekk-Knight Neon Hope](...) is rather situational, but can disrupt cards that depend on columns or being linked, or shift the opponent’s field to be advantageous to facilityze *Tekk-Knight* Summons or *World Affinity* effects.
+
+Here is a general combo line:
+
+- Open hand with any monster that can search from the Deck.
+- Normal Summon and Link into Azure Iris, searching [World Affinity Adventure](...) and Aqua Vision.
+- Adventure searches [World Affinity Excursion](...), searching Citrine Dream.
+- With Adventure or Excursion in the same column as Azure Iris in the Extra Monster Zone, Special Summon Citrine Dream, sending [World Affinity Legacy](...) to search another copy of Legacy.
+- Activate Legacy.
+- Link Azure Iris and Citrine Dream into Hi-Tekk-Knight Crystalline Lustre, accelling a Tuner.
+- Special Summon Aqua Vision, sending any monster to search or recover another.
+- Tune into Hi-Tekk-Knight Lucent Edge, accelling any monster from the Deck.
+- Special Summon a material if required.
+- Overlay into Hi-Tekk-Knight Shining Dawn, then detach to accel another monster from the Deck.
+  - Since the previously accelled monster was overlayed as Xyz material, it is not banished.
+  - The detached material likely has another effect to search.
+- Special Summon another material if required.
+- Fuse into Hi-Tekk-Knight Radiant Spectre, by banishing 2 monsters.
+- If [World Affinity Wonder](...) or [World Affinity Wishes](...) are available, Ritual Summon Hi-Tekk-Knight Ultramarine Wonder.
+  - If Tributes are scarce, Teal Avidity can revive another.
 
 
 <br>
