@@ -68,12 +68,12 @@ Additionally, each has an effect to search or recover a different monster upon b
 
 | monster | effect | search |
 | :------ | :----- | :----- |
-| Aqua Vision | mill a *Tekk-Knight* monster | |
-| Citrine Dream | mill a *World Affinity* Spell/Trap | |
+| Aqua Vision | mill a *Tekk-Knight* monster | Grave |
+| Citrine Dream | mill a *World Affinity* Spell/Trap | Deck |
 | Scarlet Fury | destroy a monster in its column | Banished |
-| Violet Sorrow | destroy a Spell/Trap in its column | |
+| Violet Sorrow | destroy a Spell/Trap in its column | Deck |
 | Teal Avidity | revive a *Tekk-Knight* monster | Deck |
-| Neon Hope | change the placement of a card on the field | |
+| Neon Hope | change the placement of a card on the field | Grave |
 
 The *Hi-Tekk-Knight* monsters 
 
@@ -100,9 +100,9 @@ If the board remains intact, then the *Ark-Knight* monsters can easily be brough
 ### Combos
 Going first, a Set card and a Normal Summon are sufficient to allow more monsters to Summon themselves. While this does mean the Normal Summoned monster’s effect doesn’t activate, after being used as material it can easily be recovered to be used as another Special Summon. The most common target for this is [Tekk-Knight Azure Iris](...), which can search a *World Affinity* Spell/Trap, simoultaneously triggering the *Tekk-Knight* monster’s search. Since it is Summoned to the Extra Monster Zone, this also provides more space for Summons, while maintaining a column with 2 cards.
 
-The most useful openers (as a Special Summon) are [Tekk-Knight Aqua Vision](...) and [Tekk-Knight Citrine Dream](...). Aqua Vision can send any *Tekk-Knight* monster that searches another (Citrine Dream, for instance), while the prime target for Citrine Dream is [World Affinity Legacy](...), a Field Spell with the effect to search another *World Affinity* card when sent the Graveyard, instead of when activated. [Tekk-Knight Teal Avidity](...) is also useful for recursing more materials for Special Summons.
+The most useful openers (as a Special Summon) are [Tekk-Knight Aqua Vision](...) and [Tekk-Knight Citrine Dream](...). Aqua Vision can send any *Tekk-Knight* monster that searches another (Citrine Dream, for instance), while the prime target for Citrine Dream is [World Affinity Legacy](...), a Field Spell with the effect to search another *World Affinity* card when sent the Graveyard (instead of when activated, like most archetypical Field Spells). [Tekk-Knight Teal Avidity](...) is also useful for recursing more materials for Special Summons.
 
-The other *Tekk-Knight* monsters are useful for going second, to breakup the opponent’s board, and otherwise only serve as additional unique names for Special Summons or searches. [Tekk-Knight Neon Hope](...) is rather situational, but can disrupt cards that depend on columns or being linked, or shift the opponent’s field to be advantageous to facilityze *Tekk-Knight* Summons or *World Affinity* effects.
+The other *Tekk-Knight* monsters are useful for going second to breakup the opponent’s board, otherwise only serving as additional unique names for Special Summons or searches. [Tekk-Knight Neon Hope](...) is rather situational, but can disrupt cards that depend on columns or being linked, or shift the opponent’s field to be advantageous to facilityze *Tekk-Knight* Summons or *World Affinity* effects.
 
 Here is a general combo line:
 
