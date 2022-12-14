@@ -106,22 +106,22 @@ The other *Tekk-Knight* monsters are useful for going second, to breakup the opp
 
 Here is a general combo line:
 
-- Open hand with any monster that can search from the Deck.
-- Normal Summon and Link into Azure Iris, searching [World Affinity Adventure](...) and Aqua Vision.
-- Adventure searches [World Affinity Excursion](...), searching Citrine Dream.
-- With Adventure or Excursion in the same column as Azure Iris in the Extra Monster Zone, Special Summon Citrine Dream, sending [World Affinity Legacy](...) to search another copy of Legacy.
-- Activate Legacy.
-- Link Azure Iris and Citrine Dream into Hi-Tekk-Knight Crystalline Lustre, accelling a Tuner.
-- Special Summon Aqua Vision, sending any monster to search or recover another.
-- Tune into Hi-Tekk-Knight Lucent Edge, accelling any monster from the Deck.
-- Special Summon a material if required.
-- Overlay into Hi-Tekk-Knight Shining Dawn, then detach to accel another monster from the Deck.
-  - Since the previously accelled monster was overlayed as Xyz material, it is not banished.
-  - The detached material likely has another effect to search.
-- Special Summon another material if required.
-- Fuse into Hi-Tekk-Knight Radiant Spectre, by banishing 2 monsters.
-- If [World Affinity Wonder](...) or [World Affinity Wishes](...) are available, Ritual Summon Hi-Tekk-Knight Ultramarine Wonder.
-  - If Tributes are scarce, Teal Avidity can revive another.
+| action | field |
+| :----- | :---- |
+| Open hand with any monster that can search from the Deck. | .▯.▯.<br>▯▯▯▯▯<br>▯▯▯▯▯ |
+| Normal Summon and Link into Azure Iris, searching [World Affinity Adventure](...) and Aqua Vision. | |
+| Adventure searches [World Affinity Excursion](...), searching Citrine Dream. | |
+| With Adventure or Excursion in the same column as Azure Iris in the Extra Monster Zone, Special Summon | | Citrine Dream, sending [World Affinity Legacy](...) to search another copy of Legacy.
+| Activate Legacy. | |
+| Link Azure Iris and Citrine Dream into Hi-Tekk-Knight Crystalline Lustre, accelling a Tuner. | |
+| Special Summon Aqua Vision, sending any monster to search or recover another. | |
+| Tune into Hi-Tekk-Knight Lucent Edge, accelling any monster from the Deck. | |
+| Special Summon a material if required. | |
+| Overlay into Hi-Tekk-Knight Shining Dawn, then detach to accel another monster from the Deck. | |
+| Since the previously accelled monster was overlayed as Xyz material, it is not banished. The detached | | material likely has another effect to search.
+| Special Summon another material if required. | |
+| Fuse into Hi-Tekk-Knight Radiant Spectre, by banishing 2 monsters. | |
+| If [World Affinity Wonder](...) or [World Affinity Wishes](...) are available, Ritual Summon Hi-Tekk-Knight | | Ultramarine Wonder. (If Tributes are scarce, Teal Avidity can revive another.)
 
 
 <br>
