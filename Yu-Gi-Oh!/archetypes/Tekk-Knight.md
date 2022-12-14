@@ -2,7 +2,7 @@
 
 An archetype of LIGHT Celestial Warrior monsters, inspired by the [Mekk-Knight](https://yugipedia.com/wiki/Mekk-Knight) archetype.
 
-The *Hi-Tekk-Knight* subarchetype features 1 monster for each Summoning tecnique (Ritual/Fusion/Synchro/Xyz/Link), which can all be Summoned using 2 Tekk-Knight monsters. The [*Ark-Knight*](Ark-Knight.md) subarchetype then consists of further upgraded monsters for each Summoning tecnique, which all require 2 Hi-Tekk-Knight monsters to Summon.
+The *Hi-Tekk-Knight* subarchetype features 1 monster for each Summoning tecnique (Ritual/Fusion/Synchro/Xyz/Link), which can all be Summoned using 2 Tekk-Knight monsters. The [*Ark-Knight*](Ark-Knight.md) subarchetype then consists of further upgraded monsters for each Summoning tecnique (except Ritual), which all require 2 Hi-Tekk-Knight monsters to Summon.
 
 The archetype is supported by the [*World Affinity*](World%20Affinity.md) archetype.
 
@@ -57,9 +57,22 @@ The archetype is supported by the [*World Affinity*](World%20Affinity.md) archet
 
 ## Strategics
 
-All of the Main Deck monsters are Level 4 (ignoring the Ritual monster), and share the following effect:
+All of the Main Deck monsters are Level 4 (except the Ritual), and share the following effect:
 
-> 
+> If a column contains 2 or more cards: You can Special Summon this card from your hand to an adjacent column, then you can [...].
+
+Additionally, each has an effect to search or recover a different monster upon being sent to the Graveyard.
+
+> If this card is sent to the Graveyard: You can add 1 ‘Tekk-Knight’ monster from your [Deck/Graveyard] to your hand, except [...].
+
+| monster | effect | search |
+| :------ | :----- | :----- |
+| Tekk-Knight Aqua Vision | mill a *Tekk-Knight* monster | |
+| Tekk-Knight Citrine Dream | mill a *World Affinity* Spell/Trap | |
+| Tekk-Knight Scarlet Fury | destroy a monster in its column | Banished |
+| Tekk-Knight Violet Sorrow | destroy a Spell/Trap in its column | |
+| Tekk-Knight Teal Avidity | revive a *Tekk-Knight* monster | Deck |
+| Tekk-Knight Neon Hope | change the placement of a card on the field | |
 
 
 <br>
@@ -68,7 +81,10 @@ All of the Main Deck monsters are Level 4 (ignoring the Ritual monster), and sha
 ## Trivia
 
 - This archetype can harness every Summoning tecnique (except Pendulum).
+- The effect of the Lv4 Main Deck monsters is an upgraded version of the effect of the *Mekk-Knights*.
+  - While *Mekk-Knights* Special Summon themselves to a column with 2+ cards, *Tekk-Knights* Summon to an adjacent column.
 - *Tekk-Knight* is a pun on ‘Tech Knight’, alike to *Mekk-Knight* sounding like ‘Mech Knight’ (despite this not being the actual etymologic).
   - Similarly, *Hi-Tekk-Knight* is a pun on ‘High Tech Knight’.
 - The names of the Main Deck monsters (and the Link-1 *Tekk-Knight Azure Iris*) follow the pattern `<colour> <abstract>`, where `abstract` is an emotion or phenomenon.
-  - The names of the Extra Deck monsters follow the pattern `<adjective> <feature>`, wehere `feature` is some kind of attribute or property (or simply a word that sounds cool), with both words being relyzen to light.
+  - The names of the Extra Deck monsters follow the pattern `<adjective> <feature>`, where `feature` is some kind of attribute or property (or simply a word that sounds cool), with both words being relyzen to light.
+  - These reflect the naming scheme of the *Mekk-Knights*.
