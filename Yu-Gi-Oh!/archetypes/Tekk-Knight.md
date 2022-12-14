@@ -108,10 +108,10 @@ Here is a general combo line:
 
 | action | field |
 | :----- | :---- |
-| Open hand with any monster that can search from the Deck. | ▯▯▯▯▯<br>▯▯▯▯▯<br>▯▯▯▯▯ |
-| Normal Summon and Link into Azure Iris, searching [World Affinity Adventure](...) and Aqua Vision. | ▯▯▯▯▯<br>▯▯▯▯▯<br>▯▯▯▯▯ |
+| Normal Summon any monster that can search from the Deck. | ▯▯▯▯▯<br>▯▯▮▯▯<br>▯▯▯▯▯ |
+| Link into Azure Iris, searching [World Affinity Adventure](...) and Aqua Vision. | ▯▮▯▯▯<br>▯▯▯▯▯<br>▯▮▯▯▯ |
 | Adventure searches [World Affinity Excursion](...), searching Citrine Dream. | ▯▯▯▯▯<br>▯▯▯▯▯<br>▯▯▯▯▯ |
-| With Adventure or Excursion in the same column as Azure Iris in the Extra Monster Zone, Special Summon | | Citrine Dream, sending [World Affinity Legacy](...) to search another copy of Legacy▯▯▯▯▯<br>▯▯▯▯▯<br>▯▯▯▯▯ .
+| With Adventure or Excursion in the same column as Azure Iris in the Extra Monster Zone, Special Summon Citrine Dream, sending [World Affinity Legacy](...) to search another copy of Legacy. |▯▯▯▯▯<br>▯▯▯▯▯<br>▯▯▯▯▯ |
 | Activate Legacy. | ▯▯▯▯▯<br>▯▯▯▯▯<br>▯▯▯▯▯ |
 | Link Azure Iris and Citrine Dream into Hi-Tekk-Knight Crystalline Lustre, accelling a Tuner. | ▯▯▯▯▯<br>▯▯▯▯▯<br>▯▯▯▯▯ |
 | Special Summon Aqua Vision, sending any monster to search or recover another. | ▯▯▯▯▯<br>▯▯▯▯▯<br>▯▯▯▯▯ |
