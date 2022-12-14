@@ -114,13 +114,13 @@ Here is a general combo line:
 | With Adventure or Excursion in the same column as Azure Iris in the Extra Monster Zone, Special Summon Citrine Dream, sending [World Affinity Legacy](...) to search another copy of Legacy. |▯▮▯▯▯<br>▯▮▯▯▯<br>▯▮▯▮▯ |
 | Link Azure Iris and Citrine Dream into Hi-Tekk-Knight Crystalline Lustre, accelling a Tuner. | ▯▮▯▯▯<br>▯▯▮▯▯<br>▯▮▯▮▯ |
 | Special Summon Aqua Vision, sending any monster to search or recover another. | ▯▮▯▯▯<br>▮▯▮▯▯<br>▯▮▯▮▯ |
-| Tune into Hi-Tekk-Knight Lucent Edge, accelling any monster from the Deck. | ▯▮▯▯▯<br>▯▯▯▯▯<br>▯▮▯▮▯ |
-| Special Summon a material if required. | ▯▯▯▯▯<br>▯▯▯▯▯<br>▯▮▯▮▯ |
-| Overlay into Hi-Tekk-Knight Shining Dawn, then detach to accel another monster from the Deck. | ▯▯▯▯▯<br>▯▯▯▯▯<br>▯▮▯▮▯ |
+| Tune into Hi-Tekk-Knight Lucent Edge, accelling any monster from the Deck. | ▯▮▯▯▯<br>▯▯▮▮▯<br>▯▮▯▮▯ |
+| Special Summon a material if required. | ▯▮▯▯▯<br>▯▯▮▮▮<br>▯▮▯▮▯ |
+| Overlay into Hi-Tekk-Knight Shining Dawn, then detach to accel another monster from the Deck. | ▯▮▯▯▯<br>▮▯▮▮▯<br>▯▮▯▮▯ |
 | Since the previously accelled monster was overlayed as Xyz material, it is not banished. The detached material likely has another effect to search.
-| Special Summon another material if required. | ▯▯▯▯▯<br>▯▯▯▯▯<br>▯▮▯▮▯ |
-| Fuse into Hi-Tekk-Knight Radiant Spectre, by banishing 2 monsters. | ▯▯▯▯▯<br>▯▯▯▯▯<br>▯▮▯▮▯ |
-| If [World Affinity Wonder](...) or [World Affinity Wishes](...) are available, Ritual Summon Hi-Tekk-Knight Ultramarine Wonder. (If Tributes are scarce, Teal Avidity can revive another. | ▯▯▯▯▯<br>▯▯▯▯▯<br>▯▮▯▮▯ |
+| Special Summon another material if required. | ▯▮▯▯▯<br>▮▮▮▮▯<br>▯▮▯▮▯ |
+| Fuse into Hi-Tekk-Knight Radiant Spectre, by banishing 2 monsters. | ▯▮▯▯▯<br>▯▮▮▮▯<br>▯▮▯▮▯ |
+| If [World Affinity Wonder](...) or [World Affinity Wishes](...) are available, Ritual Summon Hi-Tekk-Knight Ultramarine Wonder. (If Tributes are scarce, Teal Avidity can revive another. | ▯▮▯▯▯<br>▮▮▮▮▯<br>▯▮▯▮▯ |
 
 
 <br>
