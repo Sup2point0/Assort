@@ -16,6 +16,6 @@
 | [Arcana](https://duelingbook.com/deck?id=12012335) | All | [Tekk-Knight](archetypes/Tekk-Knight.md), [Ark-Knight](archetypes/Ark-Knight.md) + [World Affinity](archetypes/World%20Affinity.md) | |
 | [Darquessence](https://duelingbook.com/deck?id=12053993) | Ritual, Fusion | Darquess | |
 | [Bananas](https://duelingbook.com/deck?id=12097955) | All | Bloons TD 6 | |
-| [Vyrux]() | Fusion, Xyz | [Virus](archetypes/Virus.md) + [Dead-Eyes](archetypes/Dead-Eyes.md) | |
+| [Vyrux](https://duelingbook.com/deck?id=11560225) | Fusion, Xyz | [Virus](archetypes/Virus.md) + [Dead-Eyes](archetypes/Dead-Eyes.md) | |
 | [Ultra](https://duelingbook.com/deck?id=11509638) | Fusion | [CREW GUYS](archetypes/GUYS.md), [METEOR](archetypes/METEOR.md) + [Ultraman](archetypes/Ultraman.md) | |
 | [Apples](https://duelingbook.com/deck?id=11855890) | | | |
