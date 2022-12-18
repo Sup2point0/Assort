@@ -8,6 +8,7 @@
 
 | deck | types | archetypes | style |
 | :--- | :---- | :--------- | :---- |
+| [Essence](https://duelingbook.com/deck?id=11724812) | Fusion, Link, Pendulum | Ninjato, Manifestation Magic + Myriad Manifestation Umbrella |
 | [Vengeance](https://duelingbook.com/deck?id=11423800) | Ritual, Synchro | [Soul](archetypes/Soul.md) | |
 | [Technetyx](https://duelingbook.com/deck?id=11617228) | All | [Next-Gen](archetypes/Next-Gen.md) [Cyber](archetypes/Next-Gen%20Cyber%20Dragon.md), [A-to-Z](archetypes/Next-Gen%20A-to-Z.md) + [Kinetic Warrior](archetypes/Kinetic%20Warrior.md) | |
 | [Vapurion](https://duelingbook.com/deck?id=11882083) | Rank-Up Xyz | [Vapour-Eyes](archetypes/Vapour-Eyes.md) + [Lightning](archetypes/lightning.md) | |
