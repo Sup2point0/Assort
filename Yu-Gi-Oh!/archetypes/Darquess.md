@@ -19,7 +19,7 @@ Additionally, each has a once-per-turn effect to search another card upon being 
 
 <table>
   <tr>
-    <th> monster </th>
+    <th width="50px"> monster </th>
     <td> Aiza </td>
     <td> Azia </td>
     <td> Zaia </td>
