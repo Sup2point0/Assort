@@ -102,7 +102,7 @@ The 3 Level 9 monsters have 2700 ATK, and serve as powerful interrupts or sacrif
   </tr>
 </table>
 
-### Level 13
+### Level 13 Ritual
 The 3 Ritual monsters are each Level 13 with 3000 ATK, sharing the following effects.
 
 > Must be Ritual Summoned by a ‘Darquess’ card. If this card is Ritual Summoned: You can Set 1 ‘Darquess’ Trap from your Deck.
@@ -139,6 +139,20 @@ Each monster then has a continuous floodgate effect, an ignition effect involvin
     <td> banish top card of opponent’s Deck face-down each time you take damage </td>
     <td> inflict 350 damage each time a card is banished </td>
     <td> ‘Darquess’ monsters can use effects as Quick Effects </td>
+  </tr>
+</table>
+
+### Level 13 Fusion
+
+### Spells
+The archetypal Ritual Spell is [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md), which has both ATK and Level requirements.
+
+<table>
+  <tr>
+    <th align="center"> Darquess Rising </th>
+  </tr>
+  <tr>
+    <td> <img src="../../.assets/cards/spells/Darquess Rising.png"> </td>
   </tr>
 </table>
 
