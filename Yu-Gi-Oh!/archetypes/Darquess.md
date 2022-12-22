@@ -165,9 +165,9 @@ Each monster then has a continuous floodgate effect, an ignition effect involvin
   </tr>
   <tr>
     <th> card </th>
-    <td> <img src="../../.assets/cards/ritual/Elaiza.png"> </td>
-    <td> <img src="../../.assets/cards/ritual/Levaiza.png"> </td>
-    <td> <img src="../../.assets/cards/ritual/Vraiza.png"> </td>
+    <td> <img src="../../.assets/cards/fusion/Elaiza.png"> </td>
+    <td> <img src="../../.assets/cards/fusion/Levaiza.png"> </td>
+    <td> <img src="../../.assets/cards/fusion/Vraiza.png"> </td>
   </tr>
   <tr>
     <th> continuous </th>
@@ -237,7 +237,7 @@ The archetypal Ritual Spell is [Darquess Rising](../cards/spells/ritual/Darquess
 | [Vraiza, Awakened of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Raiza, Sorceress of Darquess* + *Vaiza, Empress of Darquess* |
 | [Primordial Darquessence, Oblivion of Darquess](../cards/monsters/fusion/Primordial%20Darquessence.md) | 13 ★★★★★★★★★★★★★ | ? / 0 | Fusion | 3 Level 13 ‘Darquess’ monsters |
 | [Lynuca, Silencer of Darquess](../cards/monsters/fusion/–.md) | 11 ★★★★★★★★★★★ | 2700 / 0 | Fusion | 2 Level 7 or higher DARK monsters |
-| [–](../cards/monsters/fusion/–.md) | n ★★★★★★★★★★★★ | – / – | Fusion | – |
+| [Dyvarice, Corruptor of Darquess](../cards/monsters/fusion/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | Fusion | 2 DARK monsters |
 
 </details>
 
