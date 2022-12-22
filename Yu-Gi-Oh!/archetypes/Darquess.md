@@ -19,7 +19,7 @@ Additionally, each has an effect to search another card upon being Summoned, whi
 
 <table>
   <tr>
-    <th width="50px"> monster </th>
+    <th width="42px"> monster </th>
     <td align="center"> Aiza </td>
     <td align="center"> Azia </td>
     <td align="center"> Zaia </td>
@@ -53,7 +53,7 @@ Each also has an effect to search a Ritual-related card by banishing a card from
 
 <table>
   <tr>
-    <th width="50px"> monster </th>
+    <th width="42px"> monster </th>
     <td align="center"> Cythris </td>
     <td align="center"> Lyfris </td>
     <td align="center"> Syndris </td>
@@ -93,7 +93,7 @@ Vyktica is slightly different, instead being able to Tribute an opponent’s mon
 
 <table>
   <tr>
-    <th width="50px"> monster </th>
+    <th width="42px"> monster </th>
     <td align="center"> Hykarice </td>
     <td align="center"> Kyralice </td>
     <td align="center"> Vyktica </td>
@@ -121,7 +121,7 @@ Each monster then has a continuous floodgate effect, an ignition effect involvin
 
 <table>
   <tr>
-    <th width="50px"> monster </th>
+    <th width="42px"> monster </th>
     <td align="center"> Raiza </td>
     <td align="center"> Laiza </td>
     <td align="center"> Vaiza </td>
@@ -153,6 +153,29 @@ Each monster then has a continuous floodgate effect, an ignition effect involvin
 </table>
 
 ### Level 13 Fusion
+
+> If this card is targeted for an attack or by a card effect (Quick Effect): You can make 1 other DARK monster on the field become the target instead.
+
+<table>
+  <tr>
+    <th width="42px"> monster </th>
+    <td align="center"> Elaiza </td>
+    <td align="center"> Levaiza </td>
+    <td align="center"> Vraiza </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td> <img src="../../.assets/cards/ritual/Elaiza.png"> </td>
+    <td> <img src="../../.assets/cards/ritual/Levaiza.png"> </td>
+    <td> <img src="../../.assets/cards/ritual/Vraiza.png"> </td>
+  </tr>
+  <tr>
+    <th> continuous </th>
+    <td> neither player can Summon non-DARK monsters </td>
+    <td> your opponent can only Summon monsters in Defence Position, and monsters they control in Defence Position cannot activate effects </td>
+    <td> negates the effects of Synchro, Xyz, and Link monsters on the field and in the Graveyard </td>
+  </tr>
+</table>
 
 ### Spells
 The archetypal Field Spell is [Realm of Darquess](../cards/spells/field/Realm%20of%20Darquess.md), which provides the critical conditions for the rest of the archetype to function effectively.
@@ -186,18 +209,35 @@ The archetypal Ritual Spell is [Darquess Rising](../cards/spells/ritual/Darquess
 <details open>
   <summary> <b> Main Deck </b> </summary> <br>
 
-| card | Level | ATK/DEF | Type | Attribute |
-| :--- | :---- | :------ | :--- | :-------- |
-| [–](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – | – |
+| card | Level | ATK/DEF | Type |
+| :--- | :---- | :------ | :--- |
+| [Aiza, Invoker of Darquess](../cards/monsters/standard/–.md) | 4 ★★★★ | 1900 / 0 | – |
+| [Azia, Envoker of Darquess](../cards/monsters/standard/–.md) | 4 ★★★★ | 1900 / 0 | – |
+| [Zaia, Evoker of Darquess](../cards/monsters/standard/–.md) | 4 ★★★★ | 1900 / 0 | – |
+| [Cythris, Augur of Darquess](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2300 / 0 | – |
+| [Lyfris, Herald of Darquess](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2300 / 0 | – |
+| [Syndris, Oracle of Darquess](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2300 / 0 | – |
+| [Hykarice, Sentry of Darquess](../cards/monsters/standard/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | – |
+| [Kyralice, Sentinel of Darquess](../cards/monsters/standard/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | – |
+| [Vyktica, Valkyrie of Darquess](../cards/monsters/standard/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | – |
+| [Raiza, Sorceress of Darquess](../cards/monsters/ritual/Raiza.md) | 13 ★★★★★★★★★★★★★ | 3000 / 0 | Ritual |
+| [Laiza, Enchantress of Darquess](../cards/monsters/ritual/Laiza.md) | 13 ★★★★★★★★★★★★★ | 3000 / 0 | Ritual |
+| [Vaiza, Empress of Darquess](../cards/monsters/ritual/Vaiza.md) | 13 ★★★★★★★★★★★★★ | 3000 / 0 | Ritual |
+| [Dyavin, Devoter of Darquess](../cards/monsters/standard/–.md) | 6 ★★★★★★ | 1500 / 0 | – |
 
 </details>
 
 <details open>
   <summary> <b> Extra Deck </b> </summary> <br>
 
-| card | Level | ATK/DEF | Type | Attribute | material |
-| :--- | :---- | :------ | :--- | :-------- | :------- |
-| [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – / – | – | – | – |
+| card | Level | ATK/DEF | Type | material |
+| :--- | :---- | :------ | :--- | :------- |
+| [Elaiza, Arisen of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Laiza, Enchantress of Darquess* + *Raiza, Sorceress of Darquess* |
+| [Levaiza, Ascended of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Vaiza, Empress of Darquess* + *Laiza, Enchantress of Darquess* |
+| [Vraiza, Awakened of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Raiza, Sorceress of Darquess* + *Vaiza, Empress of Darquess* |
+| [Primordial Darquessence, Oblivion of Darquess](../cards/monsters/fusion/Primordial%20Darquessence.md) | 13 ★★★★★★★★★★★★★ | ? / 0 | Fusion | 3 Level 13 ‘Darquess’ monsters |
+| [Lynuca, Silencer of Darquess](../cards/monsters/fusion/–.md) | 11 ★★★★★★★★★★★ | 2700 / 0 | Fusion | 2 Level 7 or higher DARK monsters |
+| [–](../cards/monsters/fusion/–.md) | n ★★★★★★★★★★★★ | – / – | Fusion | – |
 
 </details>
 
