@@ -31,7 +31,7 @@ Additionally, each has a once-per-turn effect to search another card upon being 
   <tr>
     <td> Azia </td>
     <td> <img src="../../.assets/cards/monsters/Azia.png" height="200px"> </td>
-    <td> Set a banished ‘Darquess’ Spell/Traps </td>
+    <td> Set a banished ‘Darquess’ Spell/Trap </td>
   </tr>
   <tr>
     <td> Zaia </td>
