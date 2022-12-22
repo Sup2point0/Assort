@@ -74,7 +74,7 @@ Each also has an effect to search a Ritual-related card by banishing a card from
     <th> search </th>
     <td> Spell </td>
     <td> monster </td>
-    <td> Ritual Spell or monster </td>
+    <td> Ritual monster or Spell </td>
   </tr>
 </table>
 
