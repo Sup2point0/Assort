@@ -19,9 +19,9 @@ Additionally, each has a once-per-turn effect to search another card upon being 
 
 | card | monster | effect |
 | :--- | :------ | :----- |
-| [Aiza](../../.assets/cards/monsters/Aiza.png) | Aiza |  |
-| [Azia](../../.assets/cards/monsters/Azia.png) | Azia | |
-| [Zaia](../../.assets/cards/monsters/Zaia.png) | Zaia | |
+| ![Aiza](../../.assets/cards/monsters/Aiza.png) | Aiza |  |
+| ![Azia](../../.assets/cards/monsters/Azia.png) | Azia | |
+| ![Zaia](../../.assets/cards/monsters/Zaia.png) | Zaia | |
 
 ### Level 7
 This self-dealt damage triggers the effects of the 3 Level 7 monsters, which are simliarly non-once-per-turn.
