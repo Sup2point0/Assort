@@ -19,23 +19,21 @@ Additionally, each has a once-per-turn effect to search another card upon being 
 
 <table>
   <tr>
-    <th> card </th>
     <th> monster </th>
-    <th> effect </th>
-  </tr>
-  <tr>
     <td> Aiza </td>
-    <td> <img src="../../.assets/cards/monsters/Aiza.png" height="200px"> </td>
-    <td> banish a ‘Darquess’ Spell/Trap from your Deck </td>
-  </tr>
-  <tr>
     <td> Azia </td>
-    <td> <img src="../../.assets/cards/monsters/Azia.png" height="200px"> </td>
-    <td> Set a banished ‘Darquess’ Spell/Trap </td>
+    <td> Zaia </td>
   </tr>
   <tr>
-    <td> Zaia </td>
+    <th> card </th>
+    <td> <img src="../../.assets/cards/monsters/Aiza.png" height="200px"> </td>
+    <td> <img src="../../.assets/cards/monsters/Azia.png" height="200px"> </td>
     <td> <img src="../../.assets/cards/monsters/Zaia.png" height="200px"> </td>
+  </tr>
+  <tr>
+    <th> effect </th>
+    <td> banish a ‘Darquess’ Spell/Trap from your Deck </td>
+    <td> Set a banished ‘Darquess’ Spell/Trap </td>
     <td> mill a ‘Darquess’ monster </td>
   </tr>
 </table>
