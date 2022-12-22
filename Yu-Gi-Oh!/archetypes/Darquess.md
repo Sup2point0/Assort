@@ -26,9 +26,9 @@ Additionally, each has a once-per-turn effect to search another card upon being 
   </tr>
   <tr>
     <th> card </th>
-    <td align="center"> <img src="../../.assets/cards/monsters/Aiza.png" height="300px"> </td>
-    <td align="center"> <img src="../../.assets/cards/monsters/Azia.png" height="300px"> </td>
-    <td align="center"> <img src="../../.assets/cards/monsters/Zaia.png" height="300px"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Aiza.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Azia.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Zaia.png"> </td>
   </tr>
   <tr>
     <th> effect </th>
