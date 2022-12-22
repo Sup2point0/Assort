@@ -81,6 +81,16 @@ Each also has an effect to search a Ritual-related card by banishing a card from
 ### Level 9
 The 3 Level 9 monsters have 2700 ATK, and serve as powerful interrupts or sacrifices for Ritual Summons.
 
+Hykarice and Kyralice share the following effects:
+
+> You can Special Summon this card (from your hand or Graveyard) by banishing 2 DARK monsters from your field and/or either player’s Graveyard.
+
+> When a [Spell/Trap] card or effect is activated (Quick Effect): You can banish this card from your hand or field; negate that effect, also banish that card.
+
+> If another ‘Darquess’ monster leaves the field: You can add this banished card to your hand, and if you do, take 700 damage.
+
+Vyktica is slightly different, instead being able to Tribute an opponent’s monster, but can only banish itself from the field to banish another monster (without negating), and only recovers when an ace monster leaves the field.
+
 <table>
   <tr>
     <th width="50px"> monster </th>
