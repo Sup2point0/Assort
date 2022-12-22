@@ -32,9 +32,9 @@ Additionally, each has a once-per-turn effect to search another card upon being 
   </tr>
   <tr>
     <th> effect </th>
-    <td> banish a ‘Darquess’ Spell/Trap from your Deck </td>
-    <td> Set a banished ‘Darquess’ Spell/Trap </td>
-    <td> mill a ‘Darquess’ monster </td>
+    <td width="100px"> banish a ‘Darquess’ Spell/Trap from your Deck </td>
+    <td width="100px"> Set a banished ‘Darquess’ Spell/Trap </td>
+    <td width="100px"> mill a ‘Darquess’ monster </td>
   </tr>
 </table>
 
