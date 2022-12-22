@@ -145,14 +145,18 @@ Each monster then has a continuous floodgate effect, an ignition effect involvin
 ### Level 13 Fusion
 
 ### Spells
+The archetypal Field Spell is [Realm of Darquess](../cards/spells/field/Realm%20of%20Darquess.md), which provides the critical conditions for the rest of the archetype to function effectively.
+
 The archetypal Ritual Spell is [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md), which has both ATK and Level requirements.
 
 <table>
   <tr>
-    <th align="center"> Darquess Rising </th>
+    <th align="center"> Rising </th>
+    <th align="center"> Realm </th>
   </tr>
   <tr>
     <td> <img src="../../.assets/cards/spells/Darquess Rising.png"> </td>
+    <td> <img src="../../.assets/cards/spells/Realm of Darquess.png"> </td>
   </tr>
 </table>
 
