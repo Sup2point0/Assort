@@ -1,6 +1,6 @@
 # Soul
 
-An archetype of DARK monsters, focusing on Ritual and Synchro Summoning, with Graveyard and handtrap effects and non-destruction removal or negation. All monsters either have 0 ATK or DEF, and the lower Level monsters are all Spirit monsters.
+An archetype of DARK monsters, focusing on Ritual and Synchro Summoning, with Graveyard and handtrap effects and non-destruction removal or negation. All monsters either have 0 ATK or DEF, with the other value ending in a 50, and the lower Level monsters are all Spirit monsters.
 
 
 <br>
