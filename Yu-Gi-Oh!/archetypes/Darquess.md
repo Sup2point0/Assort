@@ -9,7 +9,7 @@ An archetype of DARK and protively Spellcaster monsters, focusing on Ritual and 
 ## Overview
 
 ### Level 4
-The 3 Level 4 monsters share the following effect, which can be used any number of times each turn.
+The 3 Level 4 monsters have 1900 ATK and share the following effect, which can be used any number of times each turn.
 
 > If another card is banished (even during the Damage Step): You can Special Summon this card from your hand or Graveyard, or add this banished card to your hand.
 
@@ -32,14 +32,14 @@ Additionally, each has an effect to search another card upon being Summoned, whi
   </tr>
   <tr>
     <th> effect </th>
-    <td> banish a ‘Darquess’ Spell/Trap from your Deck </td>
+    <td> banish a ‘Darquess’ Spell/Trap from the Deck </td>
     <td> Set a banished ‘Darquess’ Spell/Trap </td>
     <td> mill a ‘Darquess’ monster </td>
   </tr>
 </table>
 
 ### Level 7
-This self-dealt damage triggers the effects of the 3 Level 7 monsters, which are simliarly non-once-per-turn.
+This self-dealt damage allows the 3 Level 7 monsters to be Summoned, which have 2300 ATK.
 
 > If either player takes damage (even during the Damage Step): You can Special Summon this card from your hand or Graveyard, and if you do, you can increase this card’s Level by 1 for every 100 damage taken.
 
@@ -47,7 +47,9 @@ Upon being Summoned, each has a specialyzed form of removal.
 
 > If this card is Summoned: You can banish 1 [...].
 
-Each also has an effect to search a 
+Each also has an effect to search a Ritual-related card by banishing a card from the hand or Graveyard.
+
+> You can banish 1 card from your hand or Graveyard; add 1 ‘Darquess’ [...] from your Deck or Banished Pile to your hand.
 
 <table>
   <tr>
@@ -63,14 +65,82 @@ Each also has an effect to search a
     <td align="center"> <img src="../../.assets/cards/monsters/Syndris.png"> </td>
   </tr>
   <tr>
-    <th> effect </th>
-    <td> banish a ‘Darquess’ Spell/Trap from your Deck </td>
-    <td> Set a banished ‘Darquess’ Spell/Trap </td>
-    <td> mill a ‘Darquess’ monster </td>
+    <th> banish </th>
+    <td> face-up Spell/Trap </td>
+    <td> face-down Spell/Trap </td>
+    <td> opponent’s hand </td>
+  </tr>
+  <tr>
+    <th> search </th>
+    <td> Spell </td>
+    <td> monster </td>
+    <td> Ritual Spell or monster </td>
   </tr>
 </table>
 
 ### Level 9
+The 3 Level 9 monsters have 2700 ATK, and serve as powerful interrupts or sacrifices for Ritual Summons.
+
+<table>
+  <tr>
+    <th width="50px"> monster </th>
+    <td> Hykarice </td>
+    <td> Kyralice </td>
+    <td> Vyktica </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/monsters/Hykarice.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Kyralice.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Vyktica.png"> </td>
+  </tr>
+  <tr>
+    <th> interrupt </th>
+    <td> negate Spell </td>
+    <td> negate Trap </td>
+    <td> banish monster </td>
+  </tr>
+</table>
+
+### Level 13
+The 3 Ritual monsters are each Level 13 with 3000 ATK, sharing the following effects.
+
+> Must be Ritual Summoned by a ‘Darquess’ card. If this card is Ritual Summoned: You can Set 1 ‘Darquess’ Trap from your Deck.
+
+Each monster then has a continuous floodgate effect, an ignition effect involving banishing, and a non-activated effect.
+
+<table>
+  <tr>
+    <th width="50px"> monster </th>
+    <td> Raiza </td>
+    <td> Laiza </td>
+    <td> Vaiza </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/ritual/Raiza.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/ritual/Laiza.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/ritual/Vaiza.png"> </td>
+  </tr>
+  <tr>
+    <th> continuous </th>
+    <td> neither player can Normal Summon non-DARK monsters </td>
+    <td> neither player can Special Summon non-DARK monsters from the Extra Deck </td>
+    <td> DARK monsters lose ATK equal to their original DEF </td>
+  </tr>
+  <tr>
+    <th> ignition </th>
+    <td> banish 1 DARK monster from either player’s field or Graveyard </td>
+    <td> Special Summon 1 banished DARK monster </td>
+    <td> banish 1 random card from opponent’s hand </td>
+  </tr>
+  <tr>
+    <th> other </th>
+    <td> banish top card of opponent’s Deck face-down each time you take damage </td>
+    <td> inflict 350 damage each time a card is banished </td>
+    <td> ‘Darquess’ monsters can use effects as Quick Effects </td>
+  </tr>
+</table>
 
 
 <br>
@@ -80,8 +150,8 @@ Each also has an effect to search a
 
 | type | count |
 | :--- | :---- |
-| Ritual   | x3 |
-| Fusion   | x6 |
+| Ritual | x3 |
+| Fusion | x6 |
 
 ### Monsters
 
