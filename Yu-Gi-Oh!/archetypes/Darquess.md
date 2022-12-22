@@ -32,9 +32,9 @@ Additionally, each has a once-per-turn effect to search another card upon being 
   </tr>
   <tr>
     <th> effect </th>
-    <td width="200px"> banish a ‘Darquess’ Spell/Trap from your Deck </td>
-    <td width="200px"> Set a banished ‘Darquess’ Spell/Trap </td>
-    <td width="200px"> mill a ‘Darquess’ monster </td>
+    <td> banish a ‘Darquess’ Spell/Trap from your Deck </td>
+    <td> Set a banished ‘Darquess’ Spell/Trap </td>
+    <td> mill a ‘Darquess’ monster </td>
   </tr>
 </table>
 
@@ -46,6 +46,8 @@ This self-dealt damage triggers the effects of the 3 Level 7 monsters, which are
 And upon being Summoned, each has a specialyzed form of removal.
 
 > If this card is Summoned: You can banish 1 [...].
+
+### Level 9
 
 
 <br>
