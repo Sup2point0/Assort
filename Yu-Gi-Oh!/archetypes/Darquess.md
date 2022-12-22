@@ -13,7 +13,7 @@ The 3 Level 4 monsters share the following effect, which can be used any number 
 
 > If another card is banished (even during the Damage Step): You can Special Summon this card from your hand or Graveyard, or add this banished card to your hand.
 
-Additionally, each has a once-per-turn effect to search another card upon being Summoned, which also deals damage to the player.
+Additionally, each has an effect to search another card upon being Summoned, which also deals damage to the player.
 
 > If this card is Summoned: You can [...], and if you do, take 700 damage.
 
@@ -43,9 +43,32 @@ This self-dealt damage triggers the effects of the 3 Level 7 monsters, which are
 
 > If either player takes damage (even during the Damage Step): You can Special Summon this card from your hand or Graveyard, and if you do, you can increase this card’s Level by 1 for every 100 damage taken.
 
-And upon being Summoned, each has a specialyzed form of removal.
+Upon being Summoned, each has a specialyzed form of removal.
 
 > If this card is Summoned: You can banish 1 [...].
+
+Each also has an effect to search a 
+
+<table>
+  <tr>
+    <th width="50px"> monster </th>
+    <td> Cythris </td>
+    <td> Lyfris </td>
+    <td> Syndris </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/monsters/Cythris.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Lyfris.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Syndris.png"> </td>
+  </tr>
+  <tr>
+    <th> effect </th>
+    <td> banish a ‘Darquess’ Spell/Trap from your Deck </td>
+    <td> Set a banished ‘Darquess’ Spell/Trap </td>
+    <td> mill a ‘Darquess’ monster </td>
+  </tr>
+</table>
 
 ### Level 9
 
