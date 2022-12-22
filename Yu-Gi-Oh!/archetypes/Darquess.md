@@ -20,9 +20,9 @@ Additionally, each has an effect to search another card upon being Summoned, whi
 <table>
   <tr>
     <th width="50px"> monster </th>
-    <td> Aiza </td>
-    <td> Azia </td>
-    <td> Zaia </td>
+    <td align="center"> Aiza </td>
+    <td align="center"> Azia </td>
+    <td align="center"> Zaia </td>
   </tr>
   <tr>
     <th> card </th>
@@ -54,9 +54,9 @@ Each also has an effect to search a Ritual-related card by banishing a card from
 <table>
   <tr>
     <th width="50px"> monster </th>
-    <td> Cythris </td>
-    <td> Lyfris </td>
-    <td> Syndris </td>
+    <td align="center"> Cythris </td>
+    <td align="center"> Lyfris </td>
+    <td align="center"> Syndris </td>
   </tr>
   <tr>
     <th> card </th>
@@ -84,9 +84,9 @@ The 3 Level 9 monsters have 2700 ATK, and serve as powerful interrupts or sacrif
 <table>
   <tr>
     <th width="50px"> monster </th>
-    <td> Hykarice </td>
-    <td> Kyralice </td>
-    <td> Vyktica </td>
+    <td align="center"> Hykarice </td>
+    <td align="center"> Kyralice </td>
+    <td align="center"> Vyktica </td>
   </tr>
   <tr>
     <th> card </th>
@@ -112,15 +112,15 @@ Each monster then has a continuous floodgate effect, an ignition effect involvin
 <table>
   <tr>
     <th width="50px"> monster </th>
-    <td> Raiza </td>
-    <td> Laiza </td>
-    <td> Vaiza </td>
+    <td align="center"> Raiza </td>
+    <td align="center"> Laiza </td>
+    <td align="center"> Vaiza </td>
   </tr>
   <tr>
     <th> card </th>
-    <td align="center"> <img src="../../.assets/cards/ritual/Raiza.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/ritual/Laiza.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/ritual/Vaiza.png"> </td>
+    <td> <img src="../../.assets/cards/ritual/Raiza.png"> </td>
+    <td> <img src="../../.assets/cards/ritual/Laiza.png"> </td>
+    <td> <img src="../../.assets/cards/ritual/Vaiza.png"> </td>
   </tr>
   <tr>
     <th> continuous </th>
