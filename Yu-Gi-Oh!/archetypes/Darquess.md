@@ -198,6 +198,13 @@ The archetypal Ritual Spell is [Darquess Rising](../cards/spells/ritual/Darquess
 
 | card | Type |
 | :--- | :--- |
+| [Allure of Darquess](../cards/spells/–/–.md) | |
+| [Coven of Darquess](../cards/spells/–/–.md) | ∞ Continuous |
+| [Prophecy of Darquess](../cards/spells/–/–.md) | |
+| [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md) | ◈ Ritual |
+| [Realm of Darquess](../cards/spells/field/Realm%20of%20Darquess.md) | ✦ Field |
+| [Rites of Darquess](../cards/spells/–/–.md) | |
+| [Temptation of Darquess](../cards/spells/–/–.md) | |
 | [–](../cards/spells/–/–.md) | – |
 
 </details>
