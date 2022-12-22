@@ -52,7 +52,12 @@
 
 | aspect | type | name | notes |
 | :----- | :--- | :--- | :---- |
-| Must be Ritual Summoned by a 'Darquess' card. If this card is Ritual Summoned: You can Set 1 'Darquess' Trap from your Deck. Neither player can Normal Summon non-DARK monsters. Each time you take damage, you can banish the top card of your opponent's Deck, face-down. Once per turn: You can banish 1 DARK monster from either player's field or Graveyard. You can only control 1 'Raiza, Sorceress of Darquess'. |
+| Must be Ritual Summoned by a 'Darquess' card. | condition | | No Drytron hacking please |
+| If this card is Ritual Summoned: You can Set 1 'Darquess' Trap from your Deck. | trigger | | |
+| Neither player can Normal Summon non-DARK monsters. | continuous | | |
+| Each time you take damage, you can banish the top card of your opponent's Deck, face-down. | unclassed | | |
+| Once per turn: You can banish 1 DARK monster from either player's field or Graveyard. | ignition | | |
+| You can only control 1 'Raiza, Sorceress of Darquess'. | condition | | |
 
 
 <br>
