@@ -17,11 +17,28 @@ Additionally, each has a once-per-turn effect to search another card upon being 
 
 > If this card is Summoned: You can [...], and if you do, take 700 damage.
 
-| card | monster | effect |
-| :--- | :------ | :----- |
-| ![Aiza](../../.assets/cards/monsters/Aiza.png) | Aiza |  |
-| ![Azia](../../.assets/cards/monsters/Azia.png) | Azia | |
-| ![Zaia](../../.assets/cards/monsters/Zaia.png) | Zaia | |
+<table>
+  <tr>
+    <th> card </th>
+    <th> monster </th>
+    <th> effect </th>
+  </tr>
+  <tr>
+    <td> Aiza </td>
+    <td> <img src="../../.assets/cards/monsters/Aiza.png"> </td>
+    <td> banish a ‘Darquess’ Spell/Trap from your Deck </td>
+  </tr>
+  <tr>
+    <td> Azia </td>
+    <td> <img src="../../.assets/cards/monsters/Azia.png"> </td>
+    <td> Set a banished ‘Darquess’ Spell/Traps </td>
+  </tr>
+  <tr>
+    <td> Zaia </td>
+    <td> <img src="../../.assets/cards/monsters/Zaia.png"> </td>
+    <td> mill a ‘Darquess’ monster </td>
+  </tr>
+</table>
 
 ### Level 7
 This self-dealt damage triggers the effects of the 3 Level 7 monsters, which are simliarly non-once-per-turn.
