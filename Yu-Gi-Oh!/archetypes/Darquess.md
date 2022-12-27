@@ -208,36 +208,36 @@ Many opening and searching cards that would usually be Spells are instead Traps,
   </tr>
 </table>
 
-Otherwise of note are the 4 Continuous Traps, which provide the Ritual monsters with protection or hinder the opponent, while either damaging the opponent or recovering life points. They also have the useful effect to recover another banished ‘Darquess’ Spell/Trap when banished themselves, allowing for efficient recycling or excellent banish targets.
+Otherwise of note are the 4 Continuous Traps, which provide the Ritual monsters with protection or hinder the opponent, while draining life points. They also have the useful effect to recover another banished ‘Darquess’ Spell/Trap when banished themselves, allowing for efficient recycling or excellent banish targets.
 
 <table>
   <tr>
     <th width="42px"> Trap </th>
     <th align="center"> Magnificence </th>
     <th align="center"> Perfection </th>
-    <th align="center"> Corruption </th>
     <th align="center"> Nightmare </th>
+    <th align="center"> Corruption </th>
   </tr>
   <tr>
     <th> card </th>
     <td> <img src="../../.assets/cards/traps/Magnificence of Darquess.png"> </td>
     <td> <img src="../../.assets/cards/traps/Perfection of Darquess.png"> </td>
-    <td> <img src="../../.assets/cards/traps/Corruption of Darquess.png"> </td>
     <td> <img src="../../.assets/cards/traps/Nightmare of Darquess.png"> </td>
+    <td> <img src="../../.assets/cards/traps/Corruption of Darquess.png"> </td>
   </tr>
   <tr>
-    <th> effect </th>
+    <th> protection / floodgate </th>
     <td> battle and monster effect destruction </td>
-    <td> Spell/Trap effects </td>
-    <td> opponent’s monsters’ names become <em>Corrupted of Darquess</em> </td>
+    <td> Spell/Trap effects and targeting </td>
     <td> opponent skips their Main Phase 1 </td>
+    <td> names of opponent’s DARK monsters become <em>Corrupted of Darquess</em> </td>
   </tr>
   <tr>
-    <th> other </th>
-    <td> +350 LP each time your opponent places a card on the field </td>
-    <td> +350 LP each time your opponent activates a card effect </td>
-    <td> inflict 350 damage each time your opponent activates a card effect </td>
-    <td> inflict 350 damage each time your opponent places a card on the field </td>
+    <th> drain </th>
+    <td> +350 LP each time opponent activates a card or effect </td>
+    <td> +350 LP each time opponent places a card on the field </td>
+    <td> inflict 350 damage each time opponent places a card on the field </td>
+    <td> inflict 350 damage each time opponent activates a card effect </td>
   </tr>
 </table>
 
