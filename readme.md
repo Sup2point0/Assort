@@ -3,6 +3,7 @@
 An assortion of my various cryzacions.
 
 
+<br>
 
 
 ## Portal
@@ -16,11 +17,13 @@ Unsure where to start? Try checking out some of these!
 
 ### Files
 [xeriques](xeriques.md)  
+[Darquess](Yu-Gi-Oh!/archetypes/Darquess.md)  
 [koniokinetis](affine/affinitys/koniokinetis.md)  
-[Tekk-Knight](Yu-Gi-Oh!/archetypes/Tekk-Knight.md)  
 [Darkchoke Curse](affine/spells/asphyxiskotadi.md)  
 [Ultraman Infinity](Ultraman/Ultraman%20Infinity.md)  
-[Myriad Manifestation Trident](Myriad%20Manifestation%20Trident.md)  
+
+
+<br>
 
 
 ## Tiers
@@ -49,6 +52,9 @@ The tiers used in [favourites](~lists/favourites).
     <td> – </td>
   </tr>
 </table>
+
+
+<br>
 
 
 ## Spectrus
