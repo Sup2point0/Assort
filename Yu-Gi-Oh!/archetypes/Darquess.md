@@ -1,6 +1,6 @@
 # Darquess
 
-An archetype of DARK and protively Spellcaster monsters, focusing on Ritual and Fusion Summoning through the unique Ritual and Fusion Spell [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md), as well as banishing cards and dealing damage to the player. All monsters have 0 DEF, with the lower Level monsters searching out the other cards in the archetype, and the higher Level monsters acting as powerful counters and floodgates.
+An archetype of DARK and protively Spellcaster monsters, focusing on Ritual and Fusion Summoning through the unique Ritual and Fusion Spell [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md), as well as banishing cards and dealing damage to the player themselves. All monsters have 0 DEF, with the lower Level monsters searching out the other cards in the archetype, and the higher Level monsters acting as powerful counters and floodgates.
 
 
 <br>
@@ -13,7 +13,7 @@ The 3 Level 4 monsters have 1900 ATK and share the following effect, which can b
 
 > If another card is banished (even during the Damage Step): You can Special Summon this card from your hand or Graveyard, or add this banished card to your hand.
 
-Additionally, each has an effect to search another card upon being Summoned, which also deals damage to the player.
+Additionally, each has an effect to search another card upon being Summoned, which also deals damage to the player themselves.
 
 > If this card is Summoned: You can [...], and if you do, take 700 damage.
 
@@ -39,11 +39,11 @@ Additionally, each has an effect to search another card upon being Summoned, whi
 </table>
 
 ### Level 7
-This self-dealt damage allows the 3 Level 7 monsters to be Summoned, which have 2300 ATK.
+This self-dealt damage allows the 3 Level 7 monsters to be Summoned, which each have 2300 ATK.
 
 > If either player takes damage (even during the Damage Step): You can Special Summon this card from your hand or Graveyard, and if you do, you can increase this card’s Level by 1 for every 100 damage taken.
 
-Upon being Summoned, each has a specialyzed form of removal.
+Upon being Summoned, each has a specialyzed form of removal:
 
 > If this card is Summoned: You can banish 1 [...].
 
@@ -89,7 +89,7 @@ Hykarice and Kyralice share the following effects:
 
 > If another ‘Darquess’ monster leaves the field: You can add this banished card to your hand, and if you do, take 700 damage.
 
-Vyktica is slightly different, instead being able to Tribute an opponent’s monster, but can only banish itself from the field to banish another monster (without negating), and only recovers when an ace monster leaves the field.
+Vyktica is slightly different, instead being able to Tribute an opponent’s monster, but can only banish itself from the field to banish another monster (without negating), and only retrieves itself when an ace monster leaves the field.
 
 <table>
   <tr>
@@ -113,7 +113,7 @@ Vyktica is slightly different, instead being able to Tribute an opponent’s mon
 </table>
 
 ### Level 13 Ritual
-The 3 Ritual monsters are each Level 13 with 3000 ATK, sharing the following effects.
+The 3 Ritual monsters are each Level 13 with 3000 ATK, sharing the following effects:
 
 > Must be Ritual Summoned by a ‘Darquess’ card. If this card is Ritual Summoned: You can Set 1 ‘Darquess’ Trap from your Deck.
 
@@ -153,6 +153,7 @@ Each monster then has a continuous floodgate effect, an ignition effect involvin
 </table>
 
 ### Level 13 Fusion
+The 3 main Level 13 Fusion monsters each have 3300 ATK, requiring 2 of the 3 Ritual monsters as material. They feature a powerful floodgate effect of their own, while sharing the following effect:
 
 > If this card is targeted for an attack or by a card effect (Quick Effect): You can make 1 other DARK monster on the field become the target instead.
 
@@ -180,7 +181,7 @@ Each monster then has a continuous floodgate effect, an ignition effect involvin
 ### Spells
 The archetypal Field Spell is [Realm of Darquess](../cards/spells/field/Realm%20of%20Darquess.md), which provides the critical conditions for the rest of the archetype to function effectively.
 
-The archetypal Ritual Spell is [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md), which has both ATK and Level requirements.
+The archetypal Ritual and Fusion Spell is [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md), which can both be used to Ritual Summon the Main Deck Ritual monsters, or Fusion Summon the Extra Deck Fusion monsters.
 
 <table>
   <tr>
@@ -190,6 +191,53 @@ The archetypal Ritual Spell is [Darquess Rising](../cards/spells/ritual/Darquess
   <tr>
     <td> <img src="../../.assets/cards/spells/Darquess Rising.png"> </td>
     <td> <img src="../../.assets/cards/spells/Realm of Darquess.png"> </td>
+  </tr>
+</table>
+
+### Traps
+Many opening and searching cards that would usually be Spells are instead Traps, some of which have the ability to be activated from the hand by taking damage. Most important of all are the 2 monster and Spell/Trap searchers, [Awakening of Darquess]() and [Runes of Darquess](), which can also search the Field Spell if it is not already active.
+
+<table>
+  <tr>
+    <th align="center"> Awakening </th>
+    <th align="center"> Runes </th>
+  </tr>
+  <tr>
+    <td> <img src="../../.assets/cards/spells/Awakening of Darquess.png"> </td>
+    <td> <img src="../../.assets/cards/spells/Runes of Darquess.png"> </td>
+  </tr>
+</table>
+
+Otherwise of note are the 4 Continuous Traps, which provide the Ritual monsters with protection or hinder the opponent, while either damaging the opponent or recovering life points. They also have the useful effect to recover another banished ‘Darquess’ Spell/Trap when banished themselves, allowing for efficient recycling or excellent banish targets.
+
+<table>
+  <tr>
+    <th width="42px"> Trap </th>
+    <th align="center"> Magnificence </th>
+    <th align="center"> Perfection </th>
+    <th align="center"> Corruption </th>
+    <th align="center"> Nightmare </th>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td> <img src="../../.assets/cards/traps/Magnificence of Darquess.png"> </td>
+    <td> <img src="../../.assets/cards/traps/Perfection of Darquess.png"> </td>
+    <td> <img src="../../.assets/cards/traps/Corruption of Darquess.png"> </td>
+    <td> <img src="../../.assets/cards/traps/Nightmare of Darquess.png"> </td>
+  </tr>
+  <tr>
+    <th> effect </th>
+    <td> battle and monster effect destruction </td>
+    <td> Spell/Trap effects </td>
+    <td> opponent’s monsters’ names become <em>Corrupted of Darquess</em> </td>
+    <td> opponent skips their Main Phase 1 </td>
+  </tr>
+  <tr>
+    <th> other </th>
+    <td> +350 LP each time your opponent places a card on the field </td>
+    <td> +350 LP each time your opponent activates a card effect </td>
+    <td> inflict 350 damage each time your opponent activates a card effect </td>
+    <td> inflict 350 damage each time your opponent places a card on the field </td>
   </tr>
 </table>
 
