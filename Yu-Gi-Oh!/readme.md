@@ -17,7 +17,7 @@
 | [Arcana](https://duelingbook.com/deck?id=12012335) | All | [Tekk-Knight](archetypes/Tekk-Knight.md), [Ark-Knight](archetypes/Ark-Knight.md) + [World Affinity](archetypes/World%20Affinity.md) | |
 | [**Darquessence**](https://duelingbook.com/deck?id=12053993) | Ritual, Fusion | [Darquess](archetypes/Darquess.md) | |
 | [Antarctron]() | Accel Synchro | [Antarctron](archetypes/Antarctron.md) | |
-| [Stranded]() | Fusion | [Stranded](archetypes/Stranded.md) | |
+| [Stranded](https://duelingbook.com/deck?id=12190377) | Fusion | [Stranded](archetypes/Stranded.md) | parody of ‘Branded’ |
 | [Vyrux](https://duelingbook.com/deck?id=11560225) | Fusion, Xyz | [Virus](archetypes/Virus.md) + [Dead-Eyes](archetypes/Dead-Eyes.md) | |
 | [Chemix](https://duelingbook.com/deck?id=12188545) | Gemini | Chemicool, Chemikalamity, Chemikaze | |
 | [Led]() | | joke |
