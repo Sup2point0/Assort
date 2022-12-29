@@ -19,6 +19,7 @@
 | [Antarctron]() | Accel Synchro | [Antarctron](archetypes/Antarctron.md) | |
 | [Stranded]() | Fusion | [Stranded](archetypes/Stranded.md) | |
 | [Vyrux](https://duelingbook.com/deck?id=11560225) | Fusion, Xyz | [Virus](archetypes/Virus.md) + [Dead-Eyes](archetypes/Dead-Eyes.md) | |
+| [Chemix](https://duelingbook.com/deck?id=12188545) | Gemini | Chemicool, Chemikalamity, Chemikaze | |
 | [Led]() | | joke |
 | [Ultra](https://duelingbook.com/deck?id=11509638) | Fusion | [CREW GUYS](archetypes/GUYS.md), [METEOR](archetypes/METEOR.md) + [Ultraman](archetypes/Ultraman.md) | |
 | [Bananas](https://duelingbook.com/deck?id=12097955) | All | Bloons TD 6 | |
