@@ -27,6 +27,8 @@ Yep, I collect quotes.
 
 ***The mind is not a vessel to be filled but a fire to be kindled.***
 
+***How inappropriate to call this Planet Earth when it is quite clearly ocean.***
+
 ***You can’t be brave if you’re not scared.***
 
 ***Opportunities multiply as they are seized.***
