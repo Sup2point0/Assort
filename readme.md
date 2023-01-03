@@ -12,7 +12,7 @@ Unsure where to start? Try checking out some of these!
 
 ### Folders
 [affine](affine)  
-[Yu-Gi-Oh!](Yu-Gi-Oh!)
+[Yu-Gi-Oh!](Yu-Gi-Oh!)  
 [kenzokinetics](kenzokinetics)  
 [Ascense](Ascense)  
 
