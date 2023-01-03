@@ -107,3 +107,25 @@ Assorted favourite soundtracks from games, movies, series and all.
 
 
 <br>
+
+
+## Guilty Pleasures
+
+| artist | track | notes |
+| :----- | :---- | :---- |
+| Alcazar – Crying at the Discoteque | | |
+| Avril Lavigne – Complicated | | |
+| Avril Lavigne – sk8ter boi | | |
+| Cam Kelley – Sketch Plane | | |
+| Elton John & Dua Lipa – Cold Heart | | |
+| Fountains of Wayne – Stacy’s Mom | | |
+| Idina Menzel – Let It Go | | the instrumental, specifically :P |
+| Mabel – Mad Love | | |
+| My Little Pony – Better Than Ever | | |
+| Olly Murs – Troublemaker | | |
+| Rick Springfield – Jessie’s Girl | | |
+| Rita Ora – Your Song | | |
+| Shawn Mendes – Stitches | | |
+| Shawn Mendes & Camila Cabello – Señorita | | |
+| Taylor Swift – Trouble | | |
+| Taylor Swift – Blank Space | | |
