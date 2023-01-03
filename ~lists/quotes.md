@@ -57,4 +57,4 @@ Yep, I collect quotes.
 
 ***I would like to die on Mars. Just not on impact.***
 
-***Never forget that the toes you step on today may be connected to the ass you have to kiss tomorro.***
+***Never forget that the toes you step on today may be connected to the ass you have to kiss tomorrow.***
