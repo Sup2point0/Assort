@@ -121,4 +121,4 @@ Every favourite thing you could ever imagine (eventually).
 | human aspect | voice | |
 | human feature | eyes <br> hair | |
 | scent | apple <br> aloe | |
-| tree | alder | |
+| tree | eucalyptus <br> sycamore <br> alder | |
