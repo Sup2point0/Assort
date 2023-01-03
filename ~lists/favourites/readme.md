@@ -23,16 +23,16 @@ Every favourite thing you could ever imagine (eventually).
 | farewell | ‘cya’ <br> ‘gbye’ | |
 | feeling | nostalgia <br> satisfaction | |
 | film | *Spider-Man: Homecoming* | [view more](films.md) |
-| greeting | ‘sup’ | ‘heyo’ |
-| hair colour | black | red <br> deep blue if you really feel like dying it |
+| greeting | ‘sup’ | ‘heyo’ <br> ‘suppety sup’ |
+| hair colour | black | red <br> deep blue if you really feel like dyeing it |
 | hair type | straight and silky | |
 | holiday | April Fools’ | |
 | instrument | synthesyzer | piano <br> drums |
 | month | September <br> April | |
 | music artist | Elektronomia | [view more](music.md) |
-| music genre | electronic dance music | epic music |
+| music genre | electronic dance music | epic cinematic music |
 | school subject | Computer Science | Chemistry |
-| shape | hexagon | rhombus <br> kite |
+| shape | hexagon | rhombus <br> kite <br> triangle |
 | signature | ‘yours sincerely’ | |
 | social media | Discord <br> reddit | |
 | sport | tennis | rollerblading |
@@ -84,7 +84,7 @@ Every favourite thing you could ever imagine (eventually).
 | category | favourite | favourites |
 | :------- | :-------- | :--------- |
 | art | modern flat vector | |
-| aspect ratio | 16:9 |
+| aspect ratio | 16:9 | |
 | biology field | immunology <br> genetics | |
 | car | Lamborghini Aventador SV | [view more](cars.md) |
 | chemical formula | skeletal | |
@@ -97,10 +97,10 @@ Every favourite thing you could ever imagine (eventually).
 | laptop | Dell XPS | |
 | lowercase letter | `i`, `q` | |
 | mainstream subreddit | r/showerthoughts | |
-| mathematician | Euclid | |
+| mathematician | Euclid | Laplace |
 | mathematics field | geometry | complex numbers |
 | military division | air | navy |
-| musical key | C# major | D major <br> F# major |
+| musical key | C# major | D major <br> F# major <br> A major |
 | Microsoft Office application | Microsoft PowerPoint (2016) | |
 | Minecraft wood type | stripped oak | stripped birch <br> oak wood |
 | phone | iPhone SE (2016) | iPhone SE (2020) <br> iPhone 5s |
