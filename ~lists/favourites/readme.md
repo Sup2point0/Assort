@@ -88,6 +88,7 @@ Every favourite thing you could ever imagine (eventually).
 | biology field | immunology <br> genetics | |
 | car | Lamborghini Aventador SV | [view more](cars.md) |
 | chemical formula | skeletal | |
+| chemist | Antoine Lavoisier | |
 | chemistry field | organic chemistry | biochemistry |
 | chess opening | Ruy Lopez | Sicilian Defence – Accelerated Dragon |
 | internet domain | `.dev` | `.it` |
