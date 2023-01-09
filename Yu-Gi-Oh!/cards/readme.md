@@ -9,8 +9,9 @@ All the custom cards I’ve cryzen.
 [Ninjato](monsters/standard/Ninjato.md)  
 
 ### Ritual
+[Laiza, Enchantress of Darquess](monsters/ritual/Laiza.md)  
 [Next-Gen Sky Dragon of Osiris](monsters/ritual/Next-Gen%20Sky%20Dragon%20of%20Osiris.md)  
-[Raiza, Enchantress of Darquess](monsters/ritual/Raiza.md)  
+[Raiza, Sorceress of Darquess](monsters/ritual/Raiza.md)  
 
 ### Fusion
 [Screaming Venom Fusion Dragon](monsters/fusion/Screaming%20Venom%20Fusion%20Dragon.md)
