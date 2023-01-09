@@ -10,9 +10,10 @@ All the custom cards I’ve cryzen.
 
 ### Ritual
 [Next-Gen Sky Dragon of Osiris](monsters/ritual/Next-Gen%20Sky%20Dragon%20of%20Osiris.md)  
+[Raiza, Enchantress of Darquess](monsters/ritual/Raiza.md)  
 
 ### Fusion
-[Raiza the Empress of Darkness](monsters/fusion/Raiza.md)  
+[Screaming Venom Fusion Dragon](monsters/fusion/Screaming%20Venom%20Fusion%20Dragon.md)
 [Vengeance Vanguard](monsters/fusion/Vengeance%20Vanguard.md)  
 [XYZ-Gen Cyber Crush Overdragon](monsters/fusion/XYZ-Gen%20Cyber%20Crush%20Overdragon.md)  
 
@@ -23,10 +24,7 @@ All the custom cards I’ve cryzen.
 [Soul Slayer](monsters/synchro/Soul%20Slayer.md)  
 
 ### Xyz
-[Next-Gen Raidraptor Rise Falcon](monsters/xyz/Next-Gen%20Raidraptor%20Rise%20Falcon.md)  
-[Next-Gen Raidraptor Rebel Falcon](monsters/xyz/Next-Gen%20Raidraptor%20Rebel%20Falcon.md)  
-[Next-Gen Raidraptor Revolution Falcon](monsters/xyz/Next-Gen%20Raidraptor%20Revolution%20Falcon.md)  
-[Next-Next-Next-Next-Next-Next-Gen Cyber Dragon](monsters/xyz/Next-Next-Next-Next-Next-Next-Gen%20Cyber%20Dragon.md)
+[Next-Gen Dark Rebellion Xyz Dragon](monsters/xyz/Next-Gen%20Dark%20Rebellion%20Xyz%20Dragon)
 
 ### Pendulum
 [Arcane Battlemage](monsters/pendulum/Arcane%20Battlemage.md)  
