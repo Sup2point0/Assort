@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td> material </td>
-    <td> see <a href="../../spells/ritual/Darquess Rising.md">Darquess Rising</a> </td>
+    <td> see <a href="../../spells/Darquess Rising.md">Darquess Rising</a> </td>
   </tr>
   <tr>
     <td> special </td>
