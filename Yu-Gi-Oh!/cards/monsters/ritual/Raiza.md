@@ -48,9 +48,9 @@
 <br>
 
 
-## Aspects
+## Effects
 
-| aspect | type | name | notes |
+| effect | type | name | notes |
 | :----- | :--- | :--- | :---- |
 | Must be Ritual Summoned by a 'Darquess' card. | condition | | No Drytron hacking please |
 | If this card is Ritual Summoned: You can Set 1 'Darquess' Trap from your Deck. | trigger | | |
