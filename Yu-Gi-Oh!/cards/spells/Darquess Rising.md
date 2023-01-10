@@ -8,7 +8,7 @@
     <th colspan="3"> <h3> Darquess Rising </h3> </th>
   </tr>
   <tr>
-    <td rowspan="3"> <img src="../../../.assets/cards/spells/Darquess Rising.png" width="320px"> </td>
+    <td rowspan="4"> <img src="../../../.assets/cards/spells/Darquess Rising.png" width="320px"> </td>
   </tr>
   <tr>
     <td> type </td>
