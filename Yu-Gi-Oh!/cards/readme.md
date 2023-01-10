@@ -3,10 +3,14 @@
 All the custom cards I’ve cryzen.
 
 
-## Index
+<br>
+
+
+## Monsters
 
 ### Standard
 [Ninjato](monsters/standard/Ninjato.md)  
+[Silent Assassin](monsters/standard/Silent%20Assassin.md)  
 
 ### Ritual
 [Laiza, Enchantress of Darquess](monsters/ritual/Laiza.md)  
@@ -33,3 +37,18 @@ All the custom cards I’ve cryzen.
 ### Link
 [Next-Gen XYZ-Dragon Crush Cannon](monsters/link/Next-Gen%20XYZ-Dragon%20Crush%20Cannon.md)  
 [Unspecialyzed](monsters/link/Unspecialyzed.md)  
+
+
+<br>
+
+
+## Spells
+
+
+<br>
+
+
+## Traps
+
+### Counter
+[Victory in Vengeance](Victory%20in%20Vengeance.md)  
