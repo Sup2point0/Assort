@@ -9,4 +9,4 @@ I swear, *how* does this keep on happening!? How weak is the lead? I’ve used a
 ### Rubber creases paper.
 It is inevitable. And it is just the worst.
 
-### Runny nose for several days when even slightly chilled.
+### A runny nose for several days when even slightly chilled.
