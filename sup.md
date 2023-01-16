@@ -82,6 +82,7 @@
 
 ## Games
 
+<img src=".assets/sup/masterduel.png" width="360px">
 <img src=".assets/sup/bloons.png" width="360px"> <img src=".assets/sup/Pop.png" width="360px">
 <img src=".assets/sup/Soul.png" width="360px">
 
@@ -104,4 +105,3 @@
 ## Miscellaneous
 
 <img src=".assets/sup/Wikia.png" width="360px"> <img src=".assets/sup/Monkeyopolis.png" width="360px">
-<img src=".assets/sup/duelist.png" width="360px">
