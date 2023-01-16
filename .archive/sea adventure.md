@@ -3,6 +3,7 @@
 Monster Forest  
 Sky Savannah  
 Doom Desert  
+
 Stalactite Cavern  
 Ice Spikes Mountains  
 Crusty Coast  
