@@ -332,4 +332,4 @@ Otherwise of note are the 4 Continuous Traps, which provide the Ritual monsters 
 
 ## Trivia
 
-‘’ ◈ ⚡︎ ∞ ✦ ↵ ▯ ▮
+- This entire archetype was born from [Raiza](../cards/monsters/ritual/Raiza.md), a childhood card I created.
