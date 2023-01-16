@@ -1,6 +1,6 @@
 # Dictionary
 
-All the fictive words I’ve created.
+All the fictive words I’ve cryzen.
 
 
 <br>
