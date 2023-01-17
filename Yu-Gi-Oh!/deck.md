@@ -37,6 +37,7 @@ My absolute favourite deck of all time. Despite having 8 Ritual monsters, single
 | [Drytron Meteonis Quadrantids](https://yugipedia.com/wiki/Drytron_Meteonis_Quadrantids) | x1 | |
 | [Amorphactor Pain, the Imagination Dracoverlord](https://yugipedia.com/wiki/) | x1 | |
 | [Odd-Eyes Gravity Dragon](https://yugipedia.com/wiki/) | x1 | |
+| [Blue-Eyes Chaos MAX Dragon]() | x1 | Super versatile against decks that just can’t handle both targeting and destruction immunity *and* high ATK – Labrynth, Runick, even Eldlitch. |
 | [White Relic of Dogmatika](https://yugipedia.com/wiki/White_Relic_of_Dogmatika) | x1 | |
 | [White Knight of Dogmatika](https://yugipedia.com/wiki/White_Knight_of_Dogmatika) | x1 | |
 | [White Zoa of Dogmatika](https://yugipedia.com/wiki/White_Zoa_of_Dogmatika) | x1 | |
@@ -87,7 +88,9 @@ My absolute favourite deck of all time. Despite having 8 Ritual monsters, single
 
 | card | copies | notes |
 | :--- | :----- | :---- |
-| [Maxx C]() | x1 | Just there if my opponent wants to take up the Maxx C challenge, only 1 tho since it’s a really mean handtrap tho. |
+| [Maxx "C"]() | x1 | Just there if my opponent wants to take up the Maxx C challenge, only 1 tho since it’s a really mean handtrap tho. |
+| [Droll & Lock Bird]() | x1 | Can’t use it against Maxx C since it literally locks myself, but searchable with *Where Arf Thou?* and shuts some decks down nicely. Also quite a mean handtrap. |
 | [Infinite Impermanence]() | x1 | Why only 1, I know. |
+| [Waking the Dragon]() | x1 | Not a staple, I know. Yet the amount of times this has worked and saved me by bringing out Ultimate Falcon or Infinitrack Megaclops is staggering. |
 
 </details>
