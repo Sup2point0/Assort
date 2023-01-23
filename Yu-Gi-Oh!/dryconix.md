@@ -1,5 +1,13 @@
 # Dryconix
 
+My absolute favourite deck of all time. Despite having 9 Ritual monsters, single copies of unconventional handtraps, and over *50* cards, it’s still surprisingly consistent, insanely versatile, and can definitely hold its own.
+
+
+<br>
+
+
+## Cards
+
 <table>
   <tr>
     <td> archetypes </td>
@@ -10,8 +18,6 @@
     <td> ~50 </td>
   </tr>
 </table>
-
-My absolute favourite deck of all time. Despite having 9 Ritual monsters, single copies of unconventional handtraps, and over *50* cards, it’s still surprisingly consistent, insanely versatile, and can definitely hold its own.
 
 ### Monsters
 
@@ -108,6 +114,10 @@ My absolute favourite deck of all time. Despite having 9 Ritual monsters, single
 
 </details>
 
+
+<br>
+
+
 ## Strategics
 
 There are kinda 2 versions of this deck – the *Master Duel* one without White Zoa or Dogmatikatrix, but Maxx C, and the ‘modern’ one with the protic and without the deutic.
@@ -127,4 +137,9 @@ White Zoa needs 3 cards to Ritual Summon – itself, Dogmatikamacabre, and a Dra
 Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards to search out all the Ritual Spells and monsters we need. Nadir Servant is great for searching any missing piece we need, and if we go second Dogmatikatrix can grab both White Zoa and Dogmatikamacabre all in one go, or even another copy of itself if we’ve already got one of those.
 
 
-<>
+<br>
+
+
+## Gameplay
+
+{...}
