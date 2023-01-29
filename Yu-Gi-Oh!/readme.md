@@ -10,7 +10,7 @@
 | :--- | :---- | :--------- | :---- |
 | [Essence](https://duelingbook.com/deck?id=11724812) | Fusion, Link, Pendulum | Ninjato, Manifestation Magic + Myriad Manifestation Umbrella | |
 | [**Vengeance**](https://duelingbook.com/deck?id=11423800) | Ritual, Synchro | [Soul](archetypes/Soul.md) | graveyard |
-| [Technetyx](https://duelingbook.com/deck?id=11617228) | All | [Next-Gen](archetypes/Next-Gen.md) [Cyber](archetypes/Next-Gen%20Cyber%20Dragon.md), [A-to-Z](archetypes/Next-Gen%20A-to-Z.md) + [Kinetic Warrior](archetypes/Kinetic%20Warrior.md) | |
+| [Technyx](https://duelingbook.com/deck?id=11617228) | All | [Next-Gen](archetypes/Next-Gen.md) [Cyber](archetypes/Next-Gen%20Cyber%20Dragon.md), [A-to-Z](archetypes/Next-Gen%20A-to-Z.md) + [Kinetic Warrior](archetypes/Kinetic%20Warrior.md) | |
 | [**Vapurion**](https://duelingbook.com/deck?id=11882083) | Rank-Up Xyz | [Vapour-Eyes](archetypes/Vapour-Eyes.md) + [Lightning](archetypes/lightning.md) | animesque ace |
 | [Astrix](https://duelingbook.com/deck?id=11963497) | Ritual, Ritual Link | Aquilyrynx + Delphoenix | |
 | [Cyburst](https://duelingbook.com/deck?id=11997304) | Link | [The Specialists](archetypes/The%20Specialists.md) + [Next-Gen Code Talker](archetypes/Next-Gen%20Code%20Talker.md) | link spam |
