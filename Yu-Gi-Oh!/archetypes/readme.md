@@ -22,6 +22,7 @@ All the archetypes of custom cards I’ve cryzen.
 &emsp; [Next-Gen A-to-Z](Next-Gen%20A-to-Z.md)  
 &emsp; [Next-Gen Code Talker](Next-Gen%20Code%20Talker.md)  
 &emsp; [Next-Gen Cyber Dragon](Next-Gen%20Cyber%20Dragon.md)  
+[Rubix](Rubix.md)  
 [Soul](Soul.md)  
 [Stranded](Stranded.md)  
 [Tekk-Knight](Tekk-Knight.md)  
