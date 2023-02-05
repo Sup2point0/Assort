@@ -17,8 +17,8 @@
 | [Arcana](https://duelingbook.com/deck?id=12012335) | All | [Tekk-Knight](archetypes/Tekk-Knight.md), [Ark-Knight](archetypes/Ark-Knight.md) + [World Affinity](archetypes/World%20Affinity.md) | swarming |
 | [**Darquessence**](https://duelingbook.com/deck?id=12053993) | Ritual, Fusion | [Darquess](archetypes/Darquess.md) | draining control |
 | [Antarctron](https://duelingbook.com/deck?id=12150091) | Accel Synchro | [Antarctron](archetypes/Antarctron.md) | |
-| [Stranded](https://duelingbook.com/deck?id=12190377) | Fusion | [Stranded](archetypes/Stranded.md) | parody of ‘Branded’ |
-| [Rubix](https://duelingbook.com/deck?id=12381789) | Synchro, Xyz, Link | [Rubic](Rubic.md) | |
+| [**Stranded**](https://duelingbook.com/deck?id=12190377) | Fusion | [Stranded](archetypes/Stranded.md) | parody of ‘Branded’ |
+| [**Rubix**](https://duelingbook.com/deck?id=12381789) | Synchro, Xyz, Link | [Rubic](Rubic.md) | |
 | [Vyrux](https://duelingbook.com/deck?id=11560225) | Fusion, Xyz | [Virus](archetypes/Virus.md) + [Dead-Eyes](archetypes/Dead-Eyes.md) | deadly trap |
 | [Chemix](https://duelingbook.com/deck?id=12188545) | Gemini | Chemicool, Chemikalamity, Chemikaze | |
 | [Led]() | | joke |
