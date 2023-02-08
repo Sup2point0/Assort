@@ -1,4 +1,4 @@
-# Rubix
+# Rubic
 
 An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoning, inspired by Rubik’s Cubes and trigonometry.
 
