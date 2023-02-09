@@ -104,7 +104,7 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 ## Trivia
 
 - There are several opposing Spell/Traps.
-  - [Rubic Algorithm](#Spells) searches a ‘Rubic’ card while [Rubic Scramble](#Traps) moves ‘Rubic’ cards for disruption; both can be searched by [Rubic Radian](#Extra%20Deck).
+  - [Rubic Algorithm](#Spells) searches a ‘Rubic’ card while [Rubic Scramble](#Traps) moves ‘Rubic’ cards for disruption; both can be searched by [Rubic Radian](#Monsters#Extra%20Deck).
   - When a ‘Rubic’ Spell/Trap moves, [Rubic Construction](...) spawns a Rubic Token, while [Rubic Destruction](...) destroys a card; both recover the other when banished.
 - Every Link monster’s ATK equals its Link Rating x 1000, except [Rubic Hexangle](...), who alters its own ATK to reach multiples of 600.
 
