@@ -108,11 +108,13 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 <details hide>
   <summary> <b> Names Trivia </b> </summary> <br>
 
-- All of the names within the archetype derive from trigonometric or speedcubing terms.
-  - The Level 3 Tuners, Level 6 Main Deck monsters, Synchro monsters, and Xyz monsters are all named after trigonometric functions.
-  - The Level 3 non-Tuners, Link monsters, and some Spell/Traps have names relating to geometrics.
-  - Most Spell/Traps take their names from speedcubing terms.
-    - [Dragonometry](...) is a portmanteau of ***dragon*** and *trigon**ometry***
+All of the names within the archetype derive from trigonometric or speedcubing terms.
+
+- The Level 3 Tuners, Level 6 Main Deck monsters, Synchro monsters, and Xyz monsters are all named after trigonometric functions.
+- The Level 3 non-Tuners, Link monsters, and some Spell/Traps have names relating to geometrics.
+- Most Spell/Traps take their names from speedcubing terms.
+  - [Rubic Dragonometry](...) is a portmanteau of *dragon* and *-ometry* in ‘trigonometry’.
+  - [Rubic Revenge](...) derives from the [Rubik’s Revenge](https://wikipedia.org/wiki/Rubik%27s_Revenge) (the 4x4x4 Rubik’s Cube).
 
 </details>
 
