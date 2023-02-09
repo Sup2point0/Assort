@@ -103,16 +103,21 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 
 ## Trivia
 
+<details open>
+  <summary> Numbers Trivia </summary> <br>
+
 - Numbers relating to trigonometrics and Rubik’s Cubes feature prominently throughout the archetype.
   - In particular, everything revolves around the number 3.
     - The Levels and Ranks of the Synchro and Xyz monsters are all multiples of 3.
     - The ATK/DEF of every monster is a multiple of 300.
     - The Ritual Spell [Rubic Dragonometry](...) requires banishing exactly 3 monsters from 3 different locations, whose total Levels equal a multiple of 3.
-  - The ATK/DEF of the Level 3 monsters total 900 (90° being a right angle).
-  - The ATK/DEF of the Level 6 monsters total 2700 (270° being the reflex of a right angle).
+  - The ATK/DEF of the Level 3 Main Deck monsters total 900 (90° being a right angle).
+  - The ATK/DEF of the Level 6 Main Deck monsters total 2700 (270° being the reflex of a right angle).
+
+</details>
+
 - All of the names within the archetype derive from trigonometric or speedcubing terms.
   - The Level 3 Tuners, Level 6 Main Deck monsters, Synchro monsters, and Xyz monsters are all named after trigonometric functions.
   - The Level 3 non-Tuners, Link monsters, and some Spell/Traps have names relating to geometrics.
-- Every Link monster’s ATK is its Link Rating x 1000, except [Rubic Hexangle](...), who alters its own ATK to reach multiples of 600.
-
-‘’ ° ◈ ⚡︎ ∞ ✦ ⟡ ↵ ▯ ▮
+  - Most Spell/Traps take their names from 
+- Every Link monster’s ATK equals its Link Rating x 1000, except [Rubic Hexangle](...), who alters its own ATK to reach multiples of 600.
