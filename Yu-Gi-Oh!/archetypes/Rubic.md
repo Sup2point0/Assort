@@ -104,9 +104,9 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 ## Trivia
 
 - There are several opposing Spell/Traps.
-  - [Rubic Algorithm](#Spells) searches a ‘Rubic’ card while [Rubic Scramble](#Traps) moves ‘Rubic’ cards for disruption; both can be searched by [Rubic Radian](#Monsters#Extra%20Deck).
-  - When a ‘Rubic’ Spell/Trap moves, [Rubic Construction](...) spawns a Rubic Token, while [Rubic Destruction](...) destroys a card; both recover the other when banished.
-- Every Link monster’s ATK equals its Link Rating x 1000, except [Rubic Hexangle](...), who alters its own ATK to reach multiples of 600.
+  - [Rubic Algorithm](#Spells) searches a ‘Rubic’ card while [Rubic Scramble](#Traps) moves ‘Rubic’ cards for disruption; both can be searched by [Rubic Radian](#Monsters).
+  - When a ‘Rubic’ Spell/Trap moves, [Rubic Construction](#Spells) spawns a Rubic Token, while [Rubic Destruction](#Traps) destroys a card; both recover the other when banished.
+- Every Link monster’s ATK equals its Link Rating x 1000, except [Rubic Hexangle](#Monsters), who alters its own ATK to reach multiples of 600.
 
 <details hide>
   <summary> <b> Names Trivia </b> </summary> <br>
@@ -115,10 +115,10 @@ All of the names within the archetype derive from trigonometric or speedcubing t
 
 - The Level 3 Tuners, Level 6 Main Deck monsters, Synchro monsters, and Xyz monsters are all named after trigonometric functions.
 - The Level 3 non-Tuners, Level 9 Ritual monster, Link monsters, and some Spell/Traps have names relating to geometrics.
-  - [Rubic Driangle](...) is a portmanteau of *dragon* and *triangle*.
+  - [Rubic Driangle](#Monsters) is a portmanteau of *dragon* and *triangle*.
 - Most Spell/Traps take their names from speedcubing terms.
-  - [Rubic Dragonometry](...) is a portmanteau of *dragon* and *-ometry* in ‘trigonometry’.
-  - [Rubic Revenge](...) derives from the [Rubik’s Revenge](https://wikipedia.org/wiki/Rubik%27s_Revenge) (the 4x4x4 Rubik’s Cube).
+  - [Rubic Dragonometry](#Spells) is a portmanteau of *dragon* and *-ometry* in ‘trigonometry’.
+  - [Rubic Revenge](#Traps) derives from the [Rubik’s Revenge](https://wikipedia.org/wiki/Rubik%27s_Revenge) (the 4x4x4 Rubik’s Cube).
 
 </details>
 
@@ -130,7 +130,7 @@ Numbers relating to trigonometrics and Rubik’s Cubes feature prominently throu
 - In particular, everything revolves around the number 3.
   - The Levels and Ranks of the Synchro and Xyz monsters are all multiples of 3.
   - The ATK/DEF of every monster is a multiple of 300.
-  - The Ritual Spell [Rubic Dragonometry](...) requires banishing exactly 3 monsters from 3 different locations, whose total Levels equal a multiple of 3.
+  - The Ritual Spell [Rubic Dragonometry](#Spells) requires banishing exactly 3 monsters from 3 different locations, whose total Levels equal a multiple of 3.
 - The ATK/DEF of the Level 3 Main Deck monsters total 900 (90° being a right angle).
 - The ATK/DEF of the Level 6 Main Deck monsters total 2700 (270° being the reflex of a right angle).
 
