@@ -103,8 +103,9 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 
 ## Trivia
 
-<details open>
+<details hide>
   <summary> <b> Numbers Trivia </b> </summary> <br>
+
 - Numbers relating to trigonometrics and Rubik’s Cubes feature prominently throughout the archetype.
   - In particular, everything revolves around the number 3.
     - The Levels and Ranks of the Synchro and Xyz monsters are all multiples of 3.
