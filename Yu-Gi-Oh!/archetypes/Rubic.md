@@ -116,6 +116,7 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 
 </summary>
 
+
 <details hide>
   <summary> <b> Numbers Trivia </b> </summary> <br>
 
