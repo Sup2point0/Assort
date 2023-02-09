@@ -114,8 +114,7 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
   - Most Spell/Traps take their names from speedcubing terms.
     - [Dragonometry](...) is a portmanteau of ***dragon*** and *trigon**ometry***
 
-</summary>
-
+</details>
 
 <details hide>
   <summary> <b> Numbers Trivia </b> </summary> <br>
