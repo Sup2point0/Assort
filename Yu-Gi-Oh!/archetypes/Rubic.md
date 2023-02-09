@@ -103,6 +103,19 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 
 ## Trivia
 
+- Every Link monster’s ATK equals its Link Rating x 1000, except [Rubic Hexangle](...), who alters its own ATK to reach multiples of 600.
+
+<details hide>
+  <summary> <b> Names Trivia </b> </summary> <br>
+
+- All of the names within the archetype derive from trigonometric or speedcubing terms.
+  - The Level 3 Tuners, Level 6 Main Deck monsters, Synchro monsters, and Xyz monsters are all named after trigonometric functions.
+  - The Level 3 non-Tuners, Link monsters, and some Spell/Traps have names relating to geometrics.
+  - Most Spell/Traps take their names from speedcubing terms.
+    - [Dragonometry](...) is a portmanteau of ***dragon*** and *trigon**ometry***
+
+</summary>
+
 <details hide>
   <summary> <b> Numbers Trivia </b> </summary> <br>
 
@@ -115,9 +128,3 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
   - The ATK/DEF of the Level 6 Main Deck monsters total 2700 (270° being the reflex of a right angle).
 
 </details>
-
-- All of the names within the archetype derive from trigonometric or speedcubing terms.
-  - The Level 3 Tuners, Level 6 Main Deck monsters, Synchro monsters, and Xyz monsters are all named after trigonometric functions.
-  - The Level 3 non-Tuners, Link monsters, and some Spell/Traps have names relating to geometrics.
-  - Most Spell/Traps take their names from 
-- Every Link monster’s ATK equals its Link Rating x 1000, except [Rubic Hexangle](...), who alters its own ATK to reach multiples of 600.
