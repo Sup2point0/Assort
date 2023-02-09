@@ -37,19 +37,19 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 
 | card | Level/Rank/Link | ATK/DEF | Type | material |
 | :--- | :-------------- | :------ | :--- | :------- |
-| [Rubic Versine](../cards/monsters/–/–.md) | 6 ★★★★★★ | 2400 / 1800 | Synchro | – |
-| [Rubic Vercosine](../cards/monsters/–/–.md) | 6 ★★★★★★ | 1800 / 2400 | Synchro Tuner | – |
-| [Rubic Haversine](../cards/monsters/–/–.md) | 9 ★★★★★★★★★ | 3000 / 2400 | Synchro | – |
-| [Rubic Arcsine](../cards/monsters/–/–.md) | 12 ★★★★★★★★★★★★ | 3600 / 2700 | Synchro | – |
-| [Rubic Exsecant](../cards/monsters/–/–.md) | 3 ★★★ | 2100 / 1500 | Xyz | – |
-| [Rubic Excosecant](../cards/monsters/–/–.md) | 6 ★★★★★★ | 2700 / 2100 | Xyz | – |
-| [Rubic Arcsecant](../cards/monsters/–/–.md) | 9 ★★★★★★★★★ | 3300 / 2700 | Xyz | – |
-| [Rubic Radian](../cards/monsters/–/–.md) | Link-1 | 1000 | Link | – |
-| [Rubic Diagonal](../cards/monsters/–/–.md) | Link-2 | 2000 | Link | – |
-| [Rubic Perpendicular](../cards/monsters/–/–.md) | Link-2 | 2000 | Link | – |
-| [Rubic Vertex](../cards/monsters/–/–.md) | Link-3 | 3000 | Link | – |
-| [Rubic Quadrangle](../cards/monsters/–/–.md) | Link-4 | 4000 | Link | – |
-| [Rubic Hexangle](../cards/monsters/–/–.md) | Link-6 | 600 | Link | – |
+| [Rubic Versine](../cards/monsters/–/–.md) | 6 ★★★★★★ | 2400 / 1800 | Synchro | 1 ‘Rubic’ Tuner + 1 ‘Rubic’ non-Tuner monster |
+| [Rubic Vercosine](../cards/monsters/–/–.md) | 6 ★★★★★★ | 1800 / 2400 | Synchro Tuner | 1 ‘Rubic’ Tuner + 1 ‘Rubic’ non-Tuner monster |
+| [Rubic Haversine](../cards/monsters/–/–.md) | 9 ★★★★★★★★★ | 3000 / 2400 | Synchro | 1+ ‘Rubic’ Tuners + 1+ ‘Rubic’ non-Tuner monsters |
+| [Rubic Arcsine](../cards/monsters/–/–.md) | 12 ★★★★★★★★★★★★ | 3600 / 2700 | Synchro | 1+ ‘Rubic’ Tuners + 1+ ‘Rubic’ non-Tuner monsters |
+| [Rubic Exsecant](../cards/monsters/–/–.md) | 3 ★★★ | 2100 / 1500 | Xyz | 2+ Level 3 ‘Rubic’ monsters |
+| [Rubic Excosecant](../cards/monsters/–/–.md) | 6 ★★★★★★ | 2700 / 2100 | Xyz | 2+ Level 6 ‘Rubic’ monsters |
+| [Rubic Arcsecant](../cards/monsters/–/–.md) | 9 ★★★★★★★★★ | 3300 / 2700 | Xyz | 2+ Level 9 ‘Rubic’ monsters |
+| [Rubic Radian](../cards/monsters/–/–.md) | Link-1 | 1000 | Link | 1 ‘Rubic’ monster |
+| [Rubic Diagonal](../cards/monsters/–/–.md) | Link-2 | 2000 | Link | 2 ‘Rubic’ monsters |
+| [Rubic Perpendicular](../cards/monsters/–/–.md) | Link-2 | 2000 | Link | 2 ‘Rubic’ monsters |
+| [Rubic Vertex](../cards/monsters/–/–.md) | Link-3 | 3000 | Link | 2 ‘Rubic’ monsters |
+| [Rubic Quadrangle](../cards/monsters/–/–.md) | Link-4 | 4000 | Link | 2 ‘Rubic’ monsters |
+| [Rubic Hexangle](../cards/monsters/–/–.md) | Link-6 | 600 | Link | 2 ‘Rubic’ monsters |
 
 </details>
 
@@ -60,6 +60,11 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 
 | card | Type |
 | :--- | :--- |
+| [Rubic Algorithm](../cards/spells/–/–.md) | |
+| [Rubic Permutation](../cards/spells/–/–.md) | |
+| [Rubic Solution](../cards/spells/–/–.md) | |
+| [Rubic Function](../cards/spells/–/–.md) | ⚡︎ Quick |
+| [Rubic Construction](../cards/spells/–/–.md) | ∞ Continuous |
 | [Rubic Plane](../cards/spells/–/–.md) | ✦ Field |
 | [Rubic Dragonometry](../cards/spells/–/–.md) | ⟡ Ritual |
 | [Rubic –](../cards/spells/–/–.md) | – |
@@ -73,7 +78,14 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 
 | card | Type |
 | :--- | :--- |
-| [–](../cards/traps/–/–.md) | – |
+| [Rubic Scramble](../cards/traps/–/–.md) | |
+| [Rubic Destruction](../cards/traps/–/–.md) | ∞ Continuous |
+| [Rubic Reset](../cards/traps/–/–.md) | |
+| [Rubic Revenge](../cards/traps/–/–.md) | |
+| [Rubic Rotation](../cards/traps/–/–.md) | |
+| [Rubic Inverse](../cards/traps/–/–.md) | ↵ Counter |
+| [Rubic Transverse](../cards/traps/–/–.md) | ↵ Counter |
+| [Rubic –](../cards/traps/–/–.md) | – |
 
 </details>
 
@@ -91,9 +103,16 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 
 ## Trivia
 
-- Numbers relating to trigonometry and Rubik’s Cubes feature prominently throughout the archetype.
+- Numbers relating to trigonometrics and Rubik’s Cubes feature prominently throughout the archetype.
+  - In particular, everything revolves around the number 3.
+    - The Levels and Ranks of the Synchro and Xyz monsters are all multiples of 3.
+    - The ATK/DEF of every monster is a multiple of 300.
+    - The Ritual Spell [Rubic Dragonometry](...) requires banishing exactly 3 monsters from 3 different locations, whose total Levels equal a multiple of 3.
   - The ATK/DEF of the Level 3 monsters total 900 (90° being a right angle).
   - The ATK/DEF of the Level 6 monsters total 2700 (270° being the reflex of a right angle).
+- All of the names within the archetype derive from trigonometric or speedcubing terms.
+  - The Level 3 Tuners, Level 6 Main Deck monsters, Synchro monsters, and Xyz monsters are all named after trigonometric functions.
+  - The Level 3 non-Tuners, Link monsters, and some Spell/Traps have names relating to geometrics.
 - Every Link monster’s ATK is its Link Rating x 1000, except [Rubic Hexangle](...), who alters its own ATK to reach multiples of 600.
 
 ‘’ ° ◈ ⚡︎ ∞ ✦ ⟡ ↵ ▯ ▮
