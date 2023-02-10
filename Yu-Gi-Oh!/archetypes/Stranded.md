@@ -29,8 +29,10 @@ An archetype of mainly DARK Cyberse monsters and supportive Spell/Traps, focusin
 
 | card | Level | ATK/DEF | Type | material |
 | :--- | :---- | :------ | :--- | :------- |
-| [Stranded Survivor](../cards/monsters/fusion/–.md) | 6 ★★★★★★ | – / – | Fusion | 1 LIGHT or DARK monster + *Stranded of Albaz* |
-| [Stranded Saviour](../cards/monsters/fusion/–.md) | 6 ★★★★★★★★ | – / – | Fusion | 1 Fusion/Synchro/Xyz/Link monster + *Stranded of Albaz* |
+| [Stranded Survivor](../cards/monsters/fusion/–.md) | 6 ★★★★★★ | – / – | Fusion | 1 LIGHT or DARK monster + 1 ‘Stranded’ monster |
+| [Stranded Saviour](../cards/monsters/fusion/–.md) | 6 ★★★★★★★★ | – / – | Fusion | 1 Fusion/Synchro/Xyz/Link monster + 1 ‘Stranded’ monster |
+| [Stranded Kraken](../cards/monsters/fusion/–.md) | n ★★★★★★★★★★★★ | – / – | Fusion | – |
+| [Stranded Drakon](../cards/monsters/fusion/–.md) | n ★★★★★★★★★★★★ | – / – | Fusion | – |
 | [Stranded –](../cards/monsters/fusion/–.md) | n ★★★★★★★★★★★★ | – / – | Fusion | – |
 
 </details>
@@ -43,7 +45,11 @@ An archetype of mainly DARK Cyberse monsters and supportive Spell/Traps, focusin
 | card | Type |
 | :--- | :--- |
 | [Catastropical Island of the Stranded](../cards/spells/–/–.md) | ✦ Field |
+| [Stranded Expectation](../cards/spells/–/–.md) | |
 | [Stranded Fusion](../cards/spells/–/–.md) | – |
+| [Stranded in Dread](../cards/spells/–/–.md) | ⚡︎ Quick |
+| [Stranded in Low Spirits](../cards/spells/–/–.md) | ⚡︎ Quick |
+| [Stranded Peculiarity](../cards/spells/–/–.md) | |
 | [Stranded –](../cards/spells/–/–.md) | – |
 
 </details>
@@ -55,6 +61,9 @@ An archetype of mainly DARK Cyberse monsters and supportive Spell/Traps, focusin
 
 | card | Type |
 | :--- | :--- |
+| [Stranded Estrangement](../cards/traps/–/–.md) | |
+| [Stranded for Eternity](../cards/traps/–/–.md) | ↵ Counter |
+| [Stranded in Silence](../cards/traps/–/–.md) | ↵ Counter |
 | [Stranded Lost](../cards/traps/–/–.md) | – |
 | [Stranded –](../cards/traps/–/–.md) | – |
 
@@ -66,7 +75,7 @@ An archetype of mainly DARK Cyberse monsters and supportive Spell/Traps, focusin
 
 ## Strategics
 
-The archetype functions very similarly to the existing ‘Branded Despia’.
+The archetype functions quite similarly to the existing ‘Branded Despia’.
 
 
 <br>
@@ -78,9 +87,10 @@ Almost all of the Spell/Traps in the archetype are a parody of an existing ‘Br
 
 | Stranded | Branded |
 | :------- | :------ |
-| Catastropical Island of the Stranded | Despia, Theatre of the Branded |
-| Stranded in Dread | Branded in Red |
-| Stranded Lost | Branded Lost |
-| Stranded Fusion | Branded Fusion |
+| [Catastropical Island of the Stranded](#Spells) | [Despia, Theatre of the Branded](https://yugipedia.com/wiki/Despia,_Theater_of_the_Branded) |
+| [Stranded Fusion](#Spells) | [Branded Fusion](https://yugipedia.com/wiki/Branded_Fusion) |
+| [Stranded in Dread](#Spells) | [Branded in Red](https://yugipedia.com/wiki/Branded_in_Red) |
+| [Stranded in Low Spirits](#Spells) | [Stranded in High Spirits](https://yugipedia.com/wiki/Branded_in_High_Spirits) |
+| [Stranded Lost](#Traps) | [Branded Lost](https://yugipedia.com/wiki/Branded_Lost) |
 
-- The archetypal Field Spell [Catastropical Island of the Stranded]() is also part of the [Catastropical]() archetype.
+- The archetypal Field Spell [Catastropical Island of the Stranded](#Spells) is also part of the [Catastropical](Catastropical.md) archetype.
