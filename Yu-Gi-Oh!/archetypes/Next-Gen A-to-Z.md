@@ -1,6 +1,6 @@
 # Next-Gen A-to-Z
 
-An archetype of LIGHT Machine Union monsters, a revitalyzacion of the original [A-to-Z](https://yugipedia.com/wiki/A-to-Z) archetype.
+An archetype of LIGHT Machine Union monsters, harnessing contact fusion, a revitalyzacion of the original [*A-to-Z*](https://yugipedia.com/wiki/A-to-Z) archetype.
 
 
 <br>
@@ -11,7 +11,6 @@ An archetype of LIGHT Machine Union monsters, a revitalyzacion of the original [
 | type | count |
 | :--- | :---- |
 | Fusion | x |
-| Link   | x |
 
 ### Monsters
 
@@ -50,22 +49,22 @@ An archetype of LIGHT Machine Union monsters, a revitalyzacion of the original [
 
 | card | Level | ATK/DEF | Type | material |
 | :--- | :---- | :------ | :--- | :------- |
-| [Next-Gen XY-Dragon Cannon](../cards/monsters/link/Next-Gen%20.md) | LINK-2 | 2200 | Union Link | – |
-| [Next-Gen XZ-Crush Cannon](../cards/monsters/link/Next-Gen%20.md) | LINK-2 | 2200 | Union Link | – |
-| [Next-Gen ZY-Dragon Tank](../cards/monsters/link/Next-Gen%20.md) | LINK-2 | 2100 | Union Link | – |
-| [Next-Gen VW-Core Catapult](../cards/monsters/link/Next-Gen%20.md) | LINK-2 | – | Union Link | – |
-| [Next-Gen ABC-Assault Claw Buster](../cards/monsters/link/Next-Gen%20.md) | LINK-3 | 2600 | Union Link | *Next-Gen A-Assault Drive* + *Next-Gen B-Buster Drake* + *Next-Gen C-Claw Wyvern* |
-| [Next-Gen XYZ-Dragon Crush Cannon](../cards/monsters/link/Next-Gen%20.md) | LINK-3 | 2800 | Union Link | *Next-Gen X-Head Cannon* + *Next-Gen Y-Dragon Head* + *Next-Gen Z-Crush Tank* |
-| [Next-Gen ABCD-Delta Assault Buster](../cards/monsters/link/Next-Gen%20.md) | LINK-4 | – | Union Link | – |
-| [Next-Gen IJKL-](../cards/monsters/link/Next-Gen%20.md) | LINK-4 | – | Union Link | – |
-| [Next-Gen VWXY-Dragon Core Cannon](../cards/monsters/link/Next-Gen%20.md) | LINK-4 | – | Union Link | – |
-| [Next-Gen ZWXY-Dragon Crush Catapult](../cards/monsters/link/Next-Gen%20.md) | LINK-4 | – | Union Link | – |
-| [Next-Gen ABCDE-](../cards/monsters/link/Next-Gen%20.md) | LINK-5 | – | Union Link | – |
-| [Next-Gen PQRST-](../cards/monsters/link/Next-Gen%20.md) | LINK-5 | – | Union Link | – |
-| [Next-Gen VWXYZ-Dragon Core Catapult Crusher](../cards/monsters/link/Next-Gen%20.md) | LINK-5 | – | Union Link | – |
-| [Next-Gen A-to-Z-Myriad Vanquish](../cards/monsters/link/Next-Gen%20.md) | LINK-8 | 5000 | Link Link | – |
-| [XYZ-Gen Cyber Crush Overdragon](../cards/monsters/fusion/Next-Gen%20.md) | n ★★★★★★★★★★★★ | 2800 / – | Union Link | – |
-| [Next-Gen –](../cards/monsters/link/Next-Gen%20.md) | n ★★★★★★★★★★★★ | – / – | Union Link | – |
+| [Next-Gen XY-Dragon Cannon](../cards/monsters/link/Next-Gen%20.md) | 6 ★★★★★★ | 2200 | Union Fusion | – |
+| [Next-Gen XZ-Crush Cannon](../cards/monsters/link/Next-Gen%20.md) | 6 ★★★★★★ | 2200 | Union Fusion | – |
+| [Next-Gen ZY-Dragon Tank](../cards/monsters/link/Next-Gen%20.md) | 6 ★★★★★★ | 2100 | Union Fusion | – |
+| [Next-Gen VW-Core Catapult](../cards/monsters/link/Next-Gen%20.md) | 6 ★★★★★★ | – | Union Fusion | – |
+| [Next-Gen ABC-Assault Claw Buster](../cards/monsters/link/Next-Gen%20.md) | LINK-3 | 2600 | Union Fusion | *Next-Gen A-Assault Drive* + *Next-Gen B-Buster Drake* + *Next-Gen C-Claw Wyvern* |
+| [Next-Gen XYZ-Dragon Crush Cannon](../cards/monsters/link/Next-Gen%20.md) | LINK-3 | 2800 | Union Fusion | *Next-Gen X-Head Cannon* + *Next-Gen Y-Dragon Head* + *Next-Gen Z-Crush Tank* |
+| [Next-Gen ABCD-Delta Assault Buster](../cards/monsters/link/Next-Gen%20.md) | LINK-4 | – | Union Fusion | – |
+| [Next-Gen IJKL-](../cards/monsters/link/Next-Gen%20.md) | LINK-4 | – | Union Fusion | – |
+| [Next-Gen VWXY-Dragon Core Cannon](../cards/monsters/link/Next-Gen%20.md) | LINK-4 | – | Union Fusion | – |
+| [Next-Gen ZWXY-Dragon Crush Catapult](../cards/monsters/link/Next-Gen%20.md) | LINK-4 | – | Union Fusion | – |
+| [Next-Gen ABCDE-](../cards/monsters/link/Next-Gen%20.md) | LINK-5 | – | Union Fusion | – |
+| [Next-Gen PQRST-](../cards/monsters/link/Next-Gen%20.md) | LINK-5 | – | Union Fusion | – |
+| [Next-Gen VWXYZ-Dragon Core Catapult Crusher](../cards/monsters/link/Next-Gen%20.md) | 10 ★★★★★★★★★★ | – / – | Union Fusion | – |
+| [Next-Gen A-to-Z-Myriad Vanquish](../cards/monsters/link/Next-Gen%20.md) | 12 ★★★★★★★★★★★★ | – / – | Union Fusion | – |
+| [XYZ-Gen Cyber Crush Overdragon](../cards/monsters/fusion/Next-Gen%20.md) | 12 ★★★★★★★★★★★★ | – / – | Union Fusion | – |
+| [Next-Gen –](../cards/monsters/link/Next-Gen%20.md) | n ★★★★★★★★★★★★ | – / – | Union Fusion | – |
 
 </details>
 
