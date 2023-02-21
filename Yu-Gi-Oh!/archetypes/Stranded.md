@@ -1,6 +1,6 @@
 # Stranded
 
-An archetype of mainly DARK Cyberse monsters and supportive Spell/Traps, focusing on Fusion Summoning and shuffling cards into the Deck, a parody of the [*Branded*](https://yugipedia.com/wiki/Branded) archetype.
+An archetype of DARK and LIGHT Cyberse monsters and supportive Spell/Traps, focusing on Fusion Summoning and shuffling cards into the Deck, a parody of the [*Branded*](https://yugipedia.com/wiki/Branded) archetype.
 
 
 <br>
