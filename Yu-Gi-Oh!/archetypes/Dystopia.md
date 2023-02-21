@@ -53,6 +53,11 @@ An archetype of protively Warrior DARK monsters, focusing on Xyz Summoning, Rank
 | card | Type |
 | :--- | :--- |
 | [Descent into Dystopia](../cards/spells/–/–.md) | |
+| [Dystopian Prophecy](../cards/spells/–/–.md) | |
+| [Dystopian World](../cards/spells/–/–.md) | ✦ Field |
+| [Dystopian Dreams](../cards/spells/–/–.md) | ∞ Continuous |
+| [Dystopian Despair](../cards/spells/–/–.md) | ∞ Continuous |
+| [Dystopian Weaponry](../cards/spells/–/–.md) | Equip |
 | [Dystopian –](../cards/spells/–/–.md) | – |
 
 </details>
