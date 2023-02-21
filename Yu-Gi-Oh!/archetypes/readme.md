@@ -8,6 +8,7 @@ All the archetypes of custom cards I’ve cryzen.
 [Battle Sheep](Battle%20Sheep.md)  
 [Darquess](Darquess.md)  
 [Dead-Eyes](Dead-Eyes.md)  
+[Dystopia](Dystopia.md)  
 [Galactron](Galactron.md)  
 [GUYS](GUYS.md)  
 &emsp; [METEOR](METEOR.md)  
