@@ -53,7 +53,7 @@ An archetype of protively Warrior DARK monsters, focusing on Xyz Summoning, Rank
 | card | Type |
 | :--- | :--- |
 | [Descent into Dystopia](../cards/spells/–/–.md) | |
-| [–](../cards/spells/–/–.md) | – |
+| [Dystopian –](../cards/spells/–/–.md) | – |
 
 </details>
 
@@ -64,7 +64,9 @@ An archetype of protively Warrior DARK monsters, focusing on Xyz Summoning, Rank
 
 | card | Type |
 | :--- | :--- |
-| [–](../cards/traps/–/–.md) | – |
+| [Dystopian Uprising](../cards/traps/–/–.md) | |
+| [Dystopian Anarchy](../cards/traps/–/–.md) | ∞ Continuous |
+| [Dystopian Revenge](../cards/traps/–/–.md) | ↵ Counter |
 
 </details>
 
