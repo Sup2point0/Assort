@@ -1,6 +1,6 @@
 # Soul
 
-An archetype of DARK monsters with various Types, focusing on Ritual and Synchro Summoning, with Graveyard and handtrap effects and non-destruction removal or negation. All monsters either have 0 ATK or DEF, with the other value ending in a 50, and the lower Level monsters are all Spirit monsters.
+An archetype of DARK monsters with various Types, revolving around Ritual and Synchro Summoning, with Graveyard effects and non-targeting non-destruction removal. All monsters either have 0 ATK or DEF, with the other value ending in a 50, and the lower Level monsters are all Spirit monsters.
 
 
 <br>
@@ -42,7 +42,7 @@ An archetype of DARK monsters with various Types, focusing on Ritual and Synchro
 
 | card | Level | ATK/DEF | Type | material |
 | :--- | :---- | :------ | :--- | :------- |
-| [Soul Shard Synchron](../cards/monsters/synchro/–.md) | ? | 0 / 0 | Synchro Tuner | *Soul Synchron* + 1+ *Soul Shard*s |
+| [Soul Shard Synchron](../cards/monsters/synchro/–.md) | ? | 0 / 0 | Synchro Tuner Spirit | *Soul Synchron* + 1+ *Soul Shard*s |
 | [Soul Snake](../cards/monsters/synchro/–.md) | 3 ★★★ | 1350 / 0 | Reptile Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ monsters |
 | [Soul Alchemist](../cards/monsters/synchro/–.md) | 4 ★★★★ | 0 / 2150 | Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ monsters |
 | [Soul Knight](../cards/monsters/synchro/–.md) | 5 ★★★★★ | – / 0 | Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ monsters |
