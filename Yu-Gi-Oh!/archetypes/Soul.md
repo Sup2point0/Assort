@@ -1,6 +1,6 @@
 # Soul
 
-An archetype of DARK monsters, focusing on Ritual and Synchro Summoning, with Graveyard and handtrap effects and non-destruction removal or negation. All monsters either have 0 ATK or DEF, with the other value ending in a 50, and the lower Level monsters are all Spirit monsters.
+An archetype of DARK monsters with various Types, focusing on Ritual and Synchro Summoning, with Graveyard and handtrap effects and non-destruction removal or negation. All monsters either have 0 ATK or DEF, with the other value ending in a 50, and the lower Level monsters are all Spirit monsters.
 
 
 <br>
@@ -11,7 +11,7 @@ An archetype of DARK monsters, focusing on Ritual and Synchro Summoning, with Gr
 | type | count |
 | :--- | :---- |
 | Ritual  | x3 |
-| Synchro | x |
+| Synchro | x10 |
 
 ### Monsters
 
@@ -48,8 +48,8 @@ An archetype of DARK monsters, focusing on Ritual and Synchro Summoning, with Gr
 | [Soul Knight](../cards/monsters/synchro/–.md) | 5 ★★★★★ | – / 0 | Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ monsters |
 | [Soul Guardian](../cards/monsters/synchro/–.md) | 6 ★★★★★★ | 0 / 2950 | Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ monsters, including a Synchro monster |
 | [Soul Wanderer](../cards/monsters/synchro/–.md) | 7 ★★★★★★★ | – / 0 | Synchro | 1 ‘Soul’ Synchro Tuner + 1+ non-Tuner ‘Soul’ monsters |
-| [Soul Shard Swordsman](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | – / 0 | Synchro Tuner | *Soul Swordsman* + 1+ *soul Shard*s |
-| [Soul Shard Dragon](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | – / 0 | Synchro Tuner | *Soul Dragon* + 1+ *soul Shard*s |
+| [Soul Shard Swordsman](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | 3250 / 0 | Magical Knight Synchro Tuner | *Soul Swordsman* + 1+ *Soul Shard*s |
+| [Soul Shard Dragon](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | 3650 / 0 | High Dragon Synchro Tuner | *Soul Dragon* + 1+ *Soul Shard*s |
 | [Soul Warden](../cards/monsters/synchro/–.md) | 10 ★★★★★★★★★★ | 0 / 3250 | Wyrm Synchro | 1 ‘Soul’ Synchro Tuner + 1+ ‘Soul’ monsters, including a Ritual or Synchro monster |
 | [Soul Slayer](../cards/monsters/synchro/–.md) | 11 ★★★★★★★★★★★ | ? / ? | Omega Psychic Synchro | 1 ‘Soul Shard’ Synchro Tuner + 1+ ‘Soul’ monsters, including a Ritual or Synchro monster |
 | [Soul –](../cards/monsters/synchro/–.md) | n ★★★★★★★★★★★★ | – / – | Synchro | – |
@@ -64,18 +64,20 @@ An archetype of DARK monsters, focusing on Ritual and Synchro Summoning, with Gr
 | card | Type |
 | :--- | :--- |
 | [Pot of Souls](../cards/spells/–/–.md) | |
-| [Soul Abyss](../cards/spells/–/–.md) | + Field |
-| [Soul Altar](../cards/spells/–/–.md) | ∞ Continuous |
+| [Soul Chasm](../cards/spells/–/–.md) | ✦ Field |
 | [Soul Corruption](../cards/spells/–/–.md) | ⚡︎ Quick |
-| [Soul Fracture](../cards/spells/–/–.md) | ⚡︎ Quick |
-| [Soul Illusion](../cards/spells/–/–.md) | – |
-| [Soul Manifestation](../cards/spells/–/–.md) | – |
-| [Soul Resurgence](../cards/spells/–/–.md) | – |
-| [Soul Ritual](../cards/spells/–/–.md) | Ritual |
-| [Soul Scripture](../cards/spells/–/–.md) | – |
-| [Soul Seal](../cards/spells/–/–.md) | ∞ Continuous |
-| [Soul Seeker](../cards/spells/–/–.md) | |
-| [Soul Trade](../cards/spells/–/–.md) | ⚡︎ Quick |
+| [Soul Dagger](../cards/spells/–/–.md) | + Equip |
+| [Soul Illusion](../cards/spells/–/–.md) | ⚡︎ Quick |
+| [Soul Manifestation](../cards/spells/–/–.md) | ⚡︎ Quick |
+| [Soul Purity](../cards/spells/–/–.md) | ⚡︎ Quick |
+| [Soul Necropolis](../cards/spells/–/–.md) | ✦ Field |
+| [Soul Prophecy](../cards/spells/–/–.md) | ◈ Ritual |
+| [Soul Resurgence](../cards/spells/–/–.md) | ⚡︎ Quick |
+| [Soul Ritual](../cards/spells/–/–.md) | ◈ Ritual |
+| [Soul Sanctuary](../cards/spells/–/–.md) | ∞ Continuous |
+| [Soul Scripture](../cards/spells/–/–.md) | |
+| [Soul Seeker](../cards/spells/–/–.md) | ⚡︎ Quick |
+| [Soul Walker](../cards/spells/–/–.md) | ∞ Continuous |
 | [Soul –](../cards/spells/–/–.md) | – |
 
 </details>
@@ -87,8 +89,11 @@ An archetype of DARK monsters, focusing on Ritual and Synchro Summoning, with Gr
 
 | card | Type |
 | :--- | :--- |
-| [Soul Virus](../cards/traps/–/Soul%20Virus.md) | ∞ Continuous |
-| [–](../cards/traps/–/–.md) | – |
+| [Soul Fracture](../cards/traps/–/–.md) | |
+| [Soul Rupture](../cards/traps/–/–.md) | |
+| [Soul Scream](../cards/traps/–/–.md) | ↵ Counter |
+| [Soul Virus](../cards/traps/–/–.md) | ∞ Continuous |
+| [Soul –](../cards/traps/–/–.md) | – |
 
 </details>
 
