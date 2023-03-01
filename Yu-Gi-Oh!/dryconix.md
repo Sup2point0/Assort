@@ -1,6 +1,6 @@
 # Dryconix
 
-My absolute favourite deck of all time. Despite having 9 Ritual monsters, single copies of unconventional handtraps, and over *50* cards, it’s still surprisingly consistent, insanely versatile, and can definitely hold its own.
+My absolute favourite deck of all time. Despite having 9 Ritual monsters, single copies of unconventional handtraps, and nearing *60* cards, it’s still surprisingly consistent, insanely versatile, and can definitely hold its own.
 
 
 <br>
@@ -15,7 +15,7 @@ My absolute favourite deck of all time. Despite having 9 Ritual monsters, single
   </tr>
   <tr>
     <td> cards </td>
-    <td> ~50 </td>
+    <td> ~55 </td>
   </tr>
 </table>
 
@@ -30,7 +30,7 @@ My absolute favourite deck of all time. Despite having 9 Ritual monsters, single
 | [Drytron Zeta Aldibah](https://yugipedia.com/wiki/Drytron_Zeta_Aldibah) | x3 | |
 | [Drytron Delta Altais](https://yugipedia.com/wiki/Drytron_Delta_Altais) | x2 | My favourite Drytron, the draw is always insane. |
 | [Drytron Gamma Eltanin](https://yugipedia.com/wiki/Drytron_Gamma_Eltanin) | x2 | |
-| [Drytron Beta Rastaban](https://yugipedia.com/wiki/Drytron_Beta_Rastaban) | x1 | |
+| [Drytron Beta Rastaban](https://yugipedia.com/wiki/Drytron_Beta_Rastaban) | x1 | Saviour against Runick or Dimension Shifter, seriously clutch. |
 | [Drytron Meteonis Draconids](https://yugipedia.com/wiki/Drytron_Meteonis_Draconids) | x1 | |
 | [Drytron Meteonis Quadrantids](https://yugipedia.com/wiki/Drytron_Meteonis_Quadrantids) | x1 | |
 | [Amorphactor Pain, the Imagination Dracoverlord](https://yugipedia.com/wiki/) | x1 | |
@@ -39,8 +39,8 @@ My absolute favourite deck of all time. Despite having 9 Ritual monsters, single
 | [Shinobaron Peacock](https://yugipedia.com/wiki/) | x1 | Insane removal. |
 | [White Relic of Dogmatika](https://yugipedia.com/wiki/White_Relic_of_Dogmatika) | x1 | |
 | [White Knight of Dogmatika](https://yugipedia.com/wiki/White_Knight_of_Dogmatika) | x1 | |
-| [White Zoa of Dogmatika](https://yugipedia.com/wiki/White_Zoa_of_Dogmatika) | x1 | |
-| [Diviner of the Herald](https://yugipedia.com/wiki/Diviner_of_the_Herald) | x3 | |
+| [White Zoa of Dogmatika](https://yugipedia.com/wiki/Dogmatika_Alba_Zoa) | x1 | Technically Alba Zoa now, but whatever, White Zoa is the better name. Anyway, the ace of the deck! |
+| [Diviner of the Herald](https://yugipedia.com/wiki/Diviner_of_the_Herald) | x3 | Does scare people into thinking this is Herald Drytron, but nooo, we’re going into Lv7 Synchro toolbox B) |
 
 </details>
 
@@ -51,18 +51,17 @@ My absolute favourite deck of all time. Despite having 9 Ritual monsters, single
 
 | card | copies | notes |
 | :--- | :----- | :---- |
-| [Drytron Mu Beta Fafnir](https://yugipedia.com/wiki/Drytron_Mu_Beta_Fafnir) | x2 | Had to cut 1 for the  |
+| [Drytron Mu Beta Fafnir](https://yugipedia.com/wiki/Drytron_Mu_Beta_Fafnir) | x3 | |
 | [Herald of the Arc Light](https://yugipedia.com/wiki/Herald_of_the_Arc_Light) | x3 | |
 | [Elder Entity N'tss](https://yugipedia.com/wiki/) | x1 | |
 | [Clear Wing Synchro Dragon](https://yugipedia.com/wiki/) | x1 | |
 | [Black Rose Dragon](https://yugipedia.com/wiki/) | x1 | |
-| [Black Rose Moonlight Dragon](https://yugipedia.com/wiki/) | x1 | |
 | [Wind Pegasus @Ignister](https://yugipedia.com/wiki/) | x1 | |
-| [Linkuriboh](https://yugipedia.com/wiki/) | x1 | |
-| [Relinquished Anima](https://yugipedia.com/wiki/) | x1 | |
-| [Lyrilusc – Assembled Nightingale](https://yugipedia.com/wiki/) | x1 | |
-| [Raidraptor – Ultimate Falcon](https://yugipedia.com/wiki/) | x1 | |
-| [Infinitrack Fortress Megaclops](https://yugipedia.com/wiki/) | x1 | |
+| [Linkuriboh](https://yugipedia.com/wiki/) | x1 | Pivotal for optilical combo sequencing. |
+| [Relinquished Anima](https://yugipedia.com/wiki/) | x1 | Hilarious when it works, perfect for plucking back a Lava Golem too. |
+| [Lyrilusc – Assembled Nightingale](https://yugipedia.com/wiki/) | x1 | Emergency OTK! |
+| [Raidraptor – Ultimate Falcon](https://yugipedia.com/wiki/) | x1 | I actually love this card, considering my first deck was Raidraptor. |
+| [Infinitrack Fortress Megaclops](https://yugipedia.com/wiki/) | x1 | Waking the Dragon moment |
 
 </details>
 
@@ -104,12 +103,14 @@ My absolute favourite deck of all time. Despite having 9 Ritual monsters, single
 | card | copies | notes |
 | :--- | :----- | :---- |
 | [Lava Golem](https://yugipedia.com/wiki/) | x1 | Such a powerful boardbreaker, and fits perfectly with Drytron since it can’t be Normal Summoned, and Drytron doesn’t really need a Normal Summon anyway. |
+| [Ash Blossom & Joyous Spring](https://yugipedia.com/wiki/) | x2 | I didn’t use to run this since stopping people from playing the game isn’t fun, but... man am I tired of Maxx C... and Branded Fusion into Mirrorjade... and Chixiao into Chengying... and Block Dragon – you get the idea. Also, most of the time I Normal Summon it to tune with a Drytron to make a spare Herald of the Arc Light! Insane value. |
 | [Droll & Lock Bird](https://yugipedia.com/wiki/) | x1 | Can’t use it against Maxx C since it literally locks myself, but searchable with *Where Arf Thou?* and shuts some decks down nicely. Quite a mean handtrap tho. |
 | [Dark Ruler No More](https://yugipedia.com/wiki/) | x1 | |
 | [Forbidden Droplet](https://yugipedia.com/wiki/) | x1 | Finally, a reason to leave extra Drytron modules on board! Splendid in Drytron, especially when going second, since the modules don’t really care if they’re in the hand or Graveyard. |
-| [Triple Tactics Talent]() | x1 | Quality response and all too easy to trigger. |
+| [Triple Tactics Talent](https://yugipedia.com/wiki/) | x1 | Quality response and all too easy to trigger. |
 | [Ultimate Slayer](https://yugipedia.com/wiki/) | x1 | People should give this more recognition honestly. Perfect against Synchro decks to send a Herald of the Arc Light for an extra search, or against Fusion decks to send a N'tss for a free pop. Nicely avoids Mirrorjade and Chengying’s effects. |
 | [Infinite Impermanence](https://yugipedia.com/wiki/) | x1 | Why only 1, I know. I don’t really play it as interruption (unless it’s Aluber or Chixiao), but rather an opener when going second to neutralyze a threat or draw out a negate. |
+| [Evenly Matched](https://yugipedia.com/wiki/) | x1 | Actually cracked. |
 | [Waking the Dragon](https://yugipedia.com/wiki/) | x1 | Not a staple, I know. Yet the amount of times this has worked and saved me by bringing out Ultimate Falcon or Infinitrack Megaclops is staggering. |
 
 </details>
