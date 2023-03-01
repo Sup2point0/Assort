@@ -4,7 +4,7 @@
 Overuse diminishes effectiveness. Shouting in every reprimand defeats the purpose. It only serves to exacerbate negative emotions and instil fear. One day they’ll shout back. And shouting battles are pointless.
 
 ### Do not swear or display violence.
-This is never the way, and only reflects poorly on yourself. Your lack of self-control, over many occurrences, will teach them that this is normal, and one . Rather than instilling fear and hatred, using compassion and understanding to show them why something was wrong is so much more effective and long-lasting.
+This is never the way, and only reflects poorly on yourself. Your lack of self-control, over many occurrences, will teach them that this is normal. Rather than instilling fear and hatred, using compassion and understanding to show them why something was wrong is so much more effective and long-lasting.
 
 ### Do not spam rhetorical questions.
 In a reprimand they often have a terrible tone. They only serve to make them feel worse, and question themselves.
