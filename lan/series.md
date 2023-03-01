@@ -26,11 +26,13 @@
 
 | numeric | prefix | adjective |
 | :------ | :----- | :-------- |
-| protic | *pro(to)-* | protical |
-| deutic | *deu(tero)-* | deutical |
-| 
+| protic | *pro(to)-* | protive |
+| deutic | *deu(tero)-* | deutive |
+| |
 | tetric | *tetr(a)-* | tetrical |
-| quintic | *qui(nta)-* | quintical |
+| quintic | *qui(nta)-* | quintive |
 | hexic | *hex(a)-* | hexical |
-| 
-| dekic | *dek(a)-* | dekan |
+| septic | *sept(a)-* | septive |
+| octic | *oct(a)-* | octive |
+| |
+| dekic | *dek(a)-* | dekanical |
