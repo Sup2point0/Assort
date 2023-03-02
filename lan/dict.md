@@ -73,6 +73,53 @@ All the fictive words I’ve cryzen.
 <br>
 
 
+## acronyze
+
+### Verb
+`/ˌakrəˈnʌɪz/`
+
+[*prototransitive*]()
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Derivatives </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Related </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
 ## affine
 
 ### Noun
@@ -354,7 +401,7 @@ plural *affinitys*
 ### Verb
 `/an'tɛkt/`
 
-*[prototransitive]()*
+[*prototransitive*]()
 
 1. to convert a date from another calendar to the Antarctican calendar.  
 &ensp; *All devices have an inbuilt feature to antect a given decate.*
@@ -501,7 +548,7 @@ plural *decates*
 ### Verb
 `/'lɪnt/`
 
-*[prototransitive]()*
+[*prototransitive*]()
 
 1. {definyzacion}  
 &ensp; *{test}*
