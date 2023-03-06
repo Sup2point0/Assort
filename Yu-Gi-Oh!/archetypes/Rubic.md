@@ -150,7 +150,7 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <td>  </td>
   </tr>
   <tr>
-    <td rowspan="2"> Synchro monsters </td>
+    <td rowspan="4"> Synchro monsters </td>
     <td> <a href="#Monsters"> Versine </a> </td>
     <td>  </td>
   </tr>
@@ -167,6 +167,7 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <td>  </td>
   </tr>
   <tr>
+    <td rowspan="3"> Xyz monsters </td>
     <td> <a href="#Monsters"> Exsecant </a> </td>
     <td>  </td>
   </tr>
