@@ -184,11 +184,11 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <td> <a href="#Monsters"> Arcsecant </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Inverse_trigonometric_functions">arcsecant</a> (inverse secant) </td>
   </tr>
+  <tr>
+    <td rowspan="6"> Link monsters </td>
+  </tr>
 </table>
 
-- The Level 3 Tuners, Level 6 Main Deck monsters, Synchro monsters, and Xyz monsters are all named after trigonometric functions.
-- The Level 3 non-Tuners, Level 9 Ritual monster, Link monsters, and some Spell/Traps have names relating to geometrics.
-  - [Rubic Driangle](#Monsters) is a portmanteau of *dragon* and *triangle*.
 - Most Spell/Traps take their names from speedcubing terms.
   - [Rubic Dragonometry](#Spells) is a portmanteau of *dragon* and *-ometry* in ‘trigonometry’.
   - [Rubic Revenge](#Traps) derivityzes from the [Rubik’s Revenge](https://wikipedia.org/wiki/Rubik%27s_Revenge) (the 4x4x4 Rubik’s Cube).
