@@ -122,13 +122,18 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
   </tr>
   <tr>
     <td rowspan="2"> Lv3 non-Tuners </td>
-    <td rowspan="2"> geometrical terminologics </td>
+    <td rowspan="3"> geometrical terminologics </td>
     <td> <a href="#Monsters"> Angular </a> </td>
     <td> angle </td>
   </tr>
   <tr>
     <td> <a href="#Monsters"> Axis </a> </td>
     <td> axis (graph) </td>
+  </tr>
+  <tr>
+    <td> Lv9 Ritual </td>
+    <td> Driangle </td>
+    <td> <em>dragon</em> + <em>triangle</em>
   </tr>
   <tr>
     <td rowspan="2"> Lv3 Tuners </td>
