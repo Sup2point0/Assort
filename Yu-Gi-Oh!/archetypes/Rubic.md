@@ -132,7 +132,7 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
   </tr>
   <tr>
     <td rowspan="2"> Lv3 Tuners </td>
-    <td rowspan="11"> trigonometrical functions </td>
+    <td rowspan="11"> <a href="https://wikipedia.org/wiki/Trigonometric_functions"> trigonometrical functions </a> </td>
     <td> <a href="#Monsters"> Sine </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Sine_and_cosine"> sine </a> </td>
   </tr>
@@ -143,28 +143,28 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
   <tr>
     <td rowspan="2"> Lv6 non-Tuners </td>
     <td> <a href="#Monsters"> Secant </a> </td>
-    <td>  </td>
+    <td> <a href="https://wikipedia.org/wiki/Trigonometric_functions"> secant </a> </td>
   </tr>
   <tr>
     <td> <a href="#Monsters"> Cosecant </a> </td>
-    <td>  </td>
+    <td> <a href="https://wikipedia.org/wiki/Trigonometric_functions"> cosecant </a> </td>
   </tr>
   <tr>
     <td rowspan="4"> Synchro monsters </td>
     <td> <a href="#Monsters"> Versine </a> </td>
-    <td>  </td>
+    <td> <a href="https://wikipedia.org/wiki/Versine"> versine </a> </td>
   </tr>
   <tr>
     <td> <a href="#Monsters"> Vercosine </a> </td>
-    <td>  </td>
+    <td> <a href="https://wikipedia.org/wiki/Versine"> vercosine </a> (coversine) </td>
   </tr>
   <tr>
     <td> <a href="#Monsters"> Haversine </a> </td>
-    <td>  </td>
+    <td> <a href="https://wikipedia.org/wiki/Versine"> haversine </a> </td>
   </tr>
   <tr>
     <td> <a href="#Monsters"> Arcsine </a> </td>
-    <td>  </td>
+    <td> <a href="https://wikipedia.org/wiki/Inverse_trigonometric_functions"> arcsine (inverse sine) <a> </td>
   </tr>
   <tr>
     <td rowspan="3"> Xyz monsters </td>
