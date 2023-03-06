@@ -156,7 +156,7 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
   </tr>
   <tr>
     <td> <a href="#Monsters"> Vercosine </a> </td>
-    <td> <a href="https://wikipedia.org/wiki/Versine"> vercosine </a> (coversine) </td>
+    <td> <a href="https://wikipedia.org/wiki/Versine">vercosine</a> (coversine) </td>
   </tr>
   <tr>
     <td> <a href="#Monsters"> Haversine </a> </td>
@@ -164,20 +164,20 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
   </tr>
   <tr>
     <td> <a href="#Monsters"> Arcsine </a> </td>
-    <td> <a href="https://wikipedia.org/wiki/Inverse_trigonometric_functions"> arcsine (inverse sine) <a> </td>
+    <td> <a href="https://wikipedia.org/wiki/Inverse_trigonometric_functions">arcsine</a> (inverse sine) </td>
   </tr>
   <tr>
     <td rowspan="3"> Xyz monsters </td>
     <td> <a href="#Monsters"> Exsecant </a> </td>
-    <td>  </td>
+    <td> <a href="https://wikipedia.org/wiki/Exsecant"> exsecant </a> </td>
   </tr>
   <tr>
     <td> <a href="#Monsters"> Excosecant </a> </td>
-    <td>  </td>
+    <td> <a href="https://wikipedia.org/wiki/Exsecant"> excosecant </a> </td>
   </tr>
   <tr>
     <td> <a href="#Monsters"> Arcsecant </a> </td>
-    <td>  </td>
+    <td> <a href="https://wikipedia.org/wiki/Inverse_trigonometric_functions">arcsecant</a> (inverse secant) </td>
   </tr>
 </table>
 
