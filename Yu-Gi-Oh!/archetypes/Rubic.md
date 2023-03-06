@@ -186,6 +186,29 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
   </tr>
   <tr>
     <td rowspan="6"> Link monsters </td>
+    <td rowspan="6"> geometrical terminologics </td>
+    <td> <a href="#Monsters"> Radian </a> </td>
+    <td> <a href="https://wikipedia.org/wiki/https://en.wikipedia.org/wiki/Radian"> radian </a> </td>
+  </tr>
+  <tr>
+    <td> <a href="#Monsters"> Diagonal </a> </td>
+    <td> <a href="https://wikipedia.org/wiki/Diagonal"> diagonal </a> </td>
+  </tr>
+  <tr>
+    <td> <a href="#Monsters"> Perpendicular </a> </td>
+    <td> <a href="https://wikipedia.org/wiki/Perpendicular"> perpendicular </a> </td>
+  </tr>
+  <tr>
+    <td> <a href="#Monsters"> Vertex </a> </td>
+    <td> <a href="https://wikipedia.org/wiki/Vertex_(geometry)"> vertex </a> </td>
+  </tr>
+  <tr>
+    <td> <a href="#Monsters"> Quadrangle </a> </td>
+    <td> <a href="https://wikipedia.org/wiki/Quadrilateral">quadrilateral</a> + <em>angle</em> </td>
+  </tr>
+  <tr>
+    <td> <a href="#Monsters"> Hexangle </a> </td>
+    <td> <a href="https://wikipedia.org/wiki/Hexagon"><em>hexagon</em></a> + <em>angle</em> </td>
   </tr>
 </table>
 
