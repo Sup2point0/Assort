@@ -127,14 +127,56 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <td> angle </td>
   </tr>
   <tr>
-    <td> Axis </td>
+    <td> <a href="#Monsters"> Axis </a> </td>
     <td> axis (graph) </td>
   </tr>
   <tr>
-    <td rowspan="11"> Lv3 Tuners, Lv6 Main Deck, Synchro, Xyz </td>
+    <td rowspan="2"> Lv3 Tuners </td>
     <td rowspan="11"> trigonometrical functions </td>
-    <td> Sine </td>
+    <td> <a href="#Monsters"> Sine </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Sine_and_cosine"> sine </a> </td>
+  </tr>
+  <tr>
+    <td> <a href="#Monsters"> Cosine </a> </td>
+    <td> <a href="https://wikipedia.org/wiki/Sine_and_cosine"> cosine </a> </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> Lv6 non-Tuners </td>
+    <td> <a href="#Monsters"> Secant </a> </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> <a href="#Monsters"> Cosecant </a> </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> Synchro monsters </td>
+    <td> <a href="#Monsters"> Versine </a> </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> <a href="#Monsters"> Vercosine </a> </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> <a href="#Monsters"> Haversine </a> </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> <a href="#Monsters"> Arcsine </a> </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> <a href="#Monsters"> Exsecant </a> </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> <a href="#Monsters"> Excosecant </a> </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> <a href="#Monsters"> Arcsecant </a> </td>
+    <td>  </td>
   </tr>
 </table>
 
