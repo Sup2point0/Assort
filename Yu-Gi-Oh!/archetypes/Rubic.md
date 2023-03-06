@@ -49,7 +49,7 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 | [Rubic Perpendicular](../cards/monsters/–/–.md) | Link-2 | 2000 | Link | 2 ‘Rubic’ monsters |
 | [Rubic Vertex](../cards/monsters/–/–.md) | Link-3 | 3000 | Link | 2 ‘Rubic’ monsters |
 | [Rubic Quadrangle](../cards/monsters/–/–.md) | Link-4 | 4000 | Link | 2 ‘Rubic’ monsters |
-| [Rubic Hexangle](../cards/monsters/–/–.md) | Link-6 | 600 | Link | 2 ‘Rubic’ monsters |
+| [Rubic Hexangle](../cards/monsters/–/–.md) | Link-6 | 600 | Link | 3 ‘Rubic’ monsters |
 
 </details>
 
@@ -109,16 +109,37 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 - Every Link monster’s ATK equals its Link Rating x 1000, except [Rubic Hexangle](#Monsters), who alters its own ATK to reach multiples of 600.
 
 <details hide>
-  <summary> <b> Names Trivia </b> </summary> <br>
+  <summary> <b> Nomenclature Trivia </b> </summary> <br>
 
-All of the names within the archetype derive from trigonometric or speedcubing terms.
+All of the names within the archetype derivityze from trigonometrical or speedcubing terms.
+
+<table>
+  <tr>
+    <th> cards </th>
+    <th> derivityzacion </th>
+    <th> card </th>
+    <th> derivend </th>
+  </tr>
+  <tr>
+    <td rowspan="2"> Lv3 non-Tuners </td>
+    <td rowspan="2"> geometrical terminologics </td>
+    <td> <a href="#Monsters"> Angular </a> </td>
+    <td> angle </td>
+  </tr>
+  <tr>
+    <td rowspan="11"> Lv3 Tuners, Lv6 Main Deck, Synchro, Xyz </td>
+    <td rowspan="11"> trigonometrical functions </td>
+    <td> Sine </td>
+    <td> <a href="https://wikipedia.org/wiki/Sine_and_cosine"> sine </a> </td>
+  </tr>
+</table>
 
 - The Level 3 Tuners, Level 6 Main Deck monsters, Synchro monsters, and Xyz monsters are all named after trigonometric functions.
 - The Level 3 non-Tuners, Level 9 Ritual monster, Link monsters, and some Spell/Traps have names relating to geometrics.
   - [Rubic Driangle](#Monsters) is a portmanteau of *dragon* and *triangle*.
 - Most Spell/Traps take their names from speedcubing terms.
   - [Rubic Dragonometry](#Spells) is a portmanteau of *dragon* and *-ometry* in ‘trigonometry’.
-  - [Rubic Revenge](#Traps) derives from the [Rubik’s Revenge](https://wikipedia.org/wiki/Rubik%27s_Revenge) (the 4x4x4 Rubik’s Cube).
+  - [Rubic Revenge](#Traps) derivityzes from the [Rubik’s Revenge](https://wikipedia.org/wiki/Rubik%27s_Revenge) (the 4x4x4 Rubik’s Cube).
 
 </details>
 
