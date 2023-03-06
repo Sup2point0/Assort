@@ -73,4 +73,4 @@ An archetype of – monsters, revolving around – Summoning, inspired by the [�
 
 ## Trivia
 
-‘’ ◈ ⚡︎ ∞ ✦ ↵ ▯ ▮
+‘’ ◈ ⚡︎ ∞ ✦ ⟡ ↵
