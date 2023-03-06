@@ -127,6 +127,10 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <td> angle </td>
   </tr>
   <tr>
+    <td> Axis </td>
+    <td> axis (graph) </td>
+  </tr>
+  <tr>
     <td rowspan="11"> Lv3 Tuners, Lv6 Main Deck, Synchro, Xyz </td>
     <td rowspan="11"> trigonometrical functions </td>
     <td> Sine </td>
