@@ -95,7 +95,7 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 
 ## Strategics
 
-{...}
+The archetype can both easily OTK and setup a powerful control board.
 
 
 <br>
@@ -210,10 +210,20 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <td> <a href="#Monsters"> Hexangle </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Hexagon"><em>hexagon</em></a> + <em>angle</em> </td>
   </tr>
+  <tr>
+    <td rowspan="1"> Spells </td>
+    <td rowspan="1"> cubing terminologics </td>
+    <td> <a href="#Spells"> Dragonometry </a>
+    <td> <em>dragon</em> + <em>-ometry</em> in <em>trigonometry</em> </td>
+  </tr>
+  <tr>
+    <td rowspan="1"> Traps </td>
+    <td rowspan="1"> cubing terminologics </td>
+    <td> <a href="#Spells"> Revenge </a>
+    <td> <a href="https://wikipedia.org/wiki/Rubik%27s_Revenge">Rubik’s Revenge</em> (4x4x4 cube) </td>
+  </tr>
 </table>
 
-- Most Spell/Traps take their names from speedcubing terms.
-  - [Rubic Dragonometry](#Spells) is a portmanteau of *dragon* and *-ometry* in ‘trigonometry’.
   - [Rubic Revenge](#Traps) derivityzes from the [Rubik’s Revenge](https://wikipedia.org/wiki/Rubik%27s_Revenge) (the 4x4x4 Rubik’s Cube).
 
 </details>
