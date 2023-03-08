@@ -135,7 +135,7 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
   </tr>
   <tr>
     <td> Lv9 Ritual </td>
-    <td> Driangle </td>
+    <td> <a href="#Monsters"> Driangle </a> </td>
     <td> <em>dragon</em> + <em>triangle</em>
   </tr>
   <tr>
@@ -214,14 +214,14 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <td> <em>hex-</em> in <a href="https://wikipedia.org/wiki/Hexagon">hexagon</a> + <em>-angle</em> </td>
   </tr>
   <tr>
-    <td rowspan="4"> Spells </td>
+    <td rowspan="8"> Spells </td>
     <td rowspan="4"> geometrical terminologics </td>
     <td> <a href="#Spells"> Plane </a>
     <td> <a href="https://wikipedia.org/wiki/Plane_(mathematics)"> plane </a> </td>
   </tr>
   <tr>
     <td> <a href="#Spells"> Function </a>
-    <td> <a href="https://wikipedia.org/wiki/Function_(mathematics)"> function </a> </td>
+    <td> mathematical <a href="https://wikipedia.org/wiki/Function_(mathematics)">function</a> </td>
   </tr>
   <tr>
     <td> <a href="#Spells"> Construction </a>
@@ -232,25 +232,24 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <td> <em>dragon</em> + <em>-ometry</em> in <em>trigonometry</em> </td>
   </tr>
   <tr>
-    <td rowspan="4"> Spells </td>
     <td rowspan="4"> cubing terminologics </td>
     <td> <a href="#Spells"> Algorithm </a>
     <td> <a href="https://wikipedia.org/wiki/Algorithm"> algorithm </a> </td>
   </tr>
   <tr>
     <td> <a href="#Spells"> Permutation </a>
-    <td> <a href="https://wikipedia.org/wiki/Permutation"> permutation </a> </td>
+    <td> <a href="https://wikipedia.org/wiki/Permutation">permutation</a> (as in ‘permutation of the last layer’) </td>
   </tr>
   <tr>
     <td> <a href="#Spells"> Solution </a>
-    <td> <a href="https://wikipedia.org/wiki/Solution"> solution </a> </td>
+    <td> <a href="https://wikipedia.org/wiki/Solution">solution</a> (as in solving a Rubik’s cube) </td>
   </tr>
   <tr>
     <td> <a href="#Spells"> Slice </a>
     <td> slice (movement in cubing) </td>
   </tr>
   <tr>
-    <td rowspan="6"> Traps </td>
+    <td rowspan="7"> Traps </td>
     <td rowspan="6"> cubing terminologics </td>
     <td> <a href="#Traps"> Scramble </a>
     <td> scrambling a Rubik’s cube </td>
@@ -276,7 +275,6 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <td> inverse movement (rotating a face counter-clockwise instead of clockwise) </td>
   </tr>
   <tr>
-    <td rowspan="1"> Traps </td>
     <td rowspan="1"> geometrical terminologics </td>
     <td> <a href="#Traps"> Transverse </a>
     <td> <a href="https://wikipedia.org/wiki/Transversal_(geometry)"> transversal </a> </td>
