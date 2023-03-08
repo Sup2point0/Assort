@@ -149,11 +149,16 @@ The archetype can both easily OTK and setup a powerful control board.
 - The gimmicks of the archetype draw parallels to Rubik’s cubes and geometrics.
   - Moving cards on the field corresponds to turning a Rubik’s cube.
   - Spawning Rubic Tokens corresponds to drawing construction lines in geometrics.
+- The Link Arrows of the Link monsters all point in ordinal directions, except [Rubic Hexangle](#Link-monsters).
+  - As such, the archetype can cryze a tri-monster Extra Link.
+    - This doesn’t achieve much since the upwards arrows will unlock plenty of zones for the opponent anyway.
+    - Although, these can be blocked off with [Rubic Tokens](#Monsters) to lock the opponent out of Link Summoning.
+  - The arrows of [Rubic Radian](#Link-monsters) and [Rubic Perpendicular](#Link-monsters) combine to form the arrows of [Rubic Vertex](#Link-monsters).
 
 <details hide>
   <summary> <b> Nomenclature Trivia </b> </summary> <br>
 
-- The name of the archetype is a portmanteau of *Rubik* (from [Ernő Rubik](https://en.wikipedia.org/wiki/Ern%C5%91_Rubik), the inventor of the Rubik’s cube) and *cubic* (from ‘cube’)
+- The name of the archetype is a portmanteau of *Rubik* (from [Ernő Rubik](https://en.wikipedia.org/wiki/Ern%C5%91_Rubik), the inventor of the Rubik’s cube) and *cubic* (from ‘cube’).
 - All of the names within the archetype derivityze from trigonometrical or speedcubing terms.
 
 <table>
@@ -334,6 +339,6 @@ Numbers relating to trigonometrics and Rubik’s Cubes feature prominently throu
   - [Rubic Execution](#Traps) and [Rubic Transverse](#Traps) both must be activated as Chain Link 3 or higher.
 - The ATK/DEF of the Level 3 Main Deck monsters total 900 (90° being a right angle).
 - The ATK/DEF of the Level 6 Main Deck monsters total 2700 (270° being the reflex of a right angle).
-- Every Link monster’s ATK equals its Link Rating x 1000, except [Rubic Hexangle](#Monsters), who alters its own ATK to reach multiples of 600.
+- Every Link monster’s ATK equals its Link Rating x 1000, except [Rubic Hexangle](#Link-monsters), who alters its own ATK to reach multiples of 600.
 
 </details>
