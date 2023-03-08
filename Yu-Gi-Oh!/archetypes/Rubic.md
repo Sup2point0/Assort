@@ -215,7 +215,7 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
   </tr>
   <tr>
     <td rowspan="8"> Spells </td>
-    <td rowspan="4"> geometrical terminologics </td>
+    <td rowspan="10"> geometrical terminologics </td>
     <td> <a href="#Spells"> Plane </a>
     <td> <a href="https://wikipedia.org/wiki/Plane_(mathematics)"> plane </a> </td>
   </tr>
@@ -250,7 +250,6 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
   </tr>
   <tr>
     <td rowspan="7"> Traps </td>
-    <td rowspan="6"> cubing terminologics </td>
     <td> <a href="#Traps"> Scramble </a>
     <td> scrambling a Rubik’s cube </td>
   </tr>
