@@ -24,11 +24,12 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 | :--- | :---- | :------ | :--- |
 | [Rubic Angular](../cards/monsters/standard/–.md) | 3 ★★★ | 900 / 0 | |
 | [Rubic Axis](../cards/monsters/standard/–.md) | 3 ★★★ | 0 / 900 | |
-| [Rubic Sine](../cards/monsters/standard/–.md) | 3 ★★★ | – / – | Tuner |
-| [Rubic Cosine](../cards/monsters/standard/–.md) | 3 ★★★ | – / – | Tuner |
-| [Rubic Secant](../cards/monsters/standard/–.md) | 6 ★★★★★★ | – / – | |
-| [Rubic Cosecant](../cards/monsters/standard/–.md) | 6 ★★★★★★ | – / – | |
+| [Rubic Sine](../cards/monsters/standard/–.md) | 3 ★★★ | 600 / 300 | Tuner |
+| [Rubic Cosine](../cards/monsters/standard/–.md) | 3 ★★★ | 300 / 600 | Tuner |
+| [Rubic Secant](../cards/monsters/standard/–.md) | 6 ★★★★★★ | 900 / 1800 | |
+| [Rubic Cosecant](../cards/monsters/standard/–.md) | 6 ★★★★★★ | 1800 / 900 | |
 | [Rubic Driangle](../cards/monsters/ritual/–.md) | 9 ★★★★★★★★★ | 3000 / 1800 | Ritual |
+| [Rubic Token](../cards/monsters/tokens/–.md) | 3 ★★★ | 300 / 0 | |
 
 </details>
 
@@ -68,7 +69,6 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 | [Rubic Construction](../cards/spells/–/–.md) | ∞ Continuous |
 | [Rubic Slice](../cards/spells/–/–.md) | + Equip |
 | [Rubic Dragonometry](../cards/spells/–/–.md) | ⟡ Ritual |
-| [Rubic –](../cards/spells/–/–.md) | – |
 
 </details>
 
@@ -88,7 +88,6 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 | [Rubic Destruction](../cards/traps/–/–.md) | ∞ Continuous |
 | [Rubic Inverse](../cards/traps/–/–.md) | ↵ Counter |
 | [Rubic Transverse](../cards/traps/–/–.md) | ↵ Counter |
-| [Rubic –](../cards/traps/–/–.md) | – |
 
 </details>
 
@@ -101,7 +100,37 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 ### Level 3 non-Tuners
 {...}
 
+<table>
+  <tr>
+    <th> monster </th>
+    <td align="center"> Angular </td>
+    <td align="center"> Axis </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/monsters/Angular.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Axis.png"> </td>
+  </tr>
+  <tr>
+    <th> summon </th>
+    <td> Summon 1 Lv3 ‘Rubic’ monster from hand or grave </td>
+    <td> Summon 1 <a href="#Monsters">Rubic Token</a> to each field </td>
+  </tr>
+  <tr>
+    <th> banish </th>
+    <td> add 1 banished ‘Rubic’ monster to hand </td>
+    <td> bury 1 ‘Rubic’ monster from deck </td>
+  </tr>
+</table>
+
+### Level 3 Tuners
+{...}
+
+### Level 6 non-Tuners
+{...}
+
 ### Algorithm & Scramble
+{...}
 
 
 <br>
@@ -117,10 +146,9 @@ The archetype can both easily OTK and setup a powerful control board.
 
 ## Trivia
 
-- There are several opposing Spell/Traps.
-  - [Rubic Algorithm](#Spells) searches a ‘Rubic’ card while [Rubic Scramble](#Traps) moves ‘Rubic’ cards for disruption; both can be searched by [Rubic Radian](#Monsters).
-  - When a ‘Rubic’ Spell/Trap moves, [Rubic Construction](#Spells) spawns a Rubic Token, while [Rubic Destruction](#Traps) destroys a card; both recover the other when banished.
-- Every Link monster’s ATK equals its Link Rating x 1000, except [Rubic Hexangle](#Monsters), who alters its own ATK to reach multiples of 600.
+- The gimmicks of the archetype draw parallels to Rubik’s cubes and geometrics.
+  - Moving cards on the field corresponds to turning a Rubik’s cube.
+  - Spawning Rubic Tokens corresponds to drawing construction lines in geometrics.
 
 <details hide>
   <summary> <b> Nomenclature Trivia </b> </summary> <br>
@@ -244,7 +272,7 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
   </tr>
   <tr>
     <td rowspan="10"> cubing terminologics </td>
-    <td> <a href="#Algorithm-&-Scramble"> Algorithm </a>
+    <td> <a href="#Algorithm--Scramble"> Algorithm </a>
     <td> <a href="https://wikipedia.org/wiki/Algorithm"> algorithm </a> </td>
   </tr>
   <tr>
@@ -261,7 +289,7 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
   </tr>
   <tr>
     <td rowspan="7"> <a href="#Traps"> Traps </a> </td>
-    <td> <a href="#Algorithm-&-Scramble"> Scramble </a>
+    <td> <a href="#Algorithm--Scramble"> Scramble </a>
     <td> scrambling a Rubik’s cube </td>
   </tr>
   <tr>
@@ -305,5 +333,6 @@ Numbers relating to trigonometrics and Rubik’s Cubes feature prominently throu
   - [Rubic Execution](#Traps) and [Rubic Transverse](#Traps) both must be activated as Chain Link 3 or higher.
 - The ATK/DEF of the Level 3 Main Deck monsters total 900 (90° being a right angle).
 - The ATK/DEF of the Level 6 Main Deck monsters total 2700 (270° being the reflex of a right angle).
+- Every Link monster’s ATK equals its Link Rating x 1000, except [Rubic Hexangle](#Monsters), who alters its own ATK to reach multiples of 600.
 
 </details>
