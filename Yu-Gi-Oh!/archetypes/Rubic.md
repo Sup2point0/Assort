@@ -60,12 +60,13 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 
 | card | Type |
 | :--- | :--- |
+| [Rubic Plane](../cards/spells/–/–.md) | ✦ Field |
 | [Rubic Algorithm](../cards/spells/–/–.md) | |
 | [Rubic Permutation](../cards/spells/–/–.md) | |
 | [Rubic Solution](../cards/spells/–/–.md) | |
 | [Rubic Function](../cards/spells/–/–.md) | ⚡︎ Quick |
 | [Rubic Construction](../cards/spells/–/–.md) | ∞ Continuous |
-| [Rubic Plane](../cards/spells/–/–.md) | ✦ Field |
+| [Rubic Slice](../cards/spells/–/–.md) | + Equip |
 | [Rubic Dragonometry](../cards/spells/–/–.md) | ⟡ Ritual |
 | [Rubic –](../cards/spells/–/–.md) | – |
 
@@ -79,10 +80,12 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 | card | Type |
 | :--- | :--- |
 | [Rubic Scramble](../cards/traps/–/–.md) | |
-| [Rubic Destruction](../cards/traps/–/–.md) | ∞ Continuous |
+| [Rubic Execution](../cards/traps/–/–.md) | |
+| [Rubic Rotation](../cards/traps/–/–.md) | |
+| [Rubic Megaminx](../cards/traps/–/–.md) | |
 | [Rubic Reset](../cards/traps/–/–.md) | |
 | [Rubic Revenge](../cards/traps/–/–.md) | |
-| [Rubic Rotation](../cards/traps/–/–.md) | |
+| [Rubic Destruction](../cards/traps/–/–.md) | ∞ Continuous |
 | [Rubic Inverse](../cards/traps/–/–.md) | ↵ Counter |
 | [Rubic Transverse](../cards/traps/–/–.md) | ↵ Counter |
 | [Rubic –](../cards/traps/–/–.md) | – |
@@ -237,6 +240,7 @@ Numbers relating to trigonometrics and Rubik’s Cubes feature prominently throu
   - The Levels and Ranks of the Synchro and Xyz monsters are all multiples of 3.
   - The ATK/DEF of every monster is a multiple of 300.
   - The Ritual Spell [Rubic Dragonometry](#Spells) requires banishing exactly 3 monsters from 3 different locations, whose total Levels equal a multiple of 3.
+  - [Rubic Execution](#Traps) and [Rubic Transverse](#Traps) both must be activated as Chain Link 3 or higher.
 - The ATK/DEF of the Level 3 Main Deck monsters total 900 (90° being a right angle).
 - The ATK/DEF of the Level 6 Main Deck monsters total 2700 (270° being the reflex of a right angle).
 
