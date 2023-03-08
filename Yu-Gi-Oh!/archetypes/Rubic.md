@@ -101,6 +101,8 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 ### Level 3 non-Tuners
 {...}
 
+### Algorithm & Scramble
+
 
 <br>
 
@@ -242,7 +244,7 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
   </tr>
   <tr>
     <td rowspan="10"> cubing terminologics </td>
-    <td> <a href="#Spells"> Algorithm </a>
+    <td> <a href="#Algorithm-&-Scramble"> Algorithm </a>
     <td> <a href="https://wikipedia.org/wiki/Algorithm"> algorithm </a> </td>
   </tr>
   <tr>
@@ -259,7 +261,7 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
   </tr>
   <tr>
     <td rowspan="7"> <a href="#Traps"> Traps </a> </td>
-    <td> <a href="#Traps"> Scramble </a>
+    <td> <a href="#Algorithm-&-Scramble"> Scramble </a>
     <td> scrambling a Rubik’s cube </td>
   </tr>
   <tr>
