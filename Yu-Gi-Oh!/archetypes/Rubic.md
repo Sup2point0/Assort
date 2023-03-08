@@ -1,6 +1,6 @@
 # Rubic
 
-An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoning, inspired by Rubik’s Cubes and trigonometry.
+An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, Link Summoning and revolving around moving cards on the field, inspired by [trigonometry](https://wikipedia.org/wiki/Trigonometry) and [Rubik’s Cubes](https://wikipedia.org/wiki/Rubik%27s_Cube).
 
 
 <br>
@@ -153,7 +153,8 @@ The archetype can both easily OTK and setup a powerful control board.
 <details hide>
   <summary> <b> Nomenclature Trivia </b> </summary> <br>
 
-All of the names within the archetype derivityze from trigonometrical or speedcubing terms.
+- The name of the archetype is a portmanteau of *Rubik* (from [Ernő Rubik](https://en.wikipedia.org/wiki/Ern%C5%91_Rubik), the inventor of the Rubik’s cube) and *cubic* (from ‘cube’)
+- All of the names within the archetype derivityze from trigonometrical or speedcubing terms.
 
 <table>
   <tr>
