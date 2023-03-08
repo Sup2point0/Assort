@@ -133,7 +133,7 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <th> derivend </th>
   </tr>
   <tr>
-    <td rowspan="2"> <a href="#Level3non-Tuners"> Lv3 non-Tuners </a> </td>
+    <td rowspan="2"> <a href="#Level-3-non-Tuners"> Lv3 non-Tuners </a> </td>
     <td rowspan="3"> geometrical terminologics </td>
     <td> <a href="#Monsters"> Angular </a> </td>
     <td> angle </td>
@@ -143,12 +143,12 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <td> axis (graph) </td>
   </tr>
   <tr>
-    <td> Lv9 Ritual </td>
+    <td> <a href="#Ritual"> Ritual </a> </td>
     <td> <a href="#Monsters"> Driangle </a> </td>
     <td> <em>dragon</em> + <em>triangle</em>
   </tr>
   <tr>
-    <td rowspan="2"> Lv3 Tuners </td>
+    <td rowspan="2"> <a href="#Level-3-Tuners"> Lv3 Tuners </a> </td>
     <td rowspan="11"> <a href="https://wikipedia.org/wiki/Trigonometric_functions"> trigonometrical functions </a> </td>
     <td> <a href="#Monsters"> Sine </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Sine_and_cosine"> sine </a> </td>
@@ -158,7 +158,7 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <td> <a href="https://wikipedia.org/wiki/Sine_and_cosine"> cosine </a> </td>
   </tr>
   <tr>
-    <td rowspan="2"> Lv6 non-Tuners </td>
+    <td rowspan="2"> <a href="#Level-6-non-Tuners"> Lv6 non-Tuners </a> </td>
     <td> <a href="#Monsters"> Secant </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Trigonometric_functions"> secant </a> </td>
   </tr>
@@ -167,7 +167,7 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <td> <a href="https://wikipedia.org/wiki/Trigonometric_functions"> cosecant </a> </td>
   </tr>
   <tr>
-    <td rowspan="4"> Synchro monsters </td>
+    <td rowspan="4"> <a href="#Synchro-monsters"> Synchro monsters </a> </td>
     <td> <a href="#Monsters"> Versine </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Versine"> versine </a> </td>
   </tr>
@@ -184,7 +184,7 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <td> <a href="https://wikipedia.org/wiki/Inverse_trigonometric_functions">arcsine</a> (inverse sine) </td>
   </tr>
   <tr>
-    <td rowspan="3"> Xyz monsters </td>
+    <td rowspan="3"> <a href="#Xyz-monsters"> Xyz monsters </a> </td>
     <td> <a href="#Monsters"> Exsecant </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Exsecant"> exsecant </a> </td>
   </tr>
@@ -197,7 +197,7 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <td> <a href="https://wikipedia.org/wiki/Inverse_trigonometric_functions">arcsecant</a> (inverse secant) </td>
   </tr>
   <tr>
-    <td rowspan="6"> Link monsters </td>
+    <td rowspan="6"> <a href="#Link-monsters"> Link monsters </a> </td>
     <td rowspan="6"> geometrical terminologics </td>
     <td> <a href="#Monsters"> Radian </a> </td>
     <td> <a href="https://wikipedia.org/wiki/https://en.wikipedia.org/wiki/Radian">radian</a> (angle unit) </td>
@@ -223,7 +223,7 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <td> <em>hex-</em> in <a href="https://wikipedia.org/wiki/Hexagon">hexagon</a> + <em>-angle</em> </td>
   </tr>
   <tr>
-    <td rowspan="8"> Spells </td>
+    <td rowspan="8"> <a href="#Spells"> Spells </a> </td>
     <td rowspan="4"> geometrical terminologics </td>
     <td> <a href="#Spells"> Plane </a>
     <td> <a href="https://wikipedia.org/wiki/Plane_(mathematics)"> plane </a> </td>
@@ -258,7 +258,7 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <td> slice (movement in cubing) </td>
   </tr>
   <tr>
-    <td rowspan="7"> Traps </td>
+    <td rowspan="7"> <a href="#Traps"> Traps </a> </td>
     <td> <a href="#Traps"> Scramble </a>
     <td> scrambling a Rubik’s cube </td>
   </tr>
