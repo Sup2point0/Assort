@@ -96,6 +96,15 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, and Link Summoni
 <br>
 
 
+## Overview
+
+### Level 3 non-Tuners
+{...}
+
+
+<br>
+
+
 ## Strategics
 
 The archetype can both easily OTK and setup a powerful control board.
@@ -124,7 +133,7 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <th> derivend </th>
   </tr>
   <tr>
-    <td rowspan="2"> Lv3 non-Tuners </td>
+    <td rowspan="2"> <a href="#Level3non-Tuners"> Lv3 non-Tuners </a> </td>
     <td rowspan="3"> geometrical terminologics </td>
     <td> <a href="#Monsters"> Angular </a> </td>
     <td> angle </td>
