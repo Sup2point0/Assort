@@ -207,11 +207,11 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
   </tr>
   <tr>
     <td> <a href="#Monsters"> Quadrangle </a> </td>
-    <td> <a href="https://wikipedia.org/wiki/Quadrilateral">quadrilateral</a> + <em>angle</em> </td>
+    <td> <em>quadr-</em> in <a href="https://wikipedia.org/wiki/Quadrilateral">quadrilateral</a> + <em>-angle</em> </td>
   </tr>
   <tr>
     <td> <a href="#Monsters"> Hexangle </a> </td>
-    <td> <a href="https://wikipedia.org/wiki/Hexagon"><em>hexagon</em></a> + <em>angle</em> </td>
+    <td> <em>hex-</em> in <a href="https://wikipedia.org/wiki/Hexagon">hexagon</a> + <em>-angle</em> </td>
   </tr>
   <tr>
     <td rowspan="4"> Spells </td>
@@ -250,10 +250,36 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <td> slice (movement in cubing) </td>
   </tr>
   <tr>
-    <td rowspan="1"> Traps </td>
-    <td rowspan="1"> cubing terminologics </td>
-    <td> <a href="#Spells"> Revenge </a>
+    <td rowspan="6"> Traps </td>
+    <td rowspan="6"> cubing terminologics </td>
+    <td> <a href="#Traps"> Scramble </a>
+    <td> scrambling a Rubik’s cube </td>
+  </tr>
+  <tr>
+    <td> <a href="#Traps"> Execution </a>
+    <td> executing an algorithm </td>
+  </tr>
+  <tr>
+    <td> <a href="#Traps"> Rotation </a>
+    <td> rotating a face </td>
+  </tr>
+  <tr>
+    <td> <a href="#Traps"> Megaminx </a>
+    <td> <a href="https://wikipedia.org/wiki/Megaminx"><em>Megaminx</em></a> (dodecahedron) </td>
+  </tr>
+  <tr>
+    <td> <a href="#Traps"> Revenge </a>
     <td> <a href="https://wikipedia.org/wiki/Rubik%27s_Revenge"><em>Rubik’s Revenge</em></a> (4x4x4 cube) </td>
+  </tr>
+  <tr>
+    <td> <a href="#Traps"> Inverse </a>
+    <td> inverse movement (rotating a face counter-clockwise instead of clockwise) </td>
+  </tr>
+  <tr>
+    <td rowspan="1"> Traps </td>
+    <td rowspan="1"> geometrical terminologics </td>
+    <td> <a href="#Traps"> Transverse </a>
+    <td> <a href="https://wikipedia.org/wiki/Transversal_(geometry)"> transversal </a> </td>
   </tr>
 </table>
 
