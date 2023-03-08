@@ -191,7 +191,7 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <td rowspan="6"> Link monsters </td>
     <td rowspan="6"> geometrical terminologics </td>
     <td> <a href="#Monsters"> Radian </a> </td>
-    <td> <a href="https://wikipedia.org/wiki/https://en.wikipedia.org/wiki/Radian"> radian </a> </td>
+    <td> <a href="https://wikipedia.org/wiki/https://en.wikipedia.org/wiki/Radian">radian</a> (angle unit) </td>
   </tr>
   <tr>
     <td> <a href="#Monsters"> Diagonal </a> </td>
@@ -214,20 +214,48 @@ All of the names within the archetype derivityze from trigonometrical or speedcu
     <td> <a href="https://wikipedia.org/wiki/Hexagon"><em>hexagon</em></a> + <em>angle</em> </td>
   </tr>
   <tr>
-    <td rowspan="1"> Spells </td>
-    <td rowspan="1"> cubing terminologics </td>
+    <td rowspan="4"> Spells </td>
+    <td rowspan="4"> geometrical terminologics </td>
+    <td> <a href="#Spells"> Plane </a>
+    <td> <a href="https://wikipedia.org/wiki/Plane_(mathematics)"> plane </a> </td>
+  </tr>
+  <tr>
+    <td> <a href="#Spells"> Function </a>
+    <td> <a href="https://wikipedia.org/wiki/Function_(mathematics)"> function </a> </td>
+  </tr>
+  <tr>
+    <td> <a href="#Spells"> Construction </a>
+    <td> construction lines </td>
+  </tr>
+  <tr>
     <td> <a href="#Spells"> Dragonometry </a>
     <td> <em>dragon</em> + <em>-ometry</em> in <em>trigonometry</em> </td>
+  </tr>
+  <tr>
+    <td rowspan="4"> Spells </td>
+    <td rowspan="4"> cubing terminologics </td>
+    <td> <a href="#Spells"> Algorithm </a>
+    <td> <a href="https://wikipedia.org/wiki/Algorithm"> algorithm </a> </td>
+  </tr>
+  <tr>
+    <td> <a href="#Spells"> Permutation </a>
+    <td> <a href="https://wikipedia.org/wiki/Permutation"> permutation </a> </td>
+  </tr>
+  <tr>
+    <td> <a href="#Spells"> Solution </a>
+    <td> <a href="https://wikipedia.org/wiki/Solution"> solution </a> </td>
+  </tr>
+  <tr>
+    <td> <a href="#Spells"> Slice </a>
+    <td> slice (movement in cubing) </td>
   </tr>
   <tr>
     <td rowspan="1"> Traps </td>
     <td rowspan="1"> cubing terminologics </td>
     <td> <a href="#Spells"> Revenge </a>
-    <td> <a href="https://wikipedia.org/wiki/Rubik%27s_Revenge">Rubik’s Revenge</em> (4x4x4 cube) </td>
+    <td> <a href="https://wikipedia.org/wiki/Rubik%27s_Revenge"><em>Rubik’s Revenge</em></a> (4x4x4 cube) </td>
   </tr>
 </table>
-
-  - [Rubic Revenge](#Traps) derivityzes from the [Rubik’s Revenge](https://wikipedia.org/wiki/Rubik%27s_Revenge) (the 4x4x4 Rubik’s Cube).
 
 </details>
 
