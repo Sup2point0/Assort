@@ -189,10 +189,10 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, Link Summoning a
   </tr>
   <tr>
     <th> card </th>
-    <td align="center"> <img src="../../.assets/cards/monsters/.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/monsters/.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/monsters/.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/monsters/.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/links/Radian.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/links/Diagonal.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/links/Perpendicular.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/links/Vertex.png"> </td>
   </tr>
   <tr>
     <th> summon / continuous </th>
