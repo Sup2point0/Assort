@@ -38,19 +38,19 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, Link Summoning a
 
 | card | Level/Rank/Link | ATK/DEF | Type | material |
 | :--- | :-------------- | :------ | :--- | :------- |
-| [Rubic Versine](../cards/monsters/–/–.md) | 6 ★★★★★★ | 2400 / 1800 | Synchro | 1 ‘Rubic’ Tuner + 1 ‘Rubic’ non-Tuner monster |
-| [Rubic Vercosine](../cards/monsters/–/–.md) | 6 ★★★★★★ | 1800 / 2400 | Synchro Tuner | 1 ‘Rubic’ Tuner + 1 ‘Rubic’ non-Tuner monster |
-| [Rubic Haversine](../cards/monsters/–/–.md) | 9 ★★★★★★★★★ | 3000 / 2400 | Synchro | 1+ ‘Rubic’ Tuners + 1+ ‘Rubic’ non-Tuner monsters |
-| [Rubic Arcsine](../cards/monsters/–/–.md) | 12 ★★★★★★★★★★★★ | 3600 / 2700 | Synchro | 1+ ‘Rubic’ Tuners + 1+ ‘Rubic’ non-Tuner monsters |
-| [Rubic Exsecant](../cards/monsters/–/–.md) | 3 ★★★ | 2100 / 1500 | Xyz | 2+ Level 3 ‘Rubic’ monsters |
-| [Rubic Excosecant](../cards/monsters/–/–.md) | 6 ★★★★★★ | 2700 / 2100 | Xyz | 2+ Level 6 ‘Rubic’ monsters |
-| [Rubic Arcsecant](../cards/monsters/–/–.md) | 9 ★★★★★★★★★ | 3300 / 2700 | Xyz | 2+ Level 9 ‘Rubic’ monsters |
-| [Rubic Radian](../cards/monsters/–/–.md) | Link-1 | 1000 | Link | 1 ‘Rubic’ monster |
-| [Rubic Diagonal](../cards/monsters/–/–.md) | Link-2 | 2000 | Link | 2 ‘Rubic’ monsters |
-| [Rubic Perpendicular](../cards/monsters/–/–.md) | Link-2 | 2000 | Link | 2 ‘Rubic’ monsters |
-| [Rubic Vertex](../cards/monsters/–/–.md) | Link-3 | 3000 | Link | 2 ‘Rubic’ monsters |
-| [Rubic Quadrangle](../cards/monsters/–/–.md) | Link-4 | 4000 | Link | 2 ‘Rubic’ monsters |
-| [Rubic Hexangle](../cards/monsters/–/–.md) | Link-6 | 600 | Link | 3 ‘Rubic’ monsters |
+| [Rubic Versine](../cards/monsters/synchro/–.md) | 6 ★★★★★★ | 2400 / 1800 | Synchro | 1 ‘Rubic’ Tuner + 1 ‘Rubic’ non-Tuner monster |
+| [Rubic Vercosine](../cards/monsters/synchro/–.md) | 6 ★★★★★★ | 1800 / 2400 | Synchro Tuner | 1 ‘Rubic’ Tuner + 1 ‘Rubic’ non-Tuner monster |
+| [Rubic Haversine](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | 3000 / 2400 | Synchro | 1+ ‘Rubic’ Tuners + 1+ ‘Rubic’ non-Tuner monsters |
+| [Rubic Arcsine](../cards/monsters/synchro/–.md) | 12 ★★★★★★★★★★★★ | 3600 / 2700 | Synchro | 1+ ‘Rubic’ Tuners + 1+ ‘Rubic’ non-Tuner monsters |
+| [Rubic Exsecant](../cards/monsters/xyz/–.md) | 3 ★★★ | 2100 / 1500 | Xyz | 2+ Level 3 ‘Rubic’ monsters |
+| [Rubic Excosecant](../cards/monsters/xyz/–.md) | 6 ★★★★★★ | 2700 / 2100 | Xyz | 2+ Level 6 ‘Rubic’ monsters |
+| [Rubic Arcsecant](../cards/monsters/xyz/–.md) | 9 ★★★★★★★★★ | 3300 / 2700 | Xyz | 2+ Level 9 ‘Rubic’ monsters |
+| [Rubic Radian](../cards/monsters/link/–.md) | Link-1 | 1000 | Link | 1 ‘Rubic’ monster |
+| [Rubic Diagonal](../cards/monsters/link/–.md) | Link-2 | 2000 | Link | 2 ‘Rubic’ monsters |
+| [Rubic Perpendicular](../cards/monsters/link/–.md) | Link-2 | 2000 | Link | 2 ‘Rubic’ monsters |
+| [Rubic Vertex](../cards/monsters/link/–.md) | Link-3 | 3000 | Link | 2 ‘Rubic’ monsters |
+| [Rubic Quadrangle](../cards/monsters/link/–.md) | Link-4 | 4000 | Link | 2 ‘Rubic’ monsters |
+| [Rubic Hexangle](../cards/monsters/link/–.md) | Link-6 | 600 | Link | 3 ‘Rubic’ monsters |
 
 </details>
 
