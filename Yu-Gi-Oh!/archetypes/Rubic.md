@@ -113,21 +113,68 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, Link Summoning a
   </tr>
   <tr>
     <th> summon </th>
-    <td> Summon 1 Lv3 ‘Rubic’ monster from hand or grave </td>
-    <td> Summon 1 <a href="#Monsters">Rubic Token</a> to each field </td>
+    <td> Summon a Lv3 ‘Rubic’ monster from hand or grave </td>
+    <td> Summon a <a href="#Monsters">Rubic Token</a> to each field </td>
   </tr>
   <tr>
     <th> banish </th>
-    <td> add 1 banished ‘Rubic’ monster to hand </td>
-    <td> bury 1 ‘Rubic’ monster from deck </td>
+    <td> add a banished ‘Rubic’ monster to hand </td>
+    <td> bury a ‘Rubic’ monster from deck </td>
   </tr>
 </table>
 
 ### Level 3 Tuners
 {...}
 
+<table>
+  <tr>
+    <th> monster </th>
+    <td align="center"> Sine </td>
+    <td align="center"> Cosine </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/monsters/Sine.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Cosine.png"> </td>
+  </tr>
+  <tr>
+    <th> search </th>
+    <td> non-Tuner monster </td>
+    <td> non-Normal Spell/Trap </td>
+  </tr>
+</table>
+
 ### Level 6 non-Tuners
 {...}
+
+<table>
+  <tr>
+    <th> monster </th>
+    <td align="center"> Secant </td>
+    <td align="center"> Cosecant </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/monsters/Secant.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Cosecant.png"> </td>
+  </tr>
+  <tr>
+    <th> summon </th>
+    <td> negate the effects of a card on the field for a turn </td>
+    <td> flip a card on the field facedown </td>
+  </tr>
+  <tr>
+    <th> move </th>
+    <td> bury a monster from deck </td>
+    <td> bury a Trap from deck </td>
+  </tr>
+</table>
+
+### Ritual
+
+### Synchro Monsters
+
+### Xyz Monsters
 
 ### Link Monsters
 {...}
