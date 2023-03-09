@@ -132,9 +132,32 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, Link Summoning a
 ### Link Monsters
 {...}
 
-$$
-e^{i\pi} + 1 = 0
-$$
+<table>
+  <tr>
+    <th> monster </th>
+    <td align="center"> Radian </td>
+    <td align="center"> Diagonal </td>
+    <td align="center"> Perpendicular </td>
+    <td align="center"> Vertex </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/monsters/.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/.png"> </td>
+  </tr>
+  <tr>
+    <th> summon </th>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <th> other </th>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+</table>
 
 ### Algorithm & Scramble
 {...}
