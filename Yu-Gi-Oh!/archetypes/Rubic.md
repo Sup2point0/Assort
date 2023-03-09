@@ -108,8 +108,8 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, Link Summoning a
   </tr>
   <tr>
     <th> card </th>
-    <td align="center"> <img src="../../.assets/cards/monsters/Angular.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/monsters/Axis.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Rubic Angular.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Rubic Axis.png"> </td>
   </tr>
   <tr>
     <th> summon </th>
@@ -134,8 +134,8 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, Link Summoning a
   </tr>
   <tr>
     <th> card </th>
-    <td align="center"> <img src="../../.assets/cards/monsters/Sine.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/monsters/Cosine.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Rubic Sine.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Rubic Cosine.png"> </td>
   </tr>
   <tr>
     <th> search </th>
@@ -155,8 +155,8 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, Link Summoning a
   </tr>
   <tr>
     <th> card </th>
-    <td align="center"> <img src="../../.assets/cards/monsters/Secant.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/monsters/Cosecant.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Rubic Secant.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Rubic Cosecant.png"> </td>
   </tr>
   <tr>
     <th> summon </th>
