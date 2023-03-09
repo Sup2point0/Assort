@@ -129,6 +129,13 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, Link Summoning a
 ### Level 6 non-Tuners
 {...}
 
+### Link Monsters
+{...}
+
+$$
+e^{i\pi} + 1 = 0
+$$
+
 ### Algorithm & Scramble
 {...}
 
