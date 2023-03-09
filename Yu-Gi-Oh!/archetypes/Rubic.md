@@ -182,12 +182,12 @@ The archetype can both easily OTK and setup a powerful control board.
 
 - The gimmicks of the archetype draw parallels to Rubik’s cubes and geometrics.
   - Moving cards on the field corresponds to turning a Rubik’s cube.
-  - Spawning Rubic Tokens corresponds to drawing construction lines in geometrics.
-- The Link Arrows of the Link monsters all point in ordinal directions, except [Rubic Hexangle](#Link-monsters).
+  - Spawning [Rubic Tokens](#Tokens) corresponds to drawing construction lines in geometrics.
+- The Link Arrows of the Link monsters all point in ordinal directions, except [Rubic Hexangle](#Link-Monsters).
   - As such, the archetype can cryze a tri-monster Extra Link.
     - This doesn’t achieve much since the upwards arrows will unlock plenty of zones for the opponent anyway.
-    - Although, these can be blocked off with [Rubic Tokens](#Monsters) to lock the opponent out of Link Summoning.
-  - The arrows of [Rubic Radian](#Link-monsters) and [Rubic Perpendicular](#Link-monsters) combine to form the arrows of [Rubic Vertex](#Link-monsters).
+    - Although, these can be blocked off with Rubic Tokens to lock the opponent out of Link Summoning.
+  - The arrows of [Rubic Radian](#Link-Monsters) and [Rubic Perpendicular](#Link-Monsters) combine to form the arrows of [Rubic Vertex](#Link-Monsters).
 
 <details hide>
   <summary> <b> Nomenclature Trivia </b> </summary> <br>
@@ -267,7 +267,7 @@ The archetype can both easily OTK and setup a powerful control board.
     <td> <a href="https://wikipedia.org/wiki/Inverse_trigonometric_functions">arcsecant</a> (inverse secant) </td>
   </tr>
   <tr>
-    <td rowspan="6"> <a href="#Link-monsters"> Link monsters </a> </td>
+    <td rowspan="6"> <a href="#Link-Monsters"> Link monsters </a> </td>
     <td rowspan="6"> geometrical terminologics </td>
     <td> <a href="#Monsters"> Radian </a> </td>
     <td> <a href="https://wikipedia.org/wiki/https://en.wikipedia.org/wiki/Radian">radian</a> (angle unit) </td>
@@ -366,13 +366,14 @@ The archetype can both easily OTK and setup a powerful control board.
 
 Numbers relating to trigonometrics and Rubik’s Cubes feature prominently throughout the archetype.
 
-- In particular, everything revolves around the number 3.
+- In particular, everything revolves around the number 3 (since triangles have 3 sides), as well as 6 (since Rubik’s cubes have 6 faces).
   - The Levels and Ranks of the Synchro and Xyz monsters are all multiples of 3.
   - The ATK/DEF of every monster is a multiple of 300.
-  - The Ritual Spell [Rubic Dragonometry](#Spells) requires banishing exactly 3 monsters from 3 different locations, whose total Levels equal a multiple of 3.
+  - The Ritual Spell [Rubic Dragonometry](#Ritual) requires banishing exactly 3 monsters from 3 different locations, whose total Levels equal a multiple of 3.
   - [Rubic Execution](#Traps) and [Rubic Transverse](#Traps) both must be activated as Chain Link 3 or higher.
 - The ATK/DEF of the Level 3 Main Deck monsters total 900 (90° being a right angle).
 - The ATK/DEF of the Level 6 Main Deck monsters total 2700 (270° being the reflex of a right angle).
-- Every Link monster’s ATK equals its Link Rating x 1000, except [Rubic Hexangle](#Link-monsters), who alters its own ATK to reach multiples of 600.
+- Every Link monster’s ATK equals its Link Rating x 1000, except [Rubic Hexangle](#Link-Monsters), who alters its own ATK to reach multiples of 600.
+  - The highest practical ATK it can reach is 6600, when it links to 5 cards while in the central Main Monster Zone.
 
 </details>
