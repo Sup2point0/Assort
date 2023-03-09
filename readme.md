@@ -1,6 +1,6 @@
 # Assort
 
-An assortion of my various cryzacions.
+An assortacion of my varical cryzacions.
 
 
 <br>
