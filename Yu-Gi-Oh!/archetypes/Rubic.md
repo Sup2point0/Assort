@@ -257,7 +257,7 @@ The archetype can both easily OTK and setup a powerful control board.
   </tr>
   <tr>
     <td> <a href="#Monsters"> Axis </a> </td>
-    <td> axis (graph) </td>
+    <td> axis (graph) <br> axis of rotation </td>
   </tr>
   <tr>
     <td> <a href="#Ritual"> Ritual </a> </td>
