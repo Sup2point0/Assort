@@ -148,14 +148,18 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, Link Summoning a
     <td align="center"> <img src="../../.assets/cards/monsters/.png"> </td>
   </tr>
   <tr>
-    <th> summon </th>
-    <td>  </td>
-    <td>  </td>
+    <th> summon / continuous </th>
+    <td> bury <a href="#Algorithm--Scramble">Algorithm or Scramble</a> </td>
+    <td> searched <a href="#Ritual">Dragonometry</a> + recover banished ‘Angle’ monster </td>
+    <td> Set 1 Spell/Trap from grave </td>
+    <td> targeting protection to self and monsters it links to </td>
   </tr>
   <tr>
-    <th> other </th>
-    <td>  </td>
-    <td>  </td>
+    <th> trigger / ignition </th>
+    <td> attach as Xyz material </td>
+    <td> spawns 2 Tokens </td>
+    <td> move 1 of each player’s monsters and boost your monster’s ATK by half of the opponent’s </td>
+    <td> spawns 3 Tokens </td>
   </tr>
 </table>
 
