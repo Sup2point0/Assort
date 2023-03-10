@@ -309,91 +309,91 @@ The archetype can both easily OTK and setup a powerful control board.
   <tr>
     <td rowspan="2"> <a href="#Level-3-non-Tuners"> Lv3 non-Tuners </a> </td>
     <td rowspan="3"> geometrical terminologics </td>
-    <td> <a href="#Monsters"> Angular </a> </td>
+    <td> <a href="#Level-3-non-Tuners"> Angular </a> </td>
     <td> angle </td>
   </tr>
   <tr>
-    <td> <a href="#Monsters"> Axis </a> </td>
+    <td> <a href="#Level-3-non-Tuners"> Axis </a> </td>
     <td> axis (graph) <br> axis of rotation </td>
   </tr>
   <tr>
     <td> <a href="#Ritual"> Ritual </a> </td>
-    <td> <a href="#Monsters"> Driangle </a> </td>
+    <td> <a href="#Ritual"> Driangle </a> </td>
     <td> <em>dragon</em> + <em>triangle</em>
   </tr>
   <tr>
     <td rowspan="2"> <a href="#Level-3-Tuners"> Lv3 Tuners </a> </td>
     <td rowspan="11"> <a href="https://wikipedia.org/wiki/Trigonometric_functions"> trigonometrical functions </a> </td>
-    <td> <a href="#Monsters"> Sine </a> </td>
+    <td> <a href="#Level-3-Tuners"> Sine </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Sine_and_cosine"> sine </a> </td>
   </tr>
   <tr>
-    <td> <a href="#Monsters"> Cosine </a> </td>
+    <td> <a href="#Level-3-Tuners"> Cosine </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Sine_and_cosine"> cosine </a> </td>
   </tr>
   <tr>
     <td rowspan="2"> <a href="#Level-6-non-Tuners"> Lv6 non-Tuners </a> </td>
-    <td> <a href="#Monsters"> Secant </a> </td>
+    <td> <a href="#Level-6-non-Tuners"> Secant </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Trigonometric_functions"> secant </a> </td>
   </tr>
   <tr>
-    <td> <a href="#Monsters"> Cosecant </a> </td>
+    <td> <a href="#Level-6-non-Tuners"> Cosecant </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Trigonometric_functions"> cosecant </a> </td>
   </tr>
   <tr>
-    <td rowspan="4"> <a href="#Synchro-monsters"> Synchro monsters </a> </td>
-    <td> <a href="#Monsters"> Versine </a> </td>
+    <td rowspan="4"> <a href="#Synchro-Monsters"> Synchro monsters </a> </td>
+    <td> <a href="#Synchro-Monsters"> Versine </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Versine"> versine </a> </td>
   </tr>
   <tr>
-    <td> <a href="#Monsters"> Vercosine </a> </td>
+    <td> <a href="#Synchro-Monsters"> Vercosine </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Versine">vercosine</a> (coversine) </td>
   </tr>
   <tr>
-    <td> <a href="#Monsters"> Haversine </a> </td>
+    <td> <a href="#Synchro-Monsters"> Haversine </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Versine"> haversine </a> </td>
   </tr>
   <tr>
-    <td> <a href="#Monsters"> Arcsine </a> </td>
+    <td> <a href="#Synchro-Monsters"> Arcsine </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Inverse_trigonometric_functions">arcsine</a> (inverse sine) </td>
   </tr>
   <tr>
-    <td rowspan="3"> <a href="#Xyz-monsters"> Xyz monsters </a> </td>
-    <td> <a href="#Monsters"> Exsecant </a> </td>
+    <td rowspan="3"> <a href="#Xyz-Monsters"> Xyz monsters </a> </td>
+    <td> <a href="#Xyz-Monsters"> Exsecant </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Exsecant"> exsecant </a> </td>
   </tr>
   <tr>
-    <td> <a href="#Monsters"> Excosecant </a> </td>
+    <td> <a href="#Xyz-Monsters"> Excosecant </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Exsecant"> excosecant </a> </td>
   </tr>
   <tr>
-    <td> <a href="#Monsters"> Arcsecant </a> </td>
+    <td> <a href="#Xyz-Monsters"> Arcsecant </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Inverse_trigonometric_functions">arcsecant</a> (inverse secant) </td>
   </tr>
   <tr>
     <td rowspan="6"> <a href="#Link-Monsters"> Link monsters </a> </td>
     <td rowspan="6"> geometrical terminologics </td>
-    <td> <a href="#Monsters"> Radian </a> </td>
+    <td> <a href="#Link-Monsters"> Radian </a> </td>
     <td> <a href="https://wikipedia.org/wiki/https://en.wikipedia.org/wiki/Radian">radian</a> (angle unit) </td>
   </tr>
   <tr>
-    <td> <a href="#Monsters"> Diagonal </a> </td>
+    <td> <a href="#Link-Monsters"> Diagonal </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Diagonal"> diagonal </a> </td>
   </tr>
   <tr>
-    <td> <a href="#Monsters"> Perpendicular </a> </td>
+    <td> <a href="#Link-Monsters"> Perpendicular </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Perpendicular"> perpendicular </a> </td>
   </tr>
   <tr>
-    <td> <a href="#Monsters"> Vertex </a> </td>
+    <td> <a href="#Link-Monsters"> Vertex </a> </td>
     <td> <a href="https://wikipedia.org/wiki/Vertex_(geometry)"> vertex </a> </td>
   </tr>
   <tr>
-    <td> <a href="#Monsters"> Quadrangle </a> </td>
+    <td> <a href="#Link-Monsters"> Quadrangle </a> </td>
     <td> <em>quadr-</em> in <a href="https://wikipedia.org/wiki/Quadrilateral">quadrilateral</a> + <em>-angle</em> </td>
   </tr>
   <tr>
-    <td> <a href="#Monsters"> Hexangle </a> </td>
+    <td> <a href="#Link-Monsters"> Hexangle </a> </td>
     <td> <em>hex-</em> in <a href="https://wikipedia.org/wiki/Hexagon">hexagon</a> + <em>-angle</em> </td>
   </tr>
   <tr>
@@ -411,7 +411,7 @@ The archetype can both easily OTK and setup a powerful control board.
     <td> construction lines </td>
   </tr>
   <tr>
-    <td> <a href="#Spells"> Dragonometry </a>
+    <td> <a href="#Ritual"> Dragonometry </a>
     <td> <em>dragon</em> + <em>-ometry</em> in <em>trigonometry</em> </td>
   </tr>
   <tr>
@@ -480,8 +480,8 @@ Numbers relating to trigonometrics and Rubik’s Cubes feature prominently throu
   - The Ritual Spell [Rubic Dragonometry](#Ritual) requires banishing exactly 3 monsters from 3 different locations, whose total Levels equal a multiple of 3.
   - [Rubic Execution](#Traps) and [Rubic Transverse](#Traps) both must be activyzen as Chain Link 3 or higher.
   - There are exactly 3 ways of obtaining Level 9 monsters to overlay into [Rubic Arcsecant](#Xyz-Monsters) (instead of through [Rank-Up Xyz Evolution](#Xyz-Monsters), those being [Rubic Haversine](#Synchro-Monsters), [Rubic Driangle](#Ritual), [Rubic Megaminx](#Traps).
-- The ATK/DEF of the Level 3 Main Deck monsters total 900 (90° being a right angle).
-- The ATK/DEF of the Level 6 Main Deck monsters total 2700 (270° being the reflex of a right angle).
+- The ATK/DEF of the Level 3 monsters total 900 (90° being a right angle).
+- The ATK/DEF of the Level 6 non-Tuners total 2700 (270° being the reflex of a right angle).
 - Every Link monster’s ATK equals its Link Rating x 1000, except [Rubic Hexangle](#Link-Monsters), who alters its own ATK to reach multiples of 600.
   - The highest practical ATK it can reach is 6600, when it links to 5 cards while in the central Main Monster Zone.
 
