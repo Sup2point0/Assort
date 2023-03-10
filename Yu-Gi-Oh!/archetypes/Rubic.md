@@ -97,6 +97,8 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, Link Summoning a
 
 ## Overview
 
+The different classes of monsters within the archetype each serve different purposes. This is especially apparent in the Extra Deck monsters, where each type has a specialty – Synchros break the board and attack for kill, Xyzs control the board and move cards, Links search cards and spawn Tokens.
+
 ### Level 3 non-Tuners
 {...}
 
@@ -221,20 +223,39 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, Link Summoning a
 
 The archetype can both easily OTK and setup a powerful control board.
 
+### Tech Picks
+
+- [Foolish Exile]() can banish a [Level 3 Tuner](#Level-3-Tuners) to trigger their effect and easily search a card, while also sending them into circulyzacion.
+- [Foolish Burial Trade]() works nicely too, recovering banished Extra Deck monsters and recycling Spell/Traps.
+- [Final Vanquish]() works well, since the archetype utilyzes every Summoning tecnique except Fusion.
+  - The banished monster can then be retrieved by [Angular](#Level-3-non-Tuners) if needed.
+- [Awakening the Drakon]() can be highly effective at dropping a surprise [Angle Link monster](#Link-Monsters) on the opponent.
+
 
 <br>
 
 
 ## Trivia
 
+- The archetype is fairly xenophobical.
+  - Most effects support only ‘Rubic’ cards.
+  - [Rubic Algorithm and Rubic Scramble](#Algorithm--Scramble) both lock the player from activyzing any monster effects other than those of ‘Rubic’ monsters.
+  - The [Level 6 non-Tuners](#Level-6-non-Tuners) benefit from banishing ‘Rubic’ cards to Summon themselves
+  - [Rubic Function](#Spells) is the only card to function with any Cyberse monster.
 - The gimmicks of the archetype draw parallels to Rubik’s cubes and geometrics.
   - Moving cards on the field corresponds to turning a Rubik’s cube.
   - Spawning [Rubic Tokens](#Tokens) corresponds to drawing construction lines in geometrics.
-- The Link Arrows of the Link monsters all point in ordinal directions, except [Rubic Hexangle](#Link-Monsters).
+- [Rubic Axis](#Level-3-non-Tuners) Summons Tokens to the same column, creating a vertical ‘axis’ between each player’s field.
+- The Link Arrows of the Link monsters all point in ordinal directions.
   - As such, the archetype can cryze a tri-monster Extra Link.
     - This doesn’t achieve much since the upwards arrows will unlock plenty of zones for the opponent anyway.
     - Although, these can be blocked off with Rubic Tokens to lock the opponent out of Link Summoning.
   - The arrows of [Rubic Radian](#Link-Monsters) and [Rubic Perpendicular](#Link-Monsters) combine to form the arrows of [Rubic Vertex](#Link-Monsters).
+- [Rubic Hexangle](#Link-Monsters), being the ultimate ace of the archetype, is an exception to several of its trends.
+  - It is the only card that inherently moves itself (and no other cards).
+  - Instead of synergyzing with other cards, it only relyzes on them being present to boost its own ATK.
+  - It requires exactly 3 materials, while the rest of the [Link monsters](#Link-Monsters) higher than Link-1 require exactly 2 materials.
+  - It is the only Link monster with Link Arrows in the cardinal directions.
 
 <details hide>
   <summary> <b> Nomenclature Trivia </b> </summary> <br>
@@ -417,7 +438,7 @@ Numbers relating to trigonometrics and Rubik’s Cubes feature prominently throu
   - The Levels and Ranks of the Synchro and Xyz monsters are all multiples of 3.
   - The ATK/DEF of every monster is a multiple of 300.
   - The Ritual Spell [Rubic Dragonometry](#Ritual) requires banishing exactly 3 monsters from 3 different locations, whose total Levels equal a multiple of 3.
-  - [Rubic Execution](#Traps) and [Rubic Transverse](#Traps) both must be activated as Chain Link 3 or higher.
+  - [Rubic Execution](#Traps) and [Rubic Transverse](#Traps) both must be activyzen as Chain Link 3 or higher.
 - The ATK/DEF of the Level 3 Main Deck monsters total 900 (90° being a right angle).
 - The ATK/DEF of the Level 6 Main Deck monsters total 2700 (270° being the reflex of a right angle).
 - Every Link monster’s ATK equals its Link Rating x 1000, except [Rubic Hexangle](#Link-Monsters), who alters its own ATK to reach multiples of 600.
