@@ -175,8 +175,42 @@ The different classes of monsters within the archetype each serve different purp
 ### Ritual
 
 ### Synchro Monsters
+{...}
+
+<table>
+  <tr>
+    <th> monster </th>
+    <td align="center"> Versine </td>
+    <td align="center"> Vercosine </td>
+    <td align="center"> Haversine </td>
+    <td align="center"> Arcsine </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/link/Rubic Versine.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/link/Rubic Vercosine.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/link/Rubic Haversine.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/link/Rubic Arcsine.png"> </td>
+  </tr>
+</table>
 
 ### Xyz Monsters
+{...}
+
+<table>
+  <tr>
+    <th> monster </th>
+    <td align="center"> Exsecant </td>
+    <td align="center"> Excosecant </td>
+    <td align="center"> Arcsecant </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/link/Rubic Exsecant.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/link/Rubic Excosecant.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/link/Rubic Arcsecant.png"> </td>
+  </tr>
+</table>
 
 ### Link Monsters
 {...}
