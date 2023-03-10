@@ -187,10 +187,10 @@ The different classes of monsters within the archetype each serve different purp
   </tr>
   <tr>
     <th> card </th>
-    <td align="center"> <img src="../../.assets/cards/link/Rubic Versine.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/link/Rubic Vercosine.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/link/Rubic Haversine.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/link/Rubic Arcsine.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/synchro/Rubic Versine.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/synchro/Rubic Vercosine.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/synchro/Rubic Haversine.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/synchro/Rubic Arcsine.png"> </td>
   </tr>
 </table>
 
@@ -206,9 +206,9 @@ The different classes of monsters within the archetype each serve different purp
   </tr>
   <tr>
     <th> card </th>
-    <td align="center"> <img src="../../.assets/cards/link/Rubic Exsecant.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/link/Rubic Excosecant.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/link/Rubic Arcsecant.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/xyz/Rubic Exsecant.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/xyz/Rubic Excosecant.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/xyz/Rubic Arcsecant.png"> </td>
   </tr>
 </table>
 
@@ -290,6 +290,8 @@ The archetype can both easily OTK and setup a powerful control board.
   - Instead of synergyzing with other cards, it only relyzes on them being present to boost its own ATK.
   - It requires exactly 3 materials, while the rest of the [Link monsters](#Link-Monsters) higher than Link-1 require exactly 2 materials.
   - It is the only Link monster with Link Arrows in the cardinal directions.
+- A high proportion of the card art is, in fact, shamelessly stolen from existing *Yu-Gi-Oh!* cards.
+  - Those archetypes include protively [Mathmech] and [Topologic], as well as [Deskbot], [Cubic] (the ironicity, I know), [Tindangle], and varical [Cyberse] support.
 
 <details hide>
   <summary> <b> Nomenclature Trivia </b> </summary> <br>
