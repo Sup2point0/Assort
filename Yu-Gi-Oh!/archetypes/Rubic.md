@@ -225,10 +225,10 @@ The different classes of monsters within the archetype each serve different purp
   </tr>
   <tr>
     <th> card </th>
-    <td align="center"> <img src="../../.assets/cards/link/Rubic Radian.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/link/Rubic Diagonal.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/link/Rubic Perpendicular.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/link/Rubic Vertex.png"> </td>
+    <td align="center" height="69px"> <img src="../../.assets/cards/link/Rubic Radian.png"> </td>
+    <td align="center" height="69px"> <img src="../../.assets/cards/link/Rubic Diagonal.png"> </td>
+    <td align="center" height="69px"> <img src="../../.assets/cards/link/Rubic Perpendicular.png"> </td>
+    <td align="center" height="69px"> <img src="../../.assets/cards/link/Rubic Vertex.png"> </td>
   </tr>
   <tr>
     <th> summon / continuous </th>
