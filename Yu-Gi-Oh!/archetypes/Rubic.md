@@ -219,29 +219,29 @@ The different classes of monsters within the archetype each serve different purp
   <tr>
     <th> monster </th>
     <td align="center"> Radian </td>
-    <td align="center"> Diagonal </td>
     <td align="center"> Perpendicular </td>
+    <td align="center"> Diagonal </td>
     <td align="center"> Vertex </td>
   </tr>
   <tr>
     <th> card </th>
-    <td align="center"> <img height="169px" src="../../.assets/cards/link/Rubic Radian.png"> </td>
-    <td align="center"> <img height="169px" src="../../.assets/cards/link/Rubic Diagonal.png"> </td>
-    <td align="center"> <img height="169px" src="../../.assets/cards/link/Rubic Perpendicular.png"> </td>
-    <td align="center"> <img height="169px" src="../../.assets/cards/link/Rubic Vertex.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/link/Rubic Radian.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/link/Rubic Perpendicular.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/link/Rubic Diagonal.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/link/Rubic Vertex.png"> </td>
   </tr>
   <tr>
     <th> summon / continuous </th>
     <td> bury <a href="#Algorithm--Scramble">Algorithm or Scramble</a> </td>
-    <td> searched <a href="#Ritual">Dragonometry</a> + recover banished ‘Angle’ monster </td>
     <td> Set 1 Spell/Trap from grave </td>
+    <td> searched <a href="#Ritual">Dragonometry</a> + recover banished ‘Angle’ monster </td>
     <td> targeting protection to self and monsters it links to </td>
   </tr>
   <tr>
     <th> trigger / ignition </th>
     <td> attach as Xyz material </td>
-    <td> spawns 2 Tokens </td>
     <td> move 1 of each player’s monsters and boost your monster’s ATK by half of the opponent’s </td>
+    <td> spawns 2 Tokens </td>
     <td> spawns 3 Tokens </td>
   </tr>
 </table>
