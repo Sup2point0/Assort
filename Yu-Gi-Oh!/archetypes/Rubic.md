@@ -263,6 +263,8 @@ The ideal turn 0 endboard consists of 1 monster of each Summoning tecnique, and 
 | card | evolucion | notes |
 | :--- | :-------- | :---- |
 | [Arcsecant](#Xyz-Monsters) / [Excosecant](#Xyz-Monsters) | ([Exsecant](#Xyz-Monsters) ›) [Excosecant](#Xyz-Monsters) › [Arcsecant](#Xyz-Monsters) <br> overlay [Lv6 non-Tuners](#Level-6-non-Tuners) | dynamical negate |
+| [Driangle](#Ritual) | [Diagonal](#Link-Monsters) › [Dragonometry](#Ritual) | problematical removal and floating effects |
+| [Haversine](#Synchro-Monsters) / [Versine](#Synchro-Monsters) | [Vercosine](#Synchro-Monsters) + [Token](#Tokens) or [Lv3 non-Tuner](#Level-3-non-Tuners) <br> [Versine](#Synchro-Monsters) + [Lv3 Tuner](#Level-3-Tuners) | interruptive removal triggered by Traps |
 
 ### Tech Picks
 
