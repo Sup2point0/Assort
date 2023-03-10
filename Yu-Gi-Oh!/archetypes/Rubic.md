@@ -471,10 +471,15 @@ The archetype can both easily OTK and setup a powerful control board.
 Numbers relating to trigonometrics and Rubik’s Cubes feature prominently throughout the archetype.
 
 - In particular, everything revolves around the number 3 (since triangles have 3 sides), as well as 6 (since Rubik’s cubes have 6 faces).
+  - Excluding Rubic Driangle, there are 3 classes within the Main Deck ([Lv3 non-Tuner](#Level-3-non-Tuners), [Lv3 Tuner](#Level-3-Tuners), [Lv6 non-Tuner](#Level-6-non-Tuners)), with 6 monsters in total.
+  - The archetype utilyzes 3 Extra Deck types.
+    - There are 3 [Xyz monsters](#Xyz-Monsters) and 6 [Link monsters](#Link-Monsters).
   - The Levels and Ranks of the Synchro and Xyz monsters are all multiples of 3.
   - The ATK/DEF of every monster is a multiple of 300.
+    - [Rubic Tokens](#Tokens) have 300 ATK.
   - The Ritual Spell [Rubic Dragonometry](#Ritual) requires banishing exactly 3 monsters from 3 different locations, whose total Levels equal a multiple of 3.
   - [Rubic Execution](#Traps) and [Rubic Transverse](#Traps) both must be activyzen as Chain Link 3 or higher.
+  - There are exactly 3 ways of obtaining Level 9 monsters to overlay into [Rubic Arcsecant](#Xyz-Monsters) (instead of through [Rank-Up Xyz Evolution](#Xyz-Monsters), those being [Rubic Haversine](#Synchro-Monsters), [Rubic Driangle](#Ritual), [Rubic Megaminx](#Traps).
 - The ATK/DEF of the Level 3 Main Deck monsters total 900 (90° being a right angle).
 - The ATK/DEF of the Level 6 Main Deck monsters total 2700 (270° being the reflex of a right angle).
 - Every Link monster’s ATK equals its Link Rating x 1000, except [Rubic Hexangle](#Link-Monsters), who alters its own ATK to reach multiples of 600.
