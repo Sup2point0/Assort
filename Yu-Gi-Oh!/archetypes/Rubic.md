@@ -260,6 +260,10 @@ The archetype can both easily OTK and setup a powerful control board.
 ### Formacions
 The ideal turn 0 endboard consists of 1 monster of each Summoning tecnique, and as *many* Traps as can possibly be obtained – with such an efficient and consistent but xenophobical engine, the archetype has loads of them to replace handtraps.
 
+| card | evolucion | notes |
+| :--- | :-------- | :---- |
+| [Arcsecant](#Xyz-Monsters) / [Excosecant](#Xyz-Monsters) | ([Exsecant](#Xyz-Monsters) ›) [Excosecant](#Xyz-Monsters) › [Arcsecant](#Xyz-Monsters) <br> overlay [Lv6 non-Tuners](#Level-6-non-Tuners) | dynamical negate |
+
 ### Tech Picks
 
 - [Foolish Exile]() can banish a [Level 3 Tuner](#Level-3-Tuners) to trigger their effect and easily search a card, while also sending them into circulyzacion.
