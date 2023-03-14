@@ -1,6 +1,93 @@
 # Darquess
 
-An archetype of DARK and protively Spellcaster monsters, focusing on Ritual and Fusion Summoning through the unique Ritual and Fusion Spell [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md), as well as banishing cards and dealing damage to the player themselves. All monsters have 0 DEF, with the lower Level monsters searching out the other cards in the archetype, and the higher Level monsters acting as powerful counters and floodgates.
+An archetype of DARK and protively Spellcaster monsters, harnessing Ritual and Fusion Summoning through the unique Ritual and Fusion Spell [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md), revolving around banishing cards and dealing damage to the player themselves.
+
+
+<br>
+
+
+## Cards
+
+| type | count |
+| :--- | :---- |
+| Ritual | x3 |
+| Fusion | x6 |
+
+### Monsters
+
+<details open>
+  <summary> <b> Main Deck </b> </summary> <br>
+
+| card | Level | ATK/DEF | Type |
+| :--- | :---- | :------ | :--- |
+| [Aiza, Invoker of Darquess](../cards/monsters/standard/–.md) | 4 ★★★★ | 1900 / 0 | |
+| [Azia, Envoker of Darquess](../cards/monsters/standard/–.md) | 4 ★★★★ | 1900 / 0 | |
+| [Zaia, Evoker of Darquess](../cards/monsters/standard/–.md) | 4 ★★★★ | 1900 / 0 | |
+| [Cythris, Augur of Darquess](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2300 / 0 | |
+| [Lyfris, Herald of Darquess](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2300 / 0 | |
+| [Syndris, Oracle of Darquess](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2300 / 0 | |
+| [Hykarice, Sentry of Darquess](../cards/monsters/standard/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | |
+| [Kyralice, Sentinel of Darquess](../cards/monsters/standard/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | |
+| [Vyktica, Valkyrie of Darquess](../cards/monsters/standard/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | |
+| [Raiza, Sorceress of Darquess](../cards/monsters/ritual/Raiza.md) | 13 ★★★★★★★★★★★★★ | 3000 / 0 | Ritual |
+| [Laiza, Enchantress of Darquess](../cards/monsters/ritual/Laiza.md) | 13 ★★★★★★★★★★★★★ | 3000 / 0 | Ritual |
+| [Vaiza, Empress of Darquess](../cards/monsters/ritual/Vaiza.md) | 13 ★★★★★★★★★★★★★ | 3000 / 0 | Ritual |
+| [Dyavin, Devoter of Darquess](../cards/monsters/standard/–.md) | 6 ★★★★★★ | 1500 / 0 | |
+
+</details>
+
+<details open>
+  <summary> <b> Extra Deck </b> </summary> <br>
+
+| card | Level | ATK/DEF | Type | material |
+| :--- | :---- | :------ | :--- | :------- |
+| [Elaiza, Arisen of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Raiza, Sorceress of Darquess* + *Laiza, Enchantress of Darquess* |
+| [Levaiza, Ascended of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Laiza, Enchantress of Darquess* + *Vaiza, Empress of Darquess* |
+| [Vraiza, Awakened of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Vaiza, Empress of Darquess* + *Raiza, Sorceress of Darquess* |
+| [Primordial Darquessence, Oblivion of Darquess](../cards/monsters/fusion/Primordial%20Darquessence.md) | 13 ★★★★★★★★★★★★★ | ? / 0 | Fusion | 3 Level 13 ‘Darquess’ monsters with different names |
+| [Lynuca, Silencer of Darquess](../cards/monsters/fusion/–.md) | 11 ★★★★★★★★★★★ | 2700 / 0 | Fusion | 2 Level 9+ DARK monsters |
+| [Dyvarice, Corruptor of Darquess](../cards/monsters/fusion/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | Fusion | 2 DARK monsters with different types (Ritual/Fusion/Synchro/Xyz/Link) |
+
+</details>
+
+### Spells
+
+<details open>
+  <summary> <b> display </b> </summary> <br>
+
+| card | Type |
+| :--- | :--- |
+| [Allure of Darquess](../cards/spells/–/–.md) | |
+| [Covin of Darquess](../cards/spells/–/–.md) | ∞ Continuous |
+| [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md) | ◈ Ritual |
+| [Prophecy of Darquess](../cards/spells/–/–.md) | |
+| [Realm of Darquess](../cards/spells/field/Realm%20of%20Darquess.md) | ✦ Field |
+| [Rites of Darquess](../cards/spells/–/–.md) | |
+| [Temptation of Darquess](../cards/spells/–/–.md) | |
+| [–](../cards/spells/–/–.md) | – |
+
+</details>
+
+### Traps
+
+<details open>
+  <summary> <b> display </b> </summary> <br>
+
+| card | Type |
+| :--- | :--- |
+| [Awakening of Darquess](../cards/traps/–/–.md) | |
+| [Corruption of Darquess](../cards/traps/–/–.md) | |
+| [Curse of Darquess](../cards/traps/–/–.md) | ↵ Counter |
+| [Magnificence of Darquess](../cards/traps/–/–.md) | ∞ Continuous |
+| [Nightmare of Darquess](../cards/traps/–/–.md) | ∞ Continuous |
+| [Perfection of Darquess](../cards/traps/–/–.md) | ∞ Continuous |
+| [Revenge of Darquess](../cards/traps/–/–.md) | ↵ Counter |
+| [Runes of Darquess](../cards/traps/–/–.md) | |
+| [Seduction of Darquess](../cards/traps/–/–.md) | |
+| [Soul of Darquess](../cards/traps/–/–.md) | ↵ Counter |
+| [– of Darquess](../cards/traps/–/–.md) | – |
+
+</details>
 
 
 <br>
@@ -8,14 +95,16 @@ An archetype of DARK and protively Spellcaster monsters, focusing on Ritual and 
 
 ## Overview
 
+All monsters have 0 DEF.
+
 ### Level 4
-The 3 Level 4 monsters have 1900 ATK and share the following effect, which can be used any number of times each turn.
+The 3 Level 4 monsters have 1900 ATK and share the following non-once-per-turn effect:
 
-> If another card is banished (even during the Damage Step): You can Special Summon this card from your hand or Graveyard, or add this banished card to your hand.
+> If another card is banished: You can add this banished card to your hand, or Special Summon this card from your hand.
 
-Additionally, each has an effect to search another card upon being Summoned, which also deals damage to the player themselves.
+Each has an effect to search another card on Summon, which also deals damage to the player themselves:
 
-> If this card is Summoned: You can [...], and if you do, take 700 damage.
+> If this card is Normal or Special Summoned: You can [...], and if you do, take 700 damage.
 
 <table>
   <tr>
@@ -32,22 +121,18 @@ Additionally, each has an effect to search another card upon being Summoned, whi
   </tr>
   <tr>
     <th> effect </th>
-    <td> banish a ‘Darquess’ Spell/Trap from the Deck </td>
+    <td> banish a ‘Darquess’ Spell/Trap from deck </td>
     <td> Set a banished ‘Darquess’ Spell/Trap </td>
-    <td> mill a ‘Darquess’ monster </td>
+    <td> bury a ‘Darquess’ monster </td>
   </tr>
 </table>
 
 ### Level 7
 This self-dealt damage allows the 3 Level 7 monsters to be Summoned, which each have 2300 ATK.
 
-> If either player takes damage (even during the Damage Step): You can Special Summon this card from your hand or Graveyard, and if you do, you can increase this card’s Level by 1 for every 100 damage taken.
+> If either player takes damage: You can Special Summon this card from your hand or Graveyard, then you can increase this card’s Level (max 12) by 1 for every 100 damage taken.
 
-Upon being Summoned, each has a specialyzed form of removal:
-
-> If this card is Summoned: You can banish 1 [...].
-
-Each also has an effect to search a Ritual-related card by banishing a card from the hand or Graveyard.
+They can then banish a card from the hand or graveyard to search a Ritual-relyzen card:
 
 > You can banish 1 card from your hand or Graveyard; add 1 ‘Darquess’ [...] from your Deck or Banished Pile to your hand.
 
@@ -65,31 +150,27 @@ Each also has an effect to search a Ritual-related card by banishing a card from
     <td align="center"> <img src="../../.assets/cards/monsters/Syndris.png"> </td>
   </tr>
   <tr>
-    <th> banish </th>
-    <td> face-up Spell/Trap </td>
-    <td> face-down Spell/Trap </td>
-    <td> opponent’s hand </td>
-  </tr>
-  <tr>
     <th> search </th>
-    <td> Spell </td>
-    <td> monster </td>
-    <td> Ritual monster or Spell </td>
+    <td> ‘Darquess’ Spell </td>
+    <td> ‘Darquess’ monster </td>
+    <td> ‘Darquess’ Ritual card </td>
   </tr>
 </table>
 
 ### Level 9
-The 3 Level 9 monsters have 2700 ATK, and serve as powerful interrupts or sacrifices for Ritual Summons.
+The 3 Level 9 monsters have 2700 ATK, and serve as powerful removal, interrupts and sacrifices for Ritual Summons.
 
-Hykarice and Kyralice share the following effects:
+They share the following once-per-turn effects:
 
-> You can Special Summon this card (from your hand or Graveyard) by banishing 2 DARK monsters from your field and/or either player’s Graveyard.
+> You can banish 2 other DARK monsters from your field and/or either player’s Graveyard; Special Summon this card from your hand or Graveyard, then you can banish 1 [...].
 
-> When a [Spell/Trap] card or effect is activated (Quick Effect): You can banish this card from your hand or field; negate that effect, also banish that card.
+Hykarice and Kyralice can negate Spell/Traps:
 
-> If another ‘Darquess’ monster leaves the field: You can add this banished card to your hand, and if you do, take 700 damage.
+> When a [Spell/Trap] card or effect is activated, while you control a Level 13 ‘Darquess’ monster (Quick Effect): You can banish this card from your hand or field; negate that effect, also banish that card.
 
-Vyktica is slightly different, instead being able to Tribute an opponent’s monster, but can only banish itself from the field to banish another monster (without negating), and only retrieves itself when an ace monster leaves the field.
+Vyktica is slightly different:
+
+> When a DARK monster declares an attack or activates its effect, while you control a Level 13 ‘Darquess’ monster (Quick Effect): You can banish this card from your hand or field; banish that card, and if you do, take 700 damage.
 
 <table>
   <tr>
@@ -105,10 +186,16 @@ Vyktica is slightly different, instead being able to Tribute an opponent’s mon
     <td align="center"> <img src="../../.assets/cards/monsters/Vyktica.png"> </td>
   </tr>
   <tr>
+    <th> banish </th>
+    <td> faceup Spell/Trap </td>
+    <td> facedown Spell/Trap </td>
+    <td> graveyard </td>
+  </tr>
+  <tr>
     <th> interrupt </th>
-    <td> negate Spell </td>
-    <td> negate Trap </td>
-    <td> banish monster </td>
+    <td> Spell </td>
+    <td> Trap </td>
+    <td> monster </td>
   </tr>
 </table>
 
@@ -240,83 +327,6 @@ Otherwise of note are the 4 Continuous Traps, which provide the Ritual monsters 
     <td> inflict 350 damage each time opponent activates a card effect </td>
   </tr>
 </table>
-
-
-<br>
-
-
-## Cards
-
-| type | count |
-| :--- | :---- |
-| Ritual | x3 |
-| Fusion | x6 |
-
-### Monsters
-
-<details open>
-  <summary> <b> Main Deck </b> </summary> <br>
-
-| card | Level | ATK/DEF | Type |
-| :--- | :---- | :------ | :--- |
-| [Aiza, Invoker of Darquess](../cards/monsters/standard/–.md) | 4 ★★★★ | 1900 / 0 | – |
-| [Azia, Envoker of Darquess](../cards/monsters/standard/–.md) | 4 ★★★★ | 1900 / 0 | – |
-| [Zaia, Evoker of Darquess](../cards/monsters/standard/–.md) | 4 ★★★★ | 1900 / 0 | – |
-| [Cythris, Augur of Darquess](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2300 / 0 | – |
-| [Lyfris, Herald of Darquess](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2300 / 0 | – |
-| [Syndris, Oracle of Darquess](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2300 / 0 | – |
-| [Hykarice, Sentry of Darquess](../cards/monsters/standard/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | – |
-| [Kyralice, Sentinel of Darquess](../cards/monsters/standard/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | – |
-| [Vyktica, Valkyrie of Darquess](../cards/monsters/standard/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | – |
-| [Raiza, Sorceress of Darquess](../cards/monsters/ritual/Raiza.md) | 13 ★★★★★★★★★★★★★ | 3000 / 0 | Ritual |
-| [Laiza, Enchantress of Darquess](../cards/monsters/ritual/Laiza.md) | 13 ★★★★★★★★★★★★★ | 3000 / 0 | Ritual |
-| [Vaiza, Empress of Darquess](../cards/monsters/ritual/Vaiza.md) | 13 ★★★★★★★★★★★★★ | 3000 / 0 | Ritual |
-| [Dyavin, Devoter of Darquess](../cards/monsters/standard/–.md) | 6 ★★★★★★ | 1500 / 0 | – |
-
-</details>
-
-<details open>
-  <summary> <b> Extra Deck </b> </summary> <br>
-
-| card | Level | ATK/DEF | Type | material |
-| :--- | :---- | :------ | :--- | :------- |
-| [Elaiza, Arisen of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Laiza, Enchantress of Darquess* + *Raiza, Sorceress of Darquess* |
-| [Levaiza, Ascended of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Vaiza, Empress of Darquess* + *Laiza, Enchantress of Darquess* |
-| [Vraiza, Awakened of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Raiza, Sorceress of Darquess* + *Vaiza, Empress of Darquess* |
-| [Primordial Darquessence, Oblivion of Darquess](../cards/monsters/fusion/Primordial%20Darquessence.md) | 13 ★★★★★★★★★★★★★ | ? / 0 | Fusion | 3 Level 13 ‘Darquess’ monsters |
-| [Lynuca, Silencer of Darquess](../cards/monsters/fusion/–.md) | 11 ★★★★★★★★★★★ | 2700 / 0 | Fusion | 2 Level 7 or higher DARK monsters |
-| [Dyvarice, Corruptor of Darquess](../cards/monsters/fusion/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | Fusion | 2 DARK monsters |
-
-</details>
-
-### Spells
-
-<details open>
-  <summary> <b> display </b> </summary> <br>
-
-| card | Type |
-| :--- | :--- |
-| [Allure of Darquess](../cards/spells/–/–.md) | |
-| [Coven of Darquess](../cards/spells/–/–.md) | ∞ Continuous |
-| [Prophecy of Darquess](../cards/spells/–/–.md) | |
-| [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md) | ◈ Ritual |
-| [Realm of Darquess](../cards/spells/field/Realm%20of%20Darquess.md) | ✦ Field |
-| [Rites of Darquess](../cards/spells/–/–.md) | |
-| [Temptation of Darquess](../cards/spells/–/–.md) | |
-| [–](../cards/spells/–/–.md) | – |
-
-</details>
-
-### Traps
-
-<details open>
-  <summary> <b> display </b> </summary> <br>
-
-| card | Type |
-| :--- | :--- |
-| [–](../cards/traps/–/–.md) | – |
-
-</details>
 
 
 <br>
