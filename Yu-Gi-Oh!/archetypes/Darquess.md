@@ -32,7 +32,8 @@ An archetype of DARK and protively Spellcaster monsters, harnessing Ritual and F
 | [Raiza, Sorceress of Darquess](../cards/monsters/ritual/Raiza.md) | 13 ★★★★★★★★★★★★★ | 3000 / 0 | Ritual |
 | [Laiza, Enchantress of Darquess](../cards/monsters/ritual/Laiza.md) | 13 ★★★★★★★★★★★★★ | 3000 / 0 | Ritual |
 | [Vaiza, Empress of Darquess](../cards/monsters/ritual/Vaiza.md) | 13 ★★★★★★★★★★★★★ | 3000 / 0 | Ritual |
-| [Dyavin, Devoter of Darquess](../cards/monsters/standard/–.md) | 6 ★★★★★★ | 1500 / 0 | |
+| [Kes, Fallen of Darquess](../cards/monsters/standard/–.md) | 6 ★★★★★★ | 1500 / 0 | |
+| [Dyavin, Devoter of Darquess](../cards/monsters/standard/–.md) | 6 ★★★★★★ | 1500 / 0 | Tuner |
 
 </details>
 
@@ -200,11 +201,11 @@ Vyktica is slightly different:
 </table>
 
 ### Level 13 Ritual
-The 3 Ritual monsters are each Level 13 with 3000 ATK, sharing the following effects:
+The 3 Ritual monsters are each Level 13 with 3000 ATK, sharing the following effect:
 
 > Must be Ritual Summoned by a ‘Darquess’ card. If this card is Ritual Summoned: You can Set 1 ‘Darquess’ Trap from your Deck.
 
-Each monster then has a continuous floodgate effect, an ignition effect involving banishing, and a non-activated effect.
+They also have a restriction that the player can only control 1 of each. Each then has a continuous floodgate effect, an ignition effect involving banishing, and a non-activated effect.
 
 <table>
   <tr>
@@ -229,11 +230,11 @@ Each monster then has a continuous floodgate effect, an ignition effect involvin
     <th> ignition </th>
     <td> banish 1 DARK monster from either player’s field or Graveyard </td>
     <td> Special Summon 1 banished DARK monster </td>
-    <td> banish 1 random card from opponent’s hand </td>
+    <td> gain LP equal to a DARK monster’s ATK when it is banished or Summoned </td>
   </tr>
   <tr>
     <th> other </th>
-    <td> banish top card of opponent’s Deck face-down each time you take damage </td>
+    <td> banish top card of opponent’s deck face-down each time you take damage </td>
     <td> inflict 350 damage each time a card is banished </td>
     <td> ‘Darquess’ monsters can use effects as Quick Effects </td>
   </tr>
@@ -242,7 +243,7 @@ Each monster then has a continuous floodgate effect, an ignition effect involvin
 ### Level 13 Fusion
 The 3 main Level 13 Fusion monsters each have 3300 ATK, requiring 2 of the 3 Ritual monsters as material. They feature a powerful floodgate effect of their own, while sharing the following effect:
 
-> If this card is targeted for an attack or by a card effect (Quick Effect): You can make 1 other DARK monster on the field become the target instead.
+> If this card is targeted (Quick Effect): You can make 1 other DARK monster on the field become the target instead.
 
 <table>
   <tr>
@@ -266,9 +267,9 @@ The 3 main Level 13 Fusion monsters each have 3300 ATK, requiring 2 of the 3 Rit
 </table>
 
 ### Spells
-The archetypal Field Spell is [Realm of Darquess](../cards/spells/field/Realm%20of%20Darquess.md), which provides the critical conditions for the rest of the archetype to function effectively.
+The archetypical Field Spell is [Realm of Darquess](../cards/spells/field/Realm%20of%20Darquess.md), which provides the critical conditions for the rest of the archetype to function effectively.
 
-The archetypal Ritual and Fusion Spell is [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md), which can both be used to Ritual Summon the Main Deck Ritual monsters, or Fusion Summon the Extra Deck Fusion monsters.
+The archetypical Ritual and Fusion Spell is [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md), which can recover itself as long as it is banished.
 
 <table>
   <tr>
@@ -282,7 +283,7 @@ The archetypal Ritual and Fusion Spell is [Darquess Rising](../cards/spells/ritu
 </table>
 
 ### Traps
-Many opening and searching cards that would usually be Spells are instead Traps, some of which have the ability to be activated from the hand by taking damage. Most important of all are the 2 monster and Spell/Trap searchers, [Awakening of Darquess]() and [Runes of Darquess](), which can also search the Field Spell if it is not already active.
+Many opening and searching cards that would usually be Spells are instead Traps, some of which have the ability to be activated immediately by taking damage. Most important of all are the monster and Spell/Trap searchers, [Awakening of Darquess]() and [Runes of Darquess](), which can also search the Field Spell if it is not already active.
 
 <table>
   <tr>
@@ -295,36 +296,32 @@ Many opening and searching cards that would usually be Spells are instead Traps,
   </tr>
 </table>
 
-Otherwise of note are the 4 Continuous Traps, which provide the Ritual monsters with protection or hinder the opponent, while draining life points. They also have the useful effect to recover another banished ‘Darquess’ Spell/Trap when banished themselves, allowing for efficient recycling or excellent banish targets.
+Otherwise of note are the 3 Continuous Traps, which provide the Ritual monsters with protection or hinder the opponent. They also have the useful effect to recover another banished ‘Darquess’ Spell/Trap when banished themselves, allowing for efficient recycling or excellent banish targets.
 
 <table>
   <tr>
     <th width="42px"> Trap </th>
     <th align="center"> Magnificence </th>
     <th align="center"> Perfection </th>
-    <th align="center"> Nightmare </th>
-    <th align="center"> Corruption </th>
+    <th align="center"> Nightmare </th
   </tr>
   <tr>
     <th> card </th>
     <td> <img src="../../.assets/cards/traps/Magnificence of Darquess.png"> </td>
     <td> <img src="../../.assets/cards/traps/Perfection of Darquess.png"> </td>
     <td> <img src="../../.assets/cards/traps/Nightmare of Darquess.png"> </td>
-    <td> <img src="../../.assets/cards/traps/Corruption of Darquess.png"> </td>
   </tr>
   <tr>
     <th> protection / floodgate </th>
     <td> battle and monster effect destruction </td>
-    <td> Spell/Trap effects and targeting </td>
+    <td> Spell/Trap effects </td>
     <td> opponent skips their Main Phase 1 </td>
-    <td> names of opponent’s DARK monsters become <em>Corrupted of Darquess</em> </td>
   </tr>
   <tr>
-    <th> drain </th>
-    <td> +350 LP each time opponent activates a card or effect </td>
-    <td> +350 LP each time opponent places a card on the field </td>
+    <th> LP </th>
+    <td> gain 350 LP each time opponent activates a card or effect </td>
+    <td> gain 350 LP each time opponent places a card on the field </td>
     <td> inflict 350 damage each time opponent places a card on the field </td>
-    <td> inflict 350 damage each time opponent activates a card effect </td>
   </tr>
 </table>
 
@@ -343,3 +340,12 @@ Otherwise of note are the 4 Continuous Traps, which provide the Ritual monsters 
 ## Trivia
 
 - This entire archetype was born from [Raiza](../cards/monsters/ritual/Raiza.md), a childhood card I created.
+- The archetype features many triplets of cards.
+  - There are 3 monsters for each class – Lv4, Lv7, Lv9, Lv13 Ritual and Lv13 Fusion.
+  - There are 3 Continuous Traps.
+- Within each triplet, there also tends to be a card slightly different from the rest.
+  - Lv4 – Zaia searches another monster instead of Spell/Traps.
+  - Lv7 – Syndris searches a Ritual card instead of any monster or Spell.
+  - Lv9 – Vyktica only banishes without negating.
+  - Lv13 Ritual – Vaiza has no ignition effect, instead turning the other Ritual monsters far deadlier.
+  - Continuous Traps – Nightmare inflicts damage instead of gaining LP, and hinders the opponent instead of protecting the Ritual monsters.
