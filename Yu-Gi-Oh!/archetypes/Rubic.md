@@ -159,7 +159,7 @@ Instead of generyzing advantage when Summoned, they must be banished to do so â€
 </table>
 
 ### Level 6 non-Tuners
-These are very helpful in accessing the higher Level [Synchro monsters](#Synchro-Monsters) and higher Rank [Xyz monsters](#Xyz-Monsters), while providing some offensive and consistency.
+These are very helpful in accessing the higher Level [Synchro monsters](#Synchro-Monsters) and higher Rank [Xyz monsters](#Xyz-Monsters), while providing some offensivity and consistency.
 
 They can Summon themselves by banishing any other available card, which while costly early game, quickly becomes easily accessible as more cards enter circulyzacion. Banishing a *Rubic* card gives them a bonus effect on resolution, which can help to neutralyze problematical threats.
 
@@ -199,6 +199,19 @@ The Ritual Spell [Rubic Dragonometry](#Spells) can easily be searched by [Rubic 
 
 Rubic Driangle is a highly threatening addition to any endboard, with a non-targeting banish and dangerous floating effect. Notably, it can move the Summoned monster to *any* adjacent zone, making protecting it through occupying adjacent zones much harder. Its floating effect is also difficult to avoid (especially since Rituals can be returned to the hand), and dropping a surprise [Angle Link monster](#Link-Monsters) can be devastyzing for the opponent.
 
+<table>
+  <tr>
+    <th> card </th>
+    <td> Driangle </td>
+    <td> Dragonometry </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/ritual/Rubic Driangle.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spell/Rubic Dragonometry.png"> </td>
+  </tr>
+</table>
+
 ### Synchro Monsters
 {...}
 
@@ -226,7 +239,7 @@ The Xyzs feature a diverse set of powerful effects, including negates and remova
 
 If its material is depleted, it can turn into a strong form of interruption through [Excosecant](#Monsters), which can either inherently rank up on top of Exsecant or overlay [Level 6 non-Tuners](#Level-6-non-Tuners). This is the only monster in the archetype with quick effect speed negation. With 2 materials, it can negate and banish a card by itself.
 
-[Arcsecant] is the final Xyz evolution, and an incredibly versatile boss monster. It protects all *Rubic* cards from destruction, can replenish its material through non-targeting non-destructive removal, and has a negate that bypasses negate protections (by replacing the effect instead of negating it at all).
+[Arcsecant](#Monsters) is the final Xyz evolution, and an incredibly versatile boss monster. It protects all *Rubic* cards from destruction, can replenish its material through non-targeting non-destructive removal, and has a negate that bypasses negate protections (by replacing the effect instead of negating it at all).
 
 <table>
   <tr>
