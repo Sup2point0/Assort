@@ -100,7 +100,13 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, Link Summoning a
 The different classes of monsters within the archetype each serve different purposes. This is especially apparent in the Extra Deck monsters, where each type has a specialty – Synchros break the board and attack for kill, Xyzs control the board and move cards, Links search cards and spawn Tokens.
 
 ### Level 3 non-Tuners
-{...}
+These are the prime Normal Summon choices, sharing the following effects:
+
+> If this card is Normal or Special Summoned: You can Special Summon [...].
+
+> You can banish this card from your field or Graveyard; [...].
+
+On Summon, Angular Summons any Lv3 *Rubic* monster (ideally Axis), while Axis spawns a [Rubic Token](#Tokens) to each field, both quickly swarming material. They can be tuned with [Lv3 Tuners](#Level-3-Tuners) for [Lv6 Synchros](#Synchro-Monsters), or overlayed for [Rank 3 Xyzs](#Xyz-Monsters). Once in the Graveyard, they can banish themselves for extra advantage – Angular can recover any banished *Rubic* monster (including itself if helpful), and Axis can bury any straight from the Deck, essentially giving a free search.
 
 <table>
   <tr>
@@ -126,7 +132,13 @@ The different classes of monsters within the archetype each serve different purp
 </table>
 
 ### Level 3 Tuners
-{...}
+These are central to the archetype, sharing the following effects:
+
+> You can target 1 card on the field; move it to an appropriate adjacent zone, and if you do, Special Summon this card from your hand or Graveyard.
+
+> If this card is banished: You can add 1 [...] from your Deck to your hand.
+
+Instead of generyzing advantage when Summoned, they must be banished to do so – and this can be achieved through the [Level 6 non-Tuners](#Level-6-non-Tuners).
 
 <table>
   <tr>
@@ -147,7 +159,15 @@ The different classes of monsters within the archetype each serve different purp
 </table>
 
 ### Level 6 non-Tuners
-{...}
+These are very helpful in accessing the higher Level [Synchro monsters](#Synchro-Monsters) and higher Rank [Xyz monsters](#Xyz-Monsters), while providing some offensive and consistency.
+
+They can Summon themselves by banishing any other available card, which while costly early game, quickly becomes easily accessible as more cards enter circulyzacion. Banishing a *Rubic* card gives them a bonus effect on resolution, which can help to neutralyze problematical threats.
+
+> You can banish 1 other card from your hand, field or Graveyard; Special Summon this card from your hand or Graveyard, then if you banished a ‘Rubic’ card, you can [...] 1 card on the field [...].
+
+Moving them triggers their effect to bury a *Rubic* card. Secant searches another monster, while Cosecant burys a [Trap](#Trap-Interruption), which can be recovered or banished for its effect.
+
+> If this card moves to another zone: You can send 1 ‘Rubic’ [...] from your Deck to the Graveyard.
 
 <table>
   <tr>
@@ -173,6 +193,11 @@ The different classes of monsters within the archetype each serve different purp
 </table>
 
 ### Ritual
+The Ritual aspect of the archetype is really an afterthought, but provides surprising value.
+
+The Ritual Spell [Rubic Dragonometry](#Spells) can easily be searched by [Rubic Diagonal](#Link-Monsters) if needed, and can Summon the Ritual monster [Rubic Driangle](#Monsters) from anywhere, with requirements that are relatively easy to fulfill. Usually your field and Graveyard are a given, but the hand is often depleten, in which case the opponent’s field provides the third location (with a [Rubic Token](#Tokens) Summoned there).
+
+Rubic Driangle is a highly threatening addition to any endboard, with a non-targeting banish and dangerous floating effect. Notably, it can move the Summoned monster to *any* adjacent zone, making protecting it through occupying adjacent zones much harder. Its floating effect is also difficult to avoid (especially since Rituals can be returned to the hand), and dropping a surprise [Angle Link monster](#Link-Monsters) can be devastyzing for the opponent.
 
 ### Synchro Monsters
 {...}
@@ -195,7 +220,13 @@ The different classes of monsters within the archetype each serve different purp
 </table>
 
 ### Xyz Monsters
-{...}
+The Xyzs feature a diverse set of powerful effects, including negates and removal.
+
+[Exsecant](#Monsters) is superb support, easily generating huge advantage. Its effect can be used to trigger the effects of other cards during the opponent’s turn, or move itself to search a monster. It is only that useful in certain situations though, since Summoning it will often remove Tuners that could be used for [Synchro Summons](#Synchro-Monsters).
+
+If its material is depleted, it can turn into a strong form of interruption through [Excosecant](#Monsters), which can either inherently rank up on top of Exsecant or overlay [Level 6 non-Tuners](#Level-6-non-Tuners). This is the only monster in the archetype with quick effect speed negation. With 2 materials, it can negate and banish a card by itself.
+
+[Arcsecant] is the final Xyz evolution, and an incredibly versatile boss monster. It protects all *Rubic* cards from destruction, can replenish its material through non-targeting non-destructive removal, and has a negate that bypasses negate protections (by replacing the effect instead of negating it at all).
 
 <table>
   <tr>
@@ -212,8 +243,10 @@ The different classes of monsters within the archetype each serve different purp
   </tr>
 </table>
 
+All of the Xyz monsters *can* be normally Xyz Summoned, though this is difficult (and unviable) with Arcsecant (since Lv9 monsters are powerful already). Excosecant can inherently rank up over Exsecant, but does *not* transfer materials, unlike other cards. The best way to bring out the higher Rank Xyzs is through [Function](#Spells), which functions (ha) as both a quick rank-up and link-up spell. It can rank up any Cyberse Xyz monster into a *Rubic* Xyz monster up to 3 Ranks higher, or a *Rubic* Link monster into one up to 2 Link Ratings higher. While it lacks recursability, it is easily searchable with [Algorithm](#Algorithm--Scramble) or [Cosine](#Level-3-Tuners), and even gives the ranked up Xyz monster an extra material.
+
 ### Link Monsters
-{...}
+The archetype very much requires link climbing – almost all of the Link monsters require exactly 2 *Rubic* monsters as material. Those with lower Link Ratings act as excellent support, especially in spawning [Rubic Tokens](#Tokens). Most share a trigger effect when Link Summoned to generyze advantage, and a trigger effect to spawn Tokens when a card is placed in a zone they link to.
 
 <table>
   <tr>
@@ -246,8 +279,26 @@ The different classes of monsters within the archetype each serve different purp
   </tr>
 </table>
 
+The higher Link Rating monsters are quite unique, acting as terrifying lone aces. [Quadrangle](#Monsters) is a prime option for the first turn if little is accessible – either through link climbing or [Function](#Xyz-Monsters) – with stellar protection against monsters and a slew of powerful effects. [Hexangle](#Monsters) takes this even further, with immunity from xenotive activyzen effects, and an ability to steal opponent’s monsters which can quickly snowball if undealt with. However, its immunity and ATK are volative, and so it requires careful planning and execution to keep protected.
+
 ### Algorithm & Scramble
-{...}
+The drivers of the archetype, both of which can be searched by [Radian](#Link-Monsters), and can recover themselves if a card on the field moves.
+
+[Algorithm](#Spells) is the core of the archetype, comparable to [Sky Striker Mobilize – Engage!](https://yugipedia.com/wiki/Sky_Striker_Mobilize_-_Engage!) or [Meteonis Drytron](https://yugipedia.com/wiki/Meteonis_Drytron), and once in circulyzacion reliably provides a search and move each turn, not to mention recovering a banished *Rubic* card – though if there is a lack of them, looping it back each turn may prove difficult. This card gives the archetype its consistency (in searching *exactly* the card needed), versatility (in searching *any* card needed), and most importantly, longetivity, continually searching and recovering cards no matter what the opponent does to them.
+
+Scramble, while inconspicuous at first, can become immensely powerful in conjuncion with other cards. Moving *Rubic* monsters triggers many of their effects, both advancive and disruptive. Moving the opponent’s cards can disrupt Link swarm strategys, and trigger the disruptive effects of the *Rubic* [Xyz monsters](#Xyz-Monsters). If [Plane](#Spell-Support) is active, Scramble can even provide protection to Rubic cards. And unlike Algorithm, Scramble can be used during both player’s turns, giving fast effect movement every turn.
+
+### Spell Support
+All of the Spells provide consistency and support. The archetypical Field Spell [Plane](#Spells) helps in small ways that make constructing boards easier and facilityze disruption. [Permutation](#Spells) is almost as powerful a consistency tool as Algorithm. [Solution](#Spells) is the archetypical revival Spell, although requires Link monsters to work. [Slice](#Spells) is a welcome addition for SAKs, and even has recursability.
+
+### Trap Interruption
+
+### Tokens
+Many cards Summon [Rubic Tokens](#Monsters), and to either player’s field too. Just like construction lines in geometrics, these Tokens are pivotal to the archetype’s strategics.
+
+Since all of the Extra Deck monsters only require archetypical material, Rubic Tokens are perfectly fine to use as material for their Special Summons. They can be tuned with [Lv3 Tuners](#Level-3-Tuners) for [Lv6 Synchros](#Synchro-Monsters), or more oftenly, used as Link material for link climbing.
+
+Those Summoned to the opponent’s field are indeed free Tributes or material (and as DARK Cyberse monsters, they are highly synchronical) but only if the opponent can make use of them – otherwise, an overflow of Tokens can clog their board and slow down combos. With only 300 ATK, they’re unexpected holes in the fortress, perfectly awaiting an attack from [Haversine](#Synchro-Monsters) or [Arcsine](#Synchro-Monsters) for critical damage.
 
 
 <br>
@@ -255,7 +306,8 @@ The different classes of monsters within the archetype each serve different purp
 
 ## Strategics
 
-The archetype can both easily OTK and setup a powerful control board.
+The archetype is highly versative and consistent, able to cryze a powerful endboard with even the sparsest of hands, or play through disruption and SAK (Single-Attack-Kill) with relative ease. It has strong interactions with the Graveyard; most of the [Main Deck monsters](#Monsters) can Summon themselves from both the hand or Graveyard, and several [Spells](#Spell-Support) and [Traps](#Trap-Interruption) have Graveyard effects, by either resetting or banishing themselves, giving the archetype significant comeback potency.
+
 
 ### Formacions
 The ideal turn 0 endboard consists of 1 monster of each Summoning tecnique, and as *many* Traps as can possibly be obtained – with such an efficient and consistent but xenophobical engine, the archetype has loads of them to replace handtraps.
@@ -265,6 +317,9 @@ The ideal turn 0 endboard consists of 1 monster of each Summoning tecnique, and 
 | [Arcsecant](#Xyz-Monsters) / [Excosecant](#Xyz-Monsters) | ([Exsecant](#Xyz-Monsters) ›) [Excosecant](#Xyz-Monsters) › [Arcsecant](#Xyz-Monsters) <br> overlay [Lv6 non-Tuners](#Level-6-non-Tuners) | dynamical negate |
 | [Driangle](#Ritual) | [Diagonal](#Link-Monsters) › [Dragonometry](#Ritual) | problematical removal and floating effects |
 | [Haversine](#Synchro-Monsters) / [Versine](#Synchro-Monsters) | [Vercosine](#Synchro-Monsters) + [Token](#Tokens) or [Lv3 non-Tuner](#Level-3-non-Tuners) <br> [Versine](#Synchro-Monsters) + [Lv3 Tuner](#Level-3-Tuners) | interruptive removal triggered by Traps |
+| [Vertex](#Link-Monsters) | link climb | targeting protection |
+| [Execution](#Trap-Interruption) | Set by [Versine](#Synchro-Monsters) | insane removal |
+| [Scramble](#Algorithm--Scramble) | searched by [Radian](#Link-Monsters) / [Versine](#Synchro-Monsters) | triggers effects |
 
 ### Tech Picks
 
@@ -274,12 +329,16 @@ The ideal turn 0 endboard consists of 1 monster of each Summoning tecnique, and 
   - The banished monster can then be retrieved by [Angular](#Level-3-non-Tuners) if needed.
 - [Awakening the Drakon]() can be highly effective at dropping a surprise [Angle Link monster](#Link-Monsters) on the opponent.
 
+### Weaknesses
+Since several of the archetype’s effects involve moving cards to appropriate adjacent zones, with clever planning and management this can be overcome, by placing valuable cards where they cannot be moved – alternatively, spamming cards and blocking every zone entirely works too. As such, the deck also suffers from overextending itself, since having too many cards on the field restricts movement.
+
 
 <br>
 
 
 ## Trivia
 
+- The archetype features every single type of Spell and Trap.
 - The archetype is fairly xenophobical.
   - Most effects support only ‘Rubic’ cards.
   - [Rubic Algorithm and Rubic Scramble](#Algorithm--Scramble) both lock the player from activyzing any monster effects other than those of ‘Rubic’ monsters.
@@ -299,6 +358,7 @@ The ideal turn 0 endboard consists of 1 monster of each Summoning tecnique, and 
   - Instead of synergyzing with other cards, it only relyzes on them being present to boost its own ATK.
   - It requires exactly 3 materials, while the rest of the [Link monsters](#Link-Monsters) higher than Link-1 require exactly 2 materials.
   - It is the only Link monster with Link Arrows in the cardinal directions.
+- Field Spells cannot be moved to other zones, which makes them immune to many of the archetype’s effects.
 - A high proportion of the card art is, in fact, shamelessly stolen from existing *Yu-Gi-Oh!* cards.
   - Those archetypes include protively [Mathmech] and [Topologic], as well as [Deskbot], [Cubic] (the ironicity, I know), [Tindangle], and varical [Cyberse] support.
 
