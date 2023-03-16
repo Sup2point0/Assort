@@ -208,7 +208,7 @@ Rubic Driangle is a highly threatening addition to any endboard, with a non-targ
   <tr>
     <th> card </th>
     <td align="center"> <img src="../../.assets/cards/ritual/Rubic Driangle.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/spell/Rubic Dragonometry.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/Rubic Dragonometry.png"> </td>
   </tr>
 </table>
 
@@ -235,7 +235,7 @@ Rubic Driangle is a highly threatening addition to any endboard, with a non-targ
 ### Xyz Monsters
 The Xyzs feature a diverse set of powerful effects, including negates and removal.
 
-[Exsecant](#Monsters) is superb support, easily generating huge advantage. Its effect can be used to trigger the effects of other cards during the opponent’s turn, or move itself to search a monster. It is only that useful in certain situations though, since Summoning it will often remove Tuners that could be used for [Synchro Summons](#Synchro-Monsters).
+[Exsecant](#Monsters) is superb support, easily generating huge advantage. Its effect can be used to trigger the effects of other cards during the opponent’s turn, or move itself to search a monster. It is only that useful in certain situations though, since Summoning it will often remove [Tuners](#Level-3-Tuners) that could be used for [Synchro Summons](#Synchro-Monsters).
 
 If its material is depleted, it can turn into a strong form of interruption through [Excosecant](#Monsters), which can either inherently rank up on top of Exsecant or overlay [Level 6 non-Tuners](#Level-6-non-Tuners). This is the only monster in the archetype with quick effect speed negation. With 2 materials, it can negate and banish a card by itself.
 
@@ -256,7 +256,7 @@ If its material is depleted, it can turn into a strong form of interruption thro
   </tr>
 </table>
 
-All of the Xyz monsters *can* be normally Xyz Summoned, though this is difficult (and unviable) with Arcsecant (since Lv9 monsters are powerful already). Excosecant can inherently rank up over Exsecant, but does *not* transfer materials, unlike other cards. The best way to bring out the higher Rank Xyzs is through [Function](#Spells), which functions (ha) as both a quick rank-up and link-up spell. It can rank up any Cyberse Xyz monster into a *Rubic* Xyz monster up to 3 Ranks higher, or a *Rubic* Link monster into one up to 2 Link Ratings higher. While it lacks recursability, it is easily searchable with [Algorithm](#Algorithm--Scramble) or [Cosine](#Level-3-Tuners), and even gives the ranked up Xyz monster an extra material.
+All of the Xyz monsters *can* be normally Xyz Summoned, though this is difficult (and unviable) with Arcsecant (since Lv9 monsters are powerful already). Excosecant can inherently rank up over Exsecant, but does *not* transfer materials, unlike usual rank-ups. The best way to bring out the higher Rank Xyzs is through [Function](#Spells), which functions (ha) as both a quick rank-up and link-up spell. It can rank up any Cyberse Xyz monster into a *Rubic* Xyz monster up to 3 Ranks higher, or a *Rubic* Link monster into one up to 2 Link Ratings higher. While it lacks recursability, it is easily searchable with [Algorithm](#Algorithm--Scramble) or [Cosine](#Level-3-Tuners), and even gives the ranked up Xyz monster an extra material.
 
 ### Link Monsters
 The archetype very much requires link climbing – almost all of the Link monsters require exactly 2 *Rubic* monsters as material. Those with lower Link Ratings act as excellent support, especially in spawning [Rubic Tokens](#Tokens). Most share a trigger effect when Link Summoned to generyze advantage, and a trigger effect to spawn Tokens when a card is placed in a zone they link to.
