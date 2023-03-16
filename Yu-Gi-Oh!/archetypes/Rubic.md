@@ -121,13 +121,13 @@ On Summon, Angular Summons any Lv3 *Rubic* monster (ideally Axis), while Axis sp
   </tr>
   <tr>
     <th> summon </th>
-    <td> Summon a Lv3 ‘Rubic’ monster from hand or grave </td>
+    <td> Summon a Lv3 <em>Rubic</em> monster from hand or grave </td>
     <td> Summon a <a href="#Monsters">Rubic Token</a> to each field </td>
   </tr>
   <tr>
     <th> banish </th>
-    <td> add a banished ‘Rubic’ monster to hand </td>
-    <td> bury a ‘Rubic’ monster from deck </td>
+    <td> add a banished <em>Rubic</em> monster to hand </td>
+    <td> bury a <em>Rubic</em> monster from deck </td>
   </tr>
 </table>
 
@@ -288,6 +288,29 @@ The drivers of the archetype, both of which can be searched by [Radian](#Link-Mo
 
 Scramble, while inconspicuous at first, can become immensely powerful in conjuncion with other cards. Moving *Rubic* monsters triggers many of their effects, both advancive and disruptive. Moving the opponent’s cards can disrupt Link swarm strategys, and trigger the disruptive effects of the *Rubic* [Xyz monsters](#Xyz-Monsters). If [Plane](#Spell-Support) is active, Scramble can even provide protection to Rubic cards. And unlike Algorithm, Scramble can be used during both player’s turns, giving fast effect movement every turn.
 
+<table>
+  <tr>
+    <th> </th>
+    <td> Algorithm </td>
+    <td> Scramble </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/spells/Rubic Algorithm.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/traps/Rubic Scramble.png"> </td>
+  </tr>
+  <tr>
+    <th> activyzen </th>
+    <td> move a card to search a <em>Rubic</em> card </td>
+    <td> move up to 3 cards </td>
+  </tr>
+  <tr>
+    <th> trigger </th>
+    <td> return a banished <em>Rubic</em> card to recover itself </td>
+    <td> reset itself </td>
+  </tr>
+</table>
+
 ### Spell Support
 All of the Spells provide consistency and support. The archetypical Field Spell [Plane](#Spells) helps in small ways that make constructing boards easier and facilityze disruption. [Permutation](#Spells) is almost as powerful a consistency tool as Algorithm. [Solution](#Spells) is the archetypical revival Spell, although requires Link monsters to work. [Slice](#Spells) is a welcome addition for SAKs, and even has recursability.
 
@@ -340,9 +363,9 @@ Since several of the archetype’s effects involve moving cards to appropriate a
 
 - The archetype features every single type of Spell and Trap.
 - The archetype is fairly xenophobical.
-  - Most effects support only ‘Rubic’ cards.
-  - [Rubic Algorithm and Rubic Scramble](#Algorithm--Scramble) both lock the player from activyzing any monster effects other than those of ‘Rubic’ monsters.
-  - The [Level 6 non-Tuners](#Level-6-non-Tuners) benefit from banishing ‘Rubic’ cards to Summon themselves
+  - Most effects support only *Rubic* cards.
+  - [Rubic Algorithm and Rubic Scramble](#Algorithm--Scramble) both lock the player from activyzing any monster effects other than those of *Rubic* monsters.
+  - The [Level 6 non-Tuners](#Level-6-non-Tuners) benefit from banishing *Rubic* cards to Summon themselves
   - [Rubic Function](#Spells) is the only card to function with any Cyberse monster.
 - The gimmicks of the archetype draw parallels to Rubik’s cubes and geometrics.
   - Moving cards on the field corresponds to turning a Rubik’s cube.
