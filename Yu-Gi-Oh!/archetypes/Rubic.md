@@ -346,11 +346,11 @@ The archetype is highly versative and consistent, able to cryze a powerful endbo
 
 
 ### Formacions
-The ideal turn 0 endboard consists of 1 monster of each Summoning tecnique, and as *many* Traps as can possibly be obtained – with such an efficient and consistent but xenophobical engine, the archetype has loads of them to replace handtraps.
+The ideal turn 0 endboard consists of 1 monster of each Summoning tecnique, and as *many* [Traps](#Trap-Interruption) as can possibly be obtained – with such an efficient and consistent but xenophobical engine, the archetype has loads of them to replace handtraps.
 
 | card | evolucion | notes |
 | :--- | :-------- | :---- |
-| [Arcsecant](#Xyz-Monsters) / [Excosecant](#Xyz-Monsters) | ([Exsecant](#Xyz-Monsters) ›) [Excosecant](#Xyz-Monsters) › [Arcsecant](#Xyz-Monsters) <br> overlay [Lv6 non-Tuners](#Level-6-non-Tuners) | dynamical negate |
+| [Arcsecant](#Xyz-Monsters) / [Excosecant](#Xyz-Monsters) | ([Exsecant](#Xyz-Monsters) ›) [Excosecant](#Xyz-Monsters) › [Arcsecant](#Xyz-Monsters) <br> overlay [Lv6 non-Tuners](#Level-6-non-Tuners) (› [Function](#Xyz-Monsters)) | dynamical negate and removal |
 | [Driangle](#Ritual) | [Diagonal](#Link-Monsters) › [Dragonometry](#Ritual) | problematical removal and floating effects |
 | [Haversine](#Synchro-Monsters) / [Versine](#Synchro-Monsters) | [Vercosine](#Synchro-Monsters) + [Token](#Tokens) or [Lv3 non-Tuner](#Level-3-non-Tuners) <br> [Versine](#Synchro-Monsters) + [Lv3 Tuner](#Level-3-Tuners) | interruptive removal triggered by Traps |
 | [Vertex](#Link-Monsters) | link climb | targeting protection |
@@ -396,7 +396,7 @@ Since several of the archetype’s effects involve moving cards to appropriate a
   - It is the only Link monster with Link Arrows in the cardinal directions.
 - Field Spells cannot be moved to other zones, which makes them immune to many of the archetype’s effects.
 - A high proportion of the card art is, in fact, shamelessly stolen from existing *Yu-Gi-Oh!* cards.
-  - Those archetypes include protively [Mathmech] and [Topologic], as well as [Deskbot], [Cubic] (the ironicity, I know), [Tindangle], and varical [Cyberse] support.
+  - Those archetypes include protively [Mathmech](https://yugipedia.com/wiki/Mathmech) and [Topologic](https://yugipedia.com/wiki/Topologic), as well as [Deskbot](https://yugipedia.com/wiki/Deskbot), [Cubic](https://yugipedia.com/wiki/Cubic) (the ironicity, I know), [Tindangle](https://yugipedia.com/wiki/Tindangle), and varical [Cyberse](https://yugipedia.com/wiki/Cyberse) support.
 
 <details hide>
   <summary> <b> Nomenclature Trivia </b> </summary> <br>
