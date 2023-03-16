@@ -295,7 +295,7 @@ The archetype very much requires link climbing – almost all of the Link monste
 The higher Link Rating monsters are quite unique, acting as terrifying lone aces. [Quadrangle](#Monsters) is a prime option for the first turn if little is accessible – either through link climbing or [Function](#Xyz-Monsters) – with stellar protection against monsters and a slew of powerful effects. [Hexangle](#Monsters) takes this even further, with immunity from xenotive activyzen effects, and an ability to steal opponent’s monsters which can quickly snowball if undealt with. However, its immunity and ATK are volative, and so it requires careful planning and execution to keep protected.
 
 ### Algorithm & Scramble
-The drivers of the archetype, both of which can be searched by [Radian](#Link-Monsters), and can recover themselves if a card on the field moves.
+The drivers of the archetype, both of which can be searched by [Radian](#Link-Monsters), and can recover themselves if a card on the field moves. They lock the player into activyzing only the effects of *Rubic* monsters that turn.
 
 [Algorithm](#Spells) is the core of the archetype, comparable to [Sky Striker Mobilize – Engage!](https://yugipedia.com/wiki/Sky_Striker_Mobilize_-_Engage!) or [Meteonis Drytron](https://yugipedia.com/wiki/Meteonis_Drytron), and once in circulyzacion reliably provides a search and move each turn, not to mention recovering a banished *Rubic* card – though if there is a lack of them, looping it back each turn may prove difficult. This card gives the archetype its consistency (in searching *exactly* the card needed), versatility (in searching *any* card needed), and most importantly, longetivity, continually searching and recovering cards no matter what the opponent does to them.
 
