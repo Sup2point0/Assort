@@ -71,13 +71,13 @@ My absolute favourite deck of all time. Despite having 9 Ritual monsters, single
 | card | copies | notes |
 | :--- | :----- | :---- |
 | [Meteonis Drytron](https://yugipedia.com/wiki/Meteonis_Drytron) | x2 | Always nice to have 2, just in case one gets banished, or to allow more than 1 Ritual Summon in later turns. |
-| [Drytron Fafnir](https://yugipedia.com/wiki/Drytron_Fafnir) | x3 | Eh, the search is cool and all, but I’m here for *negate protection* – that feeling when your opponent Solemns Meteonis Drytron and is left confuzzled as to why it didn’t work – also, the level manipulation effect that no one pays any attention too can *really* disrupt Swordsoul (Chixiao) or Adamancipator (Gallant Granite) |
+| [Drytron Fafnir](https://yugipedia.com/wiki/Drytron_Fafnir) | x3 | Eh, the search is cool and all, but I’m here for *negate protection* – that feeling when your opponent Solemns Meteonis Drytron and is left confuzzled as to why it didn’t work – also, the level manipulation effect that no one pays any attention too can *really* disrupt Swordsoul (Chixiao) or Adamancipator (Gallant Granite). |
 | [Cyber Emergency](https://yugipedia.com/wiki/Cyber_Emergency) | x3 | Quality searcher, can grab a Draconids or Quadrantids to Tribute for White Zoa too if needed. |
-| [Drytron Nova](https://yugipedia.com/wiki/Drytron_Nova) | x3 | |
-| [Drytron Eclipse](https://yugipedia.com/wiki/Drytron_Eclipse) | x1 | Surprisingly clutch, super useful for recovering a Drytron Ritual to sacrifice for Zoa, and the ATK boost is splendid with Draconids for OTK. |
-| [Nadir Servant](https://yugipedia.com/wiki/Nadir_Servant) | x1 | |
-| [Dogmatikatrix](https://yugipedia.com/wiki/) | x2 | Just incredible searching power, leaves modules free to search for the regular Rituals. |
-| [Dogmatikamacabre](https://yugipedia.com/wiki/) | x1 | Just for White Zoa, but also useful with the lower Level Dogmatika Rituals if I have Herald of the Arc Lights in the Graveyard. |
+| [Drytron Nova](https://yugipedia.com/wiki/Drytron_Nova) | x3 | This deck needs all the consistency it can get. |
+| [Drytron Eclipse](https://yugipedia.com/wiki/Drytron_Eclipse) | x1 | Surprisingly clutch, super useful for recovering a Drytron mech to sacrifice for White Zoa, and the ATK boost is splendid with Draconids for OTKs. |
+| [Nadir Servant](https://yugipedia.com/wiki/Nadir_Servant) | x1 | Insane value, searching an extra Ritual monster to Tribute and any Ritual card (by sending Arc Light). Had several games where topdecking this instantly turned the fight around. |
+| [Dogmatikatrix](https://yugipedia.com/wiki/) | x2 | Just incredible searching power, especially if going second, and leaves Drytrons free to search for other Ritual cards. Once we’ve got White Zoa out, we can even scout out our opponent’s Extra Deck or bury any monster from our own for even more value. |
+| [Dogmatikabre](https://yugipedia.com/wiki/) | x1 | Just for White Zoa, but also useful with the lower Level Dogmatika Rituals if I have Herald of the Arc Lights in the Graveyard. |
 | [Where Arf Thou?](https://yugipedia.com/wiki/) | x2 | Another searcher for consistency, can search Droll & Lock Bird if I’ve got all the Drytron modules I need. |
 | [Preparation of Rites](https://yugipedia.com/wiki/) | x1 | Searches Odd-Eyes Gravity Dragon for opening setup, or White Relic of Dogmatika for OTK, and a free recovery (especially for Dogmatikamacabre to revive Zoa). |
 | [Pre-Preparation of Rites](https://yugipedia.com/wiki/) | x1 | Searches Dogmatikamacabre and a free Dogmatika Ritual monster to Tribute, even if it is a dead draw later on. |
@@ -144,3 +144,24 @@ Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards t
 ## Gameplay
 
 {...}
+
+
+<br>
+
+
+## Replays
+
+### DuelingNexus
+
+### Master Duel
+
+### DuelingBook
+
+
+<br>
+
+
+## Questions
+
+### Why Dogmatikabre instead of Dogmatikalamity?
+Sure, Dogmatikalamity lets you Tribute straight from the Extra Deck, but it has 2 major downsides – it can’t Ritual Summon from the grave, and it locks you out of the Extra Deck. The latter doesn’t matter too much since we could just drop White Zoa at the end of our combo; but if we have Dogmatikatrix, bringing out a Dogmatika Ritual monster as soon as possible means we’d be able to see what our opponent is playing, and setup an endboard accordingly, or if we’re lacking cards we need, send an Arc Light from our Extra Deck for a clutch search.
