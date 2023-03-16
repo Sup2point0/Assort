@@ -106,7 +106,7 @@ These are the prime Normal Summon choices, sharing the following effects:
 
 > You can banish this card from your field or Graveyard; [...].
 
-On Summon, Angular Summons any Lv3 *Rubic* monster (ideally Axis), while Axis spawns a [Rubic Token](#Tokens) to each field, both quickly swarming material. They can be tuned with [Lv3 Tuners](#Level-3-Tuners) for [Lv6 Synchros](#Synchro-Monsters), or overlayed for [Rank 3 Xyzs](#Xyz-Monsters). Once in the Graveyard, they can banish themselves for extra advantage – Angular can recover any banished *Rubic* monster (including itself if helpful), and Axis can bury any straight from the Deck, essentially giving a free search.
+On Summon, [Angular](#Monsters) Summons any Lv3 *Rubic* monster (ideally [Axis](#Monsters)), while Axis spawns a [Rubic Token](#Tokens) to each field, both quickly swarming material. They can be tuned with [Lv3 Tuners](#Level-3-Tuners) for [Lv6 Synchros](#Synchro-Monsters), or overlayed for [Rank 3 Xyzs](#Xyz-Monsters). Once in the Graveyard, they can banish themselves for extra advantage – Angular can recover any banished *Rubic* monster (including itself if helpful), and Axis can bury any straight from the Deck, essentially giving a free search.
 
 <table>
   <tr>
