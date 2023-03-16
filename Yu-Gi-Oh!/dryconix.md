@@ -1,6 +1,6 @@
 # Dryconix
 
-My absolute favourite deck of all time. Despite having 9 Ritual monsters, single copies of unconventional handtraps, and nearing *60* cards, it’s still surprisingly consistent, insanely versatile, and can definitely hold its own.
+My absolute favourite deck of all time. Despite having 9 Ritual monsters, single copies of staples, and nearing 60 cards, it’s still surprisingly consistent, insanely versatile, and can definitely hold its own.
 
 
 <br>
@@ -29,16 +29,16 @@ My absolute favourite deck of all time. Despite having 9 Ritual monsters, single
 | [Drytron Alpha Thuban](https://yugipedia.com/wiki/Drytron_Alpha_Thuban) | x3 | |
 | [Drytron Zeta Aldibah](https://yugipedia.com/wiki/Drytron_Zeta_Aldibah) | x3 | |
 | [Drytron Delta Altais](https://yugipedia.com/wiki/Drytron_Delta_Altais) | x2 | My favourite Drytron, the draw is always insane. |
-| [Drytron Gamma Eltanin](https://yugipedia.com/wiki/Drytron_Gamma_Eltanin) | x2 | |
+| [Drytron Gamma Eltanin](https://yugipedia.com/wiki/Drytron_Gamma_Eltanin) | x2 | Pivotal for comebacks, but I don’t need the extension normally. |
 | [Drytron Beta Rastaban](https://yugipedia.com/wiki/Drytron_Beta_Rastaban) | x1 | Saviour against Runick or Dimension Shifter, seriously clutch. |
-| [Drytron Meteonis Draconids](https://yugipedia.com/wiki/Drytron_Meteonis_Draconids) | x1 | |
-| [Drytron Meteonis Quadrantids](https://yugipedia.com/wiki/Drytron_Meteonis_Quadrantids) | x1 | |
-| [Amorphactor Pain, the Imagination Dracoverlord](https://yugipedia.com/wiki/) | x1 | |
-| [Odd-Eyes Gravity Dragon](https://yugipedia.com/wiki/) | x1 | |
+| [Drytron Meteonis Draconids](https://yugipedia.com/wiki/Drytron_Meteonis_Draconids) | x1 | Epic for OTKs. |
+| [Drytron Meteonis Quadrantids](https://yugipedia.com/wiki/Drytron_Meteonis_Quadrantids) | x1 | Ruins backrow. |
+| [Amorphactor Pain, the Imagination Dracoverlord](https://yugipedia.com/wiki/) | x1 | My favourite Ritual monster after White Zoa. Being able to actually play it is so wonderful. |
+| [Odd-Eyes Gravity Dragon](https://yugipedia.com/wiki/) | x1 | Great to leave on an endboard, and clearing threatening backrow before my opponent realyzes what’s going on. |
 | [Blue-Eyes Chaos MAX Dragon](https://yugipedia.com/wiki/) | x1 | Super versatile against decks that just can’t handle both targeting and destruction immunity *and* high ATK – Labrynth, Runick, even Eldlitch. |
 | [Shinobaron Peacock](https://yugipedia.com/wiki/) | x1 | Insane removal. |
-| [White Relic of Dogmatika](https://yugipedia.com/wiki/White_Relic_of_Dogmatika) | x1 | |
-| [White Knight of Dogmatika](https://yugipedia.com/wiki/White_Knight_of_Dogmatika) | x1 | |
+| [White Relic of Dogmatika](https://yugipedia.com/wiki/White_Relic_of_Dogmatika) | x1 | Surprisingly good for OTKs, and an easy out to an Accesscode Talker that didn’t manage to strike for game. |
+| [White Knight of Dogmatika](https://yugipedia.com/wiki/White_Knight_of_Dogmatika) | x1 | Great when we’ve got nothing else. |
 | [White Zoa of Dogmatika](https://yugipedia.com/wiki/Dogmatika_Alba_Zoa) | x1 | Technically Alba Zoa now, but whatever, White Zoa is the better name. Anyway, the ace of the deck! |
 | [Diviner of the Herald](https://yugipedia.com/wiki/Diviner_of_the_Herald) | x3 | Does scare people into thinking this is Herald Drytron, but nooo, we’re going into Lv7 Synchro toolbox B) |
 
@@ -51,17 +51,17 @@ My absolute favourite deck of all time. Despite having 9 Ritual monsters, single
 
 | card | copies | notes |
 | :--- | :----- | :---- |
-| [Drytron Mu Beta Fafnir](https://yugipedia.com/wiki/Drytron_Mu_Beta_Fafnir) | x3 | |
-| [Herald of the Arc Light](https://yugipedia.com/wiki/Herald_of_the_Arc_Light) | x3 | |
-| [Elder Entity N'tss](https://yugipedia.com/wiki/) | x1 | |
-| [Clear Wing Synchro Dragon](https://yugipedia.com/wiki/) | x1 | |
-| [Black Rose Dragon](https://yugipedia.com/wiki/) | x1 | |
-| [Wind Pegasus @Ignister](https://yugipedia.com/wiki/) | x1 | |
+| [Drytron Mu Beta Fafnir](https://yugipedia.com/wiki/Drytron_Mu_Beta_Fafnir) | x3 | Insane consistency tool. |
+| [Herald of the Arc Light](https://yugipedia.com/wiki/Herald_of_the_Arc_Light) | x3 | We can even Synchro Summon it with Ash Blossom and Drytron! |
+| [Elder Entity N'tss](https://yugipedia.com/wiki/) | x1 | One’s enough. |
+| [Clear Wing Synchro Dragon](https://yugipedia.com/wiki/) | x1 | This is my favourite Synchro monster, so naturally I was delighted when I realyzed I could throw it in Drytron. |
+| [Black Rose Dragon](https://yugipedia.com/wiki/) | x1 | A nice backup to have when we really just need to nuke the board. |
+| [Wind Pegasus @Ignister](https://yugipedia.com/wiki/) | x1 | Works under Amorphactor Pain and in the Graveyard, even has Spell/Trap removal for followup. |
 | [Linkuriboh](https://yugipedia.com/wiki/) | x1 | Pivotal for optilical combo sequencing. |
 | [Relinquished Anima](https://yugipedia.com/wiki/) | x1 | Hilarious when it works, perfect for plucking back a Lava Golem too. |
 | [Lyrilusc – Assembled Nightingale](https://yugipedia.com/wiki/) | x1 | Emergency OTK! |
 | [Raidraptor – Ultimate Falcon](https://yugipedia.com/wiki/) | x1 | I actually love this card, considering my first deck was Raidraptor. |
-| [Infinitrack Fortress Megaclops](https://yugipedia.com/wiki/) | x1 | Waking the Dragon moment |
+| [Infinitrack Fortress Megaclops](https://yugipedia.com/wiki/) | x1 | Waking the Dragon moment lmao |
 
 </details>
 
