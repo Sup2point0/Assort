@@ -97,7 +97,7 @@ An archetype of DARK Cyberse monsters, harnessing Synchro, Xyz, Link Summoning a
 
 ## Overview
 
-The different classes of monsters within the archetype each serve different purposes. This is especially apparent in the Extra Deck monsters, where each type has a specialty – Synchros break the board and attack for kill, Xyzs control the board and move cards, Links search cards and spawn Tokens.
+The different classes of monsters within the archetype each serve different purposes. This is especially apparent in the Extra Deck monsters, where each type has a speciality – [Synchros](#Synchro-Monsters) break the board and attack for kill, [Xyzs](#Xyz-Monsters) control the board and move cards, [Links](#Link-Monsters) search cards and spawn Tokens.
 
 ### Level 3 non-Tuners
 These are the prime Normal Summon choices, sharing the following effects:
