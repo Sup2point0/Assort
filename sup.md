@@ -38,7 +38,7 @@
 
 <img src=".assets/sup/organic.png" width="360px"> <img src=".assets/sup/biochemistry.png" width="360px">
 <img src=".assets/sup/geometrics.png" width="360px"> <img src=".assets/sup/complex.png" width="360px">
-<img src=".assets/sup/electronic.png" width="360px"> <img src=".assets/sup/epic.png" width="360px">
+<a href="https://github.com/Sup2point0/Assort/blob/origin/%7Elists/favourites/music.md"> <img src=".assets/sup/electronic.png" width="360px"> </a> <img src=".assets/sup/epic.png" width="360px">
 <img src=".assets/sup/language.png" width="360px">
 
 
@@ -99,8 +99,7 @@
 
 <img src=".assets/sup/Hermitcraft.png" width="360px"> <img src=".assets/sup/Life.png" width="360px">
 <img src=".assets/sup/Yu-Gi-Oh.png" width="360px">
-<img src=".assets/sup/Ultraman.png" width="360px">
-<img src=".assets/sup/Pokemon.png" width="360px">
+<img src=".assets/sup/Ultraman.png" width="360px"> <img src=".assets/sup/Pokemon.png" width="360px">
 
 <img src=".assets/sup/Wikipedia.png" width="360px"> <img src=".assets/sup/fanfiction.png" width="360px">
 
