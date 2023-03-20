@@ -25,6 +25,7 @@
 <img src=".assets/sup/introvert.png" width="360px"> <img src=".assets/sup/curious.png" width="360px">
 <img src=".assets/sup/independent.png" width="360px"> <img src=".assets/sup/driven.png" width="360px">
 <img src=".assets/sup/creative.png" width="360px"> <img src=".assets/sup/focused.png" width="360px">
+<!-- <img src=".assets/sup/serene.png" width="360px"> <img src=".assets/sup/–.png" width="360px"> -->
 <img src=".assets/sup/turbulent.png" width="360px"> <img src=".assets/sup/nihilist.png" width="360px">
 
 
@@ -76,14 +77,15 @@
 
 ## System
 
-<img src=".assets/sup/iOS.png" width="360px"> <!-- <img src=".assets/sup/iPadOS.png" width="360px"> -->
+<img src=".assets/sup/iOS.png" width="360px"> <img src=".assets/sup/iPadOS.png" width="360px">
 <img src=".assets/sup/Windows.png" width="360px"> <img src=".assets/sup/XPS.png" width="360px">
 
 
 ## Games
 
-<img src=".assets/sup/masterduel.png" width="360px">
-<img src=".assets/sup/bloons.png" width="360px"> <img src=".assets/sup/Pop.png" width="360px">
+<img src=".assets/sup/Master Duel.png" width="360px">
+<img src=".assets/sup/Bloons.png" width="360px"> <img src=".assets/sup/Pop.png" width="360px">
+<img src=".assets/sup/Asphalt 9.png" width="360px"> <img src=".assets/sup/Asphalt 8.png" width="360px">
 <img src=".assets/sup/Soul.png" width="360px">
 
 
