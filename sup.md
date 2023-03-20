@@ -97,7 +97,8 @@
 
 ## Content
 
-<img src=".assets/sup/Hermitcraft.png" width="360px">
+<img src=".assets/sup/Hermitcraft.png" width="360px"> <img src=".assets/sup/Life.png" width="360px">
+<img src=".assets/sup/Yu-Gi-Oh.png" width="360px">
 <img src=".assets/sup/Ultraman.png" width="360px">
 <img src=".assets/sup/Pokemon.png" width="360px">
 
@@ -106,4 +107,5 @@
 
 ## Miscellaneous
 
+<img src=".assets/sup/duelist.png" width="360px">
 <img src=".assets/sup/Wikia.png" width="360px"> <img src=".assets/sup/Monkeyopolis.png" width="360px">
