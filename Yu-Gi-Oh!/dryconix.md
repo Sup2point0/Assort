@@ -27,11 +27,11 @@ My absolute favourite deck of all time. Despite having 9 Ritual monsters, single
 | card | copies | notes |
 | :--- | :----- | :---- |
 | [Drytron Alpha Thuban](https://yugipedia.com/wiki/Drytron_Alpha_Thuban) | x3 | |
-| [Drytron Zeta Aldibah](https://yugipedia.com/wiki/Drytron_Zeta_Aldibah) | x3 | |
+| [Drytron Zeta Aldibah](https://yugipedia.com/wiki/Drytron_Zeta_Aldibah) | x3 | I really wish it could recover Ritual Spells from the grave, since it becomes rather useless late game. |
 | [Drytron Delta Altais](https://yugipedia.com/wiki/Drytron_Delta_Altais) | x2 | My favourite Drytron, the draw is always insane. |
 | [Drytron Gamma Eltanin](https://yugipedia.com/wiki/Drytron_Gamma_Eltanin) | x2 | Pivotal for comebacks, but I don’t need the extension normally. |
 | [Drytron Beta Rastaban](https://yugipedia.com/wiki/Drytron_Beta_Rastaban) | x1 | Saviour against Runick or Dimension Shifter, seriously clutch. |
-| [Drytron Meteonis Draconids](https://yugipedia.com/wiki/Drytron_Meteonis_Draconids) | x1 | Epic for OTKs. |
+| [Drytron Meteonis Draconids](https://yugipedia.com/wiki/Drytron_Meteonis_Draconids) | x1 | Very strong against certain archetypes, and epic for OTKs. |
 | [Drytron Meteonis Quadrantids](https://yugipedia.com/wiki/Drytron_Meteonis_Quadrantids) | x1 | Ruins backrow. |
 | [Amorphactor Pain, the Imagination Dracoverlord](https://yugipedia.com/wiki/) | x1 | My favourite Ritual monster after White Zoa. Being able to actually play it is so wonderful. |
 | [Odd-Eyes Gravity Dragon](https://yugipedia.com/wiki/) | x1 | Great to leave on an endboard, and clearing threatening backrow before my opponent realyzes what’s going on. |
@@ -79,8 +79,8 @@ My absolute favourite deck of all time. Despite having 9 Ritual monsters, single
 | [Dogmatikatrix](https://yugipedia.com/wiki/) | x2 | Just incredible searching power, especially if going second, and leaves Drytrons free to search for other Ritual cards. Once we’ve got White Zoa out, we can even scout out our opponent’s Extra Deck or bury any monster from our own for even more value. |
 | [Dogmatikabre](https://yugipedia.com/wiki/) | x1 | Just for White Zoa, but also useful with the lower Level Dogmatika Rituals if I have Herald of the Arc Lights in the Graveyard. |
 | [Where Arf Thou?](https://yugipedia.com/wiki/) | x2 | Another searcher for consistency, can search Droll & Lock Bird if I’ve got all the Drytron modules I need. |
-| [Preparation of Rites](https://yugipedia.com/wiki/) | x1 | Searches Odd-Eyes Gravity Dragon for opening setup, or White Relic of Dogmatika for OTK, and a free recovery (especially for Dogmatikamacabre to revive Zoa). |
-| [Pre-Preparation of Rites](https://yugipedia.com/wiki/) | x1 | Searches Dogmatikamacabre and a free Dogmatika Ritual monster to Tribute, even if it is a dead draw later on. |
+| [Preparation of Rites](https://yugipedia.com/wiki/) | x1 | Searches Odd-Eyes Gravity Dragon for opening setup, or White Relic of Dogmatika for OTK, and a free recovery (especially for Dogmatikacabre to revive Zoa). |
+| [Pre-Preparation of Rites](https://yugipedia.com/wiki/) | x1 | Searches Dogmatikacabre and a free Dogmatika Ritual Monster to Tribute, and acts as an Ash bait, even if it is a dead draw later on. |
 
 </details>
 
@@ -121,7 +121,7 @@ My absolute favourite deck of all time. Despite having 9 Ritual monsters, single
 
 ## Strategics
 
-There are kinda 2 versions of this deck – the *Master Duel* one without White Zoa or Dogmatikatrix, but Maxx C, and the ‘modern’ one with the protic and without the deutic.
+### 
 
 ### Master Duel
 Standard endboard consists of Amorphactor Pain and Odd-Eyes Gravity Dragon, as well as Wind Pegasus @Ignister if I’ve used Diviner of the Herald.
@@ -133,9 +133,9 @@ Waking the Dragon is insanely effective, since *so* many people have Spell/Trap 
 ### Modern
 Target endboard is the same as Master Duel, just with White Zoa too, though this is difficult to achieve without the right resources.
 
-White Zoa needs 3 cards to Ritual Summon – itself, Dogmatikamacabre, and a Draconids or Quadrantids in hand to Tribute... or we could have a Lv8 Ritual and banish a Herald of the Arc Light from the Graveyard, that works too. Regardless, it’s quite a lot to ask, and while it has stellar protection and a devastating effect, it’s probably not enough to hold up on its own – which means we can’t just abandon the Drytron side of things. So, I’ll only bring it out if I can still Ritual Summon other Ritual monsters with Meteonis Drytron.
+White Zoa needs 3 cards to Ritual Summon – itself, Dogmatikacabre, and a Draconids or Quadrantids in hand to Tribute... or we could have a Lv8 Ritual and banish a Herald of the Arc Light from the Graveyard, that works too. Regardless, it’s quite a lot to ask, and while it has stellar protection and a devastating effect, it’s probably not enough to hold up on its own – which means we can’t just abandon the Drytron side of things. So, I’ll only bring it out if I can still Ritual Summon other Ritual monsters with Meteonis Drytron.
 
-Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards to search out all the Ritual Spells and monsters we need. Nadir Servant is great for searching any missing piece we need, and if we go second Dogmatikatrix can grab both White Zoa and Dogmatikamacabre all in one go, or even another copy of itself if we’ve already got one of those.
+Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards to search out all the Ritual Spells and monsters we need. Nadir Servant is great for searching any missing piece we need, and if we go second Dogmatikatrix can grab both White Zoa and Dogmatikacabre all in one go, or even another copy of itself if we’ve already got one of those.
 
 
 <br>
@@ -164,4 +164,10 @@ Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards t
 ## Questions
 
 ### Why Dogmatikabre instead of Dogmatikalamity?
-Sure, Dogmatikalamity lets you Tribute straight from the Extra Deck, but it has 2 major downsides – it can’t Ritual Summon from the grave, and it locks you out of the Extra Deck. The latter doesn’t matter too much since we could just drop White Zoa at the end of our combo; but if we have Dogmatikatrix, bringing out a Dogmatika Ritual monster as soon as possible means we’d be able to see what our opponent is playing, and setup an endboard accordingly, or if we’re lacking cards we need, send an Arc Light from our Extra Deck for a clutch search.
+Sure, Dogmatikalamity lets you Tribute straight from the Extra Deck, but it has 3 major downsides – it can’t Ritual Summon from the Grave, it can’t be searched by Pre-Preparation of Rites, and it locks you out of the Extra Deck.
+
+Being able to revive from the Grave is huge, since it means we don’t need to keep the Dogmatika Ritual Monsters in hand, and can Tribute them for Drytrons. Even if White Zoa being ripped from our Hand or Deck, we can still bring it back; we can even search it ourselves with Foolish Burial, if needed. It’s just far more flexible and versatile in general, particularly in late game, where Dogmatikalamity would otherwise be dead draw.
+
+Locking us out of the Extra Deck doesn’t matter too much, since we could just drop White Zoa at the end of our combo anyway; but if we have Dogmatikatrix, bringing out a Dogmatika Ritual Monster as soon as possible means we’d be able to see what our opponent is playing, and setup an endboard accordingly, or if we’re lacking cards we need, send an Arc Light from our Extra Deck for a clutch search.
+
+And of course, being searchable by Pre-Preparation of Rites is nice, freeing up our Zeta to search for Meteonis Drytron.
