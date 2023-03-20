@@ -149,6 +149,26 @@ Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards t
 <br>
 
 
+## Rivals
+
+<details open>
+  <summary> <b> display </b> </summary> <br>
+
+<table>
+  <td>
+    <a href="#Branded-Despia">Branded Despia</a> <br>
+    <a href="#Labrynth">Labrynth</a>
+  </td>
+</table>
+
+</details>
+
+### Labrynth
+Blue-Eyes Chaos MAX Dragon insta-win. Labrynth can’t handle targeting and destruction protection or that 4000 ATK, unless they bring out Skill Drain. Then we’re screwed.
+
+Alternatively, they trigger Waking the Dragon and we drop Ultimate Falcon on them, which is a definitive insta-win.
+
+
 ## Replays
 
 ### DuelingNexus
