@@ -56,5 +56,19 @@ Yep, I collect quotes.
 ***The problem of being faster than light is that you can only live in darkness.***
 
 ***I would like to die on Mars. Just not on impact.***
+This one’s from Elon Musk.
 
 ***Never forget that the toes you step on today may be connected to the ass you have to kiss tomorrow.***
+
+
+<br>
+
+
+## Quotes of Mine
+
+***(Almost) everything is an anthropological construct.***
+Also known as 'everything is a human construct'.
+
+***Everything will be alright.***
+
+***There is no glass, life is a lie.***
