@@ -79,8 +79,8 @@ My absolute favourite deck of all time. Despite having 9 Ritual monsters, single
 | [Dogmatikatrix](https://yugipedia.com/wiki/) | x2 | Just incredible searching power, especially if going second, and leaves Drytrons free to search for other Ritual cards. Once we’ve got White Zoa out, we can even scout out our opponent’s Extra Deck or bury any monster from our own for even more value. |
 | [Dogmatikabre](https://yugipedia.com/wiki/) | x1 | Just for White Zoa, but also useful with the lower Level Dogmatika Rituals if I have Herald of the Arc Lights in the Graveyard. |
 | [Where Arf Thou?](https://yugipedia.com/wiki/) | x2 | Another searcher for consistency, can search Droll & Lock Bird if I’ve got all the Drytron modules I need. |
-| [Preparation of Rites](https://yugipedia.com/wiki/) | x1 | Searches Odd-Eyes Gravity Dragon for opening setup, or White Relic of Dogmatika for OTK, and a free recovery (especially for Dogmatikacabre to revive Zoa). |
-| [Pre-Preparation of Rites](https://yugipedia.com/wiki/) | x1 | Searches Dogmatikacabre and a free Dogmatika Ritual Monster to Tribute, and acts as an Ash bait, even if it is a dead draw later on. |
+| [Preparation of Rites](https://yugipedia.com/wiki/) | x1 | Searches Odd-Eyes Gravity Dragon for opening setup, or White Relic of Dogmatika for OTK, and a free recovery (especially for Dogmatikabre to revive Zoa). |
+| [Pre-Preparation of Rites](https://yugipedia.com/wiki/) | x1 | Searches Dogmatikabre and a free Dogmatika Ritual Monster to Tribute, and acts as an Ash bait, even if it is a dead draw later on. |
 
 </details>
 
@@ -121,21 +121,12 @@ My absolute favourite deck of all time. Despite having 9 Ritual monsters, single
 
 ## Strategics
 
-### 
+### End Board
+The dream endboard consists of White Zoa, Amorphactor Pain, Odd-Eyes Gravity Dragon, Elder Entity.
 
-### Master Duel
-Standard endboard consists of Amorphactor Pain and Odd-Eyes Gravity Dragon, as well as Wind Pegasus @Ignister if I’ve used Diviner of the Herald.
+White Zoa needs 3 cards to Ritual Summon – itself, Dogmatikabre, and a Draconids or Quadrantids in hand to Tribute (or we could have a Lv8 Ritual and banish a Arc Light from the Graveyard, that works too). Regardless, it’s quite a lot to ask, and while it has stellar protection and a devastyzing effect, it’s probably not enough to hold up on its own – which means we can’t just abandon the Drytron side of things. So, I’ll only bring it out if I can still Ritual Summon other Ritual Monsters with Meteonis Drytron.
 
-If things go catastrophically wrong, we end on Clear Wing Synchro Dragon and/or a Dogmatika Ritual.
-
-Waking the Dragon is insanely effective, since *so* many people have Spell/Trap removal and use it for no particular reason.
-
-### Modern
-Target endboard is the same as Master Duel, just with White Zoa too, though this is difficult to achieve without the right resources.
-
-White Zoa needs 3 cards to Ritual Summon – itself, Dogmatikacabre, and a Draconids or Quadrantids in hand to Tribute... or we could have a Lv8 Ritual and banish a Herald of the Arc Light from the Graveyard, that works too. Regardless, it’s quite a lot to ask, and while it has stellar protection and a devastating effect, it’s probably not enough to hold up on its own – which means we can’t just abandon the Drytron side of things. So, I’ll only bring it out if I can still Ritual Summon other Ritual monsters with Meteonis Drytron.
-
-Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards to search out all the Ritual Spells and monsters we need. Nadir Servant is great for searching any missing piece we need, and if we go second Dogmatikatrix can grab both White Zoa and Dogmatikacabre all in one go, or even another copy of itself if we’ve already got one of those.
+Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards to search out all the Ritual Spells and monsters we need. Nadir Servant is great for searching any missing piece we need, and if we go second Dogmatikatrix can grab both White Zoa and Dogmatikabre all in one go, or even another copy of itself if we’ve already got one of those.
 
 
 <br>
@@ -157,16 +148,24 @@ Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards t
 <table>
   <td>
     <a href="#Branded-Despia">Branded Despia</a> <br>
-    <a href="#Labrynth">Labrynth</a>
+    <a href="#Labrynth">Labrynth</a> <br>
+    <a href="#Swordsoul">Swordsoul</a> <br>
+    <a href="##">–</a>
   </td>
 </table>
 
 </details>
 
+### Branded Despia
+This is actually so fun to play against, even if I do end up losing most of the time. Since its speciality is removal and doesn’t have negates at all, it presents a far more interesting challenge to overcome – many of my most exhilaryzing and memorable duels have been against Branded Despia.
+
 ### Labrynth
 Blue-Eyes Chaos MAX Dragon insta-win. Labrynth can’t handle targeting and destruction protection or that 4000 ATK, unless they bring out Skill Drain. Then we’re screwed.
 
 Alternatively, they trigger Waking the Dragon and we drop Ultimate Falcon on them, which is a definitive insta-win.
+
+### Swordsoul
+Swordsoul and Swordsoul Tenyi, unlike Branded Despia, are such a pain to play against. Which is weird, since both decks feature single-card opening combos and tech in other Monsters of their Summoning tecnique – and I even find Synchro Monsters cooler than Fusion Monsters.
 
 
 ## Replays
