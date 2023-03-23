@@ -35,7 +35,7 @@ My absolute favourite deck of all time. Despite having 9 Ritual monsters, single
 | [Drytron Meteonis Quadrantids](https://yugipedia.com/wiki/Drytron_Meteonis_Quadrantids) | x1 | Ruins backrow. |
 | [Amorphactor Pain, the Imagination Dracoverlord](https://yugipedia.com/wiki/) | x1 | My favourite Ritual monster after White Zoa. Being able to actually play it is so wonderful. |
 | [Odd-Eyes Gravity Dragon](https://yugipedia.com/wiki/) | x1 | Great to leave on an endboard, and clearing threatening backrow before my opponent realyzes what’s going on. |
-| [Blue-Eyes Chaos MAX Dragon](https://yugipedia.com/wiki/) | x1 | Super versatile against decks that just can’t handle both targeting and destruction immunity *and* high ATK – Labrynth, Runick, even Eldlitch. |
+| [Blue-Eyes Chaos MAX Dragon](https://yugipedia.com/wiki/) | x1 | Super versatile against decks that just can’t Handle both targeting and destruction immunity *and* high ATK – Labrynth, Runick, even Eldlitch. |
 | [Shinobaron Peacock](https://yugipedia.com/wiki/) | x1 | Insane removal. |
 | [White Relic of Dogmatika](https://yugipedia.com/wiki/White_Relic_of_Dogmatika) | x1 | Surprisingly good for OTKs, and an easy out to an Accesscode Talker that didn’t manage to strike for game. |
 | [White Knight of Dogmatika](https://yugipedia.com/wiki/White_Knight_of_Dogmatika) | x1 | Great when we’ve got nothing else. |
@@ -104,9 +104,9 @@ My absolute favourite deck of all time. Despite having 9 Ritual monsters, single
 | :--- | :----- | :---- |
 | [Lava Golem](https://yugipedia.com/wiki/) | x1 | Such a powerful boardbreaker, and fits perfectly with Drytron since it can’t be Normal Summoned, and Drytron doesn’t really need a Normal Summon anyway. |
 | [Ash Blossom & Joyous Spring](https://yugipedia.com/wiki/) | x2 | I didn’t use to run this since stopping people from playing the game isn’t fun, but... man am I tired of Maxx C... and Branded Fusion into Mirrorjade... and Chixiao into Chengying... and Block Dragon – you get the idea. Also, most of the time I Normal Summon it to tune with a Drytron to make a spare Herald of the Arc Light! Insane value. |
-| [Droll & Lock Bird](https://yugipedia.com/wiki/) | x1 | Can’t use it against Maxx C since it literally locks myself, but searchable with *Where Arf Thou?* and shuts some decks down nicely. Quite a mean handtrap tho. |
+| [Droll & Lock Bird](https://yugipedia.com/wiki/) | x1 | Can’t use it against Maxx C since it literally locks myself, but searchable with *Where Arf Thou?* and shuts some decks down nicely. Quite a mean Handtrap tho. |
 | [Dark Ruler No More](https://yugipedia.com/wiki/) | x1 | |
-| [Forbidden Droplet](https://yugipedia.com/wiki/) | x1 | Finally, a reason to leave extra Drytron modules on board! Splendid in Drytron, especially when going second, since the modules don’t really care if they’re in the hand or Graveyard. |
+| [Forbidden Droplet](https://yugipedia.com/wiki/) | x1 | Finally, a reason to leave extra Drytron modules on board! Splendid in Drytron, especially when going second, since the modules don’t really care if they’re in the Hand or Graveyard. |
 | [Triple Tactics Talent](https://yugipedia.com/wiki/) | x1 | Quality response and all too easy to trigger. |
 | [Ultimate Slayer](https://yugipedia.com/wiki/) | x1 | People should give this more recognition honestly. Perfect against Synchro decks to send a Herald of the Arc Light for an extra search, or against Fusion decks to send a N'tss for a free pop. Nicely avoids Mirrorjade and Chengying’s effects. |
 | [Infinite Impermanence](https://yugipedia.com/wiki/) | x1 | Why only 1, I know. I don’t really play it as interruption (unless it’s Aluber or Chixiao), but rather an opener when going second to neutralyze a threat or draw out a negate. |
@@ -124,7 +124,7 @@ My absolute favourite deck of all time. Despite having 9 Ritual monsters, single
 ### End Board
 The dream endboard consists of White Zoa, Amorphactor Pain, Odd-Eyes Gravity Dragon, Elder Entity.
 
-White Zoa needs 3 cards to Ritual Summon – itself, Dogmatikabre, and a Draconids or Quadrantids in hand to Tribute (or we could have a Lv8 Ritual and banish a Arc Light from the Graveyard, that works too). Regardless, it’s quite a lot to ask, and while it has stellar protection and a devastyzing effect, it’s probably not enough to hold up on its own – which means we can’t just abandon the Drytron side of things. So, I’ll only bring it out if I can still Ritual Summon other Ritual Monsters with Meteonis Drytron.
+White Zoa needs 3 cards to Ritual Summon – itself, Dogmatikabre, and a Draconids or Quadrantids in Hand to Tribute (or we could have a Lv8 Ritual and banish a Arc Light from the Graveyard, that works too). Regardless, it’s quite a lot to ask, and while it has stellar protection and a devastyzing effect, it’s probably not enough to hold up on its own – which means we can’t just abandon the Drytron side of things. So, I’ll only bring it out if I can still Ritual Summon other Ritual Monsters with Meteonis Drytron.
 
 Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards to search out all the Ritual Spells and monsters we need. Nadir Servant is great for searching any missing piece we need, and if we go second Dogmatikatrix can grab both White Zoa and Dogmatikabre all in one go, or even another copy of itself if we’ve already got one of those.
 
@@ -150,6 +150,8 @@ Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards t
     <a href="#Branded-Despia">Branded Despia</a> <br>
     <a href="#Labrynth">Labrynth</a> <br>
     <a href="#Marincess">Marincess</a> <br>
+    <a href="#Mathmech">Mathmech</a> <br>
+    <a href="#Pendulum-Magician">Pendulum Magician</a> <br>
     <a href="#Runick">Runick</a> <br>
     <a href="#Spright">Spright</a> <br>
     <a href="#Swordsoul">Swordsoul</a> <br>
@@ -163,12 +165,20 @@ Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards t
 This is actually so fun to play against, even if I do end up losing most of the time. Since its speciality is removal and doesn’t have negates at all, it presents a far more interesting challenge to overcome – many of my most exhilaryzing and memorable duels have been against Branded Despia. I love playing against duelists who really *know* the deck and don’t just play it cuz meta. Especially those who take it further and stretch its capabilitys, like Fusion Summoning twice in one Chain Link with Lubellion and Branded in Red
 
 ### Labrynth
-Blue-Eyes Chaos MAX Dragon insta-win. Labrynth can’t handle targeting and destruction protection or that 4000 ATK, unless they bring out Skill Drain. Then we’re screwed.
+Blue-Eyes Chaos MAX Dragon insta-win. Labrynth can’t Handle targeting and destruction protection or that 4000 ATK, unless they bring out Skill Drain. Then we’re screwed.
 
 Alternatively, they trigger Waking the Dragon and we drop Ultimate Falcon on them, which is a definitive insta-win.
 
 ### Marincess
 This shouldn’t be that hard to beat, but it is. Y’know what, returning to the original Ritual Monsters works wonderfully – Draconids and Quadrantids keep pressure on them by clearing their Spell/Traps each turn, and Odd-Eyes Gravity Dragon really hurts since they combo so much.
+
+### Mathmech
+I also play Mathmech myself, so I’m really familiar with how it works. And it can be really dangerous if we’re uncareful. Luckily skipping their Main Phase 1 with Amorphactor Pain neutralyzes the threat of an OTK, and if they don’t read and overlay into Alembertian or Laplacian while it’s on the field then things will be much more difficult for them.
+
+If they go first and drop Superfactorial early, then counterplay is really quite difficult with the resource rip and negate. Draconids is probably the most effective here, to remove materials before they can Synchro into Final Sigma or Link into Accesscode.
+
+### Pendulum Magician
+Never did I think I would hate such a cool deck (since I absolutely loved Yuya’s deck in Arc-V), but the endboards it cryzes are really, really toxic, and literally none of the cards are actually archetypical. Apollousa is enough to kill Drytron, but a Baronne de Fleur, Hope Harbinger, Borreload Savage Dragon, *and* Time Pendulumgraph too? Even if I draw Forbidden Droplet, it’ll cripple my Hand, and I don’t run Dark Ruler No More anymore.
 
 ### Runick
 Honestly makes me want to crawl up and die. Whenever I face this, the race is on to grab Chaos MAX Dragon before they banish it, since just like with Labrynth, it’s an insta-win. It feels *soo* good crashing into a Hugin to deal perfectly 8000 damage. Unless they have Skill Drain... and they probably do. In which case, Quadrantids is our only good option, since whenever they destroy it it’ll bring back more Drytrons, hopefully to attack directly. Unless they have There Can Be Only One. Oh my days. What an absolute pain. And Dimensional Fissure. ALL the floodgates.
@@ -201,7 +211,7 @@ Swordsoul and Swordsoul Tenyi, unlike Branded Despia, are such a pain to play ag
 ### Why Dogmatikabre instead of Dogmatikalamity?
 Sure, Dogmatikalamity lets you Tribute straight from the Extra Deck, but it has 3 major downsides – it can’t Ritual Summon from the Grave, it can’t be searched by Pre-Preparation of Rites, and it locks you out of the Extra Deck.
 
-Being able to revive from the Grave is huge, since it means we don’t need to keep the Dogmatika Ritual Monsters in hand, and can Tribute them for Drytrons. Even if White Zoa being ripped from our Hand or Deck, we can still bring it back; we can even search it ourselves with Foolish Burial, if needed. It’s just far more flexible and versatile in general, particularly in late game, where Dogmatikalamity would otherwise be dead draw.
+Being able to revive from the Grave is huge, since it means we don’t need to keep the Dogmatika Ritual Monsters in Hand, and can Tribute them for Drytrons. Even if White Zoa being ripped from our Hand or Deck, we can still bring it back; we can even search it ourselves with Foolish Burial, if needed. It’s just far more flexible and versatile in general, particularly in late game, where Dogmatikalamity would otherwise be dead draw.
 
 Locking us out of the Extra Deck doesn’t matter too much, since we could just drop White Zoa at the end of our combo anyway; but if we have Dogmatikatrix, bringing out a Dogmatika Ritual Monster as soon as possible means we’d be able to see what our opponent is playing, and setup an endboard accordingly, or if we’re lacking cards we need, send an Arc Light from our Extra Deck for a clutch search.
 
