@@ -35,7 +35,7 @@ My absolute favourite deck of all time. Despite having 9 Ritual monsters, single
 | [Drytron Meteonis Quadrantids](https://yugipedia.com/wiki/Drytron_Meteonis_Quadrantids) | x1 | Ruins backrow. |
 | [Amorphactor Pain, the Imagination Dracoverlord](https://yugipedia.com/wiki/) | x1 | My favourite Ritual monster after White Zoa. Being able to actually play it is so wonderful. |
 | [Odd-Eyes Gravity Dragon](https://yugipedia.com/wiki/) | x1 | Great to leave on an endboard, and clearing threatening backrow before my opponent realyzes what’s going on. |
-| [Blue-Eyes Chaos MAX Dragon](https://yugipedia.com/wiki/) | x1 | Super versatile against decks that just can’t Handle both targeting and destruction immunity *and* high ATK – Labrynth, Runick, even Eldlitch. |
+| [Blue-Eyes Chaos MAX Dragon](https://yugipedia.com/wiki/) | x1 | Super versatile against decks that just can’t handle both targeting and destruction immunity *and* high ATK – Labrynth, Runick, even Eldlitch. |
 | [Shinobaron Peacock](https://yugipedia.com/wiki/) | x1 | Insane removal. |
 | [White Relic of Dogmatika](https://yugipedia.com/wiki/White_Relic_of_Dogmatika) | x1 | Surprisingly good for OTKs, and an easy out to an Accesscode Talker that didn’t manage to strike for game. |
 | [White Knight of Dogmatika](https://yugipedia.com/wiki/White_Knight_of_Dogmatika) | x1 | Great when we’ve got nothing else. |
@@ -104,7 +104,7 @@ My absolute favourite deck of all time. Despite having 9 Ritual monsters, single
 | :--- | :----- | :---- |
 | [Lava Golem](https://yugipedia.com/wiki/) | x1 | Such a powerful boardbreaker, and fits perfectly with Drytron since it can’t be Normal Summoned, and Drytron doesn’t really need a Normal Summon anyway. |
 | [Ash Blossom & Joyous Spring](https://yugipedia.com/wiki/) | x2 | I didn’t use to run this since stopping people from playing the game isn’t fun, but... man am I tired of Maxx C... and Branded Fusion into Mirrorjade... and Chixiao into Chengying... and Block Dragon – you get the idea. Also, most of the time I Normal Summon it to tune with a Drytron to make a spare Herald of the Arc Light! Insane value. |
-| [Droll & Lock Bird](https://yugipedia.com/wiki/) | x1 | Can’t use it against Maxx C since it literally locks myself, but searchable with *Where Arf Thou?* and shuts some decks down nicely. Quite a mean Handtrap tho. |
+| [Droll & Lock Bird](https://yugipedia.com/wiki/) | x1 | Can’t use it against Maxx C since it literally locks myself, but searchable with *Where Arf Thou?* and shuts some decks down nicely. Quite a mean handtrap tho. |
 | [Dark Ruler No More](https://yugipedia.com/wiki/) | x1 | |
 | [Forbidden Droplet](https://yugipedia.com/wiki/) | x1 | Finally, a reason to leave extra Drytron modules on board! Splendid in Drytron, especially when going second, since the modules don’t really care if they’re in the Hand or Graveyard. |
 | [Triple Tactics Talent](https://yugipedia.com/wiki/) | x1 | Quality response and all too easy to trigger. |
@@ -148,6 +148,7 @@ Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards t
 <table>
   <td>
     <a href="#Branded-Despia">Branded Despia</a> <br>
+    <a href="#Kashtira">Kashtira</a> <br>
     <a href="#Labrynth">Labrynth</a> <br>
     <a href="#Marincess">Marincess</a> <br>
     <a href="#Mathmech">Mathmech</a> <br>
@@ -162,10 +163,15 @@ Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards t
 </details>
 
 ### Branded Despia
-This is actually so fun to play against, even if I do end up losing most of the time. Since its speciality is removal and doesn’t have negates at all, it presents a far more interesting challenge to overcome – many of my most exhilaryzing and memorable duels have been against Branded Despia. I love playing against duelists who really *know* the deck and don’t just play it cuz meta. Especially those who take it further and stretch its capabilitys, like Fusion Summoning twice in one Chain Link with Lubellion and Branded in Red
+This is actually so fun to play against, even if I do end up losing most of the time. Since its speciality is removal and doesn’t have negates at all, it presents a far more interesting challenge to overcome – many of my most exhilaryzing and memorable duels have been against Branded Despia. I love playing against duelists who really *know* the deck and don’t just play it cuz meta. Especially those who take it further and stretch its capabilitys, like Fusion Summoning twice in one Chain Link with Lubellion and Branded in Red.
+
+Amorphactor Pain is my greatest weapon against them, but even then they can easily battle over it, and if I want to dismantle their board, Mirrorjade presents a difficult challenge to remove.
+
+### Kashtira
+Aside from it being a horribly generic, efficient, vicious deck, Kashtira actually can’t handle targeting protection, and it can’t go over 3000 ATK, making Chaos MAX Dragon a fantastic weapon against them... if I can actually bring it out in the first place, what with all my zones locked.
 
 ### Labrynth
-Blue-Eyes Chaos MAX Dragon insta-win. Labrynth can’t Handle targeting and destruction protection or that 4000 ATK, unless they bring out Skill Drain. Then we’re screwed.
+Blue-Eyes Chaos MAX Dragon insta-win. Labrynth can’t handle targeting and destruction protection or that 4000 ATK, unless they bring out Skill Drain. Then we’re screwed.
 
 Alternatively, they trigger Waking the Dragon and we drop Ultimate Falcon on them, which is a definitive insta-win.
 
