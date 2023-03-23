@@ -149,7 +149,9 @@ Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards t
   <td>
     <a href="#Branded-Despia">Branded Despia</a> <br>
     <a href="#Labrynth">Labrynth</a> <br>
-    <a href="#Spright">Spright</a>
+    <a href="#Marincess">Marincess</a> <br>
+    <a href="#Runick">Runick</a> <br>
+    <a href="#Spright">Spright</a> <br>
     <a href="#Swordsoul">Swordsoul</a> <br>
     <a href="##">–</a>
   </td>
@@ -165,8 +167,18 @@ Blue-Eyes Chaos MAX Dragon insta-win. Labrynth can’t handle targeting and dest
 
 Alternatively, they trigger Waking the Dragon and we drop Ultimate Falcon on them, which is a definitive insta-win.
 
+### Marincess
+This shouldn’t be that hard to beat, but it is. Y’know what, returning to the original Ritual Monsters works wonderfully – Draconids and Quadrantids keep pressure on them by clearing their Spell/Traps each turn, and Odd-Eyes Gravity Dragon really hurts since they combo so much.
+
+### Runick
+Honestly makes me want to crawl up and die. Whenever I face this, the race is on to grab Chaos MAX Dragon before they banish it, since just like with Labrynth, it’s an insta-win. It feels *soo* good crashing into a Hugin to deal perfectly 8000 damage. Unless they have Skill Drain... and they probably do. In which case, Quadrantids is our only good option, since whenever they destroy it it’ll bring back more Drytrons, hopefully to attack directly. Unless they have There Can Be Only One. Oh my days. What an absolute pain. And Dimensional Fissure. ALL the floodgates.
+
 ### Spright
 Well, this is really tough to beat. Since everything in Drytron is an activyzen effect, negates really hurt, and Spright is full of them. Amorphactor Pain can’t keep them at bay, and Chaos MAX Dragon falls to Spright Double Cross or a boosted Gigantic Spright.
+
+If I want to win, I have to play as viciously as I can, which means not letting Spright play at all. Currently the best strategic I’ve found is to clear their field, which means they can’t use their innate Special Summons. Hitting their Normal Summon with Meteor Shower or Draconids kills them entirely, unless they have Starter. If they start with Starter we’re basically screwed, unless they Summon Gigantic with nothing else on the field, in which case hitting that with Draconids clears their field.
+
+If it’s Runick Spright, then there’s very little hope, what with the insane advantage Fountain generyzes and the free Lv2 Special Summons that we just can’t stop.
 
 ### Swordsoul
 Swordsoul and Swordsoul Tenyi, unlike Branded Despia, are such a pain to play against. Which is weird, since both decks feature single-card opening combos and tech in other Monsters of their Summoning tecnique – and I even find Synchro Monsters cooler than Fusion Monsters. I suppose it’s because Swordsoul is so braindead to play, and provides such easy access to high-Level Synchro Monsters that would otherwise be much more difficult to Summon.
