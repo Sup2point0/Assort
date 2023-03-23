@@ -149,6 +149,7 @@ Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards t
   <td>
     <a href="#Branded-Despia">Branded Despia</a> <br>
     <a href="#Labrynth">Labrynth</a> <br>
+    <a href="#Spright">Spright</a>
     <a href="#Swordsoul">Swordsoul</a> <br>
     <a href="##">–</a>
   </td>
@@ -157,15 +158,18 @@ Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards t
 </details>
 
 ### Branded Despia
-This is actually so fun to play against, even if I do end up losing most of the time. Since its speciality is removal and doesn’t have negates at all, it presents a far more interesting challenge to overcome – many of my most exhilaryzing and memorable duels have been against Branded Despia.
+This is actually so fun to play against, even if I do end up losing most of the time. Since its speciality is removal and doesn’t have negates at all, it presents a far more interesting challenge to overcome – many of my most exhilaryzing and memorable duels have been against Branded Despia. I love playing against duelists who really *know* the deck and don’t just play it cuz meta. Especially those who take it further and stretch its capabilitys, like Fusion Summoning twice in one Chain Link with Lubellion and Branded in Red
 
 ### Labrynth
 Blue-Eyes Chaos MAX Dragon insta-win. Labrynth can’t handle targeting and destruction protection or that 4000 ATK, unless they bring out Skill Drain. Then we’re screwed.
 
 Alternatively, they trigger Waking the Dragon and we drop Ultimate Falcon on them, which is a definitive insta-win.
 
+### Spright
+Well, this is really tough to beat. Since everything in Drytron is an activyzen effect, negates really hurt, and Spright is full of them. Amorphactor Pain can’t keep them at bay, and Chaos MAX Dragon falls to Spright Double Cross or a boosted Gigantic Spright.
+
 ### Swordsoul
-Swordsoul and Swordsoul Tenyi, unlike Branded Despia, are such a pain to play against. Which is weird, since both decks feature single-card opening combos and tech in other Monsters of their Summoning tecnique – and I even find Synchro Monsters cooler than Fusion Monsters.
+Swordsoul and Swordsoul Tenyi, unlike Branded Despia, are such a pain to play against. Which is weird, since both decks feature single-card opening combos and tech in other Monsters of their Summoning tecnique – and I even find Synchro Monsters cooler than Fusion Monsters. I suppose it’s because Swordsoul is so braindead to play, and provides such easy access to high-Level Synchro Monsters that would otherwise be much more difficult to Summon.
 
 
 ## Replays
