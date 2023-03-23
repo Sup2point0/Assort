@@ -147,13 +147,18 @@ Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards t
 
 <table>
   <td>
+    <a href="#Blue-Eyes">Blue-Eyes</a> <br>
     <a href="#Branded-Despia">Branded Despia</a> <br>
+    <a href="#Dark-Magician">Dark Magician</a> <br>
+    <a href="#Eldlich">Eldlich</a> <br>
+    <a href="#Floowandereeze">Floowandereeze</a> <br>
     <a href="#Kashtira">Kashtira</a> <br>
     <a href="#Labrynth">Labrynth</a> <br>
     <a href="#Marincess">Marincess</a> <br>
     <a href="#Mathmech">Mathmech</a> <br>
     <a href="#Pendulum-Magician">Pendulum Magician</a> <br>
     <a href="#Runick">Runick</a> <br>
+    <a href="#Sky-Striker">Sky Striker</a> <br>
     <a href="#Spright">Spright</a> <br>
     <a href="#Swordsoul">Swordsoul</a> <br>
     <a href="##">–</a>
@@ -162,10 +167,19 @@ Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards t
 
 </details>
 
+### Blue-Eyes
+
 ### Branded Despia
 This is actually so fun to play against, even if I do end up losing most of the time. Since its speciality is removal and doesn’t have negates at all, it presents a far more interesting challenge to overcome – many of my most exhilaryzing and memorable duels have been against Branded Despia. I love playing against duelists who really *know* the deck and don’t just play it cuz meta. Especially those who take it further and stretch its capabilitys, like Fusion Summoning twice in one Chain Link with Lubellion and Branded in Red.
 
 Amorphactor Pain is my greatest weapon against them, but even then they can easily battle over it, and if I want to dismantle their board, Mirrorjade presents a difficult challenge to remove.
+
+### Dark Magician
+
+### Eldlich
+
+### Floowandereeze
+What a pain to play against.
 
 ### Kashtira
 Aside from it being a horribly generic, efficient, vicious deck, Kashtira actually can’t handle targeting protection, and it can’t go over 3000 ATK, making Chaos MAX Dragon a fantastic weapon against them... if I can actually bring it out in the first place, what with all my zones locked.
@@ -188,6 +202,8 @@ Never did I think I would hate such a cool deck (since I absolutely loved Yuya�
 
 ### Runick
 Honestly makes me want to crawl up and die. Whenever I face this, the race is on to grab Chaos MAX Dragon before they banish it, since just like with Labrynth, it’s an insta-win. It feels *soo* good crashing into a Hugin to deal perfectly 8000 damage. Unless they have Skill Drain... and they probably do. In which case, Quadrantids is our only good option, since whenever they destroy it it’ll bring back more Drytrons, hopefully to attack directly. Unless they have There Can Be Only One. Oh my days. What an absolute pain. And Dimensional Fissure. ALL the floodgates.
+
+### Sky Striker
 
 ### Spright
 Well, this is really tough to beat. Since everything in Drytron is an activyzen effect, negates really hurt, and Spright is full of them. Amorphactor Pain can’t keep them at bay, and Chaos MAX Dragon falls to Spright Double Cross or a boosted Gigantic Spright.
