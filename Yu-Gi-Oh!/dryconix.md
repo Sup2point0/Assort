@@ -183,6 +183,9 @@ This is actually so fun to play against, even if I do end up losing most of the 
 Amorphactor Pain is my greatest weapon against them, but even then they can easily battle over it, and if I want to dismantle their board, Mirrorjade presents a difficult challenge to remove.
 
 ### Bystial
+Well, I’ma head out.
+
+Yeah no, Bystial totally kills Drytron.
 
 ### Dark Magician
 Its only real interruption is the banish from Dark Magical Circle, which could be critical if we’ve got a weak hand, but is usually easy to overcome. Quadrantids is lethal against Dark Magician, since they can’t recover their Spell/Traps, and if they’ve activyzen Eternal Soul then they just end up nuking their own field.
@@ -190,6 +193,7 @@ Its only real interruption is the banish from Dark Magical Circle, which could b
 ### Dinomorphia
 
 ### Dogmatika
+Haha, I’m afraid you just milled my 3 ARC LIGHTS
 
 ### Eldlich
 Again, Chaos MAX Dragon. Can be a challenge to play against sometimes if they manage to snipe Meteonis Drytron in the Graveyard with Huaquero.
