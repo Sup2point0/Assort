@@ -168,6 +168,7 @@ Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards t
 </details>
 
 ### Blue-Eyes
+Blue-Eyes Jet Dragon is such a pain. Luckily, Draconids can’t be targeted by it, and has excellent removal in case the opponent has a higher ATK monster. Ironically, the best weapon against them is their own ace monster – Blue-Eyes Chaos MAX Dragon.
 
 ### Branded Despia
 This is actually so fun to play against, even if I do end up losing most of the time. Since its speciality is removal and doesn’t have negates at all, it presents a far more interesting challenge to overcome – many of my most exhilaryzing and memorable duels have been against Branded Despia. I love playing against duelists who really *know* the deck and don’t just play it cuz meta. Especially those who take it further and stretch its capabilitys, like Fusion Summoning twice in one Chain Link with Lubellion and Branded in Red.
@@ -175,8 +176,10 @@ This is actually so fun to play against, even if I do end up losing most of the 
 Amorphactor Pain is my greatest weapon against them, but even then they can easily battle over it, and if I want to dismantle their board, Mirrorjade presents a difficult challenge to remove.
 
 ### Dark Magician
+Its only real interruption is the banish from Dark Magical Circle, which could be critical if we’ve got a weak hand, but is usually easy to overcome. Quadrantids is lethal against Dark Magician, since they can’t recover their Spell/Traps, and if they’ve activyzen Eternal Soul then they just end up nuking their own field.
 
 ### Eldlich
+Again, Chaos MAX Dragon. Can be a challenge to play against sometimes if they manage to snipe Meteonis Drytron in the Graveyard with Huaquero.
 
 ### Floowandereeze
 What a pain to play against.
