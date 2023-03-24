@@ -147,9 +147,13 @@ Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards t
 
 <table>
   <td>
+    <a href="#Adamancipator">Adamancipator</a> <br>
     <a href="#Blue-Eyes">Blue-Eyes</a> <br>
     <a href="#Branded-Despia">Branded Despia</a> <br>
+    <a href="#Bystial">Bystial</a> <br>
     <a href="#Dark-Magician">Dark Magician</a> <br>
+    <a href="#Dinomorphia">Dinomorphia</a> <br>
+    <a href="#Dogmatika">Dogmatika</a> <br>
     <a href="#Eldlich">Eldlich</a> <br>
     <a href="#Floowandereeze">Floowandereeze</a> <br>
     <a href="#Kashtira">Kashtira</a> <br>
@@ -161,11 +165,14 @@ Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards t
     <a href="#Sky-Striker">Sky Striker</a> <br>
     <a href="#Spright">Spright</a> <br>
     <a href="#Swordsoul">Swordsoul</a> <br>
+    <a href="#The-Weather">The Weather</a> <br>
     <a href="##">–</a>
   </td>
 </table>
 
 </details>
+
+### Adamancipator
 
 ### Blue-Eyes
 Blue-Eyes Jet Dragon is such a pain. Luckily, Draconids can’t be targeted by it, and has excellent removal in case the opponent has a higher ATK monster. Ironically, the best weapon against them is their own ace monster – Blue-Eyes Chaos MAX Dragon.
@@ -175,8 +182,14 @@ This is actually so fun to play against, even if I do end up losing most of the 
 
 Amorphactor Pain is my greatest weapon against them, but even then they can easily battle over it, and if I want to dismantle their board, Mirrorjade presents a difficult challenge to remove.
 
+### Bystial
+
 ### Dark Magician
 Its only real interruption is the banish from Dark Magical Circle, which could be critical if we’ve got a weak hand, but is usually easy to overcome. Quadrantids is lethal against Dark Magician, since they can’t recover their Spell/Traps, and if they’ve activyzen Eternal Soul then they just end up nuking their own field.
+
+### Dinomorphia
+
+### Dogmatika
 
 ### Eldlich
 Again, Chaos MAX Dragon. Can be a challenge to play against sometimes if they manage to snipe Meteonis Drytron in the Graveyard with Huaquero.
@@ -217,6 +230,8 @@ If it’s Runick Spright, then there’s very little hope, what with the insane 
 
 ### Swordsoul
 Swordsoul and Swordsoul Tenyi, unlike Branded Despia, are such a pain to play against. Which is weird, since both decks feature single-card opening combos and tech in other Monsters of their Summoning tecnique – and I even find Synchro Monsters cooler than Fusion Monsters. I suppose it’s because Swordsoul is so braindead to play, and provides such easy access to high-Level Synchro Monsters that would otherwise be much more difficult to Summon.
+
+### The Weather
 
 
 ## Replays
