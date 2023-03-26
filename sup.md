@@ -71,7 +71,7 @@
 
 <img src=".assets/sup/PowerPoint.png" width="360px"> <img src=".assets/sup/MolView.png" width="360px">
 <img src=".assets/sup/VSCode.png" width="360px"> <img src=".assets/sup/Unity.png" width="360px">
-<!--img src=".assets/sup/IDLE.png" width="360px"--> <img src=".assets/sup/replit.png" width="360px">
+<img src=".assets/sup/IDLE.png" width="360px"> <img src=".assets/sup/replit.png" width="360px">
 <img src=".assets/sup/iMovie.png" width="360px"> <img src=".assets/sup/MuseScore.png" width="360px">
 
 
@@ -83,7 +83,7 @@
 
 ## Games
 
-<img src=".assets/sup/Master Duel.png" width="360px">
+<img src=".assets/sup/Master Duel.png" width="360px"> <img src=".assets/sup/Master Duel.png" width="360px">
 <img src=".assets/sup/Bloons.png" width="360px"> <img src=".assets/sup/Pop.png" width="360px">
 <img src=".assets/sup/Asphalt 9.png" width="360px"> <img src=".assets/sup/Asphalt 8.png" width="360px">
 <img src=".assets/sup/Soul.png" width="360px">
