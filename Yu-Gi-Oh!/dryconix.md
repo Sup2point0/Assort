@@ -241,11 +241,16 @@ Swordsoul and Swordsoul Tenyi, unlike Branded Despia, are such a pain to play ag
 ## Replays
 
 ### DuelingNexus
-[Against Branded](https://duelingnexus.com/replay/672e3822-5723-41e7-88dc-08bd206ad14f)
+[Full](https://duelingnexus.com/replay/4312a128-90ea-4414-a8aa-fb185203727d)
+[Fuller](https://duelingnexus.com/replay/3801de35-505c-4724-815a-27c52a49ab0a)
+[Against Branded](https://duelingnexus.com/replay/672e3822-5723-41e7-88dc-08bd206ad14f)  
 [Against Kashtira](https://duelingnexus.com/replay/c4ac0ac3-d0d2-44eb-8fc0-6892759a9bdc)  
 
 ### Master Duel
 [Turn One](https://youtube.com/watch?v%3DDl9Sc7AOz0E%26list%3DPLmmew-ndEnv0pVyNQJwBxRkIZzbuqdrvn%26index%3D5)  
+[Draconids Being Awesome](https://youtube.com/watch?v%3DfpuNetOzBNo%26list%3DPLmmew-ndEnv0pVyNQJwBxRkIZzbuqdrvn%26index%3D9)  
+[Amorphactor Pain Clutch](https://youtube.com/watch?v%3DSTC9tNqbFWs%26list%3DPLmmew-ndEnv0pVyNQJwBxRkIZzbuqdrvn%26index%3D7)
+[Anime Duel Against Marincess](https://youtube.com/watch?v%3D_tFhoIBfiiE%26list%3DPLmmew-ndEnv0pVyNQJwBxRkIZzbuqdrvn%26index%3D3)
 
 ### DuelingBook
 [Turn One](https://duelingbook.com/replay?id=993175-47650375)  
