@@ -193,7 +193,7 @@ Its only real interruption is the banish from Dark Magical Circle, which could b
 ### Dinomorphia
 
 ### Dogmatika
-Haha, I’m afraid you just milled my 3 ARC LIGHTS
+Haha, I’m afraid you just milled my 3 ARC LIGHTS – yeah, the mirror match is hilarious if they blindly mill my Extra Deck.
 
 ### Eldlich
 Again, Chaos MAX Dragon. Can be a challenge to play against sometimes if they manage to snipe Meteonis Drytron in the Graveyard with Huaquero.
