@@ -17,11 +17,28 @@ Perhaps unsophisticated and verbose
 and overly developed prose  
 No commas, punctuation  
 and way too complex sentence construction,  
-yet comprehensive,  
+Yet comprehensive,  
 certainly extensive,  
 Covering all that needs to be said,  
 while coming across as very well read,  
-and even if that may not be the case...  
+And even if that may not be the case  
+it’s them who win the race  
+I think, at least,  
+or maybe my prowess has just deceased  
+and I’m delusional  
+My mind has gone diagonal  
+They say don’t sell  
+yourself short, but well  
+I just can’t write, or speak,  
+or read, or leak  
+ideas that quick  
+or think  
+ahead by 20 paragraphs  
+If only I could write just half  
+as fast as I could type  
+then life  
+would suck less  
+Ah, this is a mess.  
 
 
 <br>
