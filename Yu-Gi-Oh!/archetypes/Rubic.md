@@ -341,13 +341,14 @@ Scramble, while inconspicuous at first, can become immensely powerful in conjunc
 All of the Spells provide consistency and support. The archetypical Field Spell [Plane](#Spells) helps in small ways that make constructing boards easier and facilityze disruption. [Permutation](#Spells) is almost as powerful a consistency tool as Algorithm. [Solution](#Spells) is the archetypical revival Spell, although requires Link Monsters to work. [Slice](#Spells) is a welcome addition for SAKs, and even has recursability.
 
 ### Trap Interruption
+With such an efficient and consistent but xenophobical engine, the archetype has loads of them to replace handtraps.
 
 ### Tokens
 Many cards Summon [Rubic Tokens](#Monsters), and to either player’s field too. Just like construction lines in geometrics, these Tokens are pivotal to the archetype’s strategics.
 
-Since all of the Extra Deck Monsters only require archetypical material, Rubic Tokens are perfectly fine to use as material for their Special Summons. They can be tuned with [Lv3 Tuners](#Level-3-Tuners) for [Lv6 Synchros](#Synchro-Monsters), or more oftenly, used as Link material for link climbing.
+Since all of the Extra Deck Monsters only require archetypical material, Rubic Tokens are perfectly fine to use as material for their Special Summons. They can be tuned with [Lv3 Tuners](#Level-3-Tuners) for [Lv6 Synchro Monsters](#Synchro-Monsters), or more oftenly, used as Link material for link climbing.
 
-Those Summoned to the opponent’s field are indeed free Tributes or material (and as DARK Cyberse Monsters, they are highly synchronical) but only if the opponent can make use of them – otherwise, an overflow of Tokens can clog their board and slow down combos. With only 300 ATK, they’re unexpected holes in the fortress, perfectly awaiting an attack from [Haversine](#Synchro-Monsters) or [Arcsine](#Synchro-Monsters) for critical damage.
+Those Summoned to the opponent’s field are indeed free Tributes or material (and as DARK Cyberse Monsters, they are highly synchronical with generic Extra Deck staples) but only if the opponent can make use of them – otherwise, an overflow of Tokens can clog their board and slow down combos. With only 300 ATK, they’re unexpected holes in the fortress, perfectly awaiting an attack from [Haversine](#Synchro-Monsters) or [Arcsine](#Synchro-Monsters) for critical damage.
 
 
 <br>
@@ -359,7 +360,7 @@ The archetype is highly versative and consistent, able to cryze a powerful endbo
 
 
 ### Formacions
-The ideal turn 0 endboard consists of 1 Monster of each Summoning tecnique, and as *many* [Traps](#Trap-Interruption) as can possibly be obtained – with such an efficient and consistent but xenophobical engine, the archetype has loads of them to replace handtraps.
+The ideal turn one endboard consists of 1 Monster of each Summoning tecnique, and as *many* [Traps](#Trap-Interruption) as can possibly be obtained.
 
 | card | evolucion | notes |
 | :--- | :-------- | :---- |
@@ -372,14 +373,14 @@ The ideal turn 0 endboard consists of 1 Monster of each Summoning tecnique, and 
 
 ### Tech Picks
 
-- [Foolish Exile]() can banish a [Level 3 Tuner](#Level-3-Tuners) to trigger their effect and easily search a card, while also sending them into circulyzacion.
+- [Foolish Exile]() can banish a [Lv3 Tuner](#Level-3-Tuners) to trigger their effect and easily search a card, while also sending them into circulyzacion.
 - [Foolish Burial Trade]() works nicely too, recovering banished Extra Deck Monsters and recycling Spell/Traps.
 - [Final Vanquish]() works well, since the archetype utilyzes every Summoning tecnique except Fusion.
-  - The banished Monster can then be retrieved by [Angular](#Level-3-non-Tuners) if needed.
+  - The banished Monster can then be retrieved by [Axis](#Level-3-non-Tuners) if needed.
 - [Awakening the Drakon]() can be highly effective at dropping a surprise [Angle Link Monster](#Link-Monsters) on the opponent.
 
 ### Weaknesses
-Since several of the archetype’s effects involve moving cards to appropriate adjacent zones, with clever planning and management this can be overcome, by placing valuable cards where they cannot be moved – alternatively, spamming cards and blocking every zone entirely works too. As such, the deck also suffers from overextending itself, since having too many cards on the field restricts movement.
+Since several of the archetype’s effects involve moving cards to appropriate adjacent zones, with clever planning and management this can be overcome by the opponent, by placing valuable cards where they cannot be moved – alternatively, spamming cards and blocking every zone entirely works too. As such, the deck also suffers from overextending itself, since having too many cards on the field restricts movement.
 
 
 <br>
@@ -387,22 +388,22 @@ Since several of the archetype’s effects involve moving cards to appropriate a
 
 ## Trivia
 
-- The archetype features every single type of Spell and Trap.
+- The archetype features every type of Spell and Trap.
 - The archetype is fairly xenophobical.
   - Most effects support only *Rubic* cards.
-  - [Rubic Algorithm and Rubic Scramble](#Algorithm--Scramble) both lock the player from activyzing any Monster effects other than those of *Rubic* Monsters.
-  - The [Level 6 non-Tuners](#Level-6-non-Tuners) benefit from banishing *Rubic* cards to Summon themselves
-  - [Rubic Function](#Spells) is the only card to function with any Cyberse Monster.
+  - [Algorithm and Rubic](#Algorithm--Scramble) both lock the player from activyzing any Monster effects other than those of *Rubic* Monsters.
+  - The [Lv 6 non-Tuners](#Level-6-non-Tuners) benefit from banishing *Rubic* cards to Summon themselves.
+  - [Function](#Spells) is the only card to function with any Cyberse Monster.
 - The gimmicks of the archetype draw parallels to Rubik’s cubes and geometrics.
   - Moving cards on the field corresponds to turning a Rubik’s cube.
   - Spawning [Rubic Tokens](#Tokens) corresponds to drawing construction lines in geometrics.
-- [Rubic Axis](#Level-3-non-Tuners) Summons Tokens to the same column, creating a vertical ‘axis’ between each player’s field.
+- [Axis](#Level-3-non-Tuners) Summons Tokens to the same column, creating a vertical ‘axis’ between each player’s field.
 - The Link Arrows of the Link Monsters all point in ordinal directions.
   - As such, the archetype can cryze a tri-monster Extra Link.
     - This doesn’t achieve much since the upwards arrows will unlock plenty of zones for the opponent anyway.
-    - Although, these can be blocked off with Rubic Tokens to lock the opponent out of Link Summoning.
-  - The arrows of [Rubic Radian](#Link-Monsters) and [Rubic Perpendicular](#Link-Monsters) combine to form the arrows of [Rubic Vertex](#Link-Monsters).
-- [Rubic Hexangle](#Link-Monsters), being the ultimate ace of the archetype, is an exception to several of its trends.
+    - Although, these can be blocked off with Rubic Tokens.
+  - The arrows of [Radian](#Link-Monsters) and [Perpendicular](#Link-Monsters) combine to form the arrows of [Vertex](#Link-Monsters).
+- [Hexangle](#Link-Monsters), being the ultimate ace of the archetype, is an exception to several of its trends.
   - It is the only card that inherently moves itself (and no other cards).
   - Instead of synergyzing with other cards, it only relyzes on them being present to boost its own ATK.
   - It requires exactly 3 materials, while the rest of the [Link Monsters](#Link-Monsters) higher than Link-1 require exactly 2 materials.
@@ -589,18 +590,18 @@ Since several of the archetype’s effects involve moving cards to appropriate a
 Numbers relating to trigonometrics and Rubik’s Cubes feature prominently throughout the archetype.
 
 - In particular, everything revolves around the number 3 (since triangles have 3 sides), as well as 6 (since Rubik’s cubes have 6 faces).
-  - Excluding Rubic Driangle, there are 3 classes within the Main Deck ([Lv3 non-Tuner](#Level-3-non-Tuners), [Lv3 Tuner](#Level-3-Tuners), [Lv6 non-Tuner](#Level-6-non-Tuners)), with 6 Monsters in total.
+  - Excluding [Driangle](#Ritual), there are 3 classes within the Main Deck ([Lv3 non-Tuners](#Level-3-non-Tuners), [Lv3 Tuners](#Level-3-Tuners), [Lv6 non-Tuners](#Level-6-non-Tuners)), with 6 Monsters in total.
   - The archetype utilyzes 3 Extra Deck types.
     - There are 3 [Xyz Monsters](#Xyz-Monsters) and 6 [Link Monsters](#Link-Monsters).
   - The Levels and Ranks of the Synchro and Xyz Monsters are all multiples of 3.
   - The ATK/DEF of every Monster is a multiple of 300.
     - [Rubic Tokens](#Tokens) have 300 ATK.
-  - The Ritual Spell [Rubic Dragonometry](#Ritual) requires banishing exactly 3 Monsters from 3 different locations, whose total Levels equal a multiple of 3.
-  - [Rubic Execution](#Traps) and [Rubic Transverse](#Traps) both must be activyzen as Chain Link 3 or higher.
-  - There are exactly 3 ways of obtaining Level 9 Monsters to overlay into [Rubic Arcsecant](#Xyz-Monsters) (instead of through [Rank-Up Xyz Evolution](#Xyz-Monsters), those being [Rubic Haversine](#Synchro-Monsters), [Rubic Driangle](#Ritual), [Rubic Megaminx](#Traps).
+  - The Ritual Spell [Dragonometry](#Ritual) requires banishing exactly 3 Monsters from 3 different locations, whose total Levels equal a multiple of 3.
+  - [Execution](#Traps) and [Transverse](#Traps) both must be activyzen as Chain Link 3 or higher.
+  - There are exactly 3 ways of obtaining Level 9 Monsters to overlay into [Arcsecant](#Xyz-Monsters) (instead of through [Rank-Up Xyz Evolution](#Xyz-Monsters), those being [Haversine](#Synchro-Monsters), [Driangle](#Ritual), [Megaminx](#Traps).
 - The ATK/DEF of the Level 3 Monsters total 900 (90° being a right angle).
 - The ATK/DEF of the Level 6 non-Tuners total 2700 (270° being the reflex of a right angle).
-- Every Link Monster’s ATK equals its Link Rating x 1000, except [Rubic Hexangle](#Link-Monsters), who alters its own ATK to reach multiples of 600.
+- Every Link Monster’s ATK equals its Link Rating x 1000, except [Hexangle](#Link-Monsters), who alters its own ATK to reach multiples of 600.
   - The highest practical ATK it can reach is 6600, when it links to 5 cards while in the central Main Monster Zone.
 
 </details>
