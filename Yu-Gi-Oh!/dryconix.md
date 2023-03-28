@@ -224,6 +224,7 @@ Never did I think I would hate such a cool deck (since I absolutely loved Yuya�
 Honestly makes me want to crawl up and die. Whenever I face this, the race is on to grab Chaos MAX Dragon before they banish it, since just like with Labrynth, it’s an insta-win. It feels *soo* good crashing into a Hugin to deal perfectly 8000 damage. Unless they have Skill Drain... and they probably do. In which case, Quadrantids is our only good option, since whenever they destroy it it’ll bring back more Drytrons, hopefully to attack directly. Unless they have There Can Be Only One. Oh my days. What an absolute pain. And Dimensional Fissure. ALL the floodgates.
 
 ### Sky Striker
+It’s beyond me how this deck even manages to put up a fight – maybe they just always catch me on a subpar hand.
 
 ### Spright
 Well, this is really tough to beat. Since everything in Drytron is an activyzen effect, negates really hurt, and Spright is full of them. Amorphactor Pain can’t keep them at bay, and Chaos MAX Dragon falls to Spright Double Cross or a boosted Gigantic Spright.
