@@ -24,7 +24,7 @@ while coming across as very well read,
 And even if that may not be the case  
 it’s them who win the race  
 I think, at least,  
-or maybe my prowess has just deceased  
+or maybe my prowess has just decreased  
 and I’m delusional  
 My mind has gone diagonal  
 They say don’t sell  
