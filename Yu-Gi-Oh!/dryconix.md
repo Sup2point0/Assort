@@ -261,6 +261,9 @@ Swordsoul and Swordsoul Tenyi, unlike Branded Despia, are such a pain to play ag
 
 ## Questions
 
+### Why no Cyber Angel Benten?
+Yeah, I’d love to reliably have Diviner for Lv7 Synchro Monsters, but I just don’t feel good playing Benten – I don’t really want to spend a Ritual search on it, using it feels like degeneracy, and above all I just don’t like its art... at all.
+
 ### Why Dogmatikabre instead of Dogmatikalamity?
 Sure, Dogmatikalamity lets you Tribute straight from the Extra Deck, but it has 3 major downsides – it can’t Ritual Summon from the Grave, it can’t be searched by Pre-Preparation of Rites, and it locks you out of the Extra Deck.
 
