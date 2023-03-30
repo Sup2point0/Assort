@@ -1,6 +1,6 @@
 # *Yu-Gi-Oh!*
 
-I’ve played *Yu-Gi-Oh!* ever since I was a child, and was utterly blown away when I discovered I could cryze *and play with* my own custom cards on DuelingBook.
+I’ve played *Yu-Gi-Oh!* ever since I was a child, with a major interlude during the *VRAINS* era. I recently fell in love with it once more, after being utterly blown away when I discovered I could cryze *and play with* my own custom cards on DuelingBook. I’ve now watchen all of *ARC-V* and *VRAINS* (in that order), and have now returned to *ZEXAL*.
 
 
 <br>
