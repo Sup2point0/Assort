@@ -1,6 +1,6 @@
 # Favourite Music
 
-Favourite soundtracks in various categories. Kinda arranged in order – but it’s insanely difficult, and my preferences change daily anyway.
+Favourite soundtracks in varical categories. Kinda arranged in order – but it’s insanely difficult, and my preferences change daily anyway.
 
 
 <br>
