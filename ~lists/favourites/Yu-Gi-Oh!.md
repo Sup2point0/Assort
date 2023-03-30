@@ -8,15 +8,58 @@ Every favourite thing of mine in *Yu-Gi-Oh!*.
 
 ## General
 
-| aspect | favourite | notes |
-| :----- | :-------- | :---- |
-| Summoning tecnique | Xyz | overlaying’s just cool. |
+<table>
+  <tr>
+    <th> aspect </th>
+    <th> favourite </th>
+    <th> notes </th>
+  </tr>
+  <tr>
+    <td> type </td>
+    <td> Xyz </td>
+    <td> Overlaying’s just cool. </td>
+  </tr>
+  <tr>
+    <td rowspan="3"> Type </td>
+    <td> Dragon </td>
+    <td> – </td>
+  </tr>
+  <tr>
+    <td> Cyberse </td>
+    <td> – </td>
+  </tr>
+  <tr>
+    <td> Spellcaster </td>
+    <td> – </td>
+  </tr>
+  <tr>
+    <td rowspan="3"> archetype </td>
+    <td> Drytron </td>
+    <td> – </td>
+  </tr>
+  <tr>
+    <td> Raidraptor </td>
+    <td> – </td>
+  </tr>
+  <tr>
+    <td> Mathmech </td>
+    <td> – </td>
+  </tr>
+</table>
 
 
 <br>
 
 
 ## Cards
+
+<table>
+  <tr>
+    <th> aspect </th>
+    <th> favourite </th>
+    <th> notes </th>
+  </tr>
+</table>
 
 | aspect | favourite | notes |
 | :----- | :-------- | :---- |
