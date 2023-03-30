@@ -14,13 +14,11 @@ Unsure where to start? Try checking out some of these!
 [affine](affine)  
 [Yu-Gi-Oh!](Yu-Gi-Oh!)  
 [kenzokinetics](kenzokinetics)  
-[Ascense](Ascense)  
 
 ### Files
 [xeriques](xeriques.md)  
-[Darquess](Yu-Gi-Oh!/archetypes/Darquess.md)  
+[Rubic](Yu-Gi-Oh!/archetypes/Rubic.md)  
 [koniokinetis](affine/affinitys/koniokinetis.md)  
-[Darkchoke Curse](affine/spells/asphyxiskotadi.md)  
 [Ultraman Infinity](Ultraman/Ultraman%20Infinity.md)  
 
 
@@ -34,7 +32,7 @@ The tiers used in [favourites](~lists/favourites).
 <table>
   <tr>
     <th align="left"> xeniqive </th>
-    <td> – </td>
+    <td> Xeniqive meaning ‘heavenly’. Saved for only the best. </td>
   </tr>
   <tr>
     <th align="left"> legendary </th>
@@ -50,7 +48,7 @@ The tiers used in [favourites](~lists/favourites).
   </tr>
   <tr>
     <th align="left"> cool </th>
-    <td> – </td>
+    <td> No negativity here, even the stuff at the bottom is cool. </td>
   </tr>
 </table>
 
