@@ -1,6 +1,6 @@
 # Dystopia
 
-An archetype of protively Warrior DARK monsters, focusing on Xyz Summoning, Rank-Down-Magic, and destroying their own cards, a parody of the [*Utopic*](https://yugipedia.com/wiki/Utopic) archetype.
+An archetype of protively Warrior DARK Monsters, reolving around Xyz Summoning through Rank-Down-Magic and destroying their own cards, a parody of the [*Utopic*](https://yugipedia.com/wiki/Utopic) archetype.
 
 
 <br>
@@ -22,7 +22,8 @@ An archetype of protively Warrior DARK monsters, focusing on Xyz Summoning, Rank
 | [Dystopian Sage](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2500 / 3000 | |
 | [Dystopian Slayer](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 3000 / 2500 | |
 | [Dystopian Core](../cards/monsters/standard/–.md) | 1 ★ | 0 / 0 | |
-| [–](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
+| [Dystopikuriboh](../cards/monsters/standard/–.md) | 1 ★ | – / – | |
+| [Dystopikekeke](../cards/monsters/standard/–.md) | 1 ★ | – / – | |
 
 </details>
 
@@ -31,17 +32,17 @@ An archetype of protively Warrior DARK monsters, focusing on Xyz Summoning, Rank
 
 | card | Rank | ATK/DEF | Type | material |
 | :--- | :--- | :------ | :--- | :------- |
-| [Number -39: Dystopia](../cards/monsters/xyz/–.md) | 7 ★★★★★★★ | 3000 / 2500 | Xyz | 2 Level 7 monsters |
-| [Number -X39: Dystopia Exceed](../cards/monsters/xyz/–.md) | 7 ★★★★★★★ | 2500 / 3000 | Xyz | 2 Level 7 monsters |
-| [Number -D39: Dystopia Arc](../cards/monsters/xyz/–.md) | 6 ★★★★★★ | 3000 / 2500 | Xyz | –  Level 6 monsters |
-| [Number -D39: Dystopia Arc V](../cards/monsters/xyz/–.md) | 5 ★★★★★ | 3000 / 2500 | Xyz | –  Level 5 monsters |
-| [Number -D39: Dystopia Arc Victory](../cards/monsters/xyz/–.md) | 3 ★★★ | 3000 / 2500 | Xyz | –  Level 3 monsters |
-| [Number -Y39: Dystopia Rising](../cards/monsters/xyz/–.md) | 1 ★ | 0 / 0 | Xyz | 3 Level 1 monsters |
-| [Number -Z39: Dystopian Reverie](../cards/monsters/xyz/–.md) | 0 | 0 / 0 | Xyz | 2 DARK Xyz monsters with the same Rank |
-| [Number -99: Dystopian Dragon](../cards/monsters/xyz/–.md) | 7 ★★★★★★★ | 3000 / 2500 | Xyz | 3 Level 7 monsters |
-| [Number -K39: Dystopian Kaiser](../cards/monsters/xyz/–.md) | 10 ★★★★★★★★★★ | –  / –  | Xyz | –  Level 10 monsters |
-| [Number -V39: Dystopia Legend](../cards/monsters/xyz/–.md) | 11 ★★★★★★★★★★★ | ? / 2500 | Xyz | 3 Level 11 monsters |
-| [Number -V39: Dystopia Arc Legend](../cards/monsters/xyz/–.md) | 9 ★★★★★★★★★ | ? / 3000 | Xyz | 3 Level 9 monsters |
+| [Number -39: Dystopia](../cards/monsters/xyz/–.md) | 7 ★★★★★★★ | 3000 / 2500 | Xyz | 2 Level 7 Monsters |
+| [Number -X39: Dystopia Exceed](../cards/monsters/xyz/–.md) | 7 ★★★★★★★ | 2500 / 3000 | Xyz | 2 Level 7 Monsters |
+| [Number -D39: Dystopia Arc](../cards/monsters/xyz/–.md) | 6 ★★★★★★ | 3000 / 2500 | Xyz | – Level 6 Monsters |
+| [Number -D39: Dystopia Arc V](../cards/monsters/xyz/–.md) | 5 ★★★★★ | 3000 / 2500 | Xyz | – Level 5 Monsters |
+| [Number -D39: Dystopia Arc Victory](../cards/monsters/xyz/–.md) | 3 ★★★ | 3000 / 2500 | Xyz | – Level 3 Monsters |
+| [Number -Y39: Dystopia Rising](../cards/monsters/xyz/–.md) | 1 ★ | 0 / 0 | Xyz | 2 Level 1 Monsters |
+| [Number -Z39: Dystopian Reverie](../cards/monsters/xyz/–.md) | 0 | 0 / 0 | Xyz | 2 DARK Xyz Monsters with the same Rank |
+| [Number -99: Dystopian Dragon](../cards/monsters/xyz/–.md) | 7 ★★★★★★★ | 3000 / 2500 | Xyz | 3 Level 7 Monsters |
+| [Number -K39: Dystopian Kaiser](../cards/monsters/xyz/–.md) | 10 ★★★★★★★★★★ | 3500  / 3000 | Xyz | – Level 10 Monsters |
+| [Number -V39: Dystopia Legend](../cards/monsters/xyz/–.md) | 11 ★★★★★★★★★★★ | ? / 2500 | Xyz | 3 Level 11 Monsters |
+| [Number -V39: Dystopia Arc Legend](../cards/monsters/xyz/–.md) | 9 ★★★★★★★★★ | ? / 3000 | Xyz | 3 Level 9 Monsters |
 
 </details>
 
@@ -93,5 +94,3 @@ An archetype of protively Warrior DARK monsters, focusing on Xyz Summoning, Rank
 
 
 ## Trivia
-
-‘’ ◈ ⚡︎ ∞ ✦ ↵ ▯ ▮
