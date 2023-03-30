@@ -213,7 +213,12 @@ Rubic Driangle is a highly threatening addition to any endboard, with a non-targ
 </table>
 
 ### Synchro Monsters
-{...}
+The protive aces of the archetype, able to use multiple Tuners and/or non-Tuners as material.
+
+Several pairs of Monsters have similaritys:
+- Versine and Vercosine generyze advantage upon being Summoned.
+- Versine and Haversine have a once-per-chain non-targeting removal effect. As such, they usually make strong endboard constituents.
+- Haversine and Arcsine gain immunity if Accel Synchro Summoned, and can triple the battle damage they inflict.
 
 <table>
   <tr>
@@ -340,8 +345,50 @@ Scramble, while inconspicuous at first, can become immensely powerful in conjunc
 ### Spell Support
 All of the Spells provide consistency and support. The archetypical Field Spell [Plane](#Spells) helps in small ways that make constructing boards easier and facilityze disruption. [Permutation](#Spells) is almost as powerful a consistency tool as Algorithm. [Solution](#Spells) is the archetypical revival Spell, although requires Link Monsters to work. [Slice](#Spells) is a welcome addition for SAKs, and even has recursability.
 
+<table>
+  <tr>
+    <th> Spell </th>
+    <td align="center"> Plane </td>
+    <td align="center"> Permutation </td>
+    <td align="center"> Solution </td>
+    <td align="center"> Slice </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/spells/Rubic Plane.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/Rubic Permutation.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/Rubic Solution.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/Rubic Slice.png"> </td>
+  </tr>
+</table>
+
 ### Trap Interruption
-With such an efficient and consistent but xenophobical engine, the archetype has loads of them to replace handtraps.
+With such an efficient and consistent but xenophobical engine, the archetype has plenty of powerful Traps (although none that activate from the hand) to provide disruption.
+
+[Execution](#Traps) is likely the most devastyzing, able to banish several Monsters with a developed board, although often cannot find its targets due to them being blocked from moving. [Rotation](#Traps) is a unique removal option, ideally swapping a spare Rubic Token on our field. [Reset](#Trap) can work wonders if dropped correctly, resetting the board exactly how we like, while ripping materials from the opponent’s Xyz Monsters – we can protect our own Xyz Monster by setting that as the one target that isn’t banished. There are even 2 Counter Traps, [Inverse](#Traps) being a generical negate and [Transverse](#Traps) being a poly-negate, although the deutic requires more specifical setup. Transverse’s extra effect in the Graveyard is not to be underestimated either, often surprising the opponent if they have placed their Monsters uncarefully.
+
+<table>
+  <tr>
+    <th> Trap </th>
+    <td align="center"> Execution </td>
+    <td align="center"> Rotation </td>
+    <td align="center"> Megaminx </td>
+    <td align="center"> Reset </td>
+    <td align="center"> Revenge </td>
+    <td align="center"> Inverse </td>
+    <td align="center"> Transverse </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/traps/Rubic Execution.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/traps/Rubic Rotation.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/traps/Rubic Megaminx.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/traps/Rubic Reset.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/traps/Rubic Revenge.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/traps/Rubic Inverse.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/traps/Rubic Transverse.png"> </td>
+  </tr>
+</table>
 
 ### Tokens
 Many cards Summon [Rubic Tokens](#Monsters), and to either player’s field too. Just like construction lines in geometrics, these Tokens are pivotal to the archetype’s strategics.
