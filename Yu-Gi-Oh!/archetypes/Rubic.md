@@ -469,6 +469,7 @@ Since several of the archetype’s effects involve moving cards to appropriate a
 
 - The name of the archetype is a portmanteau of *Rubik* (from [Ernő Rubik](https://en.wikipedia.org/wiki/Ern%C5%91_Rubik), the inventor of the Rubik’s cube) and *cubic* (from ‘cube’).
 - All of the names within the archetype derivityze from trigonometrical or speedcubing terms.
+- Both Counter Traps ([Inverse, Transverse](#Trap-Interruption)) contain ‘verse’ in their name (for no particular reason).
 
 <table>
   <tr>
