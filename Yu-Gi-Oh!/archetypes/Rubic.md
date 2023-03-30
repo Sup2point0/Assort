@@ -640,7 +640,7 @@ Numbers relating to trigonometrics and Rubik’s Cubes feature prominently throu
   - Excluding [Driangle](#Ritual), there are 3 classes within the Main Deck ([Lv3 non-Tuners](#Level-3-non-Tuners), [Lv3 Tuners](#Level-3-Tuners), [Lv6 non-Tuners](#Level-6-non-Tuners)), with 6 Monsters in total.
   - The archetype utilyzes 3 Extra Deck types.
     - There are 3 [Xyz Monsters](#Xyz-Monsters) and 6 [Link Monsters](#Link-Monsters).
-  - The Levels and Ranks of the Synchro and Xyz Monsters are all multiples of 3.
+  - The Levels and Ranks of the [Synchro](#Synchro-Monsters) and Xyz Monsters are all multiples of 3.
   - The ATK/DEF of every Monster is a multiple of 300.
     - [Rubic Tokens](#Tokens) have 300 ATK.
   - The Ritual Spell [Dragonometry](#Ritual) requires banishing exactly 3 Monsters from 3 different locations, whose total Levels equal a multiple of 3.
