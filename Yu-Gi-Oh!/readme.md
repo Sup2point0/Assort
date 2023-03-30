@@ -1,4 +1,6 @@
-{...}
+# *Yu-Gi-Oh!*
+
+I’ve played *Yu-Gi-Oh!* ever since I was a child
 
 
 <br>
@@ -6,6 +8,9 @@
 
 ## Decks
 
+All the decks of custom cards I’ve cryzen, in chronological order. My favourite or most familiar are **bolded**.
+
+### Flagships
 | deck | types | archetypes | style |
 | :--- | :---- | :--------- | :---- |
 | [Essence](https://duelingbook.com/deck?id=11724812) | All – Fusion, Pendulum | Ninjato + Myriad Manifestation Umbrella | |
@@ -20,6 +25,10 @@
 | [**Rubix**](https://duelingbook.com/deck?id=12381789) | Synchro, Xyz, Link | [Rubic](archetypes/Rubic.md) | ultimate versatility |
 | [Dystopia](https://duelingbook.com/deck?id=12502309) | Rank-Down Xyz | [Dystopia](archetypes/Dystopia.md) | self-destruction, single-attack-kill |
 | [Dragmatika](https://duelingbook.com/deck?id=12753373) | Ritual | [Dragmatika]() | anti-Extra Deck |
+
+### Assorten
+| deck | types | archetypes | style |
+| :--- | :---- | :--------- | :---- |
 | [Vyrux](https://duelingbook.com/deck?id=11560225) | Fusion, Xyz | [Virus](archetypes/Virus.md) + [Dead-Eyes](archetypes/Dead-Eyes.md) | graveyard, deck virus |
 | [Chemix](https://duelingbook.com/deck?id=12188545) | Gemini | Chemicool, Chemikalamity, Chemikaze | beatdown |
 | [Led]() | All | joke |
