@@ -26,7 +26,9 @@ All the archetypes of custom cards I’ve cryzen.
 [Rubic](Rubic.md)  
 [Soul](Soul.md)  
 [Stranded](Stranded.md)  
+<span style="color:grey"> [Supnautica](Supnautica.md) </span>  
 [Tekk-Knight](Tekk-Knight.md)  
 &emsp; [Dekk-Knight](Dekk-Knight.md)  
+&emsp; [Ark-Knight](Dekk-Knight.md)
 [The Specialists](The%20Specialists.md)  
 [Virus](Virus.md)  
