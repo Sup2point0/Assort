@@ -5,9 +5,14 @@ All the archetypes of custom cards I’ve cryzen.
 
 ## Index
 
+[Aetern](Aetern.md)  
+&emsp; [Aeternal](Aeternal.md)  
+&emsp; [Aeternity](Aeternity.md)  
 [Battle Sheep](Battle%20Sheep.md)  
+[Catastropical](Catastropical.md)  
 [Darquess](Darquess.md)  
 [Dead-Eyes](Dead-Eyes.md)  
+[Dragmatika](Dragmatika.md)  
 [Dystopia](Dystopia.md)  
 [Galactron](Galactron.md)  
 [GUYS](GUYS.md)  
@@ -18,6 +23,7 @@ All the archetypes of custom cards I’ve cryzen.
 &emsp; [Immunit](Immunit.md)  
 &emsp; [Immunition](Immunition.md)  
 [Kinetic Warrior](Kinetic%20Warrior.md)  
+[Lightning](Lightning.md)  
 [Neuralliance](Neuralliance.md)  
 [Next-Gen](Next-Gen.md)  
 &emsp; [Next-Gen A-to-Z](Next-Gen%20A-to-Z.md)  
@@ -26,9 +32,10 @@ All the archetypes of custom cards I’ve cryzen.
 [Rubic](Rubic.md)  
 [Soul](Soul.md)  
 [Stranded](Stranded.md)  
-<span style="color:grey"> [Supnautica](Supnautica.md) </span>  
+[Supnautic](Supnautic.md)  
 [Tekk-Knight](Tekk-Knight.md)  
 &emsp; [Dekk-Knight](Dekk-Knight.md)  
 &emsp; [Ark-Knight](Dekk-Knight.md)
 [The Specialists](The%20Specialists.md)  
+[Vapour-Eyes](Vapour-Eyes.md)  
 [Virus](Virus.md)  
