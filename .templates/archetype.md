@@ -1,6 +1,6 @@
 # Archetype
 
-An archetype of – Monsters, revolving around – Summoning, inspired by the [–]() archetype.
+An archetype of – Monsters, revolving around – Summoning, inspired by the [*–*]() archetype.
 
 
 <br>
