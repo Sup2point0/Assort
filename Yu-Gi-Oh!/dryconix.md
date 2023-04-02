@@ -17,6 +17,10 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
     <td> cards </td>
     <td> ~55 </td>
   </tr>
+  <tr>
+    <td> list </td>
+    <td> <a href="https://duelingbook.com/deck?id=12203999"> DuelingBook </a> </td>
+  </tr>
 </table>
 
 ### Monsters
