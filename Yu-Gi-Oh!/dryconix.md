@@ -11,11 +11,11 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
 <table>
   <tr>
     <td> archetypes </td>
-    <td> <a href="https://yugipedia.com/wiki/Drytron">Drytron</a>, <a href="https://yugipedia.com/wiki/Dogmatika">Dogmatika</a> </td>
+    <td> <a href="https://yugipedia.com/wiki/Drytron">Drytron</a>, <a href="https://yugipedia.com/wiki/Dogmatika">Dogmatika</a> <br> <a href="">Herald</a> </td>
   </tr>
   <tr>
     <td> cards </td>
-    <td> ~55 </td>
+    <td> 59 </td>
   </tr>
   <tr>
     <td> list </td>
