@@ -1,6 +1,6 @@
 # Dryconix
  
-My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single copies of staples, and nearing 60 cards, it’s still surprisingly consistent, insanely versatile, and can definitely hold its own.
+My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single copies of staples, and ~~nearing~~ 60 cards, it’s still surprisingly consistent, insanely versatile, and can definitely hold its own.
 
 
 <br>
