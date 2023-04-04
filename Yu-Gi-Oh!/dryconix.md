@@ -248,6 +248,7 @@ Swordsoul and Swordsoul Tenyi, unlike Branded Despia, are such a pain to play ag
 [Fuller](https://duelingnexus.com/replay/3801de35-505c-4724-815a-27c52a49ab0a)  
 [Against Branded](https://duelingnexus.com/replay/672e3822-5723-41e7-88dc-08bd206ad14f)  
 [Against Kashtira](https://duelingnexus.com/replay/c4ac0ac3-d0d2-44eb-8fc0-6892759a9bdc)  
+[Against Dogmatika](https://duelingnexus.com/replay/2cf8cbbc-e82e-436a-ac25-e9ad90384c3d)  
 
 ### Master Duel
 [Turn One](https://youtube.com/watch?v%3DDl9Sc7AOz0E%26list%3DPLmmew-ndEnv0pVyNQJwBxRkIZzbuqdrvn%26index%3D5)  
