@@ -19,7 +19,7 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
   </tr>
   <tr>
     <td> list </td>
-    <td> <a href="https://duelingbook.com/deck?id=12203999"> DuelingBook </a> </td>
+    <td> <a href="https://duelingbook.com/deck?id=12203999">DuelingBook</a>, <a href="https://duelingnexus.com/editor/34f29fc593559c6edcfe979561d59a06">DuelingNexus</a> </td>
   </tr>
 </table>
 
