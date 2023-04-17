@@ -72,11 +72,43 @@ Since these correspond to the Monsters’ actual attacks, this prevents them fro
 
 As they rank up, their effects becomes increasingly devastyzing.
 
-| monster | removal | damage | protection |
-| Lightning | target + destroy | 300 | |
-| Neo | destroy | 600 | detach material to prevent effect destruction |
-| Ultimate | send to grave | 900 | detach material to prevent destruction |
-| Neo Ultimate | banish | 1200 | effect destruction immunity |
+<table>
+  <tr>
+    <th> Monster </th>
+    <td align="center"> Lightning </td>
+    <td align="center"> Neo </td>
+    <td align="center"> Ultimate </td>
+    <td align="center"> Neo Ultimate </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/monsters/Vapour-Eyes Lightning Dragon.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Neo Vapour-Eyes Lightning Dragon.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Ultimate Vapour-Eyes Lightning Dragon.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Neo Ultimate Vapour-Eyes Lightning Dragon.png"> </td>
+  </tr>
+  <tr>
+    <th> removal </th>
+    <td> target + destroy </td>
+    <td> destroy </td>
+    <td> send to grave </td>
+    <td> banish </td>
+  </tr>
+  <tr>
+    <th> damage </th>
+    <td> 300 </td>
+    <td> 600 </td>
+    <td> 900 </td>
+    <td> 1200 </td>
+  </tr>
+  <tr>
+    <th> protection </th>
+    <td> </td>
+    <td> detach material to prevent effect destruction </td>
+    <td> detach material to prevent destruction </td>
+    <td> effect destruction immunity </td>
+  </tr>
+</table>
 
 ### Arc Lightning
 The 4 ‘Vapour-Eyes Arc Lightning Dragon’ Xyz Monsters are DARK counterparts, each 1 Rank higher and requiring 3 DARK Materials – which means the final ace is, indeed, Rank 13. Their effects are even more destructive, destroying Spell and Traps in addicion to Monsters, including the player’s own cards, while boosting their own ATK and preventing responses.
@@ -87,7 +119,53 @@ However, keeping in anime spirit, these effects can only be activyzen and resolv
 
 > You must have [...] or less LP to activate and resolve this effect.
 
+<table>
+  <tr>
+    <th> Monster </th>
+    <td align="center"> Arc Lightning </td>
+    <td align="center"> Neo </td>
+    <td align="center"> Ultimate </td>
+    <td align="center"> Neo Ultimate </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/monsters/Vapour-Eyes Arc Lightning Dragon.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Neo Vapour-Eyes Arc Lightning Dragon.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Ultimate Vapour-Eyes Arc Lightning Dragon.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Neo Ultimate Vapour-Eyes Arc Lightning Dragon.png"> </td>
+  </tr>
+  <tr>
+    <th> destruction </th>
+    <td> target + destroy M/S/T </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <th> boost </th>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <th> LP </th>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <th> response lock </th>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+</table>
+
 | monster | destruction | boost | LP | response lock |
+| :------ | :---------- | :---- | :- | :------------ |
 | Arc Lightning | target + destroy M/S/T | +500 | 4000- | targeted cards |
 | Neo | reveal + destroy M/S/T | +600 | 2000- | declared types |
 | Ultimate | all other cards | +700 | 1000- | on field |
@@ -110,7 +188,32 @@ There are 6 rankup cards, each proving useful in different situacions. The Rank-
 - Neo Evolution has a Monster to rankup into for any Rank, but can be difficult to use properly. It does provide nifty targeting immunity to the ranken up Monster, but this importantly prevents further rankups (since Rank-Up cards always target).
 - Ultimate Evolution is the most powerful rankup card, totally preventing responses and flexible rankup options. As such, it also has the harshest restrictions – requiring you to only control 1 Xyz Monster, and locking other Summons from the Extra Deck for the rest of the turn.
 
+<table>
+  <tr>
+    <th>  </th>
+    <td align="center">  </td>
+    <td align="center">  </td>
+    <td align="center">  </td>
+    <td align="center">  </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/monsters/.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/.png"> </td>
+  </tr>
+  <tr>
+    <th>  </th>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+</table>
+
 | spell | target | evolucion | rankup | notes |
+| :- | :- | :- | :- | :- |
 | Lightning Rise | LIGHT on either field | *Lightning* Xyz | +1 | can recurse each turn |
 | Vapour Rise | LIGHT in either grave | *Vapour-Eyes* Xyz | +1 | can revive fallen Xyz Monster |
 | Lightning Ascension | *Lightning* on either field | LIGHT Xyz | +2 / +1 | ranks up until end of turn |
