@@ -257,7 +257,7 @@ However, since with activated effects the deck can only protect from targeting e
 
 - *Vapour-Eyes* and [Vapour Rise](#Rank-Up) are wordplay on ‘vapouryze’.
 - The prefixes in the names of Xyz Monsters follow a specific order.
-  - Dragon › Neo Dragon › Ultimate Dragon › Neo Ultimate Dragon
+  - ‘Dragon’ › ‘Neo Dragon’ › ‘Ultimate Dragon’ › ‘Neo Ultimate Dragon’
 - There are several pairs of [rankup cards](#Rank-Up) that share similaritys.
   - Lightning Rise and Neo Evolution both have recursability.
   - Vapour Rise and Lightning Arc Rise both rankup from the grave.
