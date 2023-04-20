@@ -29,18 +29,15 @@ An archetype of LIGHT and DARK Dragon Monsters, revolving around Xyz Summoning h
 
 | card | Level | ATK/DEF | Type | Attribute | material |
 | :--- | :---- | :------ | :--- | :-------- | :------- |
-| [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – / – | – | – | – |
-
-</details>
-
-### Spells
-
-<details open>
-  <summary> <b> display </b> </summary> <br>
-
-| card | Type |
-| :--- | :--- |
-| [–](../cards/spells/–/–.md) | – |
+| [Vapour-Eyes Lightning Dragon](../cards/monsters/–/–.md) | 9 ★★★★★★★★★ | 3000 / 2500 | Xyz | LIGHT | 2 Lv9 LIGHT Monsters |
+| [Neo Vapour-Eyes Lightning Dragon](../cards/monsters/–/–.md) | 10 ★★★★★★★★★★ | 4000 / 3000 | Xyz | LIGHT | 2 Lv10 LIGHT Monsters |
+| [Ultimate Vapour-Eyes Lightning Dragon](../cards/monsters/–/–.md) | 11 ★★★★★★★★★★★ | 4500 / 4000 | Xyz | LIGHT | 2 Lv11 LIGHT Monsters |
+| [Neo Ultimate Vapour-Eyes Lightning Dragon](../cards/monsters/–/–.md) | 12 ★★★★★★★★★★★★ | 5000 / – | Xyz | LIGHT | 2 Lv12 LIGHT Monsters |
+| [Vapour-Eyes Arc Lightning Dragon](../cards/monsters/–/–.md) | 10 ★★★★★★★★★★ | 3000 / 3000 | Xyz | DARK | 3 Lv10 DARK Monsters |
+| [Neo Vapour-Eyes Arc Lightning Dragon](../cards/monsters/–/–.md) | 11 ★★★★★★★★★★★ | 3300 / 3000 | Xyz | DARK | 3 Lv11 DARK Monsters |
+| [Ultimate Vapour-Eyes Arc Lightning Dragon](../cards/monsters/–/–.md) | 12 ★★★★★★★★★★★★ | 3600 / – | Xyz | DARK | 3 Lv12 DARK Monsters |
+| [Neo Ultimate Vapour-Eyes Arc Lightning Dragon](../cards/monsters/–/–.md) | 13 ★★★★★★★★★★★★★ | ? / – | Xyz | DARK | 3 Lv13 DARK Monsters |
+| [Vapour-Eyes Absolute Dragon](../cards/monsters/–/–.md) | 9 ★★★★★★★★★ | 2700 / 2500 | Synchro | LIGHT | – |
 
 </details>
 
@@ -51,7 +48,7 @@ An archetype of LIGHT and DARK Dragon Monsters, revolving around Xyz Summoning h
 
 | card | Type |
 | :--- | :--- |
-| [–](../cards/traps/–/–.md) | – |
+| [Vapourizing Lightning](../cards/traps/–/–.md) | ↵ Counter |
 
 </details>
 
@@ -137,39 +134,32 @@ However, keeping in anime spirit, these effects can only be activyzen and resolv
   <tr>
     <th> destruction </th>
     <td> target + destroy M/S/T </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
+    <td> reveal + destroy M/S/T </td>
+    <td> all other cards </td>
+    <td> absorb all other cards </td>
   </tr>
   <tr>
     <th> boost </th>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
+    <td> +500 </td>
+    <td> +600 </td>
+    <td> +700 </td>
     <td>  </td>
   </tr>
   <tr>
     <th> LP </th>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
+    <td> 4000- </td>
+    <td> 2000- </td>
+    <td> 1000- </td>
+    <td> &lt;1000 </td>
   </tr>
   <tr>
     <th> response lock </th>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
+    <td> targeted cards </td>
+    <td> declared types </td>
+    <td> on field </td>
+    <td> total </td>
   </tr>
 </table>
-
-| monster | destruction | boost | LP | response lock |
-| :------ | :---------- | :---- | :- | :------------ |
-| Arc Lightning | target + destroy M/S/T | +500 | 4000- | targeted cards |
-| Neo | reveal + destroy M/S/T | +600 | 2000- | declared types |
-| Ultimate | all other cards | +700 | 1000- | on field |
-| Neo Ultimate | absorb all other cards | | <1000 | total |
 
 ### Level 9 Dragons
 The Lv9 Main Deck Monster [Vapour-Eyes Dragon](#Monsters) has a similar Summoning condicion to [Galaxy-Eyes Photon Dragon](...), although is difficult to reach without effective support from [Lightning](Lightning.md) Monsters. It has no impactful effects itself, but once in circulyzacion can repetitively cycle bodies on board, for extra material or damage. It also grants protection to any LIGHT Xyz Monsters it is attached to.
@@ -190,21 +180,27 @@ There are 6 rankup cards, each proving useful in different situacions. The Rank-
 
 <table>
   <tr>
-    <th>  </th>
-    <td align="center">  </td>
-    <td align="center">  </td>
-    <td align="center">  </td>
-    <td align="center">  </td>
+    <th> rankup </th>
+    <td align="center"> Lightning Rise </td>
+    <td align="center"> Vapour Rise </td>
+    <td align="center"> Lightning Ascension </td>
+    <td align="center"> Lightning Arc Rise </td>
+    <td align="center"> Neo Evolution </td>
+    <td align="center"> Ultimate Evolution </td>
   </tr>
   <tr>
     <th> card </th>
-    <td align="center"> <img src="../../.assets/cards/monsters/.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/monsters/.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/monsters/.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/monsters/.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/Realm of Darquess.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/Realm of Darquess.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/Realm of Darquess.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/Realm of Darquess.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/Realm of Darquess.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/Realm of Darquess.png"> </td>
   </tr>
   <tr>
     <th>  </th>
+    <td>  </td>
+    <td>  </td>
     <td>  </td>
     <td>  </td>
     <td>  </td>
