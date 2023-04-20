@@ -190,32 +190,50 @@ There are 6 rankup cards, each proving useful in different situacions. The Rank-
   </tr>
   <tr>
     <th> card </th>
-    <td align="center"> <img src="../../.assets/cards/spells/Realm of Darquess.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/spells/Realm of Darquess.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/spells/Realm of Darquess.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/spells/Realm of Darquess.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/spells/Realm of Darquess.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/spells/Realm of Darquess.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/.png"> </td>
   </tr>
   <tr>
-    <th>  </th>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
+    <th> target </th>
+    <td> LIGHT on either field </td>
+    <td> LIGHT in either grave </td>
+    <td> <em>Lightning</em> on either field </td>
+    <td> LIGHT/DARK in either grave </td>
+    <td> your Xyz </td>
+    <td> your only Xyz </td>
+  </tr>
+  <tr>
+    <th> evolucion </th>
+    <td> <em>Lightning</em> Xyz </td>
+    <td> <em>Vapour-Eyes</em> Xyz </td>
+    <td> LIGHT Xyz </td>
+    <td> <em>Arc</em> Xyz </td>
+    <td> <em>Neo</em> Xyz </td>
+    <td> <em>Ultimate</em> Xyz </td>
+  </tr>
+  <tr>
+    <th> rankup </th>
+    <td> +1 </td>
+    <td> +1 </td>
+    <td> +2 / +1 </td>
+    <td> +1 / -1 </td>
+    <td> +1 </td>
+    <td> +2 / +1 </td>
+  </tr>
+  <tr>
+    <th> notes </th>
+    <td> can recurse each turn </td>
+    <td> can revive fallen Xyz </td>
+    <td> ranks up until end of turn </td>
+    <td> locks responses </td>
+    <td> locks targeting for rest of turn </td>
+    <td> locks Special Summons for rest of turn </td>
   </tr>
 </table>
-
-| spell | target | evolucion | rankup | notes |
-| :- | :- | :- | :- | :- |
-| Lightning Rise | LIGHT on either field | *Lightning* Xyz | +1 | can recurse each turn |
-| Vapour Rise | LIGHT in either grave | *Vapour-Eyes* Xyz | +1 | can revive fallen Xyz Monster |
-| Lightning Ascension | *Lightning* on either field | LIGHT Xyz | +2 / +1 | ranks up until end of turn |
-| Lightning Arc Rise | LIGHT/DARK in either grave | *Arc* Xyz | +1 / -1 | locks responses |
-| Neo Evolution | your Xyz | *Neo* Xyz | +1 | locks rankup for the rest of the turn |
-| Ultimate Evolution | your only Xyz | *Ultimate* Xyz | +2 / +1 | locks Special Summons for the rest of the turn |
 
 ### Counter Trap
 Again, the Counter Trap is not strictly part of the archetype, but very closely relyzen. Its effect has the potentivity to be extremely powerful, although is only defensive. Take it to be a variacion of the *Lightning* Xyz Monsters’ effects that can activyze during the opponent’s turn and doesn’t trigger floating effects. If really necessary, it can be activyzen in response to a [Rank-Up-Magic](#Rank-Up), negating it to drop a (hopefully) well-timed wipeout.
