@@ -15,7 +15,7 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
   </tr>
   <tr>
     <td> cards </td>
-    <td> 59 </td>
+    <td> 60 </td>
   </tr>
   <tr>
     <td> list </td>
@@ -35,13 +35,14 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
 | [Drytron Delta Altais](https://yugipedia.com/wiki/Drytron_Delta_Altais) | x2 | My favourite Drytron, the draw is always insane. |
 | [Drytron Gamma Eltanin](https://yugipedia.com/wiki/Drytron_Gamma_Eltanin) | x2 | Pivotal for comebacks, but I don’t need the extension normally. |
 | [Drytron Beta Rastaban](https://yugipedia.com/wiki/Drytron_Beta_Rastaban) | x1 | Saviour against Runick or Dimension Shifter, seriously clutch. |
+| [Ultimate Knight Alpha Ursatron](https://yugipedia.com/wiki/Ultimate_Knight_Alpha_Ursatron) | x2 | Not *perfect* support by any means (since it’s unsearchable and can’t be used as Material for Mu Beta Fafnir or Herald of Mirage Lights) but being able to search Fafnir for negate protection is wonderful. |
 | [Drytron Meteonis Draconids](https://yugipedia.com/wiki/Drytron_Meteonis_Draconids) | x1 | Very strong against certain archetypes, and epic for OTKs. |
 | [Drytron Meteonis Quadrantids](https://yugipedia.com/wiki/Drytron_Meteonis_Quadrantids) | x1 | Ruins backrow. |
 | [Amorphactor Pain, the Imagination Dracoverlord](https://yugipedia.com/wiki/) | x1 | My favourite Ritual Monster after White Zoa. Being able to actually play it is so wonderful. |
 | [Odd-Eyes Gravity Dragon](https://yugipedia.com/wiki/) | x1 | Great to leave on an endboard, and clearing threatening backrow before my opponent realyzes what’s going on. |
-| [Blue-Eyes Chaos MAX Dragon](https://yugipedia.com/wiki/) | x1 | Super versatile against decks that just can’t handle both targeting and destruction immunity *and* high ATK – Labrynth, Runick, even Eldlitch. |
-| [Shinobaron Peacock](https://yugipedia.com/wiki/) | x1 | Insane removal. |
-| [White Relic of Dogmatika](https://yugipedia.com/wiki/White_Relic_of_Dogmatika) | x1 | Surprisingly good for OTKs, and an easy out to an Accesscode Talker that didn’t manage to strike for game. |
+| [Blue-Eyes Chaos MAX Dragon](https://yugipedia.com/wiki/) | x1 | Often underestimated, but super versatile against decks that just can’t handle both targeting and destruction immunity *and* high ATK – Labrynth, Runick, even Tearlaments and Kashtira. |
+| [Shinobaron Peacock](https://yugipedia.com/wiki/) | x1 | Insane removal, especially against Avramax, Mirrorjade or HEROs. |
+| [White Relic of Dogmatika](https://yugipedia.com/wiki/White_Relic_of_Dogmatika) | x1 | Surprisingly good for OTKs, and an easy out to an Accesscode Talker if didn’t manage to strike for game. |
 | [White Knight of Dogmatika](https://yugipedia.com/wiki/White_Knight_of_Dogmatika) | x1 | Great when we’ve got nothing else. |
 | [White Zoa of Dogmatika](https://yugipedia.com/wiki/Dogmatika_Alba_Zoa) | x1 | Technically Alba Zoa now, but whatever, White Zoa is the better name. Anyway, the ace of the deck! |
 | [Diviner of the Herald](https://yugipedia.com/wiki/Diviner_of_the_Herald) | x3 | Does scare people into thinking this is Herald Drytron, but nooo, we’re going into Lv7 Synchro toolbox B) |
@@ -53,7 +54,7 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
 
 | card | copies | notes |
 | :--- | :----- | :---- |
-| [Drytron Mu Beta Fafnir](https://yugipedia.com/wiki/Drytron_Mu_Beta_Fafnir) | x3 | Insane consistency tool. As long as we can get 2 Drytrons on the field, this’ll guarantee the searcher we need. If we don’t end with Amorphactor Pain, it even provides a negate to protect against boardbreakers. |
+| [Drytron Mu Beta Fafnir](https://yugipedia.com/wiki/Drytron_Mu_Beta_Fafnir) | x2 | Insane consistency tool. As long as we can get 2 Drytrons on the field, this’ll guarantee any missing pieces we need. If we don’t end with Amorphactor Pain, it even provides a negate to protect against boardbreakers. Unfortunately, for Extra Deck space I’ve had to cut this down to 2 copies, but rarely does that come back to bite. |
 | [Herald of the Arc Light](https://yugipedia.com/wiki/Herald_of_the_Arc_Light) | x3 | Of course, the perfect Monster to bury from our Extra Deck. And with Drytron, the more Rituals in hand, the better. We can even Synchro Summon it with Ash Blossom (Lv3 Tuner) and a Drytron (Lv1), which is better than keeping Ash in hand, since this can negate any card or effect – with a search right after too! Aside from working under Amorphactor Pain (since it Tributes itself as cost, so its effect won’t be negated), it even blocks Droplet by preventing anyone from sending cards to the Graveyard as cost. Just insane value. |
 | [Elder Entity N'tss](https://yugipedia.com/wiki/) | x1 | One’s enough, just for the situations where we really need it. |
 | [Clear Wing Synchro Dragon](https://yugipedia.com/wiki/Clear_Wing_Synchro_Dragon) | x1 | This is my favourite Synchro Monster, so naturally I was delighted when I realyzed I could throw it in Drytron. A stellar option if we don’t have enough to bring out a double-Tribute Ritual Monster. |
@@ -61,6 +62,7 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
 | [Wind Pegasus @Ignister](https://yugipedia.com/wiki/) | x1 | Works under Amorphactor Pain and in the Graveyard, even has Spell/Trap removal for followup. |
 | [Linkuriboh](https://yugipedia.com/wiki/Linkuriboh) | x1 | Pivotal for optilical combo sequencing. Clutch when you need it. |
 | [Relinquished Anima](https://yugipedia.com/wiki/) | x1 | Hilarious when it works, perfect for plucking back a Lava Golem too. |
+| [Herald of Mirage Lights](https://yugipedia.com/wiki/Herald_of_Mirage_Lights) | x1 | This, *this*, is the missing piece I spent so long looking for – too often do I end with extra bodies (especially if I’ve used Gamma) which don’t do anything, and I can’t clean up for anything else (IP Masquerena would take even more Extra Deck space for other staples, which I refuse to resort to) – but what would really help is a recovery option. That’s exactly what Herald of Mirage Lights does, grabbing back not 1, but *2* Ritual cards – how awesome is that! No longer do I need to rest on the Heart of the Cards every time my opponent dismantles my board and I have no more Rituals left in hand. |
 | [Lyrilusc – Assembled Nightingale](https://yugipedia.com/wiki/) | x1 | If the opponent has an unbreakable board but no interruptions, then it’s time for an emergency OTK with Assembled Nightingale and White Relic. |
 | [Raidraptor – Ultimate Falcon](https://yugipedia.com/wiki/) | x1 | I actually love this card, considering my first deck was Raidraptor. *So* many decks just cannot handle this being dropped on them. |
 | [Infinitrack Fortress Megaclops](https://yugipedia.com/wiki/Infinitrack_Fortress_Megaclops) | x1 | Waking the Dragon moment lmao |
