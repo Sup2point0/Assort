@@ -206,7 +206,7 @@ Again, Chaos MAX Dragon. Can be a challenge to play against sometimes if they ma
 What a pain to play against.
 
 ### Kashtira
-Aside from it being a horribly generic, efficient, vicious deck, Kashtira actually can’t handle targeting protection, and it can’t go over 3000 ATK, making Chaos MAX Dragon a fantastic weapon against them... if I can actually bring it out in the first place, what with all my zones locked.
+Aside from it being a horribly generic, efficient, vicious deck, Kashtira actually can’t handle targeting protection, and it can’t go over 3000 ATK, making Chaos MAX Dragon a fantastic weapon against them... if I can actually bring it out in the first place, what with all my Zones locked.
 
 ### Labrynth
 Blue-Eyes Chaos MAX Dragon insta-win. Labrynth can’t handle targeting and destruction protection or that 4000 ATK, unless they bring out Skill Drain. Then we’re screwed.
