@@ -1,6 +1,6 @@
 # Darquess
 
-An archetype of DARK and protively Spellcaster monsters, harnessing Ritual and Fusion Summoning through the unique Ritual and Fusion Spell [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md), revolving around banishing cards and dealing damage to the player themselves.
+An archetype of DARK and protively Spellcaster Monsters, harnessing Ritual and Fusion Summoning through the unique Ritual and Fusion Spell [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md), revolving around banishing cards and dealing damage to the player themselves.
 
 
 <br>
@@ -45,9 +45,9 @@ An archetype of DARK and protively Spellcaster monsters, harnessing Ritual and F
 | [Elaiza, Arisen of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Raiza, Sorceress of Darquess* + *Laiza, Enchantress of Darquess* |
 | [Levaiza, Ascended of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Laiza, Enchantress of Darquess* + *Vaiza, Empress of Darquess* |
 | [Vraiza, Awakened of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Vaiza, Empress of Darquess* + *Raiza, Sorceress of Darquess* |
-| [Primordial Darquessence, Oblivion of Darquess](../cards/monsters/fusion/Primordial%20Darquessence.md) | 13 ★★★★★★★★★★★★★ | ? / 0 | Fusion | 3 Level 13 ‘Darquess’ monsters with different names |
-| [Lynuca, Silencer of Darquess](../cards/monsters/fusion/–.md) | 11 ★★★★★★★★★★★ | 2700 / 0 | Fusion | 2 Level 9+ DARK monsters |
-| [Dyvarice, Corruptor of Darquess](../cards/monsters/fusion/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | Fusion | 2 DARK monsters with different types (Ritual/Fusion/Synchro/Xyz/Link) |
+| [Primordial Darquessence, Oblivion of Darquess](../cards/monsters/fusion/Primordial%20Darquessence.md) | 13 ★★★★★★★★★★★★★ | ? / 0 | Fusion | 3 Level 13 ‘Darquess’ Monsters with different names |
+| [Lynuca, Silencer of Darquess](../cards/monsters/fusion/–.md) | 11 ★★★★★★★★★★★ | 2700 / 0 | Fusion | 2 Level 9+ DARK Monsters |
+| [Dyvarice, Corruptor of Darquess](../cards/monsters/fusion/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | Fusion | 2 DARK Monsters with different types (Ritual/Fusion/Synchro/Xyz/Link) |
 
 </details>
 
@@ -96,10 +96,10 @@ An archetype of DARK and protively Spellcaster monsters, harnessing Ritual and F
 
 ## Overview
 
-All monsters have 0 DEF.
+All Monsters have 0 DEF.
 
 ### Level 4
-The 3 Level 4 monsters have 1900 ATK and share the following non-once-per-turn effect:
+The 3 Level 4 Monsters have 1900 ATK and share the following non-once-per-turn effect:
 
 > If another card is banished: You can add this banished card to your hand, or Special Summon this card from your hand.
 
@@ -109,7 +109,7 @@ Each has an effect to search another card on Summon, which also deals damage to 
 
 <table>
   <tr>
-    <th width="42px"> monster </th>
+    <th width="42px"> Monster </th>
     <td align="center"> Aiza </td>
     <td align="center"> Azia </td>
     <td align="center"> Zaia </td>
@@ -124,12 +124,12 @@ Each has an effect to search another card on Summon, which also deals damage to 
     <th> effect </th>
     <td> banish a ‘Darquess’ Spell/Trap from deck </td>
     <td> Set a banished ‘Darquess’ Spell/Trap </td>
-    <td> bury a ‘Darquess’ monster </td>
+    <td> bury a ‘Darquess’ Monster </td>
   </tr>
 </table>
 
 ### Level 7
-This self-dealt damage allows the 3 Level 7 monsters to be Summoned, which each have 2300 ATK.
+This self-dealt damage allows the 3 Level 7 Monsters to be Summoned, which each have 2300 ATK.
 
 > If either player takes damage: You can Special Summon this card from your hand or Graveyard, then you can increase this card’s Level (max 12) by 1 for every 100 damage taken.
 
@@ -139,7 +139,7 @@ They can then banish a card from the hand or graveyard to search a Ritual-relyze
 
 <table>
   <tr>
-    <th width="42px"> monster </th>
+    <th width="42px"> Monster </th>
     <td align="center"> Cythris </td>
     <td align="center"> Lyfris </td>
     <td align="center"> Syndris </td>
@@ -153,29 +153,29 @@ They can then banish a card from the hand or graveyard to search a Ritual-relyze
   <tr>
     <th> search </th>
     <td> ‘Darquess’ Spell </td>
-    <td> ‘Darquess’ monster </td>
+    <td> ‘Darquess’ Monster </td>
     <td> ‘Darquess’ Ritual card </td>
   </tr>
 </table>
 
 ### Level 9
-The 3 Level 9 monsters have 2700 ATK, and serve as powerful removal, interrupts and sacrifices for Ritual Summons.
+The 3 Level 9 Monsters have 2700 ATK, and serve as powerful removal, interrupts and sacrifices for Ritual Summons.
 
 They share the following once-per-turn effects:
 
-> You can banish 2 other DARK monsters from your field and/or either player’s Graveyard; Special Summon this card from your hand or Graveyard, then you can banish 1 [...].
+> You can banish 2 other DARK Monsters from your field and/or either player’s Graveyard; Special Summon this card from your hand or Graveyard, then you can banish 1 [...].
 
 Hykarice and Kyralice can negate Spell/Traps:
 
-> When a [Spell/Trap] card or effect is activated, while you control a Level 13 ‘Darquess’ monster (Quick Effect): You can banish this card from your hand or field; negate that effect, also banish that card.
+> When a [Spell/Trap] card or effect is activated, while you control a Level 13 ‘Darquess’ Monster (Quick Effect): You can banish this card from your hand or field; negate that effect, also banish that card.
 
 Vyktica is slightly different:
 
-> When a DARK monster declares an attack or activates its effect, while you control a Level 13 ‘Darquess’ monster (Quick Effect): You can banish this card from your hand or field; banish that card, and if you do, take 700 damage.
+> When a DARK Monster declares an attack or activates its effect, while you control a Level 13 ‘Darquess’ Monster (Quick Effect): You can banish this card from your hand or field; banish that card, and if you do, take 700 damage.
 
 <table>
   <tr>
-    <th width="42px"> monster </th>
+    <th width="42px"> Monster </th>
     <td align="center"> Hykarice </td>
     <td align="center"> Kyralice </td>
     <td align="center"> Vyktica </td>
@@ -196,12 +196,12 @@ Vyktica is slightly different:
     <th> interrupt </th>
     <td> Spell </td>
     <td> Trap </td>
-    <td> monster </td>
+    <td> Monster </td>
   </tr>
 </table>
 
 ### Level 13 Ritual
-The 3 Ritual monsters are each Level 13 with 3000 ATK, sharing the following effect:
+The 3 Ritual Monsters are each Level 13 with 3000 ATK, sharing the following effect:
 
 > Must be Ritual Summoned by a ‘Darquess’ card. If this card is Ritual Summoned: You can Set 1 ‘Darquess’ Trap from your Deck.
 
@@ -209,7 +209,7 @@ They also have a restriction that the player can only control 1 of each. Each th
 
 <table>
   <tr>
-    <th width="42px"> monster </th>
+    <th width="42px"> Monster </th>
     <td align="center"> Raiza </td>
     <td align="center"> Laiza </td>
     <td align="center"> Vaiza </td>
@@ -222,32 +222,32 @@ They also have a restriction that the player can only control 1 of each. Each th
   </tr>
   <tr>
     <th> continuous </th>
-    <td> neither player can Normal Summon non-DARK monsters </td>
-    <td> neither player can Special Summon non-DARK monsters from the Extra Deck </td>
-    <td> DARK monsters lose ATK equal to their original DEF </td>
+    <td> neither player can Normal Summon non-DARK Monsters </td>
+    <td> neither player can Special Summon non-DARK Monsters from the Extra Deck </td>
+    <td> DARK Monsters lose ATK equal to their original DEF </td>
   </tr>
   <tr>
     <th> ignition </th>
-    <td> banish 1 DARK monster from either player’s field or Graveyard </td>
-    <td> Special Summon 1 banished DARK monster </td>
-    <td> gain LP equal to a DARK monster’s ATK when it is banished or Summoned </td>
+    <td> banish 1 DARK Monster from either player’s field or Graveyard </td>
+    <td> Special Summon 1 banished DARK Monster </td>
+    <td> gain LP equal to a DARK Monster’s ATK when it is banished or Summoned </td>
   </tr>
   <tr>
     <th> other </th>
     <td> banish top card of opponent’s deck face-down each time you take damage </td>
     <td> inflict 350 damage each time a card is banished </td>
-    <td> ‘Darquess’ monsters can use effects as Quick Effects </td>
+    <td> ‘Darquess’ Monsters can use effects as Quick Effects </td>
   </tr>
 </table>
 
 ### Level 13 Fusion
-The 3 main Level 13 Fusion monsters each have 3300 ATK, requiring 2 of the 3 Ritual monsters as material. They feature a powerful floodgate effect of their own, while sharing the following effect:
+The 3 main Level 13 Fusion Monsters each have 3300 ATK, requiring 2 of the 3 Ritual Monsters as material. They feature a powerful floodgate effect of their own, while sharing the following effect:
 
-> If this card is targeted (Quick Effect): You can make 1 other DARK monster on the field become the target instead.
+> If this card is targeted (Quick Effect): You can make 1 other DARK Monster on the field become the target instead.
 
 <table>
   <tr>
-    <th width="42px"> monster </th>
+    <th width="42px"> Monster </th>
     <td align="center"> Elaiza </td>
     <td align="center"> Levaiza </td>
     <td align="center"> Vraiza </td>
@@ -260,9 +260,9 @@ The 3 main Level 13 Fusion monsters each have 3300 ATK, requiring 2 of the 3 Rit
   </tr>
   <tr>
     <th> continuous </th>
-    <td> neither player can Summon non-DARK monsters </td>
-    <td> your opponent can only Summon monsters in Defence Position, and monsters they control in Defence Position cannot activate effects </td>
-    <td> negates the effects of Synchro, Xyz, and Link monsters on the field and in the Graveyard </td>
+    <td> neither player can Summon non-DARK Monsters </td>
+    <td> your opponent can only Summon Monsters in Defence Position, and Monsters they control in Defence Position cannot activate effects </td>
+    <td> negates the effects of Synchro, Xyz, and Link Monsters on the field and in the Graveyard </td>
   </tr>
 </table>
 
@@ -283,7 +283,7 @@ The archetypical Ritual and Fusion Spell is [Darquess Rising](../cards/spells/ri
 </table>
 
 ### Traps
-Many opening and searching cards that would usually be Spells are instead Traps, some of which have the ability to be activated immediately by taking damage. Most important of all are the monster and Spell/Trap searchers, [Awakening of Darquess]() and [Runes of Darquess](), which can also search the Field Spell if it is not already active.
+Many opening and searching cards that would usually be Spells are instead Traps, some of which have the ability to be activated immediately by taking damage. Most important of all are the Monster and Spell/Trap searchers, [Awakening of Darquess]() and [Runes of Darquess](), which can also search the Field Spell if it is not already active.
 
 <table>
   <tr>
@@ -296,7 +296,7 @@ Many opening and searching cards that would usually be Spells are instead Traps,
   </tr>
 </table>
 
-Otherwise of note are the 3 Continuous Traps, which provide the Ritual monsters with protection or hinder the opponent. They also have the useful effect to recover another banished ‘Darquess’ Spell/Trap when banished themselves, allowing for efficient recycling or excellent banish targets.
+Otherwise of note are the 3 Continuous Traps, which provide the Ritual Monsters with protection or hinder the opponent. They also have the useful effect to recover another banished ‘Darquess’ Spell/Trap when banished themselves, allowing for efficient recycling or excellent banish targets.
 
 <table>
   <tr>
@@ -313,7 +313,7 @@ Otherwise of note are the 3 Continuous Traps, which provide the Ritual monsters 
   </tr>
   <tr>
     <th> protection / floodgate </th>
-    <td> battle and monster effect destruction </td>
+    <td> battle and Monster effect destruction </td>
     <td> Spell/Trap effects </td>
     <td> opponent skips their Main Phase 1 </td>
   </tr>
@@ -341,11 +341,11 @@ Otherwise of note are the 3 Continuous Traps, which provide the Ritual monsters 
 
 - This entire archetype was born from [Raiza](../cards/monsters/ritual/Raiza.md), a childhood card I created.
 - The archetype features many triplets of cards.
-  - There are 3 monsters for each class – Lv4, Lv7, Lv9, Lv13 Ritual and Lv13 Fusion.
+  - There are 3 Monsters for each class – Lv4, Lv7, Lv9, Lv13 Ritual and Lv13 Fusion.
   - There are 3 Continuous Traps.
 - Within each triplet, there also tends to be a card slightly different from the rest.
-  - Lv4 – Zaia searches another monster instead of Spell/Traps.
-  - Lv7 – Syndris searches a Ritual card instead of any monster or Spell.
+  - Lv4 – Zaia searches another Monster instead of Spell/Traps.
+  - Lv7 – Syndris searches a Ritual card instead of any Monster or Spell.
   - Lv9 – Vyktica only banishes without negating.
-  - Lv13 Ritual – Vaiza has no ignition effect, instead turning the other Ritual monsters far deadlier.
-  - Continuous Traps – Nightmare inflicts damage instead of gaining LP, and hinders the opponent instead of protecting the Ritual monsters.
+  - Lv13 Ritual – Vaiza has no ignition effect, instead turning the other Ritual Monsters far deadlier.
+  - Continuous Traps – Nightmare inflicts damage instead of gaining LP, and hinders the opponent instead of protecting the Ritual Monsters.
