@@ -10,10 +10,10 @@
 
 | date | notes |
 | :--- | :---- |
-| [Mar 4](https://brainbashers.com/showskyscraper.asp?date=0304&size=5&diff=3) | |
-| [Mar 13](https://brainbashers.com/showskyscraper.asp?date=0313&size=5&diff=3) | |
-| [Mar 14](https://brainbashers.com/showskyscraper.asp?date=0314&size=5&diff=3) | |
-| [Mar 26](https://brainbashers.com/showskyscraper.asp?date=0326&size=5&diff=3) | |
+| [Mar 4](https://brainbashers.com/showskyscrapers.asp?date=0304&size=5&diff=3) | |
+| [Mar 13](https://brainbashers.com/showskyscrapers.asp?date=0313&size=5&diff=3) | |
+| [Mar 14](https://brainbashers.com/showskyscrapers.asp?date=0314&size=5&diff=3) | |
+| [Mar 26](https://brainbashers.com/showskyscrapers.asp?date=0326&size=5&diff=3) | |
 
 
 <br>
@@ -23,7 +23,7 @@
 
 | date | notes |
 | :--- | :---- |
-| [Jan 31](https://brainbashers.com/showskyscraper.asp?date=0131&size=6&diff=3) | |
-| [Feb 7](https://brainbashers.com/showskyscraper.asp?date=0207&size=6&diff=3) | |
-| [Mar 12](https://brainbashers.com/showskyscraper.asp?date=0312&size=6&diff=3) | |
-| [Mar 15](https://brainbashers.com/showskyscraper.asp?date=0315&size=6&diff=3) | |
+| [Jan 31](https://brainbashers.com/showskyscrapers.asp?date=0131&size=6&diff=3) | |
+| [Feb 7](https://brainbashers.com/showskyscrapers.asp?date=0207&size=6&diff=3) | |
+| [Mar 12](https://brainbashers.com/showskyscrapers.asp?date=0312&size=6&diff=3) | |
+| [Mar 15](https://brainbashers.com/showskyscrapers.asp?date=0315&size=6&diff=3) | |
