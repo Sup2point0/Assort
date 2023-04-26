@@ -103,31 +103,25 @@ Assorted favourite soundtracks from games, movies, series and all.
 <br>
 
 
-## Johannes Bornlöf
-
-
-<br>
-
-
 ## Guilty Pleasures
 
 I generally firmly dislike popular music, but... every so often there’s a couple that are just so addictive. Mostly the old nostalgic ones.
 
 | artist | track | notes |
 | :----- | :---- | :---- |
-| Alcazar – [Crying at the Discoteque](https://youtube.com/watch?v=7CiOWcUVGJM) | | |
-| Avril Lavigne – [Complicated](https://youtube.com/watch?v=5NPBIwQyPWE) | | |
-| Avril Lavigne – [sk8ter boi](https://youtube.com/watch?v=TIy3n2b7V9k) | | |
-| Cam Kelley – [Sketch Plane](https://youtube.com/watch?v=Lndp_X-nar4) | | |
-| Elton John & Dua Lipa – [Cold Heart](https://youtube.com/watch?v=qod03PVTLqk) | | |
-| Fountains of Wayne – [Stacy’s Mom](https://youtube.com/watch?v=dZLfasMPOU4) | | |
-| Idina Menzel – Let It Go | | the instrumental, specifically :P |
-| Mabel – [Mad Love](https://youtube.com/watch?v=hY1tULEr4-4) | | |
-| Olly Murs – [Troublemaker](https://youtube.com/watch?v=4aQDOUbErNg) | | |
-| Rick Springfield – [Jessie’s Girl](https://youtube.com/watch?v=qYkbTyHXwbs) | | |
-| Rita Ora – [Your Song](https://youtube.com/watch?v=RsELrcVNzG0) | | |
-| Shawn Mendes – [Stitches](https://youtube.com/watch?v=VbfpW0pbvaU) | | |
-| Shawn Mendes & Camila Cabello – [Señorita](https://youtube.com/watch?v=Pkh8UtuejGw) | | |
-| Taylor Swift – [Antihero](https://youtube.com/watch?v=XqN2qFvY64U) | | |
-| Taylor Swift – [I Knew You Were Trouble](https://youtube.com/watch?v=vNoKguSdy4Y) | | |
-| Taylor Swift – [Blank Space](https://youtube.com/watch?v=e-ORhEE9VVg) | | |
+| Alcazar | [Crying at the Discoteque](https://youtube.com/watch?v=7CiOWcUVGJM) | |
+| Avril Lavigne | [Complicated](https://youtube.com/watch?v=5NPBIwQyPWE) | |
+| Avril Lavigne | [sk8ter boi](https://youtube.com/watch?v=TIy3n2b7V9k) | |
+| Cam Kelley | [Sketch Plane](https://youtube.com/watch?v=Lndp_X-nar4) | |
+| Elton John & Dua Lipa | [Cold Heart](https://youtube.com/watch?v=qod03PVTLqk) | |
+| Fountains of Wayne | [Stacy’s Mom](https://youtube.com/watch?v=dZLfasMPOU4) | |
+| Idina Menzel | Let It Go | | the instrumental, specifically :P
+| Mabel | [Mad Love](https://youtube.com/watch?v=hY1tULEr4-4) | |
+| Olly Murs | [Troublemaker](https://youtube.com/watch?v=4aQDOUbErNg) | |
+| Rick Springfield | [Jessie’s Girl](https://youtube.com/watch?v=qYkbTyHXwbs) | |
+| Rita Ora | [Your Song](https://youtube.com/watch?v=RsELrcVNzG0) | |
+| Shawn Mendes | [Stitches](https://youtube.com/watch?v=VbfpW0pbvaU) | |
+| Shawn Mendes & Camila Cabello | [Señorita](https://youtube.com/watch?v=Pkh8UtuejGw) | |
+| Taylor Swift | [Antihero](https://youtube.com/watch?v=XqN2qFvY64U) | |
+| Taylor Swift | [I Knew You Were Trouble](https://youtube.com/watch?v=vNoKguSdy4Y) | |
+| Taylor Swift | [Blank Space](https://youtube.com/watch?v=e-ORhEE9VVg) | |
