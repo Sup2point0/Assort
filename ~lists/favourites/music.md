@@ -1,6 +1,6 @@
 # Favourite Music
 
-Favourite soundtracks in varical categories. Kinda arranged in order – but it’s insanely difficult, and my preferences change daily anyway.
+Favourite soundtracks in varical categorys. Kinda arrangen in order – but it’s insanely difficult, and my preferences change daily anyway.
 
 
 <br>
@@ -8,7 +8,7 @@ Favourite soundtracks in varical categories. Kinda arranged in order – but it�
 
 ## Overall
 
-Assorted favourite tracks in a multitude of genres.
+Assorten favourite tracks in a multitude of genres.
 
 [Elektronomia](https://youtube.com/c/Elektronomia) – [United](https://youtube.com/watch?v=EgXcda1SzxU)  
 [Vexento](https://youtube.com/c/Vexento) – [Masked Heroes](https://youtube.com/watch?v=ZLhfr8mpzxU)  
@@ -111,21 +111,23 @@ Assorted favourite soundtracks from games, movies, series and all.
 
 ## Guilty Pleasures
 
+I generally firmly dislike popular music, but... every so often there’s a couple that are just so addictive. Mostly the old nostalgic ones.
+
 | artist | track | notes |
 | :----- | :---- | :---- |
-| Alcazar – Crying at the Discoteque | | |
-| Avril Lavigne – Complicated | | |
-| Avril Lavigne – sk8ter boi | | |
-| Cam Kelley – Sketch Plane | | |
-| Elton John & Dua Lipa – Cold Heart | | |
-| Fountains of Wayne – Stacy’s Mom | | |
+| Alcazar – [Crying at the Discoteque](https://youtube.com/watch?v=7CiOWcUVGJM) | | |
+| Avril Lavigne – [Complicated](https://youtube.com/watch?v=5NPBIwQyPWE) | | |
+| Avril Lavigne – [sk8ter boi](https://youtube.com/watch?v=TIy3n2b7V9k) | | |
+| Cam Kelley – [Sketch Plane](https://youtube.com/watch?v=Lndp_X-nar4) | | |
+| Elton John & Dua Lipa – [Cold Heart](https://youtube.com/watch?v=qod03PVTLqk) | | |
+| Fountains of Wayne – [Stacy’s Mom](https://youtube.com/watch?v=dZLfasMPOU4) | | |
 | Idina Menzel – Let It Go | | the instrumental, specifically :P |
-| Mabel – Mad Love | | |
-| My Little Pony – Better Than Ever | | |
-| Olly Murs – Troublemaker | | |
-| Rick Springfield – Jessie’s Girl | | |
-| Rita Ora – Your Song | | |
-| Shawn Mendes – Stitches | | |
-| Shawn Mendes & Camila Cabello – Señorita | | |
-| Taylor Swift – Trouble | | |
-| Taylor Swift – Blank Space | | |
+| Mabel – [Mad Love](https://youtube.com/watch?v=hY1tULEr4-4) | | |
+| Olly Murs – [Troublemaker](https://youtube.com/watch?v=4aQDOUbErNg) | | |
+| Rick Springfield – [Jessie’s Girl](https://youtube.com/watch?v=qYkbTyHXwbs) | | |
+| Rita Ora – [Your Song](https://youtube.com/watch?v=RsELrcVNzG0) | | |
+| Shawn Mendes – [Stitches](https://youtube.com/watch?v=VbfpW0pbvaU) | | |
+| Shawn Mendes & Camila Cabello – [Señorita](https://youtube.com/watch?v=Pkh8UtuejGw) | | |
+| Taylor Swift – [Antihero](https://youtube.com/watch?v=XqN2qFvY64U) | | |
+| Taylor Swift – [I Knew You Were Trouble](https://youtube.com/watch?v=vNoKguSdy4Y) | | |
+| Taylor Swift – [Blank Space](https://youtube.com/watch?v=e-ORhEE9VVg) | | |
