@@ -35,7 +35,8 @@ Downright remakes of existing archetypes, one of my favourite things to do.
 | [Stranded](https://duelingbook.com/deck?id=12190377) | Fusion | [Stranded](archetypes/Stranded.md) | parody of [Branded](...) | |
 | [Dystopia](https://duelingbook.com/deck?id=12502309) | Rank-Down Xyz | [Dystopia](archetypes/Dystopia.md) | parody of [Utopia](...) | self-destruction, single-attack-kill |
 | [Dragmatika](https://duelingbook.com/deck?id=12753373) | Ritual | [Dragmatika]() | revitalyzacion of [Dogmatika](...) | anti-Extra Deck |
-| [Vraptor](https://duelingbook.com/deck?id=12893390) | Rank-Up Xyz | [Next-Gen Raidraptor](archetypes/.md) | |
+| [Vraptor](https://duelingbook.com/deck?id=12893390) | Rank-Up Xyz | [Next-Gen Raidraptor](archetypes/.md) | revitalyzacion of Raidraptor | |
+| [Arc-Z](https://duelingbook.com/deck?id=12974231) | Pendulum, Fusion, Synchro, Xyz | [Eternal King](archetypes/.md) | revitalyzacion of Z-ARC’s deck | more akin to the anime |
 
 ### Fun
 Randolical decks I decided to make for fun, but rarely play with.
