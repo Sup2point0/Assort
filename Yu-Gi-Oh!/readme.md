@@ -21,7 +21,7 @@ The original, high-quality decks I play with the most. My favourite or most fami
 | [**Vengeance**](https://duelingbook.com/deck?id=11423800) | Ritual, Synchro | [Soul](archetypes/Soul.md) | graveyard, Synchro swarming |
 | [**Vapurion**](https://duelingbook.com/deck?id=11882083) | Rank-Up Xyz | [Vapour-Eyes](archetypes/Vapour-Eyes.md) + [Lightning](archetypes/lightning.md) | animesque ace |
 | [Arcana](https://duelingbook.com/deck?id=12012335) | All | [Tekk-Knight](archetypes/Tekk-Knight.md), [Dekk-Knight](archetypes/Dekk-Knight.md) + [World Affinity](archetypes/World%20Affinity.md) | polytypical swarming |
-| [**Darquessence**](https://duelingbook.com/deck?id=12053993) | Ritual, Fusion | [Darquess](archetypes/Darquess.md) | draining control |
+| [Darquessence](https://duelingbook.com/deck?id=12053993) | Ritual, Fusion | [Darquess](archetypes/Darquess.md) | draining control |
 | [**Rubix**](https://duelingbook.com/deck?id=12381789) | Synchro, Xyz, Link | [Rubic](archetypes/Rubic.md) | ultimate versatility |
 
 ### Assorten
