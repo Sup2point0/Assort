@@ -25,6 +25,8 @@ Yep, I collect quotes.
 
 ## Intriguing
 
+***Just because an apple falls one hundred times out of a hundred does not mean it will fall on the hundred and first.***
+
 ***The mind is not a vessel to be filled but a fire to be kindled.***
 
 ***How inappropriate to call this Planet Earth when it is quite clearly ocean.***
@@ -72,3 +74,5 @@ Also known as 'everything is a human construct'.
 ***Everything will be alright.***
 
 ***There is no glass, life is a lie.***
+
+***You can, but you can't.***
