@@ -50,3 +50,9 @@ Randolical decks I decided to make for fun, but rarely play with.
 | [Ultra](https://duelingbook.com/deck?id=11509638) | Fusion | [CREW GUYS](archetypes/GUYS.md), [METEOR](archetypes/METEOR.md) + [Ultraman](archetypes/Ultraman.md) | |
 | [Bananas](https://duelingbook.com/deck?id=12097955) | All | Bloons TD 6 | versatility |
 | [Apples](https://duelingbook.com/deck?id=11855890) | Xyz, Link | Plants vs Zombies 2 | |
+
+### Other
+
+| deck | notes |
+| :--- | :---- |
+| [staples](https://duelingbook.com/deck?id=12239205) | all my custom staple cards |
