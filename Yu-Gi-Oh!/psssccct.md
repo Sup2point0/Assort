@@ -4,6 +4,8 @@ Card text in *Yu-Gi-Oh!* is wonderfully written (in that it flows like regular t
 
 And so, here’s *PSSSCCCT*, the successor to PSCT, which I exclusively utilyze on DuelingBook to allow the opponent (and me) to far more easily interpret and keep track of what all my cards do.
 
+See [#Changes](#Changes) for quick reference.
+
 
 <br>
 
@@ -31,10 +33,6 @@ And imagine that across almost every card, even several times in the same card.
 
 Now, the main thing PSCT's got going for it is how it ensures consistency in effect wording. But it really, really annoys me how it's *consistently inconsistent*. In particular, there are some keywords that aren't capitalyzen by themselves, but *are* when modifyzen by another word.
 
-| alone | affected |
-| :---- | :------- |
-| material | Fusion Material, Synchro Material
-
 
 <br>
 
@@ -53,7 +51,7 @@ A list of all the syntax changes.
 
 | original | novel | notes |
 | :------- | :---- | :---- |
-| Condition: Cost; resolution. You can only {...} once per turn. | `[~] Condition: Cost; Resolution.` | – |
+| Condition: Cost; resolution. You can only {...} once per turn. | `[~] Condition: Cost; Resolution.` | resolution clause is also capitalyzen |
 | You can only use this effect of ‘...’ once per turn. | `[HOPT]` | placed at the start of the effect after the number |
 | (Quick Effect) | `[Quick]` | placed at start of effect, can be merged with other modifyzers |
 | Spell/Trap | `S/T` | |
