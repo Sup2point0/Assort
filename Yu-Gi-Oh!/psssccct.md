@@ -83,27 +83,10 @@ So, a lot of the changes will tackle inconsistencys in structure and capitalyzac
 
 ## Cases
 
-<table>
-  <tr>
-    <th> card </th>
-    <td> <img src="https://ms.yugipedia.com//thumb/b/bf/DivineArsenalAAZEUSSkyThunder-OP18-EN-UtR-UE.png/826px-DivineArsenalAAZEUSSkyThunder-OP18-EN-UtR-UE.png"> </td>
-    <td> <img src="https://ms.yugipedia.com//b/bc/BorreloadSavageDragon-BLCR-EN-ScR-1E.png"> </td>
-  </tr>
-  <tr>
-    <th> PSCT </th>
-    <td> Once per turn, if an Xyz Monster battled this turn, you can also Xyz Summon "Divine Arsenal AA-ZEUS - Sky Thunder" by using 1 Xyz Monster you control as material. (Transfer its materials to this card.) (Quick Effect): You can detach 2 materials from this card; send all other cards from the field to the GY. Once per turn, if another card(s) you control is destroyed by battle or an opponent's card effect: You can attach 1 card from your hand, Deck, or Extra Deck to this card as material. </td>
-    <td> If this card is Synchro Summoned: You can equip 1 Link Monster from your GY to this card, and if you do, place Borrel Counters on this card equal to that Link Monster's Link Rating. This card gains ATK equal to half the ATK of the monster equipped to it by its effect. When your opponent activates a card or effect (Quick Effect): You can remove 1 Borrel Counter from this card; negate the activation. You can only use this effect of "Borreload Savage Dragon" once per turn. </td>
-  </tr>
-  <tr>
-    <th> PSSSCCCT </th>
-    <td> [HOPT] If an Xyz Monster battled this turn, you can Xyz Summon this card by using 1 Xyz Monster you control as Material. (Transfer Materials). [Quick] You can detach 2 Materials from this card; Send all other cards on the field to the GY. [OPT] If another card you control is destroyed by battle or an opponent's card effect: You can attach 1 card from your hand, Deck, XD to this card as Material. </td>
-    <td> If this card is Synchro Summoned: You can equip 1 Link Monster from your GY to this card, and if you do, place Borrel Counters on thsi card equal to that Monster's Link Rating. This card gains ATK equal to half the ATK of the Monster equipped to it by this effect. [HOPT Quick] When your opponent activates a card or effect: You can remove 1 Borrel Counter from this card; Negate the activation. </td>
-  </tr>
-</table>
-
 | card | PSCT | PSSSCCCT |
 | :--- | :--- | :------- |
 | [Divine Arsenal AA-ZEUS - Sky Thunder](https://yugipedia.com/wiki/Divine_Arsenal_AA-ZEUS_-_Sky_Thunder) | Once per turn, if an Xyz Monster battled this turn, you can also Xyz Summon "Divine Arsenal AA-ZEUS - Sky Thunder" by using 1 Xyz Monster you control as material. (Transfer its materials to this card.) (Quick Effect): You can detach 2 materials from this card; send all other cards from the field to the GY. Once per turn, if another card(s) you control is destroyed by battle or an opponent's card effect: You can attach 1 card from your hand, Deck, or Extra Deck to this card as material. | [HOPT] If an Xyz Monster battled this turn, you can Xyz Summon this card by using 1 Xyz Monster you control as Material. (Transfer Materials). [Quick] You can detach 2 Materials from this card; Send all other cards on the field to the GY. [OPT] If another card you control is destroyed by battle or an opponent's card effect: You can attach 1 card from your hand, Deck, XD to this card as Material. |
+| [Borreload Savage Dragon](https://yugipedia.com/wiki/Borreload_Savage_Dragon) | If this card is Synchro Summoned: You can equip 1 Link Monster from your GY to this card, and if you do, place Borrel Counters on this card equal to that Link Monster's Link Rating. This card gains ATK equal to half the ATK of the monster equipped to it by its effect. When your opponent activates a card or effect (Quick Effect): You can remove 1 Borrel Counter from this card; negate the activation. You can only use this effect of "Borreload Savage Dragon" once per turn. | If this card is Synchro Summoned: You can equip 1 Link Monster from your GY to this card, and if you do, place Borrel Counters on thsi card equal to that Monster's Link Rating. This card gains ATK equal to half the ATK of the Monster equipped to it by this effect. [HOPT Quick] When your opponent activates a card or effect: You can remove 1 Borrel Counter from this card; Negate the activation. |
 
 
 <br>
