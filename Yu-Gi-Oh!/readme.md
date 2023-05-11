@@ -1,8 +1,8 @@
 # *Yu-Gi-Oh!*
 
-I’ve played *Yu-Gi-Oh!* ever since I was a child, with a fairly long interlude during the *VRAINS* era. Naturally, I watched some of *Duel Monsters* (the *Battle City* arc?), and I’ve now watchen all of *ARC-V* and *VRAINS* (in that order), and I’m currently watching *ZEXAL*.
+I’ve played *Yu-Gi-Oh!* ever since I was a child, with a fairly long interlude during the *VRAINS* era. Naturally, I watched some of *Duel Monsters* (the *Battle City* arc?). I’ve now watchen all of *ARC-V* and *VRAINS* (in that order), and I’m currently watching *ZEXAL*.
 
-Not too long ago, I fell in love with Yu-Gi-Oh once more, after being utterly blown away when I discovered I could cryze *and play with* my own custom cards on *DuelingBook*. That then led me to try the actual game again, and I crafted a *Raidraptor* deck (since I loved Kurosaki from *ARC-V*) on *DuelingNexus*, picking up (surprisingly quickly, I must say) what modern Yu-Gi-Oh feels like. After downloading *Master Duel*, I discovered how awesome *Drytron* is. And now, life is a blend of custom cards on *DuelingBook*, Dogmatik Drytron on *DuelingNexus*, *Drytron* and *Mathmech* on *Master Duel*.
+Not too long ago, I fell in love with Yu-Gi-Oh once more, after being utterly blown away when I discovered I could cryze *and play with* my own custom cards on *DuelingBook*. That then led me to try the actual game again, and I crafted a Raidraptor deck (since I loved [Kurosaki](https://yugipedia.com/wiki/Shay_Obsidian) from *ARC-V*) on *DuelingNexus*, picking up (surprisingly quickly, I must say) what modern Yu-Gi-Oh feels like. After downloading *Master Duel*, I discovered how awesome Drytron is. And now, life is a blend of custom cards on *DuelingBook*, Dogmatik Drytron on *DuelingNexus*, Drytron and Mathmech on *Master Duel*.
 
 You can watch some of my coolest duel replays [here](https://youtube.com/playlist?list=PLmmew-ndEnv0pVyNQJwBxRkIZzbuqdrvn)!
 
