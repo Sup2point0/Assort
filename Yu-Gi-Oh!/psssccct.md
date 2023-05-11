@@ -50,18 +50,10 @@ Where ‘HOPT’ represents ‘hard once per turn’. If it’s `each effect` (i
 
 Similarly, for Summon conditions:
 
-<table>
-  <tr>
-    <th align="left"> PSCT </th>
-    <td> <code>If you control a Level/Rank 2 monster, you can Special Summon this card (from your hand). You can only Special Summon "Spright Blue" once per turn this way.</code> </td>
-    <td> <code>Once per turn, you can also Xyz Summon "Cyber Dragon Infinity" by using "Cyber Dragon Nova" you control as material. (Transfer its materials to this card.)</code> </td>
-  </tr>
-  <tr>
-    <th align="left"> PSSSCCCT </th>
-    <td> <code>[HOPT] If you control a Level/Rank 2 Monster, you can SS this card (from your hand).</code> </td>
-    <td> <code>[HOPT] You can also Xyz Summon this card by using a "Cyber Dragon Nova" you control as Material. (Transfer Materials.)</code> </td>
-  </tr>
-</table>
+| PSCT | PSSSCCCT |
+| :--- | :------- |
+| `If you control a Level/Rank 2 monster, you can Special Summon this card (from your hand). You can only Special Summon "Spright Blue" once per turn this way.` | `[HOPT] If you control a Level/Rank 2 Monster, you can SS this card (from your hand).` |
+| `Once per turn, you can also Xyz Summon "Cyber Dragon Infinity" by using "Cyber Dragon Nova" you control as material. (Transfer its materials to this card.)` | `[HOPT] You can also Xyz Summon this card by using a "Cyber Dragon Nova" you control as Material. (Transfer Materials.)` |
 
 For the other types, some are placed into a modifyzer before, while others are left as they are to avoid confusion.
 
