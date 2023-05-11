@@ -101,6 +101,10 @@ So, a lot of the changes will tackle inconsistencys in structure and capitalyzac
   </tr>
 </table>
 
+| card | PSCT | PSSSCCCT |
+| :--- | :--- | :------- |
+| ![Divine Arsenal AA-ZEUS - Sky Thunder](https://ms.yugipedia.com//thumb/b/bf/DivineArsenalAAZEUSSkyThunder-OP18-EN-UtR-UE.png/826px-DivineArsenalAAZEUSSkyThunder-OP18-EN-UtR-UE.png) | Once per turn, if an Xyz Monster battled this turn, you can also Xyz Summon "Divine Arsenal AA-ZEUS - Sky Thunder" by using 1 Xyz Monster you control as material. (Transfer its materials to this card.) (Quick Effect): You can detach 2 materials from this card; send all other cards from the field to the GY. Once per turn, if another card(s) you control is destroyed by battle or an opponent's card effect: You can attach 1 card from your hand, Deck, or Extra Deck to this card as material. | [HOPT] If an Xyz Monster battled this turn, you can Xyz Summon this card by using 1 Xyz Monster you control as Material. (Transfer Materials). [Quick] You can detach 2 Materials from this card; Send all other cards on the field to the GY. [OPT] If another card you control is destroyed by battle or an opponent's card effect: You can attach 1 card from your hand, Deck, XD to this card as Material. |
+
 
 <br>
 
