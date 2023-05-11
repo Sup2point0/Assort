@@ -42,17 +42,19 @@ Now, there are different kinds of once per turn restrictions, so only the 3 most
   </tr>
 </table>
 
-If it’s `use each effect`, then `[HOPT]` goes before every applicable effect. This also brings the added advantage of being able to easily designate each effect different turnly restrictions, facilityzing more flexible card design. It also means `you can only use *each of the following* effects of [...] once per turn` will be no more.
+If it’s `use each effect`, then `[HOPT]` goes before every applicable effect. This also brings the added advantage of being able to easily designate each effect different turnly restrictions, facilityzing more flexible card design. It also means `you can only use each of the following effects of [...] once per turn` will be no more.
 
-This even works for Summon conditions:
+This also works for Summon conditions:
 
 <table>
   <tr>
     <th align="left"> PSCT </th>
-    <td> <code>Once per turn, you can also Xyz Summon "Cyber Dragon Infinity" by using "Cyber Dragon Nova" you control as material. (Transfer its materials to this card.)</code> </td>
+    <td> <code>If you control a Level/Rank 2 monster, you can Special Summon this card (from your hand). You can only Special Summon "Spright Blue" once per turn this way.</code> </td>
   </tr>
+    <td> <code>Once per turn, you can also Xyz Summon "Cyber Dragon Infinity" by using "Cyber Dragon Nova" you control as material. (Transfer its materials to this card.)</code> </td>
   <tr>
     <th align="left"> PSSSCCCT </th>
+    <td> <code>[HOPT] If you control a Level/Rank 2 Monster, you can SS this card (from your hand).</code> </td>
     <td> <code>[HOPT] You can also Xyz Summon this card by using a "Cyber Dragon Nova" you control as Material. (Transfer Materials.)</code> </td>
   </tr>
 </table>
