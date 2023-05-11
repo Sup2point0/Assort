@@ -50,8 +50,8 @@ This also works for Summon conditions:
   <tr>
     <th align="left"> PSCT </th>
     <td> <code>If you control a Level/Rank 2 monster, you can Special Summon this card (from your hand). You can only Special Summon "Spright Blue" once per turn this way.</code> </td>
-  </tr>
     <td> <code>Once per turn, you can also Xyz Summon "Cyber Dragon Infinity" by using "Cyber Dragon Nova" you control as material. (Transfer its materials to this card.)</code> </td>
+  </tr>
   <tr>
     <th align="left"> PSSSCCCT </th>
     <td> <code>[HOPT] If you control a Level/Rank 2 Monster, you can SS this card (from your hand).</code> </td>
