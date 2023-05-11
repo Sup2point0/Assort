@@ -46,7 +46,7 @@ Now, there are different kinds of once per turn restrictions, so only the 2 most
   </tr>
 </table>
 
-Where ‘HOPT’ represents ‘hard once per turn’. If it’s `each effect` (instead of `this effect`), then `[HOPT]` goes before every applicable effect. This also brings the added advantage of being able to easily designate each effect different turnly restrictions, facilityzing more flexible card design. It also means `you can only use each of the following effects of {...} once per turn` will be no more, which always disrupts text structure.
+Where `HOPT` represents ‘hard once per turn’. If it’s `each effect` (instead of `this effect`), then `[HOPT]` goes before every applicable effect. This also brings the added advantage of being able to easily designate each effect different turnly restrictions, facilityzing more flexible card design. It also means `you can only use each of the following effects of {...} once per turn` will be no more, which always disrupts text structure.
 
 Similarly, for Summon conditions:
 
@@ -55,21 +55,15 @@ Similarly, for Summon conditions:
 | `If you control a Level/Rank 2 monster, you can Special Summon this card (from your hand). You can only Special Summon "Spright Blue" once per turn this way.` | `[HOPT] If you control a Level/Rank 2 Monster, you can SS this card (from your hand).` |
 | `Once per turn, you can also Xyz Summon "Cyber Dragon Infinity" by using "Cyber Dragon Nova" you control as material. (Transfer its materials to this card.)` | `[HOPT] You can also Xyz Summon this card by using a "Cyber Dragon Nova" you control as Material. (Transfer Materials.)` |
 
-For the other types, some are placed into a modifyzer before, while others are left as they are to avoid confusion.
-
-{...}
-
-To clarityze:
+For the other types, some are placed into a modifyzer before, while others are left as they are to avoid confusion. To summaryze:
 
 | PSCT | PSSSCCCT |
 | :--- | :------- |
 | `Once per turn: You can discard 1 card; draw 1 card.` | `[OPT]: You can discard 1 card; Draw 1 card.` |
+| `Once per Chain, if a card is discarded: Draw 1 card.` | `[Once per Chain] If a card is discarded: Draw 1 card.` |
 | `You can discard 1 card; draw 1 card. You can only this effect of {...} once per turn.` | `[HOPT] You can discard 1 card; Draw 1 card.` |
+| `If a card is discarded: Draw 1 card. You can only this effect of {...} once per Chain.` | `[Hard Once Per Chain] If a card is discarded: Draw 1 card.` |
 | `{effect}. {effect}. You can only use 1 {...} effect per turn, and only once that turn.` | `[HOPT] {effect}. [HOPT] {effect}. You can only use 1 effect of {...} each turn.` |
-
-
-
-{...}
 
 ### Capitalyzacion
 The main thing PSCT’s got going for it is how it ensures consistency in effect wording. But it really, really annoys me how it’s *consistently inconsistent*. In particular, there are some keywords that aren’t capitalyzen by themselves, but *are* when modifyzen by another word. Observe:
@@ -82,6 +76,30 @@ The main thing PSCT’s got going for it is how it ensures consistency in effect
 Then there’s the weird capitalyzacion of effects – `Condition: Cost; resolution` – where the text after a colon is capitalyzen, but not after the semicolon, what’s up with that?
 
 So, a lot of the changes will tackle inconsistencys in structure and capitalyzacion, while condensing several well-known key words or phrases – above all, the aim was to maintain readability alongside balancing efficiency.
+
+
+<br>
+
+
+## Cases
+
+<table>
+  <tr>
+    <th> card </th>
+    <td> <img src="https://ms.yugipedia.com//b/bf/DivineArsenalAAZEUSSkyThunder-OP18-EN-UtR-UE.png"> </td>
+    <td> <img src="https://ms.yugipedia.com//b/bc/BorreloadSavageDragon-BLCR-EN-ScR-1E.png"> </td>
+  </tr>
+  <tr>
+    <th> PSCT </th>
+    <td> Once per turn, if an Xyz Monster battled this turn, you can also Xyz Summon "Divine Arsenal AA-ZEUS - Sky Thunder" by using 1 Xyz Monster you control as material. (Transfer its materials to this card.) (Quick Effect): You can detach 2 materials from this card; send all other cards from the field to the GY. Once per turn, if another card(s) you control is destroyed by battle or an opponent's card effect: You can attach 1 card from your hand, Deck, or Extra Deck to this card as material. </td>
+    <td> If this card is Synchro Summoned: You can equip 1 Link Monster from your GY to this card, and if you do, place Borrel Counters on this card equal to that Link Monster's Link Rating. This card gains ATK equal to half the ATK of the monster equipped to it by its effect. When your opponent activates a card or effect (Quick Effect): You can remove 1 Borrel Counter from this card; negate the activation. You can only use this effect of "Borreload Savage Dragon" once per turn. </td>
+  </tr>
+  <tr>
+    <th> PSSSCCCT </th>
+    <td> [HOPT] If an Xyz Monster battled this turn, you can Xyz Summon this card by using 1 Xyz Monster you control as Material. (Transfer Materials). [Quick] You can detach 2 Materials from this card; Send all other cards on the field to the GY. [OPT] If another card you control is destroyed by battle or an opponent's card effect: You can attach 1 card from your hand, Deck, XD to this card as Material. </td>
+    <td> If this card is Synchro Summoned: You can equip 1 Link Monster from your GY to this card, and if you do, place Borrel Counters on thsi card equal to that Monster's Link Rating. This card gains ATK equal to half the ATK of the Monster equipped to it by this effect. [HOPT Quick] When your opponent activates a card or effect: You can remove 1 Borrel Counter from this card; Negate the activation. </td>
+  </tr>
+</table>
 
 
 <br>
