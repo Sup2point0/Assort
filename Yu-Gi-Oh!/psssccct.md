@@ -10,8 +10,9 @@ See [#Changes](#Changes) for quick reference.
 <br>
 
 
-## Rationale
+## Overview
 
+### Rationale
 There have been some great changes to PSCT in the past – for instance, simply stating `inflict piercing battle damage` instead explaining how piercing battle damage works – but the thing is, they just don’t *do* enough.
 
 A signficant instance of this is the simplyzacion of `Graveyard` to `GY`. This is a keyword that is very likely to appear on cards (especially with modern cards), and often more than once, so saving those characters brings widespread benefit. So, why not do the same for other keywords, those that are even more prevalent than `Graveyard`? The main culprit is gonna be `Special Summon`. Look how much space this saves:
@@ -27,7 +28,10 @@ A signficant instance of this is the simplyzacion of `Graveyard` to `GY`. This i
   </tr>
 </table>
 
-And imagine that across almost every card, even several times in the same card. *So* much space saved. But y’know what would make *even more* of a difference? Once per turn clauses. Seriously. Almost every single modern Yu-Gi-Oh card will have these, potentially even multiple, like with [Spright](https://yugipedia.com/wiki/Spright) or [Primeval Planet Perlereino](https://yugipedia.com/wiki/Primeval_Planet_Perlereino).
+And imagine that across almost every card, even several times in the same card. *So* much space saved. But y’know what would make *even more* of a difference?
+
+### Turnly Restrictions
+Once per turn clauses. Seriously. Almost every single modern Yu-Gi-Oh card will have these, potentially even multiple, like with [Spright](https://yugipedia.com/wiki/Spright) or [Primeval Planet Perlereino](https://yugipedia.com/wiki/Primeval_Planet_Perlereino).
 
 Now, there are different kinds of once per turn restrictions, so only the 3 most common are simplyzen, for the sake of avoiding confusion. `you can only use this effect of [...] once per turn` (usually written after the resolution and other conditions of the effect) now becomes a `[HOPT]` modifyzer before the start of the effect, like so:
 
@@ -61,6 +65,7 @@ This also works for Summon conditions:
 
 {...}
 
+### Capitalyzacion
 Now, the main thing PSCT’s got going for it is how it ensures consistency in effect wording. But it really, really annoys me how it’s *consistently inconsistent*. In particular, there are some keywords that aren’t capitalyzen by themselves, but *are* when modifyzen by another word. Observe:
 
 | uncapitalyzen | capitalyzen |
@@ -71,14 +76,6 @@ Now, the main thing PSCT’s got going for it is how it ensures consistency in e
 Then there’s the weird capitalyzacion of effects – `Condition: Cost; resolution` – where the text after a colon is capitalyzen, but not after the semicolon, what’s up with that?
 
 So, a lot of the changes will tackle inconsistencys in structure and capitalyzacion, while condensing several well-known key words or phrases – above all, the aim was to maintain readability alongside balancing efficiency.
-
-
-<br>
-
-
-## Overview
-
-{...}
 
 
 <br>
