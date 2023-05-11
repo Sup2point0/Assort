@@ -2,7 +2,7 @@
 
 An archetype of LIGHT Celestial Warrior monsters, inspired by the [*Mekk-Knight*](https://yugipedia.com/wiki/Mekk-Knight) archetype.
 
-The *Hi-Tekk-Knight* subarchetype features 1 monster for each Summoning tecnique (Ritual/Fusion/Synchro/Xyz/Link), which can all be Summoned using 2 *Tekk-Knight* monsters. The [*Ark-Knight*](Ark-Knight.md) subarchetype then consists of further upgraded monsters for each Summoning tecnique (except Ritual), which all require 2 *Hi-Tekk-Knight* monsters to Summon.
+The *Hi-Tekk-Knight* subarchetype features 1 monster for each Summoning tecnique (Ritual/Fusion/Synchro/Xyz/Link), which can all be Summoned using 2 *Tekk-Knight* monsters. The [*Dekk-Knight*](Dekk-Knight.md) subarchetype then consists of further upgraded monsters for each Summoning tecnique (except Ritual), which all require 2 *Hi-Tekk-Knight* monsters to Summon.
 
 The archetype is supported by the [*World Affinity*](World%20Affinity.md) archetype.
 
@@ -18,7 +18,7 @@ The archetype is supported by the [*World Affinity*](World%20Affinity.md) archet
 | Fusion   | x1 |
 | Synchro  | x1 |
 | Xyz      | x1 |
-| Link     | x3 |
+| Link     | x2 |
 
 ### Monsters
 
