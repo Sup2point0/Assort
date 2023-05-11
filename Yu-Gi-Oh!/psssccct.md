@@ -27,7 +27,35 @@ A signficant instance of this is the simplyzacion of `Graveyard` to `GY`. This i
   </tr>
 </table>
 
-And imagine that across almost every card, even several times in the same card. *So* much space saved
+And imagine that across almost every card, even several times in the same card. *So* much space saved. But y’know what would make *even more* of a difference? Once per turn clauses. Seriously. Almost every single modern Yu-Gi-Oh card will have these, potentially even multiple, like with [Spright](https://yugipedia.com/wiki/Spright) or [Primeval Planet Perlereino](https://yugipedia.com/wiki/Primeval_Planet_Perlereino).
+
+Now, there are different kinds of once per turn restrictions, so only the 3 most common are simplyzen, for the sake of avoiding confusion. `you can only use this effect of [...] once per turn` (usually written after the resolution and other conditions of the effect) now becomes a `[HOPT]` modifyzer before the start of the effect, like so:
+
+<table>
+  <tr>
+    <th align="left"> PSCT </th>
+    <td> <code>If a card(s) in your Pendulum Zone leaves the field: Draw 1 card. You can only use this effect of "Heavymetalfoes Electrumite" once per turn.</code> </td>
+  </tr>
+  <tr>
+    <th align="left"> PSSSCCCT </th>
+    <td> <code>[HOPT] If a card in your Pendulum Zone leaves the field: Draw 1 card.</code> </td>
+  </tr>
+</table>
+
+If it’s `use each effect`, then `[HOPT]` goes before every applicable effect. This also brings the added advantage of being able to easily designate each effect different turnly restrictions, facilityzing more flexible card design. It also means `you can only use *each of the following* effects of [...] once per turn` will be no more.
+
+This even works for Summon conditions:
+
+<table>
+  <tr>
+    <th align="left"> PSCT </th>
+    <td> <code>Once per turn, you can also Xyz Summon "Cyber Dragon Infinity" by using "Cyber Dragon Nova" you control as material. (Transfer its materials to this card.)</code> </td>
+  </tr>
+  <tr>
+    <th align="left"> PSSSCCCT </th>
+    <td> <code>[HOPT] You can also Xyz Summon this card by using a "Cyber Dragon Nova" you control as Material. (Transfer Materials.)</code> </td>
+  </tr>
+</table>
 
 {...}
 
@@ -35,7 +63,12 @@ Now, the main thing PSCT’s got going for it is how it ensures consistency in e
 
 | uncapitalyzen | capitalyzen |
 | :------------ | :---------- |
-| 
+| `target 1 monster you control` | `target 1 Xyz Monster you control` <br> `1 Tuner Synchro Monster + 1+ non-Tuner monsters` |
+| `a zone this card links to` | `your Spell/Trap Zone` <br> `if this card in the Monster Zone is destroyed` |
+
+Then there’s the weird capitalyzacion of effects – `Condition: Cost; resolution` – where the text after a colon is capitalyzen, but not after the semicolon, what’s up with that?
+
+So, a lot of the changes will tackle inconsistencys in structure and capitalyzacion, while condensing several well-known key words or phrases – above all, the aim was to maintain readability alongside balancing efficiency.
 
 
 <br>
