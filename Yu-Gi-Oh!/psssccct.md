@@ -4,7 +4,7 @@ Card text in *Yu-Gi-Oh!* is wonderfully written (in that it flows like regular t
 
 And so, here’s *PSSSCCCT*, the successor to PSCT, which I exclusively utilyze on DuelingBook to allow the opponent (and me) to far more easily interpret and keep track of what all my cards do.
 
-See [#Changes](#Changes) for quick reference.
+See [§ Changes](#Changes) for quick reference.
 
 
 <br>
@@ -28,12 +28,12 @@ A signficant instance of this is the simplyzacion of `Graveyard` to `GY`. This i
   </tr>
 </table>
 
-And imagine that across almost every card, even several times in the same card. *So* much space saved. But y’know what would make *even more* of a difference?
+And imagine that across almost every card, even several times in the same card. But y’know what would make *even more* of a difference?
 
 ### Turnly Restrictions
-Once per turn clauses. Seriously. Almost every single modern Yu-Gi-Oh card will have these, potentially even multiple, like with [Spright](https://yugipedia.com/wiki/Spright) or [Primeval Planet Perlereino](https://yugipedia.com/wiki/Primeval_Planet_Perlereino).
+Once per turn clauses. Seriously. Almost every single modern Yu-Gi-Oh card will have these – potentially even multiple, like with [Spright](https://yugipedia.com/wiki/Spright) Monsters or [Primeval Planet Perlereino](https://yugipedia.com/wiki/Primeval_Planet_Perlereino).
 
-Now, there are different kinds of once per turn restrictions, so only the 3 most common are simplyzen, for the sake of avoiding confusion. `you can only use this effect of [...] once per turn` (usually written after the resolution and other conditions of the effect) now becomes a `[HOPT]` modifyzer before the start of the effect, like so:
+Now, there are different kinds of once per turn restrictions, so only the 2 most common are simplyzen, for the sake of avoiding confusion. `you can only use this effect of {...} once per turn` (note `use` instead of `activate`), usually written after the resolution and other conditions of the effect, now becomes a `[HOPT]` modifyzer before the start of the effect, like so:
 
 <table>
   <tr>
@@ -46,9 +46,9 @@ Now, there are different kinds of once per turn restrictions, so only the 3 most
   </tr>
 </table>
 
-If it’s `use each effect`, then `[HOPT]` goes before every applicable effect. This also brings the added advantage of being able to easily designate each effect different turnly restrictions, facilityzing more flexible card design. It also means `you can only use each of the following effects of [...] once per turn` will be no more.
+Where ‘HOPT’ represents ‘hard once per turn’. If it’s `each effect` (instead of `this effect`), then `[HOPT]` goes before every applicable effect. This also brings the added advantage of being able to easily designate each effect different turnly restrictions, facilityzing more flexible card design. It also means `you can only use each of the following effects of {...} once per turn` will be no more, which always disrupts text structure.
 
-This also works for Summon conditions:
+Similarly, for Summon conditions:
 
 <table>
   <tr>
@@ -63,10 +63,24 @@ This also works for Summon conditions:
   </tr>
 </table>
 
+For the other types, some are placed into a modifyzer before, while others are left as they are to avoid confusion.
+
+{...}
+
+To clarityze:
+
+| PSCT | PSSSCCCT |
+| :--- | :------- |
+| `Once per turn: You can discard 1 card; draw 1 card.` | `[OPT]: You can discard 1 card; Draw 1 card.` |
+| `You can discard 1 card; draw 1 card. You can only this effect of {...} once per turn.` | `[HOPT] You can discard 1 card; Draw 1 card.` |
+| `{effect}. {effect}. You can only use 1 {...} effect per turn, and only once that turn.` | `[HOPT] {effect}. [HOPT] {effect}. You can only use 1 effect of {...} each turn.` |
+
+
+
 {...}
 
 ### Capitalyzacion
-Now, the main thing PSCT’s got going for it is how it ensures consistency in effect wording. But it really, really annoys me how it’s *consistently inconsistent*. In particular, there are some keywords that aren’t capitalyzen by themselves, but *are* when modifyzen by another word. Observe:
+The main thing PSCT’s got going for it is how it ensures consistency in effect wording. But it really, really annoys me how it’s *consistently inconsistent*. In particular, there are some keywords that aren’t capitalyzen by themselves, but *are* when modifyzen by another word. Observe:
 
 | uncapitalyzen | capitalyzen |
 | :------------ | :---------- |
