@@ -57,6 +57,8 @@ The archetype is supported by the [*World Affinity*](World%20Affinity.md) archet
 
 ## Strategics
 
+> See [k-Knight](k-Knight.md) for more.
+
 ### Effects
 All of the Level 4 Main Deck monsters share the following effect:
 
