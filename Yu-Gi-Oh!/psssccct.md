@@ -86,7 +86,7 @@ So, a lot of the changes will tackle inconsistencys in structure and capitalyzac
 <table>
   <tr>
     <th> card </th>
-    <td> <img src="https://ms.yugipedia.com//b/bf/DivineArsenalAAZEUSSkyThunder-OP18-EN-UtR-UE.png"> </td>
+    <td> <img src="https://ms.yugipedia.com//thumb/b/bf/DivineArsenalAAZEUSSkyThunder-OP18-EN-UtR-UE.png/826px-DivineArsenalAAZEUSSkyThunder-OP18-EN-UtR-UE.png"> </td>
     <td> <img src="https://ms.yugipedia.com//b/bc/BorreloadSavageDragon-BLCR-EN-ScR-1E.png"> </td>
   </tr>
   <tr>
