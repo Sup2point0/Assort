@@ -43,4 +43,7 @@ A superarchetype of Celestial Warrior Monsters, harnessing every Summon tecnique
 
 ## Trivia
 
-‘’ ◈ ⚡︎ ∞ ✦ ⟡ ↵
+- There are several overlaps between the archetypes.
+  - ‘Tekk-Knight’ includes both *Tekk-Knight* and *Hi-Tekk-Knight* Monsters.
+  - ‘Ark-Knight’ includes both *Ark-Knight* and *Dark-Knight* Monsters.
+  - As a result, [*World Affinity*](World%20Affinity.md) cards that require a ‘strong’ Monster to activate explicitly specify `a 'Hi-Tekk-Knight', 'Dekk-Knight' or 'Ark-Knight' Monster`, since there is no better way to exclude only *Tekk-Knight* Monsters (and not *Hi-Tekk-Knight* Monsters).
