@@ -14,6 +14,7 @@ The archetype is supported by the [*World Affinity*](World%20Affinity.md) archet
 
 | type | count |
 | :--- | :---- |
+| Tuner   | x3 |
 | Ritual  | x1 |
 | Fusion  | x1 |
 | Synchro | x1 |
@@ -45,7 +46,7 @@ The archetype is supported by the [*World Affinity*](World%20Affinity.md) archet
 | [Tekk-Knight Azure Iris](../cards/monsters/link/Hi-Tekk-Knight%20–.md) | Link-1 | 2000 | Link | 1 Lv4- ‘Tekk-Knight’ Monster |
 | [Hi-Tekk-Knight Radiant Spectre](../cards/monsters/fusion/Hi-Tekk-Knight%20–.md) | 8 ★★★★★★★★ | 2500 / 1600 | Fusion | 2 ‘Tekk-Knight’ Monsters with different Attributes |
 | [Hi-Tekk-Knight Lucent Edge](../cards/monsters/synchro/Hi-Tekk-Knight%20–.md) | 8 ★★★★★★★★ | 2500 / 1600 | Synchro | 2 ‘Tekk-Knight’ Monsters, including a Tuner |
-| [Hi-Tekk-Knight Shining Dawn](../cards/monsters/xyz/Hi-Tekk-Knight%20–.md) | 4 ★★★★ | 2500 / 1600 | Xyz | 2 Lv4 ‘Tekk-Knight’ monsters |
+| [Hi-Tekk-Knight Shining Dawn](../cards/monsters/xyz/Hi-Tekk-Knight%20–.md) | 4 ★★★★ | 2500 / 1600 | Xyz Tuner | 2 Lv4 ‘Tekk-Knight’ monsters |
 | [Hi-Tekk-Knight Crystalline Lustre](../cards/monsters/link/Hi-Tekk-Knight%20–.md) | Link-2 | 2500 | Link | 2 ‘Tekk-Knight’ Monsters with different names |
 
 </details>
