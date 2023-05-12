@@ -75,4 +75,6 @@ Also known as 'everything is a human construct'.
 
 ***There is no glass, life is a lie.***
 
-***You can, but you can't.***
+***I can, but I can't.***
+
+***smh my life***
