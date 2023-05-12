@@ -10,6 +10,7 @@ An archetype of DARK Cyberse Monsters, harnessing Synchro, Xyz, Link Summoning a
 
 | type | count |
 | :--- | :---- |
+| Tuner   | x3 |
 | Ritual  | x1 |
 | Synchro | x4 |
 | Xyz     | x3 |
@@ -22,35 +23,35 @@ An archetype of DARK Cyberse Monsters, harnessing Synchro, Xyz, Link Summoning a
 
 | card | Level | ATK/DEF | Type |
 | :--- | :---- | :------ | :--- |
-| [Rubic Angular](../cards/monsters/standard/–.md) | 3 ★★★ | 900 / 0 | |
-| [Rubic Axis](../cards/monsters/standard/–.md) | 3 ★★★ | 0 / 900 | |
-| [Rubic Sine](../cards/monsters/standard/–.md) | 3 ★★★ | 600 / 300 | Tuner |
-| [Rubic Cosine](../cards/monsters/standard/–.md) | 3 ★★★ | 300 / 600 | Tuner |
-| [Rubic Secant](../cards/monsters/standard/–.md) | 6 ★★★★★★ | 900 / 1800 | |
-| [Rubic Cosecant](../cards/monsters/standard/–.md) | 6 ★★★★★★ | 1800 / 900 | |
-| [Rubic Driangle](../cards/monsters/ritual/–.md) | 9 ★★★★★★★★★ | 3000 / 1800 | Ritual |
-| [Rubic Token](../cards/monsters/tokens/–.md) | 3 ★★★ | 300 / 0 | |
+| [Rubic Angular](../cards/monsters/standard/Rubic%20Angular.md) | 3 ★★★ | 900 / 0 | |
+| [Rubic Axis](../cards/monsters/standard/Rubic%20Axis.md) | 3 ★★★ | 0 / 900 | |
+| [Rubic Sine](../cards/monsters/standard/Rubic%20Sine.md) | 3 ★★★ | 600 / 300 | Tuner |
+| [Rubic Cosine](../cards/monsters/standard/Rubic%20Cosine.md) | 3 ★★★ | 300 / 600 | Tuner |
+| [Rubic Secant](../cards/monsters/standard/Rubic%20Secant.md) | 6 ★★★★★★ | 900 / 1800 | |
+| [Rubic Cosecant](../cards/monsters/standard/Rubic%20Cosecant.md) | 6 ★★★★★★ | 1800 / 900 | |
+| [Rubic Driangle](../cards/monsters/ritual/Rubic%20Driangle.md) | 9 ★★★★★★★★★ | 3000 / 1800 | Ritual |
+| [Rubic Token](../cards/monsters/tokens/Rubic%20Token.md) | 3 ★★★ | 300 / 0 | |
 
 </details>
 
 <details open>
   <summary> <b> Extra Deck </b> </summary> <br>
 
-| card | Level/Rank/Link | ATK/DEF | Type | material |
+| card | Level/Rank/Link | ATK/DEF | Type | Material |
 | :--- | :-------------- | :------ | :--- | :------- |
-| [Rubic Versine](../cards/monsters/synchro/–.md) | 6 ★★★★★★ | 2400 / 1800 | Synchro | 1 ‘Rubic’ Tuner + 1 ‘Rubic’ non-Tuner Monster |
-| [Rubic Vercosine](../cards/monsters/synchro/–.md) | 6 ★★★★★★ | 1800 / 2400 | Synchro Tuner | 1 ‘Rubic’ Tuner + 1 ‘Rubic’ non-Tuner Monster |
-| [Rubic Haversine](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | 3000 / 2400 | Synchro | 1+ ‘Rubic’ Tuners + 1+ ‘Rubic’ non-Tuner Monsters |
-| [Rubic Arcsine](../cards/monsters/synchro/–.md) | 12 ★★★★★★★★★★★★ | 3600 / 2700 | Synchro | 1+ ‘Rubic’ Tuners + 1+ ‘Rubic’ non-Tuner Monsters |
-| [Rubic Exsecant](../cards/monsters/xyz/–.md) | 3 ★★★ | 2100 / 1500 | Xyz | 2+ Level 3 ‘Rubic’ Monsters |
-| [Rubic Excosecant](../cards/monsters/xyz/–.md) | 6 ★★★★★★ | 2700 / 2100 | Xyz | 2+ Level 6 ‘Rubic’ Monsters |
-| [Rubic Arcsecant](../cards/monsters/xyz/–.md) | 9 ★★★★★★★★★ | 3300 / 2700 | Xyz | 2+ Level 9 ‘Rubic’ Monsters |
-| [Rubic Radian](../cards/monsters/link/–.md) | Link-1 | 1000 | Link | 1 ‘Rubic’ Monster |
-| [Rubic Diagonal](../cards/monsters/link/–.md) | Link-2 | 2000 | Link | 2 ‘Rubic’ Monsters |
-| [Rubic Perpendicular](../cards/monsters/link/–.md) | Link-2 | 2000 | Link | 2 ‘Rubic’ Monsters |
-| [Rubic Vertex](../cards/monsters/link/–.md) | Link-3 | 3000 | Link | 2 ‘Rubic’ Monsters |
-| [Rubic Quadrangle](../cards/monsters/link/–.md) | Link-4 | 4000 | Link | 2 ‘Rubic’ Monsters |
-| [Rubic Hexangle](../cards/monsters/link/–.md) | Link-6 | 600 | Link | 3 ‘Rubic’ Monsters |
+| [Rubic Versine](../cards/monsters/synchro/Rubic%20Versine.md) | 6 ★★★★★★ | 2400 / 1800 | Synchro | 1 ‘Rubic’ Tuner + 1 ‘Rubic’ non-Tuner Monster |
+| [Rubic Vercosine](../cards/monsters/synchro/Rubic%20Vercosine.md) | 6 ★★★★★★ | 1800 / 2400 | Synchro Tuner | 1 ‘Rubic’ Tuner + 1 ‘Rubic’ non-Tuner Monster |
+| [Rubic Haversine](../cards/monsters/synchro/Rubic%20Haversine.md) | 9 ★★★★★★★★★ | 3000 / 2400 | Synchro | 1+ ‘Rubic’ Tuners + 1+ ‘Rubic’ non-Tuner Monsters |
+| [Rubic Arcsine](../cards/monsters/synchro/Rubic%20Arcsine.md) | 12 ★★★★★★★★★★★★ | 3600 / 2700 | Synchro | 1+ ‘Rubic’ Tuners + 1+ ‘Rubic’ non-Tuner Monsters |
+| [Rubic Exsecant](../cards/monsters/xyz/Rubic%20Exsecant.md) | 3 ★★★ | 2100 / 1500 | Xyz | 2+ Level 3 ‘Rubic’ Monsters |
+| [Rubic Excosecant](../cards/monsters/xyz/Rubic%20Excosecant.md) | 6 ★★★★★★ | 2700 / 2100 | Xyz | 2+ Level 6 ‘Rubic’ Monsters |
+| [Rubic Arcsecant](../cards/monsters/xyz/Rubic%20Arcsecant.md) | 9 ★★★★★★★★★ | 3300 / 2700 | Xyz | 2+ Level 9 ‘Rubic’ Monsters |
+| [Rubic Radian](../cards/monsters/link/Rubic%20Radian.md) | Link-1 | 1000 | Link | 1 ‘Rubic’ Monster |
+| [Rubic Diagonal](../cards/monsters/link/Rubic%20Diagonal.md) | Link-2 | 2000 | Link | 2 ‘Rubic’ Monsters |
+| [Rubic Perpendicular](../cards/monsters/link/Rubic%20Perpendicular.md) | Link-2 | 2000 | Link | 2 ‘Rubic’ Monsters |
+| [Rubic Vertex](../cards/monsters/link/Rubic%20Vertex.md) | Link-3 | 3000 | Link | 2 ‘Rubic’ Monsters |
+| [Rubic Quadrangle](../cards/monsters/link/Rubic%20Quadrangle.md) | Link-4 | 4000 | Link | 2 ‘Rubic’ Monsters |
+| [Rubic Hexangle](../cards/monsters/link/Rubic%20Hexangle.md) | Link-6 | 600 | Link | 3 ‘Rubic’ Monsters |
 
 </details>
 
@@ -425,11 +426,11 @@ If going second, a *Single-Attack-Kill* (SAK) can easily be achieved through att
 
 ### Tech Picks
 
-- [Foolish Exile]() can banish a [Lv3 Tuner](#Level-3-Tuners) to trigger their effect and easily search a card, while also sending them into circulyzacion.
-- [Foolish Burial Trade]() works nicely too, recovering banished Extra Deck Monsters and recycling Spell/Traps.
-- [Final Vanquish]() works well, since the archetype utilyzes every Summoning tecnique except Fusion.
+- [Foolish Exile](../cards/spells/Foolish%20Exile.md) can banish a [Lv3 Tuner](#Level-3-Tuners) to trigger their effect and easily search a card, while also sending them into circulyzacion.
+- [Foolish Burial Trade](../cards/spells/Foolish%20Burial%20Trade.md) works nicely too, recovering banished Extra Deck Monsters and recycling Spell/Traps.
+- [Final Vanquish](../cards/spells/Final%20Vanquish.md) works well, since the archetype utilyzes every Summoning tecnique except Fusion.
   - The banished Monster can then be retrieved by [Axis](#Level-3-non-Tuners) if needed.
-- [Awakening the Drakon]() can be highly effective at dropping a surprise [Angle Link Monster](#Link-Monsters) on the opponent.
+- [Awakening the Drakon](../cards/traps/Awakening%20the%20Drakon.md) can be highly effective at dropping a surprise [Angle Link Monster](#Link-Monsters) on the opponent.
 
 ### Weaknesses
 Since several of the archetype’s effects involve moving cards to appropriate adjacent zones, with clever planning and management this can be overcome by the opponent, by placing valuable cards where they cannot be moved – alternatively, spamming cards and blocking every zone entirely works too. As such, the deck also suffers from overextending itself, since having too many cards on the field restricts movement.
