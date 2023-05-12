@@ -57,10 +57,10 @@ The archetype is supported by the [*World Affinity*](World%20Affinity.md) archet
 
 ## Overview
 
-### Level 4 Monsters
-The Level 4 Monsters share the following effect:
+### *Tekk-Knight* Monsters
+The Main Deck Monsters that are not *Hi-Tekk-Knight* Monsters are Level 4, and share the following effect:
 
-> If a column contains 2 or more cards: You can Special Summon this card from your hand to a Zone in an adjacent column, then you can {...}.
+> If a column contains exactly 2 cards: You can Special Summon this card from your hand to a Zone in an adjacent column, then you can {...}.
 
 Additionally, each has an effect to search or recover a different Monster upon being sent to the Graveyard.
 
@@ -74,6 +74,8 @@ Additionally, each has an effect to search or recover a different Monster upon b
 | [Violet Sorrow](#Monsters) | destroy a Spell/Trap in its column | Deck |
 | [Teal Avidity](#Monsters) | revive a *Tekk-Knight* monster | Grave |
 | [Neon Hope](#Monsters) | change the placement of a card on the field | Deck |
+
+### *Hi-Tekk-Knight* Monsters
 
 
 <br>
@@ -107,8 +109,8 @@ The other *Tekk-Knight* monsters are useful for going second to breakup the oppo
 
 ## Trivia
 
-- The effect of the Lv4 Main Deck Monsters is an upgraded version of the effect of the [*Mekk-Knights*](https://yugipedia.com/wiki/Mekk-Knight).
-  - While *Mekk-Knights* Special Summon themselves to a column with 2+ cards, *Tekk-Knights* Summon to an adjacent column.
+- The effect of the Lv4 Main Deck Monsters is an upgraded version (to an extent) of the effect of the [*Mekk-Knights*](https://yugipedia.com/wiki/Mekk-Knight).
+  - While *Mekk-Knights* Special Summon themselves to a column with 2+ cards, *Tekk-Knights* Summon to a column *adjacent* to another with *exactly* 2 cards.
 - *Tekk-Knight* is a pun on ‘Tech Knight’, alike to *Mekk-Knight* sounding like ‘Mech Knight’ (despite this not being the actual etymologics).
   - Similarly, *Hi-Tekk-Knight* is a pun on ‘High Tech Knight’.
 - The names of the Main Deck Monsters (and the Link-1 [Tekk-Knight Azure Iris](#Monsters)) follow the pattern `<colour> <abstract>`, where `abstract` is an emotion or phenomenon.
