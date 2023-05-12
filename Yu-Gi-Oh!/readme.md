@@ -35,8 +35,8 @@ Downright remakes of existing archetypes, one of my favourite things to do.
 | [Technyx](https://duelingbook.com/deck?id=11617228) | Fusion, Xyz, Link | [Next-Gen](archetypes/Next-Gen.md) [Cyber](archetypes/Next-Gen%20Cyber%20Dragon.md), [A-to-Z](archetypes/Next-Gen%20A-to-Z.md) + [Kinetic Warrior](archetypes/Kinetic%20Warrior.md) | *Next-Gen* revitalyzacions of existing archetypes | vicious beatdown |
 | [Astrix](https://duelingbook.com/deck?id=11963497) | Ritual, Xyz | Aquilyrynx + Delphoenix | revitalyzacion of [Drytron](https://yugipedia.com/wiki/Drytron) | |
 | [Stranded](https://duelingbook.com/deck?id=12190377) | Fusion | [Stranded](archetypes/Stranded.md) | parody of [Branded](https://yugipedia.com/wiki/Branded) | |
-| [Dystopia](https://duelingbook.com/deck?id=12502309) | Rank-Down Xyz | [Dystopia](archetypes/Dystopia.md) | parody of [Utopia](https://yugipedia.com/wiki/Utopia) | self-destruction, single-attack-kill |
-| [Dragmatika](https://duelingbook.com/deck?id=12753373) | Ritual | [Dragmatika]() | revitalyzacion of [Dogmatika](https://yugipedia.com/wiki/Dogmatika) | anti-Extra Deck |
+| [Dystopia](https://duelingbook.com/deck?id=12502309) | Rank-Down Xyz | [Dystopia](archetypes/Dystopia.md) | parody of [Utopia](https://yugipedia.com/wiki/Utopia_(archetype)) | self-destruction, single-attack-kill |
+| [Dragmatika](https://duelingbook.com/deck?id=12753373) | Ritual | [Dragmatika](archetypes/Dragmatika.md) | revitalyzacion of [Dogmatika](https://yugipedia.com/wiki/Dogmatika) | anti-Extra Deck |
 | [Vraptor](https://duelingbook.com/deck?id=12893390) | Rank-Up Xyz | [Next-Gen](archetypes/Next-Gen.md) [Raidraptor](archetypes/Next-Gen%20Raidraptor.md) | revitalyzacion of [Raidraptor](https://yugipedia.com/wiki/Raidraptor) | |
 | [Arc-Z](https://duelingbook.com/deck?id=12974231) | Pendulum, Fusion, Synchro, Xyz | [Eternal King](archetypes/.md) | revitalyzacion of Z-ARC’s [Supreme King](https://yugipedia.com/wiki/Supreme_King) deck | more akin to the anime |
 
@@ -49,7 +49,7 @@ Randolical decks I decided to make for fun, but rarely play with.
 | [Chemix](https://duelingbook.com/deck?id=12188545) | Gemini | Chemicool, Chemikalamity, Chemikaze | beatdown |
 | [Antarctron](https://duelingbook.com/deck?id=12150091) | Accel Synchro | [Antarctron](archetypes/Antarctron.md) | |
 | [Led]() | All | joke |
-| [Ultra](https://duelingbook.com/deck?id=11509638) | Fusion | [CREW GUYS](archetypes/GUYS.md), [METEOR](archetypes/METEOR.md) + [Ultraman](archetypes/Ultraman.md) | |
+| [Ultra](https://duelingbook.com/deck?id=11509638) | Fusion | [GUYS](archetypes/GUYS.md), [METEOR](archetypes/METEOR.md) + [Ultraman](archetypes/Ultraman.md) | |
 | [Bananas](https://duelingbook.com/deck?id=12097955) | All | Bloons TD 6 | versatility |
 | [Apples](https://duelingbook.com/deck?id=11855890) | Xyz, Link | Plants vs Zombies 2 | |
 
