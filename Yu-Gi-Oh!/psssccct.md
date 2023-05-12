@@ -62,7 +62,7 @@ For the other types, some are placed into a modifyzer before, while others are l
 | `Once per turn: You can discard 1 card; draw 1 card.` | `[OPT]: You can discard 1 card; Draw 1 card.` |
 | `Once per Chain, if a card is discarded: Draw 1 card.` | `[Once per Chain] If a card is discarded: Draw 1 card.` |
 | `You can discard 1 card; draw 1 card. You can only this effect of {...} once per turn.` | `[HOPT] You can discard 1 card; Draw 1 card.` |
-| `If a card is discarded: Draw 1 card. You can only this effect of {...} once per Chain.` | `[Hard Once Per Chain] If a card is discarded: Draw 1 card.` |
+| `If a card is discarded: Draw 1 card. You can only this effect of {...} once per Chain.` | `[Hard Once per Chain] If a card is discarded: Draw 1 card.` |
 | `{effect}. {effect}. You can only use 1 {...} effect per turn, and only once that turn.` | `[HOPT] {effect}. [HOPT] {effect}. You can only use 1 effect of {...} each turn.` |
 
 ### Capitalyzacion
