@@ -2,6 +2,7 @@
 
 An archetype of LIGHT Monsters, closely relyzen to and supporting the [*Vapour-Eyes*](Vapour-Eyes.md) archetype.
 
+
 <br>
 
 
@@ -25,7 +26,6 @@ An archetype of LIGHT Monsters, closely relyzen to and supporting the [*Vapour-E
 | [Lightning Orb](../cards/monsters/standard/–.md) | 0 | 1000 / 2000 | Thunder Tuner |
 | [Lightning Shrike](../cards/monsters/standard/–.md) | 3 ★★★ | – / – | – |
 | [Lightning Wing](../cards/monsters/standard/–.md) | 3 ★★★ | – / – | Thunder |
-| [Lightning –](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
 
 </details>
 
@@ -59,6 +59,7 @@ An archetype of LIGHT Monsters, closely relyzen to and supporting the [*Vapour-E
 
 | card | Type |
 | :--- | :--- |
+| [Charged in Lightning](../cards/traps/–/–.md) | ∞ Continuous |
 | [Live in Lightning](../cards/traps/–/–.md) | |
 | [Vapourizing Lightning](../cards/traps/–/–.md) | ↵ Counter |
 | [–](../cards/traps/–/–.md) | – |
