@@ -42,4 +42,4 @@ A series of Quick Spells specifically supporting the [GUYS](GUYS.md) archetype, 
 
 ## Trivia
 
-- All METEOR Spell Cards reflect their actual function in *Ultraman Mebius*.
+- All of the cards reflect their actual function in *Ultraman Mebius*.
