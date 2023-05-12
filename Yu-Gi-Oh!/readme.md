@@ -15,15 +15,15 @@ You can watch some of my coolest duel replays [here](https://youtube.com/playlis
 All the decks of custom cards I’ve cryzen, in chronological order.
 
 ### Flagships
-The original, high-quality decks I play with the most. My favourite or most familiar are **bolded**.
+The original, high-quality decks I play with the most. My favourite or most familiar are **weighten**.
 
 | deck | types | archetypes | style |
 | :--- | :---- | :--------- | :---- |
-| [Essence](https://duelingbook.com/deck?id=11724812) | All – Fusion, Pendulum | Ninjato + Myriad Manifestation Umbrella | |
+| [Essence](https://duelingbook.com/deck?id=11724812) | Fusion, Pendulum | [Ninjato] + [Manifestation](Manifestation.md) | versatile ace |
 | [**Vengeance**](https://duelingbook.com/deck?id=11423800) | Ritual, Synchro | [Soul](archetypes/Soul.md) | graveyard, Synchro swarming |
-| [**Vapurion**](https://duelingbook.com/deck?id=11882083) | Rank-Up Xyz | [Vapour-Eyes](archetypes/Vapour-Eyes.md) + [Lightning](archetypes/lightning.md) | animesque ace |
-| [Cyburst](https://duelingbook.com/deck?id=11997304) | Link | [The Specialists](archetypes/The%20Specialists.md) + [Next-Gen Code Talker](archetypes/Next-Gen%20Code%20Talker.md) | link swarm |
-| [Arcana](https://duelingbook.com/deck?id=12012335) | All | [Tekk-Knight](archetypes/Tekk-Knight.md), [Dekk-Knight](archetypes/Dekk-Knight.md) + [World Affinity](archetypes/World%20Affinity.md) | polytypical swarming |
+| [**Vapurion**](https://duelingbook.com/deck?id=11882083) | Rank-Up Xyz | [Vapour-Eyes](archetypes/Vapour-Eyes.md) + [Lightning](archetypes/lightning.md) | [animesque](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/dict.md#animesque 'anime-like') ace |
+| [Cyburst](https://duelingbook.com/deck?id=11997304) | Link | [The Specialists](archetypes/The%20Specialists.md) + [Next-Gen](archetypes/Next-Gen.md) | link swarm |
+| [Arcana](https://duelingbook.com/deck?id=12012335) | All | [k-Knight](archetypes/k-Knight.md) + [World Affinity](archetypes/World%20Affinity.md) | polytypical swarming |
 | [Darquessence](https://duelingbook.com/deck?id=12053993) | Ritual, Fusion | [Darquess](archetypes/Darquess.md) | draining control |
 | [**Rubix**](https://duelingbook.com/deck?id=12381789) | Synchro, Xyz, Link | [Rubic](archetypes/Rubic.md) | ultimate versatility |
 
@@ -33,12 +33,12 @@ Downright remakes of existing archetypes, one of my favourite things to do.
 | deck | types | archetypes | notes | style |
 | :--- | :---- | :--------- | :---- | :---- |
 | [Technyx](https://duelingbook.com/deck?id=11617228) | Fusion, Xyz, Link | [Next-Gen](archetypes/Next-Gen.md) [Cyber](archetypes/Next-Gen%20Cyber%20Dragon.md), [A-to-Z](archetypes/Next-Gen%20A-to-Z.md) + [Kinetic Warrior](archetypes/Kinetic%20Warrior.md) | *Next-Gen* revitalyzacions of existing archetypes | vicious beatdown |
-| [Astrix](https://duelingbook.com/deck?id=11963497) | Ritual, Xyz | Aquilyrynx + Delphoenix | revitalyzacion of [Drytron](...) | |
-| [Stranded](https://duelingbook.com/deck?id=12190377) | Fusion | [Stranded](archetypes/Stranded.md) | parody of [Branded](...) | |
-| [Dystopia](https://duelingbook.com/deck?id=12502309) | Rank-Down Xyz | [Dystopia](archetypes/Dystopia.md) | parody of [Utopia](...) | self-destruction, single-attack-kill |
-| [Dragmatika](https://duelingbook.com/deck?id=12753373) | Ritual | [Dragmatika]() | revitalyzacion of [Dogmatika](...) | anti-Extra Deck |
-| [Vraptor](https://duelingbook.com/deck?id=12893390) | Rank-Up Xyz | [Next-Gen Raidraptor](archetypes/.md) | revitalyzacion of Raidraptor | |
-| [Arc-Z](https://duelingbook.com/deck?id=12974231) | Pendulum, Fusion, Synchro, Xyz | [Eternal King](archetypes/.md) | revitalyzacion of Z-ARC’s [Supreme King](...) deck | more akin to the anime |
+| [Astrix](https://duelingbook.com/deck?id=11963497) | Ritual, Xyz | Aquilyrynx + Delphoenix | revitalyzacion of [Drytron](https://yugipedia.com/wiki/Drytron) | |
+| [Stranded](https://duelingbook.com/deck?id=12190377) | Fusion | [Stranded](archetypes/Stranded.md) | parody of [Branded](https://yugipedia.com/wiki/Branded) | |
+| [Dystopia](https://duelingbook.com/deck?id=12502309) | Rank-Down Xyz | [Dystopia](archetypes/Dystopia.md) | parody of [Utopia](https://yugipedia.com/wiki/Utopia) | self-destruction, single-attack-kill |
+| [Dragmatika](https://duelingbook.com/deck?id=12753373) | Ritual | [Dragmatika]() | revitalyzacion of [Dogmatika](https://yugipedia.com/wiki/Dogmatika) | anti-Extra Deck |
+| [Vraptor](https://duelingbook.com/deck?id=12893390) | Rank-Up Xyz | [Next-Gen](archetypes/Next-Gen.md) [Raidraptor](archetypes/Next-Gen%20Raidraptor.md) | revitalyzacion of [Raidraptor](https://yugipedia.com/wiki/Raidraptor) | |
+| [Arc-Z](https://duelingbook.com/deck?id=12974231) | Pendulum, Fusion, Synchro, Xyz | [Eternal King](archetypes/.md) | revitalyzacion of Z-ARC’s [Supreme King](https://yugipedia.com/wiki/Supreme_King) deck | more akin to the anime |
 
 ### Fun
 Randolical decks I decided to make for fun, but rarely play with.
