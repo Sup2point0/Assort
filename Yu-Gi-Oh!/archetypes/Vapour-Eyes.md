@@ -27,7 +27,7 @@ An archetype of LIGHT and DARK Dragon Monsters, revolving around Xyz Summoning h
 <details open>
   <summary> <b> Extra Deck </b> </summary> <br>
 
-| card | Level | ATK/DEF | Type | Attribute | material |
+| card | Level | ATK/DEF | Type | Attribute | Material |
 | :--- | :---- | :------ | :--- | :-------- | :------- |
 | [Vapour-Eyes Lightning Dragon](../cards/monsters/–/–.md) | 9 ★★★★★★★★★ | 3000 / 2500 | Xyz | LIGHT | 2 Lv9 LIGHT Monsters |
 | [Neo Vapour-Eyes Lightning Dragon](../cards/monsters/–/–.md) | 10 ★★★★★★★★★★ | 4000 / 3000 | Xyz | LIGHT | 2 Lv10 LIGHT Monsters |
