@@ -1,8 +1,8 @@
 # Tekk-Knight
 
-An archetype of LIGHT Celestial Warrior monsters, inspired by the [*Mekk-Knight*](https://yugipedia.com/wiki/Mekk-Knight) archetype.
+An archetype of Celestial Warrior Monsters of every Attribute, inspired by the [*Mekk-Knight*](https://yugipedia.com/wiki/Mekk-Knight) archetype. It is part of the [k-Knight](k-Knight.md) superarchetype.
 
-The *Hi-Tekk-Knight* subarchetype features 1 monster for each Summoning tecnique (Ritual/Fusion/Synchro/Xyz/Link), which can all be Summoned using 2 *Tekk-Knight* monsters. The [*Dekk-Knight*](Dekk-Knight.md) subarchetype then consists of further upgraded monsters for each Summoning tecnique (except Ritual), which all require 2 *Hi-Tekk-Knight* monsters to Summon.
+The *Hi-Tekk-Knight* subarchetype features 1 Monster for each Summon tecnique (Ritual/Fusion/Synchro/Xyz/Link), which can all be Summoned using 2 *Tekk-Knight* monsters. The [*Dekk-Knight*](Dekk-Knight.md) archetype then consists of further upgraded Monsters for each Summon tecnique (except Ritual), which all require 2 *Hi-Tekk-Knight* monsters to Summon.
 
 The archetype is supported by the [*World Affinity*](World%20Affinity.md) archetype.
 
@@ -14,11 +14,11 @@ The archetype is supported by the [*World Affinity*](World%20Affinity.md) archet
 
 | type | count |
 | :--- | :---- |
-| Ritual   | x1 |
-| Fusion   | x1 |
-| Synchro  | x1 |
-| Xyz      | x1 |
-| Link     | x2 |
+| Ritual  | x1 |
+| Fusion  | x1 |
+| Synchro | x1 |
+| Xyz     | x1 |
+| Link    | x2 |
 
 ### Monsters
 
@@ -40,14 +40,13 @@ The archetype is supported by the [*World Affinity*](World%20Affinity.md) archet
 <details open>
   <summary> <b> Extra Deck </b> </summary> <br>
 
-| card | Level | ATK/DEF | Type | material |
+| card | Level | ATK/DEF | Type | Material |
 | :--- | :---- | :------ | :--- | :------- |
-| [Tekk-Knight Azure Iris](../cards/monsters/link/Hi-Tekk-Knight%20–.md) | Link-1 | 2000 | Link | 1 ‘Tekk-Knight’ monster |
-| [Hi-Tekk-Knight Radiant Spectre](../cards/monsters/fusion/Hi-Tekk-Knight%20–.md) | 8 ★★★★★★★★ | 2500 / 1600 | Fusion | 2 ‘Tekk-Knight’ monsters |
-| [Hi-Tekk-Knight Lucent Edge](../cards/monsters/synchro/Hi-Tekk-Knight%20–.md) | 8 ★★★★★★★★ | 2500 / 1600 | Synchro | 2 ‘Tekk-Knight’ monsters, including a Tuner |
-| [Hi-Tekk-Knight Shining Dawn](../cards/monsters/xyz/Hi-Tekk-Knight%20–.md) | 4 ★★★★ | 2500 / 1600 | Xyz | 2 Level 4 ‘Tekk-Knight’ monsters |
-| [Hi-Tekk-Knight Crystalline Lustre](../cards/monsters/link/Hi-Tekk-Knight%20–.md) | Link-2 | 2500 | Link | 2 ‘Tekk-Knight’ monsters |
-| [Hi-Tekk-Knight Radical Trinity](../cards/monsters/–/Hi-Tekk-Knight%20–.md) | Link-3 | 3000 | Link | 2+ ‘Tekk-Knight’ monsters |
+| [Tekk-Knight Azure Iris](../cards/monsters/link/Hi-Tekk-Knight%20–.md) | Link-1 | 2000 | Link | 1 Lv4- ‘Tekk-Knight’ Monster |
+| [Hi-Tekk-Knight Radiant Spectre](../cards/monsters/fusion/Hi-Tekk-Knight%20–.md) | 8 ★★★★★★★★ | 2500 / 1600 | Fusion | 2 ‘Tekk-Knight’ Monsters with different Attributes |
+| [Hi-Tekk-Knight Lucent Edge](../cards/monsters/synchro/Hi-Tekk-Knight%20–.md) | 8 ★★★★★★★★ | 2500 / 1600 | Synchro | 2 ‘Tekk-Knight’ Monsters, including a Tuner |
+| [Hi-Tekk-Knight Shining Dawn](../cards/monsters/xyz/Hi-Tekk-Knight%20–.md) | 4 ★★★★ | 2500 / 1600 | Xyz | 2 Lv4 ‘Tekk-Knight’ monsters |
+| [Hi-Tekk-Knight Crystalline Lustre](../cards/monsters/link/Hi-Tekk-Knight%20–.md) | Link-2 | 2500 | Link | 2 ‘Tekk-Knight’ Monsters with different names |
 
 </details>
 
@@ -55,40 +54,35 @@ The archetype is supported by the [*World Affinity*](World%20Affinity.md) archet
 <br>
 
 
+## Overview
+
+### Level 4 Monsters
+The Level 4 Monsters share the following effect:
+
+> If a column contains 2 or more cards: You can Special Summon this card from your hand to a Zone in an adjacent column, then you can {...}.
+
+Additionally, each has an effect to search or recover a different Monster upon being sent to the Graveyard.
+
+> If this card is sent to the Graveyard: You can add 1 [other] ‘Tekk-Knight’ monster from your {...} to your hand.
+
+| Monster | effect | search |
+| :------ | :----- | :----- |
+| [Aqua Vision](#Monsters) | mill a *Tekk-Knight* monster | Grave |
+| [Citrine Dream](#Monsters) | mill a *World Affinity* Spell/Trap | Deck |
+| [Scarlet Fury](#Monsters) | destroy a monster in its column | Banished |
+| [Violet Sorrow](#Monsters) | destroy a Spell/Trap in its column | Deck |
+| [Teal Avidity](#Monsters) | revive a *Tekk-Knight* monster | Grave |
+| [Neon Hope](#Monsters) | change the placement of a card on the field | Deck |
+
+
+<br>
+
+
 ## Strategics
 
+> *This section is **under construction***. Apologies for any incomplete or inconsistent content.
+
 > See [k-Knight](k-Knight.md) for more.
-
-### Effects
-All of the Level 4 Main Deck monsters share the following effect:
-
-> If a column contains 2 or more cards: You can Special Summon this card from your hand to an adjacent column, then you can [...].
-
-Additionally, each has an effect to search or recover a different monster upon being sent to the Graveyard.
-
-> If this card is sent to the Graveyard: You can add 1 ‘Tekk-Knight’ monster from your [...] to your hand, except [...].
-
-| monster | effect | search |
-| :------ | :----- | :----- |
-| Aqua Vision | mill a *Tekk-Knight* monster | Grave |
-| Citrine Dream | mill a *World Affinity* Spell/Trap | Deck |
-| Scarlet Fury | destroy a monster in its column | Banished |
-| Violet Sorrow | destroy a Spell/Trap in its column | Deck |
-| Teal Avidity | revive a *Tekk-Knight* monster | Deck |
-| Neon Hope | change the placement of a card on the field | Grave |
-
-The *Hi-Tekk-Knight* monsters 
-
-| monster | summon | effect |
-| :------ | :----- | :----- |
-| Radiant Spectre | | double own ATK when battling Special Summoned monster in another column |
-| Lucent Edge | | halve opposing ATK when battling Special Summoned monster in another column |
-| Shining Dawn | | +500 ATK for each attached material |
-| Crystalline Lustre | Deck | +500 ATK for each *Tekk-Knight* or *Ark-Knight* monster it links to |
-
-Each monster also searches a *World Affinity* card upon being sent to the Graveyard.
-
-> If this card is sent to the Graveyard: You can add 1 ‘World Affinity’ card from your Deck to your hand.
 
 ### Style
 The archetype is extremely consistent, especially with the support of *World Affinity* cards.
@@ -106,36 +100,17 @@ The most useful openers (as a Special Summon) are [Tekk-Knight Aqua Vision](...)
 
 The other *Tekk-Knight* monsters are useful for going second to breakup the opponent’s board, otherwise only serving as additional unique names for Special Summons or searches. [Tekk-Knight Neon Hope](...) is rather situational, but can disrupt cards that depend on columns or being linked, or shift the opponent’s field to be advantageous to facilityze *Tekk-Knight* Summons or *World Affinity* effects.
 
-Here is a general combo line:
-
-| action | field |
-| :----- | :---- |
-| Normal Summon any monster that can search from the Deck. | ▯▯▯▯▯<br>▯▯▮▯▯<br>▯▯▯▯▯ |
-| Link into Azure Iris, searching [World Affinity Adventure](...) and Aqua Vision. | ▯▮▯▯▯<br>▯▯▯▯▯<br>▯▮▯▯▯ |
-| Adventure searches [World Affinity Excursion](...), searching Citrine Dream. | ▯▮▯▯▯<br>▯▯▯▯▯<br>▯▮▯▮▯ |
-| With Adventure or Excursion in the same column as Azure Iris in the Extra Monster Zone, Special Summon Citrine Dream, sending [World Affinity Legacy](...) to search another copy of Legacy. |▯▮▯▯▯<br>▯▮▯▯▯<br>▯▮▯▮▯ |
-| Link Azure Iris and Citrine Dream into Hi-Tekk-Knight Crystalline Lustre, accelling a Tuner. | ▯▮▯▯▯<br>▯▯▮▯▯<br>▯▮▯▮▯ |
-| Special Summon Aqua Vision, sending any monster to search or recover another. | ▯▮▯▯▯<br>▮▯▮▯▯<br>▯▮▯▮▯ |
-| Tune into Hi-Tekk-Knight Lucent Edge, accelling any monster from the Deck. | ▯▮▯▯▯<br>▯▯▮▮▯<br>▯▮▯▮▯ |
-| Special Summon a material if required. | ▯▮▯▯▯<br>▯▯▮▮▮<br>▯▮▯▮▯ |
-| Overlay into Hi-Tekk-Knight Shining Dawn, then detach to accel another monster from the Deck. | ▯▮▯▯▯<br>▮▯▮▮▯<br>▯▮▯▮▯ |
-| Since the previously accelled monster was overlayed as Xyz material, it is not banished. The detached material likely has another effect to search.
-| Special Summon another material if required. | ▯▮▯▯▯<br>▮▮▮▮▯<br>▯▮▯▮▯ |
-| Fuse into Hi-Tekk-Knight Radiant Spectre, by banishing 2 monsters. | ▯▮▯▯▯<br>▯▮▮▮▯<br>▯▮▯▮▯ |
-| If [World Affinity Wonder](...) or [World Affinity Wishes](...) are available, Ritual Summon Hi-Tekk-Knight Ultramarine Wonder. (If Tributes are scarce, Teal Avidity can revive another. | ▯▮▯▯▯<br>▮▮▮▮▯<br>▯▮▯▮▯ |
-
 
 <br>
 
 
 ## Trivia
 
-- This archetype can harness every Summoning tecnique (except Pendulum).
-- The effect of the Lv4 Main Deck monsters is an upgraded version of the effect of the *Mekk-Knights*.
+- The effect of the Lv4 Main Deck Monsters is an upgraded version of the effect of the [*Mekk-Knights*](https://yugipedia.com/wiki/Mekk-Knight).
   - While *Mekk-Knights* Special Summon themselves to a column with 2+ cards, *Tekk-Knights* Summon to an adjacent column.
-- *Tekk-Knight* is a pun on ‘Tech Knight’, alike to *Mekk-Knight* sounding like ‘Mech Knight’ (despite this not being the actual etymologic).
+- *Tekk-Knight* is a pun on ‘Tech Knight’, alike to *Mekk-Knight* sounding like ‘Mech Knight’ (despite this not being the actual etymologics).
   - Similarly, *Hi-Tekk-Knight* is a pun on ‘High Tech Knight’.
-- The names of the Main Deck monsters (and the Link-1 *Tekk-Knight Azure Iris*) follow the pattern `<colour> <abstract>`, where `abstract` is an emotion or phenomenon.
+- The names of the Main Deck Monsters (and the Link-1 [Tekk-Knight Azure Iris](#Monsters)) follow the pattern `<colour> <abstract>`, where `abstract` is an emotion or phenomenon.
   - The names of the Extra Deck monsters follow the pattern `<adjective> <feature>`, where `feature` is some kind of attribute or property (or simply a word that sounds cool), with both words being relyzen to light.
   - These reflect the naming scheme of the *Mekk-Knights*.
-- The ability to demonstryze a myriad of Summoning tecniques in one turn is inspired by [*D/D*](https://yugipedia.com/wiki/D/D) and [*D/D/D*](https://yugipedia.com/wiki/D/D/D) used by [Declan Akaba](https://yugipedia.com/wiki/Declan_Akaba).
+- The ability to demonstryze a myriad of Summon tecniques in one turn is inspired by the [*D/D*](https://yugipedia.com/wiki/D/D) and [*D/D/D*](https://yugipedia.com/wiki/D/D/D) deck used by [Declan Akaba](https://yugipedia.com/wiki/Declan_Akaba) in [*ARC-V*](https://yugipedia.com/wiki/Yu-Gi-Oh!_ARC-V).
