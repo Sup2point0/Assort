@@ -21,7 +21,7 @@ The original, high-quality decks I play with the most. My favourite or most fami
 | :--- | :---- | :--------- | :---- |
 | [Essence](https://duelingbook.com/deck?id=11724812) | Fusion, Pendulum | [Ninjato] + [Manifestation](Manifestation.md) | versatile ace |
 | [**Vengeance**](https://duelingbook.com/deck?id=11423800) | Ritual, Synchro | [Soul](archetypes/Soul.md) | graveyard, Synchro swarming |
-| [**Vapurion**](https://duelingbook.com/deck?id=11882083) | Rank-Up Xyz | [Vapour-Eyes](archetypes/Vapour-Eyes.md) + [Lightning](archetypes/lightning.md) | [animesque](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/dict.md#animesque 'anime-like') ace |
+| [**Vapurion**](https://duelingbook.com/deck?id=11882083) | Rank-Up Xyz | [Vapour-Eyes](archetypes/Vapour-Eyes.md) + [Lightning](archetypes/Lightning.md) | [animesque](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/dict.md#animesque 'anime-like') ace |
 | [Cyburst](https://duelingbook.com/deck?id=11997304) | Link | [The Specialists](archetypes/The%20Specialists.md) + [Next-Gen](archetypes/Next-Gen.md) | link swarm |
 | [Arcana](https://duelingbook.com/deck?id=12012335) | All | [k-Knight](archetypes/k-Knight.md) + [World Affinity](archetypes/World%20Affinity.md) | polytypical swarming |
 | [Darquessence](https://duelingbook.com/deck?id=12053993) | Ritual, Fusion | [Darquess](archetypes/Darquess.md) | draining control |
