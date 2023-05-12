@@ -1,4 +1,4 @@
-# Archetype
+# World Affinity
 
 An archetype of Spells and Traps, supporting the [*Tekk-Knight*](Tekk-Knight.md), [*Dekk-Knight*](Dekk-Knight.md), [*Ark-Knight*](Ark-Knight.md) archetypes, inspired by the [*World Affinity*](https://yugipedia.com/wiki/World_Legacy) archetype.
 
