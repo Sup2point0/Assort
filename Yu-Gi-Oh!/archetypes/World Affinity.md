@@ -17,7 +17,7 @@ An archetype of Spells and Traps, supporting the [*Tekk-Knight*](Tekk-Knight.md)
 <details open>
   <summary> <b> Main Deck </b> </summary> <br>
 
-| card | Level | ATK/DEF | Type | Attribute |
+| Card | Level | ATK/DEF | Type | Attribute |
 | :--- | :---- | :------ | :--- | :-------- |
 | [World Affinity Tyrian Endragon](../cards/monsters/ritual/World%20Affinity%20Tyrian%20Endragon.md) | 12 ★★★★★★★★★★★★ | 3000 / 2000 | Ritual | DARK |
 
@@ -28,7 +28,7 @@ An archetype of Spells and Traps, supporting the [*Tekk-Knight*](Tekk-Knight.md)
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| card | Type |
+| Card | Type |
 | :--- | :--- |
 | [World Affinity Ascension](../cards/spells/–/World%20Affinity%20–.md) | ⚡︎ Quick |
 | [World Affinity Destiny](../cards/spells/–/World%20Affinity%20–.md) | |
@@ -48,7 +48,7 @@ An archetype of Spells and Traps, supporting the [*Tekk-Knight*](Tekk-Knight.md)
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| card | Type |
+| Card | Type |
 | :--- | :--- |
 | [World Affinity Adversity](../cards/traps/–/World%20Affinity%20–.md) | |
 | [World Affinity Clash](../cards/traps/–/World%20Affinity%20–.md) | |
