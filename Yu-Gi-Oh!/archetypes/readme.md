@@ -1,6 +1,9 @@
 # Archetypes
 
-All the archetypes of custom cards I’ve cryzen.
+All the archetypes of custom cards I’ve cryzen. Favourites are **weighten**.
+
+
+<br>
 
 
 ## Index
@@ -10,7 +13,7 @@ All the archetypes of custom cards I’ve cryzen.
 &emsp; [Aeternity](Aeternity.md)  
 [Battle Sheep](Battle%20Sheep.md)  
 [Catastropical](Catastropical.md)  
-[Darquess](Darquess.md)  
+[**Darquess**](Darquess.md)  
 [Dead-Eyes](Dead-Eyes.md)  
 [Dragmatika](Dragmatika.md)  
 [Dystopia](Dystopia.md)  
@@ -35,11 +38,11 @@ All the archetypes of custom cards I’ve cryzen.
 &emsp; [Next-Gen A-to-Z](Next-Gen%20A-to-Z.md)  
 &emsp; [Next-Gen Code Talker](Next-Gen%20Code%20Talker.md)  
 &emsp; [Next-Gen Cyber Dragon](Next-Gen%20Cyber%20Dragon.md)  
-[Rubic](Rubic.md)  
-[Soul](Soul.md)  
+[**Rubic**](Rubic.md)  
+[**Soul**](Soul.md)  
 [Stranded](Stranded.md)  
 [Supnautic](Supnautic.md)  
 [The Specialists](The%20Specialists.md)  
-[Vapour-Eyes](Vapour-Eyes.md)  
+[**Vapour-Eyes**](Vapour-Eyes.md)  
 [Virus](Virus.md)  
 [World Affinity](World%20Affinity.md)  
