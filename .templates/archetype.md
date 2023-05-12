@@ -42,7 +42,7 @@ An archetype of – Monsters, revolving around – Summoning, inspired by the [*
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| card | Type |
+| card | type |
 | :--- | :--- |
 | [–](../cards/spells/–/–.md) | – |
 
@@ -53,7 +53,7 @@ An archetype of – Monsters, revolving around – Summoning, inspired by the [*
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| card | Type |
+| card | type |
 | :--- | :--- |
 | [–](../cards/traps/–/–.md) | – |
 
