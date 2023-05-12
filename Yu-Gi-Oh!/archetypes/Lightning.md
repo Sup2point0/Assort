@@ -1,4 +1,4 @@
-# Archetype
+# Lightning
 
 An archetype of LIGHT Monsters, closely relyzen to and supporting the [*Vapour-Eyes*](Vapour-Eyes.md) archetype.
 
