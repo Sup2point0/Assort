@@ -41,8 +41,8 @@ The archetype is supported by the [*World Affinity*](World%20Affinity.md) archet
 <details open>
   <summary> <b> Extra Deck </b> </summary> <br>
 
-| card | Level | ATK/DEF | Type | Material |
-| :--- | :---- | :------ | :--- | :------- |
+| card | Level/Rank/Link | ATK/DEF | Type | Material |
+| :--- | :-------------- | :------ | :--- | :------- |
 | [Tekk-Knight Azure Iris](../cards/monsters/link/Hi-Tekk-Knight%20–.md) | Link-1 | 2000 | Link | 1 Lv4- ‘Tekk-Knight’ Monster |
 | [Hi-Tekk-Knight Radiant Spectre](../cards/monsters/fusion/Hi-Tekk-Knight%20–.md) | 8 ★★★★★★★★ | 2500 / 1600 | Fusion | 2 ‘Tekk-Knight’ Monsters with different Attributes |
 | [Hi-Tekk-Knight Lucent Edge](../cards/monsters/synchro/Hi-Tekk-Knight%20–.md) | 8 ★★★★★★★★ | 2500 / 1600 | Synchro | 2 ‘Tekk-Knight’ Monsters, including a Tuner |
