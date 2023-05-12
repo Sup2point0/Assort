@@ -1,4 +1,4 @@
-# Archetype
+# Vapour-Eyes
 
 An archetype of LIGHT and DARK Dragon Monsters, revolving around Xyz Summoning high-Rank Xyz Monsters through Rank-Up Xyz Evolucion, inspired by the existing [*Galaxy-Eyes*](https://yugipedia.com/wiki/Galaxy-Eyes) archetype. It is closely relyzen to the [*Lightning*](Lightning.md) archetype.
 
