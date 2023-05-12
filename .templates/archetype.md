@@ -22,7 +22,7 @@ An archetype of – Monsters, revolving around – Summoning, inspired by the [*
 <details open>
   <summary> <b> Main Deck </b> </summary> <br>
 
-| Card | Level | ATK/DEF | Type | Attribute |
+| card | Level | ATK/DEF | Type | Attribute |
 | :--- | :---- | :------ | :--- | :-------- |
 | [–](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – | – |
 
@@ -31,7 +31,7 @@ An archetype of – Monsters, revolving around – Summoning, inspired by the [*
 <details open>
   <summary> <b> Extra Deck </b> </summary> <br>
 
-| Card | Level | ATK/DEF | Type | Attribute | Material |
+| card | Level | ATK/DEF | Type | Attribute | Material |
 | :--- | :---- | :------ | :--- | :-------- | :------- |
 | [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – / – | – | – | – |
 
@@ -42,7 +42,7 @@ An archetype of – Monsters, revolving around – Summoning, inspired by the [*
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| Card | Type |
+| card | Type |
 | :--- | :--- |
 | [–](../cards/spells/–/–.md) | – |
 
@@ -53,7 +53,7 @@ An archetype of – Monsters, revolving around – Summoning, inspired by the [*
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| Card | Type |
+| card | Type |
 | :--- | :--- |
 | [–](../cards/traps/–/–.md) | – |
 
