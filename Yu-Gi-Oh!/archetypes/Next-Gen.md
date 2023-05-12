@@ -1,6 +1,6 @@
 # Next-Gen
 
-A superarchetype of revitalyzacions of various canon archetypes.
+A superarchetype of revitalyzacions of various existing archetypes.
 
 
 <br>
@@ -14,7 +14,6 @@ A superarchetype of revitalyzacions of various canon archetypes.
 | [Next-Gen Code Talker](Next-Gen%20Code%20Talker.md) | [Code Talker](https://yugipedia.com/wiki/Code_Talker_(archetype)) | |
 | [Next-Gen Cyber Dragon](Next-Gen%20Cyber%20Dragon.md) | [Cyber Dragon](https://yugipedia.com/wiki/Cyber_Dragon_(archetype)) | evolves into [Next-Next-Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/xyz/Next-Next-Next-Next-Next-Next-Gen%20Cyber%20Dragon.md) |
 | [Next-Gen Raidraptor](Next-Gen%20Raidraptor.md) | [Raidraptor](https://yugipedia.com/wiki/Raidraptor) | |
-| [Next-Gen Tear](Next-Gen%20Tear.md) | [Clear Wing](https://yugipedia.com/wiki/Clear_Wing) | |
 
 
 <br>
@@ -45,9 +44,12 @@ A superarchetype of revitalyzacions of various canon archetypes.
 <details open>
   <summary> <b> Extra Deck </b> </summary> <br>
 
-| card | Level | ATK/DEF | Type | Attribute | material |
-| :--- | :---- | :------ | :--- | :-------- | :------- |
-| [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – / – | – | – | – |
+| card | Level/Rank/Link | ATK/DEF | Type | Attribute | Material | notes |
+| :--- | :-------------- | :------ | :--- | :-------- | :------- | :---- |
+| [Next-Gen Processlayer Laplacian](../cards/monsters/–/–.md) | 4 ★★★★ | 2500 / 0 | Cyberse | EARTH | 3 Level 4 Monsters, including a Cyberse Monster | from [Primathmech Laplacian](https://yugipedia.com/wiki/Primathmech_Laplacian) |
+| [Next-Gen Firewall Dragon](../cards/monsters/–/–.md) | Link-4 | 2500 | Cyberse | LIGHT | 2+ Monsters, including a Cyberse Monster | from [Firewall Dragon](https://yugipedia.com/wiki/Firewall_Dragon) |
+| [Next-Gen Firewall Dragon Paradoxx](../cards/monsters/–/–.md) | Link-5 | 3000 | Cyberse | DARK | 3+ Monsters with different Attributes, including a Cyberse Monster | from [Firewall Dragon Darkfluid – Neo Tempest Terahertz](https://yugipedia.com/wiki/Firewall_Dragon_Darkfluid_-_Neo_Tempest_Terahertz) |
+| [Next-Gen –](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – / – | – | – | – |
 
 </details>
 
@@ -56,7 +58,7 @@ A superarchetype of revitalyzacions of various canon archetypes.
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| card | Type |
+| card | type |
 | :--- | :--- |
 | [Next-Gen Cyber Claws](../cards/spells/equip/–.md) | ✦ Equip |
 | [Next-Gen Cyber Vision](../cards/spells/equip/–.md) | ✦ Equip |
@@ -65,7 +67,6 @@ A superarchetype of revitalyzacions of various canon archetypes.
 | [Next-Gen Evolution](../cards/spells/–/–.md) | ⚡︎ Quick |
 | [Next-Gen Recycle](../cards/spells/–/–.md) | ∞ Continuous |
 | [Next-Gen Resolution](../cards/spells/–/–.md) | ∞ Continuous |
-| [Next-Gen Revolution](../cards/spells/–/–.md) | ⚡︎ Quick |
 | [Next-Gen –](../cards/spells/–/–.md) | – |
 
 </details>
@@ -75,8 +76,9 @@ A superarchetype of revitalyzacions of various canon archetypes.
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| card | Type |
+| card | type |
 | :--- | :--- |
+| [Next-Gen Revolution](../cards/traps/–/–.md) | ↵ Counter |
 | [–](../cards/traps/–/–.md) | – |
 
 </details>
