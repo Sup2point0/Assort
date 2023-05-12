@@ -1,6 +1,8 @@
 # Soul
 
-An archetype of DARK monsters with various Types, revolving around Ritual and Synchro Summoning, with Graveyard effects and non-targeting non-destruction removal. All monsters either have 0 ATK or DEF, with the other value ending in a 50, and the lower Level monsters are all Spirit monsters.
+An archetype of DARK Monsters with various Types, revolving around Ritual and Synchro Summoning, with Graveyard effects and non-targeting non-destructive removal. All Monsters either have 0 ATK or DEF, with the other value ending in a 50, and the lower Level Monsters are all Spirit Monsters.
+
+The archetype has cross-support with the [*Shadow*](Shadow.md) archetype.
 
 
 <br>
@@ -15,6 +17,8 @@ An archetype of DARK monsters with various Types, revolving around Ritual and Sy
 
 ### Monsters
 
+Any Monsters whose Types are not specifyzen are Psychic.
+
 <details open>
   <summary> <b> Main Deck </b> </summary> <br>
 
@@ -23,15 +27,14 @@ An archetype of DARK monsters with various Types, revolving around Ritual and Sy
 | [Soul Synchron](../cards/monsters/standard/–.md) | ? | 0 / 0 | Tuner |
 | [Soul Shard](../cards/monsters/standard/–.md) | 1 ★ | 50 / 0 | Spirit |
 | [Soul Fragment](../cards/monsters/standard/–.md) | 2 ★ | 150 / 0 | Spirit |
-| [Stranded Soul](../cards/monsters/standard/–.md) | 3 ★★★ | 0 / 50 | Cyberse Spirit |
 | [Tearful Soul](../cards/monsters/standard/–.md) | 2 ★★ | 250 / 0 | Spirit |
 | [Sorrowful Soul](../cards/monsters/standard/–.md) | 2 ★★ | 350 / 0 | Spirit |
 | [Vengeful Soul](../cards/monsters/standard/–.md) | 3 ★★★ | 450 / 0 | Spirit |
 | [Soul Demon](../cards/monsters/standard/–.md) | 3 ★★★ | 750 / 0 | Fiend Spirit |
 | [Soul Spider](../cards/monsters/standard/–.md) | 8 ★★★★★★★★ | 0 / 2850 | Insect |
 | [Soul Magician](../cards/monsters/standard/–.md) | 4 ★★★★ | 1950 / 0 | Spellcaster |
-| [Soul Dragon](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2650 / 0 | Ritual Tuner |
-| [Soul Swordsman](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2750 / 0 | Ritual Tuner |
+| [Soul Dragon](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2650 / 0 | Dragon Ritual Tuner |
+| [Soul Swordsman](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2750 / 0 | Warrior Ritual Tuner |
 | [Soul Elder](../cards/monsters/standard/–.md) | 10 ★★★★★★★★★★ | 0 / 3750 | Omega Psychic Ritual |
 | [Soul –](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
 
@@ -43,16 +46,15 @@ An archetype of DARK monsters with various Types, revolving around Ritual and Sy
 | card | Level | ATK/DEF | Type | material |
 | :--- | :---- | :------ | :--- | :------- |
 | [Soul Shard Synchron](../cards/monsters/synchro/–.md) | ? | 0 / 0 | Synchro Tuner Spirit | *Soul Synchron* + 1+ *Soul Shard*s |
-| [Soul Snake](../cards/monsters/synchro/–.md) | 3 ★★★ | 1350 / 0 | Reptile Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ monsters |
-| [Soul Alchemist](../cards/monsters/synchro/–.md) | 4 ★★★★ | 0 / 2150 | Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ monsters |
-| [Soul Knight](../cards/monsters/synchro/–.md) | 5 ★★★★★ | 1650 / 0 | Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ monsters |
-| [Soul Wanderer](../cards/monsters/synchro/–.md) | 6 ★★★★★★ | 2350 / 0 | Zombie Synchro | 1 ‘Soul’ Synchro Tuner + 1+ non-Tuner ‘Soul’ monsters|
-| [Soul Guardian](../cards/monsters/synchro/–.md) | 7 ★★★★★★★ | 0 / 2950 | Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ monsters, including a Synchro monster |
+| [Soul Snake](../cards/monsters/synchro/–.md) | 3 ★★★ | 1350 / 0 | Reptile Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
+| [Soul Alchemist](../cards/monsters/synchro/–.md) | 4 ★★★★ | 0 / 2150 | Spellcaster Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
+| [Soul Knight](../cards/monsters/synchro/–.md) | 5 ★★★★★ | 1650 / 0 | Warrior Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
+| [Soul Wanderer](../cards/monsters/synchro/–.md) | 6 ★★★★★★ | 2350 / 0 | Zombie Synchro | 1 ‘Soul’ Synchro Tuner + 1+ non-Tuner ‘Soul’ Monsters|
+| [Soul Guardian](../cards/monsters/synchro/–.md) | 7 ★★★★★★★ | 0 / 2950 | Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters, including a Synchro Monster |
 | [Soul Shard Swordsman](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | 3250 / 0 | Magical Knight Synchro Tuner | *Soul Swordsman* + 1+ *Soul Shard*s |
 | [Soul Shard Dragon](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | 3650 / 0 | High Dragon Synchro Tuner | *Soul Dragon* + 1+ *Soul Shard*s |
-| [Soul Warden](../cards/monsters/synchro/–.md) | 10 ★★★★★★★★★★ | 0 / 3450 | Wyrm Synchro | 1 ‘Soul’ Ritual/Synchro Tuner + 1+ ‘Soul’ monsters, including a Ritual/Synchro monster |
-| [Soul Slayer](../cards/monsters/synchro/–.md) | 11 ★★★★★★★★★★★ | ? / ? | Omega Psychic Synchro | 1 ‘Soul Shard’ Tuner + 1+ ‘Soul’ Ritual/Synchro monsters |
-| [Soul –](../cards/monsters/synchro/–.md) | n ★★★★★★★★★★★★ | – / – | Synchro | – |
+| [Soul Warden](../cards/monsters/synchro/–.md) | 10 ★★★★★★★★★★ | 0 / 3450 | Wyrm Synchro | 1 ‘Soul’ Ritual/Synchro Tuner + 1+ ‘Soul’ Monsters, including a Ritual/Synchro Monster |
+| [Soul Slayer](../cards/monsters/synchro/–.md) | 11 ★★★★★★★★★★★ | ? / ? | Omega Psychic Synchro | 1 ‘Soul Shard’ Tuner + 1+ ‘Soul’ Ritual/Synchro Monsters |
 
 </details>
 
@@ -111,6 +113,7 @@ An archetype of DARK monsters with various Types, revolving around Ritual and Sy
 
 ## Trivia
 
-- [Vengeance Vanguard](../cards/fusion/Vengeance%20Vanguard.md) is the ultimate monster of the archetype, but is not in the archetype itself.
-- [Shadow Assassin](../cards/ritual/Shadow%20Assassin.md) is closely relyzen to this archetype.
-- The 0 ATK or DEF of monsters reflects their fragility and volatility.
+- [Vengeance Vanguard](../cards/fusion/Vengeance%20Vanguard.md) is the ultimate Monster of the archetype, but is not in the archetype itself.
+- The 0 ATK or DEF of Monsters reflects their fragility and volatility.
+- This is one of the first custom archetypes I cryzed.
+  - It originally formed a deck with the [Ninjato](Ninjato.md) archetype, before I decided to split them so each could focus on their individual playstyle.
