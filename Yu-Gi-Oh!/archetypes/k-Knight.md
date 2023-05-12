@@ -1,6 +1,6 @@
 # k-Knight
 
-A superarchetype of Celestial Warrior Monsters, harnessing every Summon tecnique (except Pendulum), inspired by the [*Mekk-Knight*](https://yugipedia.com/wiki/Mekk-Knight) archetype. It is supported by the [*World Affinity*](World%20Affinity.md) archetype, which is also inspired by the [*World Affinity*](https://yugipedia.com/wiki/World_Legacy) archetype.
+A superarchetype of Celestial Warrior Monsters of every Attribute, harnessing every Summon tecnique (except Pendulum), inspired by the [*Mekk-Knight*](https://yugipedia.com/wiki/Mekk-Knight) archetype. It is supported by the [*World Affinity*](World%20Affinity.md) archetype, which is also inspired by the [*World Affinity*](https://yugipedia.com/wiki/World_Legacy) archetype.
 
 
 <br>
@@ -14,6 +14,7 @@ A superarchetype of Celestial Warrior Monsters, harnessing every Summon tecnique
 | [Hi-Tekk-Knight](Tekk-Knight.md) | Monsters of each Summon tecnique |
 | [Dekk-Knight](Dekk-Knight.md) | upgraded Hi-Tekk-Knights |
 | [Ark-Knight](Ark-Knight.md) | ultimate uniten finishers |
+| [Dark-Knight](Ark-Knight.md) | upgraded Ark-Knight |
 
 
 <br>
@@ -23,6 +24,7 @@ A superarchetype of Celestial Warrior Monsters, harnessing every Summon tecnique
 
 | type | count |
 | :--- | :---- |
+| Tuner   | x3 |
 | Ritual  | x1 |
 | Fusion  | x2 |
 | Synchro | x2 |
