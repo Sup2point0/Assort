@@ -17,7 +17,7 @@ Unsure where to start? Try checking out some of these!
 
 ### Files
 [Rubic](Yu-Gi-Oh!/archetypes/Rubic.md)  
-[koniokinetis](affine/affinitys/koniokinetis.md) 
+[koniokinetis](affine/affinitys/koniokinetis.md)  
 [Ultraman Infinity](Ultraman/Ultraman%20Infinity.md)  
 
 
