@@ -11,12 +11,16 @@ All the archetypes of custom cards I’ve cryzen. Favourites are **weighten**.
 [Aetern](Aetern.md)  
 &emsp; [Aeternal](Aeternal.md)  
 &emsp; [Aeternity](Aeternity.md)  
+Arachnis  
 [Battle Sheep](Battle%20Sheep.md)  
 [Catastropical](Catastropical.md)  
 [**Darquess**](Darquess.md)  
 [Dead-Eyes](Dead-Eyes.md)  
 [Dragmatika](Dragmatika.md)  
 [Dystopia](Dystopia.md)  
+Eternal King  
+&emsp; Eternal King Dragon  
+&emsp; Eternal King Servant  
 [Galactron](Galactron.md)  
 [GUYS](GUYS.md)  
 &emsp; [METEOR](METEOR.md)  
@@ -25,6 +29,7 @@ All the archetypes of custom cards I’ve cryzen. Favourites are **weighten**.
 &emsp; [Immunicipality](Immunicipality.md)  
 &emsp; [Immunit](Immunit.md)  
 &emsp; [Immunition](Immunition.md)  
+Inkurzen  
 [Kinetic Warrior](Kinetic%20Warrior.md)  
 [k-Knight](k-Knight.md)  
 &emsp; [Tekk-Knight](Tekk-Knight.md)  
@@ -38,6 +43,7 @@ All the archetypes of custom cards I’ve cryzen. Favourites are **weighten**.
 &emsp; [Next-Gen A-to-Z](Next-Gen%20A-to-Z.md)  
 &emsp; [Next-Gen Code Talker](Next-Gen%20Code%20Talker.md)  
 &emsp; [Next-Gen Cyber Dragon](Next-Gen%20Cyber%20Dragon.md)  
+[Ninjato](Ninjato.md)  
 [**Rubic**](Rubic.md)  
 [**Soul**](Soul.md)  
 [Stranded](Stranded.md)  
