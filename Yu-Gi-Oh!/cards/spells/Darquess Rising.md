@@ -19,7 +19,7 @@
     <td> <a href="../../archetypes/Darquess.md">Darquess</a> </td>
   </tr>
   <tr>
-    <td> Types </td>
+    <td> Property </td>
     <td> Ritual </td>
   </tr>
 </table>
