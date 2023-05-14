@@ -55,8 +55,8 @@
 
 ## Aspects
 
-| aspect | type | name | notes |
-| :----- | :--- | :--- | :---- |
+| aspect | name | notes |
+| :----- | :--- | :---- |
 
 
 <br>
