@@ -59,3 +59,9 @@
 
 
 ## Trivia
+
+- This Monster is similar to [Kashtira Arise-Heart](https://yugipedia.com/wiki/Kashtira_Arise-Heart).
+  - Both have an archetypal Summon condition.
+  - Both have a Continuous Effect that synergyzes with their archetype’s playstyle.
+  - Both have a once per Chain effect that attaches other cards to themselves as Material.
+  - Both have a disruptive Quick Effect that follows their archetype’s playestyle.
