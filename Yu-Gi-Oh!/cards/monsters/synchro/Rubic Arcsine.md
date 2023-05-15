@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td> archetype </td>
-    <td> <a href="../../archetypes/Rubic.md">Rubic</a> </td>
+    <td> <a href="../../../archetypes/Rubic.md">Rubic</a> </td>
   </tr>
   <tr>
     <td> Types </td>
