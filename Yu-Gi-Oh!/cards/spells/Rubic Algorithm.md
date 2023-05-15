@@ -8,7 +8,7 @@
     <th colspan="3"> <h3> Rubic Algorithm </h3> </th>
   </tr>
   <tr>
-    <td rowspan="4"> <img src="../../../../.assets/cards/spells/Rubic Algorithm.png" width="320px"> </td>
+    <td rowspan="4"> <img src="../../../.assets/cards/spells/Rubic Algorithm.png" width="320px"> </td>
   </tr>
   <tr>
     <td> type </td>
