@@ -44,19 +44,10 @@
 <br>
 
 
-## Effects
-
-| effect | type | name | notes |
-| :----- | :--- | :--- | :---- |
-
-
-<br>
-
-
 ## Aspects
 
-| aspect | name | notes |
-| :----- | :--- | :---- |
+| aspect | type | name | notes |
+| :----- | :--- | :--- | :---- |
 
 
 <br>
