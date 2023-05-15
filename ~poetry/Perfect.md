@@ -10,7 +10,7 @@ When I’m with him I can pour out my soul,
 He’s everything a friend could be and more.  
 I think by now I’ve truly given in,  
 No matter who else I find in the world,  
-Can never understand me quite like him,  
+Could never understand me quite like him,  
 If only in some life he were a girl.  
 Why should I open up to someone new?  
 Should lower my expectations a few.  
