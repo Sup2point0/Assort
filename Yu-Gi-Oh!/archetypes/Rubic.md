@@ -467,7 +467,7 @@ Since several of the archetype’s effects involve moving cards to appropriate a
 
 ### Nomenclature
 
-<details hide>
+<details open>
   <summary> <b> display </b> </summary> <br>
 
 - The name of the archetype is a portmanteau of *Rubik* (from [Ernő Rubik](https://en.wikipedia.org/wiki/Ern%C5%91_Rubik), the inventor of the Rubik’s cube) and *cubic* (from ‘cube’).
@@ -642,7 +642,7 @@ Since several of the archetype’s effects involve moving cards to appropriate a
 
 ### Numbers
 
-<details hide>
+<details open>
   <summary> <b> display </b> </summary> <br>
 
 Numbers relating to trigonometrics and Rubik’s Cubes feature prominently throughout the archetype.
