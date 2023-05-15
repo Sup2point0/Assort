@@ -48,6 +48,12 @@
 
 | aspect | type | name | notes |
 | :----- | :--- | :--- | :---- |
+| Unaffected by activated effects, except those of ‘Rubic’ cards, while in the Extra Monster Zone. | continuous | | |
+| This card gains 1200 ATK for each card it links to. | continuous | |
+| Once per Chain (Quick Effect): You can move this card to your Main or Extra Monster Zone it links to. | | |
+| Once per turn, if this card moves to a Main Monster Zone: You can target 1 other Monster on the field or in either player’s Graveyard; place it in your Main Monster Zone this card links to. (If your opponent owns it, take control of it.) | trigger | | Now that’s terrifying. |
+| You can only control 1 ‘Rubic Hexangle’. | control condition | | Gotta love control restrictions. |
+| 600 ATK | attack | | Very low ATK indeed, but easily rises with cards nearby. |
 
 
 <br>
