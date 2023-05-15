@@ -12,3 +12,14 @@ Oh yeah, and yeah no, I’m aware half of them don’t make any sense at all, an
 
 | poem | time |
 | :--- | :--- |
+| [This](This.md) | April 2021 |
+| [Heavy Crown](Heavy%20Crown.md) | Autumn 2021 |
+| [Time of the Times](Time%20of%20the%20Times.md) | November 2021 |
+| [Fortisan](Fortisan.md) | December 2021 |
+| [Reverie]([Reverie.md) | Winter 2021 |
+| [Strive]([Strive.md) | Summer 2022 |
+| [Teardrop](Teardrop.md) | September 2022 |
+| [What Was This Called Again?](What%20Was%20This%20Called%20Again?.md) | March 2023 |
+| [Quantitative Quantitivity](Quantitative%20Quantitivity.md) | March 2023 |
+| [Perfect](Perfect.md) | April 2023 |
+| [Lifeless](Lifeless.md) | April 2023 |
