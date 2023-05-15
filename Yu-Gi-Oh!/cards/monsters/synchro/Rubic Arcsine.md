@@ -48,7 +48,7 @@
 
 | aspect | type | name | notes |
 | :----- | :--- | :--- | :---- |
-| If this card was Synchro Summoned using a Synchro Monster as Material, it is unaffected by other card’s effects, except those of ‘Rubic’ cards. | continuous | | Accel Synchro ftw! |
+| If this card was Synchro Summoned using a Synchro Monster as Material, it is unaffected by other cards’ effects, except those of ‘Rubic’ cards. | continuous | | Accel Synchro ftw! |
 | If this card battles a Monster in another column, triple any battle damage inflicted to your opponent. | continuous | | That’s gonna be some serious damage. |
 | If this Synchro Summoned card leaves the field: You can Special Summon up to 3 of your banished ‘Rubic’ Monsters with Levels, whose total Levels do not exceed 12. | trigger | | To go with [Rubic Revenge](../../../archetypes/Rubic.md#Trap-Interruption) |
 
