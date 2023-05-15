@@ -465,8 +465,10 @@ Since several of the archetype’s effects involve moving cards to appropriate a
 - A high proportion of the card art is, in fact, shamelessly stolen from existing *Yu-Gi-Oh!* cards.
   - Those archetypes include protively [Mathmech](https://yugipedia.com/wiki/Mathmech) and [Topologic](https://yugipedia.com/wiki/Topologic), as well as [Deskbot](https://yugipedia.com/wiki/Deskbot), [Cubic](https://yugipedia.com/wiki/Cubic) (the ironicity, I know), [Tindangle](https://yugipedia.com/wiki/Tindangle), and varical [Cyberse](https://yugipedia.com/wiki/Cyberse) support.
 
+### Nomenclature
+
 <details hide>
-  <summary> <b> Nomenclature Trivia </b> </summary> <br>
+  <summary> <b> display </b> </summary> <br>
 
 - The name of the archetype is a portmanteau of *Rubik* (from [Ernő Rubik](https://en.wikipedia.org/wiki/Ern%C5%91_Rubik), the inventor of the Rubik’s cube) and *cubic* (from ‘cube’).
 - All of the names within the archetype derivityze from trigonometrical or speedcubing terms.
@@ -638,8 +640,10 @@ Since several of the archetype’s effects involve moving cards to appropriate a
 
 </details>
 
+### Numbers
+
 <details hide>
-  <summary> <b> Numbers Trivia </b> </summary> <br>
+  <summary> <b> display </b> </summary> <br>
 
 Numbers relating to trigonometrics and Rubik’s Cubes feature prominently throughout the archetype.
 
