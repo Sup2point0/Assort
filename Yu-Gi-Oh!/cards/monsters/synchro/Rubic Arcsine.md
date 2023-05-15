@@ -8,7 +8,7 @@
     <th colspan="3"> <h3> Rubic Arcsine </h3> </th>
   </tr>
   <tr>
-    <td rowspan="8"> <img src="../../../.assets/cards/–/Rubic Arcsine.png" width="320px"> </td>
+    <td rowspan="8"> <img src="../../../../.assets/cards/synchro/Rubic Arcsine.png" width="320px"> </td>
   </tr>
   <tr>
     <td> type </td>
