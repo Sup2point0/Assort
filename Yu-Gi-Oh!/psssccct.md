@@ -77,6 +77,9 @@ Then there’s the weird capitalyzacion of effects – `Condition: Cost; resolut
 
 So, a lot of the changes will tackle inconsistencys in structure and capitalyzacion, while condensing several well-known key words or phrases – above all, the aim was to maintain readability alongside balancing efficiency.
 
+### Enumeryzacion
+Aw yeah, *this* is my favourite part. Bullet pointing effects would be great, but it’s also quite impracticle
+
 
 <br>
 
@@ -113,12 +116,12 @@ A list of all the syntax changes.
 
 | original | novel | notes |
 | :------- | :---- | :---- |
-| `Condition: Cost; resolution. You can only {...} once per turn.` | `[~] Condition: Cost; Resolution.` | resolution clause is also capitalyzen |
+| `Condition: Cost; resolution. You can only {...} once per {...}.` | `[~] Condition: Cost; Resolution.` | resolution clause is also capitalyzen |
 | `You can only use this effect of ‘...’ once per turn.` | `[HOPT]` | placed at the start of the effect after the number |
 | `(Quick Effect)` | `[Quick]` | placed at start of effect, can be merged with other modifyzers |
 | `Spell/Trap` | `S/T` | |
 | `Extra Deck` | `XD` | |
-| `~ Phase` | `~P` | `BP` for ‘Battle Phase’, `MP2` for ‘Main Phase 2’, etc. |
+| `{...} Phase` | `~P` | `BP` for ‘Battle Phase’, `MP2` for ‘Main Phase 2’, etc. |
 | `Normal Summon` | `NS` | `NSs` and `NSd` for Normal ‘Summons’ and ‘Summoned’ |
 | `Special Summon` | `SS` | `SSs` and `SSd` for Special ‘Summons’ and ‘Summoned’ |
 | `Attack/Defense Position` | `ATK/DEF Position` | the abbrevyzacions are already there, why not use them? |
