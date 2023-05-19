@@ -39,7 +39,7 @@
 </details>
 
 <details>
-  <summary> <b> Derivatives </b> </summary>
+  <summary> <b> Deryvatics </b> </summary>
 
 &emsp; [](#)  
 
@@ -53,7 +53,7 @@
 </details>
 
 <details>
-  <summary> <b> Related </b> </summary>
+  <summary> <b> Relyzen </b> </summary>
 
 &emsp; [](#)  
 
@@ -61,6 +61,3 @@
 
 
 <br>
-
-
-[]() – []()  
