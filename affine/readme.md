@@ -1,10 +1,10 @@
 # Affine
 
+> Everything in this folder is written in [Antarctican English](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md). Most words are recognyzable, but those that may be ambiguous will have a [link](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/dict.md 'watch out for these!') you can hover over, to view its standard English equivalent.
+
 *Affine* – magic or supernaturalism – is a phenomenon present in certain [xeriques](../xeriques.md), in particular the [Supxerique](../xeriques.md#supxerique).
 
 See [affinitys](affinitys.md) for a full list of affinitys, or [spells](spells.md) for a list of affinical spells. Here are some cool ones to check out first!
-
-> Everything in this folder is written in [Antarctican English](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md). Most words are recognyzable, but those that may be ambiguous will have a [link](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/dict.md 'watch out for these!') you can hover over, to view its standard English equivalent.
 
 ### Affinitys
 [koniokinetis](affinitys/koniokinetics.md)  
