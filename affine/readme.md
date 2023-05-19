@@ -63,7 +63,7 @@ See [affinitys](affinitys.md) for a full list of affinitys, or [spells](spells.m
     &emsp; <a href="#enhancement">Enhancement</a> <br>
     &emsp; <a href="#competency">Competency</a> <br>
     &emsp; <a href="#mastery">Mastery</a> <br>
-    <a href="#evolution">Evolution</a>
+    <a href="#evolucion">Evolucion</a>
   </td>
 </table>
 
@@ -311,6 +311,6 @@ How difficult it is to properly master.
 <br>
 
 
-## Evolution
+## Evolucion
 
-Most affinitys are entirely unique, spontaneously emerging. Some deryve from others through evolution, changing or specialyzing the way in which the affinity is harnessed. The *prime* affinitys are the primordial fundamental superpowers bestowed upon the first affinitics, and indeed remain the most common.
+Most affinitys are entirely unique, spontaneously emerging. Some deryve from others through evolucion, changing or specialyzing the way in which the affinity is harnessed. The *prime* affinitys are the primordial fundamental superpowers bestowed upon the first affinitics, and indeed remain the most common.
