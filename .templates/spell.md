@@ -20,7 +20,7 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> incantyzacion </td>
+    <td> incantacion </td>
     <td> <em> – </em> </td>
   </tr>
   <tr>
