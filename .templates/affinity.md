@@ -12,19 +12,19 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> <a href="../readme.md#types">type</a> </td>
+    <td> <a href="../readme.md#Types">type</a> </td>
     <td> – </td>
   </tr>
   <tr>
-    <td> <a href="../readme.md#attributes">attribute</a> </td>
+    <td> <a href="../readme.md#Attributes">attribute</a> </td>
     <td> – </td>
   </tr>
   <tr>
-    <td> <a href="../readme.md#channels">channels</a> </td>
+    <td> <a href="../readme.md#Channels">channels</a> </td>
     <td> – </td>
   </tr>
   <tr>
-    <td> <a href="../readme.md#classes">classes</a> </td>
+    <td> <a href="../readme.md#Classes">classes</a> </td>
     <td> – </td>
   </tr>
   <tr>
@@ -62,15 +62,15 @@
     <td> – </td>
   </tr>
   <tr>
-    <td> deryzacion </td>
+    <td> deryvacion </td>
     <td> – </td>
   </tr>
   <tr>
-    <td> deryzatics </td>
+    <td> deryvatics </td>
     <td> – </td>
   </tr>
   <tr>
-    <td> related </td>
+    <td> relyzen </td>
     <td> <a href="–">–</a> </td>
   </tr>
 </table>
