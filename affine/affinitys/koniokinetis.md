@@ -1,6 +1,6 @@
 # Koniokinetis
 
-A highly specialyzen deryvatic of [telekinetis](telekinetis.md), opting to control only dust and other fine particulates, which grants [enhancen](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Verb-Endings 'enhanced') [capabilitys](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Plurals 'capabilities').
+A highly specialyzen deryvatic of [telekinetis](telekinetis.md), opting to control only dust and other fine particulates, which grants enhancen capabilitys.
 
 
 <table>
@@ -58,15 +58,15 @@ A highly specialyzen deryvatic of [telekinetis](telekinetis.md), opting to contr
     <td> moderative </td>
   </tr>
   <tr>
-    <td> <a href="https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Verb-Endings" title="derivation">deryvacion</a> </td>
+    <td> deryvacion </td>
     <td> <a href="telekinetis.md">telekinetis</a> </td>
   </tr>
   <tr>
-    <td> <a href="https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md" title="derivatives">deryvates</a> </td>
+    <td> deryvates </td>
     <td> none </td>
   </tr>
   <tr>
-    <td> <a href="https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Verb-Endings" title="related">relyzen</a> </td>
+    <td> relyzen </td>
     <td> <a href="–">–</a> </td>
   </tr>
 </table>
@@ -111,28 +111,28 @@ There are no classes of koniokinetis – all koniokinetics are psychive. Instead
 
 ### Tecniques
 - **dust cleaning** – remove all dust from a surface. Very useful in daily life.
-- **dust mechanics** – form hands and tools of dust to operyze on [intricative](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Noun--Adjectic-Endings 'intricate') [contrapcions](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Noun--Adjectic-Endings 'contraptions'). Very useful for engineers.
+- **dust mechanics** – form hands and tools of dust to operyze on [intricative](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Noun--Adjectic-Endings 'intricate') contrapcions. Very useful for engineers.
 - **dust platforms** – platforms to support other objects.
 - **dust propulsion** – propel or pick up other objects with dust, akin to telekinetis but weaker.
-  - propelling oneself is entirely possible, and can be used to [levityze](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Verb-Endings 'levitate') or even fly, though this becomes very draining.
+  - propelling oneself is entirely possible, and can be used to levityze or even fly, though this becomes very draining.
 
 ### Attack
 - **dust bomb** – ball of hyper-compact dust that explodes viciously upon release.
-- **dust cage** – cage of dust (any shape) that contracts to trap and [immobilyze](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Verb-Endings 'mobilise') an enemy.
+- **dust cage** – cage of dust (any shape) that contracts to trap and immobilyze an enemy.
   - often a precursor to dust [suffocyzacion](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Verb-Endings 'suffocation').
 - **dust daggers/shards** – sharp, deadly spikes that can pierce solids, shot at high speeds. Usually formed as a swarm.
 - **dust rupture** – violent explosions of any dust structure.
-- **dust shields** – smaller protective shields, which [disintegryze](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Verb-Endings 'disintegrate') upon attack to absorb the impact.
-- **dust snake** – slithering snake, mainly for [distraccion](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Noun--Adjectic-Endings 'distraction') or [intimidyzacion](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Verb-Endings 'intimidation').
+- **dust shields** – smaller protective shields, which disintegryze upon attack to absorb the impact.
+- **dust snake** – slithering snake, mainly for distraccion or intimidyzacion.
 - **dust storm** – unfocused dust stream over a large area.
 - **dust stream** – fast gust of dust. Can be used to blind, choke, knock back or even pick up enemys.
-- **dust suffocyzacion** – trapping dust in various orifices of enemys, causing [disrupcion](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Noun--Adjectic-Endings) or damage.
+- **dust suffocyzacion** – trapping dust in various orifices of enemys, causing disrupcion or damage.
   - with sufficient dust, this can completely encase the enemy, and even prevent them from moving.
 - **dust torpedo** – missile that explodes on impact, akin to dust bomb.
 - **dust typhoon** – massive swirling vortex that engulfs enemys. Can be used in various shapes and sizes, including a horizontal drill.
 - **dust wall** – large protective barrier. The more dust, the stronger.
 - **dustshaker** – shockwave that shakes dust off surfaces.
-- **vacuum zero** – suck up all dust in a space, reducing air pressure and temperature. Often [utilyzen](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Verb-Endings 'utilised') in [conjunccion](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Noun--Adjectic-Endings 'conjunction') with a dust wall enclosure.
+- **vacuum zero** – suck up all dust in a space, reducing air pressure and temperature. Often utilyzen in conjunccion with a dust wall enclosure.
 
 
 <br>
@@ -140,7 +140,7 @@ There are no classes of koniokinetis – all koniokinetics are psychive. Instead
 
 ## Affinitics
 
-When wielded [proficiantly](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Noun--Adjectic-Endings 'proficiently'), koniokinetis can be excepcionally powerful. Its high specialyzacion grants koniokinetics greatly enhancen strength and finesse, far exceeding that of a regular telekinetic. As a protive affinity, it is very versatile and flexible, effective at both attack and defence, along with combat and utility, which is often [overlooken](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Verb-Endings 'overlooked'). With the ability to manipulyze dust however they desire, a koniokinetic’s potency is restricted only by their creativity and imaginacion. This adaptability and unpredictability is part of what makes them so powerful, especially to those who have never [encountern](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Verb-Endings 'encountered') koniokinetis before – which is often the case, due to its rarity.
+When wielded [proficiantly](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Noun--Adjectic-Endings 'proficiently'), koniokinetis can be excepcionally powerful. Its high specialyzacion grants koniokinetics greatly enhancen strength and finesse, far exceeding that of a regular telekinetic. As a protive affinity, it is very versatile and flexible, effective at both attack and defence, along with combat and utility, which is often overlooken. With the ability to manipulyze dust however they desire, a koniokinetic’s potency is restricted only by their creativity and imaginacion. This adaptability and unpredictability is part of what makes them so powerful, especially to those who have never [encountern](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md#Verb-Endings 'encountered') koniokinetis before – which is often the case, due to its rarity.
 
 <table>
   <tr>
