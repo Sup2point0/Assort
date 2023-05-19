@@ -73,7 +73,7 @@ The scale of magnitude used throughout various sections.
     <td> <img src=".assets/spectrus/spectrus.blue.high.png" width="360px"> </td>
   </tr>
   <tr>
-    <th align="left"> moderate </th>
+    <th align="left"> moderative </th>
     <td> <img src=".assets/spectrus/spectrus.blue.moderate.png" width="360px"> </td>
   </tr>
   <tr>
