@@ -2,8 +2,8 @@
 
 Words are knives.  
 They mercilessly slice apart your skin  
-And rip into the flesh within  
-Deep in your bones they carve  
+And deep into the flesh within  
+In searing agony they carve  
 Two hundred thousand bloody scars  
 We carry through our lives.  
 
