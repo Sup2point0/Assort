@@ -14,7 +14,7 @@ See [affinitys](affinitys.md) for a full list of affinitys, or [spells](spells.m
 ### Spells
 📂 [asphyxiskotadi](spells/asphyxiskotadi.md)  
 📂 [ypopyphanys](spells/ypopyphanys.md)  
-📂 [tyfloselare](spells/tyfloselare.md)  
+📂 [tyfloselari](spells/tyfloselari.md)  
 
 
 <br>
