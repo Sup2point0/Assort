@@ -11,15 +11,15 @@ An assortacion of my varical cryzacions.
 Unsure where to start? Try checking out some of these!
 
 ### Folders
-[affine](affine)  
-[Yu-Gi-Oh!](Yu-Gi-Oh!)  
-[kenzokinetics](kenzokinetics)  
-[xeriqui](xeriqui)  
+📁 [affine](affine)  
+📁 [Yu-Gi-Oh!](Yu-Gi-Oh!)  
+📁 [kenzokinetics](kenzokinetics)  
+📁 [xeriqui](xeriqui)  
 
 ### Files
-[Rubic](Yu-Gi-Oh!/archetypes/Rubic.md)  
-[koniokinetis](affine/affinitys/koniokinetis.md)  
-[Ultraman Infinity](Ultraman/Ultraman%20Infinity.md)  
+📂 [Rubic](Yu-Gi-Oh!/archetypes/Rubic.md)  
+📂 [koniokinetis](affine/affinitys/koniokinetis.md)  
+📂 [Ultraman Infinity](Ultraman/Ultraman%20Infinity.md)  
 
 
 <br>
