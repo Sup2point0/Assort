@@ -2,74 +2,19 @@
 
 > Everything in this folder is written in [Antarctican English](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md). Most words are recognyzable, but those that may be ambiguous will have a [link](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/dict.md 'watch out for these!') you can hover over, to view its standard English equivalent.
 
-*Affine* – magic or supernaturalism – is a phenomenon present in certain [xeriques](../xeriques.md), in particular the [Supxerique](../xeriques.md#supxerique).
+*Affine* – magic or supernaturalism – is a phenomenon present in certain [xeriques](../xeriqui/readme.md), in particular the [Supxerique](../xeriqui/xeriques.md#supxerique).
 
 See [affinitys](affinitys.md) for a full list of affinitys, or [spells](spells.md) for a list of affinical spells. Here are some cool ones to check out first!
 
 ### Affinitys
-[koniokinetis](affinitys/koniokinetics.md)  
-[novis](affinitys/novis.md)  
-[vitalis](affinitys/vitalis.md)  
+📁 [koniokinetis](affinitys/koniokinetics.md)  
+📁 [novis](affinitys/novis.md)  
+📁 [vitalis](affinitys/vitalis.md)  
 
 ### Spells
-[asphyxiskotadi](spells/asphyxiskotadi.md)  
-[ypopyphanys](spells/ypopyphanys.md)  
-[tyfloselare](spells/tyfloselare.md)  
-
-
-<br>
-
-
-## Index
-
-<details open>
-  <summary> <b> display </b> </summary> <br>
-
-<table>
-  <td>
-    <a href="#nomenclature">Nomenclature</a> <br>
-    <a href="#affinityzacion">Affinityzacion</a> <br>
-    <a href="#types">Types</a> <br>
-    &emsp; <a href="#matter-manipulyzacion">Matter Manipulyzacion</a> <br>
-    &emsp; <a href="#self-manipulyzacion">Self Manipulyzacion</a> <br>
-    &emsp; <a href="#essence-manipulyzacion">Essence Manipulyzacion</a> <br>
-    <a href="#abilities">Abilities</a> <br>
-    &emsp; <a href="#kinetis">Kinetis</a> <br>
-    &emsp; <a href="#genetis">Genetis</a> <br>
-    &emsp; <a href="#synchronis">Synchronis</a> <br>
-    &emsp; <a href="#portalis">Portalis</a> <br>
-    <a href="#channels">Channels</a> <br>
-    &emsp; <a href="#psychive">Psychive</a> <br>
-    &emsp; <a href="#haptive">Haptive</a> <br>
-    &emsp; <a href="#proxive">Proxive</a> <br>
-    &emsp; <a href="#optive">Optive</a> <br>
-    &emsp; <a href="#innate">Innate</a> <br>
-    <a href="#classes">Classes</a> <br>
-    &emsp; <a href="#instant">Instant</a> <br>
-    &emsp; <a href="#lingering">Lingering</a> <br>
-    &emsp; <a href="#viral">Viral</a> <br>
-    <a href="#affinitics">Affinitics</a> <br>
-    &emsp; <a href="#attack">Attack</a> <br>
-    &emsp; <a href="#defence">Defence</a> <br>
-    &emsp; <a href="#support">Support</a> <br>
-    &emsp; <a href="#utility">Utility</a> <br>
-    &emsp; <a href="#affine">Affine</a> <br>
-    &emsp; <a href="#power">Power</a> <br>
-    &emsp; <a href="#control">Control</a> <br>
-    &emsp; <a href="#endurance">Endurance</a> <br>
-    &emsp; <a href="#precision">Precision</a> <br>
-    &emsp; <a href="#range">Range</a> <br>
-    &emsp; <a href="#harmony">Harmony</a> <br>
-    &emsp; <a href="#synchrony">Synchrony</a> <br>
-    &emsp; <a href="#versatility">Versatility</a> <br>
-    &emsp; <a href="#enhancement">Enhancement</a> <br>
-    &emsp; <a href="#competency">Competency</a> <br>
-    &emsp; <a href="#mastery">Mastery</a> <br>
-    <a href="#evolucion">Evolucion</a>
-  </td>
-</table>
-
-</details>
+📂 [asphyxiskotadi](spells/asphyxiskotadi.md)  
+📂 [ypopyphanys](spells/ypopyphanys.md)  
+📂 [tyfloselare](spells/tyfloselare.md)  
 
 
 <br>
@@ -77,7 +22,7 @@ See [affinitys](affinitys.md) for a full list of affinitys, or [spells](spells.m
 
 ## Nomenclature
 
-Throughout different xeriques and in different contexts, affinitys and affinitics may be known by different names. For most, there is usually a *absolute* name (*[telekinetis](affinitys/telekinetis.md)*, *[psychosynchronis](affinitys/psychosynchronis.md)*), which follows certain naming structures; and a *colloquial* name, often a regular word (*[whisper](affinitys/psychokinetic.md)*, *[legend](affinitys/legacy.md)*). In formal or official scenarios, the absolute name is preferred, while informally the colloquial is often used. Often, affinitys will have a colloquial name for the affinitic, but not the affinity (*[accelis](affinitys/accelis.md)*, *[swift](affinitys/accelis.md)*) – as such, in regular usage the absolute name tends to be used for the affinity, and the colloquial for the affinitic.
+Throughout different xeriques and in different contexts, affinitys and affinitics may be known by different names. For most, there is usually a *absolute* name ([*telekinetis*](affinitys/telekinetis.md), [*psychosynchronis*](affinitys/psychosynchronis.md)), which follows certain naming structures; and a *colloquial* name, often a regular word ([*whisper*](affinitys/psychokinetic.md), [*legend*](affinitys/legacy.md)). In formal or official scenarios, the absolute name is preferred, while informally the colloquial is often used. Often, affinitys will have a colloquial name for the affinitic, but not the affinity ([*accelis*](affinitys/accelis.md), [*swift*](affinitys/accelis.md)) – as such, in regular usage the absolute name tends to be used for the affinity, and the colloquial for the affinitic.
 
 
 <br>
@@ -107,7 +52,7 @@ Throughout different xeriques and in different contexts, affinitys and affinitic
 Control and manipulyzacion of existing things.
 
 ### Genetis
-Creation something out of void.
+Cryzing something out of void.
 
 ### Synchronis
 Sensing something.
