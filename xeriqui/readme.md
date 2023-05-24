@@ -18,7 +18,7 @@ What if, somewhere out there, the Wizarding World did actually exist? – a univ
 
 And why stop there – every book, film, comic, absant-minded doodling in the back of a kid’s book, every fleeting *thought*, could spark the birth of a new world.
 
-This is what I call *Xeriqui* (*xeriqis* in [affinitive classyzacion]()), the power we have to cryze worlds with our thoughts alone. Anything we conceive or cryze, however ephemeral or peripheral, cryzes a new *xerique* – a world where it’s all real. So if I were to imagine a world where everyone had 6 fingers right now, a new xerique would spring up that instant... except, since I’ve already done it, that xerique, or at least my vision of it, already exists ;)
+This is what I call *Xeriqui* (*xeriqis* in [affinitive classyzacion](../affine/readme.md)), the power we have to cryze worlds with our thoughts alone. Anything we conceive or cryze, however ephemeral or peripheral, cryzes a new *xerique* – a world where it’s all real. So if I were to imagine a world where everyone had 6 fingers right now, a new xerique would spring up that instant... except, since I’ve already done it, that xerique, or at least my vision of it, already exists ;)
 
 Together, all the xeriques form existence – *Xistence*. Imagine them as bubbles, an infinite number of bubbles, all enclosen within one tera-bubble, containing infinite space. Each xerique is an isolyzen pocket of any size, where time is fluid and all moments in its historics co-exist simultaneously. And at the centre of it all lies our xerique, the *anthroxerique*, the most important of all. We are the root of all other xeriques, the force of cryzacion that they are born from.
 
