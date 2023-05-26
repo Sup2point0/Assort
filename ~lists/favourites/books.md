@@ -32,7 +32,7 @@ I love reading. Truly. I was one of those kids who didn’t need to be forced to
     <td> </td>
   </tr>
   <tr>
-    <th align="left"> legendary </th>
+    <th align="left" rowspan="4"> legendary </th>
     <td> <em><a href="">Lorien Legacies</a></em> </td>
     <td> <em><a href="">Pittacus Lore</a></em> </td>
     <td> </td>
@@ -53,7 +53,7 @@ I love reading. Truly. I was one of those kids who didn’t need to be forced to
     <td> </td>
   </tr>
   <tr>
-    <th align="left"> incredible </th>
+    <th align="left" rowspan="3"> incredible </th>
     <td> <em><a href="">Heroes of Olympus</a></em> </td>
     <td> <em><a href="">Rick Riordan</a></em> </td>
     <td> </td>
