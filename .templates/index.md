@@ -16,6 +16,30 @@
 <br>
 
 
+## Favourite
+
+<table>
+  <tr>
+    <th align="left" rowspan=""> xeniqive </th>
+  </tr>
+  <tr>
+    <th align="left" rowspan=""> legendary </th>
+  </tr>
+  <tr>
+    <th align="left" rowspan=""> incredible </th>
+  </tr>
+  <tr>
+    <th align="left" rowspan=""> awesome </th>
+  </tr>
+  <tr>
+    <th align="left" rowspan=""> cool </th>
+  </tr>
+</table>
+
+
+<br>
+
+
 ## word
 
 ### Case
