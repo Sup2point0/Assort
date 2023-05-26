@@ -1,6 +1,6 @@
-# Linque
+# Slinqui
 
-An [assortent]() of my [varical]() [inventen]() phrases and [terminologics]().
+An [assortacion]() of my [varical]() [inventen]() phrases and [terminologics]().
 
 | line | meaning | instance |
 | :--- | :------ | :------- |
