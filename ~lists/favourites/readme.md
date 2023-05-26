@@ -7,38 +7,37 @@ Every favourite thing you could ever imagine (eventually).
 
 | category | favourite | favourites |
 | :------- | :-------- | :--------- |
-| animal | dragon <br> spider | |
-| bedtime remark | ‘sweet dreams’ <br> ‘gnight’ | |
-| board game | Settlers of Catan | Scrabble <br> Go <br> chess |
+| animal | dragon, spider | |
+| board game | [Settlers of Catan](https://wikipedia.org/wiki/Catan) | Scrabble, [Go](https://wikipedia.org/wiki/Go_(game)), chess |
 | book genre | dystopian fantasy future fiction | romance |
-| car brand | Mercedes-Benz <br> Audi | |
-| card game | *Yu-Gi-Oh!* | Uno |
-| colour | blue <br> pink | orange <br> purple |
+| car brand | Mercedes-Benz, Audi | |
+| card game | *Yu-Gi-Oh!* | *Uno* |
+| colour | blue, pink | orange, purple |
 | country | Antarctica | |
 | climate | temperate | |
 | day of week | Thursday | |
 | emoji | 👀 | <img src="../../.assets/blob.party.gif" width="20px"> <img src="../../.assets/blob.happy.png" width="20px"> <img src="../../.assets/eyes.spastic.png" width="20px"> |
 | eye colour | anyone up for violet? | heterochromical blue-green |
-| fairytale | Jack and the Beanstalk <br> Sleeping Beauty |
-| farewell | ‘cya’ <br> ‘gbye’ | |
-| feeling | nostalgia <br> satisfaction | |
+| fairytale | Jack and the Beanstalk, Sleeping Beauty |
+| feeling | nostalgia, satisfaction | |
 | film | *Spider-Man: Homecoming* | [view more](films.md) |
-| greeting | ‘sup’ | ‘heyo’ <br> ‘suppety sup’ |
-| hair colour | black | red <br> deep blue if you really feel like dyeing it |
+| greeting | ‘sup’ | ‘heyo’, ‘suppety sup’ |
+| hair colour | black | deep blue if you really feel like dyeing it |
 | hair type | straight and silky | |
 | holiday | April Fools’ | |
-| instrument | synthesyzer | piano <br> drums |
-| month | September <br> April | |
+| instrument | synthesyzer | piano, drums |
+| month | September, April | |
 | music artist | Elektronomia | [view more](music.md) |
 | music genre | electronic dance music | epic cinematic music |
+| number | 20 | [view more](numbers.md)
 | school subject | Computer Science | Chemistry |
-| shape | hexagon | rhombus <br> kite <br> triangle |
+| shape | hexagon | rhombus, kite, triangle |
 | signature | ‘yours sincerely’ | |
-| social media | Discord <br> reddit | |
+| social media | Discord, reddit | |
 | sport | tennis | rollerblading |
-| sports car brand | Lamborghini <br> McLaren | |
+| sports car brand | Lamborghini, McLaren | |
 | superhero | Spider-Man | Dr Strange |
-| supernatural ability | invisibility <br> teleportation <br> incorporeality | |
+| supernatural ability | invisibility, teleportation, incorporeality | |
 | transport | train | scooter |
 
 
@@ -54,15 +53,14 @@ Every favourite thing you could ever imagine (eventually).
 | drink | ice tea | aloe vera |
 | English breakfast part | hash browns | |
 | ice cream flavour | chocolate | |
-| fruit | hami melon <br> Chinese pear | banana |
-| juice | apple <br> lychee | |
+| fruit | hami melon, Chinese pear | banana |
+| juice | apple, lychee | |
 | meal | udon noodles | |
-| number | 20 | [view more](numbers.md)
 | pizza flavour | margherita | |
 | sauce | mayonnaise | soy sauce |
 | snack | 旺旺雪饼 | onion rings |
 | soft drink | *Fanta* orange | |
-| soup | tomato and egg | miso soup <br> mushroom |
+| soup | tomato and egg | miso soup, mushroom |
 | vegetable | sweetcorn | carrots |
 
 
@@ -85,7 +83,7 @@ Every favourite thing you could ever imagine (eventually).
 | :------- | :-------- | :--------- |
 | art | modern flat vector | |
 | aspect ratio | 16:9 | |
-| biology field | immunology <br> genetics | |
+| biology field | immunology, genetics | |
 | car | Lamborghini Aventador SV | [view more](cars.md) |
 | chemical formula | skeletal | |
 | chemist | Antoine Lavoisier | |
@@ -101,14 +99,14 @@ Every favourite thing you could ever imagine (eventually).
 | mathematician | Euclid | Laplace |
 | mathematics field | geometry | complex numbers |
 | military division | air | navy |
-| musical key | C# major | D major <br> F# major <br> A major |
+| musical key | C# major | D major, F# major, A major |
 | Microsoft Office application | Microsoft PowerPoint (2016) | |
-| Minecraft wood type | stripped oak | stripped birch <br> oak wood |
-| phone | iPhone SE (2016) | iPhone SE (2020) <br> iPhone 5s |
+| Minecraft wood type | stripped oak | stripped birch, oak wood |
+| phone | iPhone SE (2016) | iPhone SE (2020), iPhone 5s |
 | physics field | nuclear physics | particle physics |
-| pokémon | Pikachu | Squirtle <br> Yveltal |
-| programming language | Python | Markdown <br> CSS |
-| subreddit | [r/programmerhumor](https://reddit.com/r/programmerhumor) <br> [r/chemistrymemes](https://reddit.com/r/chemistrymemes) <br> [r/cursedchemistry](https://reddit.com/r/cursedchemistry) | |
+| pokémon | Pikachu | Squirtle, Yveltal |
+| programming language | Python | Markdown, CSS |
+| subreddit | [r/programmerhumor](https://reddit.com/r/programmerhumor), [r/chemistrymemes](https://reddit.com/r/chemistrymemes), [r/cursedchemistry](https://reddit.com/r/cursedchemistry) | |
 | tablet | 2019 iPad Air (3rd gen) | |
 | uppercase letter | `Q`, `J`, `V` | |
 
@@ -117,9 +115,11 @@ Every favourite thing you could ever imagine (eventually).
 
 | category | favourite | favourites |
 | :------- | :-------- | :--------- |
+| bedtime remark | ‘sweet dreams’, ‘gnight’ | |
+| farewell | ‘cya’, ‘gbye’ | |
 | flower | hyacinth | |
-| gemstone | aventurine | aquamarine <br> citrine |
+| gemstone | aventurine | aquamarine, citrine |
 | human aspect | voice | |
-| human feature | eyes <br> hair | |
-| scent | apple <br> aloe | |
-| tree | eucalyptus <br> sycamore <br> alder | |
+| human feature | eyes, hair | |
+| scent | apple, aloe | |
+| tree | eucalyptus, sycamore, alder | |
