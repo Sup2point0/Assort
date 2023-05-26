@@ -15,10 +15,10 @@ I love reading. Truly. I was one of those kids who didn’t need to be forced to
 
 <table>
   <tr>
-    <th> tier </th>
-    <th> series </th>
-    <th> author </th>
-    <th> notes </th>
+    <th align="left"> tier </th>
+    <th align="left"> series </th>
+    <th align="left"> author </th>
+    <th align="left"> notes </th>
   </tr>
   <tr>
     <th align="left" rowspan="2"> xeniqive </th>
