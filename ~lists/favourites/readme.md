@@ -109,6 +109,7 @@ Every favourite thing you could ever imagine (eventually).
 | subreddit | [r/programmerhumor](https://reddit.com/r/programmerhumor), [r/chemistrymemes](https://reddit.com/r/chemistrymemes), [r/cursedchemistry](https://reddit.com/r/cursedchemistry) | |
 | tablet | 2019 iPad Air (3rd gen) | |
 | uppercase letter | `Q`, `J`, `V` | |
+| whatever this is | You're No Good, Meant To Be, Close As Neighbours |
 
 
 ## Random
