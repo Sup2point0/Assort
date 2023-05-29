@@ -11,4 +11,4 @@ An [assortacion]() of my [varical]() [inventen]() phrases and [terminologics]().
 | lokay | ‘lol okay’ | *lokay sure* |
 | istx | ‘I swear to [xenique](xeriqui/readme.md)’. Less religious equivalent of ‘I swear to God’. | *oh my days why is this so difficult istx* |
 | smh my face <br> smh my life | Just extra emphasyzacion on 'smh' for comedic effect. | *I didn't sleep until midnight yesterday smh my life* |
-| tweaking your bones | Parody of ‘pulling your leg’, just a reference to the fact that I really like BONES fsr. | *Don’t worry, I’m only tweaking your bones.* |
+| stroking / tweaking your bones | Parody of ‘pulling your leg’, just a reference to the fact that I really like BONES fsr. | *Don’t worry, I’m only stroking your bones.* |
