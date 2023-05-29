@@ -1,6 +1,6 @@
 # Assort
 
-An assortacion of my varical cryzacions.
+An [assortacion](... 'assortment') of my [varical](... 'various') [cryzacions](... 'creations').
 
 
 <br>
@@ -25,6 +25,15 @@ Unsure where to start? Try checking out some of these!
 <br>
 
 
+## Frequerys
+
+### What’s all this for?
+{...}
+
+
+<br>
+
+
 ## Tiers
 
 The tiers used in [favourites](~lists/favourites).
@@ -32,7 +41,7 @@ The tiers used in [favourites](~lists/favourites).
 <table>
   <tr>
     <th align="left"> xeniqive </th>
-    <td> Xeniqive meaning ‘heavenly’. Saved for only the best. </td>
+    <td> [Xeniqive](...) meaning ‘heavenly’. Saved for only the best. </td>
   </tr>
   <tr>
     <th align="left"> legendary </th>
@@ -48,7 +57,7 @@ The tiers used in [favourites](~lists/favourites).
   </tr>
   <tr>
     <th align="left"> cool </th>
-    <td> No negativity here, even the stuff at the bottom is cool. </td>
+    <td> No negativity here, even the lowest stuff is cool. </td>
   </tr>
 </table>
 
@@ -58,7 +67,7 @@ The tiers used in [favourites](~lists/favourites).
 
 ## Spectrus
 
-The scale of magnitude used throughout various sections.
+The scale of magnitude used throughout varical [seccions](... 'sections').
 
 <table>
   <tr>
