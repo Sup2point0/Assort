@@ -15,11 +15,10 @@ The marks they leave that never heal
 Frozen dry by tears.  
 
 Words are pain.  
-The kind that lurks until you’re dead  
-For those who neglect to think ahead  
+The kind that grows in cold neglect  
+Within the heat of rage should we forget  
 The consequences of our words  
 of everlasting shame and hurt  
-
 Words are not a game.  
 
 
