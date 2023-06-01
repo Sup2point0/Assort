@@ -4,7 +4,7 @@ One of my favourite indulgences is freely browsing Wikipedia. Maybe it’s down 
 
 But Wikipedia is a wormhole, an endless one to go down.
 
-It all starts with the root page. The first page that I open up in a particular excursion, perhaps some research I’m doing, or a concept I’d like to find out more about. Say I’m learning about chemistry, and decide to search up [ligand]() on Wikipedia. Or programming, so I check out the page for [Hello, world!]().
+It all starts with the root page. The first page that I open up in a particular excursion, perhaps some research I’m doing, or a concept I’d like to find out more about. Say I’m learning about chemistry, and decide to search up [ligand](https://wikipedia.org/wiki/Ligand) on Wikipedia. Or programming, so I check out the page for [Hello, world!](https://wikipedia.org/wiki/%22Hello,_World!%22_program).
 
 For the purpose of this demonstration, let’s go with a pretty versatile option – the Wikipedia page on [worldbuilding](), which looks like this.
 
