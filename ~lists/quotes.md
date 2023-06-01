@@ -69,12 +69,14 @@ This one’s from Elon Musk.
 ## Quotes of Mine
 
 ***(Almost) everything is an anthropological construct.***
-Also known as 'everything is a human construct'.
+Also ‘everything is a human construct’.
 
 ***Everything will be alright.***
+Also ‘everything will be fine’.
+
+***Repetition reinforces, repeated repetition reduces.***
 
 ***There is no glass, life is a lie.***
 
 ***I can, but I can't.***
-
-***smh my life***
+Also ‘‹pronoun› can, but ‹pronoun› can’t’.
