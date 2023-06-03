@@ -10,7 +10,7 @@ I round the corner, out of breath. He’s sitting on the bench, at our usual spo
 &emsp; He looks at me know, with his piercing blue eyes. In them, I see trust. And hope.  
 &emsp; Except I know, without a doubt, that I can do absolutely nothing, to stop them from taking him. To stop them from taking away the one light in the darkness, my only friend, the one joy in my life. I am powerless.  
 &emsp; In my heart, I quietly say goodbye to him.  
-&emsp; My dear friend, Alex.
+&emsp; My dear friend, Alex.  
 
 
 <br>
