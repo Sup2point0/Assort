@@ -1,7 +1,5 @@
 # Precipice
 
-Emergence
-
 I hear the water long before I reach the peak.
 
 It’s a gentle tune that curls over the wall of ice, like a twinkling melody promising of something long lost, maddeningly trickling down the slope until it finds its way into my ears. It’s dizzying. It’s delicious. I would say I instantly perk up at the sound, but that wouldn’t be true: at this point the cold has crawled upwards far beyond my hands. It’s wrapping around my arms, ensnaring my neck, choking my eyes, blinding my ears, and it feels as if my heart has already been buried in the very ice I’m dragging myself across.
@@ -18,24 +16,32 @@ In warmth?
 
 And feeling rushes into me, a wave of feeling and sensation, and coughing and spurting and I’m alive, I’m awake, I’m alight with the raw intensity of feeling –
 
-“Hey, he’s awake!”
+*“Hey, he’s awake!”*
 
 I must be imagining things. My eyes can’t open. My mouth –
 
-“No way, he’s still alive?”
+*“No way, he’s still alive?”*
 
 And then I’m sucking in breath after breath, and all that runs through my mind is that air has never tasted so incredible –
 
-“Hey, hey, you’re alright now. Everything will be alright.”
+*“Hey, hey, you’re alright now. Everything will be alright.”*
 
 And finally my eyes unlock, and I’m squinting at the relieved smile of a human face.
 
-“Just take a moment. You’re safe here.”
+*“Just take a moment. You’re safe here.”*
 
 ...Here?
 
 I prop myself up. My breath hitches when I realise my fingers are lying on soil. Soil! All around me is grass, and green, and life, all sights I’ve only dreamed of, sights that belong to another time. And just ahead is the precipice, jagged ice jutting out like spears, and below that... a waterfall.
 
+*”Hey, you want water?”*
+
 A waterfall.
 
 It’s almost too much to drink in.
+
+
+<br>
+
+
+(June 2023)
