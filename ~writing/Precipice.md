@@ -28,7 +28,7 @@ And then I’m sucking in breath after breath, and all that runs through my mind
 
 And finally my eyes unlock, and I’m squinting at the relieved smile of a human face.
 
-*“Just take a moment. You’re safe here.”*
+*“Just take a moment. Oh man, you were almost out of it. Don’t worry, you’re safe here.”*
 
 ...Here?
 
