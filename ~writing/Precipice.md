@@ -6,9 +6,9 @@ It’s a gentle tune that curls over the wall of ice, like a twinkling melody pr
 
 It’s cold, so, so very cold. Even the thought of lifting my leg to take another step – only to inevitably collapse again, so it seems – sends chills reverberating through my hollow carcass. What do I even feel anymore? I’ve come so far, for what?
 
-Every now and then there’s a stray thought crosses my mind I can’t ignore. It’s a deafening whisper that slices into my head more vividly than the screaming winds; a searing caress that unrelentingly strokes at my mind, reminding me that there will always be one consolation. I try to ignore it. I try to shield myself from the creeping cold outside just as I do from the numbing warmth within.
+Every now and then there’s a stray thought crosses my mind I can’t ignore. It’s a deafening whisper that slices into my head more vividly than the screaming winds; a searing caress that unrelentingly strokes at my mind, reminding me that there will always be the one consolation. I try to ignore it. I try to shield myself from the creeping cold outside just as I do from the numbing warmth within.
 
-Only when I close my eyes do I hear it again. Except this time, it’s a lullaby, and the whisper is singing softly to me. Who knows how long I spend there, listening out for that lifeline. Part of me is silently crying at me to stay afloat. Yet all I hear is the voice of the thought, its tender notes like droplets of water, sucking away the scars of pain and fear as they trace along my skin. So I let go, and drown myself in the warming embrace of emptiness.
+Only when I close my eyes do I hear it again. Except this time, it’s a lullaby, and the whisper is singing softly to me. Who knows how long I spend there, listening out for that lifeline, hanging on as if nothing else means anything. Part of me is silently crying at me to stay afloat. Yet all I hear is the voice of the thought, its tender notes like droplets of water, sucking away the scars of pain and fear as they trace along my skin. So I let go, and drown myself in the warming embrace of emptiness.
 
 Drowning… in water?
 
