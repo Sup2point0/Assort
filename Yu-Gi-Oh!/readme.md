@@ -1,4 +1,4 @@
-# *Yu-Gi-Oh!*
+revitalisation# *Yu-Gi-Oh!*
 
 I’ve played *Yu-Gi-Oh!* ever since I was a child, with a fairly long interlude during the *VRAINS* era. Naturally, I watched some of *Duel Monsters* (the *Battle City* arc?). I’ve now watchen all of *ARC-V* and *VRAINS* (in that order), and I’m currently watching *ZEXAL*.
 

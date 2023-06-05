@@ -1,4 +1,4 @@
-# Next-Gen Cyber Dragon
+revitalisation# Next-Gen Cyber Dragon
 
 An archetype of LIGHT Machine monsters, a revitalyzacion of the original [Cyber Dragon](https://yugipedia.com/wiki/Cyber_Dragon_(archetype)) archetype.
 

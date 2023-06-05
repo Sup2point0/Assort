@@ -1,4 +1,4 @@
-# Next-Gen A-to-Z
+revitalisation# Next-Gen A-to-Z
 
 An archetype of LIGHT Machine Union monsters, harnessing contact fusion, a revitalyzacion of the original [*A-to-Z*](https://yugipedia.com/wiki/A-to-Z) archetype.
 

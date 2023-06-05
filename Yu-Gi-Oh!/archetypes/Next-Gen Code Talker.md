@@ -1,6 +1,6 @@
 # Next-Gen Code Talker
 
-An archetype of Cyberse Link Monsters, a revitalyzacion of the [*Code Talker*](https://yugipedia.com/wiki/Code_Talker_(archetype)) archetype.
+An archetype of Cyberse Link Monsters, a revitalisation of the [*Code Talker*](https://yugipedia.com/wiki/Code_Talker_(archetype)) archetype.
 
 
 <br>
