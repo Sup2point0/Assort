@@ -11,7 +11,7 @@ All the archetypes of custom cards I’ve created. Especially developed pages ar
 [Aetern](Aetern.md)  
 &emsp; [Aeternal](Aeternal.md)  
 &emsp; [Aeternity](Aeternity.md)  
-Antarctic
+Antarctic  
 [Antarctron](Antarctron.md)  
 Arachnis  
 [Battle Sheep](Battle%20Sheep.md)  
