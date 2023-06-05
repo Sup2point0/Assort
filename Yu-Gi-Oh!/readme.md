@@ -27,7 +27,7 @@ The original, high-quality decks I play with the most. My favourite or most fami
 | [Darquessence](https://duelingbook.com/deck?id=12053993) | Ritual, Fusion | [Darquess](archetypes/Darquess.md) | draining control | classic PSCT |
 | [**Rubix**](https://duelingbook.com/deck?id=12381789) | Synchro, Xyz, Link | [Rubic](archetypes/Rubic.md) | ultimate versatility | indexed modern PSCT |
 
-### Assorten
+### Assorted
 Downright remakes of existing archetypes, one of my favourite things to do.
 
 | deck | types | archetypes | notes | style | card text |
