@@ -88,7 +88,7 @@ As they rank up, their effects becomes increasingly devastyzing.
     <th> removal </th>
     <td> target + destroy </td>
     <td> destroy </td>
-    <td> send to grave </td>
+    <td> send to Grave </td>
     <td> banish </td>
   </tr>
   <tr>
@@ -169,10 +169,10 @@ The Lv9 Synchro Monster [Vapour-Eyes Absolute Dragon](#Monsters) provides a valu
 ### Rank-Up
 Although not within the archetype, the [Rank-Up-Magic and Evolution](#Spells) Spells are core to its functionality, ranking up the Xyz Dragons into their stronger evolucions.
 
-There are 6 rankup cards, each proving useful in different situacions. The Rank-Up-Magics that rankup from the field can use any Xyz Monster on either player’s field, as long as you own it – this way, a stolen ace Monster can easily be recovered. Similarly, those that rankup from the grave can use Xyz Monsters in either player’s Graveyard, although rarely does the opponent have sufficiently high-Rank Xyz Monsters for this to be effective.
+There are 6 rankup cards, each proving useful in different situacions. The Rank-Up-Magics that rankup from the field can use any Xyz Monster on either player’s field, as long as you own it – this way, a stolen ace Monster can easily be recovered. Similarly, those that rankup from the Grave can use Xyz Monsters in either player’s Graveyard, although rarely does the opponent have sufficiently high-Rank Xyz Monsters for this to be effective.
 
 - [Lightning Rise](#Spells) is most generical and stellar option, with great versatility and recursability. However, while it can rankup into DARK Xyz Monsters, it cannot rank then those Monsters up further (since it requires a LIGHT Monster as a target).
-- [Vapour Rise](#Spells) ranks up from the grave, attaches itself as extra Material, and can even further revive an Xyz Monster to kickstart a comeback.
+- [Vapour Rise](#Spells) ranks up from the Grave, attaches itself as extra Material, and can even further revive an Xyz Monster to kickstart a comeback.
 - [Lightning Ascension](#Spells) is excellent for OTKs, ranking up by 2 Ranks to access more powerful effects and higher ATK. It can even rankup into *any* LIGHT Xyz Monster, although there aren’t any great xenotive options right now. Losing the rankup at the end of the turn can be prevented by just ranking up the Monster again, ending with a +3 rankup in one turn.
 - [Lightning Arc Rise](#Spells) [facilityzes](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/~.md 'facilityze') the DARK Xyz Monster’s effects by lowering your LP, but is otherwise inferior to Vapour Rise. The critical difference lies in Lightning Arc Rise preventing responses, which can make all the difference in a comeback.
 - [Neo Evolution](#Spells) has a Monster to rankup into for any Rank, but can be difficult to use properly. It does provide nifty targeting immunity to the ranken up Monster, but this importantly prevents further rankups (since Rank-Up cards always target).
@@ -200,9 +200,9 @@ There are 6 rankup cards, each proving useful in different situacions. The Rank-
   <tr>
     <th> target </th>
     <td> LIGHT on either field </td>
-    <td> LIGHT in either grave </td>
+    <td> LIGHT in either Grave </td>
     <td> <em>Lightning</em> on either field </td>
-    <td> LIGHT/DARK in either grave </td>
+    <td> LIGHT/DARK in either Grave </td>
     <td> your Xyz </td>
     <td> your only Xyz </td>
   </tr>
@@ -247,7 +247,7 @@ Again, the Counter Trap is not strictly part of the archetype, but very closely 
 Since the Xyz Monsters cannot use their effects during the opponent’s turn, the focus of the deck is to protect them until your turn, when they can utterly dismantle the opponent’s board. The [rankup cards](#Rank-Up) are vital for protecting the ace from targeting effects, by ranking them up before the effect resolves.
 
 ### Weaknesses
-However, since with activated effects the deck can only protect from targeting effects, any form of non-targeting removal or crippling is deadly. Removing the Xyz Monsters from the field without sending them to the Graveyard prevents rankup cards that revive from the grave from being used to make a comeback; banishing in particular is very problematic, as the archetype has few ways to recover them.
+However, since with activated effects the deck can only protect from targeting effects, any form of non-targeting removal or crippling is deadly. Removing the Xyz Monsters from the field without sending them to the Graveyard prevents rankup cards that revive from the Grave from being used to make a comeback; banishing in particular is very problematic, as the archetype has few ways to recover them.
 
 To allow the Xyz Monsters of every Rank to be included, Extra Deck space is highly limited – 3 each of the base [Vapour-Eyes Lightning Dragon](#Lightning) and supportive [Vapour-Eyes Absolute Dragon](#Level-9-Dragons) already leaves only 9 slots, and with the 7 other Ranks of Lightning Dragons, only 2 free for other duplicates or tech picks. This can leave the deck rather fragile, as rankup chains could be broken.
 
@@ -264,7 +264,7 @@ For instance, if a Vapour-Eyes Lightning Dragon is Summoned, and then ranken up 
   - ‘Dragon’ › ‘Neo Dragon’ › ‘Ultimate Dragon’ › ‘Neo Ultimate Dragon’
 - There are several pairs of [rankup cards](#Rank-Up) that share similaritys.
   - Lightning Rise and Neo Evolution both have recursability.
-  - Vapour Rise and Lightning Arc Rise both rankup from the grave.
+  - Vapour Rise and Lightning Arc Rise both rankup from the Grave.
   - Lightning Ascension and Ultimate Evolution both rankup by 2 Ranks.
   - Lightning Arc Rise and Ultimate Evolution both prevent responses.
 - This archetype was cryzen really only to satisfyze my childish love for cryzing totally overpowered cards, as well as giving them ridiculously long and awesome names.
