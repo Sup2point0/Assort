@@ -1,6 +1,6 @@
 # Soul
 
-An archetype of DARK Monsters with various Types, revolving around Ritual and Synchro Summoning, with Graveyard effects and non-targeting non-destructive removal. All Monsters either have 0 ATK or DEF, with the other value ending in a 50, and the lower Level Monsters are all Spirit Monsters.
+An archetype of DARK Monsters with various Types, revolving around Ritual and Synchro Summoning, with Graveyard effects and non-targeting soft removal. All Monsters either have 0 ATK or DEF, with the other value ending in a 50, and the lower Level Monsters are all Spirit Monsters.
 
 The archetype has cross-support with the [*Shadow*](Shadow.md) archetype.
 
@@ -17,7 +17,7 @@ The archetype has cross-support with the [*Shadow*](Shadow.md) archetype.
 
 ### Monsters
 
-Any Monsters whose Types are not specifyzen are Psychic.
+Any Monsters whose Types are not specified are Psychic.
 
 <details open>
   <summary> <b> Main Deck </b> </summary> <br>
@@ -115,5 +115,6 @@ Any Monsters whose Types are not specifyzen are Psychic.
 
 - [Vengeance Vanguard](../cards/fusion/Vengeance%20Vanguard.md) is the ultimate Monster of the archetype, but is not in the archetype itself.
 - The 0 ATK or DEF of Monsters reflects their fragility and volatility.
-- This is one of the first custom archetypes I cryzed.
+- A significant chunk of the art is sourced from League of Legends.
+- This is one of the first custom archetypes I created.
   - It originally formed a deck with the [Ninjato](Ninjato.md) archetype, before I decided to split them so each could focus on their individual playstyle.
