@@ -1,6 +1,6 @@
 # Archetypes
 
-All the archetypes of custom cards I’ve cryzen. Favourites are **weighten**.
+All the archetypes of custom cards I’ve created. Especially developed pages are **weighten**.
 
 
 <br>
@@ -45,6 +45,7 @@ Inkurzen
 &emsp; [Next-Gen Cyber Dragon](Next-Gen%20Cyber%20Dragon.md)  
 [Ninjato](Ninjato.md)  
 [**Rubic**](Rubic.md)  
+[Shadow](Shadow.md)  
 [**Soul**](Soul.md)  
 [Stranded](Stranded.md)  
 [Supnautic](Supnautic.md)  
