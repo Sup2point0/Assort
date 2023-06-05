@@ -1,6 +1,6 @@
 # Assort
 
-An [assortacion](... 'assortment') of my [varical](... 'various') [cryzacions](... 'creations').
+An assortment of my various creations.
 
 
 <br>
@@ -15,11 +15,13 @@ Unsure where to start? Try checking out some of these!
 📁 [Yu-Gi-Oh!](Yu-Gi-Oh!)  
 📁 [kenzokinetics](kenzokinetics)  
 📁 [xeriqui](xeriqui)  
+📁 [writing](~writing)  
 
 ### Files
 📂 [Rubic](Yu-Gi-Oh!/archetypes/Rubic.md)  
 📂 [koniokinetis](affine/affinitys/koniokinetis.md)  
 📂 [Ultraman Infinity](Ultraman/Ultraman%20Infinity.md)  
+📂 [fictional elements](Ascense/elements.md)  
 
 
 <br>
@@ -28,7 +30,13 @@ Unsure where to start? Try checking out some of these!
 ## Frequerys
 
 ### What’s all this for?
-{...}
+I absolutely *love* creating things, and over the years I’ve created so much stuff that it’s all dispersed across multiple mediums – paper, phones, tablets, laptops, wikis – which is slightly a logistical nightmare. So, this is a repository to collect, store and archive (almost) everything I create.
+
+### Why use GitHub?
+GitHub is absolutely perfect for this, since I can organise everything into individual folders with infinite hierarchy, and even be able to access and share it from anywhere. Y’know, say I’ve got a piece of writing I want to show a friend, I can just send them a link like [https://github.com/Sup2point0/Assort/blob/origin/~writing/Expanse.md](~writing/Expanse.md).
+
+### What do the folder prefixes indicate?
+Uppercase and lowercase are simply stylistic choices. Those with `~` are categories, while those with `.` are developmental files you don’t need to see. (ofc, if you want, you can take a look anyway ;)
 
 
 <br>
@@ -41,7 +49,7 @@ The tiers used in [favourites](~lists/favourites).
 <table>
   <tr>
     <th align="left"> xeniqive </th>
-    <td> [Xeniqive](...) meaning ‘heavenly’. Saved for only the best. </td>
+    <td> <a href="">Xeniqive</a> meaning ‘heavenly’. Saved for only the best. </td>
   </tr>
   <tr>
     <th align="left"> legendary </th>
@@ -67,7 +75,7 @@ The tiers used in [favourites](~lists/favourites).
 
 ## Spectrus
 
-The scale of magnitude used throughout varical [seccions](... 'sections').
+The scale of magnitude used throughout varical sections.
 
 <table>
   <tr>
