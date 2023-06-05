@@ -103,11 +103,11 @@ The different classes of Monsters within the archetype each serve different purp
 ### Level 3 non-Tuners
 These are the best Normal Summon choices, sharing the following effects:
 
-> If this card is Normal or Special Summoned: You can Special Summon [...].
+> If this card is Normal or Special Summoned: You can Special Summon {...}.
 
-> You can banish this card from your field or Graveyard; [...].
+> You can banish this card from your field or Graveyard; {...}.
 
-On Summon, [Angular](#Monsters) Summons any Lv3 *Rubic* Monster (ideally [Axis](#Monsters)), while Axis spawns a [Rubic Token](#Tokens) to each field, both quickly swarming material. They can be tuned with [Lv3 Tuners](#Level-3-Tuners) for [Lv6 Synchros](#Synchro-Monsters), or overlayed for [Rank 3 Xyzs](#Xyz-Monsters). Once in the Graveyard, they can banish themselves for extra advantage – Angular can bury any *Rubic* Monster straight from the Deck, giving a free search, and Axis can recover any banished *Rubic* Monster (including itself if helpful).
+On Summon, [Angular](#Monsters) Summons any Lv3 *Rubic* Monster (ideally [Axis](#Monsters)), while Axis spawns a [Rubic Token](#Tokens) to each field, both quickly swarming material. They can be tuned with [Lv3 Tuners](#Level-3-Tuners) for [Lv6 Synchros](#Synchro-Monsters), or overlayed for [Rank 3 Xyzs](#Xyz-Monsters). Once in the Grave, they can banish themselves for extra advantage – Angular can bury any *Rubic* Monster straight from the Deck, giving a free search, and Axis can recover any banished *Rubic* Monster (including itself if helpful).
 
 <table>
   <tr>
@@ -122,7 +122,7 @@ On Summon, [Angular](#Monsters) Summons any Lv3 *Rubic* Monster (ideally [Axis](
   </tr>
   <tr>
     <th> summon </th>
-    <td> Summon a Lv3 <em>Rubic</em> Monster from hand or grave </td>
+    <td> Summon a Lv3 <em>Rubic</em> Monster from hand or Grave </td>
     <td> Summon a <a href="#Monsters">Rubic Token</a> to each field </td>
   </tr>
   <tr>
@@ -137,7 +137,7 @@ These are central to the archetype, sharing the following effects:
 
 > You can target 1 card on the field; move it to an appropriate adjacent zone, and if you do, Special Summon this card from your hand or Graveyard.
 
-> If this card is banished: You can add 1 [...] from your Deck to your hand.
+> If this card is banished: You can add 1 {...} from your Deck to your hand.
 
 Instead of generyzing advantage when Summoned, they must be banished to do so – and this can be achieved through the [Level 6 non-Tuners](#Level-6-non-Tuners).
 
@@ -164,11 +164,11 @@ These are very helpful in accessing the higher Level [Synchro Monsters](#Synchro
 
 They can Summon themselves by banishing any other available card, which while costly early game, quickly becomes easily accessible as more cards enter circulyzacion. Banishing a *Rubic* card gives them a bonus effect on resolution, which can help to neutralyze problematical threats.
 
-> You can banish 1 other card from your hand, field or Graveyard; Special Summon this card from your hand or Graveyard, then if you banished a ‘Rubic’ card, you can [...] 1 card on the field [...].
+> You can banish 1 other card from your hand, field or Graveyard; Special Summon this card from your hand or Graveyard, then if you banished a ‘Rubic’ card, you can {...} 1 card on the field {...}.
 
 Moving them triggers their effect to bury a *Rubic* card. Secant searches another Monster, while Cosecant burys a [Trap](#Trap-Interruption), which can be recovered or banished for its effect.
 
-> If this card moves to another zone: You can send 1 ‘Rubic’ [...] from your Deck to the Graveyard.
+> If this card moves to another zone: You can send 1 ‘Rubic’ {...} from your Deck to the Graveyard.
 
 <table>
   <tr>
@@ -196,7 +196,7 @@ Moving them triggers their effect to bury a *Rubic* card. Secant searches anothe
 ### Ritual
 The Ritual aspect of the archetype is really an afterthought, but provides surprising value.
 
-The Ritual Spell [Dragonometry](#Spells) can easily be searched by [Rubic Diagonal](#Link-Monsters) if needed, and can Summon the Ritual Monster [Driangle](#Monsters) from anywhere, with requirements that are relatively easy to fulfill. Usually your field and Graveyard are a given, but the hand is often depleten, in which case the opponent’s field provides the third location (with a [Rubic Token](#Tokens) Summoned there).
+The Ritual Spell [Dragonometry](#Spells) can easily be searched by [Rubic Diagonal](#Link-Monsters) if needed, and can Summon the Ritual Monster [Driangle](#Monsters) from anywhere, with requirements that are relatively easy to fulfill. Usually your field and Grave are a given, but the hand is often depleten, in which case the opponent’s field provides the third location (with a [Rubic Token](#Tokens) Summoned there).
 
 Rubic Driangle is a highly threatening addition to any endboard, with a non-targeting banish and dangerous floating effect. Notably, it can move the Summoned Monster to *any* adjacent zone, making protecting it through occupying adjacent zones much harder. Its floating effect is also difficult to avoid (especially since Rituals can be returned to the hand), and dropping a surprise [Angle Link Monster](#Link-Monsters) can be devastyzing for the opponent.
 
@@ -285,7 +285,7 @@ The archetype very much requires link climbing – almost all of the Link Monste
   <tr>
     <th> summon / continuous </th>
     <td> bury <a href="#Algorithm--Scramble">Algorithm or Scramble</a> </td>
-    <td> Set 1 Spell/Trap from grave </td>
+    <td> Set 1 Spell/Trap from Grave </td>
     <td> searched <a href="#Ritual">Dragonometry</a> + recover banished ‘Angle’ Monster </td>
     <td> targeting protection to self and Monsters it links to </td>
   </tr>
@@ -366,7 +366,7 @@ All of the Spells provide consistency and support. The archetypical Field Spell 
 ### Trap Interruption
 With such an efficient and consistent but xenophobical engine, the archetype has plenty of powerful Traps (although none that activate from the hand) to provide disruption.
 
-[Execution](#Traps) is likely the most devastyzing, able to banish several Monsters with a developed board, although often cannot find its targets due to them being blocked from moving. [Rotation](#Traps) is a unique removal option, ideally swapping a spare Rubic Token on our field. [Reset](#Trap) can work wonders if dropped correctly, resetting the board exactly how we like, while ripping materials from the opponent’s Xyz Monsters – we can protect our own Xyz Monster by setting that as the one target that isn’t banished. There are even 2 Counter Traps, [Inverse](#Traps) being a generical negate and [Transverse](#Traps) being a poly-negate, although the deutic requires more specifical setup. Transverse’s extra effect in the Graveyard is not to be underestimated either, often surprising the opponent if they have placed their Monsters uncarefully.
+[Execution](#Traps) is likely the most devastyzing, able to banish several Monsters with a developed board, although often cannot find its targets due to them being blocked from moving. [Rotation](#Traps) is a unique removal option, ideally swapping a spare Rubic Token on our field. [Reset](#Trap) can work wonders if dropped correctly, resetting the board exactly how we like, while ripping materials from the opponent’s Xyz Monsters – we can protect our own Xyz Monster by setting that as the one target that isn’t banished. There are even 2 Counter Traps, [Inverse](#Traps) being a generical negate and [Transverse](#Traps) being a poly-negate, although the deutic requires more specifical setup. Transverse’s extra effect in the Grave is not to be underestimated either, often surprising the opponent if they have placed their Monsters uncarefully.
 
 <table>
   <tr>
@@ -404,7 +404,7 @@ Those Summoned to the opponent’s field are indeed free Tributes or material (a
 
 ## Strategics
 
-The archetype is highly versative and consistent, able to cryze a powerful endboard with even the sparsest of hands, or play through disruption and SAK (Single-Attack-Kill) with relative ease. It has strong interactions with the Graveyard; most of the [Main Deck Monsters](#Monsters) can Summon themselves from both the hand or Graveyard, and several [Spells](#Spell-Support) and [Traps](#Trap-Interruption) have Graveyard effects, by either resetting or banishing themselves, giving the archetype significant comeback potency.
+The archetype is highly versative and consistent, able to cryze a powerful endboard with even the sparsest of hands, or play through disruption and SAK (Single-Attack-Kill) with relative ease. It has strong interactions with the Grave; most of the [Main Deck Monsters](#Monsters) can Summon themselves from both the hand or Grave, and several [Spells](#Spell-Support) and [Traps](#Trap-Interruption) have Grave effects, by either resetting or banishing themselves, giving the archetype significant comeback potency.
 
 ### Main Deck
 The 6 Main Deck Monsters (excluding [Driangle]) synergyze really well together. The [Level 6 non-Tuners] can banish the [Level 3 Tuners], while the Level 3 Tuners can move the Level 6 Tuners, each triggering the other’s effects to gain advantage. The banished Tuners can then be retrieved with [Algorithm](#Algorithm--Scramble) or [Axis](#Level-3-non-Tuners). [Angular](#Level-3-non-Tuners) and [Secant](#Level-6-non-Tuners) grant even more consistency, by searching other Monsters.
