@@ -27,7 +27,7 @@ Unsure where to start? Try checking out some of these!
 <br>
 
 
-## Frequerys
+## [Frequerys](https://github.com/Sup2point0/Antarctica/blob/home/readme.md#what-does-frequerys-even-mean)
 
 ### What’s all this for?
 I absolutely *love* creating things, and over the years I’ve created so much stuff that it’s all dispersed across multiple mediums – paper, phones, tablets, laptops, wikis – which is slightly a logistical nightmare. So, this is a repository to collect, store and archive (almost) everything I create. What exactly does that include? Well, content of any kind – documenting my ideas for games, graphic design and creative writing, lists, phenomena, worldbuilding and all.
