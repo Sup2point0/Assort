@@ -1,6 +1,6 @@
 # Archetypes
 
-All the archetypes of custom cards I’ve created. Especially developed pages are **weighten**.
+All the archetypes of custom cards I’ve created. Especially developed pages are **weighted**.
 
 
 <br>
