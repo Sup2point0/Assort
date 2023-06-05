@@ -40,7 +40,7 @@ An archetype of DARK and protively Spellcaster Monsters, harnessing Ritual and F
 <details open>
   <summary> <b> Extra Deck </b> </summary> <br>
 
-| card | Level | ATK/DEF | Type | material |
+| card | Level | ATK/DEF | Type | Material |
 | :--- | :---- | :------ | :--- | :------- |
 | [Elaiza, Arisen of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Raiza, Sorceress of Darquess* + *Laiza, Enchantress of Darquess* |
 | [Levaiza, Ascended of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Laiza, Enchantress of Darquess* + *Vaiza, Empress of Darquess* |
@@ -78,7 +78,7 @@ An archetype of DARK and protively Spellcaster Monsters, harnessing Ritual and F
 | :--- | :--- |
 | [Awakening of Darquess](../cards/traps/–/–.md) | |
 | [Corruption of Darquess](../cards/traps/–/–.md) | |
-| [Curse of Darquess](../cards/traps/–/–.md) | ↵ Counter |
+| [Darquess Falling](../cards/traps/–/–.md) | ↵ Counter |
 | [Magnificence of Darquess](../cards/traps/–/–.md) | ∞ Continuous |
 | [Nightmare of Darquess](../cards/traps/–/–.md) | ∞ Continuous |
 | [Perfection of Darquess](../cards/traps/–/–.md) | ∞ Continuous |
@@ -99,13 +99,13 @@ An archetype of DARK and protively Spellcaster Monsters, harnessing Ritual and F
 All Monsters have 0 DEF.
 
 ### Level 4
-The 3 Level 4 Monsters have 1900 ATK and share the following non-once-per-turn effect:
+The 3 Level 4 Monsters have 1900 ATK and share the following effect:
 
-> If another card is banished: You can add this banished card to your hand, or Special Summon this card from your hand.
+> If another card is banished: You can either Special Summon this card from your hand, or add this banished card to your hand.
 
 Each has an effect to search another card on Summon, which also deals damage to the player themselves:
 
-> If this card is Normal or Special Summoned: You can [...], and if you do, take 700 damage.
+> If this card is Normal or Special Summoned: You can {...}, and if you do, take 700 damage.
 
 <table>
   <tr>
@@ -122,7 +122,7 @@ Each has an effect to search another card on Summon, which also deals damage to 
   </tr>
   <tr>
     <th> effect </th>
-    <td> banish a ‘Darquess’ Spell/Trap from deck </td>
+    <td> banish a ‘Darquess’ Spell/Trap from Deck </td>
     <td> Set a banished ‘Darquess’ Spell/Trap </td>
     <td> bury a ‘Darquess’ Monster </td>
   </tr>
@@ -133,9 +133,9 @@ This self-dealt damage allows the 3 Level 7 Monsters to be Summoned, which each 
 
 > If either player takes damage: You can Special Summon this card from your hand or Graveyard, then you can increase this card’s Level (max 12) by 1 for every 100 damage taken.
 
-They can then banish a card from the hand or graveyard to search a Ritual-relyzen card:
+They can then banish a card from the hand or Grave to search a Ritual-relyzen card:
 
-> You can banish 1 card from your hand or Graveyard; add 1 ‘Darquess’ [...] from your Deck or Banished Pile to your hand.
+> You can banish 1 card from your hand or Graveyard; add 1 ‘Darquess’ {...} from your Deck or Banished Pile to your hand.
 
 <table>
   <tr>
@@ -161,13 +161,13 @@ They can then banish a card from the hand or graveyard to search a Ritual-relyze
 ### Level 9
 The 3 Level 9 Monsters have 2700 ATK, and serve as powerful removal, interrupts and sacrifices for Ritual Summons.
 
-They share the following once-per-turn effects:
+They share the following effects:
 
-> You can banish 2 other DARK Monsters from your field and/or either player’s Graveyard; Special Summon this card from your hand or Graveyard, then you can banish 1 [...].
+> You can banish 2 other DARK Monsters from your field and/or either player’s Graveyard; Special Summon this card from your hand or Graveyard, then you can banish 1 {...}.
 
 Hykarice and Kyralice can negate Spell/Traps:
 
-> When a [Spell/Trap] card or effect is activated, while you control a Level 13 ‘Darquess’ Monster (Quick Effect): You can banish this card from your hand or field; negate that effect, also banish that card.
+> When a {Spell/Trap} card or effect is activated, while you control a Level 13 ‘Darquess’ Monster (Quick Effect): You can banish this card from your hand or field; negate the activation, also banish that card, and if you do, take 700 damage.
 
 Vyktica is slightly different:
 
@@ -190,7 +190,7 @@ Vyktica is slightly different:
     <th> banish </th>
     <td> faceup Spell/Trap </td>
     <td> facedown Spell/Trap </td>
-    <td> graveyard </td>
+    <td> Grave </td>
   </tr>
   <tr>
     <th> interrupt </th>
@@ -201,11 +201,11 @@ Vyktica is slightly different:
 </table>
 
 ### Level 13 Ritual
-The 3 Ritual Monsters are each Level 13 with 3000 ATK, sharing the following effect:
+The 3 Ritual Monsters are each Level 13 with 3000 ATK. They share the Summoning and control conditions that they must be Ritual Summoned by a ‘Darquess’ card, and that the player can only control 1 of each. Upon Ritual Summon, they can each search any ‘Darquess’ Trap from the Deck.
 
-> Must be Ritual Summoned by a ‘Darquess’ card. If this card is Ritual Summoned: You can Set 1 ‘Darquess’ Trap from your Deck.
+> If this card is Ritual Summoned: You can Set 1 ‘Darquess’ Trap from your Deck.
 
-They also have a restriction that the player can only control 1 of each. Each then has a continuous floodgate effect, an ignition effect involving banishing, and a non-activated effect.
+Each then has a continuous floodgate effect, an ignition effect involving banishing, and a non-activated effect.
 
 <table>
   <tr>
@@ -228,20 +228,20 @@ They also have a restriction that the player can only control 1 of each. Each th
   </tr>
   <tr>
     <th> ignition </th>
-    <td> banish 1 DARK Monster from either player’s field or Graveyard </td>
+    <td> banish 1 DARK Monster from either player’s field or Grave </td>
     <td> Special Summon 1 banished DARK Monster </td>
     <td> gain LP equal to a DARK Monster’s ATK when it is banished or Summoned </td>
   </tr>
   <tr>
     <th> other </th>
-    <td> banish top card of opponent’s deck face-down each time you take damage </td>
+    <td> banish top card of opponent’s Deck face-down each time you take damage </td>
     <td> inflict 350 damage each time a card is banished </td>
     <td> ‘Darquess’ Monsters can use effects as Quick Effects </td>
   </tr>
 </table>
 
 ### Level 13 Fusion
-The 3 main Level 13 Fusion Monsters each have 3300 ATK, requiring 2 of the 3 Ritual Monsters as material. They feature a powerful floodgate effect of their own, while sharing the following effect:
+The 3 main Level 13 Fusion Monsters each have 3300 ATK, requiring 2 of the 3 Ritual Monsters as Material. They feature a powerful floodgate effect of their own, while sharing the following effect:
 
 > If this card is targeted (Quick Effect): You can make 1 other DARK Monster on the field become the target instead.
 
@@ -261,8 +261,8 @@ The 3 main Level 13 Fusion Monsters each have 3300 ATK, requiring 2 of the 3 Rit
   <tr>
     <th> continuous </th>
     <td> neither player can Summon non-DARK Monsters </td>
-    <td> your opponent can only Summon Monsters in Defence Position, and Monsters they control in Defence Position cannot activate effects </td>
-    <td> negates the effects of Synchro, Xyz, and Link Monsters on the field and in the Graveyard </td>
+    <td> opponent can only Summon Monsters in Defence Position, and Monsters they control in Defence Position cannot activate effects </td>
+    <td> negates the effects of Synchro, Xyz, and Link Monsters on the field and in the Grave </td>
   </tr>
 </table>
 
@@ -296,7 +296,7 @@ Many opening and searching cards that would usually be Spells are instead Traps,
   </tr>
 </table>
 
-Otherwise of note are the 3 Continuous Traps, which provide the Ritual Monsters with protection or hinder the opponent. They also have the useful effect to recover another banished ‘Darquess’ Spell/Trap when banished themselves, allowing for efficient recycling or excellent banish targets.
+Otherwise of note are the 3 Continuous Traps, which provide the Ritual Monsters with protection and recover LP that the player loses from all the self-damage. They also have the useful effect to recover another banished ‘Darquess’ Trap when banished themselves, allowing for efficient recursion.
 
 <table>
   <tr>
@@ -321,7 +321,7 @@ Otherwise of note are the 3 Continuous Traps, which provide the Ritual Monsters 
     <th> LP </th>
     <td> gain 350 LP each time opponent activates a card or effect </td>
     <td> gain 350 LP each time opponent places a card on the field </td>
-    <td> inflict 350 damage each time opponent places a card on the field </td>
+    <td> inflict 350 damage each time opponent activates a card or effect </td>
   </tr>
 </table>
 
