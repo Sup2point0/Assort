@@ -90,7 +90,7 @@ Additionally, each has an effect to search or recover a different Monster upon b
 ### Style
 The archetype is extremely consistent, especially with the support of *World Affinity* cards.
 
-The core strategic is to utilyze every Summoning tecnique on the first turn, creating a formidable board with all 5 *Hi-Tekk-Knight* monsters. (Although the Ritual is often missing due to requiring a *World Affinity* card to be available.) In conjunction with [World Affinity Rivals](../cards/traps/World%20Affinity%20Rivals), this can lock the opponent completely out of their Extra Deck.
+The core strategic is to utilise every Summoning tecnique on the first turn, creating a formidable board with all 5 *Hi-Tekk-Knight* monsters. (Although the Ritual is often missing due to requiring a *World Affinity* card to be available.) In conjunction with [World Affinity Rivals](../cards/traps/World%20Affinity%20Rivals), this can lock the opponent completely out of their Extra Deck.
 
 The board is not unbreakable in any way – none of the monsters have any protection effects – and is dismantled with ease by Raigeki or Lightning Storm. However, the effects of all those monsters will trigger, searching out a huge number of *World Affinity* Spell/Traps, ready for an instant comeback next turn, even against negates – including powerful recovery cards such as [World Affinity Ascension](...).
 
@@ -101,7 +101,7 @@ Going first, a Set card and a Normal Summon are sufficient to allow more monster
 
 The most useful openers (as a Special Summon) are [Tekk-Knight Aqua Vision](...) and [Tekk-Knight Citrine Dream](...). Aqua Vision can send any *Tekk-Knight* monster that searches another (Citrine Dream, for instance), while the prime target for Citrine Dream is [World Affinity Legacy](...), a Field Spell with the effect to search another *World Affinity* card when sent the Graveyard (instead of when activated, like most archetypical Field Spells). [Tekk-Knight Teal Avidity](...) is also useful for recursing more materials for Special Summons.
 
-The other *Tekk-Knight* monsters are useful for going second to breakup the opponent’s board, otherwise only serving as additional unique names for Special Summons or searches. [Tekk-Knight Neon Hope](...) is rather situational, but can disrupt cards that depend on columns or being linked, or shift the opponent’s field to be advantageous to facilityze *Tekk-Knight* Summons or *World Affinity* effects.
+The other *Tekk-Knight* monsters are useful for going second to breakup the opponent’s board, otherwise only serving as additional unique names for Special Summons or searches. [Tekk-Knight Neon Hope](...) is rather situational, but can disrupt cards that depend on columns or being linked, or shift the opponent’s field to be advantageous to facilitate *Tekk-Knight* Summons or *World Affinity* effects.
 
 
 <br>
@@ -111,9 +111,9 @@ The other *Tekk-Knight* monsters are useful for going second to breakup the oppo
 
 - The effect of the Lv4 Main Deck Monsters is an upgraded version (to an extent) of the effect of the [*Mekk-Knights*](https://yugipedia.com/wiki/Mekk-Knight).
   - While *Mekk-Knights* Special Summon themselves to a column with 2+ cards, *Tekk-Knights* Summon to a column *adjacent* to another with *exactly* 2 cards.
-- *Tekk-Knight* is a pun on ‘Tech Knight’, alike to *Mekk-Knight* sounding like ‘Mech Knight’ (despite this not being the actual etymologics).
+- *Tekk-Knight* is a pun on ‘Tech Knight’, alike to *Mekk-Knight* sounding like ‘Mech Knight’ (despite this not being the actual etymology).
   - Similarly, *Hi-Tekk-Knight* is a pun on ‘High Tech Knight’.
 - The names of the Main Deck Monsters (and the Link-1 [Tekk-Knight Azure Iris](#Monsters)) follow the pattern `<colour> <abstract>`, where `abstract` is an emotion or phenomenon.
-  - The names of the Extra Deck monsters follow the pattern `<adjective> <feature>`, where `feature` is some kind of attribute or property (or simply a word that sounds cool), with both words being relyzen to light.
+  - The names of the Extra Deck monsters follow the pattern `<adjective> <feature>`, where `feature` is some kind of attribute or property (or simply a word that sounds cool), with both words being related to light.
   - These reflect the naming scheme of the *Mekk-Knights*.
-- The ability to demonstryze a myriad of Summon tecniques in one turn is inspired by the [*D/D*](https://yugipedia.com/wiki/D/D) and [*D/D/D*](https://yugipedia.com/wiki/D/D/D) deck used by [Declan Akaba](https://yugipedia.com/wiki/Declan_Akaba) in [*ARC-V*](https://yugipedia.com/wiki/Yu-Gi-Oh!_ARC-V).
+- The ability to demonstrate a myriad of Summon tecniques in one turn is inspired by the [*D/D*](https://yugipedia.com/wiki/D/D) and [*D/D/D*](https://yugipedia.com/wiki/D/D/D) deck used by [Declan Akaba](https://yugipedia.com/wiki/Declan_Akaba) in [*ARC-V*](https://yugipedia.com/wiki/Yu-Gi-Oh!_ARC-V).
