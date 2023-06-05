@@ -11,6 +11,8 @@ All the archetypes of custom cards I’ve created. Especially developed pages ar
 [Aetern](Aetern.md)  
 &emsp; [Aeternal](Aeternal.md)  
 &emsp; [Aeternity](Aeternity.md)  
+Antarctic
+[Antarctron](Antarctron.md)  
 Arachnis  
 [Battle Sheep](Battle%20Sheep.md)  
 [Catastropical](Catastropical.md)  
@@ -24,7 +26,7 @@ Eternal King
 [Galactron](Galactron.md)  
 [GUYS](GUYS.md)  
 &emsp; [METEOR](METEOR.md)  
-[Hypno-Eyes](Hypno-Eyes.md)  
+Hypno-Eyes  
 [Immuni](Immuni.md)  
 &emsp; [Immunicipality](Immunicipality.md)  
 &emsp; [Immunit](Immunit.md)  
