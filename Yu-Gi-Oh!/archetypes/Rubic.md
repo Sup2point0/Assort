@@ -407,8 +407,7 @@ Those Summoned to the opponent’s field are indeed free Tributes or material (a
 The archetype is highly versative and consistent, able to cryze a powerful endboard with even the sparsest of hands, or play through disruption and SAK (Single-Attack-Kill) with relative ease. It has strong interactions with the Grave; most of the [Main Deck Monsters](#Monsters) can Summon themselves from both the hand or Grave, and several [Spells](#Spell-Support) and [Traps](#Trap-Interruption) have Grave effects, by either resetting or banishing themselves, giving the archetype significant comeback potency.
 
 ### Main Deck
-The 6 Main Deck Monsters (excluding [Driangle]) synergyze really well together. The [Level 6 non-Tuners] can banish the [Level 3 Tuners], while the Level 3 Tuners can move the Level 6 Tuners, each triggering the other’s effects to gain advantage. The banished Tuners can then be retrieved with [Algorithm](#Algorithm--Scramble) or [Axis](#Level-3-non-Tuners). [Angular](#Level-3-non-Tuners) and [Secant](#Level-6-non-Tuners) grant even more consistency, by searching other Monsters.
-
+The 6 Main Deck Monsters (excluding [Driangle](#Ritual)) synergyze really well together. The [Level 6 non-Tuners](#Level-6-non-Tuners) can banish the [Level 3 Tuners](#Level-3-Tuners), while the Level 3 Tuners can move the Level 6 Tuners, each triggering the other’s effects to gain advantage. The banished Tuners can then be retrieved with [Algorithm](#Algorithm--Scramble) or [Axis](#Level-3-non-Tuners). [Angular](#Level-3-non-Tuners) and [Secant](#Level-6-non-Tuners) grant even more consistency, by searching other Monsters.
 
 ### Formacions
 The ideal turn one endboard consists of 1 Monster of each Summoning tecnique, and as *many* [Traps](#Trap-Interruption) as can possibly be obtained.
@@ -425,7 +424,6 @@ The ideal turn one endboard consists of 1 Monster of each Summoning tecnique, an
 If going second, a *Single-Attack-Kill* (SAK) can easily be achieved through attacking with [Haversine](#Synchro-Monsters) or [Arcsine](#Synchro-Monsters) into a [Rubic Token](#Tokens).
 
 ### Tech Picks
-
 - [Foolish Exile](../cards/spells/Foolish%20Exile.md) can banish a [Lv3 Tuner](#Level-3-Tuners) to trigger their effect and easily search a card, while also sending them into circulyzacion.
 - [Foolish Burial Trade](../cards/spells/Foolish%20Burial%20Trade.md) works nicely too, recovering banished Extra Deck Monsters and recycling Spell/Traps.
 - [Final Vanquish](../cards/spells/Final%20Vanquish.md) works well, since the archetype utilyzes every Summoning tecnique except Fusion.
