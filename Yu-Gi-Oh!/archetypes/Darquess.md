@@ -99,7 +99,7 @@ All Monsters have 0 DEF.
 ### Level 4
 The 3 Level 4 Monsters have 1900 ATK and share the following effect:
 
-> If another card is banished: You can either Special Summon this card from your hand, or add this banished card to your hand.
+> If another card is banished: You can either add this banished card to your hand, or Special Summon this card from your hand.
 
 Each has an effect to search another card on Summon, which also deals damage to the player themselves:
 
@@ -131,7 +131,7 @@ This self-dealt damage allows the 3 Level 7 Monsters to be Summoned, which each 
 
 > If either player takes damage: You can Special Summon this card from your hand or Graveyard, then you can increase this card’s Level (max 12) by 1 for every 100 damage taken.
 
-They can then banish a card from the hand or Grave to search a Ritual-relyzen card:
+They can then banish a card from the hand or Grave to search a Ritual-related card:
 
 > You can banish 1 card from your hand or Graveyard; add 1 ‘Darquess’ {...} from your Deck or Banished Pile to your hand.
 
@@ -169,7 +169,7 @@ Hykarice and Kyralice can negate Spell/Traps:
 
 Vyktica is slightly different:
 
-> When a DARK Monster declares an attack or activates its effect, while you control a Level 13 ‘Darquess’ Monster (Quick Effect): You can banish this card from your hand or field; banish that card, and if you do, take 700 damage.
+> When a DARK Monster declares an attack or activates its effect, while you control a Level 13 ‘Darquess’ Monster (Quick Effect): You can banish this card from your hand or field; banish that monster, and if you do, take 700 damage.
 
 <table>
   <tr>
@@ -199,7 +199,7 @@ Vyktica is slightly different:
 </table>
 
 ### Level 13 Ritual
-The 3 Ritual Monsters are each Level 13 with 3000 ATK. They share the Summoning and control conditions that they must be Ritual Summoned by a ‘Darquess’ card, and that the player can only control 1 of each. Upon Ritual Summon, they can each search any ‘Darquess’ Trap from the Deck.
+The 3 Ritual Monsters are each Level 13 with 3000 ATK. They share the Summoning and control conditions that they must be Ritual Summoned by a ‘Darquess’ card, and restrict the player to controlling only 1 of each. Upon Ritual Summon, they can each search any ‘Darquess’ Trap from the Deck.
 
 > If this card is Ritual Summoned: You can Set 1 ‘Darquess’ Trap from your Deck.
 
@@ -258,16 +258,16 @@ The 3 main Level 13 Fusion Monsters each have 3300 ATK, requiring 2 of the 3 Rit
   </tr>
   <tr>
     <th> continuous </th>
-    <td> neither player can Summon non-DARK Monsters </td>
+    <td> neither player can Normal or Special Summon non-DARK Monsters </td>
     <td> opponent can only Summon Monsters in Defence Position, and Monsters they control in Defence Position cannot activate effects </td>
-    <td> negates the effects of Synchro, Xyz, and Link Monsters on the field and in the Grave </td>
+    <td> negates the effects of DARK Synchro, Xyz, and Link Monsters </td>
   </tr>
 </table>
 
 ### Spells
-The archetypical Field Spell is [Realm of Darquess](../cards/spells/field/Realm%20of%20Darquess.md), which provides the critical conditions for the rest of the archetype to function effectively.
+The archetypal Field Spell is [Realm of Darquess](../cards/spells/field/Realm%20of%20Darquess.md), which provides the critical conditions for the rest of the archetype to function effectively.
 
-The archetypical Ritual and Fusion Spell is [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md), which can recover itself as long as it is banished.
+The archetypal Ritual and Fusion Spell is [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md), which can recover itself as long as it is banished.
 
 <table>
   <tr>
@@ -310,7 +310,7 @@ Otherwise of note are the 3 Continuous Traps, which provide the Ritual Monsters 
     <td> <img src="../../.assets/cards/traps/Nightmare of Darquess.png"> </td>
   </tr>
   <tr>
-    <th> protection / floodgate </th>
+    <th> protection/floodgate </th>
     <td> battle and Monster effect destruction </td>
     <td> Spell/Trap effects </td>
     <td> opponent skips their Main Phase 1 </td>
