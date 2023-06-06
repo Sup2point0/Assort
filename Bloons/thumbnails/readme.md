@@ -10,9 +10,9 @@
 
 <table>
   <tr>
-    <td> <img src="Phase 1/1 – Monkey Mayhem.png" height="420px"> </td>
-    <td> <img src="Phase 1/2 – Darkness Rising.png" height="420px"> </td>
-    <td> <img src="Phase 1/3 – Attack of the Airforce.png" height="420px"> </td>
+    <td> <img src="Phase 1/1 – Monkey Mayhem.png" height="300px"> </td>
+    <td> <img src="Phase 1/2 – Darkness Rising.png" height="300px"> </td>
+    <td> <img src="Phase 1/3 – Attack of the Airforce.png" height="300px"> </td>
   </tr>
   <tr>
     <td> Monkey Mayhem </td>
@@ -23,9 +23,9 @@
 
 <table>
   <tr>
-    <td> <img src="Phase 1/4 – Marine Marauders.png" height="420px"> </td>
-    <td> <img src="Phase 1/5 – Bionic Fusion.png" height="420px"> </td>
-    <td> <img src="Phase 1/6 – Heavenly Ascension.png" height="420px"> </td>
+    <td> <img src="Phase 1/4 – Marine Marauders.png" height="300px"> </td>
+    <td> <img src="Phase 1/5 – Bionic Fusion.png" height="300px"> </td>
+    <td> <img src="Phase 1/6 – Heavenly Ascension.png" height="300px"> </td>
   </tr>
   <tr>
     <td> Marine Marauders </td>
@@ -42,9 +42,9 @@
 
 <table>
   <tr>
-    <td> <img src="Phase 2/1 – Monkey Madness.png" height="420px"> </td>
-    <td> <img src="Phase 2/2 – Primary Power.png" height="420px"> </td>
-    <td> <img src="Phase 2/3 – Military Mayday.png" height="420px"> </td>
+    <td> <img src="Phase 2/1 – Monkey Madness.png" height="300px"> </td>
+    <td> <img src="Phase 2/2 – Primary Power.png" height="300px"> </td>
+    <td> <img src="Phase 2/3 – Military Mayday.png" height="300px"> </td>
   </tr>
   <tr>
     <td> Monkey Madness </td>
@@ -55,9 +55,9 @@
 
 <table>
   <tr>
-    <td> <img src="Phase 2/4 – Magic Maelstrom.png" height="420px"> </td>
-    <td> <img src="Phase 2/5 – Support Storm.png" height="420px"> </td>
-    <td> <img src="Phase 2/6 – Hero Haven.png" height="420px"> </td>
+    <td> <img src="Phase 2/4 – Magic Maelstrom.png" height="300px"> </td>
+    <td> <img src="Phase 2/5 – Support Storm.png" height="300px"> </td>
+    <td> <img src="Phase 2/6 – Hero Haven.png" height="300px"> </td>
   </tr>
   <tr>
     <td> Magic Maelstrom </td>
@@ -74,9 +74,9 @@
 
 <table>
   <tr>
-    <td> <img src="Phase 3/1 – Monkey Madness.png" height="420px"> </td>
-    <td> <img src="Phase 3/2 – Primary Power.png" height="420px"> </td>
-    <td> <img src="Phase 3/3 – Military Mayday.png" height="420px"> </td>
+    <td> <img src="Phase 3/1 – Monkey Madness.png" height="300px"> </td>
+    <td> <img src="Phase 3/2 – Primary Power.png" height="300px"> </td>
+    <td> <img src="Phase 3/3 – Military Mayday.png" height="300px"> </td>
   </tr>
   <tr>
     <td> Monkey Madness </td>
@@ -87,9 +87,9 @@
 
 <table>
   <tr>
-    <td> <img src="Phase 3/4 – Magic Maelstrom.png" height="420px"> </td>
-    <td> <img src="Phase 3/5 – Support Storm.png" height="420px"> </td>
-    <td> <img src="Phase 3/6 – Hero Haven.png" height="420px"> </td>
+    <td> <img src="Phase 3/4 – Magic Maelstrom.png" height="300px"> </td>
+    <td> <img src="Phase 3/5 – Support Storm.png" height="300px"> </td>
+    <td> <img src="Phase 3/6 – Hero Haven.png" height="300px"> </td>
   </tr>
   <tr>
     <td> Magic Maelstrom </td>
