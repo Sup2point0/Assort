@@ -335,6 +335,19 @@ Otherwise of note are the 3 Continuous Traps, which like the Ritual Monsters are
 <br>
 
 
+## Deck
+
+<details hide>
+  <summary> <b> display </b> </summary>
+
+<img src="../../.assets/cards/monsters/standard/Aiza.png" height="20px"> <img src="../../.assets/cards/monsters/standard/Aiza.png" height="20px"> <img src="../../.assets/cards/monsters/standard/Aiza.png" height="20px"> <img src="../../.assets/cards/monsters/standard/Aiza.png" height="20px"> <img src="../../.assets/cards/monsters/standard/Aiza.png" height="20px"> <img src="../../.assets/cards/monsters/standard/Aiza.png" height="20px">
+
+</details>
+
+
+<br>
+
+
 ## Trivia
 
 - This entire archetype was born from [Raiza](../cards/monsters/ritual/Raiza.md), a childhood card I created.
