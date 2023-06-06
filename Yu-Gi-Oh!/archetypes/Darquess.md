@@ -343,8 +343,8 @@ View the deck on [DuelingBook](https://duelingbook.com/deck?id=12053993)!
   <summary> <b> display </b> </summary>
 
 ### Main Deck
-<img src="../../.assets/cards/monsters/Kes.png" height="169px">
-<img src="../../.assets/cards/monsters/Dyavin.png" height="169px">
+<img src="../../.assets/cards/monsters/Kes.png" height="169px" title="test <br> test <br> is there a limit to these?">
+<img src="../../.assets/cards/monsters/Dyavin.png" height="169px" title="brrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr">
 <img src="../../.assets/cards/monsters/Aiza.png" height="169px">
 <img src="../../.assets/cards/monsters/Aiza.png" height="169px">
 <img src="../../.assets/cards/monsters/Aiza.png" height="169px">
