@@ -342,6 +342,7 @@ View the deck on [DuelingBook](https://duelingbook.com/deck?id=12053993)!
 <details hide>
   <summary> <b> display </b> </summary>
 
+### Main Deck
 <img src="../../.assets/cards/monsters/Kes.png" height="169px">
 <img src="../../.assets/cards/monsters/Dyavin.png" height="169px">
 <img src="../../.assets/cards/monsters/Aiza.png" height="169px">
@@ -400,6 +401,14 @@ View the deck on [DuelingBook](https://duelingbook.com/deck?id=12053993)!
 <img src="../../.assets/cards/spells/That Grass Looks Darker.png" height="169px">
 <img src="../../.assets/cards/traps/Terrorforming.png" height="169px">
 <img src="../../.assets/cards/traps/Darkchoke.png" height="169px">
+
+### Extra Deck
+<img src="../../.assets/cards/fusion/Elaiza.png" height="169px">
+<img src="../../.assets/cards/fusion/Levaiza.png" height="169px">
+<img src="../../.assets/cards/fusion/Vraiza.png" height="169px">
+<img src="../../.assets/cards/fusion/Dyvarice.png" height="169px">
+<img src="../../.assets/cards/fusion/Lynuca.png" height="169px">
+<img src="../../.assets/cards/fusion/Primordial Darquessence.png" height="169px">
 
 </details>
 
