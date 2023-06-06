@@ -301,7 +301,7 @@ Otherwise of note are the 3 Continuous Traps, which provide the Ritual Monsters 
     <th width="42px"> Trap </th>
     <th align="center"> Magnificence </th>
     <th align="center"> Perfection </th>
-    <th align="center"> Nightmare </th
+    <th align="center"> Nightmare </th>
   </tr>
   <tr>
     <th> card </th>
