@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td> type </td>
-    <td> TraDarquess </td>
+    <td> Trap </td>
   </tr>
   <tr>
     <td> archetype </td>
