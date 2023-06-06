@@ -396,7 +396,7 @@ View the deck on [DuelingBook](https://duelingbook.com/deck?id=12053993)!
 <img src="../../.assets/cards/traps/Soul of Darquess.png" height="169px">
 <img src="../../.assets/cards/traps/Revenge of Darquess.png" height="169px">
 <img src="../../.assets/cards/traps/Darquess Falling.png" height="169px">
-<img src="../../.assets/cards/spells/That Grass Looks Darker" height="169px">
+<img src="../../.assets/cards/spells/That Grass Looks Darker.png" height="169px">
 <img src="../../.assets/cards/spells/That Grass Looks Darker.png" height="169px">
 <img src="../../.assets/cards/traps/Terrorforming.png" height="169px">
 <img src="../../.assets/cards/traps/Darkchoke.png" height="169px">
