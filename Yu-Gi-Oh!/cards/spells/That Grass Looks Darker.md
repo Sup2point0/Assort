@@ -5,10 +5,7 @@
 
 <table>
   <tr>
-    <th colspan="3"> <h3> That Grass Looks Darker </h3> </th>
-  </tr>
-  <tr>
-    <td rowspan="4"> <img src="../../../.assets/cards/spells/That Grass Looks Darker.png" width="320px"> </td>
+    <th colspan="2"> <h3> That Grass Looks Darker </h3> </th>
   </tr>
   <tr>
     <td> type </td>
@@ -21,6 +18,9 @@
   <tr>
     <td> Restrictions </td>
     <td> Semi-Limited </td>
+  </tr>
+  <tr>
+    <td colspan="2"> <img src="../../../.assets/cards/spells/That Grass Looks Darker.png" width="320px"> </td>
   </tr>
 </table>
 
