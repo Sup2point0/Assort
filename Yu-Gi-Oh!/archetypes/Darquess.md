@@ -458,11 +458,12 @@ title="">
 <img src="../../.assets/cards/traps/Terrorforming.png" height="169px"
 title="">
 <img src="../../.assets/cards/traps/Darkchoke.png" height="169px"
-title="">
+title="During each Standby Phase, place 1 Choke Counter on this card, then your opponent takes damage equal to the number of Choke Counters on this card x 200. If this card’s effects would be negated, remove all Choke Counters from it instead. This face-up card with a Choke Counter cannot leave the field by card effect, unless it is banished.">
 
 ### Extra Deck
 <img src="../../.assets/cards/fusion/Elaiza.png" height="169px"
-title="">
+title="‘Raiza, Sorceress of Darquess’ + ‘Laiza, Enchantress of Darquess’
+Must be Fusion Summoned by a ‘Darquess’ card. Neither player can Normal or Special Summon non-DARK monsters. If this card is targeted (Quick Effect): You can make 1 other DARK monster on the field become the target instead. You can only control 1 ‘Elaiza, Arisen of Darquess’.">
 <img src="../../.assets/cards/fusion/Levaiza.png" height="169px"
 title="">
 <img src="../../.assets/cards/fusion/Vraiza.png" height="169px"
