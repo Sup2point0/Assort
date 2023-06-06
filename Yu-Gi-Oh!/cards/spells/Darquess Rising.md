@@ -5,14 +5,11 @@
 
 <table>
   <tr>
-    <th colspan="3"> <h3> Darquess Rising </h3> </th>
-  </tr>
-  <tr>
-    <td rowspan="4"> <img src="../../../.assets/cards/spells/Darquess Rising.png" width="320px"> </td>
+    <th colspan="2"> <h3> Darquess Rising </h3> </th>
   </tr>
   <tr>
     <td> type </td>
-    <td> spell </td>
+    <td> Spell </td>
   </tr>
   <tr>
     <td> archetype </td>
@@ -21,6 +18,9 @@
   <tr>
     <td> Property </td>
     <td> Ritual </td>
+  </tr>
+  <tr>
+    <td colspan="2"> <img src="../../../.assets/cards/spells/Darquess Rising.png" width="320px"> </td>
   </tr>
 </table>
 
