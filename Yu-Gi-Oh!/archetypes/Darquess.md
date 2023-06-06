@@ -310,7 +310,7 @@ Otherwise of note are the 3 Continuous Traps, which provide the Ritual Monsters 
     <td> <img src="../../.assets/cards/traps/Nightmare of Darquess.png"> </td>
   </tr>
   <tr>
-    <th> protection/floodgate </th>
+    <th> continuous </th>
     <td> battle and Monster effect destruction </td>
     <td> Spell/Trap effects </td>
     <td> opponent skips their Main Phase 1 </td>
