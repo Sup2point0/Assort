@@ -32,7 +32,7 @@
 
 | aspect | type | notes |
 | :----- | :--- | :---- |
-| Activate 1 of the following effects, but banish the Summoned monster during the End Phase of your next turn. | | The Monster will be lost, but it’ll be able to do plenty of damage before then. |
+| Activate 1 of the following effects, but banish the Summoned monster during the End Phase of your next turn. | selection | The Monster will be lost, but it’ll be able to do plenty of damage before then. |
 | ● Ritual Summon 1 ‘Darquess’ Ritual monster from your Graveyard or Banished Pile, by banishing DARK monsters from your Graveyard and/or either player’s field, whose total Levels and ATK equal or exceed those of the Ritual monster. | activated | |
 | ● Fusion Summon 1 ‘Darquess’ Fusion monster from your Extra Deck or Banished Pile to either player’s field, by banishing materials from your Graveyard and/or either player’s field. | activated | |
 | You can only activate ‘Darquess Falling’ once per turn. | turnly restriction | |
