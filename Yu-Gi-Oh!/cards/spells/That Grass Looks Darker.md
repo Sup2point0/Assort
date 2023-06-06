@@ -32,7 +32,8 @@
 
 | aspect | type | notes |
 | :----- | :--- | :---- |
-| If you started the Duel with fewer cards in your Extra Deck than your opponent: Both players banish as many cars as possible from the top of their Deck, up to the difference. | activated | |
+| If you started the Duel with fewer cards in your Extra Deck than your opponent: Both players banish as many cars as possible from the top of their Deck, up to the difference. | activation | |
+| You can only activate ‘That Grass Looks Darker’ once per turn. | turnly restriction | |
 
 
 <br>
