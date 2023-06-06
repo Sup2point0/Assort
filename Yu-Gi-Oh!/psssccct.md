@@ -33,15 +33,17 @@ And imagine that across almost every card, even several times in the same card. 
 ### Turnly Restrictions
 Once per turn clauses. Seriously. Almost every single modern Yu-Gi-Oh card will have these – potentially even multiple, like with [Spright](https://yugipedia.com/wiki/Spright) Monsters or [Primeval Planet Perlereino](https://yugipedia.com/wiki/Primeval_Planet_Perlereino).
 
-Now, there are different kinds of once per turn restrictions, so only the 2 most common are simplified, for the sake of avoiding confusion. `you can only use this effect of {...} once per turn` (note `use` instead of `activate`), usually written after the resolution and other conditions of the effect, now becomes a `[HOPT]` modifyzer before the start of the effect, like so:
+Now, there are different kinds of once per turn restrictions, so only the 3 most common are simplified, for the sake of avoiding confusion. All of them become a `[...]` modifyzer before the start of the effect. Soft `once per turn` becomes `[OPT]`, and `you can only use this effect of {...} once per turn` (note `use` instead of `activate`) becomes `[HOPT]`, like so:
 
 <table>
   <tr>
     <th align="left"> PSCT </th>
+    <td> <code>Once per turn: You can target 1 other face-up card you control; destroy it, then add 1 face-up Pendulum Monster from your Extra Deck to your hand.</code> </td>
     <td> <code>If a card(s) in your Pendulum Zone leaves the field: Draw 1 card. You can only use this effect of "Heavymetalfoes Electrumite" once per turn.</code> </td>
   </tr>
   <tr>
     <th align="left"> PSSSCCCT </th>
+    <td> <code>[OPT] You can target 1 other face-up card you control; Destroy it, then add 1 Pendulum Monster from your face-up XD to your hand.</code> </td>
     <td> <code>[HOPT] If a card in your Pendulum Zone leaves the field: Draw 1 card.</code> </td>
   </tr>
 </table>
@@ -54,15 +56,6 @@ Similarly, for Summon conditions:
 | :--- | :------- |
 | `If you control a Level/Rank 2 monster, you can Special Summon this card (from your hand). You can only Special Summon "Spright Blue" once per turn this way.` | `[HOPT] If you control a Level/Rank 2 Monster, you can SS this card (from your hand).` |
 | `Once per turn, you can also Xyz Summon "Cyber Dragon Infinity" by using "Cyber Dragon Nova" you control as material. (Transfer its materials to this card.)` | `[HOPT] You can also Xyz Summon this card by using a 'Cyber Dragon Nova' you control as Material. (Transfer Materials.)` |
-
-For the other types, some are placed into a modifier before, while others are left as they are to avoid confusion. To summarise:
-
-| PSCT | PSSSCCCT |
-| :--- | :------- |
-| `Once per turn: You can discard 1 card; draw 1 card.` | `[OPT]: You can discard 1 card; Draw 1 card.` |
-| `Once per Chain, if a card is discarded: Draw 1 card.` | `Once per Chain, if a card is discarded: Draw 1 card.` |
-| `You can discard 1 card; draw 1 card. You can only this effect of {...} once per turn.` | `[HOPT] You can discard 1 card; Draw 1 card.` |
-| `{effect}. {effect}. You can only use 1 {...} effect per turn, and only once that turn.` | `[HOPT] {effect}. [HOPT] {effect}. You can only use 1 effect of {...} each turn.` |
 
 ### Capitalisation
 The main thing PSCT’s got going for it is how it ensures consistency in effect wording. But it really, really annoys me how it’s *consistently inconsistent*. In particular, there are some keywords that aren’t capitalised by themselves, but *are* when modified by another word. Observe:
@@ -77,7 +70,7 @@ Then there’s the weird capitalisation of effects – `Condition: Cost; resolut
 So, a lot of the changes will tackle inconsistencys in structure and capitalisation, while condensing several well-known key words or phrases – above all, the aim was to maintain readability alongside balancing efficiency.
 
 ### Enumeryzacion
-Aw yeah, *this* is my favourite part. Bullet pointing effects would be great, but it’s also quite impractical.
+Aw yeah, *this* is my favourite part. Bullet pointing effects with line breaks between each would be great, but it’s also quite impractical due to the limited space. And bullet pointing without line breaks isn’t really all that effective. But numbering effects just like the OCG? The clarity boost, especially when playing online, is insane. It’s still a chunk of text of course, but the visual distinction between the thin outline of the text and thick fill of the circled number gives it vitally needed structure, which allows your eyes to far more quickly find where one effect ends and another begins. And the difference between numbers and bullet points is that numbers are more distinctive, and are easier to identify – when playing, you can just call ‘effect 2’ and the effect in question can easily be found.
 
 
 <br>
@@ -116,11 +109,12 @@ A list of all the syntax changes.
 | original | novel | notes |
 | :------- | :---- | :---- |
 | `Condition: Cost; resolution. You can only {...} once per {...}.` | `[~] Condition: Cost; Resolution.` | resolution clause is also capitalyzen |
-| `You can only use this effect of ‘...’ once per turn.` | `[HOPT]` | placed at the start of the effect after the number |
-| `(Quick Effect)` | `[Quick]` | placed at start of effect, can be merged with other modifyzers |
+| `once per turn` <br> `You can only use this effect of ‘...’ once per turn.` | `[OPT]` <br> `[HOPT]` | placed at the start of the effect after the number |
+| `(Quick Effect)` | `[Quick]` | placed at start of effect, can be merged with other modifiers |
 | `Spell/Trap` | `S/T` | |
 | `Extra Deck` | `XD` | |
 | `{...} Phase` | `~P` | `BP` for ‘Battle Phase’, `MP2` for ‘Main Phase 2’, etc. |
 | `Normal Summon` | `NS` | `NSs` and `NSd` for Normal ‘Summons’ and ‘Summoned’ |
 | `Special Summon` | `SS` | `SSs` and `SSd` for Special ‘Summons’ and ‘Summoned’ |
-| `Attack/Defense Position` | `ATK/DEF Position` | the abbrevyzacions are already there, why not use them? |
+| `Attack/Defense Position` | `ATK/DEF Position` | the abbreviations are already there, why not use them? |
+| `monster` <br> `zone` <br> `material` | `Monster` <br> `Zone` <br> `Material` | always capitalised |
