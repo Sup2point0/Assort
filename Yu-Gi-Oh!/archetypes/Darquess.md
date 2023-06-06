@@ -340,7 +340,7 @@ Otherwise of note are the 3 Continuous Traps, which like the Ritual Monsters are
 <details hide>
   <summary> <b> display </b> </summary>
 
-<img src="../../.assets/cards/monsters/Aiza.png" height="20px"> <img src="../../.assets/cards/monsters/Aiza.png" height="20px"> <img src="../../.assets/cards/monsters/Aiza.png" height="20px"> <img src="../../.assets/cards/monsters/Aiza.png" height="20px"> <img src="../../.assets/cards/monsters/Aiza.png" height="20px"> <img src="../../.assets/cards/monsters/Aiza.png" height="20px">
+<img src="../../.assets/cards/monsters/Aiza.png" height="69px"> <img src="../../.assets/cards/monsters/Aiza.png" height="69px"> <img src="../../.assets/cards/monsters/Aiza.png" height="69px"> <img src="../../.assets/cards/monsters/Aiza.png" height="69px"> <img src="../../.assets/cards/monsters/Aiza.png" height="69px"> <img src="../../.assets/cards/monsters/Aiza.png" height="69px">
 
 </details>
 
