@@ -337,10 +337,12 @@ Otherwise of note are the 3 Continuous Traps, which like the Ritual Monsters are
 
 ## Deck
 
+View the deck on [DuelingBook](https://duelingbook.com/deck?id=12053993)!
+
 <details hide>
   <summary> <b> display </b> </summary>
 
-<img src="../../.assets/cards/monsters/Aiza.png" height="169px"> <img src="../../.assets/cards/monsters/Aiza.png" height="169px"> <img src="../../.assets/cards/monsters/Aiza.png" height="169px"> <img src="../../.assets/cards/monsters/Aiza.png" height="169px"> <img src="../../.assets/cards/monsters/Aiza.png" height="169px"> <img src="../../.assets/cards/monsters/Aiza.png" height="169px"> <img src="../../.assets/cards/monsters/Aiza.png" height="169px"> <img src="../../.assets/cards/monsters/Aiza.png" height="169px">
+<img src="../../.assets/cards/monsters/Kes.png" height="169px"> <img src="../../.assets/cards/monsters/Dyavin.png" height="169px"> <img src="../../.assets/cards/monsters/Aiza.png" height="169px"> <img src="../../.assets/cards/monsters/Aiza.png" height="169px"> <img src="../../.assets/cards/monsters/Aiza.png" height="169px"> <img src="../../.assets/cards/monsters/Azia.png" height="169px"> <img src="../../.assets/cards/monsters/Azia.png" height="169px"> <img src="../../.assets/cards/monsters/Azia.png" height="169px"> <img src="../../.assets/cards/monsters/Zaia.png" height="169px"> <img src="../../.assets/cards/monsters/Zaia.png" height="169px"> <img src="../../.assets/cards/monsters/Zaia.png" height="169px"> <img src="../../.assets/cards/monsters/Cythris.png" height="169px"> <img src="../../.assets/cards/monsters/Cythris.png" height="169px"> <img src="../../.assets/cards/monsters/Lyfris.png" height="169px"> <img src="../../.assets/cards/monsters/Lyfris.png" height="169px"> <img src="../../.assets/cards/monsters/Syndris.png" height="169px"> <img src="../../.assets/cards/monsters/Syndris.png" height="169px"> <img src="../../.assets/cards/monsters/Hykarice.png" height="169px"> <img src="../../.assets/cards/monsters/Kyralice.png" height="169px"> <img src="../../.assets/cards/monsters/Vyktica.png" height="169px"> <img src="../../.assets/cards/ritual/Raiza.png" height="169px"> <img src="../../.assets/cards/ritual/Laiza.png" height="169px"> <img src="../../.assets/cards/ritual/Vaiza.png" height="169px">
 
 </details>
 
