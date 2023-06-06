@@ -5,10 +5,7 @@
 
 <table>
   <tr>
-    <th colspan="3"> <h3> Darkchoke </h3> </th>
-  </tr>
-  <tr>
-    <td rowspan="3"> <img src="../../../.assets/cards/traps/Darkchoke.png" width="320px"> </td>
+    <th colspan="2"> <h3> Darkchoke </h3> </th>
   </tr>
   <tr>
     <td> type </td>
@@ -17,6 +14,9 @@
   <tr>
     <td> Property </td>
     <td> Continuous </td>
+  </tr>
+  <tr>
+    <td colspan="2"> <img src="../../../.assets/cards/traps/Darkchoke.png" width="320px"> </td>
   </tr>
 </table>
 
