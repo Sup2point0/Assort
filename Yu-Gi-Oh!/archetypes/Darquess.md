@@ -26,9 +26,9 @@ An archetype of DARK and primarily Spellcaster Monsters, harnessing Ritual and F
 | [Cythris, Augur of Darquess](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2300 / 0 | |
 | [Lyfris, Herald of Darquess](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2300 / 0 | |
 | [Syndris, Oracle of Darquess](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2300 / 0 | |
-| [Hykarice, Sentry of Darquess](../cards/monsters/standard/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | |
-| [Kyralice, Sentinel of Darquess](../cards/monsters/standard/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | |
-| [Vyktica, Valkyrie of Darquess](../cards/monsters/standard/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | |
+| [Hykarice, Sentry of Darquess](../cards/monsters/standard/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | Warrior |
+| [Kyralice, Sentinel of Darquess](../cards/monsters/standard/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | Warrior |
+| [Vyktica, Valkyrie of Darquess](../cards/monsters/standard/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | Warrior |
 | [Raiza, Sorceress of Darquess](../cards/monsters/ritual/Raiza.md) | 13 ★★★★★★★★★★★★★ | 3000 / 0 | Ritual |
 | [Laiza, Enchantress of Darquess](../cards/monsters/ritual/Laiza.md) | 13 ★★★★★★★★★★★★★ | 3000 / 0 | Ritual |
 | [Vaiza, Empress of Darquess](../cards/monsters/ritual/Vaiza.md) | 13 ★★★★★★★★★★★★★ | 3000 / 0 | Ritual |
@@ -45,8 +45,8 @@ An archetype of DARK and primarily Spellcaster Monsters, harnessing Ritual and F
 | [Elaiza, Arisen of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Raiza, Sorceress of Darquess* + *Laiza, Enchantress of Darquess* |
 | [Levaiza, Ascended of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Laiza, Enchantress of Darquess* + *Vaiza, Empress of Darquess* |
 | [Vraiza, Awakened of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Vaiza, Empress of Darquess* + *Raiza, Sorceress of Darquess* |
-| [Primordial Darquessence, Oblivion of Darquess](../cards/monsters/fusion/Primordial%20Darquessence.md) | 13 ★★★★★★★★★★★★★ | ? / 0 | Fusion | 3 Level 13 ‘Darquess’ Monsters with different names |
-| [Lynuca, Silencer of Darquess](../cards/monsters/fusion/–.md) | 11 ★★★★★★★★★★★ | 2700 / 0 | Fusion | 2 Level 9+ DARK Monsters |
+| [Primordial Darquessence, Oblivion of Darquess](../cards/monsters/fusion/Primordial%20Darquessence.md) | 13 ★★★★★★★★★★★★★ | ? / 0 | Divine-Beast Fusion | 3 Level 13 ‘Darquess’ Monsters with different names |
+| [Lynuca, Silencer of Darquess](../cards/monsters/fusion/–.md) | 11 ★★★★★★★★★★★ | 2700 / 0 | Warrior Fusion | 2 Level 9+ DARK Monsters |
 | [Dyvarice, Corruptor of Darquess](../cards/monsters/fusion/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | Fusion | 2 DARK Monsters with different types (Ritual/Fusion/Synchro/Xyz/Link) |
 
 </details>
