@@ -1,6 +1,6 @@
 # Darquess
 
-An archetype of DARK and protively Spellcaster Monsters, harnessing Ritual and Fusion Summoning through the unique Ritual and Fusion Spell [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md), revolving around banishing cards and dealing damage to the player themselves.
+An archetype of DARK and primarily Spellcaster Monsters, harnessing Ritual and Fusion Summoning through the unique Ritual and Fusion Spell [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md), revolving around banishing cards and dealing damage to the player themselves.
 
 
 <br>
@@ -65,7 +65,6 @@ An archetype of DARK and protively Spellcaster Monsters, harnessing Ritual and F
 | [Realm of Darquess](../cards/spells/field/Realm%20of%20Darquess.md) | ✦ Field |
 | [Rites of Darquess](../cards/spells/–/–.md) | |
 | [Temptation of Darquess](../cards/spells/–/–.md) | |
-| [–](../cards/spells/–/–.md) | – |
 
 </details>
 
@@ -86,7 +85,6 @@ An archetype of DARK and protively Spellcaster Monsters, harnessing Ritual and F
 | [Runes of Darquess](../cards/traps/–/–.md) | |
 | [Seduction of Darquess](../cards/traps/–/–.md) | |
 | [Soul of Darquess](../cards/traps/–/–.md) | ↵ Counter |
-| [– of Darquess](../cards/traps/–/–.md) | – |
 
 </details>
 
@@ -291,8 +289,8 @@ Many opening and searching cards that would usually be Spells are instead Traps,
     <th align="center"> Runes </th>
   </tr>
   <tr>
-    <td> <img src="../../.assets/cards/spells/Awakening of Darquess.png"> </td>
-    <td> <img src="../../.assets/cards/spells/Runes of Darquess.png"> </td>
+    <td> <img src="../../.assets/cards/traps/Awakening of Darquess.png"> </td>
+    <td> <img src="../../.assets/cards/traps/Runes of Darquess.png"> </td>
   </tr>
 </table>
 
