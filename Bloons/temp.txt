@@ -1,0 +1,2600 @@
+<!--No! You're not supposed to be reading the source code! Find the secrets the correct way!-->
+<!-- <style> .top {font-family: 'Noto Sans SC', 'Source Sans Pro', 'Noto Sans', sans-serif} </style> -->
+Sup!
+{{tocright}}
+<div class="mw-collapsible mw-collapsed"><span style="color:#d4e6f7;">Oh hey there. How'd you find this? I wonder if you decided to highlight this hidden text. Actually, with the new FandomDesktop update, you're probably using Dark Mode, in which case you'll see this. Or perhaps you're looking in the source code, in which case WHY ARE YOU IN HERE XD or maybe you're using Reader View, in which case WHY ARE YOU READING ON MOBILE-<br />Anyway, um, idk what to say here... oh ik - I USE DISCORD, REDDIT AND TWITCH IN LIGHT MODE</span></div>
+
+== <span style="font-family: 'Luckiest Guy';"> About Me </span> ==
+I'd say I'm introverted, pretty good-tempered, and more patient than most people are. If you want to know more about me (in general), you could check out my userpages on the [https://plantsvszombies.fandom.com/wiki/User:Sup2point0 PvZ Wiki], [https://asphalt.fandom.com/wiki/User:Sup2point0 Asphalt Wiki], or [https://soul-knight.fandom.com/wiki/User:Sup2point0 Soul Knight Wiki], as those used to be the Wikis I was most active on. You can also find me on various different sites, such as [https://scratch.mit.edu/users/Sup2point0/ Scratch], [https://www.youtube.com/channel/UC-HuEo4o95ujhwD1UZoe_Vw YouTube] or [https://www.reddit.com/user/Sup2point0 reddit].
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Bloons Games I've Played </span> ===
+My friend showed me ''Bloons TD 5'' on his iPad many years ago during a school trip, and I instantly fell in love with it. Some of my best memories involve spamming Ray of Dooms in Sandbox, spamming ZOMGs at my friend's ultimate Tier IV defence, and spamming... you get the point. I never downloaded it myself, cuz my parent's didn't really let me play games.
+
+Another Bloons game I used to play (and have also recently started playing again) is ''Bloons Super Monkey 2''. Again, this was a game my friend showed me on his iPad many years ago. I really enjoy playing it, and for a decently old game its graphics are pretty good. I also love SHMUPs, so Bloons + SHMUP? Perfection.
+
+Currently I play ''Bloons TD 6''. I absolutely love this game, and at least imo it's the only game in the world apart from Minecraft that is close to being a 'perfect' game. I play anywhere between 0~2 hours a day, although mostly on weekends and during holidays. I could ramble for hours about how beautifully designed the game is, but I won't do that.
+
+I've also started playing ''Bloons Pop!''. It's quite a fun little game to kill time, and one of my favourite things to do is play it alongside BTD6 - while I'm waiting for enough cash for an upgrade, I can just quickly complete a Bloons Pop! level so that I'm not bored - even though I'm perfectly happy to wait and just watch the monkeys do their stuff. Tbh, Bloons Pop! might actually be even more well-designed than BTD6... but I still haven't fully decided on that yet.
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> My Play Style </span> ===
+I'm more of a casual player, so I mostly just play Odysseys for trophies to buy nice cosmetics in the trophy store, and slowly work my way through the different maps. I don't really play Races, cuz I'm just not good at them (when I initially started I didn't realize you were supposed to spam rounds, and I only sent like 2 or 3 rounds whenever I felt I was doing well, so I ended up with times of like 30 minutes xD). Also, I love playing around in Sandbox. There's always something new to test. There have been many occasions where I have lost myself in Sandbox for... far longer than I should have.
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Preferences and Stuff </span> ===
+I have a couple of perhaps slightly strange preferences.
+<div class="mw-collapsible mw-collapsed">
+: I like using Roman numerals where suitable, cuz I just think it makes things look cooler.
+:: The most common example would be ''Tier V'', ''Tier IV'', etc.
+:: However, I still say ''Bloons TD '''6'''''.
+: I usually say ''Upper Path'', sometimes ''Top Path'', but never ''Path 1''.
+: I prefer saying the upgrade name and crosspath, rather than using an upgrade code.
+:: For example, ''Crossbow Master with Very Quick Shots'', not ''0-2-5 Dart Monkey''.
+:: If I do choose to use the upgrade code, I prefer spelling it x-x-x when there are no ''x''s (e.g. ''5-0-2''), but xxx when there are ''x''s (e.g. ''5xx'')
+</div>
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Random Facts </span> ===
+Just a couple of random facts about me.
+<div class="mw-collapsible mw-collapsed">
+: I am kinda OCD, and I always try to organize my monkeys nicely, so:
+:: - I hate it when monkeys overlap (i.e. when they merge strangely)
+:: - I hate it when bloons overlap irregularly (e.g. when a long line of MOABs comes and suddenly one overlaps to the front)
+:: - I hate it when a Spike-o-Pult / Plasma Accelerator doesn't shoot perfectly straight down a straight line (or any other straight-shooting monkey)
+:: - I hate it when Heli pads or Ace runways partially cover flowers or other map decorations (If they're gonna cover them, COVER THE WHOLE THING)
+:: - I hate it when I place a Tack Shooter off-centre in a loop
+</div>
+
+== <span style="font-family: 'Luckiest Guy';"> Stats </span> ==
+[[File: Sup2point0 - Stats - 24.04.21.png|thumb|right|240px|<span style="font-family:'Noto Sans SC', sans-serif;">My stats as of 24/04/21</span>]]
+: <span style="color:#b8c0c8;">Last Updated: 10/07/2021 15:00 GMT</span>
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Main Stats </span> ===
+[[File: Sup2point0-Round-137.png|thumb|right|240px|<span style="font-family:'Noto Sans SC', sans-serif;">My highest round (died on Round 137)</span>]]
+: Name: <span style="color:#3264c8;">Sup2.0</span>
+: Level: <span style="color:#50a0f0;">99</span>
+: XP: <span style="color:#50a0f0;">30,238</span>/630,000
+: Games Played: <span style="color:#50a0f0;">473</span>
+: Highest Round: <span style="color:#50a0f0;">137</span>
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Top Towers </span> ===
+: Dart Monkey - <span style="color:#3264c8;">388</span> Times Placed
+: Alchemist - <span style="color:#50a0f0;">252</span> Times Placed
+: Banana Farm - <span style="color:#50a0f0;">245</span> Times Placed
+
+: Adora - <span style="color:#3264c8;">86</span> Times Placed
+: Obyn Greenfoot - <span style="color:#50a0f0;">70</span> Times Placed
+: Quincy - <span style="color:#50a0f0;">49</span> Times Placed
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Track Medals </span> ===
+: <span style="color:#50a0f0;">x47</span> Easy
+:: <span style="color:#00c832;">x18</span> Primary Monkeys Only
+:: <span style="color:#a050f0;">x16</span> Deflation
+
+: <span style="color:#50a0f0;">x22</span> Medium
+:: <span style="color:#00c832;">x16</span> Military Monkeys Only
+:: <span style="color:#3264c8;">x2</span> Apopalypse
+:: <span style="color:#a050f0;">x12</span> Reverse
+
+: <span style="color:#50a0f0;">x16</span> Hard
+:: <span style="color:#00c832;">x7</span> Magic Monkeys Only
+:: <span style="color:#3264c8;">x4</span> Double HP MOABs
+:: <span style="color:#50a0f0;">x2</span> Half Cash
+:: <span style="color:#a050f0;">x4</span> Alternate Bloon Rounds
+:: <span style="color:#009b65;">x3</span> Impoppable
+:: <font color="black">x3</font> CHIMPS (Black Border)
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> All Stats </span> ===
+: <span style="color:#3264c8;">473</span> Games Played
+: <span style="color:#50a0f0;">271</span> Games Won
+: Highest Round <span style="color:#3264c8;">137</span>
+: <span style="color:#50a0f0;">3,493</span> Monkeys Placed
+: <span style="color:#3264c8;">32,872,727</span> Bloons Popped
+: <span style="color:#3264c8;">15,797</span> Bloons Leaked
+: <span style="color:#50a0f0;">35</span> BADs Popped
+: <span style="color:#3264c8;">17,604,014</span> Cash Generated
+: <span style="color:#50a0f0;">4,032</span> Abilities Used
+: <span style="color:#50a0f0;">6</span> Powers Used
+: <span style="color:#50a0f0;">0</span> Insta-Monkeys Used
+
+: <span style="color:#3264c8;">39</span>/115 Achievements Completed
+: <span style="color:#50a0f0;">3</span>/10 Hidden Achievement Completed
+: <span style="color:#3264c8;">132</span> Daily Reward Chests Opened
+: <span style="color:#50a0f0;">8</span> Collection Chests Opened
+: <span style="color:#50a0f0;">22</span> Odysseys Completed
+: <span style="color:#50a0f0;">64</span> Odyssey Stars Collected
+: <span style="color:#50a0f0;">566</span> Lifetime Trophies
+
+: <span style="color:#50a0f0;">119,751</span> Necro Bloons Reanimated
+: Most Experienced Monkey is <span style="color:#50a0f0;">Sniper Monkey</span> with <span style="color:#50a0f0;">1,874,757</span> XP
+: <span style="color:#50a0f0;">86</span>/1408 Insta Monkeys Collected
+: <span style="color:#50a0f0;">13</span> Golden Bloons Popped
+
+== <span style="font-family: 'Luckiest Guy';"> Progress </span> ==
+: <span style="color:#b8c0c8;">Last Updated: 10/07/2021 15:00 GMT</span>
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Monkeys </span> ===
+I have unlocked all Monkeys/Towers and all their upgrades.
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Heroes </span> ===
+I have unlocked all Heroes and all their skins.
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Monkey Knowledge </span> ===
+[[File: Sup2point0 - Monkey Knowledge - 24.04.21.png|thumb|right|240px|<span style="font-family:'Noto Sans SC', sans-serif;">My Monkey Knowledge progress</span>]]
+I've unlocked all the important upgrades, such as the Spike Pile, Mana Shield, Free Dart, etc. but still got a way to go before maxing out. I'm currently going for the Hero upgrades, especially Empowered Heroes.
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Tracks </span> ===
+I've completed almost all the tracks on Easy, and for a few of the ones that I especially like I've obtained the other medals too. Some random tracks may have Medium or Hard medals cuz I was chasing extra Collection rewards on those tracks.
+<gallery>
+File: Sup2point0 - Track Medals (1) - 24.04.21.png|Monkey Meadow is my first (and only) Black Border (as of 24/04/21)
+File: Sup2point0 - Track Medals (2) - 24.04.21.png|My first ever freeplay run (Round 100+) was on Park Path. I got to Round 103 and died, cuz I forgot 0-2-5 Permaspike can't pop DDTs xD
+File: Sup2point0 - Track Medals (3) - 24.04.21.png|Cubism will be my next Black Border, cuz it's my favourite track!
+</gallery>
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Powers </span> ===
+[[File: Sup2point0 - Powers - 24.04.21.png|thumb|right|240px|<span style="font-family:'Noto Sans SC', sans-serif;">My Powers collection</span>]]
+I used a couple of powers when I first started, but now I never use them. Idk, I enjoy saving them up even if it's pointless. And since I always use Marketplaces I don't need Banana Farmers either.
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Insta Monkeys </span> ===
+I personally never use Insta Monkeys, but I do enjoy collecting them. Since I haven't been playing for all that long, I don't have a huge Insta Monkey collection.
+<gallery>
+File: Sup2point0 - Instas (1) - 24.04.21.png|Insta Monkeys - 1
+File: Sup2point0 - Instas (2) - 24.04.21.png|Insta Monkeys - 2
+</gallery>
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Trophy Store </span> ===
+[[File: Sup2point0 - Trophy Store - 24.04.21.png|thumb|right|240px|<span style="font-family:'Noto Sans SC', sans-serif;">My Trophy Store inventory</span>]]
+Some of my favourites include:
+: Googly Eyes
+: Easter Egg MOAB
+: Chocolate BFB
+: Obyn Bunny Pet
+: Sub Ducky Pet
+
+== <span style="font-family: 'Luckiest Guy';"> Favourites </span> ==
+: <span style="color:#b8c0c8;">''This section is currently under construction =)''</span>
+This is a long section. Expand at your own risk. Also, remember that these are just my personal opinions!
+
+<div class="mw-collapsible mw-collapsed">
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> General </span> ===
+: Favourite Game: <span style="color:#50a0f0;">Bloons TD 6</span>
+:: <div class="mw-collapsible mw-collapsed">There are so many reasons why I love Bloons TD 6 (more than BTD5), but I'll be quick: I absolutely adore its graphics - the semi-minimalist vector style and 3D graphics; I love that there are 3 different upgrade paths, it makes towers so much more unique and opens up loads of new possibilities; Sandbox is much better than in BTD5... and more.</div>
+: Favourite Track: <span style="color:#50a0f0;">Cubism</span>
+: Favourite Gamemode: <span style="color:#50a0f0;">Sandbox</span>
+: Favourite BTD6 YouTuber: <span style="color:#00c832;">ISAB</span>
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Favourite Monkeys </span> ===
+It's too hard to decide on one, so these are my favourite 6:
+: - <span style="color:#50a0f0;">Tack Shooter</span>
+: - <span style="color:#00c832;">Monkey Sub</span>
+: - <span style="color:#00c832;">Monkey Buccaneer</span>
+: - <span style="color:#00c832;">Dartling Gunner</span>
+: - <span style="color:#f0a050;">Spike Factory</span>
+: - <span style="color:#f0a050;">Banana Farm</span>
+<div class="mw-collapsible mw-collapsed">
+:: I've always loved the Tack Shooter. I think it's because it looked really... symmetrical and clean in 2D in BTD5. It's also quite good in-game, with some cheap early game popping power and powerful Tier V upgrades.
+
+:: The Monkey Sub's just really powerful. Its Advanced Intel upgrade is probably one of the most useful upgrades in the entire game. All 3 of its paths are amazing - Bloontonium Reactor completely wastes away bloons, Pre-Emptive Strike helps hugely during DDT rushes and is extremely effective when paired with a Sub Commander, which, well... yeah, it's crazily OP.
+
+:: I love the Monkey Buccaneer so much that I <s>made a game</s> am planning to make a game inspired by it. Yup, just from one monkey. So firstly, 'Buccaneer' is really satisfying to say, cuz of the 'k' sound, which is imo the most satisfying sound to say. It's also got a ton of popping power (Double Shot + Grape Shot) and tons of references to irl stuff (Double Shot, Grape Shot, Crow's Nest, etc), which I absolutely love. And the artwork and upgrade icons are amazing. And it's a water monkey, which makes it even more special and unique. Overall, definitely a serious contender for my all-time favourite monkey.
+
+:: Everyone loves the Dartling Gunner. Including me. I always used to spam it in BTD5, and still do in BTD6. Hydra Rocket Pods is super satisfying and powerful, and Ray of Doom is even crazier.
+
+:: Banana Farm, Banana Farm, what would we do without Banana Farms... honestly it's one of the most important towers in the game, and makes those expensive Tier IV and V upgrades so much more viable. I like using the bottom path Farm, because it's just the easiest and simply generates income without me having to worry about much. While it is less efficient, it's much more convenient and management-free.
+
+:: Back in BTD5, I thought the Spike Factory was really overpowered, because it dropped road spikes - which I loved using - for free. Well, it wasn't that OP, but still I absolutely loved using it. I adored its technical and symmetrical 2D design, and the excellent colour schemes and interesting upgrades.
+</div>
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Favourite Heroes </span> ===
+In order:
+: - <span style="color:#50a0f0;">Admiral Brickell</span>
+: - Adora
+: - Quincy
+:: <div class="mw-collapsible mw-collapsed">Admiral Brickell is hard to explain. It's not to do with her power or usefulness, even though she is pretty powerful and useful. Adora fits perfectly with Ninja and Alchemist, so yeah, she's the hero I use most of the time. And Quincy's just classic.</div>
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Favourite Bloons </span> ===
+In order:
+: - MOAB
+: - Pink Bloon
+: - Ceramic Bloon
+:: <div class="mw-collapsible mw-collapsed">Ahh, these will be quite hard to explain. I really like the shape and colour of the MOAB. The Easter Egg skin is also really nice. The Pink Bloon... I just like spamming it in Sandbox Mode. Idk why tbh. Maybe cuz it moves so fast and is relatively tough. And the Ceramic's popping sound is just so satisfying. Also it looks strong.</div>
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Favourite Tracks </span> ===
+So Cubism is definitely my favourite map, but there are a couple of others that I also really like:
+<gallery>
+MonkeyMeadow No UI.png | Monkey Meadow
+FrozenOver No UI.png | Frozen Over
+FourCircles No UI.png | Four Circles
+Downstream No UI.png | Downstream
+Rake No UI.png | Rake
+</gallery>
+<div class="mw-collapsible mw-collapsed">
+:: Monkey Meadow is just a really clean, nice and beautifully simple track, perfect for a starter track. Straights, curves, loops, it's got 'em all. I also like how water and line of sight aren't in this map, and instead are gradually introduced to us in the later tracks, just to make new players feel more at ease. Nice map for Sandbox too.
+
+:: There's something just really nice about Frozen Over. I love the colours, the water in the middle, the unique look of the path, but there's something else I can't quite put my finger on that makes me like this track so much. Winter Nights is also a plus, since it's my favourite soundtrack.
+
+:: Four Circles is one of my favourite tracks to play in Sandbox, because it's symmetrical and has 2 huge loops for radial monkeys, as well as an amazing central spot for your main defence or True Sun God. Also Aces with 'Figure 8' flight path line up almost perfectly with the track, which both looks nice and maximizes damage.
+
+:: Downstream is essentially Monkey Meadow but with water. At least that's how I see it. I love the terrain and the trees, and the pebbles and water, and the stream running right through the centre. It's kind of similar to Park Path, which I guess is cool (well Park Path was added to BTD6, but still cool). It's just a very pleasant map that's enjoyable to play on.
+
+:: Ihdky I love Rake so much, but I would definitely say it's my second favourite map. It just looks... nice. It's clean, I guess, with a cool path texture, and has water. Also, really random, but the mixture of straight lines but curved edges reminds me of the first font I ever downloaded - RAJDHANI, the font used in the Asphalt 9. So I guess it also has some sentimental value. Idk.
+</div>
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Favourite Gamemodes </span> ===
+In order:
+: - Deflation
+: - Medium Standard
+: - Military Monkeys Only
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Favourite Soundtracks </span> ===
+In order:
+: - <span style="color:#50a0f0;">Winter Nights</span>
+: - <span style="color:#a050f0;">Tribes and Tribulations - Funked Up Mix</span>
+: - Party Time
+:: <div class="mw-collapsible mw-collapsed">Winter Nights is my absolute favourite. I love the drop. Nothing else to say, really. Tribes & Tribulations Funked Up is, well, funky, and Party Time's, like Quincy, just classic.</div>
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Favourite Powers </span> ===
+: - Cash Drop
+: - Banana Farmer
+: - Road Spikes
+:: <div class="mw-collapsible mw-collapsed">I love the Cash Drop icon. Weird, ik, but I love admiring BTD6's art. Banana Farmer is very useful, but I mostly use Marketplaces so I don't use him much. And Road Spikes is useful if you forget to get Camo or Lead or CAMOLED (that's how you spell it, definitely) popping power. Also it was in Bloons TD5, so... that's cool I guess.</div>
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Favourite Tier V Upgrades </span> ===
+: Boomerang Monkey - <span style="color:#50a0f0;">Glaive Lord</span>
+: Tack Shooter - <span style="color:#50a0f0;">The Tack Zone</span>
+: Monkey Ace - <span style="color:#00c832;">Flying Fortress</span>
+: Dartling Gunner - <span style="color:#00c832;">Ray of Doom</span>
+: Wizard Monkey - <span style="color:#a050f0;">Prince of Darkness</span>
+: Spike Factory - <span style="color:#f0a050;">Perma-Spike</span>
+<div class="mw-collapsible mw-collapsed">
+:: Although it isn't particularly powerful late-game, the Glaive Lord is still extremely fun and satisfying to play around with in Sandbox. If you place it around a good curve or loop, it completely annihilates any bloon (except maybe fortified Super Ceramics) that comes along. Also, you can make it even stronger with Primary Mentoring.
+
+:: The Tack Zone is a super versatile tower and extremely powerful against everything. It shoots a TON of projectiles, which makes it great for both damaging Bloons and MOABs. Unfortunately as of 25.0 it doesn't pop Leads anymore, but you'll alch-buff it anyway so that doesn't really matter, and now it's SUPER cheap for a Tier V. And, just like the Glaive Lord, you can power it up even more with Primary Mentoring.
+
+:: Flying Fortress. Just say it. Say it to yourself out loud. It sounds SO COOL. Plus, it's a reference to the irl Boeing Flying Fortress, which to me makes it even cooler. I love the references to irl stuff in BTD. Nuff said. Who cares if it's super expensive and underpowered.
+
+:: Ray of Doom was my favourite upgrade in BTD5, and in BTD6 it's even crazier. I'm not that big of a fan of the giant seat thingy, but regardless it does look pretty menacing. The added Lazer Shock effect fits really nicely, and the flickering electricity at the base of the ray adds to the coolness. Infinite pierce is also cool.
+
+:: Prince of Darkness is a very creative and unique upgrade, not quite like anything I've ever seen before. It's pretty cheap for a Tier V upgrade, and is awesome for cleanup, AND you can crosspath it with Wall of Fire for even more damage. Overall, a fitting new Tier V upgrade for the Wizard Monkey.
+
+:: Perma-Spike will always be the best safety net of all time, and always my 'strategy' for beating CHIMPS. It's honestly so overpowered, and I love it. Cool name too.
+</div>
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Favourite Tier IV Upgrades </span> ===
+: Dart Monkey - <span style="color:#50a0f0;">Sharp Shooter</span>
+: Sniper Monkey - <span style="color:#00c832;">Full Auto Rifle</span>
+: Mortar Monkey - <span style="color:#00c832;">Shattering Shells</span>
+: Dartling Gunner - <span style="color:#00c832;">Plasma Accelerator</span>
+: Ninja Monkey - <span style="color:#a050f0;">Bloonjitsu</span>
+: Alchemist - <span style="color:#a050f0;">Stronger Stimulant</span>
+<div class="mw-collapsible mw-collapsed">
+:: I don't think any upgrade would've suited the Dart Monkey more as a 3rd upgrade path than the crossbow. It just makes so much sense. It's a very versatile upgrade path, and also has good stepping stones - the jump from each upgrade to the next isn't that huge. Anyway, the Sharp Shooter is extremely useful for taking down the MOAB on Round 40, and it's always my go-to option for MOAB damage early on. Those Crit shots deal a lot of damage.
+
+:: The Full Auto Rifle is so extremely versatile. It can detect Camo (Night Vision Goggles), pop Lead, and therefore CAMOLED (next generation of the AMOLED right there), has extremely high firerate, deals good damage against MOABs and grouped bloons (Shrapnel Shot), and has global range. Ridiculous.
+
+:: Idk what I was doing before I started using Shattering Shells. Seriously. This is an absolute MUST for late game (I mean Round 80+, and especially Round 100+). Removing fortifications off BFBs!? It saves you SO much time and effort trying to deal enough damage, and makes rounds like 98 a breeze. Pretty affordable too.
+
+:: Plasma Accelerator... sounds cool. Idc if it's not that powerful, it just sounds awesome.
+
+:: Bloonjitsu and Stronger Stimulant, one of the most powerful and versatile combos... ever. Has great stepping stones and doesn't cost a crazy amount of cash. A lot of popping power for both mid and late game. Can pop Camo, Lead, grouped bloons, MOABs, yeah. Definitely my most used combo.
+</div>
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Favourite Tier III Upgrades </span> ===
+: Dart Monkey - <span style="color:#50a0f0;">Spike-o-Pult</span>
+: Tack Shooter - <span style="color:#50a0f0;">Tack Sprayer</span>
+: Monkey Buccaneer - <span style="color:#00c832;">Destroyer</span>
+: Monkey Ace - <span style="color:#00c832;">Neva-Miss Targeting</span>
+: Dartling Gunner - <span style="color:#00c832;">Hydra Rocket Pods</span>
+: Wizard Monkey - <span style="color:#a050f0;">Arcane Mastery</span>
+<div class="mw-collapsible mw-collapsed">
+:: Spike-o-Pult might be a rather strange choice, but I personally really enjoy using it. It's super cheap and is great for dealing with a long line of bloons. While it doesn't have the greatest DPS, it can weaken an entire line of bloons and slow them all down, allowing your other towers to take them down with ease. (Also don't kill me, but I like using a 3-0-2 Spike-o-Pult)
+
+:: One of my favourite towers for early game, the 2-0-3 Tack Sprayer. So much cheap popping power. I still think it looked cooler in BTD5 where it was 2D though.
+
+:: Firstly, say Destroyer out loud. It just sounds powerful. Furthermore, it's got a lot of popping power (if you get Grape Shot) and leads to very good Tier IV and V upgrades.
+
+:: Neva-Miss Targeting is just such a useful upgrade. The fact that the darts can home in on bloons hugely increases the Ace's popping power. It's perfect for tracks with a lot of obstacles, like Ravine or High Finance. Also it's extremely satisfying watching all those darts fly around on screen.
+
+:: Hydra Rocket Pods is definitely one of the most satisfying upgrades in the game. It looks so much better than in BTD5, with its nuclear green look and numerous explosions. Honestly, I could watch those explosions all day. Plus, it's extremely powerful and has a ton of popping power.
+
+:: Idk how an upgrade ''itself'' (and not the name or how it attacks) can be ''satisfying'', but Arcane Mastery somehow is. Like, the HUGELY increased range is just... satisfying. Weird, ik, but I like it. Plus it gives a bunch of other nice upgrades like attack speed and pierce, and overall has a lot of popping power all for a relatively low price.
+</div>
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Favourite Upgrade Arts </span> ===
+<gallery>
+005-DartMonkey.png | Dart Monkey - <span style="color:#50a0f0;">Crossbow Master</span>
+500-TackShooter.png | Tack Shooter - <span style="color:#50a0f0;">Inferno Ring</span>
+300-HeliPilot.png | Heli Pilot - <span style="color:#00c832;">Razor Rotors</span>
+050-DartlingGunner.png | Dartling Gunner - <span style="color:#00c832;">M.A.D</span>
+500-Wizard.png | Wizard Monkey - <span style="color:#a050f0;">Archmage</span>
+500-NinjaMonkey.png | Ninja Monkey - <span style="color:#a050f0;">Grandmaster Ninja</span>
+</gallery>
+<div class="mw-collapsible mw-collapsed">
+: Crossbow Master's is exactly what Tier V upgrade art should be - awesome, menacing and from a cool angle. I love how it changes drastically from Tier IV to V, really emphasizing the sheer power of the Tier V upgrade.
+
+: I love Inferno Ring's upgrade art for the same reasons as the Crossbow Master. It's just so cool and ferocious. It really lives up to its description (''roasts bloons into oblivion''). That definitely looks super hot and deadly.
+
+: The upgrade art for Razor Rotors is actually what my Heli Pilot's name (Yaaaaaaa) was inspired by. If he had an open mouth, you would be able to just imagine him shouting ''<nowiki>'</nowiki>Chaaaaaarge!<nowiki>'</nowiki>'' That grin's still pretty nice tho.
+
+: The MAD is just so, so menacing and powerful. Absolutely ridiculous.
+
+: Archmage reminds me of Vitruvius from the LEGO Movie, which I guess is cool. But other than that I also love the orb of energy in his hand, makes him look super magical and powerful.
+
+: Grandmaster Ninja... what can I say. Yet another epitome of amazing Tier V upgrade art. I love it.
+</div>
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Favourite Upgrade Icons </span> ===
+<gallery>
+UltraJuggernautUpgradeIcon.png | Dart Monkey - Ultra-Juggernaut
+MoabAssassinUpgradeIcon.png | Bomb Shooter - MOAB Assassin
+SuperMaelstromUpgradeIcon.png | Tack Shooter - Super Maelstrom
+ShatteringShellsUpgradeIcon.png | Mortar Monkey - Shattering Shells
+NecromancerUnpoppedArmyUpgradeIcon.png | Wizard Monkey - Necromancer: Unpopped Army
+SprocketsUpgradeIcon.png | Sprockets
+</gallery>
+<div class="mw-collapsible mw-collapsed">
+: Ultra-Juggernaut's upgrade icon is... smooth, is the only word I can think of to describe it. The spiked ball looks incredibly clean and the gradient lines from orange to yellow almost make it seem like it's glowing. Yeah. Pretty cool.
+
+: I absolutely love the shape of MOAB Assassin's icon. It's so sleek and angular (I'm aware this sounds like I'm describing a car here) and the sparkle is so... perfect.
+
+: Super Maelstrom looks, sounds and is cool. That's pretty much all.
+
+: I absolutely adore the super-smooth MOAB art in the Shattering Shells icon, which also fits really nicely with the style of the shattered fortifications. It's so satisfying to look at.
+
+: Necromancer's upgrade icon is one of the most unique and well thought-out upgrade icons (imo). It's simple yet beautiful and perfectly represents what the upgrade does. I love the addition of the skull on the Zombie Bloon, which isn't actually on the Zombie Bloons Or maybe we're just looking from the wrong angle...? but makes it so much more representative and interesting.
+
+: Sprockets... bit of a random one, ig, but it's just... nice, ig.
+</div>
+
+</div>
+
+== <span style="font-family: 'Luckiest Guy';"> FANDOM </span> ==
+: <span style="color:#b8c0c8;">''This section is '''heavily''' under construction =D''</span>
+This section contains all of my fan-made stuff - ideas, concepts, thoughts, etc..
+
+<!--If you're looking at the source code, don't. The following section is so cluttered and multi-levelled that even I can't make sense of it now.-->
+<!--If you've chosen to continue, well, gl. Little inside note: it took me soooooo long to find out how to use tables inside tabbers - turns out you have to replace all the '|'s with {{!}} - ik, so annoying. What's really annoying tho, is that it doesn't mention that anywhere in the FANDOM Help pages or even WikiText Help pages. Anyway, enhoy.-->
+
+<tabber>
+|-|Monkeys=
+
+{{#tag:tabber|Primary=
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Primary Monkey </span> ===
+
+: <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;">''The one, the only, the first. The Primary Monkey.''</span>
+
+{{#tag:tabber|Top Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Sharp Shots
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Hot Shots
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Crit Shots
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Splodey Shots
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Primary Power
+{{!}} 
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Middle Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Rangs
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Glaives
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Blades
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Juggernauts
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Primary Paragon
+{{!}} 
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Bottom Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Enhanced Eyesight
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Primary Call
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Primary Rally
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Primary Party
+{{!}} 
+{{!}} 
+{{!}}}
+
+}}
+
+{{!}}-{{!}}Military=
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Military Monkey </span> ===
+
+: <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;">''The ultimate Military monkey.''</span>
+
+{{#tag:tabber|Top Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Night Vision Goggles
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Advanced Intel
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Special Poperations
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Monkey Marines
+{{!}} 
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Middle Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Burny Shots
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Burny Bombs
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Ballistic Missiles
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Bloontonium Blast
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Military Mayday
+{{!}} 
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Bottom Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Dual Darts
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Quad Darts
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Ace Army
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Comanche Call
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Monkey Military
+{{!}} 
+{{!}} 
+{{!}}}
+
+}}
+
+{{!}}-{{!}}Magic=
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Magic Monkey </span> ===
+
+: <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;">''TBA''</span>
+
+{{#tag:tabber|Top Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Intense Magic
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Magic Discipline
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Arcane Bolts
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Plasma Blasts
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Magic Mastery
+{{!}} 
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Middle Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Thorns
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Shurikens
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Fireballs
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Solar Blasts
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Magic Maelstrom
+{{!}} 
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Bottom Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Monkey Sense
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Red Lightning
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Dark Magic
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Lightning Blasts
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Night Monkey
+{{!}} 
+{{!}} 
+{{!}}}
+
+}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Elemental Sword Monkey </span> ===
+
+: <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;">''Slices nearby bloons with his blade. Can upgrade to hardness the powers of different elements.''</span>
+
+{{#tag:tabber|Top Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Sharper Blade
+{{!}} Sword cuts through more bloons.
+{{!}} Increases pierce.
+{{!}}-
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Burning Blade
+{{!}} Burning hot blade deals more damage, sets bloons on fire and can pop lead and frozen bloons.
+{{!}} Increases damage and adds a burning DoT effect.
+{{!}}-
+{{!}} Sword of Flame
+{{!}} Blade of pure fire incinerates bloons and deals extra damage to DDTs, lead, and fortified bloons.
+{{!}} Increases damage and burning DoT tick speed.
+{{!}}-
+{{!}} Dragon's Sword
+{{!}} Unleash the power of the dragon.
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Middle Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Faster Slash
+{{!}} Slashes bloons faster.
+{{!}} Increases attack speed.
+{{!}}-
+{{!}} Double-Edged Sword
+{{!}} Sword cuts through 2 layers.
+{{!}} Increases damage.
+{{!}}-
+{{!}} Sword of Lightning
+{{!}} Hits chain lightning to multiple bloons.
+{{!}} 
+{{!}}-
+{{!}} Summon the Lightning
+{{!}} Summon the Lightning: Sword becomes supercharged with lightning for a short duration.
+{{!}} 
+{{!}}-
+{{!}} Lightning Katana
+{{!}} Super deadly katana becomes permanently supercharged with lightning.
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Bottom Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Hard Blade
+{{!}} Sword briefly stuns bloons and can pop frozen bloons.
+{{!}} 
+{{!}}-
+{{!}} Knockback
+{{!}} Blade becomes so hard it knocks back bloons.
+{{!}} 
+{{!}}-
+{{!}} Ice Cold Blade
+{{!}} Blade freezes bloons upon touch and deals extra damage to MOAB-class bloons.
+{{!}} 
+{{!}}-
+{{!}} Sword of Frost
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Frostcutter
+{{!}} 
+{{!}} 
+{{!}}}
+
+}}
+
+{{!}}-{{!}}Support=
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Support Monkey </span> ===
+
+: <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;">''TBA''</span>
+
+{{#tag:tabber|Top Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Jungle Drummer
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Screwdrummer
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Middle Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Monkey Intelligence Agent
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Call to Arms
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Homeland Defence
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Support Storm
+{{!}} 
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Bottom Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Exploding Pineapples
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Road Spikes
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Cleansing Foam
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Sentry Turret
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Super Support
+{{!}} 
+{{!}} 
+{{!}}}
+
+}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Banana Farmer </span> ===
+
+: <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;">''Tired of picking up bananas? So is this guy but NOW HE CAN BE UPGRADED''</span>
+
+{{#tag:tabber|Top Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Long Rake
+{{!}} Increases collection range.
+{{!}} 
+{{!}}-
+{{!}} Faster Collect
+{{!}} Collects bananas faster!
+{{!}} 
+{{!}}-
+{{!}} Heavy Rake
+{{!}} Rake can pop lead bloons and deals +1 damage to lead, ceramic, MOAB-class and fortified bloons.
+{{!}} 
+{{!}}-
+{{!}} Bloon Whack
+{{!}} Rake stuns bloons after being whacked and deals even more extra damage.
+{{!}} 
+{{!}}-
+{{!}} Golden Rake
+{{!}} Golden rake earns extra cash from each bloon popped.
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Middle Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Compost Pot
+{{!}} Compost pot fills up with compost at the end of each round. Once full, the compost pot boosts the production of a nearby Banana Farm for 1 round!
+{{!}} 
+{{!}}-
+{{!}} Compost Collect
+{{!}} Each bloon the Banana Farmer pops fills up the compost pot with extra compost.
+{{!}} 
+{{!}}-
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Fertilizer
+{{!}} Sprays fertilizer on nearby Banana Farms, boosting their production for a short duration!
+{{!}} 
+{{!}}-
+{{!}} Ultra-Fertilizer
+{{!}} Super-nutritiating fertilizer permanently fertilizes Banana Farms.
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Bottom Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Banana Peel
+{{!}} Whenever the Banana Farmer collects a banana, it can throw a banana peel onto the track nearby to slip bloons!
+{{!}} 
+{{!}}-
+{{!}} Lucky Collect
+{{!}} Has a chance to earn double cash when collecting a banana!
+{{!}} Has a 5% chance.
+{{!}}-
+{{!}} Sticky Peels
+{{!}} Banana peels last longer and can slow down bloons after slipping, including MOABs.
+{{!}} 
+{{!}}-
+{{!}} Banana Prospect
+{{!}} Has a much higher chance of earning double cash when collecting bananas, and has a small chance of collecting triple cash!
+{{!}} Has a 15% chance of doubling, and 3% chance of tripling.
+{{!}}-
+{{!}} Farmyard
+{{!}} 
+{{!}} 
+{{!}}}
+
+}}
+
+{{!}}-{{!}}Unnamed (Melee?)=
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Sword Monkey </span> ===
+
+: <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;">''Cuts through nearby bloons with his trusty sword.''</span>
+
+{{#tag:tabber|Top Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Sword Training
+{{!}} Intense training increases attack speed, range and pierce.
+{{!}} 
+{{!}}-
+{{!}} Quick Slash
+{{!}} 
+{{!}} Increases attack speed.
+{{!}}-
+{{!}} Sword Mastery
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Swordmaster
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Excalibloon
+{{!}} 
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Middle Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Sharper Blade
+{{!}} Sword can cut more bloons at once.
+{{!}} Increases pierce.
+{{!}}-
+{{!}} Piercing Slash
+{{!}} Sword can pierce through more bloons and cuts through 2 layers at once!
+{{!}} 
+{{!}}-
+{{!}} Monkey Samurai
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Sword Frenzy
+{{!}} Sword Frenzy: Attacks super fast for a short duration!
+{{!}} 
+{{!}}-
+{{!}} Super Samurai
+{{!}} 
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Bottom Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Longer Blade
+{{!}} Longer sword can reach further.
+{{!}} Increases attack range.
+{{!}}-
+{{!}} Dual Swords
+{{!}} Wields 2 swords at once.
+{{!}} 
+{{!}}-
+{{!}} Deadly Blades
+{{!}} Swords cut through an extra layer, and deal +1 damage to MOAB-class bloons.
+{{!}} 
+{{!}}-
+{{!}} Enchanted Blades
+{{!}} Swords deal extra damage to all bloons with special properties. Also increases attack speed.
+{{!}} 
+{{!}}-
+{{!}} Moon Blades
+{{!}} 
+{{!}} 
+{{!}}}
+
+}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Slingshot Monkey </span> ===
+
+: <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;">''Slings stones at bloons.''</span>
+
+{{#tag:tabber|Top Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Larger Stones
+{{!}} Heavier stones can pierce through more bloons.
+{{!}} Increases pierce.
+{{!}}-
+{{!}} Sharpened Stones
+{{!}} Sharpened stones pierce through even more bloons.
+{{!}} Increases pierce even more.
+{{!}}-
+{{!}} Tri-Sling
+{{!}} State-of-the-art primitive technology allows for 3 stones to be shot at once.
+{{!}} 
+{{!}}-
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Middle Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Shatter Shot
+{{!}} Stones shatter into sharp fragments upon initial impact.
+{{!}} 
+{{!}}-
+{{!}} Scatter Shot
+{{!}} Stones scatter into multiple fragments upon the first 2 impacts.
+{{!}} 
+{{!}}-
+{{!}} Bouncing Rock
+{{!}} Rock automatically bounces towards next target. Stones now scatter fragments upon every impact.
+{{!}} 
+{{!}}-
+{{!}} Slingshot Squad
+{{!}} Calls in the Slingshot Squad for backup and boosts nearby Melee Monkeys' attack speeds by 20%.
+{{!}} 
+{{!}}-
+{{!}} Squad...
+{{!}} 
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Bottom Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Longer Sling
+{{!}} Can shoot at bloons from much further away.
+{{!}} Increases attack range.
+{{!}}-
+{{!}} Scorching Shots
+{{!}} Burning hot rocks can set bloons on fire and pop lead bloons.
+{{!}} 
+{{!}}-
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Magic Sling
+{{!}} 
+{{!}} 
+{{!}}}
+
+}}
+
+{{!}}-{{!}}Uncategorized=
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Bloonchipper </span> ===
+
+: <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;">''Sucks in bloons, shredding off one layer before releasing them again.''</span>
+
+{{#tag:tabber|Top Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Faster Shred
+{{!}} Shreds bloons faster.
+{{!}} Bloons take less time to be shredded.
+{{!}}-
+{{!}} Even Faster Shred
+{{!}} High grade components allow bloons to be shredded even faster!
+{{!}} Bloons take even less time to be shredded.
+{{!}}-
+{{!}} Dual Blades
+{{!}} Dual internal blades shred 2 layers at once!
+{{!}} 
+{{!}}-
+{{!}} Weakening Shred
+{{!}} Shredded bloons take extra damage from all sources after being released.
+{{!}} 
+{{!}}-
+{{!}} Ground Shredder
+{{!}} 
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Middle Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Long Range Suck
+{{!}} Sucks bloons from further away.
+{{!}} Increases attack range.
+{{!}}-
+{{!}} Suckier
+{{!}} Increases suck speed.
+{{!}} 
+{{!}}-
+{{!}} Triple Funnel
+{{!}} Triple barrels allow for the most efficient sucking!
+{{!}} 
+{{!}}-
+{{!}} Whirlwind Suck
+{{!}} Whirlwind Suck: Sucks in a huge amount of bloons on screen, instantly shredding them to nothing.
+{{!}} 
+{{!}}-
+{{!}} Vacuum
+{{!}} 
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Bottom Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Stronger Suck
+{{!}} Can suck in more bloons at a time.
+{{!}} 
+{{!}}-
+{{!}} Heavy Duty Suction
+{{!}} Allows for sucking of lead and ceramic bloons.
+{{!}} 
+{{!}}-
+{{!}} Larger Capacity
+{{!}} Can hold more bloons at once.
+{{!}} 
+{{!}}-
+{{!}} Oversize Funnel
+{{!}} Giant funnel allows for sucking of MOAB-class bloons.
+{{!}} Allows the Bloonchipper to suck in MOAB-class bloons, but it takes much longer for them to be shredded.
+{{!}}-
+{{!}} Supa Wide Funnel
+{{!}} 
+{{!}} 
+{{!}}}
+
+}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> C.O.B.R.A </span> ===
+
+: <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;">''Covert Ops Bloon Response Agent: TBA''</span>
+
+{{#tag:tabber|Top Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Quick Response
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Double Tap
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Misdirection
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Discombobloonation
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} C.O.R.S.A
+{{!}} Covert Ops Response Special Agent: TBA
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Middle Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Power Tap
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Viral Shock
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Intranet
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Bloon Hack
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Covert Poperations
+{{!}} 
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Bottom Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Wired Funds
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Unity
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Bloon Adjustment
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Defensive Manoeuvres
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Attrition
+{{!}} 
+{{!}} 
+{{!}}}
+
+}}
+
+}}
+
+|-|Tier VI Upgrades=
+
+{{#tag:tabber|Primary Monkeys=
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Dart Monkey </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Ultra-Juggernaut</span>
+{{!}} Charged Juggernaut
+{{!}} [[File: UltraJuggernautUpgradeIcon.png|thumb|center|100px|(but with a blue-light blue gradient)]]
+{{!}} Supercharged juggernauts completely crush bloons.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Plasma Monkey Fan Club</span>
+{{!}} Super Elite Fan Club
+{{!}} 
+{{!}} True elite membership grants incredible popping power.
+{{!}} 
+{{!}}-
+{{!}} rowspan="2;" {{!}} <span style="color:#b8c0c8;">Crossbow Master</span>
+{{!}} Crossbow Mercenary
+{{!}} [[File: CrossbowMasterUpgradeIcon.png|thumb|center|100px|(but with a dark black frame, darker tip and red accents)]]
+{{!}} All-new advanced technology grants the Crossbow Mercenary a powerful arsenal of attacks.
+{{!}}
+{{!}}-
+{{!}} Arch Crossbow
+{{!}} [[File: CrossbowMasterUpgradeIcon.png|thumb|center|100px|(but with a wider bow and dark blue accents)]]
+{{!}} Shoots double streams of darts, for double the deadliness.
+{{!}}
+{{!}}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Boomerang Monkey </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} rowspan="2;" {{!}} <span style="color:#b8c0c8;">Glaive Lord</span>
+{{!}} Glaive Overlord
+{{!}} [[File: GlaiveLordUpgradeIcon.png|thumb|center|100px|(but with more glaives that are black)]]
+{{!}} Special glaives are now even more deadly. Throws 2 glaives at a time.
+{{!}} 
+{{!}}-
+{{!}} Electric Glaives
+{{!}} [[File: GlaiveLordUpgradeIcon.png|thumb|center|100px|(2 orbiting glaives with electricity around them)]]
+{{!}} Lightning fast glaives electrocute bloons and deal extra damage to DDTs.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Perma Charge</span>
+{{!}} Warp Charge
+{{!}} [[File: PermaChargeUpgradeIcon.png|thumb|center|100px|(but with it facing a different direction and with purple colour scheme)]]
+{{!}} Warps time to throw faster than the speed of... time.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">MOAB Domination</span>
+{{!}} MOAB Obliteration
+{{!}} [[File: MOABDominationUpgradeIcon.png|thumb|center|100px|(but with a redder trail)]]
+{{!}} Throws super powerful knockback kylies every throw.
+{{!}}
+{{!}}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Bomb Shooter </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Bloon Crush</span>
+{{!}} Bloon Pulverizer
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">MOAB Eliminator</span>
+{{!}} MOAB Eradicator
+{{!}} 
+{{!}} Eradicates MOABs from existence.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Bomb Blitz</span>
+{{!}} Re-Recursive Cluster
+{{!}} 
+{{!}} Every other shot the cluster bombs send out more recursive cluster bombs for incredible popping power. Bomb Blitz can now destroy ZOMGs.
+{{!}}
+{{!}}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Tack Shooter </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Inferno Ring</span>
+{{!}} Inferno Storm
+{{!}} [[File: InfernoRingUpgradeIcon.png|thumb|center|100px|(this, but crazier)]]
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} rowspan="2;" {{!}} <span style="color:#b8c0c8;">Super Maelstrom</span>
+{{!}} Hyper Maelstrom
+{{!}} [[File: SuperMaelstromUpgradeIcon.png|thumb|center|100px|(but with fully blue blades)]]
+{{!}} Maelstrom ability becomes almost constant.
+{{!}} 
+{{!}}-
+{{!}} Mega Maelstrom
+{{!}} [[File: SuperMaelstromUpgradeIcon.png|thumb|center|100px|(but with 10 orbiting blades)]]
+{{!}} Maelstrom ability now shoots out 6 streams of blades.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">The Tack Zone</span>
+{{!}} The Tack Dimension
+{{!}} [[File: TheTackZoneUpgradeIcon.png|thumb|center|100px|(but with a purple skull and dark tacks)]]
+{{!}} Many, many, many, many, many, many tacks.
+{{!}}
+{{!}}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Ice Monkey </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Super Brittle</span>
+{{!}} Ultra Brittle
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Absolute Zero</span>
+{{!}} Viral Freeze
+{{!}} [[File: AbsoluteZeroUpgradeIcon.png|thumb|center|100px|(but with a fully frozen, pretty much opaque bloon)]]
+{{!}} Casts the track in a permanent winter storm. Frozen bloons can now freeze other bloons that are touching them.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Icicle Impale</span>
+{{!}} 
+{{!}} [[File: IcicleImpaleUpgradeIcon.png|thumb|center|100px|(but from a different angle with 3 spikes impaling the MOAB)]]
+{{!}} 
+{{!}}
+{{!}}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Glue Gunner </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">The Bloon Solver</span>
+{{!}} The Bloon Vanquisher
+{{!}} 
+{{!}} Solution doesn't work? Just destroy the problem.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Glue Storm</span>
+{{!}} The Glue Machine
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Super Glue</span>
+{{!}} Perma Glue
+{{!}} 
+{{!}} Glue so incredibly strong it permanently immobilizes bloons and can slow down BADs.
+{{!}}
+{{!}}}
+
+{{!}}-{{!}}Military Monkeys=
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Sniper Monkey </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} rowspan="2;" {{!}} <span style="color:#b8c0c8;">Cripple MOAB</span>
+{{!}} Demolish MOAB
+{{!}} 
+{{!}} Breaks down the very infrastructure of MOAB-class bloons, rendering them defenceless. Can stun BADs, but only for a very short duration.
+{{!}} 
+{{!}}-
+{{!}} Infect MOAB
+{{!}} 
+{{!}} Infects MOAB-class bloons, ripping them apart from the inside. Deals extra damage to BADs.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Elite Sniper</span>
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Elite Defender</span>
+{{!}} Ultimate Defender
+{{!}} 
+{{!}} 
+{{!}}
+{{!}}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Monkey Sub </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} rowspan="2;" {{!}} <span style="color:#b8c0c8;">Energizer</span>
+{{!}} Bloontonium Power Plant
+{{!}} 
+{{!}} Warning: Highly radioactive. Do not approach.
+{{!}} 
+{{!}}-
+{{!}} Super-Energizer
+{{!}} 
+{{!}} Reduces ability cooldowns everywhere by 50% and regularly pulses out highly radioactive bursts.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Pre-Emptive Strike</span>
+{{!}} Dreadnought
+{{!}} 
+{{!}} Superfast missile deployer repeatedly launches missiles until all MOAB-class bloons have been wiped out. Fires multiple missiles when First Strike ability is activated.
+{{!}} 
+{{!}}-
+{{!}} rowspan="2;" {{!}} <span style="color:#b8c0c8;">Sub Commander</span>
+{{!}} Fleet Commander
+{{!}} 
+{{!}} All water-based monkeys nearby have greatly increased popping power.
+{{!}} 
+{{!}}- 
+{{!}} Sub Admiral
+{{!}} 
+{{!}} All Monkey Subs onscreen get global range, including over obstacles, and gain extra popping power.
+{{!}}
+{{!}}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Monkey Buccaneer </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Carrier Flagship</span>
+{{!}} Floating Fortress
+{{!}} 
+{{!}} This is a BIG ship.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Pirate Lord</span>
+{{!}} Pirate King / Pirate Overlord
+{{!}} 
+{{!}} Regularly hooks MOAB-class bloons, plundering even more extra cash. MOAB Takedown ability can now hook up to 7 MOABs at once and hook BADs to deal large amounts of damage.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Trade Empire</span>
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}
+{{!}}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Monkey Ace </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} rowspan="2;" {{!}} <span style="color:#b8c0c8;">Sky Shredder</span>
+{{!}} Cloud Cleaver
+{{!}} 
+{{!}} Cuts the sky in half.
+{{!}} 
+{{!}}-
+{{!}} Sky Terror
+{{!}} 
+{{!}} The nightmare of bloons.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Tsar Bomba</span>
+{{!}} Bomb Battalion
+{{!}} 
+{{!}} So many bombs that you can't even see what's going on.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Flying Fortress</span>
+{{!}} Dominator
+{{!}} 
+{{!}} An even BIGGER plane...?
+{{!}} Fires 7 streams of darts and bombs (2 first, 2 strong, 1 last, 1 close, 1 fast)
+{{!}}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Heli Pilot </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} rowspan="2;" {{!}} <span style="color:#b8c0c8;">Apache Prime</span>
+{{!}} Apache Ultimate
+{{!}} 
+{{!}} The bloons are defeated so fast, they don't even have time to regret anything.
+{{!}} 
+{{!}}-
+{{!}} Angel of Death
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Special Poperations</span>
+{{!}} Mothership
+{{!}} 
+{{!}} The centre of all airborne poperations.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Comanche Commander</span>
+{{!}} Comanche Squadron
+{{!}} 
+{{!}} Highly upgraded weapons. Now spawns 4 super-comanches to aid in the fight, and can call in an additional 4 when most needed.
+{{!}}
+{{!}}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Mortar Monkey </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">The Biggest One</span>
+{{!}} The One
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Pop and Awe</span>
+{{!}} Artillery Cannon
+{{!}} 
+{{!}} Superheavy shells fire from 7 barrels for incredible popping power. Pop and Awe ability deals more damage and has much shorter cooldown.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Blooncineration</span>
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}
+{{!}}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Dartling Gunner </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Ray of Doom</span>
+{{!}} Sunbeam / Solar Accelerator
+{{!}} 
+{{!}} Concentrates energy from the core of the Sun.
+{{!}} 
+{{!}}-
+{{!}} rowspan="4;" {{!}} <span style="color:#b8c0c8;">M.A.D</span>
+{{!}} V.I.L.E
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} A.N.G.E.R
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} R.A.W
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} T.R.O.N
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Bloon Exclusion Zone</span>
+{{!}} Bloon Singularity Point
+{{!}} 
+{{!}} 
+{{!}}
+{{!}}}
+
+{{!}}-{{!}}Magic Monkeys=
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Wizard Monkey </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} rowspan="2;" {{!}} <span style="color:#b8c0c8;">Archmage</span>
+{{!}} Arcane Ascension
+{{!}} 
+{{!}} Ascend, heavenly one.
+{{!}} 
+{{!}}-
+{{!}} Darkmage
+{{!}} 
+{{!}} The dark side is always stronger.
+{{!}} 
+{{!}}-
+{{!}} rowspan="2;"{{!}} <span style="color:#b8c0c8;">Wizard Lord Phoenix</span>
+{{!}} Sunburst
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Phoenix Rising
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Prince of Darkness</span>
+{{!}} Emperor of Darkness
+{{!}} 
+{{!}} The Legion of the Undead rises.
+{{!}}
+{{!}}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Super Monkey </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">True Sun God</span>
+{{!}} God of the Supernova
+{{!}} 
+{{!}} When the Sun dies, the Sun God's true fury is unleashed.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">The Anti-Bloon</span>
+{{!}} Terror of Tomorrow
+{{!}} 
+{{!}} <insert cryptic Monkey language description>
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Night Monkey</span>
+{{!}} 
+{{!}} 
+{{!}} Anonymity is the greatest power.
+{{!}}
+{{!}}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Ninja Monkey </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Grandmaster Ninja</span>
+{{!}} Ninja Sensei
+{{!}} 
+{{!}} The sensei of the grandmaster ninja.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Grand Saboteur</span>
+{{!}} Super Saboteur
+{{!}} 
+{{!}} During the sabotage, all bloons spawn with just 10% health.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Master Bomber</span>
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}
+{{!}}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Alchemist </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Permanent Brew</span>
+{{!}} Hybrid Brew
+{{!}} 
+{{!}} Supermonkey serum superpowers monkeys. Once.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Total Transformation</span>
+{{!}} Myriad Manifestation
+{{!}} 
+{{!}} Transforms into 3 different manifestations, and can transform more nearby monkeys.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Bloon Master Alchemist</span>
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}
+{{!}}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Druid </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Superstorm</span>
+{{!}} Lightning Lord
+{{!}} 
+{{!}} Summon the LIGHTNING!!
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Spirit of the Forest</span>
+{{!}} Guardian of Nature
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Avatar of Wrath</span>
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}
+{{!}}}
+
+{{!}}-{{!}}Support Monkeys=
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Banana Farm </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Banana Central</span>
+{{!}} Banana World
+{{!}} 
+{{!}} Banana? Bananana? Banananana!
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Monkey-Nomics</span>
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Monkey Wall Street</span>
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}
+{{!}}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Spike Factory </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Super Mines</span>
+{{!}} Mega Mines
+{{!}} 
+{{!}} Creates gigantic spiked mines that can wipe out <s>almost</s> anything.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Carpet of Spikes</span>
+{{!}} Spike Virus
+{{!}} 
+{{!}} Each Spike Storm activation leaves leftover mini-spikes that permanently stay on the track.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Perma-Spike</span>
+{{!}} Sparrikade
+{{!}} 
+{{!}} The bloons are never getting through this.
+{{!}}
+{{!}}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Monkey Village </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Primary Expertise</span>
+{{!}} Primary Fortress
+{{!}} 
+{{!}} All Primary monkeys become super-powerful. Mega Ballista attack now becomes GIGA.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Homeland Defence</span>
+{{!}} Monkey Central
+{{!}} 
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Monkeyopolis</span>
+{{!}} Monkey Kingdom
+{{!}} 
+{{!}} Where there are bananas, there are monkeys.
+{{!}}
+{{!}}}
+
+=== <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;"> Engineer Monkey </span> ===
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Previous Upgrade
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Icon
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Sentry Paragon</span>
+{{!}} Sentry Fusion
+{{!}} 
+{{!}} Powerful fusion tech fuses sentries to create extremely overpowered and hyper-unstable sentries.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">Ultraboost</span>
+{{!}} Overcharge
+{{!}} 
+{{!}} I wonder what happens when you overcharge monkeys with 60000V of electricity?
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#b8c0c8;">XXXL Trap</span>
+{{!}} XS Trap
+{{!}} 
+{{!}} Even larger bloon traps...?
+{{!}}
+{{!}}}
+
+}}
+
+|-|Alternate Upgrades=
+
+{{#tag:tabber|Monkey Ace =
+More info [https://www.reddit.com/r/btd6/comments/o6iqq1/what_if_the_monkey_ace_had_alternate_upgrades/ here].
+
+{{#tag:tabber|Top Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Rapid Fire
+{{!}} Increases fire rate.
+{{!}} 
+{{!}}-
+{{!}} Twin Guns
+{{!}} Adds 2 more guns.
+{{!}} 
+{{!}}-
+{{!}} Homing Missiles
+{{!}} Fires explosive homing missiles at the bloons.
+{{!}} 
+{{!}}-
+{{!}} Interceptor
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Ark Interceptor
+{{!}} 
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Middle Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Faster Flight
+{{!}} Flies faster and increases projectile speed.
+{{!}} 
+{{!}}-
+{{!}} Enhanced Radar
+{{!}} Gains camo detection and increases projectile lifespan.
+{{!}} 
+{{!}}-
+{{!}} Fighter Jet
+{{!}} Flies much faster and fires high-damage high-speed darts that deal extra damage to MOAB-class bloons.
+{{!}} 
+{{!}}-
+{{!}} Dive Bomber
+{{!}} Dive Bomb ability: Dives down and drops a shower of deadly bombs on the bloons. Also increases damage of darts.
+{{!}} 
+{{!}}-
+{{!}} Fighting Falcon
+{{!}} 
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Bottom Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Sharper Darts
+{{!}} Darts can pierce through more bloons.
+{{!}} 
+{{!}}-
+{{!}} Smarter Flight
+{{!}} Advanced flight manoeuvres allows for smarter attacks.
+{{!}} 
+{{!}}-
+{{!}} Tail Gunner
+{{!}} Adds a fast-firing turret.
+{{!}} 
+{{!}}-
+{{!}} Twin Gunners
+{{!}} Adds another turret and increases attack speed of both.
+{{!}} 
+{{!}}-
+{{!}} Acewinger
+{{!}} 
+{{!}} 
+{{!}}}
+
+}}
+
+{{!}}-{{!}}Alchemist (Mad Scientist)=
+
+{{#tag:tabber|Top Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Stronger Solution
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Powerful Potions
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Lucky Dip
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Mystery Potion
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Magical Mixture
+{{!}} 
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Middle Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Quick Blend
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Lingering Potions
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Potion Lab
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Production Overflow
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Lab Master
+{{!}} 
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}Bottom Path =
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Upgrade
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} Larger Splash
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Violent Reaction
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Mutant Mixture
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Warp Brew
+{{!}} 
+{{!}} 
+{{!}}-
+{{!}} Genetic Modification
+{{!}} 
+{{!}} 
+{{!}}}
+
+}}
+
+}}
+
+|-|Heroes=
+{{#tag:tabber|
+
+Popseidon =
+: <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;">''With his deadly golden trident, Popseidon rules over the oceans, striking down any bloon that dares come close.''</span>
+
+<poem>
+Subtitle: God of the Ocean
+Cost: $1400 <span style="color:#b8c0c8;">($1190 / $1400 / $1510 / $1680)</span>
+Footprint: Large <span style="color:#b8c0c8;">(same as Buccaneer or Churchill)</span>
+Type: Water <span style="color:#b8c0c8;">(cannot be placed on land)</span>
+XP Multiplier: x1.71
+Targeting Options: Normal <span style="color:#b8c0c8;">(First / Last / Close / Strong)</span>
+Poplogy: {{TypeNormal}} Normal <span style="color:#b8c0c8;">(can pop all types of bloons, but cannot detect camo by default)</span>
+</poem>
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Level
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} 1
+{{!}} With his deadly golden trident, Popseidon strikes down bloons with powerful water streams.
+{{!}} Attack Speed: 1.6s/shot (~0.63 shots/s)<br />Pierce: 7<br />Damage: 3<br />Range: 60
+{{!}}-
+{{!}} 2
+{{!}} Water Castle: Nearby water monkeys get +5 range.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#50a0f0;">3</span>
+{{!}} Tidal Wave: Summons a huge wave that disables land monkeys but boosts water monkeys, pushes back bloons and deals extreme damage.
+{{!}} 40s cooldown.<br />Tidal wave enters opposite to the entrance. If there is more than one entrance, it enters from the average of their directions (i.e. if one is from the left and one from the top, the wave will enter from the bottom-right).<br />Disables land monkeys for 3.0s and increases water monkeys' attack speeds by 50% for 7.0s. Deals 700 damage to all bloons, with infinite pierce.
+{{!}}-
+{{!}} 4
+{{!}} Water stream can pierce through more bloons.
+{{!}} Pierce increased from 7 > 9.
+{{!}}-
+{{!}} 5
+{{!}} Water stream can curve to pop more bloons.
+{{!}} Water stream can now curve towards targeted bloons.
+{{!}}-
+{{!}} 6
+{{!}} Increased attack range.
+{{!}} Range increased from 60 > 67.
+{{!}}-
+{{!}} 7
+{{!}} Water Fortress: Nearby water monkeys get +10 range and +5% attack speed.
+{{!}} 
+{{!}}-
+{{!}} 8
+{{!}} Increased attack speed.
+{{!}} Attack speed increased from 1.6 > 1.2s/shot (~0.63 > ~0.83 shots/s).
+{{!}}-
+{{!}} 9
+{{!}} Water stream can pierce through more bloons and deals +1 damage to frozen bloons.
+{{!}} Pierce increased from 9 > 11.
+{{!}}-
+{{!}} <span style="color:#50a0f0;">10</span>
+{{!}} Kraken Call: Summons the all-powerful Kraken to ravage the bloons.
+{{!}} 75s cooldown, 15s duration (20.0% uptime).<br />Kraken attacks bloons. Too hard to describe.
+{{!}}-
+{{!}} 11
+{{!}} Water stream slows down MOAB-class bloons, except BADs.
+{{!}} Slows by 8%.
+{{!}}-
+{{!}} 12
+{{!}} Water Palace: Nearby water monkeys get +10 range, +10% attack speed and +1 pierce.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#50a0f0;">13</span>
+{{!}} Tidal Wave disables land monkeys for shorter, boosts water monkeys for longer, deals more damage and slows MOAB-class bloons afterwards.
+{{!}} Disables land monkeys for 3.0 > 2.0s and increases water monkeys' attack speeds by 50 > 100% for 7.0 > 9.0s. Deals 700 > 1200 damage and slows MOAB-class bloons by 70% for 7.0s after being pushed back.
+{{!}}-
+{{!}} 14
+{{!}} Increased attack range.
+{{!}} Range increased from 67 > 72.
+{{!}}-
+{{!}} 15
+{{!}} Water stream can curve freely to pop even more bloons.
+{{!}} Pierce increased from 11 > 13.<br />Water stream now curves as much as necessary, similar to Quincy's bouncing arrow and Adora's homing divine bolts.
+{{!}}-
+{{!}} <span style="color:#50a0f0;">16</span>
+{{!}} Kraken Call has reduced cooldown.
+{{!}} Cooldown reduced from 75s > 60s (20.0 > 25.0% uptime).
+{{!}}-
+{{!}} 17
+{{!}} Water Kingdom: Nearby water monkeys' attacks pop 1 extra layer.
+{{!}} 
+{{!}}-
+{{!}} 18
+{{!}} Attacks faster for every water monkey nearby.
+{{!}} Attack speed increased from 1.2 > 1.0s/shot (~0.83 > 1.0 shot/s).<br />Attacks 4% faster for every water monkey within Popseidon's range, with a maximum of +40%.
+{{!}}-
+{{!}} 19
+{{!}} Water stream pops 2 extra layers.
+{{!}} Damage increased from 3 > 5.
+{{!}}-
+{{!}} <span style="color:#50a0f0;">20</span>
+{{!}} Kraken Call lasts longer and is even more effective.
+{{!}} Duration increased from 15 > 20s (25.0 > 33.3% uptime).<br />Kraken is stronger. Too hard to elaborate.
+{{!}}}
+
+{{!}}-{{!}}
+
+Asher =
+: <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;">''Work in Progress''</span>
+
+<poem>
+Subtitle: Air Marshal
+Cost: $2100 <span style="color:#b8c0c8;">($1800 / $2100 / $2270 / $2520)</span>
+Footprint: Large <span style="color:#b8c0c8;">(same as Heli Pad)</span>
+Type: Land / Air <span style="color:#b8c0c8;">(similar to how Heli Pilot and Moneky Ace work)</span>
+XP Multiplier: x1.71
+Targeting Options: Specialized <span style="color:#b8c0c8;">(Follow Mouse / Chase / Patrol / Support)</span>
+Poplogy: <span style="color:#b8c0c8;">(cannot detect camo bloons by default)</span>
+: Darts: {{TypeSharp}} <span style="color:#b8c0c8;">(cannot pop lead bloons)</span>
+: Missiles: {{TypeExplosion}} <span style="color:#b8c0c8;">(cannot pop black and zebra bloons)
+</poem>
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Level
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} 1
+{{!}} Rapidly fires darts from twin machine guns.
+{{!}} Attack Speed: 0.25s/shot (4.0 shots/s)<br />Pierce: 2<br />Damage: 1<br />Number: 2<br />Range: Infinite
+{{!}}-
+{{!}} 2
+{{!}} Greatly increased flight speed.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#50a0f0;">3</span>
+{{!}} Attack of the Airforce: All air-based monkeys fly and attack 50% faster for 10 seconds, and Asher flies and attacks 100% faster.
+{{!}} 30s cooldown, 10s duration (33.3% uptime).
+{{!}}-
+{{!}} 4
+{{!}} Calls in a mini helicopter to aid in the fight.
+{{!}} Attack Speed: 0.8s/shot (1.25 shots/s)<br />Pierce: 2<br />Damage: 1<br />Range: Infinite
+{{!}}-
+{{!}} 5
+{{!}} Increased attack speed.
+{{!}} Attack speed increased from 1.25 > 1.21 s/shot (4.0 > 4.76 shots/s).
+{{!}}-
+{{!}} 6
+{{!}} Airborne Adrenaline: All air-based monkeys and their projectiles fly 20% faster!
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#50a0f0;">7</span>
+{{!}} Sacrificial Self-Destruct: Sacrifice one air-based monkey to deal massive damage to all bloons on screen. The more cash spent on that monkey, the more damage!
+{{!}} 20s cooldown.<br />Deals 1000 damage to all bloons, with infinite pierce. (Can't be bothered to figure out a formula for how much extra damage cash spent adds)
+{{!}}-
+{{!}} 8
+{{!}} Mini helis fly faster and can provide intel for Monkey Subs with the 'Advanced Intel' upgrade. Also gains an extra mini helicopter.
+{{!}} If a mini helicopter can attack a bloon, so can a 2-x-x Monkey Sub.<br />Now has 2 mini helis.
+{{!}}-
+{{!}} 9
+{{!}} Adds a missile launcher array.
+{{!}} Attack Speed: 2s/shot (0.5 shots/s)<br />Pierce: 25<br />Damage: 2<br />Number: 1
+{{!}}-
+{{!}} <span style="color:#50a0f0;">10</span>
+{{!}} Air Strike: Strafe planes bombard the field with bombs from above, dealing extra damage to fortified bloons.
+{{!}} 80s cooldown, 5s duration (6.25% uptime).<br />Bombs deal 10 damage each and 25 to fortified bloons.
+{{!}}-
+{{!}} 11
+{{!}} Airborne Advantage: All air-based monkeys gain camo detection!
+{{!}} 
+{{!}}-
+{{!}} 12
+{{!}} Mini helis have increased popping power. Calls in another mini helicopter.
+{{!}} Attack speed increased from 0.8 > 0.75s/shot (1.25 > 1.33 shots/s).<br /> Pierce increased from 2 > 3.<br />Now has 3 mini helis.
+{{!}}-
+{{!}} 13
+{{!}} Missiles have increased popping power.
+{{!}} Pierce increased from 25 > 45.<br />Damage increased from 2 > 3.
+{{!}}-
+{{!}} 14
+{{!}} Upgraded weapons.
+{{!}} Asher:<br /> : Attack speed increased from 0.21 > 0.16s/shot (4.76 > 6.25 shots/s).<br /> : Pierce increased from 2 > 4.<br />Missiles:<br /> : Attack speed increased from 2 > 1.69s/shot (0.5 > 0.59 shots/s).<br /> : Pierce increased from 45 > 60.<br /> : Number increased from 1 > 2.
+{{!}}-
+{{!}} <span style="color:#50a0f0;">15</span>
+{{!}} Attack of the Airforce boosts by 100% and lasts for 5 more seconds.
+{{!}} Duration increased from 10 > 15s (33.3 > 50% uptime).
+{{!}}-
+{{!}} 16
+{{!}} Upgraded mini helis. Gains yet another mini helicopter.
+{{!}} Attack speed increased from 0.75 > 0.66 (1.33 > 1.52 shots/s).<br />Pierce increased from 3 > 4.<br />Now has 4 mini helis.
+{{!}}-
+{{!}} 17
+{{!}} All attacks pop +1 layer.
+{{!}} Darts' damage increased from 1 > 2 (Asher and mini helis).<br />Missiles' damage increased from 3 > 4.
+{{!}}-
+{{!}} 18
+{{!}} Airborne Affinity: All air-based monkeys gain increased flight speed and popping power!
+{{!}} All air-based monkeys get +15% flight speed, +15% attack speed and +3 pierce.
+{{!}}-
+{{!}} 19
+{{!}} Highly upgraded weapons.
+{{!}} Asher:<br /> : Attack speed increased from 0.16 > 0.12s/shot (6.25 > 8.33 shots/s).<br /> : Pierce increased from 4 > 7.<br /> : Number increased from 2 > 4.<br />Missiles:<br /> : Attack speed increased from 1.69 > 1.44s/shot (0.59 > 0.69 shots/s).<br /> : Pierce increased from 60 > 90.<br /> : Damage increased from 4 > 5.<br /> : Number increased from 2 > 4.
+{{!}}-
+{{!}} <span style="color:#50a0f0;">20</span>
+{{!}} Air Strike lasts longer, stuns all bloons except BADs and halves all air-based monkeys' abilities' cooldowns. All of Asher's activated abilities have reduced cooldowns.
+{{!}} Duration increased from 5 > 12s (6.25 > 15% uptime). Bombs stun bloons for 4.0s. Upon activation, all air-based monkeys' abilities' cooldowns are recharged by 50% (i.e. a Ground Zero would go from 50% recharged > 75% recharged (50% left > 25% left).<br />Attack of the Airforce cooldown reduced from 30 > 24s (50 > 62.5% uptime).<br /> Sacrificial Self-Destruct cooldown reduced from 20 > 12s.
+{{!}}}
+
+{{!}}-{{!}}
+
+Ugg =
+: <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;">''Ugg? Ugg uggg ug ugg ug ugg. Ugg ug!''</span>
+
+<poem>
+Subtitle: Cave Dweller
+Cost: $660 <span style="color:#b8c0c8;">($545 / $660 / $690 / $770)</span>
+Footprint: Large <span style="color:#b8c0c8;">(same as other heroes)</span>
+Type: Land
+XP Multiplier: x1.21
+Targeting Options: Normal <span style="color:#b8c0c8;">(First / Last / Close / Strong)</span>
+Popology: {{TypeNormal}} <span style="color:#b8c0c8;">(can pop all types of bloons, including camo bloons)</span>
+</poem>
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Level
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} 1
+{{!}} Ugg smashes bloons with his heavy club (called Ag).
+{{!}} Attack Speed: 1.8s/smash (0.56 smashes/s)<br />Pierce: 1<br />Damage: 3<br />Range: 30
+{{!}}-
+{{!}} 2
+{{!}} Ag can hit more bloons at once.
+{{!}} Pierce increased from 1 > 2.
+{{!}}-
+{{!}} <span style="color:#50a0f0;">3</span>
+{{!}} Ag Smash: Smashes the ground with huge force, leaving a long-lasting crack in the ground that releases hot vaporizing gas. Is even more effective on certain terrain.
+{{!}} 30s cooldown.<br />Lasts 15s and releases gas faster on rocky terrain (think Mesa or Another Brick).
+{{!}}-
+{{!}} 4
+{{!}} Ugg attacks faster.
+{{!}} Attack speed increased from 1.8 > 1.6s/smash (0.56 > 0.63 smashes/s)
+{{!}}-
+{{!}} 5
+{{!}} Ag sets bloons on fire.
+{{!}} 
+{{!}}-
+{{!}} 6
+{{!}} Increased attack range.
+{{!}} Range increased from 30 > 33.
+{{!}}-
+{{!}} 7
+{{!}} Ag can smash many more bloons at once.
+{{!}} Pierce increased from 2 > 5.
+{{!}}-
+{{!}} <span style="color:#50a0f0;">8</span>
+{{!}} Ag Smash smashes twice and cracks extend further.
+{{!}} 
+{{!}}-
+{{!}} 9
+{{!}} Ag smashes through more layers and deals extra damage to fortified bloons.
+{{!}} Damage increased from 3 > 5.< br/>Deals +1 damage to fortified bloons.
+{{!}}-
+{{!}} <span style="color:#50a0f0;">10</span>
+{{!}} Groundshaker: Repeatedly smashes the ground with huge force, starting a giant earthquake that stuns all bloons and MOABs.
+{{!}} 80s cooldown, 4s duration (5.0% uptime).<br />Stuns bloons in a large area (but no blimps except for MOABs) for 15s.
+{{!}}-
+{{!}} 11
+{{!}} Ag stuns bloons and can knock back smaller bloons.
+{{!}} Stuns bloons for 0.2s.<br />Knocks back all bloons except Lead and Ceramic bloons.
+{{!}}-
+{{!}} 12
+{{!}} Ugg attacks much faster.
+{{!}} Attack speed increased from 1.6 > 1.25s/smash (0.63 > 0.8 smashes/s)
+{{!}}-
+{{!}} <span style="color:#50a0f0;">13</span>
+{{!}} Ag Smash smashes 3 times and has reduced cooldown.
+{{!}} Cooldown reduced from 30 > 26s.
+{{!}}-
+{{!}} 14
+{{!}} Ag gains super sharp spikes that pierce through many bloons.
+{{!}} Pierce increased from 5 > 11.
+{{!}}-
+{{!}} <span style="color:#50a0f0;">15</span>
+{{!}} Groundshaker can stun even the largest of bloons, and has reduced cooldown.
+{{!}} Can stun all bloons and blimps except BADs.<br />Cooldown reduced from 80 > 65s (5.0 > 6.16% uptime)
+{{!}}-
+{{!}} 16
+{{!}} Further increased attack range.
+{{!}} Range increased from 33 > 36.
+{{!}}-
+{{!}} 17
+{{!}} Ag can knock back all bloons and briefly stuns blimps.
+{{!}} Knocks back all bloons, and stuns blimps for 0.1s.
+{{!}}-
+{{!}} 18
+{{!}} Ugg attacks even faster.
+{{!}} Attack speed increased from 1.25 > 0.8s/smash (0.8 > 1.25 smashes/s)
+{{!}}-
+{{!}} 19
+{{!}} Ag smashes through even more layers and weakens fortified bloons.
+{{!}} Damage increased from 5 > 8.<br />Fortified bloons hit take +3 damage from next attack.
+{{!}}-
+{{!}} <span style="color:#50a0f0;">20</span>
+{{!}} Groundshaker is even more effective and knocks back bloons.
+{{!}} 
+{{!}}}
+
+{{!}}-{{!}}
+
+Bob =
+: <span style="font-family:'Noto Sans SC', 'Noto Sans', sans-serif;">''Bob likes bees, and bees like him. Just look at how red his cheeks are - definitely not from the stings, it's just that he loves bees so much.''</span>
+
+<poem>
+Subtitle: Beekeeper
+Cost: $950 <span style="color:#b8c0c8;">($810 / $950 / $1025 / $1140)</span>
+Footprint: Large <span style="color:#b8c0c8;">(same as other heroes)</span>
+Type: Land
+XP Multiplier: x1.21
+Targeting Options: Normal <span style="color:#b8c0c8;">(First / Last / Close / Strong)</span>
+Popology: {{TypeAcid}} <span style="color:#b8c0c8;">(can pop all types of bloons, but cannot detect camo by default)</span>
+</poem>
+{{{!}} class="article-table" border="1"
+! scope="col;" {{!}} Level
+! scope="col;" {{!}} Description
+! scope="col;" {{!}} Notes
+{{!}}-
+{{!}} 1
+{{!}} Bob's army of trusty bees always scare the bloons away with their sharp stings. And also other monkeys too, sometimes.
+{{!}} Attack Speed: 1.2s/sting (~0.83 stings/s)<br />Pierce: 1<br />Damage: 3<br />Range: 50
+{{!}}-
+{{!}} 2
+{{!}} Bees can fly further away.
+{{!}} Range increased from 50 > 65.
+{{!}}-
+{{!}} <span style="color:#50a0f0;">3</span>
+{{!}} Bee Swarm: Controls twice as many bees for a short duration.
+{{!}} 70s cooldown, 12s duration (17.14% uptime).<br />Controls 6 bees.
+{{!}}-
+{{!}} 4
+{{!}} Bees can sting more bloons at once.
+{{!}} Pierce increased from 1 > 2.
+{{!}}-
+{{!}} 5
+{{!}} Bees' stings are deadlier and become poisonous, slowly damaging bloons over time.
+{{!}} Damage increased from 3 > 4.<br />Poison lasts indefinitely and can damage all bloon types, ticking 1 damage every 2 seconds.
+{{!}}-
+{{!}} 6
+{{!}} Controls 1 more bee.
+{{!}} 
+{{!}}-
+{{!}} 7
+{{!}} Smart bees can fly and attack in various different formations, and detect camo bloons.
+{{!}} 
+{{!}}-
+{{!}} 8
+{{!}} Monkeys are less likely to get scared of bees.
+{{!}} 
+{{!}}-
+{{!}} 9
+{{!}} Pollination: Bees boost production of nearby Banana Farms! Does not work on Banana Research Facilities, Monkey Banks or Marketplaces.
+{{!}} Banana Farms within a ~80 radius produce 1 more banana bunch per round.
+{{!}}-
+{{!}} <span style="color:#50a0f0;">10</span>
+{{!}} Queen Bee: The Queen bee's here. And she's not happy.
+{{!}} Indeed, this is a wonderful and informative description.
+{{!}}-
+{{!}} 11
+{{!}} Controls 2 more bees.
+{{!}} 
+{{!}}-
+{{!}} 12
+{{!}} Bees gain increased popping power.
+{{!}} Attack speed increased from 1.2 > 1s/sting (0.83 > 1 stings/s).<br />Pierce increased from 2 > 3.
+{{!}}-
+{{!}} <span style="color:#50a0f0;">13</span>
+{{!}} Bee Swarm controls 3x as many bees and has increased duration.
+{{!}} Duration increased from 12 > 19s (17.14 > 27.14% uptime).<br />Controls 18 bees.
+{{!}}-
+{{!}} 14
+{{!}} Pollination is even more effective.
+{{!}} Effective radius increased from 80 > 95.<br />Boosted Banana Farms now produce +$1 cash per banana bunch, and have a 10% chance of producing one ''more'' extra banana bunch per round.
+{{!}}-
+{{!}} 15
+{{!}} Bees' stings and poison are deadlier.
+{{!}} Damage increased from 4 > 6.<br />Poison now ticks 1 > 2 damage every 2 seconds.
+{{!}}-
+{{!}} 16
+{{!}} Controls 3 more bees.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#50a0f0;">17</span>
+{{!}} Bee Swarm controls 4x as many bees, increases range, and increases poison effectiveness.
+{{!}} Range increases to infinite.<br />Poison ticks 2 damage every 0.75 seconds.<br />Controls 36 bees.
+{{!}}-
+{{!}} 18
+{{!}} Pollination now works on all Banana Farm upgrades.
+{{!}} Uhhh...
+{{!}}-
+{{!}} 19
+{{!}} Monkeys will no longer get scared of bees.
+{{!}} 
+{{!}}-
+{{!}} <span style="color:#50a0f0;">20</span>
+{{!}} Queen Bee is even deadlier.
+{{!}} 
+{{!}}}
+
+}}
+
+|-|Bloons=
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Orange Bloon </span> ===
+Immune to fire. (If this bloon were to be added, then the Purple bloon would no longer be immune to fire, and instead only immune to magic - because fire clearly isn't magic) Releases 3 Yellow bloons when popped.
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Glass Bloon </span> ===
+Can only be popped by sharp or explosive attacks.
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Marble Bloon </span> ===
+Similar to the Ceramic bloon, this bloon takes multiple hits to pop (12), but also has RESISTANCE which means it takes -1 damage from all attacks. Therefore, only attacks that deal multiple layers of damage can pop it.
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Invisi-Bloon </span> ===
+Is invisible to all monkeys who do not have innate camo detection (so 0-2-0 Village doesn't allow monkeys to attack it).
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Volcano Bloon </span> ===
+Came up with this the other day but forgot what it was supposed to do.
+
+</tabber>
+<!--Hey, you made it! Congrats... unless you didn't actually read all of that.-->
+
+== <span style="font-family: 'Luckiest Guy';"> Creations </span> ==
+So uh, my reddit account got permanently suspended. That sucks. Still, I do want to archive all of my posts and creations here.
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Thumbnails </span> ===
+I don't really know what to call these, but ig they could be called posters or thumbnails.
+<tabber>
+|-|Phase I=
+<gallery>
+Sup2point0 - Monkey Mayhem.png | [https://reddit.com/r/btd6/comments/n5kx3i/some_art_i_made_a_while_back/ Monkey Mayhem]
+Sup2point0 - Darkness Rising.png | [https://reddit.com/r/btd6/comments/n7s6zp/darkness_rising/ Darkness Rising]
+Sup2point0 - Attack of the Airforce.png | [https://reddit.com/r/btd6/comments/na18bu/attack_of_the_airforce/ Attack of the Airforce]
+Sup2point0 - Marine Marauders.png | [https://reddit.com/r/btd6/comments/ncczsn/marine_marauders/ Marine Marauders]
+Sup2point0 - Bionic Fusion.png | [https://reddit.com/r/btd6/comments/nekp61/bionic_fusion/ Bionic Fusion]
+Sup2point0 - Heavenly Ascension.png | [https://reddit.com/r/btd6/comments/nekp61/bionic_fusion/ Heavenly Ascension]
+</gallery>
+|-|Phase II=
+<gallery>
+Sup2point0 - Monkey Madness.png | [https://www.reddit.com/r/btd6/comments/ns3smt/monkey_madness/ Monkey Madness]
+Sup2point - .png | [https://reddit.com/r/btd6/comments/nui2du/primary_power/ Primary Power]
+Sup2point - .png | [https://reddit.com/r/btd6/comments/nws29g/military_mayday/ Military Mayday]
+Sup2point - .png | [https://reddit.com/r/btd6/comments/nyv4dl/magic_maelstrom/ Magic Maelstrom]
+Sup2point - .png | [https://reddit.com/r/btd6/comments/o1b7k0/support_storm/ Support Storm]
+Sup2point - .png | [https://reddit.com/r/btd6/comments/o3esz4/hero_haven/ Hero Haven]
+</gallery>
+|-|Phase III=
+<gallery>
+Sup2point0 - .png | [https://reddit.com/r/btd6/comments/odmma0/monkey_mania/ Monkey Mania]
+Sup2point - .png | [https://reddit.com/r/btd6/comments/ofmtgp/buildings_bananas/ Buildings & Bananas]
+Sup2point - .png | [https://reddit.com/r/btd6/comments/ohhs9z/green_guardians/ Green Guardians]
+Sup2point - .png | [https://reddit.com/r/btd6/comments/ojgb6j/heavy_duty/ Heavy Duty]
+Sup2point - .png | Highly Radioactive
+Sup2point - .png | Coming Soon...
+</gallery>
+</tabber>
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> The Monkeyopolis Times </span> ===
+I was once an editor for the Monkeyopolis Times, a newspaper all about the latest events in Monkeyopolis!
+
+I first came across their Interview with Quincy video, but the first edition I ever read was the [https://reddit.com/r/btd6/comments/n4v456/monkeyopolis_times_27th_edition/ 27th Edition], on the day I officially joined reddit (I had been browsing r/btd6 for a long time - that's how I came across the Interview - but never properly created an account). Originally I didn't intend to really contribute or anything, just wanted to enjoy the newspaper, but then I made an ad, and then an article, and then I just kinda got into it, and eventually, a little bit after the release of the [https://reddit.com/r/btd6/comments/nkspvm/monkeyopolis_times_30th_edition/ 30th Edition], I became an editor. The first edition I helped create was the [https://reddit.com/r/btd6/comments/nq3z9x/the_monkeyopolis_times_31st_edition/ 31st Edition].
+
+Unfortunately, now I've officially retired.
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Bloons TD 6 Card Game </span> ===
+Read all about it here:
+: - [https://reddit.com/r/btd6/comments/npsvt5/bloons_td_6_card_game/ Part 1]
+: - [https://reddit.com/r/btd6/comments/obr363/bloons_td_6_card_game_part_2/ Part 2]
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> Fun Facts </span> ===
+I have a series on reddit of fun facts about Bloons TD 6. I was kinda surprised that no one else had done this before, so I decided to myself!
+: - [https://reddit.com/r/btd6/comments/nnoj2o/fun_facts/ Fun Facts!]
+: - [https://reddit.com/r/btd6/comments/o9r5ez/fun_facts_things_you_might_not_know/ Fun Facts: Things You Might Not Know!]
+: - [https://reddit.com/r/btd6/comments/otdqgl/fun_facts_mostly_useless_information/ Fun Facts: (Mostly) Useless Information!]
+: - Fun Facts: Real Life References!
+
+=== <span style="font-family: 'Noto Sans SC', 'Noto Sans', 'Source Sans Pro', sans-serif;"> RIVALS </span> ===
+I wonder what this is...
+
+== <span style="font-family: 'Luckiest Guy';"> Monkey Names </span> ==
+I'm sure at least someone is curious.
+: Dart Monkey - <span style="color:#50a0f0;">Boo</span>
+: Boomerang Monkey - <span style="color:#50a0f0;">Boo</span>
+: Cannon (Bomb Shooter) - <span style="color:#50a0f0;">Boom</span>
+: Tack Shooter - <span style="color:#50a0f0;">Tacky</span>
+: Ice Monkey - <span style="color:#50a0f0;">Snowie</span>
+: Glue Gunner - <span style="color:#50a0f0;">Goo</span>
+
+: Sniper Monkey - <span style="color:#00c832;">Squishy</span>
+: Monkey Sub - <span style="color:#00c832;">Sub2point0</span>
+: Monkey Buccaneer - <span style="color:#00c832;">Bucky</span>
+: Monkey Ace - <span style="color:#00c832;">Weeeeeee</span>
+: Heli Pilot - <span style="color:#00c832;">Yaaaaaaa</span>
+: Mortar Monkey - <span style="color:#00c832;">Poooooow</span>
+: Dartling Gunner - <span style="color:#00c832;">Popopopopopopop</span>
+
+: Wizard Monkey - <span style="color:#a050f0;">Wizardo</span>
+: Super Monkey - <span style="color:#a050f0;">SuperBoo</span>
+: Ninja Monkey - <span style="color:#a050f0;">Ninjato</span>
+: Alchemist - <span style="color:#a050f0;">Splash</span>
+: Druid - <span style="color:#a050f0;">Doo</span>
+
+: Banana Farm - <span style="color:#f0a050;">Bananananananas</span>
+: Spike Factory - <span style="color:#f0a050;">Spike</span>
+: Monkey Village - <span style="color:#f0a050;">Hut</span>
+: Engineer Monkey - <span style="color:#f0a050;">Emmett</span>
+
+== <span style="font-family: 'Luckiest Guy';"> Afterthought </span> ==
+Doesn't ISAB sound like Phoenix SC?
+
+<span style="color:#d4e6f7;">Thanks for reading this btw, whether you scrolled all the way down to the bottom of the editor/source code or actually read the whole thing. Means a lot to me!</span>
+
+<!--I wonder just how large the file for this page is...-->
