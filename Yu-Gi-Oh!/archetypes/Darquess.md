@@ -344,119 +344,136 @@ View the deck on [DuelingBook](https://duelingbook.com/deck?id=12053993)!
 
 ### Main Deck
 <img src="../../.assets/cards/monsters/Kes.png" height="169px"
-title="">
+title="If a ‘Darquess’ card leaves your field by an opponent’s card: You can banish this card from your hand or Graveyard, then send 1 ‘Darquess’ monster from your Extra Deck to the Graveyard; Set 1 ’Soul of Darquess’ or ‘Darquess Falling’ from your Deck or Banished Pile, and if you do, take 700 damage. If you currently control no face-up monsters, it can be activated this turn. You can only use this effect of ‘Kes, Fallen of Darquess’ once per turn.">
 <img src="../../.assets/cards/monsters/Dyavin.png" height="169px"
-title="">
+title="If your opponent takes damage: You can Special Summon this card from your hand or Graveyard to their field. You can only use this effect of ‘Dyavin, Devoter of Darquess’ once per turn. While you control this card in Attack Position, you cannot move cards from the Graveyard. While you control this card in Defense Position, you cannot activate the effects of cards in the Graveyard.">
 <img src="../../.assets/cards/monsters/Aiza.png" height="169px"
-title="">
+title="If another card is banished: You can either add this banished card to your hand, or Special Summon this card from your hand. If this card is Normal or Special Summoned: You can banish 1 ‘Darquess’ Spell/Trap from your Deck, and if you do, take 700 damage. You can only use each effect of ‘Aiza, Invoker of Darquess’ once per turn.">
 <img src="../../.assets/cards/monsters/Aiza.png" height="169px"
-title="">
+title="If another card is banished: You can either add this banished card to your hand, or Special Summon this card from your hand. If this card is Normal or Special Summoned: You can banish 1 ‘Darquess’ Spell/Trap from your Deck, and if you do, take 700 damage. You can only use each effect of ‘Aiza, Invoker of Darquess’ once per turn.">
 <img src="../../.assets/cards/monsters/Aiza.png" height="169px"
-title="">
+title="If another card is banished: You can either add this banished card to your hand, or Special Summon this card from your hand. If this card is Normal or Special Summoned: You can banish 1 ‘Darquess’ Spell/Trap from your Deck, and if you do, take 700 damage. You can only use each effect of ‘Aiza, Invoker of Darquess’ once per turn.">
 <img src="../../.assets/cards/monsters/Azia.png" height="169px"
-title="">
+title="If another card is banished: You can either add this banished card to your hand, or Special Summon this card from your hand. If this card is Normal or Special Summoned: You can Set 1 of your banished ‘Darquess’ Spell/Traps, and if you do, take 700 damage. You can only use each effect of ‘Azia, Envoker of Darquess’ once per turn.">
 <img src="../../.assets/cards/monsters/Azia.png" height="169px"
-title="">
+title="If another card is banished: You can either add this banished card to your hand, or Special Summon this card from your hand. If this card is Normal or Special Summoned: You can Set 1 of your banished ‘Darquess’ Spell/Traps, and if you do, take 700 damage. You can only use each effect of ‘Azia, Envoker of Darquess’ once per turn.">
 <img src="../../.assets/cards/monsters/Azia.png" height="169px"
-title="">
+title="If another card is banished: You can either add this banished card to your hand, or Special Summon this card from your hand. If this card is Normal or Special Summoned: You can Set 1 of your banished ‘Darquess’ Spell/Traps, and if you do, take 700 damage. You can only use each effect of ‘Azia, Envoker of Darquess’ once per turn.">
 <img src="../../.assets/cards/monsters/Zaia.png" height="169px"
-title="">
+title="If another card is banished: You can either add this banished card to your hand, or Special Summon this card from your hand. If this card is Normal or Special Summoned: You can send 1 ‘Darquess’ monster from your Deck to the Graveyard, and if you do, take 700 damage. You can only use each effect of ‘Zaia, Evoker of Darquess’ once per turn.">
 <img src="../../.assets/cards/monsters/Zaia.png" height="169px"
-title="">
+title="If another card is banished: You can either add this banished card to your hand, or Special Summon this card from your hand. If this card is Normal or Special Summoned: You can send 1 ‘Darquess’ monster from your Deck to the Graveyard, and if you do, take 700 damage. You can only use each effect of ‘Zaia, Evoker of Darquess’ once per turn.">
 <img src="../../.assets/cards/monsters/Zaia.png" height="169px"
-title="">
+title="If another card is banished: You can either add this banished card to your hand, or Special Summon this card from your hand. If this card is Normal or Special Summoned: You can send 1 ‘Darquess’ monster from your Deck to the Graveyard, and if you do, take 700 damage. You can only use each effect of ‘Zaia, Evoker of Darquess’ once per turn.">
 <img src="../../.assets/cards/monsters/Cythris.png" height="169px"
-title="">
+title="If either player takes damage: You can Special Summon this card from your hand or Graveyard, then you can increase this card’s Level (max 12) by 1 for every 100 damage taken. You can banish 1 card from your hand or Graveyard; add 1 ‘Darquess’ Spell from your Deck or Banished Pile to your hand. You can only use this effect of ‘Cythris, Augur of Darquess’ once per turn.">
 <img src="../../.assets/cards/monsters/Cythris.png" height="169px"
-title="">
+title="If either player takes damage: You can Special Summon this card from your hand or Graveyard, then you can increase this card’s Level (max 12) by 1 for every 100 damage taken. You can banish 1 card from your hand or Graveyard; add 1 ‘Darquess’ Spell from your Deck or Banished Pile to your hand. You can only use this effect of ‘Cythris, Augur of Darquess’ once per turn.">
 <img src="../../.assets/cards/monsters/Lyfris.png" height="169px"
-title="">
+title="If either player takes damage: You can Special Summon this card from your hand or Graveyard, then you can increase this card’s Level (max 12) by 1 for every 100 damage taken. You can banish 1 card from your hand or Graveyard; add 1 ‘Darquess’ monster from your Deck or Banished Pile to your hand. You can only use this effect of ‘Lyfris, Herald of Darquess’ once per turn.">
 <img src="../../.assets/cards/monsters/Lyfris.png" height="169px"
-title="">
+title="If either player takes damage: You can Special Summon this card from your hand or Graveyard, then you can increase this card’s Level (max 12) by 1 for every 100 damage taken. You can banish 1 card from your hand or Graveyard; add 1 ‘Darquess’ monster from your Deck or Banished Pile to your hand. You can only use this effect of ‘Lyfris, Herald of Darquess’ once per turn.">
 <img src="../../.assets/cards/monsters/Syndris.png" height="169px"
-title="">
+title="If either player takes damage: You can Special Summon this card from your hand or Graveyard, then you can increase this card’s Level (max 12) by 1 for every 100 damage taken. You can banish 1 card from your hand or Graveyard; add 1 ‘Darquess’ Ritual card from your Deck or Banished Pile to your hand. You can only use this effect of ‘Syndris, Oracle of Darquess’ once per turn.">
 <img src="../../.assets/cards/monsters/Syndris.png" height="169px"
-title="">
+title="If either player takes damage: You can Special Summon this card from your hand or Graveyard, then you can increase this card’s Level (max 12) by 1 for every 100 damage taken. You can banish 1 card from your hand or Graveyard; add 1 ‘Darquess’ Ritual card from your Deck or Banished Pile to your hand. You can only use this effect of ‘Syndris, Oracle of Darquess’ once per turn.">
 <img src="../../.assets/cards/monsters/Hykarice.png" height="169px"
-title="">
+title="You can banish 2 other DARK monsters from your field and/or either player’s Graveyard; Special Summon this card from your hand or Graveyard, then you can banish 1 face-up Spell/Trap on the field. When a Spell card or effect is activated, while you control Level 13 ‘Darquess’ monster (Quick Effect): You can banish this card from your hand or field; negate the activation, also banish that card, and if you do, take 700 damage. You can only use each effect of ‘Hykarice, Sentry of Darquess’ once per turn.">
 <img src="../../.assets/cards/monsters/Kyralice.png" height="169px"
-title="">
+title="You can banish 2 other DARK monsters from your field and/or either player’s Graveyard; Special Summon this card from your hand or Graveyard, then you can banish 1 face-down Spell/Trap on the field. When a Trap card or effect is activated, while you control Level 13 ‘Darquess’ monster (Quick Effect): You can banish this card from your hand or field; negate the activation, also banish that card, and if you do, take 700 damage. You can only use each effect of ‘Kyralice, Sentinel of Darquess’ once per turn.">
 <img src="../../.assets/cards/monsters/Vyktica.png" height="169px"
-title="">
+title="You can banish 2 other DARK monsters from your field and/or either player’s Graveyard; Special Summon this card from your hand or Graveyard, then you can banish 1 card from either player’s Graveyard. When a DARK monster declares an attack or activates its effect, while you control Level 13 ‘Darquess’ monster (Quick Effect): You can banish this card from your hand or field; banish that monster, and if you do, take 700 damage. You can only use each effect of ‘Vyktica, Valkyrie of Darquess’ once per turn.">
 <img src="../../.assets/cards/ritual/Raiza.png" height="169px"
-title="">
+title="Must be Ritual Summoned by a ‘Darquess’ card. If this card is Ritual Summoned: You can Set 1 ‘Darquess’ Trap from your Deck. Neither player can Normal Summon non-DARK monsters. Each time you take damage, you can banish the top card of your opponent’s Deck face-down. Once per turn: You can banish 1 DARK monster from either player’s field or Graveyard.">
 <img src="../../.assets/cards/ritual/Laiza.png" height="169px"
-title="">
+title="Must be Ritual Summoned by a ‘Darquess’ card. If this card is Ritual Summoned: You can Set 1 ‘Darquess’ Trap from your Deck. Neither player can Special Summon non-DARK monsters from the Extra Deck. Each time a card is banished, you can inflict 350 damage to your opponent. Once per turn: You can Special Summon 1 banished DARK monster.">
 <img src="../../.assets/cards/ritual/Vaiza.png" height="169px"
-title="">
+title="Must be Ritual Summoned by a ‘Darquess’ card. If this card is Ritual Summoned: You can Set 1 ‘Darquess’ Trap from your Deck. DARK monsters lose ATK equal to their original DEF. Your ‘Darquess’ monsters can use their effects as Quick Effects. Once per turn, if a DARK monster is Special Summoned or banished: You can gain LP equal to its ATK.">
 <img src="../../.assets/cards/spells/Realm of Darquess.png" height="169px"
-title="">
+title="All monsters on the field, in the Graveyard and that are banished become DARK. Any Spell/Traps that would be sent to the Graveyard are banished instead. While you control a Level 13 ‘Darquess’ monster, this card cannot be destroyed, also it gains the following effect.
+• Each time you take effect damage, you can gain LP equal to half that damage, then you can inflict damage to your opponent equal to the LP you gained.">
 <img src="../../.assets/cards/spells/Realm of Darquess.png" height="169px"
-title="">
+title="All monsters on the field, in the Graveyard and that are banished become DARK. Any Spell/Traps that would be sent to the Graveyard are banished instead. While you control a Level 13 ‘Darquess’ monster, this card cannot be destroyed, also it gains the following effect.
+• Each time you take effect damage, you can gain LP equal to half that damage, then you can inflict damage to your opponent equal to the LP you gained.">
 <img src="../../.assets/cards/spells/Realm of Darquess.png" height="169px"
-title="">
+title="All monsters on the field, in the Graveyard and that are banished become DARK. Any Spell/Traps that would be sent to the Graveyard are banished instead. While you control a Level 13 ‘Darquess’ monster, this card cannot be destroyed, also it gains the following effect.
+• Each time you take effect damage, you can gain LP equal to half that damage, then you can inflict damage to your opponent equal to the LP you gained.">
 <img src="../../.assets/cards/spells/Darquess Rising.png" height="169px"
-title="">
+title="Activate 1 of the following effects.
+• Ritual Summon 1 ‘Darquess’ Ritual monster from your hand or GY. You must also Tribute DARK monsters from your hand or field, and/or banish DARK monsters from either player’s GY, whose total Levels and ATK equal or exceed those of the Ritual monster.
+• Fusion Summon 1 ‘Darquess’ Fusion monster from your Extra Deck or GY, by banishing materials from your hand, field and/or GY.
+If you take damage: You can add this banished card to your hand, then you can return 1 of your banished ‘Darquess’ monsters to the GY. You can only use this effect of ‘Darquess Rising’ once per turn.">
 <img src="../../.assets/cards/spells/Darquess Rising.png" height="169px"
-title="">
+title="Activate 1 of the following effects.
+• Ritual Summon 1 ‘Darquess’ Ritual monster from your hand or GY. You must also Tribute DARK monsters from your hand or field, and/or banish DARK monsters from either player’s GY, whose total Levels and ATK equal or exceed those of the Ritual monster.
+• Fusion Summon 1 ‘Darquess’ Fusion monster from your Extra Deck or GY, by banishing materials from your hand, field and/or GY.
+If you take damage: You can add this banished card to your hand, then you can return 1 of your banished ‘Darquess’ monsters to the GY. You can only use this effect of ‘Darquess Rising’ once per turn.">
 <img src="../../.assets/cards/spells/Covin of Darquess.png" height="169px"
-title="">
+title="While this card is banished, it gains the following effects.
+• Your opponent cannot activate cards or effects when you Special Summon a ‘Darquess’ monster, or in response to the activations of your ‘Darquess’ Spells.
+• While you control a Level 13 ‘Darquess’ monster, negate your opponent’s card effects that target a ‘Darquess’ card you control.
+If a ‘Darquess’ Spell/Trap would leave your field by an opponent’s card, you can banish this card from your Graveyard instead.">
 <img src="../../.assets/cards/spells/Rites of Darquess.png" height="169px"
-title="">
+title="Banish 1 card from your hand or Graveyard; add 1 ‘Darquess’ Ritual monster and/or Ritual Spell from your Deck to your hand, and if you do, take 700 damage. You can return this banished card to the Graveyard; add 1 of your banished ‘Darquess’ cards to your hand, and if you do, take 700 damage. You can only use an effect of ‘Rites of Darquess’ once per turn.">
 <img src="../../.assets/cards/spells/Rites of Darquess.png" height="169px"
-title="">
+title="Banish 1 card from your hand or Graveyard; add 1 ‘Darquess’ Ritual monster and/or Ritual Spell from your Deck to your hand, and if you do, take 700 damage. You can return this banished card to the Graveyard; add 1 of your banished ‘Darquess’ cards to your hand, and if you do, take 700 damage. You can only use an effect of ‘Rites of Darquess’ once per turn.">
 <img src="../../.assets/cards/spells/Rites of Darquess.png" height="169px"
-title="">
+title="Banish 1 card from your hand or Graveyard; add 1 ‘Darquess’ Ritual monster and/or Ritual Spell from your Deck to your hand, and if you do, take 700 damage. You can return this banished card to the Graveyard; add 1 of your banished ‘Darquess’ cards to your hand, and if you do, take 700 damage. You can only use an effect of ‘Rites of Darquess’ once per turn.">
 <img src="../../.assets/cards/spells/Temptation of Darquess.png" height="169px"
-title="">
+title="Draw 2 cards, and if you do, take 700 damage, also after that, banish 1 ‘Darquess’ card from your hand or field, or if you cannot, banish your entire hand. You can banish 1 ‘Darquess’ card from your hand or Graveyard; add this banished card to your hand, and if you do, take 700 damage. You can only use each effect of ‘Temptation of Darquess’ once per turn.">
 <img src="../../.assets/cards/spells/Temptation of Darquess.png" height="169px"
-title="">
+title="Draw 2 cards, and if you do, take 700 damage, also after that, banish 1 ‘Darquess’ card from your hand or field, or if you cannot, banish your entire hand. You can banish 1 ‘Darquess’ card from your hand or Graveyard; add this banished card to your hand, and if you do, take 700 damage. You can only use each effect of ‘Temptation of Darquess’ once per turn.">
 <img src="../../.assets/cards/spells/Temptation of Darquess.png" height="169px"
-title="">
+title="Draw 2 cards, and if you do, take 700 damage, also after that, banish 1 ‘Darquess’ card from your hand or field, or if you cannot, banish your entire hand. You can banish 1 ‘Darquess’ card from your hand or Graveyard; add this banished card to your hand, and if you do, take 700 damage. You can only use each effect of ‘Temptation of Darquess’ once per turn.">
 <img src="../../.assets/cards/spells/Allure of Darquess.png" height="169px"
-title="">
+title="Banish the top 3 cards of your Deck, and if you do, take 700 damage. If a Level 13 ‘Darquess’ monster leaves your field: You can add this banished card to your hand. You can only use each effect of ‘Allure of Darquess’ once per turn.">
 <img src="../../.assets/cards/spells/Allure of Darquess.png" height="169px"
-title="">
+title="Banish the top 3 cards of your Deck, and if you do, take 700 damage. If a Level 13 ‘Darquess’ monster leaves your field: You can add this banished card to your hand. You can only use each effect of ‘Allure of Darquess’ once per turn.">
 <img src="../../.assets/cards/spells/Allure of Darquess.png" height="169px"
-title="">
+title="Banish the top 3 cards of your Deck, and if you do, take 700 damage. If a Level 13 ‘Darquess’ monster leaves your field: You can add this banished card to your hand. You can only use each effect of ‘Allure of Darquess’ once per turn.">
 <img src="../../.assets/cards/spells/Prophecy of Darquess.png" height="169px"
-title="">
+title="Banish 1 ‘Darquess’ card from your Deck, and if you do, take 700 damage. If a Level 13 ‘Darquess’ monster is Special Summoned: You can banish this banished card face-down; add 1 of your banished ‘Darquess’ cards to your hand, and if you do, take 700 damage. You can only use each effect of ‘Prophecy of Darquess’ once per turn.">
 <img src="../../.assets/cards/spells/Prophecy of Darquess.png" height="169px"
-title="">
+title="Banish 1 ‘Darquess’ card from your Deck, and if you do, take 700 damage. If a Level 13 ‘Darquess’ monster is Special Summoned: You can banish this banished card face-down; add 1 of your banished ‘Darquess’ cards to your hand, and if you do, take 700 damage. You can only use each effect of ‘Prophecy of Darquess’ once per turn.">
 <img src="../../.assets/cards/traps/Awakening of Darquess.png" height="169px"
-title="">
+title="Special Summon 1 ‘Darquess’ monster from your Deck, but banish it during the End Phase. If you control no DARK monsters, or ‘Realm of Darquess’ is in the Field Zone, you can activate this card the turn it was Set, but take 700 damage. You can banish this card from your Graveyard; activate 1 ‘Realm of Darquess’ from your Deck, and if you do, take 700 damage. You can only use each effect of ‘Awakening of Darquess’ once per turn.">
 <img src="../../.assets/cards/traps/Awakening of Darquess.png" height="169px"
-title="">
+title="Special Summon 1 ‘Darquess’ monster from your Deck, but banish it during the End Phase. If you control no DARK monsters, or ‘Realm of Darquess’ is in the Field Zone, you can activate this card the turn it was Set, but take 700 damage. You can banish this card from your Graveyard; activate 1 ‘Realm of Darquess’ from your Deck, and if you do, take 700 damage. You can only use each effect of ‘Awakening of Darquess’ once per turn.">
 <img src="../../.assets/cards/traps/Awakening of Darquess.png" height="169px"
-title="">
+title="Special Summon 1 ‘Darquess’ monster from your Deck, but banish it during the End Phase. If you control no DARK monsters, or ‘Realm of Darquess’ is in the Field Zone, you can activate this card the turn it was Set, but take 700 damage. You can banish this card from your Graveyard; activate 1 ‘Realm of Darquess’ from your Deck, and if you do, take 700 damage. You can only use each effect of ‘Awakening of Darquess’ once per turn.">
 <img src="../../.assets/cards/traps/Runes of Darquess.png" height="169px"
-title="">
+title="Set 1 ‘Darquess’ Spell/Trap from your Deck, but banish it during the End Phase. If you control no other face-up Spell/Traps, or ‘Realm of Darquess’ is in the Field Zone, you can activate this card the turn it was Set, but take 700 damage. You can banish this card from your Graveyard; activate 1 ‘Realm of Darquess’ from your Deck, and if you do, take 700 damage. You can only use each effect of ‘Runes of Darquess’ once per turn.">
 <img src="../../.assets/cards/traps/Runes of Darquess.png" height="169px"
-title="">
+title="Set 1 ‘Darquess’ Spell/Trap from your Deck, but banish it during the End Phase. If you control no other face-up Spell/Traps, or ‘Realm of Darquess’ is in the Field Zone, you can activate this card the turn it was Set, but take 700 damage. You can banish this card from your Graveyard; activate 1 ‘Realm of Darquess’ from your Deck, and if you do, take 700 damage. You can only use each effect of ‘Runes of Darquess’ once per turn.">
 <img src="../../.assets/cards/traps/Runes of Darquess.png" height="169px"
-title="">
+title="Set 1 ‘Darquess’ Spell/Trap from your Deck, but banish it during the End Phase. If you control no other face-up Spell/Traps, or ‘Realm of Darquess’ is in the Field Zone, you can activate this card the turn it was Set, but take 700 damage. You can banish this card from your Graveyard; activate 1 ‘Realm of Darquess’ from your Deck, and if you do, take 700 damage. You can only use each effect of ‘Runes of Darquess’ once per turn.">
 <img src="../../.assets/cards/traps/Magnificence of Darquess.png" height="169px"
-title="">
+title="Your ‘Darquess’ monsters cannot be destroyed by battle or your opponent’s monster effects. Each time your opponent activates a card or effect, you can gain 350 LP. If this card is banished: You can add 1 of your other banished ‘Darquess’ Traps to your hand. You can only use this effect of ‘Magnificence of Darquess’ once per turn.">
 <img src="../../.assets/cards/traps/Perfection of Darquess.png" height="169px"
-title="">
+title="Your ‘Darquess’ monsters are unaffected by your opponent’s Spell/Trap effects. Each time your opponent places a card on the field, you can gain 350 LP. If this card is banished: You can add 1 of your other banished ‘Darquess’ Traps to your hand. You can only use this effect of ‘Perfection of Darquess’ once per turn.">
 <img src="../../.assets/cards/traps/Nightmare of Darquess.png" height="169px"
-title="">
+title="While you control a Level 13 ‘Darquess’ monster, your opponent cannot conduct their Main Phase 1. Each time your opponent activates a card or effect, you can inflict 350 damage. If this card is banished: You can add 1 of your other banished ‘Darquess’ Traps to your hand. You can only use this effect of ‘Nightmare of Darquess’ once per turn.">
 <img src="../../.assets/cards/traps/Corruption of Darquess.png" height="169px"
-title="">
+title="If you control a Level 13 ‘Darquess’ monster: Apply the following effects for the rest of this turn.
+• Your opponent’s monsters become DARK. The names of all monsters your opponent controls become ‘Corrupted of Darquess’, also your opponent can only use an effect of ‘Corrupted of Darquess’ once this turn.
+You can only use ‘Corruption of Darquess’ once per turn.">
 <img src="../../.assets/cards/traps/Seduction of Darquess.png" height="169px"
-title="">
+title="If you control a Level 13 ‘Darquess’ monster: Take control of 1 monster your opponent controls, and if you do, its Attribute becomes DARK, also take damage equal to its original ATK. When your opponent Special Summons a monster: You can Set this banished card to their field, and if you do, place that monster in their Spell/Trap Zone as a Continuous Trap. You can only use an effect of ‘Seduction of Darquess’ once per turn.">
 <img src="../../.assets/cards/traps/Soul of Darquess.png" height="169px"
-title="">
+title="If you take damage, and you have less than 8000 LP: Banish 1 ‘Darquess’ Fusion monster from your field or Graveyard; take damage equal to that monster’s ATK, and if you do, Special Summon up to 3 ‘Darquess’ Ritual monsters with different names from your hand, Deck, Graveyard and/or Banished Pile, ignoring their Summoning conditions, but they cannot attack or activate their effects this turn. If ‘Realm of Darquess’ is in your Field Zone or Graveyard, this card’s activation and effect cannot be negated. You can only activate ‘Soul of Darquess’ once per Duel.">
 <img src="../../.assets/cards/traps/Revenge of Darquess.png" height="169px"
-title="">
+title="When your opponent activates a card or effect, or would Summon a monster(s), while you control a Level 13 ‘Darquess’ monster: Negate the activation or Summon(s), and if you do, banish that card(s) face-down, but take 700 damage for each banished. If a ‘Darquess’ monster leaves your field by an opponent’s card: You can banish this banished card face-down; inflict damage equal to that monster’s original ATK. You can only use an effect of ‘Revenge of Darquess’ once per turn.">
 <img src="../../.assets/cards/traps/Darquess Falling.png" height="169px"
-title="">
+title="Activate 1 of the following effects, but banish the Summoned monster during the End Phase of your next turn. 
+• Ritual Summon 1 ‘Darquess’ Ritual monster from your GY or Banished Pile, by banishing DARK monsters from your GY and/or either player’s field, whose total Levels and ATK equal or exceed those of the Ritual monster.
+• Fusion Summon 1 ‘Darquess’ Fusion monster from your Extra Deck or Banished Pile to either player’s field, by banishing materials from your GY and/or either player’s field.
+You can only activate ‘Darquess Falling’ once per turn.">
 <img src="../../.assets/cards/spells/That Grass Looks Darker.png" height="169px"
-title="">
+title="If you started the Duel with fewer cards in your Extra Deck than your opponent: Both players banish as many cards as possible from the top of their Deck, up to the difference. You can only activate ‘That Grass Looks Darker’ once per turn.">
 <img src="../../.assets/cards/spells/That Grass Looks Darker.png" height="169px"
-title="">
+title="If you started the Duel with fewer cards in your Extra Deck than your opponent: Both players banish as many cards as possible from the top of their Deck, up to the difference. You can only activate ‘That Grass Looks Darker’ once per turn.">
 <img src="../../.assets/cards/traps/Terrorforming.png" height="169px"
-title="">
+title="Activate 1 Field Spell from your Deck or Graveyard. If you control no face-up cards, you can activate this card the turn it was Set by paying half your LP.">
 <img src="../../.assets/cards/traps/Darkchoke.png" height="169px"
 title="During each Standby Phase, place 1 Choke Counter on this card, then your opponent takes damage equal to the number of Choke Counters on this card x 200. If this card’s effects would be negated, remove all Choke Counters from it instead. This face-up card with a Choke Counter cannot leave the field by card effect, unless it is banished.">
 
@@ -465,15 +482,20 @@ title="During each Standby Phase, place 1 Choke Counter on this card, then your 
 title="‘Raiza, Sorceress of Darquess’ + ‘Laiza, Enchantress of Darquess’
 Must be Fusion Summoned by a ‘Darquess’ card. Neither player can Normal or Special Summon non-DARK monsters. If this card is targeted (Quick Effect): You can make 1 other DARK monster on the field become the target instead. You can only control 1 ‘Elaiza, Arisen of Darquess’.">
 <img src="../../.assets/cards/fusion/Levaiza.png" height="169px"
-title="">
+title="‘Laiza, Enchantress of Darquess’ + ‘Vaiza, Empress of Darquess’
+Must be Fusion Summoned by a ‘Darquess’ card. Change all monsters your opponent controls to Defense Position. Monsters your opponent controls in Defense Position cannot activate their effects. If this card is targeted (Quick Effect): You can make 1 other DARK monster on the field become the target instead. You can only control 1 ‘Levaiza, Ascended of Darquess’.">
 <img src="../../.assets/cards/fusion/Vraiza.png" height="169px"
-title="">
+title="‘Vaiza, Empress of Darquess’ + ‘Raiza, Sorceress of Darquess’
+Must be Fusion Summoned by a ‘Darquess’ card. Negate the effects of DARK Synchro, Xyz and Link monsters. If this card is targeted (Quick Effect): You can make 1 other DARK monster on the field become the target instead. You can only control 1 ‘Vraiza, Awakened of Darquess’.">
 <img src="../../.assets/cards/fusion/Dyvarice.png" height="169px"
-title="">
+title="2 DARK monsters with different types (Ritual/Fusion/Synchro/Xyz/Link)
+If you control a Level 13 ‘Darquess’ monster, you can Special Summon this card (from your Extra Deck) to either player’s field by banishing the above materials they control. Double any battle damage either player takes from battles involving this card. When a card or effect you activate resolves, banish that card. Once per End Phase: Give control of 1 other monster you control to your opponent, and if you do, inflict 700 damage.">
 <img src="../../.assets/cards/fusion/Lynuca.png" height="169px"
-title="">
+title="2 Level 9 or higher DARK monsters
+You can also Fusion Summon this card (from your Extra Deck) by banishing the above materials from either player’s field. Once per turn, when a card or effect is activated, while you control Level 13 ‘Darquess’ monster (Quick Effect): You can banish 1 card from your hand or Graveyard; banish that activated card, also negate the effects of all cards with that name until the end of next turn. You can only control 1 ‘Lynuca, Silencer of Darquess’.">
 <img src="../../.assets/cards/fusion/Primordial Darquessence.png" height="169px"
-title="">
+title="3 Level 13 ‘Darquess’ monsters with different names
+Must be Fusion Summoned by a ‘Darquess’ card, using the above materials that you have first Ritual or Fusion Summoned. Unaffected by other card’s effects. Cannot be targeted by card effects. Negate the effects of monsters whose original Attribute is not DARK. Gains 100 ATK for each banished card. Once per End Phase: Banish all other monsters on the field. You can only Summon ‘Primordial Darquessence, Oblivion of Darquess’ once per Duel.">
 
 </details>
 
