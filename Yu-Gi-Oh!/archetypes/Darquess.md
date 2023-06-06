@@ -342,7 +342,64 @@ View the deck on [DuelingBook](https://duelingbook.com/deck?id=12053993)!
 <details hide>
   <summary> <b> display </b> </summary>
 
-<img src="../../.assets/cards/monsters/Kes.png" height="169px"> <img src="../../.assets/cards/monsters/Dyavin.png" height="169px"> <img src="../../.assets/cards/monsters/Aiza.png" height="169px"> <img src="../../.assets/cards/monsters/Aiza.png" height="169px"> <img src="../../.assets/cards/monsters/Aiza.png" height="169px"> <img src="../../.assets/cards/monsters/Azia.png" height="169px"> <img src="../../.assets/cards/monsters/Azia.png" height="169px"> <img src="../../.assets/cards/monsters/Azia.png" height="169px"> <img src="../../.assets/cards/monsters/Zaia.png" height="169px"> <img src="../../.assets/cards/monsters/Zaia.png" height="169px"> <img src="../../.assets/cards/monsters/Zaia.png" height="169px"> <img src="../../.assets/cards/monsters/Cythris.png" height="169px"> <img src="../../.assets/cards/monsters/Cythris.png" height="169px"> <img src="../../.assets/cards/monsters/Lyfris.png" height="169px"> <img src="../../.assets/cards/monsters/Lyfris.png" height="169px"> <img src="../../.assets/cards/monsters/Syndris.png" height="169px"> <img src="../../.assets/cards/monsters/Syndris.png" height="169px"> <img src="../../.assets/cards/monsters/Hykarice.png" height="169px"> <img src="../../.assets/cards/monsters/Kyralice.png" height="169px"> <img src="../../.assets/cards/monsters/Vyktica.png" height="169px"> <img src="../../.assets/cards/ritual/Raiza.png" height="169px"> <img src="../../.assets/cards/ritual/Laiza.png" height="169px"> <img src="../../.assets/cards/ritual/Vaiza.png" height="169px">
+<img src="../../.assets/cards/monsters/Kes.png" height="169px">
+<img src="../../.assets/cards/monsters/Dyavin.png" height="169px">
+<img src="../../.assets/cards/monsters/Aiza.png" height="169px">
+<img src="../../.assets/cards/monsters/Aiza.png" height="169px">
+<img src="../../.assets/cards/monsters/Aiza.png" height="169px">
+<img src="../../.assets/cards/monsters/Azia.png" height="169px">
+<img src="../../.assets/cards/monsters/Azia.png" height="169px">
+<img src="../../.assets/cards/monsters/Azia.png" height="169px">
+<img src="../../.assets/cards/monsters/Zaia.png" height="169px">
+<img src="../../.assets/cards/monsters/Zaia.png" height="169px">
+<img src="../../.assets/cards/monsters/Zaia.png" height="169px">
+<img src="../../.assets/cards/monsters/Cythris.png" height="169px">
+<img src="../../.assets/cards/monsters/Cythris.png" height="169px">
+<img src="../../.assets/cards/monsters/Lyfris.png" height="169px">
+<img src="../../.assets/cards/monsters/Lyfris.png" height="169px">
+<img src="../../.assets/cards/monsters/Syndris.png" height="169px">
+<img src="../../.assets/cards/monsters/Syndris.png" height="169px">
+<img src="../../.assets/cards/monsters/Hykarice.png" height="169px">
+<img src="../../.assets/cards/monsters/Kyralice.png" height="169px">
+<img src="../../.assets/cards/monsters/Vyktica.png" height="169px">
+<img src="../../.assets/cards/ritual/Raiza.png" height="169px">
+<img src="../../.assets/cards/ritual/Laiza.png" height="169px">
+<img src="../../.assets/cards/ritual/Vaiza.png" height="169px">
+<img src="../../.assets/cards/spells/Realm of Darquess.png" height="169px">
+<img src="../../.assets/cards/spells/Realm of Darquess.png" height="169px">
+<img src="../../.assets/cards/spells/Realm of Darquess.png" height="169px">
+<img src="../../.assets/cards/spells/Darquess Rising.png" height="169px">
+<img src="../../.assets/cards/spells/Darquess Rising.png" height="169px">
+<img src="../../.assets/cards/spells/Covin of Darquess.png" height="169px">
+<img src="../../.assets/cards/spells/Rites of Darquess.png" height="169px">
+<img src="../../.assets/cards/spells/Rites of Darquess.png" height="169px">
+<img src="../../.assets/cards/spells/Rites of Darquess.png" height="169px">
+<img src="../../.assets/cards/spells/Temptation of Darquess.png" height="169px">
+<img src="../../.assets/cards/spells/Temptation of Darquess.png" height="169px">
+<img src="../../.assets/cards/spells/Temptation of Darquess.png" height="169px">
+<img src="../../.assets/cards/spells/Allure of Darquess.png" height="169px">
+<img src="../../.assets/cards/spells/Allure of Darquess.png" height="169px">
+<img src="../../.assets/cards/spells/Allure of Darquess.png" height="169px">
+<img src="../../.assets/cards/spells/Prophecy of Darquess.png" height="169px">
+<img src="../../.assets/cards/spells/Prophecy of Darquess.png" height="169px">
+<img src="../../.assets/cards/traps/Awakening of Darquess.png" height="169px">
+<img src="../../.assets/cards/traps/Awakening of Darquess.png" height="169px">
+<img src="../../.assets/cards/traps/Awakening of Darquess.png" height="169px">
+<img src="../../.assets/cards/traps/Runes of Darquess.png" height="169px">
+<img src="../../.assets/cards/traps/Runes of Darquess.png" height="169px">
+<img src="../../.assets/cards/traps/Runes of Darquess.png" height="169px">
+<img src="../../.assets/cards/traps/Magnificence of Darquess.png" height="169px">
+<img src="../../.assets/cards/traps/Perfection of Darquess.png" height="169px">
+<img src="../../.assets/cards/traps/Nightmare of Darquess.png" height="169px">
+<img src="../../.assets/cards/traps/Corruption of Darquess.png" height="169px">
+<img src="../../.assets/cards/traps/Seduction of Darquess.png" height="169px">
+<img src="../../.assets/cards/traps/Soul of Darquess.png" height="169px">
+<img src="../../.assets/cards/traps/Revenge of Darquess.png" height="169px">
+<img src="../../.assets/cards/traps/Darquess Falling.png" height="169px">
+<img src="../../.assets/cards/spells/That Grass Looks Darker" height="169px">
+<img src="../../.assets/cards/spells/That Grass Looks Darker.png" height="169px">
+<img src="../../.assets/cards/traps/Terrorforming.png" height="169px">
+<img src="../../.assets/cards/traps/Darkchoke.png" height="169px">
 
 </details>
 
