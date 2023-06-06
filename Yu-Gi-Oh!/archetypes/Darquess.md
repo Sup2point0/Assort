@@ -347,3 +347,4 @@ Otherwise of note are the 3 Continuous Traps, which like the Ritual Monsters are
   - Lv9 – Vyktica only banishes without negating.
   - Lv13 Ritual – Vaiza has no ignition effect, instead turning the other Ritual Monsters far deadlier.
   - Continuous Traps – Nightmare inflicts damage instead of gaining LP, and hinders the opponent instead of protecting the Ritual Monsters.
+- *Darquess* is somewhat a pun on ‘Darkness’, and derives from the name of [Darquesse](https://skulduggery.fandom.com/wiki/Darquesse), a character in the [Skulduggery Pleasant](https://wikipedia.org/wiki/Skulduggery_Pleasant) series.
