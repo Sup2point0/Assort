@@ -199,7 +199,7 @@ Vyktica is slightly different:
 </table>
 
 ### Level 13 Ritual
-The 3 Ritual Monsters are each Level 13 with 3000 ATK. They share the Summoning and control conditions that they must be Ritual Summoned by a ‘Darquess’ card, and restrict the player to controlling only 1 of each. Upon Ritual Summon, they can each search any ‘Darquess’ Trap from the Deck.
+The 3 Ritual Monsters are each Level 13 with 3000 ATK. All 3 are Limited, so the player can only ever control 1 of each. They share the Summoning condition that they must be Ritual Summoned by a ‘Darquess’ card. Upon Ritual Summon, they can each search any ‘Darquess’ Trap from the Deck.
 
 > If this card is Ritual Summoned: You can Set 1 ‘Darquess’ Trap from your Deck.
 
@@ -294,7 +294,7 @@ Many opening and searching cards that would usually be Spells are instead Traps,
   </tr>
 </table>
 
-Otherwise of note are the 3 Continuous Traps, which provide the Ritual Monsters with protection and recover LP that the player loses from all the self-damage. They also have the useful effect to recover another banished ‘Darquess’ Trap when banished themselves, allowing for efficient recursion.
+Otherwise of note are the 3 Continuous Traps, which like the Ritual Monsters are also Limited. They provide the Ritual Monsters with protection and recover LP that the player loses from all the self-damage. They also have the useful effect to recover another banished ‘Darquess’ Trap when banished themselves, allowing for efficient recursion.
 
 <table>
   <tr>
