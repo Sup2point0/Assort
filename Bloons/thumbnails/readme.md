@@ -74,26 +74,58 @@
 
 <table>
   <tr>
-    <td> <img src="Phase 3/1 – Monkey Madness.png" height="300px"> </td>
-    <td> <img src="Phase 3/2 – Primary Power.png" height="300px"> </td>
-    <td> <img src="Phase 3/3 – Military Mayday.png" height="300px"> </td>
+    <td> <img src="Phase 3/1 – Monkey Mania.png" height="300px"> </td>
+    <td> <img src="Phase 3/2 – Buildings & Bananas.png" height="300px"> </td>
+    <td> <img src="Phase 3/3 – Green Guardians.png" height="300px"> </td>
   </tr>
   <tr>
-    <td> Monkey Madness </td>
-    <td> Primary Power </td>
-    <td> Military Mayday </td>
+    <td> Monkey Mania </td>
+    <td> Buildings & Bananas </td>
+    <td> Green Guardians </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td> <img src="Phase 3/4 – Magic Maelstrom.png" height="300px"> </td>
-    <td> <img src="Phase 3/5 – Support Storm.png" height="300px"> </td>
-    <td> <img src="Phase 3/6 – Hero Haven.png" height="300px"> </td>
+    <td> <img src="Phase 3/4 – Heavy Duty.png" height="300px"> </td>
+    <td> <img src="Phase 3/5 – Highly Radioactive.png" height="300px"> </td>
+    <td> <img src="Phase 3/6 – Summer Vibin'.png" height="300px"> </td>
   </tr>
   <tr>
-    <td> Magic Maelstrom </td>
-    <td> Support Storm </td>
-    <td> Hero Haven </td>
+    <td> Heavy Duty </td>
+    <td> Highly Radioactive </td>
+    <td> Summer Vibin' </td>
+  </tr>
+</table>
+
+
+<br>
+
+
+## Phase 4
+
+<table>
+  <tr>
+    <td> <img src="Phase 4/1 – Monkey Mischief.png" height="300px"> </td>
+    <td> <img src="Phase 4/2 – High Explosive.png" height="300px"> </td>
+    <td> <img src="Phase 4/3 – Night of the Ninjas.png" height="300px"> </td>
+  </tr>
+  <tr>
+    <td> Monkey Mischief </td>
+    <td> High Explosive </td>
+    <td> Night of the Ninjas </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td> <img src="Phase 4/4 – Swashbucklin' Scallywags.png" height="300px"> </td>
+    <td> <img src="Phase 4/5 – Bloon Burst.png" height="300px"> </td>
+    <td> <img src="Phase 4/6 – Final Frenzy.png" height="300px"> </td>
+  </tr>
+  <tr>
+    <td> Swashbucklin' Scallywags </td>
+    <td> Bloon Burst </td>
+    <td> Final Frenzy </td>
   </tr>
 </table>
