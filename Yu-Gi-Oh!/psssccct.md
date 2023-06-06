@@ -117,4 +117,5 @@ A list of all the syntax changes.
 | `Normal Summon` | `NS` | `NSs` and `NSd` for Normal ‘Summons’ and ‘Summoned’ |
 | `Special Summon` | `SS` | `SSs` and `SSd` for Special ‘Summons’ and ‘Summoned’ |
 | `Attack/Defense Position` | `ATK/DEF Position` | the abbreviations are already there, why not use them? |
-| `monster` <br> `zone` <br> `material` | `Monster` <br> `Zone` <br> `Material` | always capitalised |
+| `monster` <br> `zone` <br> `material` | `Monster` <br> `Zone` <br> `Material` | |
+| `{your card} that is banished` | `in your Banished Pile` | it’s kinda ridiculous that the hand, Deck, field, Grave and Extra Deck all have designated terms, but not cards that are banished |
