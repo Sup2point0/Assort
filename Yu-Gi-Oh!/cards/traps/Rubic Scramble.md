@@ -32,9 +32,9 @@
 
 | aspect | type | name | notes |
 | :----- | :--- | :--- | :---- |
-| Move up to 3 cards on the field to appropriate adjacent Zones. | activyzacion | | Seemingly a useless effect, yet devastyzingly powerful in [conjunccion](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/–.md 'conjunction') with ‘Rubic’ cards.
-| If a card moves to another Zone, while this card is in your Graveyard: You can Set this card to your field. | trigger | | Non-HOPT self-recursion, btw |
-| You cannot activate Monster effects, except those of ‘Rubic’ monsters, the turn you activate this card’s effects. | lock condition | | Aw yeah, xenophobicity |
+| Move up to 3 cards on the field to appropriate adjacent Zones. | activation | | Seemingly a useless effect, yet devastatingly powerful in conjunction with *Rubic* cards.
+| If a card moves to another Zone, while this card is in your Graveyard: You can Set this card to your field. | trigger | | non-HOPT self-recursion, btw |
+| You cannot activate Monster effects, except those of ‘Rubic’ monsters, the turn you activate this card’s effects. | lock condition | | aw yeah, xenophobicity |
 | You can only activate ‘Rubic Scramble’ once per turn. | turnly restriction | | |
 
 
