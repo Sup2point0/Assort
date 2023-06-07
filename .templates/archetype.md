@@ -85,10 +85,8 @@ View the deck on [DuelingBook](...)!
   <summary> <b> display </b> </summary>
 
 ### Main Deck
-{...}
-
-### Extra Deck
-{...}
+<img src="../../.assets/cards/monsters/.png" height="169px"
+title="">
 
 </details>
 
