@@ -20,20 +20,20 @@ An archetype of DARK and primarily Spellcaster Monsters, harnessing Ritual and F
 
 | card | Level | ATK/DEF | Type |
 | :--- | :---- | :------ | :--- |
-| [Aiza, Invoker of Darquess](../cards/monsters/standard/–.md) | 4 ★★★★ | 1900 / 0 | |
-| [Azia, Envoker of Darquess](../cards/monsters/standard/–.md) | 4 ★★★★ | 1900 / 0 | |
-| [Zaia, Evoker of Darquess](../cards/monsters/standard/–.md) | 4 ★★★★ | 1900 / 0 | |
-| [Cythris, Augur of Darquess](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2300 / 0 | |
-| [Lyfris, Herald of Darquess](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2300 / 0 | |
-| [Syndris, Oracle of Darquess](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2300 / 0 | |
-| [Hykarice, Sentry of Darquess](../cards/monsters/standard/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | Warrior |
-| [Kyralice, Sentinel of Darquess](../cards/monsters/standard/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | Warrior |
-| [Vyktica, Valkyrie of Darquess](../cards/monsters/standard/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | Warrior |
+| [Aiza, Invoker of Darquess](../cards/monsters/standard/Aiza.md) | 4 ★★★★ | 1900 / 0 | |
+| [Azia, Envoker of Darquess](../cards/monsters/standard/Azia.md) | 4 ★★★★ | 1900 / 0 | |
+| [Zaia, Evoker of Darquess](../cards/monsters/standard/Zaia.md) | 4 ★★★★ | 1900 / 0 | |
+| [Cythris, Augur of Darquess](../cards/monsters/standard/Cythris.md) | 7 ★★★★★★★ | 2300 / 0 | |
+| [Lyfris, Herald of Darquess](../cards/monsters/standard/Lyfris.md) | 7 ★★★★★★★ | 2300 / 0 | |
+| [Syndris, Oracle of Darquess](../cards/monsters/standard/Syndris.md) | 7 ★★★★★★★ | 2300 / 0 | |
+| [Hykarice, Sentry of Darquess](../cards/monsters/standard/Hykarice.md) | 9 ★★★★★★★★★ | 2700 / 0 | Warrior |
+| [Kyralice, Sentinel of Darquess](../cards/monsters/standard/Kyralice.md) | 9 ★★★★★★★★★ | 2700 / 0 | Warrior |
+| [Vyktica, Valkyrie of Darquess](../cards/monsters/standard/Vyktica.md) | 9 ★★★★★★★★★ | 2700 / 0 | Warrior |
 | [Raiza, Sorceress of Darquess](../cards/monsters/ritual/Raiza.md) | 13 ★★★★★★★★★★★★★ | 3000 / 0 | Ritual |
 | [Laiza, Enchantress of Darquess](../cards/monsters/ritual/Laiza.md) | 13 ★★★★★★★★★★★★★ | 3000 / 0 | Ritual |
 | [Vaiza, Empress of Darquess](../cards/monsters/ritual/Vaiza.md) | 13 ★★★★★★★★★★★★★ | 3000 / 0 | Ritual |
-| [Kes, Fallen of Darquess](../cards/monsters/standard/–.md) | 6 ★★★★★★ | 1500 / 0 | |
-| [Dyavin, Devoter of Darquess](../cards/monsters/standard/–.md) | 6 ★★★★★★ | 1500 / 0 | Tuner |
+| [Kes, Fallen of Darquess](../cards/monsters/standard/Kes.md) | 6 ★★★★★★ | 1500 / 0 | |
+| [Dyavin, Devoter of Darquess](../cards/monsters/standard/Dyavin.md) | 6 ★★★★★★ | 1500 / 0 | Tuner |
 
 </details>
 
@@ -42,12 +42,12 @@ An archetype of DARK and primarily Spellcaster Monsters, harnessing Ritual and F
 
 | card | Level | ATK/DEF | Type | Material |
 | :--- | :---- | :------ | :--- | :------- |
-| [Elaiza, Arisen of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Raiza, Sorceress of Darquess* + *Laiza, Enchantress of Darquess* |
-| [Levaiza, Ascended of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Laiza, Enchantress of Darquess* + *Vaiza, Empress of Darquess* |
-| [Vraiza, Awakened of Darquess](../cards/monsters/fusion/–.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Vaiza, Empress of Darquess* + *Raiza, Sorceress of Darquess* |
+| [Elaiza, Arisen of Darquess](../cards/monsters/fusion/Elaiza.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Raiza, Sorceress of Darquess* + *Laiza, Enchantress of Darquess* |
+| [Levaiza, Ascended of Darquess](../cards/monsters/fusion/Levaiza.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Laiza, Enchantress of Darquess* + *Vaiza, Empress of Darquess* |
+| [Vraiza, Awakened of Darquess](../cards/monsters/fusion/Vraiza.md) | 13 ★★★★★★★★★★★★★ | 3300 / 0 | Fusion | *Vaiza, Empress of Darquess* + *Raiza, Sorceress of Darquess* |
 | [Primordial Darquessence, Oblivion of Darquess](../cards/monsters/fusion/Primordial%20Darquessence.md) | 13 ★★★★★★★★★★★★★ | ? / 0 | Divine-Beast Fusion | 3 Level 13 ‘Darquess’ Monsters with different names |
-| [Lynuca, Silencer of Darquess](../cards/monsters/fusion/–.md) | 11 ★★★★★★★★★★★ | 2700 / 0 | Warrior Fusion | 2 Level 9+ DARK Monsters |
-| [Dyvarice, Corruptor of Darquess](../cards/monsters/fusion/–.md) | 9 ★★★★★★★★★ | 2700 / 0 | Fusion | 2 DARK Monsters with different types (Ritual/Fusion/Synchro/Xyz/Link) |
+| [Lynuca, Silencer of Darquess](../cards/monsters/fusion/Lynuca.md) | 11 ★★★★★★★★★★★ | 2700 / 0 | Warrior Fusion | 2 Level 9+ DARK Monsters |
+| [Dyvarice, Corruptor of Darquess](../cards/monsters/fusion/Dyvarice.md) | 9 ★★★★★★★★★ | 2700 / 0 | Fusion | 2 DARK Monsters with different types (Ritual/Fusion/Synchro/Xyz/Link) |
 
 </details>
 
@@ -58,13 +58,13 @@ An archetype of DARK and primarily Spellcaster Monsters, harnessing Ritual and F
 
 | card | Type |
 | :--- | :--- |
-| [Allure of Darquess](../cards/spells/–/–.md) | |
-| [Covin of Darquess](../cards/spells/–/–.md) | ∞ Continuous |
-| [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md) | ◈ Ritual |
-| [Prophecy of Darquess](../cards/spells/–/–.md) | |
-| [Realm of Darquess](../cards/spells/field/Realm%20of%20Darquess.md) | ✦ Field |
-| [Rites of Darquess](../cards/spells/–/–.md) | |
-| [Temptation of Darquess](../cards/spells/–/–.md) | |
+| [Allure of Darquess](../cards/spells/Allure%20of%20Darquess.md) | |
+| [Covin of Darquess](../cards/spells/Covin%20of%20Darquess.md) | ∞ Continuous |
+| [Darquess Rising](../cards/spells/Darquess%20Rising.md) | ◈ Ritual |
+| [Prophecy of Darquess](../cards/spells/Prophecy%20of%20Darquess.md) | |
+| [Realm of Darquess](../cards/spells/Realm%20of%20Darquess.md) | ✦ Field |
+| [Rites of Darquess](../cards/spells/Rites%20of%20Darquess.md) | |
+| [Temptation of Darquess](../cards/spells/Temptation%20of%20Darquess.md) | |
 
 </details>
 
@@ -75,16 +75,16 @@ An archetype of DARK and primarily Spellcaster Monsters, harnessing Ritual and F
 
 | card | Type |
 | :--- | :--- |
-| [Awakening of Darquess](../cards/traps/–/–.md) | |
-| [Corruption of Darquess](../cards/traps/–/–.md) | |
-| [Darquess Falling](../cards/traps/–/–.md) | ↵ Counter |
-| [Magnificence of Darquess](../cards/traps/–/–.md) | ∞ Continuous |
-| [Nightmare of Darquess](../cards/traps/–/–.md) | ∞ Continuous |
-| [Perfection of Darquess](../cards/traps/–/–.md) | ∞ Continuous |
-| [Revenge of Darquess](../cards/traps/–/–.md) | ↵ Counter |
-| [Runes of Darquess](../cards/traps/–/–.md) | |
-| [Seduction of Darquess](../cards/traps/–/–.md) | |
-| [Soul of Darquess](../cards/traps/–/–.md) | ↵ Counter |
+| [Awakening of Darquess](../cards/traps/Awakening%20of%20Darquess.md) | |
+| [Corruption of Darquess](../cards/traps/Corruption%20of%20Darquess.md) | |
+| [Darquess Falling](../cards/traps/Darquess%20Falling.md) | ↵ Counter |
+| [Magnificence of Darquess](../cards/traps/Magnificence%20of%20Darquess.md) | ∞ Continuous |
+| [Nightmare of Darquess](../cards/traps/Nightmare%20of%20Darquess.md) | ∞ Continuous |
+| [Perfection of Darquess](../cards/traps/Perfection%20of%20Darquess.md) | ∞ Continuous |
+| [Revenge of Darquess](../cards/traps/Revenge%20of%20Darquess.md) | ↵ Counter |
+| [Runes of Darquess](../cards/traps/Runes%20of%20Darquess.md) | |
+| [Seduction of Darquess](../cards/traps/Seduction%20of%20Darquess.md) | |
+| [Soul of Darquess](../cards/traps/Soul%20of%20Darquess.md) | ↵ Counter |
 
 </details>
 
