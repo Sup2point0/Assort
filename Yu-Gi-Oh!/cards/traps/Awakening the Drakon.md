@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <th colspan="3"> <h3> Awakening the Drakon </h3> </th>
+    <th colspan="2"> <h3> Awakening the Drakon </h3> </th>
   </tr>
   <tr>
     <td> type </td>
