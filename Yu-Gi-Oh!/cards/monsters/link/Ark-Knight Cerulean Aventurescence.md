@@ -48,11 +48,11 @@
 
 | aspect | type | name | notes |
 | :----- | :--- | :--- | :---- |
-| Must be Link Summoned, using Materials with different types (Ritual/Fusion/Synchro/Xyz/Link). | Summon condition | | Easier to specify here than try to fit it all into the single line above. |
+| Must be Link Summoned, using materials with different types (Ritual/Fusion/Synchro/Xyz/Link). | Summon condition | | Easier to specify here than try to fit it all into the single line above. |
 | This card’s Link Summon cannot be negated. | condition | | Aw yeah, innate Summon protection. |
 | Cannot be targeted by your opponent’s card effects. | continuous | | |
-| Gains 500 ATK for each of your banished ‘k-Knight’ Monsters. | continuous | | |
-| When this card is Link Summoned: Shuffle all cards from your opponent’s field and GY into the Deck. | mandatory trigger | | Super powerful, if it resolves successfully. |
+| Gains 500 ATK for each of your banished ‘k-Knight’ monsters. | continuous | | |
+| When this card is Link Summoned: Shuffle all cards from your opponent’s field and Graveyard into the Deck. | mandatory trigger | | Super powerful, if it resolves successfully. |
 | You can only control 1 ‘Ark-Knight Cerulean Aventurescence’. | control condition | | |
 
 
@@ -62,3 +62,4 @@
 ## Trivia
 
 - This Monster is inpired by [Mekk-Knight Crusadia Avramax](https://yugipedia.com/wiki/Mekk-Knight_Crusadia_Avramax).
+  - Its type (Link), Attribute, ATK, Link Rating and Link Arrows are all identical.
