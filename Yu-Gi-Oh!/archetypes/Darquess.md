@@ -482,7 +482,6 @@ title="During each Standby Phase, place 1 Choke Counter on this card, then your 
 </div>
 
 ### Extra Deck
-<div align="center">
 <img src="../../.assets/cards/fusion/Elaiza.png" height="169px"
 title="‘Raiza, Sorceress of Darquess’ + ‘Laiza, Enchantress of Darquess’
 Must be Fusion Summoned by a ‘Darquess’ card. Neither player can Normal or Special Summon non-DARK monsters. If this card is targeted (Quick Effect): You can make 1 other DARK monster on the field become the target instead. You can only control 1 ‘Elaiza, Arisen of Darquess’.">
@@ -501,7 +500,6 @@ You can also Fusion Summon this card (from your Extra Deck) by banishing the abo
 <img src="../../.assets/cards/fusion/Primordial Darquessence.png" height="169px"
 title="3 Level 13 ‘Darquess’ monsters with different names
 Must be Fusion Summoned by a ‘Darquess’ card, using the above materials that you have first Ritual or Fusion Summoned. Unaffected by other card’s effects. Cannot be targeted by card effects. Negate the effects of monsters whose original Attribute is not DARK. Gains 100 ATK for each banished card. Once per End Phase: Banish all other monsters on the field. You can only Summon ‘Primordial Darquessence, Oblivion of Darquess’ once per Duel.">
-</div>
 
 </details>
 
