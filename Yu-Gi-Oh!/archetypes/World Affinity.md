@@ -87,7 +87,44 @@ View the deck on [DuelingBook](https://duelingbook.com/deck?id=12012335)!
   <summary> <b> display </b> </summary>
 
 ### Main Deck
-<div align="center">
+<img src="../../.assets/cards/monsters/Aqua Vision.png" height="169px"
+title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can send 1 ‘Tekk-Knight’ card from your Deck to the GY. ❷ [HOPT] If this card is sent to the GY: You can add 1 other ‘k-Knight’ Monster from your GY to your hand.">
+<img src="../../.assets/cards/monsters/Aqua Vision.png" height="169px"
+title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can send 1 ‘Tekk-Knight’ card from your Deck to the GY. ❷ [HOPT] If this card is sent to the GY: You can add 1 other ‘k-Knight’ Monster from your GY to your hand.">
+<img src="../../.assets/cards/monsters/Aqua Vision.png" height="169px"
+title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can send 1 ‘Tekk-Knight’ card from your Deck to the GY. ❷ [HOPT] If this card is sent to the GY: You can add 1 other ‘k-Knight’ Monster from your GY to your hand.">
+<img src="../../.assets/cards/monsters/Citrine Dream.png" height="169px"
+title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can send 1 ‘World Affinity’ card from your Deck to the GY. ❷ [HOPT] If this card is sent to the GY: You can add 1 ‘k-Knight’ Monster from your Deck to your hand.">
+<img src="../../.assets/cards/monsters/Citrine Dream.png" height="169px"
+title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can send 1 ‘World Affinity’ card from your Deck to the GY. ❷ [HOPT] If this card is sent to the GY: You can add 1 ‘k-Knight’ Monster from your Deck to your hand.">
+<img src="../../.assets/cards/monsters/Citrine Dream.png" height="169px"
+title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can send 1 ‘World Affinity’ card from your Deck to the GY. ❷ [HOPT] If this card is sent to the GY: You can add 1 ‘k-Knight’ Monster from your Deck to your hand.">
+<img src="../../.assets/cards/monsters/Scarlet Fury.png" height="169px"
+title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can destroy 1 Monster in this card’s column. ❷ [HOPT] If this card is sent to the GY: You can add 1 of your banished ‘k-Knight’ Monsters to your hand.">
+<img src="../../.assets/cards/monsters/Scarlet Fury.png" height="169px"
+title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can destroy 1 Monster in this card’s column. ❷ [HOPT] If this card is sent to the GY: You can add 1 of your banished ‘k-Knight’ Monsters to your hand.">
+<img src="../../.assets/cards/monsters/Scarlet Fury.png" height="169px"
+title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can destroy 1 Monster in this card’s column. ❷ [HOPT] If this card is sent to the GY: You can add 1 of your banished ‘k-Knight’ Monsters to your hand.">
+<img src="../../.assets/cards/monsters/Violet Sorrow.png" height="169px"
+title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can destroy 1 S/T in this card’s column. ❷ [HOPT] If this card is sent to the GY: You can add 1 ‘k-Knight’ Monster from your Deck to your hand.">
+<img src="../../.assets/cards/monsters/Violet Sorrow.png" height="169px"
+title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can destroy 1 S/T in this card’s column. ❷ [HOPT] If this card is sent to the GY: You can add 1 ‘k-Knight’ Monster from your Deck to your hand.">
+<img src="../../.assets/cards/monsters/Violet Sorrow.png" height="169px"
+title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can destroy 1 S/T in this card’s column. ❷ [HOPT] If this card is sent to the GY: You can add 1 ‘k-Knight’ Monster from your Deck to your hand.">
+<img src="../../.assets/cards/monsters/Teal Avidity.png" height="169px"
+title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can SS 1 Lv4 ‘Tekk-Knight’ Monster from your hand or GY. ❷ [HOPT] If this card is sent to the GY: You can add 1 other ‘k-Knight’ Monster from your GY to your hand.">
+<img src="../../.assets/cards/monsters/Teal Avidity.png" height="169px"
+title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can SS 1 Lv4 ‘Tekk-Knight’ Monster from your hand or GY. ❷ [HOPT] If this card is sent to the GY: You can add 1 other ‘k-Knight’ Monster from your GY to your hand.">
+<img src="../../.assets/cards/monsters/Teal Avidity.png" height="169px"
+title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can SS 1 Lv4 ‘Tekk-Knight’ Monster from your hand or GY. ❷ [HOPT] If this card is sent to the GY: You can add 1 other ‘k-Knight’ Monster from your GY to your hand.">
+<img src="../../.assets/cards/monsters/Neon Hope.png" height="169px"
+title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can move 1 card on the field to another appropriate Zone on its controller’s field. ❷ [HOPT] If this card is sent to the GY: You can add 1 ‘k-Knight’ Monster from your Deck to your hand.">
+<img src="../../.assets/cards/monsters/Neon Hope.png" height="169px"
+title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can move 1 card on the field to another appropriate Zone on its controller’s field. ❷ [HOPT] If this card is sent to the GY: You can add 1 ‘k-Knight’ Monster from your Deck to your hand.">
+<img src="../../.assets/cards/monsters/Neon Hope.png" height="169px"
+title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can move 1 card on the field to another appropriate Zone on its controller’s field. ❷ [HOPT] If this card is sent to the GY: You can add 1 ‘k-Knight’ Monster from your Deck to your hand.">
+<img src="../../.assets/cards/ritual/Ultramarine Wonder.png" height="169px"
+title="Can be Ritual Summoned with any ‘World Affinity’ card. ❶ [OPT] If this card or another ‘k-Knight’ Monster is SSd to your field: You can shuffle 1 card on the field into the Deck. ❷ [HOPT] If this card is banished, or leaves the field by an opponent’s card: You can add 1 ‘World Affinity’ card from your Deck or Banished Pile to your hand.">
 <img src="../../.assets/cards/ritual/Tyrian Pendragon.png" height="169px"
 title="❶ You cannot activate S/Ts, except ‘World Affinity’ cards. ❷ Your opponent cannot target cards you control with card effects.
 ––––––––––––––––––––
@@ -142,7 +179,6 @@ title="❶ [HOPT] When your opponent activates a card or effect: Banish 1 ‘Hi-
 title="❶ If more than 5 Monsters are on the field: Banish all Monsters on the field, also after that, your opponent SSs 1 Monster from their Deck or XD, ignoring its Summoning conditions, then you SS 1 ‘k-Knight’ Monster with the same type (Normal/Effect/Ritual/Fusion/Synchro/Xyz/Link) from your Deck or XD, ignoring its Summoning conditions. For the rest of the turn after this effect resolves, neither player can attack with or activate the effects of Monsters they control, except the Monsters SSd by this effect. You can only activate ‘World Affinity Showdown’ once per Duel.">
 <img src="../../.assets/cards/traps/World Affinity Reminiscence.png" height="169px"
 title="❶ Ritual Summon 1 ‘World Affinity Tyrian Pendragon’ from your hand, XD, GY or Pendulum Zone, by banishing 1 ‘Ark-Knight Cerulean Aventurescence’ from your XD or GY, or if your opponent controls a SSd Monster, you can send it from your XD to the GY instead. ❷ [HOPT] You can banish 1 other ‘World Affinity’ card from your GY; Set this card from your GY.">
-</div>
 
 </details>
 
@@ -166,4 +202,4 @@ Many of the cards are a parody of existing [*World Legacy*](https://yugipedia.co
 | [Tears](#Spells) | [Scars](https://yugipedia.com/wiki/World_Legacy_Scars) |
 | [Tragedy](#Traps) | [Sorrow](https://yugipedia.com/wiki/World_Legacy's_Sorrow) |
 
-- [Tyrian Endragon](#Monsters)’s name follows the same structure of the [k-Knight](k-Knight.md) Monsters.
+- [Tyrian Endragon](#Monsters)’s name follows the same structure of the [*k-Knight*](k-Knight.md) Monsters.
