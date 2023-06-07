@@ -54,58 +54,41 @@ View the deck on [DuelingBook](https://duelingbook.com/deck?id=12012335)!
 
 ### Main Deck
 <img src="../../.assets/cards/monsters/Aqua Vision.png" height="169px"
-title="
-">
+title="">
 <img src="../../.assets/cards/monsters/Citrine Dream.png" height="169px"
-title="
-">
+title="">
 <img src="../../.assets/cards/monsters/Scarlet Fury.png" height="169px"
-title="
-">
+title="">
 <img src="../../.assets/cards/monsters/Violet Sorrow.png" height="169px"
-title="
-">
+title="">
 <img src="../../.assets/cards/monsters/Teal Avidity.png" height="169px"
-title="
-">
+title="">
 <img src="../../.assets/cards/monsters/Neon Hope.png" height="169px"
-title="
-">
+title="">
 
 ### Extra Deck
 <img src="../../.assets/cards/link/Azure Iris.png" height="169px"
-title="
-">
+title="">
 <img src="../../.assets/cards/fusion/Radiant Spectre.png" height="169px"
-title="
-">
+title="">
 <img src="../../.assets/cards/synchro/Lucent Edge.png" height="169px"
-title="
-">
+title="">
 <img src="../../.assets/cards/xyz/Shining Dawn.png" height="169px"
-title="
-">
+title="">
 <img src="../../.assets/cards/link/Crystalline Lustre.png" height="169px"
-title="
-">
+title="">
 <img src="../../.assets/cards/fusion/Divine Iridescence.png" height="169px"
-title="
-">
+title="">
 <img src="../../.assets/cards/synchro/Cerise Evanescence.png" height="169px"
-title="
-">
+title="">
 <img src="../../.assets/cards/xyz/Saffron Resplendence.png" height="169px"
-title="
-">
+title="">
 <img src="../../.assets/cards/link/Radical Trinity.png" height="169px"
-title="
-">
+title="">
 <img src="../../.assets/cards/link/Cerulean Aventurescence.png" height="169px"
-title="
-">
+title="">
 <img src="../../.assets/cards/xyz/Onyx Arisen.png" height="169px"
-title="
-">
+title="">
 
 </details>
 
