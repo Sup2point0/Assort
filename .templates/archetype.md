@@ -16,6 +16,8 @@ An archetype of – Monsters, revolving around – Summoning, inspired by the [*
 | Synchro  | x |
 | Xyz      | x |
 | Link     | x |
+| Spell    | x |
+| Trap     | x |
 
 ### Monsters
 
@@ -42,9 +44,9 @@ An archetype of – Monsters, revolving around – Summoning, inspired by the [*
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| card | type |
-| :--- | :--- |
-| [–](../cards/spells/–/–.md) | – |
+| card | property |
+| :--- | :------- |
+| [–](../cards/spells/–.md) | – |
 
 </details>
 
@@ -53,9 +55,9 @@ An archetype of – Monsters, revolving around – Summoning, inspired by the [*
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| card | type |
-| :--- | :--- |
-| [–](../cards/traps/–/–.md) | – |
+| card | property |
+| :--- | :------- |
+| [–](../cards/traps/–.md) | – |
 
 </details>
 
@@ -66,6 +68,29 @@ An archetype of – Monsters, revolving around – Summoning, inspired by the [*
 ## Strategics
 
 {...}
+
+
+<br>
+
+
+## Deck
+
+> Last updated: {...}
+
+View the deck on [DuelingBook](...)!
+- Tip: hover over a card to view its card text.
+- Note: the number of copies are not exact – they only indicate a card’s place within the archetype.
+
+<details open>
+  <summary> <b> display </b> </summary>
+
+### Main Deck
+{...}
+
+### Extra Deck
+{...}
+
+</details>
 
 
 <br>
