@@ -89,6 +89,8 @@ title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [
 title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can move 1 card on the field to another appropriate Zone on its controller’s field. ❷ [HOPT] If this card is sent to the GY: You can add 1 ‘k-Knight’ Monster from your Deck to your hand.">
 <img src="../../.assets/cards/monsters/Neon Hope.png" height="169px"
 title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can move 1 card on the field to another appropriate Zone on its controller’s field. ❷ [HOPT] If this card is sent to the GY: You can add 1 ‘k-Knight’ Monster from your Deck to your hand.">
+<img src="../../.assets/cards/monsters/Ultramarine Wonder.png" height="169px"
+title="">
 
 ### Extra Deck
 <img src="../../.assets/cards/link/Azure Iris.png" height="169px"
