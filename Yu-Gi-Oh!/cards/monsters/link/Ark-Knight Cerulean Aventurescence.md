@@ -8,7 +8,7 @@
     <th colspan="3"> <h3> Ark-Knight Cerulean Aventurescence </h3> </th>
   </tr>
   <tr>
-    <td rowspan="8"> <img src="../../../../.assets/cards/link/Ark-Knight Cerulean Aventurescence.png" width="320px"> </td>
+    <td rowspan="8"> <img src="../../../../.assets/cards/link/Cerulean Aventurescence.png" width="320px"> </td>
   </tr>
   <tr>
     <td> type </td>
