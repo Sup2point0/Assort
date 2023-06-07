@@ -8,7 +8,7 @@
     <th colspan="3"> <h3> Dark-Knight Onyx Arisen </h3> </th>
   </tr>
   <tr>
-    <td rowspan="7"> <img src="../../../../.assets/cards/xyz/Dark-Knight Onyx Arisen.png" width="320px"> </td>
+    <td rowspan="7"> <img src="../../../../.assets/cards/xyz/Onyx Arisen.png" width="320px"> </td>
   </tr>
   <tr>
     <td> type </td>
