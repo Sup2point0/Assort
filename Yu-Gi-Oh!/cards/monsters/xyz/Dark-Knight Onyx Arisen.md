@@ -44,7 +44,7 @@
 
 | aspect | type | name | notes |
 | :----- | :--- | :--- | :---- |
-| Must be Special Summoned (from your Extra Deck) to the Extra Monster Zone by the effect of a ‘World Affinity’ card. | Summon condition | | The only cards that can do this are [World Affinity Tyrian Pendragon](../../../archetypes/World%20Affinity.md) [World Affinity Vengeance](../../../archetypes/World%20Affinity.md)
+| Must be Special Summoned (from your Extra Deck) to the Extra Monster Zone by the effect of a ‘World Affinity’ card. | Summon condition | | The only cards that can do this are [World Affinity Tyrian Pendragon](../../../archetypes/World%20Affinity.md) and [World Affinity Vengeance](../../../archetypes/World%20Affinity.md). |
 | When this card is Special Summoned: Attach as many of your banished ‘k-Knight’ monsters as possible to this card as material. | mandatory trigger | | |
 | While this card has material, it is unaffected by your opponent’s card effects, also it gains ATK equal to half the total ATK of its attached materials. | continuous | | |
 | You can detach 1 material; banish 1 card your opponent controls face-down. | ignition, once per turn | | |
@@ -58,3 +58,4 @@
 
 - This card is an upgraded counterpart to [Ark-Knight Cerulean Aventurescence](../link/Ark-Knight%20Cerulean%20Aventurescence.md).
 - It is the only [*Dark-Knight*](../../../archetypes/Ark-Knight.md) Monster.
+  - It is also the only DARK [*k-Knight*](../../../archetypes/k-Knight.md) Extra Deck Monster.
