@@ -1,6 +1,6 @@
 # k-Knight
 
-A superarchetype of Celestial Warrior Monsters of every Attribute, harnessing every Summon tecnique (except Pendulum), inspired by the [*Mekk-Knight*](https://yugipedia.com/wiki/Mekk-Knight) archetype. It is supported by the [*World Affinity*](World%20Affinity.md) archetype, which is also inspired by the [*World Affinity*](https://yugipedia.com/wiki/World_Legacy) archetype.
+A superarchetype of Celestial Warrior Monsters of every Attribute, harnessing every Summon technique (except Pendulum), inspired by the [*Mekk-Knight*](https://yugipedia.com/wiki/Mekk-Knight) archetype. It is supported by the [*World Affinity*](World%20Affinity.md) archetype, which is also inspired by the [*World Legacy*](https://yugipedia.com/wiki/World_Legacy) archetype.
 
 
 <br>
@@ -11,9 +11,9 @@ A superarchetype of Celestial Warrior Monsters of every Attribute, harnessing ev
 | archetype | notes |
 | :-------- | :---- |
 | [Tekk-Knight](Tekk-Knight.md) | Lv4 Main Deck Monsters |
-| [Hi-Tekk-Knight](Tekk-Knight.md) | Monsters of each Summon tecnique |
+| [Hi-Tekk-Knight](Tekk-Knight.md) | Monsters of each Summon technique |
 | [Dekk-Knight](Dekk-Knight.md) | upgraded Hi-Tekk-Knights |
-| [Ark-Knight](Ark-Knight.md) | ultimate uniten finishers |
+| [Ark-Knight](Ark-Knight.md) | ultimate united finishers |
 | [Dark-Knight](Ark-Knight.md) | upgraded Ark-Knight |
 
 
