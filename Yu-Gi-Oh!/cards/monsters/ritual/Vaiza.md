@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td> archetype </td>
-    <td> <a href="../../archetypes/Darquess.md">Darquess</a> </td>
+    <td> <a href="../../../archetypes/Darquess.md">Darquess</a> </td>
   </tr>
   <tr>
     <td> Types </td>
