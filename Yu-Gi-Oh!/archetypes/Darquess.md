@@ -56,8 +56,8 @@ An archetype of DARK and primarily Spellcaster Monsters, harnessing Ritual and F
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| card | Type |
-| :--- | :--- |
+| card | property |
+| :--- | :------- |
 | [Allure of Darquess](../cards/spells/Allure%20of%20Darquess.md) | |
 | [Covin of Darquess](../cards/spells/Covin%20of%20Darquess.md) | ∞ Continuous |
 | [Darquess Rising](../cards/spells/Darquess%20Rising.md) | ◈ Ritual |
@@ -73,8 +73,8 @@ An archetype of DARK and primarily Spellcaster Monsters, harnessing Ritual and F
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| card | Type |
-| :--- | :--- |
+| card | property |
+| :--- | :------- |
 | [Awakening of Darquess](../cards/traps/Awakening%20of%20Darquess.md) | |
 | [Corruption of Darquess](../cards/traps/Corruption%20of%20Darquess.md) | |
 | [Darquess Falling](../cards/traps/Darquess%20Falling.md) | ↵ Counter |
