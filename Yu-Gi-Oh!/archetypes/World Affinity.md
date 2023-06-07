@@ -11,6 +11,8 @@ An archetype of Spells and Traps, supporting the [*Tekk-Knight*](Tekk-Knight.md)
 | type | count |
 | :--- | :---- |
 | Ritual | x1 |
+| Spell  | x9 |
+| Trap   | x11 |
 
 ### Monsters
 
@@ -30,16 +32,15 @@ An archetype of Spells and Traps, supporting the [*Tekk-Knight*](Tekk-Knight.md)
 
 | card | Type |
 | :--- | :--- |
-| [World Affinity Ascension](../cards/spells/–/World%20Affinity%20–.md) | ⚡︎ Quick |
-| [World Affinity Destiny](../cards/spells/–/World%20Affinity%20–.md) | |
-| [World Affinity Discovery](../cards/spells/–/World%20Affinity%20–.md) | |
-| [World Affinity Excursion](../cards/spells/–/World%20Affinity%20–.md) | ∞ Continuous |
-| [World Affinity Legacy](../cards/spells/–/World%20Affinity%20–.md) | ✦ Field |
-| [World Affinity Miracle](../cards/spells/–/World%20Affinity%20–.md) | ⚡︎ Quick |
-| [World Affinity Tears](../cards/spells/–/World%20Affinity%20–.md) | ⚡︎ Quick |
-| [World Affinity Wishes](../cards/spells/–/World%20Affinity%20–.md) | |
-| [World Affinity Wonder](../cards/spells/–/World%20Affinity%20–.md) | ⟡ Ritual |
-| [World Affinity –](../cards/spells/–/World%20Affinity%20–.md) | – |
+| [World Affinity Ascension](../cards/spells/World%20Affinity%20Ascension.md) | ⚡︎ Quick |
+| [World Affinity Destiny](../cards/spells/World%20Affinity%20Destiny.md) | |
+| [World Affinity Discovery](../cards/spells/World%20Affinity%20Discovery.md) | |
+| [World Affinity Excursion](../cards/spells/World%20Affinity%20Excursion.md) | ∞ Continuous |
+| [World Affinity Legacy](../cards/spells/World%20Affinity%20Legacy.md) | ✦ Field |
+| [World Affinity Miracle](../cards/spells/World%20Affinity%20Miracle.md) | ⚡︎ Quick |
+| [World Affinity Tears](../cards/spells/World%20Affinity%20Tears.md) | ⚡︎ Quick |
+| [World Affinity Wishes](../cards/spells/World%20Affinity%20Wishes.md) | |
+| [World Affinity Wonder](../cards/spells/World%20Affinity%20Wonder.md) | ⟡ Ritual |
 
 </details>
 
@@ -50,18 +51,17 @@ An archetype of Spells and Traps, supporting the [*Tekk-Knight*](Tekk-Knight.md)
 
 | card | Type |
 | :--- | :--- |
-| [World Affinity Adversity](../cards/traps/–/World%20Affinity%20–.md) | |
-| [World Affinity Clash](../cards/traps/–/World%20Affinity%20–.md) | |
-| [World Affinity Descension](../cards/traps/–/World%20Affinity%20–.md) | |
-| [World Affinity Desperation](../cards/traps/–/World%20Affinity%20–.md) | |
-| [World Affinity Finality](../cards/traps/–/World%20Affinity%20–.md) | ↵ Counter |
-| [World Affinity Rivals](../cards/traps/–/World%20Affinity%20–.md) | ∞ Continuous |
-| [World Affinity Reminiscence](../cards/traps/–/World%20Affinity%20–.md) | ↵ Counter |
-| [World Affinity Showdown](../cards/traps/–/World%20Affinity%20–.md) | ↵ Counter |
-| [World Affinity Tragedy](../cards/traps/–/World%20Affinity%20–.md) | |
-| [World Affinity Trepidation](../cards/traps/–/World%20Affinity%20–.md) | ↵ Counter |
-| [World Affinity Vengeance](../cards/traps/–/World%20Affinity%20–.md) | |
-| [World Affinity –](../cards/traps/–/World%20Affinity%20–.md) | – |
+| [World Affinity Adversity](../cards/traps/World%20Affinity%20Adversity.md) | |
+| [World Affinity Clash](../cards/traps/World%20Affinity%20Clash.md) | |
+| [World Affinity Descension](../cards/traps/World%20Affinity%20Descension.md) | |
+| [World Affinity Desperation](../cards/traps/World%20Affinity%20Desperation.md) | |
+| [World Affinity Finality](../cards/traps/World%20Affinity%20Finality.md) | ↵ Counter |
+| [World Affinity Rivals](../cards/traps/World%20Affinity%20Rivals.md) | ∞ Continuous |
+| [World Affinity Reminiscence](../cards/traps/World%20Affinity%20Reminiscence.md) | ↵ Counter |
+| [World Affinity Showdown](../cards/traps/World%20Affinity%20Showdown.md) | ↵ Counter |
+| [World Affinity Tragedy](../cards/traps/World%20Affinity%20Tragedy.md) | |
+| [World Affinity Trepidation](../cards/traps/World%20Affinity%20Trepidation.md) | ↵ Counter |
+| [World Affinity Vengeance](../cards/traps/World%20Affinity%20Vengeance.md) | |
 
 </details>
 
@@ -71,7 +71,7 @@ An archetype of Spells and Traps, supporting the [*Tekk-Knight*](Tekk-Knight.md)
 
 ## Strategics
 
-{...}
+See [k-Knight](k-Knight.md).
 
 
 <br>
