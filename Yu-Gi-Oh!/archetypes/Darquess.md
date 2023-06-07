@@ -345,6 +345,7 @@ View the deck on [DuelingBook](https://duelingbook.com/deck?id=12053993)!
   <summary> <b> display </b> </summary>
 
 ### Main Deck
+<div align="center">
 <img src="../../.assets/cards/monsters/Kes.png" height="169px"
 title="If a ‘Darquess’ card leaves your field by an opponent’s card: You can banish this card from your hand or Graveyard, then send 1 ‘Darquess’ monster from your Extra Deck to the Graveyard; Set 1 ’Soul of Darquess’ or ‘Darquess Falling’ from your Deck or Banished Pile, and if you do, take 700 damage. If you currently control no face-up monsters, it can be activated this turn. You can only use this effect of ‘Kes, Fallen of Darquess’ once per turn.">
 <img src="../../.assets/cards/monsters/Dyavin.png" height="169px"
@@ -478,8 +479,10 @@ title="If you started the Duel with fewer cards in your Extra Deck than your opp
 title="Activate 1 Field Spell from your Deck or Graveyard. If you control no face-up cards, you can activate this card the turn it was Set by paying half your LP.">
 <img src="../../.assets/cards/traps/Darkchoke.png" height="169px"
 title="During each Standby Phase, place 1 Choke Counter on this card, then your opponent takes damage equal to the number of Choke Counters on this card x 200. If this card’s effects would be negated, remove all Choke Counters from it instead. This face-up card with a Choke Counter cannot leave the field by card effect, unless it is banished.">
+</div>
 
 ### Extra Deck
+<div align="center">
 <img src="../../.assets/cards/fusion/Elaiza.png" height="169px"
 title="‘Raiza, Sorceress of Darquess’ + ‘Laiza, Enchantress of Darquess’
 Must be Fusion Summoned by a ‘Darquess’ card. Neither player can Normal or Special Summon non-DARK monsters. If this card is targeted (Quick Effect): You can make 1 other DARK monster on the field become the target instead. You can only control 1 ‘Elaiza, Arisen of Darquess’.">
@@ -498,6 +501,7 @@ You can also Fusion Summon this card (from your Extra Deck) by banishing the abo
 <img src="../../.assets/cards/fusion/Primordial Darquessence.png" height="169px"
 title="3 Level 13 ‘Darquess’ monsters with different names
 Must be Fusion Summoned by a ‘Darquess’ card, using the above materials that you have first Ritual or Fusion Summoned. Unaffected by other card’s effects. Cannot be targeted by card effects. Negate the effects of monsters whose original Attribute is not DARK. Gains 100 ATK for each banished card. Once per End Phase: Banish all other monsters on the field. You can only Summon ‘Primordial Darquessence, Oblivion of Darquess’ once per Duel.">
+</div>
 
 </details>
 
