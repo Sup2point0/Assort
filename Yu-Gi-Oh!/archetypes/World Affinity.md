@@ -83,7 +83,7 @@ An archetype of Spells and Traps, supporting the [*Tekk-Knight*](Tekk-Knight.md)
 
 View the deck on [DuelingBook](https://duelingbook.com/deck?id=12012335)!
 
-<details hide>
+<details open>
   <summary> <b> display </b> </summary>
 
 ### Main Deck
