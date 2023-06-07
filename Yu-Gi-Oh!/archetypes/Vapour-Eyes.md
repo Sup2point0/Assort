@@ -1,6 +1,6 @@
 # Vapour-Eyes
 
-An archetype of LIGHT and DARK Dragon Monsters, revolving around Xyz Summoning high-Rank Xyz Monsters through Rank-Up Xyz [Evolucion](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/~.md 'evolution'), inspiren by the existing [*Galaxy-Eyes*](https://yugipedia.com/wiki/Galaxy-Eyes) archetype. It is closely [relyzen](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/dict.md#relyze 'related') to the [*Lightning*](Lightning.md) archetype.
+An archetype of LIGHT and DARK Dragon Monsters, revoLevel ing around Xyz Summoning high-Rank Xyz Monsters through Rank-Up Xyz Evolution, inspired by the existing [*Galaxy-Eyes*](https://yugipedia.com/wiki/Galaxy-Eyes) archetype. It is closely related to the [*Lightning*](Lightning.md) archetype.
 
 
 <br>
@@ -29,14 +29,14 @@ An archetype of LIGHT and DARK Dragon Monsters, revolving around Xyz Summoning h
 
 | card | Level | ATK/DEF | Type | Attribute | Material |
 | :--- | :---- | :------ | :--- | :-------- | :------- |
-| [Vapour-Eyes Lightning Dragon](../cards/monsters/xyz/Vapour-Eyes%20Lightning%20Dragon.md) | 9 ★★★★★★★★★ | 3000 / 2500 | Xyz | LIGHT | 2 Lv9 LIGHT Monsters |
-| [Neo Vapour-Eyes Lightning Dragon](../cards/monsters/xyz/Neo%20Vapour-Eyes%20Lightning%20Dragon.md) | 10 ★★★★★★★★★★ | 4000 / 3000 | Xyz | LIGHT | 2 Lv10 LIGHT Monsters |
-| [Ultimate Vapour-Eyes Lightning Dragon](../cards/monsters/xyz/Ultimate%20Vapour-Eyes%20Lightning%20Dragon.md) | 11 ★★★★★★★★★★★ | 4500 / 4000 | Xyz | LIGHT | 2 Lv11 LIGHT Monsters |
-| [Neo Ultimate Vapour-Eyes Lightning Dragon](../cards/monsters/xyz/Neo%20Ultimate%20Vapour-Eyes%20Lightning%20Dragon.md) | 12 ★★★★★★★★★★★★ | 5000 / – | Xyz | LIGHT | 2 Lv12 LIGHT Monsters |
-| [Vapour-Eyes Arc Lightning Dragon](../cards/monsters/xyz/Vapour-Eyes%20Arc%20Lightning%20Dragon.md) | 10 ★★★★★★★★★★ | 3000 / 3000 | Xyz | DARK | 3 Lv10 DARK Monsters |
-| [Neo Vapour-Eyes Arc Lightning Dragon](../cards/monsters/xyz/Neo%20Vapour-Eyes%20Arc%20Lightning%20Dragon.md) | 11 ★★★★★★★★★★★ | 3300 / 3000 | Xyz | DARK | 3 Lv11 DARK Monsters |
-| [Ultimate Vapour-Eyes Arc Lightning Dragon](../cards/monsters/xyz/Ultimate%20Vapour-Eyes%20Arc%20Lightning%20Dragon.md) | 12 ★★★★★★★★★★★★ | 3600 / – | Xyz | DARK | 3 Lv12 DARK Monsters |
-| [Neo Ultimate Vapour-Eyes Arc Lightning Dragon](../cards/monsters/xyz/Neo%20Ultimate%20Vapour-Eyes%20Arc%20Lightning%20Dragon.md) | 13 ★★★★★★★★★★★★★ | ? / – | Xyz | DARK | 3 Lv13 DARK Monsters |
+| [Vapour-Eyes Lightning Dragon](../cards/monsters/xyz/Vapour-Eyes%20Lightning%20Dragon.md) | 9 ★★★★★★★★★ | 3000 / 2500 | Xyz | LIGHT | 2 Level 9 LIGHT Monsters |
+| [Neo Vapour-Eyes Lightning Dragon](../cards/monsters/xyz/Neo%20Vapour-Eyes%20Lightning%20Dragon.md) | 10 ★★★★★★★★★★ | 4000 / 3000 | Xyz | LIGHT | 2 Level 10 LIGHT Monsters |
+| [Ultimate Vapour-Eyes Lightning Dragon](../cards/monsters/xyz/Ultimate%20Vapour-Eyes%20Lightning%20Dragon.md) | 11 ★★★★★★★★★★★ | 4500 / 4000 | Xyz | LIGHT | 2 Level 11 LIGHT Monsters |
+| [Neo Ultimate Vapour-Eyes Lightning Dragon](../cards/monsters/xyz/Neo%20Ultimate%20Vapour-Eyes%20Lightning%20Dragon.md) | 12 ★★★★★★★★★★★★ | 5000 / – | Xyz | LIGHT | 2 Level 12 LIGHT Monsters |
+| [Vapour-Eyes Arc Lightning Dragon](../cards/monsters/xyz/Vapour-Eyes%20Arc%20Lightning%20Dragon.md) | 10 ★★★★★★★★★★ | 3000 / 3000 | Xyz | DARK | 3 Level 10 DARK Monsters |
+| [Neo Vapour-Eyes Arc Lightning Dragon](../cards/monsters/xyz/Neo%20Vapour-Eyes%20Arc%20Lightning%20Dragon.md) | 11 ★★★★★★★★★★★ | 3300 / 3000 | Xyz | DARK | 3 Level 11 DARK Monsters |
+| [Ultimate Vapour-Eyes Arc Lightning Dragon](../cards/monsters/xyz/Ultimate%20Vapour-Eyes%20Arc%20Lightning%20Dragon.md) | 12 ★★★★★★★★★★★★ | 3600 / – | Xyz | DARK | 3 Level 12 DARK Monsters |
+| [Neo Ultimate Vapour-Eyes Arc Lightning Dragon](../cards/monsters/xyz/Neo%20Ultimate%20Vapour-Eyes%20Arc%20Lightning%20Dragon.md) | 13 ★★★★★★★★★★★★★ | ? / – | Xyz | DARK | 3 Level 13 DARK Monsters |
 | [Vapour-Eyes Absolute Dragon](../cards/monsters/synchro/Vapour-Eyes%20Absolute%20Dragon.md) | 9 ★★★★★★★★★ | 2700 / 2500 | Synchro | LIGHT | – |
 
 </details>
@@ -46,7 +46,7 @@ An archetype of LIGHT and DARK Dragon Monsters, revolving around Xyz Summoning h
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| card | Type |
+| card | property |
 | :--- | :--- |
 | [Vapourizing Lightning](../cards/traps/–/–.md) | ↵ Counter |
 
@@ -59,7 +59,7 @@ An archetype of LIGHT and DARK Dragon Monsters, revolving around Xyz Summoning h
 ## Overview
 
 ### Lightning
-The 4 ‘Vapour-Eyes Lightning Dragon’ LIGHT Xyz Monsters span Ranks 9~12, requiring 2 or more LIGHT Materials. They feature mass Monster wipeout Ignition Effects that can be activyzen during the player’s Main *or* Battle Phase.
+The 4 ‘Vapour-Eyes Lightning Dragon’ LIGHT Xyz Monsters span Ranks 9~12, requiring 2 or more LIGHT Materials. They feature mass Monster wipeout Ignition Effects that can be activated during the player’s Main *or* Battle Phase.
 
 > Once per turn, during your Main or Battle Phase: You can detach 1 Material; [...] all Monsters your opponent controls, also inflict [...] damage for each [...].
 
@@ -108,13 +108,13 @@ As they rank up, their effects becomes increasingly devastyzing.
 </table>
 
 ### Arc Lightning
-The 4 ‘Vapour-Eyes Arc Lightning Dragon’ Xyz Monsters are DARK counterparts, each 1 Rank higher and requiring 3 DARK Materials – which means the final ace is, indeed, Rank 13. Their effects are even more destructive, destroying Spell and Traps in [addicion](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/~.md 'addition') to Monsters, including the player’s own cards, while boosting their own ATK and preventing responses.
+The 4 ‘Vapour-Eyes Arc Lightning Dragon’ Xyz Monsters are DARK counterparts, each 1 Rank higher and requiring 3 DARK Materials – which means the final ace is, indeed, Rank 13. Their effects are even more destructive, destroying Spell and Traps in addition to Monsters, including the player’s own cards, while boosting their own ATK and preventing responses.
 
 > Once per turn, during your Main or Battle Phase: You can detach 1 Material, then [...]; Destroy all other [...] on the field, also this card gains [...] ATK for each destroyed until the end of this turn.
 
-However, keeping in anime spirit, these effects can only be activyzen and resolven while the player’s LP are lower than 4000. Unlike the LIGHT Xyz Monsters, the DARK Xyz Monsters *can* attack directly in the same turn, to deal critical damage with their charged ATK.
+However, keeping in anime spirit, these effects can only be activated and resoLevel en while the player’s LP are lower than 4000. Unlike the LIGHT Xyz Monsters, the DARK Xyz Monsters *can* attack directly in the same turn, to deal critical damage with their charged ATK.
 
-> You must have [...] or less LP to activate and resolve this effect.
+> You must have [...] or less LP to activate and resoLevel e this effect.
 
 <table>
   <tr>
@@ -162,19 +162,19 @@ However, keeping in anime spirit, these effects can only be activyzen and resolv
 </table>
 
 ### Level 9 Dragons
-The Lv9 Main Deck Monster [Vapour-Eyes Dragon](#Monsters) has a similar Summoning condicion to [Galaxy-Eyes Photon Dragon](...), although is difficult to reach without effective support from [Lightning](Lightning.md) Monsters. It has no impactful effects itself, but once in circulyzacion can repetitively cycle bodies on board, for extra Material or damage. It also grants protection to any LIGHT Xyz Monsters it is attached to.
+The Level 9 Main Deck Monster [Vapour-Eyes Dragon](#Monsters) has a similar Summoning condition to [Galaxy-Eyes Photon Dragon](...), although is difficult to reach without effective support from [Lightning](Lightning.md) Monsters. It has no impactful effects itself, but once in circulation can repetitively cycle bodies on board, for extra Material or damage. It also grants protection to any LIGHT Xyz Monsters it is attached to.
 
-The Lv9 Synchro Monster [Vapour-Eyes Absolute Dragon](#Monsters) provides a valuable support option, able to search much-needed Rank-Up-Magic Spells (even multiple in one turn), as well as a powerful protective effect to any *Vapour-Eyes* Xyz Monster it is attached to. A Lv0 [Lightning Orb](Lightning.md#Lightning-Orb) and any Lv9 Monster (such as Vapour-Eyes Dragon or a [Lightning Wing](Lightning.md#Lightning-Wing)) can easily Synchro Summon it.
+The Level 9 Synchro Monster [Vapour-Eyes Absolute Dragon](#Monsters) provides a valuable support option, able to search much-needed Rank-Up-Magic Spells (even multiple in one turn), as well as a powerful protective effect to any *Vapour-Eyes* Xyz Monster it is attached to. A Level 0 [Lightning Orb](Lightning.md#Lightning-Orb) and any Level 9 Monster (such as Vapour-Eyes Dragon or a [Lightning Wing](Lightning.md#Lightning-Wing)) can easily Synchro Summon it.
 
 ### Rank-Up
-Although not within the archetype, the [Rank-Up-Magic and Evolution](#Spells) Spells are core to its functionality, ranking up the Xyz Dragons into their stronger evolucions.
+Although not within the archetype, the [Rank-Up-Magic and Evolution](#Spells) Spells are core to its functionality, ranking up the Xyz Dragons into their stronger evolutions.
 
-There are 6 rankup cards, each proving useful in different situacions. The Rank-Up-Magics that rankup from the field can use any Xyz Monster on either player’s field, as long as you own it – this way, a stolen ace Monster can easily be recovered. Similarly, those that rankup from the Grave can use Xyz Monsters in either player’s Graveyard, although rarely does the opponent have sufficiently high-Rank Xyz Monsters for this to be effective.
+There are 6 rankup cards, each proving useful in different situations. The Rank-Up-Magics that rankup from the field can use any Xyz Monster on either player’s field, as long as you own it – this way, a stolen ace Monster can easily be recovered. Similarly, those that rankup from the Grave can use Xyz Monsters in either player’s Graveyard, although rarely does the opponent have sufficiently high-Rank Xyz Monsters for this to be effective.
 
-- [Lightning Rise](#Spells) is most generical and stellar option, with great versatility and recursability. However, while it can rankup into DARK Xyz Monsters, it cannot rank then those Monsters up further (since it requires a LIGHT Monster as a target).
+- [Lightning Rise](#Spells) is most generic and stellar option, with great versatility and recursability. However, while it can rankup into DARK Xyz Monsters, it cannot rank then those Monsters up further (since it requires a LIGHT Monster as a target).
 - [Vapour Rise](#Spells) ranks up from the Grave, attaches itself as extra Material, and can even further revive an Xyz Monster to kickstart a comeback.
-- [Lightning Ascension](#Spells) is excellent for OTKs, ranking up by 2 Ranks to access more powerful effects and higher ATK. It can even rankup into *any* LIGHT Xyz Monster, although there aren’t any great xenotive options right now. Losing the rankup at the end of the turn can be prevented by just ranking up the Monster again, ending with a +3 rankup in one turn.
-- [Lightning Arc Rise](#Spells) [facilityzes](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/~.md 'facilityze') the DARK Xyz Monster’s effects by lowering your LP, but is otherwise inferior to Vapour Rise. The critical difference lies in Lightning Arc Rise preventing responses, which can make all the difference in a comeback.
+- [Lightning Ascension](#Spells) is excellent for OTKs, ranking up by 2 Ranks to access more powerful effects and higher ATK. It can even rankup into *any* LIGHT Xyz Monster, although there aren’t any great non-archetypal options right now. Losing the rankup at the end of the turn can be prevented by just ranking up the Monster again, ending with a +3 rankup in one turn.
+- [Lightning Arc Rise](#Spells) facilitate the DARK Xyz Monster’s effects by lowering your LP, but is otherwise inferior to Vapour Rise. The critical difference lies in Lightning Arc Rise preventing responses, which can make all the difference in a comeback.
 - [Neo Evolution](#Spells) has a Monster to rankup into for any Rank, but can be difficult to use properly. It does provide nifty targeting immunity to the ranken up Monster, but this importantly prevents further rankups (since Rank-Up cards always target).
 - [Ultimate Evolution](#Spells) is the most powerful rankup card, totally preventing responses and having flexible rankup options. As such, it also has the harshest restrictions – requiring you to only control 1 Xyz Monster, and locking other Summons from the Extra Deck for the rest of the turn.
 
@@ -207,7 +207,7 @@ There are 6 rankup cards, each proving useful in different situacions. The Rank-
     <td> your only Xyz </td>
   </tr>
   <tr>
-    <th> evolucion </th>
+    <th> evolution </th>
     <td> <em>Lightning</em> Xyz </td>
     <td> <em>Vapour-Eyes</em> Xyz </td>
     <td> LIGHT Xyz </td>
@@ -236,7 +236,7 @@ There are 6 rankup cards, each proving useful in different situacions. The Rank-
 </table>
 
 ### Counter Trap
-Again, the Counter Trap is not strictly part of the archetype, but very closely relyzen. Its effect has the potency to be extremely powerful, although is only defensive. Take it to be a variacion of the *Lightning* Xyz Monsters’ effects that can activyze during the opponent’s turn and doesn’t trigger floating effects. If really necessary, it can be activyzen in response to a [rankup card](#Rank-Up), negating it to drop a (hopefully) well-timed wipeout.
+Again, the Counter Trap is not strictly part of the archetype, but very closely related. Its effect has the potency to be extremely powerful, although is only defensive. Take it to be a variation of the *Lightning* Xyz Monsters’ effects that can activate during the opponent’s turn and doesn’t trigger floating effects. If really necessary, it can be activated in response to a [rankup card](#Rank-Up), negating it to drop a (hopefully) well-timed wipeout.
 
 
 <br>
@@ -244,7 +244,7 @@ Again, the Counter Trap is not strictly part of the archetype, but very closely 
 
 ## Strategics
 
-Since the Xyz Monsters cannot use their effects during the opponent’s turn, the focus of the deck is to protect them until your turn, when they can utterly dismantle the opponent’s board. The [rankup cards](#Rank-Up) are vital for protecting the ace from targeting effects, by ranking them up before the effect resolves.
+Since the Xyz Monsters cannot use their effects during the opponent’s turn, the focus of the deck is to protect them until your turn, when they can utterly dismantle the opponent’s board. The [rankup cards](#Rank-Up) are vital for protecting the ace from targeting effects, by ranking them up before the effect resoLevel es.
 
 ### Weaknesses
 However, since with activated effects the deck can only protect from targeting effects, any form of non-targeting removal or crippling is deadly. Removing the Xyz Monsters from the field without sending them to the Graveyard prevents rankup cards that revive from the Grave from being used to make a comeback; banishing in particular is very problematic, as the archetype has few ways to recover them.
@@ -259,7 +259,7 @@ For instance, if a Vapour-Eyes Lightning Dragon is Summoned, and then ranken up 
 
 ## Trivia
 
-- *Vapour-Eyes* and [Vapour Rise](#Rank-Up) are wordplay on ‘vapouryze’.
+- *Vapour-Eyes* and [Vapour Rise](#Rank-Up) are wordplay on ‘vapourise’.
 - The prefixes in the names of Xyz Monsters follow a specific order.
   - ‘Dragon’ › ‘Neo Dragon’ › ‘Ultimate Dragon’ › ‘Neo Ultimate Dragon’
 - There are several pairs of [rankup cards](#Rank-Up) that share similaritys.
@@ -267,6 +267,6 @@ For instance, if a Vapour-Eyes Lightning Dragon is Summoned, and then ranken up 
   - Vapour Rise and Lightning Arc Rise both rankup from the Grave.
   - Lightning Ascension and Ultimate Evolution both rankup by 2 Ranks.
   - Lightning Arc Rise and Ultimate Evolution both prevent responses.
-- This archetype was cryzen really only to satisfyze my childish love for cryzing totally overpowered cards, as well as giving them ridiculously long and awesome names.
+- This archetype was created really only to satisfy my childish love for cryzing totally overpowered cards, as well as giving them ridiculously long and awesome names.
   - This is reflected in their highly inflacen stats and Ranks (especially the Rank 13 [Neo Ultimate Vapour-Eyes Arc Lightning Dragon](#Arc-Lightning)).
   - The effects *seem* very powerful, and can be very powerful, but are easily played around – despite its high consistency, the deck has plenty of other weaknesses.
