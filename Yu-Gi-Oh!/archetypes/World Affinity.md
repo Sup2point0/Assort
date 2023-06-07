@@ -89,7 +89,7 @@ View the deck on [DuelingBook](https://duelingbook.com/deck?id=12012335)!
 ### Main Deck
 <img src="../../.assets/cards/ritual/Tyrian Pendragon.png" height="169px"
 title="❶ You cannot activate S/Ts, except ‘World Affinity’ cards. ❷ Your opponent cannot target cards you control with card effects.
-–––
+––––––––––––––––––––
 Must first be Ritual Summoned by a ‘World Affinity’ card. ❶ [HOPT] If you control this card you Ritual Summoned using a ‘Hi-Tekk-Knight’, ‘Dekk-Knight’ or ‘Ark-Knight’ Monster: You can shuffle all cards your opponent controls into the Deck. ❷ [HOPT] If this Ritual Summoned Monster is banished, or leaves the field by an opponent’s card: You can place it in your Pendulum Zone, then you can SS 1 ‘Dekk-Knight’ Monster from your XD, ignoring its Summoning conditions.">
 <img src="../../.assets/cards/spells/World Affinity Legacy.png" height="169px"
 title="❶ ‘k-Knight’ Monsters you control are unaffected by the effects of your opponent’s cards in their own column, also they can attack directly while your opponent controls no cards in that column. ❷ If your ‘k-Knight’ Monster battles, your opponent cannot activate cards or effects until after damage calculation.">
