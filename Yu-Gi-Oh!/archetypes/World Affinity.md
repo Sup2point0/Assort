@@ -87,6 +87,7 @@ View the deck on [DuelingBook](https://duelingbook.com/deck?id=12012335)!
   <summary> <b> display </b> </summary>
 
 ### Main Deck
+<div align="center">
 <img src="../../.assets/cards/ritual/Tyrian Pendragon.png" height="169px"
 title="❶ You cannot activate S/Ts, except ‘World Affinity’ cards. ❷ Your opponent cannot target cards you control with card effects.
 ––––––––––––––––––––
@@ -141,6 +142,7 @@ title="❶ [HOPT] When your opponent activates a card or effect: Banish 1 ‘Hi-
 title="❶ If more than 5 Monsters are on the field: Banish all Monsters on the field, also after that, your opponent SSs 1 Monster from their Deck or XD, ignoring its Summoning conditions, then you SS 1 ‘k-Knight’ Monster with the same type (Normal/Effect/Ritual/Fusion/Synchro/Xyz/Link) from your Deck or XD, ignoring its Summoning conditions. For the rest of the turn after this effect resolves, neither player can attack with or activate the effects of Monsters they control, except the Monsters SSd by this effect. You can only activate ‘World Affinity Showdown’ once per Duel.">
 <img src="../../.assets/cards/traps/World Affinity Reminiscence.png" height="169px"
 title="❶ Ritual Summon 1 ‘World Affinity Tyrian Pendragon’ from your hand, XD, GY or Pendulum Zone, by banishing 1 ‘Ark-Knight Cerulean Aventurescence’ from your XD or GY, or if your opponent controls a SSd Monster, you can send it from your XD to the GY instead. ❷ [HOPT] You can banish 1 other ‘World Affinity’ card from your GY; Set this card from your GY.">
+</div>
 
 </details>
 
