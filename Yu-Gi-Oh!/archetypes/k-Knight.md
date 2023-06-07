@@ -49,7 +49,7 @@ A superarchetype of Celestial Warrior Monsters of every Attribute, harnessing ev
 
 - View the deck on [DuelingBook](https://duelingbook.com/deck?id=12012335)!
 - Tip: hover over a card to view its card text.
-- Note: ratios are not exact – they only indicate a card’s place within the archetype.
+- Note: the number of copies are not exact – they only indicate a card’s place within the archetype.
 
 <details open>
   <summary> <b> display </b> </summary>
