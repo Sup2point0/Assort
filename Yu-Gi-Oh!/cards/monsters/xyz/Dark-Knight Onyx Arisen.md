@@ -1,6 +1,6 @@
 # Dark-Knight Onyx Arisen
 
-{desc}
+*Avenge our fallen allies, and strike fear into the heart of the enemy. Xyz Descension!*
 
 
 <table>
