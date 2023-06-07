@@ -15,6 +15,8 @@ An archetype of DARK Cyberse Monsters, harnessing Synchro, Xyz, Link Summoning a
 | Synchro | x4 |
 | Xyz     | x3 |
 | Link    | x6 |
+| Spell   | x8 |
+| Trap    | x9 |
 
 ### Monsters
 
@@ -62,14 +64,14 @@ An archetype of DARK Cyberse Monsters, harnessing Synchro, Xyz, Link Summoning a
 
 | card | Type |
 | :--- | :--- |
-| [Rubic Plane](../cards/spells/–/–.md) | ✦ Field |
-| [Rubic Algorithm](../cards/spells/–/–.md) | |
-| [Rubic Permutation](../cards/spells/–/–.md) | |
-| [Rubic Solution](../cards/spells/–/–.md) | |
-| [Rubic Function](../cards/spells/–/–.md) | ⚡︎ Quick |
-| [Rubic Construction](../cards/spells/–/–.md) | ∞ Continuous |
-| [Rubic Slice](../cards/spells/–/–.md) | + Equip |
-| [Rubic Dragonometry](../cards/spells/–/–.md) | ⟡ Ritual |
+| [Rubic Plane](../cards/spells/–.md) | ✦ Field |
+| [Rubic Algorithm](../cards/spells/–.md) | |
+| [Rubic Permutation](../cards/spells/–.md) | |
+| [Rubic Solution](../cards/spells/–.md) | |
+| [Rubic Function](../cards/spells/–.md) | ⚡︎ Quick |
+| [Rubic Construction](../cards/spells/–.md) | ∞ Continuous |
+| [Rubic Slice](../cards/spells/–.md) | + Equip |
+| [Rubic Dragonometry](../cards/spells/–.md) | ⟡ Ritual |
 
 </details>
 
@@ -80,15 +82,15 @@ An archetype of DARK Cyberse Monsters, harnessing Synchro, Xyz, Link Summoning a
 
 | card | Type |
 | :--- | :--- |
-| [Rubic Scramble](../cards/traps/–/–.md) | |
-| [Rubic Execution](../cards/traps/–/–.md) | |
-| [Rubic Rotation](../cards/traps/–/–.md) | |
-| [Rubic Megaminx](../cards/traps/–/–.md) | |
-| [Rubic Reset](../cards/traps/–/–.md) | |
-| [Rubic Revenge](../cards/traps/–/–.md) | |
-| [Rubic Destruction](../cards/traps/–/–.md) | ∞ Continuous |
-| [Rubic Inverse](../cards/traps/–/–.md) | ↵ Counter |
-| [Rubic Transverse](../cards/traps/–/–.md) | ↵ Counter |
+| [Rubic Scramble](../cards/traps/–.md) | |
+| [Rubic Execution](../cards/traps/–.md) | |
+| [Rubic Rotation](../cards/traps/–.md) | |
+| [Rubic Megaminx](../cards/traps/–.md) | |
+| [Rubic Reset](../cards/traps/–.md) | |
+| [Rubic Revenge](../cards/traps/–.md) | |
+| [Rubic Destruction](../cards/traps/–.md) | ∞ Continuous |
+| [Rubic Inverse](../cards/traps/–.md) | ↵ Counter |
+| [Rubic Transverse](../cards/traps/–.md) | ↵ Counter |
 
 </details>
 
@@ -314,7 +316,7 @@ The higher Link Rating Monsters are quite unique, acting as terrifying lone aces
 </table>
 
 ### Algorithm & Scramble
-The drivers of the archetype, both of which can be searched by [Radian](#Link-Monsters), and can recover themselves if a card on the field moves. They lock the player into activyzing only the effects of *Rubic* Monsters that turn.
+The drivers of the archetype, both of which can be searched by [Radian](#Link-Monsters), and can recover themselves if a card on the field moves. They lock the player into activating only the effects of *Rubic* Monsters that turn.
 
 [Algorithm](#Spells) is the core of the archetype, comparable to [Sky Striker Mobilize – Engage!](https://yugipedia.com/wiki/Sky_Striker_Mobilize_-_Engage!) or [Meteonis Drytron](https://yugipedia.com/wiki/Meteonis_Drytron), and once in circulyzacion reliably provides a search and move each turn, not to mention recovering a banished *Rubic* card – though if there is a lack of them, looping it back each turn may prove difficult. This card gives the archetype its consistency (in searching *exactly* the card needed), versatility (in searching *any* card needed), and most importantly, [longetivity](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/dict.md#longetivity 'longevity'), continually searching and recovering cards no matter what the opponent does to them.
 
@@ -410,7 +412,7 @@ The archetype is highly versative and consistent, able to create a powerful endb
 The 6 Main Deck Monsters (excluding [Driangle](#Ritual)) synergise really well together. The [Level 6 non-Tuners](#Level-6-non-Tuners) can banish the [Level 3 Tuners](#Level-3-Tuners), while the Level 3 Tuners can move the Level 6 Tuners, each triggering the other’s effects to gain advantage. The banished Tuners can then be retrieved with [Algorithm](#Algorithm--Scramble) or [Axis](#Level-3-non-Tuners). [Angular](#Level-3-non-Tuners) and [Secant](#Level-6-non-Tuners) grant even more consistency, by searching other Monsters.
 
 ### Formacions
-The ideal turn one endboard consists of 1 Monster of each Summoning tecnique, and as *many* [Traps](#Trap-Interruption) as can possibly be obtained.
+The ideal turn one endboard consists of 1 Monster of each Summoning technique, and as *many* [Traps](#Trap-Interruption) as can possibly be obtained.
 
 | card | evolucion | notes |
 | :--- | :-------- | :---- |
@@ -426,7 +428,7 @@ If going second, a *Single-Attack-Kill* (SAK) can easily be achieved through att
 ### Tech Picks
 - [Foolish Exile](../cards/spells/Foolish%20Exile.md) can banish a [Lv3 Tuner](#Level-3-Tuners) to trigger their effect and easily search a card, while also sending them into circulyzacion.
 - [Foolish Burial Trade](../cards/spells/Foolish%20Burial%20Trade.md) works nicely too, recovering banished Extra Deck Monsters and recycling Spell/Traps.
-- [Final Vanquish](../cards/spells/Final%20Vanquish.md) works well, since the archetype utilises every Summoning tecnique except Fusion.
+- [Final Vanquish](../cards/spells/Final%20Vanquish.md) works well, since the archetype utilises every Summoning technique except Fusion.
   - The banished Monster can then be retrieved by [Axis](#Level-3-non-Tuners) if needed.
 - [Awakening the Drakon](../cards/traps/Awakening%20the%20Drakon.md) can be highly effective at dropping a surprise [Angle Link Monster](#Link-Monsters) on the opponent.
 
@@ -437,12 +439,35 @@ Since several of the archetype’s effects involve moving cards to appropriate a
 <br>
 
 
+## Deck
+
+> Last updated: 2023
+
+- View the deck on [DuelingBook](https://duelingbook.com/deck?id=12381789)!
+- Tip: hover over a card to view its card text.
+- Note: the number of copies are not exact – they only indicate a card’s place within the archetype.
+
+<details open>
+  <summary> <b> display </b> </summary>
+
+### Main Deck
+{...}
+
+## Extra Deck
+{...}
+
+</details>
+
+
+<br>
+
+
 ## Trivia
 
 - The archetype features every type of Spell and Trap.
 - The archetype is fairly xenophobical.
   - Most effects support only *Rubic* cards.
-  - [Algorithm and Rubic](#Algorithm--Scramble) both lock the player from activyzing any Monster effects other than those of *Rubic* Monsters.
+  - [Algorithm and Rubic](#Algorithm--Scramble) both lock the player from activating any Monster effects other than those of *Rubic* Monsters.
   - The [Lv 6 non-Tuners](#Level-6-non-Tuners) benefit from banishing *Rubic* cards to Summon themselves.
   - [Function](#Spells) is the only card to function with any Cyberse Monster.
 - The gimmicks of the archetype draw parallels to Rubik’s cubes and geometry.
