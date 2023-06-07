@@ -341,7 +341,7 @@ Otherwise of note are the 3 Continuous Traps, which like the Ritual Monsters are
 
 View the deck on [DuelingBook](https://duelingbook.com/deck?id=12053993)!
 
-<details hide>
+<details open>
   <summary> <b> display </b> </summary>
 
 ### Main Deck
