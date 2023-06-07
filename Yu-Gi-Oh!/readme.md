@@ -34,10 +34,10 @@ Downright remakes of existing archetypes, one of my favourite things to do.
 | :--- | :---- | :--------- | :---- | :---- | :-------- |
 | [Technyx](https://duelingbook.com/deck?id=11617228) | Fusion, Xyz, Link | [Next-Gen](archetypes/Next-Gen.md) [Cyber](archetypes/Next-Gen%20Cyber%20Dragon.md), [A-to-Z](archetypes/Next-Gen%20A-to-Z.md) + [Kinetic Warrior](archetypes/Kinetic%20Warrior.md) | *Next-Gen* revitalisations of existing archetypes | vicious beatdown | |
 | [Astrix](https://duelingbook.com/deck?id=11963497) | Ritual, Xyz | Aquilyrynx + Delphoenix | revitalisation of [Drytron](https://yugipedia.com/wiki/Drytron) | | PSSSCCCT |
-| [Stranded](https://duelingbook.com/deck?id=12190377) | Fusion | [Stranded](archetypes/Stranded.md) | parody of [Branded](https://yugipedia.com/wiki/Branded) | | PSSSCCCT |
+| [Stranded](https://duelingbook.com/deck?id=12190377) | Fusion, Synchro, Xyz | [Stranded](archetypes/Stranded.md) | parody of [Branded](https://yugipedia.com/wiki/Branded) | polytypal mashup | PSSSCCCT |
 | [Dystopia](https://duelingbook.com/deck?id=12502309) | Rank-Down Xyz | [Dystopia](archetypes/Dystopia.md) | parody of [Utopia](https://yugipedia.com/wiki/Utopia_(archetype)) | self-destruction, single-attack-kill | PSSSCCCT |
 | [Dragmatika](https://duelingbook.com/deck?id=12753373) | Ritual | [Dragmatika](archetypes/Dragmatika.md) | revitalisation of [Dogmatika](https://yugipedia.com/wiki/Dogmatika) | anti-Extra Deck | PSSSCCCT |
-| [Vraptor](https://duelingbook.com/deck?id=12893390) | Rank-Up Xyz | [Next-Gen](archetypes/Next-Gen.md) [Raidraptor](archetypes/Next-Gen%20Raidraptor.md) | revitalisation of [Raidraptor](https://yugipedia.com/wiki/Raidraptor) | | PSSSCCCT |
+| [Vraptor](https://duelingbook.com/deck?id=12893390) | Rank-Up Xyz | [Next-Gen](archetypes/Next-Gen.md) [Raidraptor](archetypes/Next-Gen%20Raidraptor.md) | revitalisation of [Raidraptor](https://yugipedia.com/wiki/Raidraptor) | revolutionary comeback, animesque ace and swarming | PSSSCCCT |
 | [Arc-Z](https://duelingbook.com/deck?id=12974231) | Pendulum, Fusion, Synchro, Xyz | [Eternal King](archetypes/.md) | revitalisation of Z-ARC’s [Supreme King](https://yugipedia.com/wiki/Supreme_King) deck | more akin to the anime | PSSSCCCT |
 
 ### Fun
