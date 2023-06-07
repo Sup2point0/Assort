@@ -346,7 +346,8 @@ View the deck on [DuelingBook](https://duelingbook.com/deck?id=12053993)!
 
 ### Main Deck
 <table>
-<div align="center">
+  <tr>
+    <td align="center">
 <img src="../../.assets/cards/monsters/Kes.png" height="169px"
 title="If a ‘Darquess’ card leaves your field by an opponent’s card: You can banish this card from your hand or Graveyard, then send 1 ‘Darquess’ monster from your Extra Deck to the Graveyard; Set 1 ’Soul of Darquess’ or ‘Darquess Falling’ from your Deck or Banished Pile, and if you do, take 700 damage. If you currently control no face-up monsters, it can be activated this turn. You can only use this effect of ‘Kes, Fallen of Darquess’ once per turn.">
 <img src="../../.assets/cards/monsters/Dyavin.png" height="169px"
@@ -480,7 +481,8 @@ title="If you started the Duel with fewer cards in your Extra Deck than your opp
 title="Activate 1 Field Spell from your Deck or Graveyard. If you control no face-up cards, you can activate this card the turn it was Set by paying half your LP.">
 <img src="../../.assets/cards/traps/Darkchoke.png" height="169px"
 title="During each Standby Phase, place 1 Choke Counter on this card, then your opponent takes damage equal to the number of Choke Counters on this card x 200. If this card’s effects would be negated, remove all Choke Counters from it instead. This face-up card with a Choke Counter cannot leave the field by card effect, unless it is banished.">
-</div>
+    </td>
+  </tr>
 </table>
 
 ### Extra Deck
