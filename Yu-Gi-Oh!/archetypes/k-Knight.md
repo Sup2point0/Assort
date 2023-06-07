@@ -53,7 +53,6 @@ View the deck on [DuelingBook](https://duelingbook.com/deck?id=12012335)!
   <summary> <b> display </b> </summary>
 
 ### Main Deck
-<div align="center">
 <img src="../../.assets/cards/monsters/Aqua Vision.png" height="169px"
 title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can send 1 ‘Tekk-Knight’ card from your Deck to the GY. ❷ [HOPT] If this card is sent to the GY: You can add 1 other ‘k-Knight’ Monster from your GY to your hand.">
 <img src="../../.assets/cards/monsters/Aqua Vision.png" height="169px"
@@ -92,7 +91,6 @@ title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [
 title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can move 1 card on the field to another appropriate Zone on its controller’s field. ❷ [HOPT] If this card is sent to the GY: You can add 1 ‘k-Knight’ Monster from your Deck to your hand.">
 <img src="../../.assets/cards/ritual/Ultramarine Wonder.png" height="169px"
 title="">
-</div>
 
 ### Extra Deck
 <img src="../../.assets/cards/link/Azure Iris.png" height="169px"
