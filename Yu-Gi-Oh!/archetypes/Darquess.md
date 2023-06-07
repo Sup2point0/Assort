@@ -337,6 +337,8 @@ Otherwise of note are the 3 Continuous Traps, which like the Ritual Monsters are
 
 ## Deck
 
+> Last updated: June 2023
+
 View the deck on [DuelingBook](https://duelingbook.com/deck?id=12053993)!
 
 <details hide>
