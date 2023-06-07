@@ -28,7 +28,7 @@
 
 | aspect | type | notes |
 | :----- | :--- | :---- |
-| During each Standby Phase, place 1 Choke Counter on this card, then your opponent takes damage equal to the number of Choke Counters on this card x 200. | applied | |
+| During each Standby Phase, place 1 Choke Counter on this card, then your opponent takes damage equal to the number of Choke Counters on this card x 200. | continuous ignition-like | |
 | If this card’s effects would be negated, remove all Choke Counters from it instead. | continuous | Trying to mitigate its effect only delays the inevitable. |
 | This face-up card with a Choke Counter cannot leave the field by card effect, unless it is banished. | continuous | Getting rid of this will be tough. |
 
