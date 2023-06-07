@@ -8,7 +8,7 @@
     <th colspan="3"> <h3> Raiza, Sorceress of Darquess </h3> </th>
   </tr>
   <tr>
-    <td rowspan="9"> <img src="../../../../.assets/cards/ritual/Raiza.png" width="320px"> </td>
+    <td rowspan="8"> <img src="../../../../.assets/cards/ritual/Raiza.png" width="320px"> </td>
   </tr>
   <tr>
     <td> type </td>
@@ -35,12 +35,8 @@
     <td> 3000 / 0 </td>
   </tr>
   <tr>
-    <td> material </td>
-    <td> see <a href="../../spells/Darquess Rising.md">Darquess Rising</a> </td>
-  </tr>
-  <tr>
-    <td> special </td>
-    <td> control condition </td>
+    <td> Ritual </td>
+    <td> <a href="../../spells/Darquess Rising.md">Darquess Rising</a> </td>
   </tr>
 </table>
 
@@ -48,19 +44,20 @@
 <br>
 
 
-## Effects
+## Aspects
 
-| effect | type | name | notes |
+| aspect | type | name | notes |
 | :----- | :--- | :--- | :---- |
-| Must be Ritual Summoned by a 'Darquess' card. | condition | | No Drytron hacking please |
-| If this card is Ritual Summoned: You can Set 1 'Darquess' Trap from your Deck. | trigger | | |
+| Must be Ritual Summoned by a ‘Darquess’ card. | Summon condition | | No Drytron hacking lmao |
+| If this card is Ritual Summoned: You can Set 1 ‘Darquess’ Trap from your Deck. | trigger | | |
 | Neither player can Normal Summon non-DARK monsters. | continuous | | |
-| Each time you take damage, you can banish the top card of your opponent's Deck, face-down. | unclassed | | |
-| Once per turn: You can banish 1 DARK monster from either player's field or Graveyard. | ignition | | |
-| You can only control 1 'Raiza, Sorceress of Darquess'. | condition | | |
+| Each time you take damage, you can banish the top card of your opponent’s Deck face-down. | applied | | |
+| Once per turn: You can banish 1 DARK monster from either player’s field or Graveyard. | ignition | | The banished Monster can then be revived with [Laiza](Laiza.md). |
 
 
 <br>
 
 
 ## Trivia
+
+- This Monster’s name is the same as [Raiza the Storm Monarch](https://yugipedia.com/wiki/Raiza_the_Storm_Monarch).
