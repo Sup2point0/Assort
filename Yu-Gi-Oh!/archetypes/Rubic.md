@@ -414,7 +414,7 @@ The 6 Main Deck Monsters (excluding [Driangle](#Ritual)) synergise really well t
 ### Formacions
 The ideal turn one endboard consists of 1 Monster of each Summoning technique, and as *many* [Traps](#Trap-Interruption) as can possibly be obtained.
 
-| card | evolucion | notes |
+| card | evolution | notes |
 | :--- | :-------- | :---- |
 | [Arcsecant](#Xyz-Monsters) / [Excosecant](#Xyz-Monsters) | ([Exsecant](#Xyz-Monsters) ›) [Excosecant](#Xyz-Monsters) › [Arcsecant](#Xyz-Monsters) <br> overlay [Lv6 non-Tuners](#Level-6-non-Tuners) (› [Function](#Xyz-Monsters)) | dynamic negate and removal |
 | [Driangle](#Ritual) | [Diagonal](#Link-Monsters) › [Dragonometry](#Ritual) | problematic removal and floating effects |
