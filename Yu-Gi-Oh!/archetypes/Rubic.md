@@ -62,8 +62,8 @@ An archetype of DARK Cyberse Monsters, harnessing Synchro, Xyz, Link Summoning a
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| card | Type |
-| :--- | :--- |
+| card | property |
+| :--- | :------- |
 | [Rubic Plane](../cards/spells/–.md) | ✦ Field |
 | [Rubic Algorithm](../cards/spells/–.md) | |
 | [Rubic Permutation](../cards/spells/–.md) | |
@@ -80,8 +80,8 @@ An archetype of DARK Cyberse Monsters, harnessing Synchro, Xyz, Link Summoning a
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| card | Type |
-| :--- | :--- |
+| card | property |
+| :--- | :------- |
 | [Rubic Scramble](../cards/traps/–.md) | |
 | [Rubic Execution](../cards/traps/–.md) | |
 | [Rubic Rotation](../cards/traps/–.md) | |
