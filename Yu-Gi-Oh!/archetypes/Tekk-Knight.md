@@ -107,6 +107,14 @@ The other *Tekk-Knight* monsters are useful for going second to breakup the oppo
 <br>
 
 
+## Deck
+
+See [k-Knight](k-Knight.md).
+
+
+<br>
+
+
 ## Trivia
 
 - The effect of the Lv4 Main Deck Monsters is an upgraded version (to an extent) of the effect of the [*Mekk-Knights*](https://yugipedia.com/wiki/Mekk-Knight).
