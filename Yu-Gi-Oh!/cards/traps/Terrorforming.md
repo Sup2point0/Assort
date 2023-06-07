@@ -32,8 +32,8 @@
 
 | aspect | type | notes |
 | :----- | :--- | :---- |
-| Activate 1 Field Spell from your Deck or Graveyard. | activated | Metaverse on steroids |
-| If you control no face-up cards, you can activate this card the turn it was Set by paying half your LP. | condition | Terraforming on steroids |
+| Activate 1 Field Spell from your Deck or Graveyard. | activation | Metaverse on steroids |
+| If you control no face-up cards, you can activate this card the turn it was Set by paying half your LP. | activation condition | Terraforming on steroids |
 
 
 <br>
@@ -41,5 +41,6 @@
 
 ## Trivia
 
-- This card’s name is a pun on [Terraforming](https://en.wikipedia.org/wiki/Terraforming), since it is a parody of the [Terraforming](https://yugipedia.com/wiki/Terraforming) card.
+- This card is a parody of the [Terraforming](https://yugipedia.com/wiki/Terraforming) card.
+- Its name is also pun on [Terraforming](https://en.wikipedia.org/wiki/Terraforming).
   - This is reflected in its art which depicts a black hole, since a black hole would terraform celestial bodies near it, and induce terror in anything alive.
