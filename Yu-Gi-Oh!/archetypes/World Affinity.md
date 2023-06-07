@@ -77,6 +77,16 @@ An archetype of Spells and Traps, supporting the [*Tekk-Knight*](Tekk-Knight.md)
 <br>
 
 
+## Deck
+
+> Last updated: June 2023
+
+View the deck on [DuelingBook](https://duelingbook.com/deck?id=12012335)!
+
+
+<br>
+
+
 ## Trivia
 
 Many of the cards are a parody of existing [*World Legacy*](https://yugipedia.com/wiki/World_Legacy) cards.
