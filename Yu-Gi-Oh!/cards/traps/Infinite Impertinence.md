@@ -2,7 +2,6 @@
 
 {desc}
 
-
 <table>
   <tr>
     <th colspan="2"> <h3> Infinite Impertinence </h3> </th>
