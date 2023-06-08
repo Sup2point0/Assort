@@ -205,27 +205,40 @@ title="">
 
 ### Extra Deck
 <img src="../../.assets/cards/synchro/Soul Shard Synchron.png" height="169px"
-title="">
+title="‘Soul Synchron’ + 1+ ‘Soul Shard’s
+Return this banished card to the Extra Deck at the end of each turn. You can Synchro Summon this card using materials with any Level. This card’s original Level becomes the total Levels of the materials used for its Synchro Summon (even after it leaves the field). You can send 1 ‘Soul’ non-Tuner monster from your Deck or Extra Deck to the Graveyard; increase or decrease this card’s Level by that monster’s Level in the Graveyard. You can only use this effect of 'Soul Shard Synchron' once per turn.">
 <img src="../../.assets/cards/synchro/Soul Snake.png" height="169px"
-title="">
+title="1 ‘Soul’ Tuner + 1+ ‘Soul’ non-Tuner monsters
+If this card is sent to the Graveyard: You can add 1 ‘Soul’ card from your Graveyard to your hand. If this card is banished: You can equip it to a monster on the field. You can only use this effect of ‘Soul Snake’ once per turn. Negate the equipped monster’s attacks and effects, also it cannot be used as Special Summon material.">
 <img src="../../.assets/cards/synchro/Soul Alchemist.png" height="169px"
-title="">
+title="1 ‘Soul’ Tuner + 1+ ‘Soul’ non-Tuner monsters
+If this card is Synchro Summoned: You can banish 1 ‘Soul’ card from your Graveyard; send 1 ‘Soul’ Ritual monster and/or Spell from your Deck to the Graveyard. You can Tribute 1 ‘Soul’ card from your hand or field, or remove 3 Soul Counters from the field; Special Summon 1 Level 6 or lower ‘Soul’ monster from your Graveyard, but banish it when it leaves the field. You can only use each effect of ‘Soul Alchemist’ once per turn.">
 <img src="../../.assets/cards/synchro/Soul Knight.png" height="169px"
-title="">
+title="1 ‘Soul’ Tuner + 1+ ‘Soul’ non-Tuner monsters
+Gains 150 ATK for each of your banished ‘Soul’ cards. Once per turn, when an attack is declared involving a ‘Soul’ monster you control: You can banish 1 ‘Soul’ card from your Graveyard; send 1 card on the field to the Graveyard. You can banish 1 ‘Soul’ Spell/Trap and 1 other ‘Soul’ monster from your Graveyard; Special Summon this card from your Graveyard. You can only use this effect of ‘Soul Knight’ once per turn.">
 <img src="../../.assets/cards/synchro/Soul Wanderer.png" height="169px"
-title="">
+title="1 ‘Soul’ Synchro Tuner + 1+ ‘Soul’ non-Tuner monsters
+When your opponent activates a Spell/Trap card or effect, while you control a ‘Soul’ Ritual or Synchro monster (Quick Effect): You can banish this card from your field or Graveyard; shuffle that card into the Deck, and if you do, negate that effect. Once per End Phase, if this card is banished: You can Special Summon it, but shuffle it into the Deck when it leaves the field.">
 <img src="../../.assets/cards/synchro/Soul Guardian.png" height="169px"
-title="">
+title="1 ‘Soul’ Tuner + 1+ ‘Soul’ non-Tuner monsters
+Your other ‘Soul’ cards cannot be targeted by your opponent’s card effects. If a ‘Soul’ card(s) you control would be destroyed by battle or card effect, you can banish 1 ‘Soul’ card from your Graveyard instead. When a ‘Soul’ monster you control is targeted for an attack: You can Special Summon this card from your Graveyard, and if you do, negate the attack. You can only use this effect of ‘Soul Guardian’ once per turn.">
 <img src="../../.assets/cards/synchro/Soul Warden.png" height="169px"
-title="">
+title="1 ‘Soul’ Ritual or Synchro Tuner + 1+ ‘Soul’ Ritual or Synchro monsters
+Your ‘Soul’ cards are unaffected by your opponent’s monster effects, except those that target them. While this card is in Defense Position, your opponent attack directly. Once per turn, if you control this card you Synchro Summoned: You can activate 1 of the following effects.
+• Shuffle all Spell/Traps your opponent controls into the Deck.
+• Special Summon 1 ‘Soul’ monster from your Graveyard or Banished Pile.">
 <img src="../../.assets/cards/synchro/Soul Shard Swordsman.png" height="169px"
-title="">
+title="‘Soul Swordsman’ + 1+ ‘Soul Shard’ monsters
+Must first be Synchro Summoned with the above materials. Once per turn, if your opponent adds a card to their hand by card effect: You can make them shuffle 1 card from their hand into the Deck. Once per turn (Quick Effect): You can banish 1 ‘Soul’ card from your Graveyard; return 1 card from the field or either player’s Graveyard to the hand. If this card would be destroyed, you can banish 1 ‘Soul’ card from your Graveyard instead.">
 <img src="../../.assets/cards/synchro/Soul Shard Dragon.png" height="169px"
-title="">
+title="‘Soul Dragon’ + 1+ ‘Soul Shard’ monsters
+Must first be Synchro Summoned with the above materials. Once per turn (Quick Effect): You can banish 1 ‘Soul’ card from your Graveyard; flip all cards your opponent controls face-down. Once per turn, if your ‘Soul’ card(s) is targeted by a card effect (Quick Effect): You can make a card(s) on your opponent’s field or in their Graveyard become the target(s) instead. If this card would be destroyed, you can banish 1 ‘Soul’ card from your Graveyard instead.">
 <img src="../../.assets/cards/synchro/Soul Slayer.png" height="169px"
-title="">
+title="1 ‘Soul Shard’ Tuner + 1+ ‘Soul’ Synchro or Ritual monsters
+Must be Synchro Summoned with the above materials. This card’s original ATK and DEF become half your opponent’s LP and half your LP, respectively. Once per turn: You can pay half your LP and send 1 ‘Soul’ monster from your Extra Deck to the Graveyard; inflict damage equal to the ATK of 1 monster your opponent controls, and if you do, this card gains ATK equal to that inflicted damage until the end of next turn.">
 <img src="../../.assets/cards/synchro/Soul Assassin.png" height="169px"
-title="">
+title="1 ‘Soul’ Tuner + ‘Shadow Assassin’
+If this card was not Synchro Summoned with the above materials, its effects are negated. Can attack your opponent directly. If this card attacks, your opponent cannot activate cards or effects until the end of the Damage Step. If this card inflicts battle damage to your opponent: You can banish as many ‘Soul’ monsters from your Graveyard as possible, and if you do, inflict 350 damage for each banished.">
 <img src="../../.assets/cards/fusion/Vengeance Vanguard.png" height="169px"
 title="">
 
