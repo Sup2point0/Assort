@@ -2,7 +2,6 @@
 
 {desc}
 
-
 <table>
   <tr>
     <th colspan="2"> <h3> Awakening the Drakon </h3> </th>
