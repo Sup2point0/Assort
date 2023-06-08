@@ -2,7 +2,6 @@
 
 {desc}
 
-
 <table>
   <tr>
     <th colspan="2"> <h3> Foolish Burial Trade </h3> </th>
