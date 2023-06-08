@@ -77,9 +77,14 @@ An archetype of – Monsters, revolving around – Summoning, inspired by the [*
 
 > Last updated: {...}
 
-View the deck on [DuelingBook](...)!
-- Tip: hover over a card to view its card text.
-- Note: the number of copies are not exact – they only indicate a card’s place within the archetype.
+### Tips
+- View the deck on [DuelingBook](...)!
+- Hover over a card to view its card text.
+
+### Notes
+- The cards are ordered in a logical order rather than by property.
+- The number of copies are not exact – they only indicate a card’s place within the deck.
+- The staples provided are not exhaustive – they are only those that synergise especially well with the deck.
 
 <details open>
   <summary> <b> display </b> </summary>
