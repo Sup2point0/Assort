@@ -33,7 +33,7 @@ Hypno-Eyes
 &emsp; [Immunition](Immunition.md)  
 Inkurzen  
 [Kinetic Warrior](Kinetic%20Warrior.md)  
-[k-Knight](k-Knight.md)  
+[**k-Knight**](k-Knight.md)  
 &emsp; [Tekk-Knight](Tekk-Knight.md)  
 &emsp; &emsp; [Tekk-Knight](Tekk-Knight.md)  
 &emsp; [Dekk-Knight](Dekk-Knight.md)  
@@ -55,3 +55,20 @@ Inkurzen
 [**Vapour-Eyes**](Vapour-Eyes.md)  
 [Virus](Virus.md)  
 [World Affinity](World%20Affinity.md)  
+
+
+<br>
+
+
+## [Frequerys](https://github.com/Sup2point0/Antarctica/blob/home/readme.md#what-does-frequerys-even-mean 'frequent queries')
+
+### How did you create the cards?
+All of my custom cards are created on [DuelingBook](https://duelingbook.com), using the custom cards feature!
+
+### Where does your inspiration come from?
+Anywhere and everywhere really, I’m so deep into cardmaking that I’ll see anything and consider how I could make it into a deck. But a pretty significant chunk of my custom archetypes are revitalisations or remakes of existing archetypes, like how [*k-Knight*](k-Knight.md) and [*World Affinity*](World%20Affinity.md) are inspired by [Mekk-Knight](https://yugipedia.com/wiki/Mekk-Knight) and [World Legacy](https://yugipedia.com/wiki/World_Legacy).
+
+If you wanna find out more about a particular archetype, you can try checking out its #Trivia section.
+
+### How did you obtain all the images?
+Haha, I painstakingly took screenshots for each card on iPad (which yields the best resolution), hand-cropped them by eye (since iPadOS can’t crop by measurement), and then uploaded and renamed all of them. Yeah. A lotta work for sure, but strangely satisfying and surprisingly not that boring.
