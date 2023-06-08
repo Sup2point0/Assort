@@ -176,8 +176,6 @@ title="">
 title="">
 <img src="../../.assets/cards/spells/Soul Corruption.png" height="169px"
 title="">
-<img src="../../.assets/cards/spells/Soul Purity.png" height="169px"
-title="">
 <img src="../../.assets/cards/spells/Soul Illusion.png" height="169px"
 title="">
 <img src="../../.assets/cards/spells/Soul Dagger.png" height="169px"
@@ -201,6 +199,8 @@ title="">
 <img src="../../.assets/cards/traps/Victory in Vengeance.png" height="169px"
 title="">
 <img src="../../.assets/cards/spells/Foolish Burial Trade.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Soul Purity.png" height="169px"
 title="">
 
 ### Extra Deck
