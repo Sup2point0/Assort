@@ -32,7 +32,7 @@ An archetype of DARK Cyberse Monsters, harnessing Synchro, Xyz, Link Summoning a
 | [Rubic Secant](../cards/monsters/standard/Rubic%20Secant.md) | 6 ★★★★★★ | 900 / 1800 | |
 | [Rubic Cosecant](../cards/monsters/standard/Rubic%20Cosecant.md) | 6 ★★★★★★ | 1800 / 900 | |
 | [Rubic Driangle](../cards/monsters/ritual/Rubic%20Driangle.md) | 9 ★★★★★★★★★ | 3000 / 1800 | Ritual |
-| [Rubic Token](../cards/monsters/tokens/Rubic%20Token.md) | 3 ★★★ | 300 / 0 | |
+| [Rubic Token](../cards/monsters/tokens/Rubic%20Token.md) | 3 ★★★ | 300 / 0 | Token |
 
 </details>
 
@@ -318,7 +318,7 @@ The higher Link Rating Monsters are quite unique, acting as terrifying lone aces
 ### Algorithm & Scramble
 The drivers of the archetype, both of which can be searched by [Radian](#Link-Monsters), and can recover themselves if a card on the field moves. They lock the player into activating only the effects of *Rubic* Monsters that turn.
 
-[Algorithm](#Spells) is the core of the archetype, comparable to [Sky Striker Mobilize – Engage!](https://yugipedia.com/wiki/Sky_Striker_Mobilize_-_Engage!) or [Meteonis Drytron](https://yugipedia.com/wiki/Meteonis_Drytron), and once in circulyzacion reliably provides a search and move each turn, not to mention recovering a banished *Rubic* card – though if there is a lack of them, looping it back each turn may prove difficult. This card gives the archetype its consistency (in searching *exactly* the card needed), versatility (in searching *any* card needed), and most importantly, [longetivity](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/dict.md#longetivity 'longevity'), continually searching and recovering cards no matter what the opponent does to them.
+[Algorithm](#Spells) is the core of the archetype, comparable to [Sky Striker Mobilize – Engage!](https://yugipedia.com/wiki/Sky_Striker_Mobilize_-_Engage!) or [Meteonis Drytron](https://yugipedia.com/wiki/Meteonis_Drytron), and once in circulyzacion reliably provides a search and move each turn, not to mention recovering a banished *Rubic* card – though if there is a lack of them, looping it back each turn may prove difficult. This card gives the archetype its consistency (in searching *exactly* the card needed), versatility (in searching *any* card needed), and most importantly, longevity, continually searching and recovering cards no matter what the opponent does to them.
 
 Scramble, while inconspicuous at first, can become immensely powerful in conjuncion with other cards. Moving *Rubic* Monsters triggers many of their effects, both advancive and disruptive. Moving the opponent’s cards can disrupt Link swarm strategys, and trigger the disruptive effects of the *Rubic* [Xyz Monsters](#Xyz-Monsters). If [Plane](#Spell-Support) is active, Scramble can even provide protection to Rubic cards. And unlike Algorithm, Scramble can be used during both player’s turns, giving fast effect movement every turn.
 
@@ -346,7 +346,7 @@ Scramble, while inconspicuous at first, can become immensely powerful in conjunc
 </table>
 
 ### Spell Support
-All of the Spells provide consistency and support. The archetypical Field Spell [Plane](#Spells) helps in small ways that make constructing boards easier and facilitate disruption. [Permutation](#Spells) is almost as powerful a consistency tool as Algorithm. [Solution](#Spells) is the archetypical revival Spell, although requires Link Monsters to work. [Slice](#Spells) is a welcome addition for SAKs, and even has recursability.
+All of the Spells provide consistency and support. The archetypal Field Spell [Plane](#Spells) helps in small ways that make constructing boards easier and facilitate disruption. [Permutation](#Spells) is almost as powerful a consistency tool as Algorithm. [Solution](#Spells) is the archetypal revival Spell, although requires Link Monsters to work. [Slice](#Spells) is a welcome addition for SAKs, and even has recursability.
 
 <table>
   <tr>
@@ -396,7 +396,7 @@ With such an efficient and consistent but xenophobic engine, the archetype has p
 ### Tokens
 Many cards Summon [Rubic Tokens](#Monsters), and to either player’s field too. Just like construction lines in geometry, these Tokens are pivotal to the archetype’s strategy.
 
-Since all of the Extra Deck Monsters only require archetypical material, Rubic Tokens are perfectly fine to use as material for their Special Summons. They can be tuned with [Lv3 Tuners](#Level-3-Tuners) for [Lv6 Synchro Monsters](#Synchro-Monsters), or more oftenly, used as Link material for link climbing.
+Since all of the Extra Deck Monsters only require archetypal material, Rubic Tokens are perfectly fine to use as material for their Special Summons. They can be tuned with [Lv3 Tuners](#Level-3-Tuners) for [Lv6 Synchro Monsters](#Synchro-Monsters), or more oftenly, used as Link material for link climbing.
 
 Those Summoned to the opponent’s field are indeed free Tributes or material (and as DARK Cyberse Monsters, they are highly synchronous with generic Extra Deck staples) but only if the opponent can make use of them – otherwise, an overflow of Tokens can clog their board and slow down combos. With only 300 ATK, they’re unexpected holes in the fortress, perfectly awaiting an attack from [Haversine](#Synchro-Monsters) or [Arcsine](#Synchro-Monsters) for critical damage.
 
@@ -606,7 +606,7 @@ title="3 ‘Rubic’ Monsters
 ## Trivia
 
 - The archetype features every type of Spell and Trap.
-- The archetype is fairly xenophobical.
+- The archetype is fairly xenophobic.
   - Most effects support only *Rubic* cards.
   - [Algorithm and Rubic](#Algorithm--Scramble) both lock the player from activating any Monster effects other than those of *Rubic* Monsters.
   - The [Lv 6 non-Tuners](#Level-6-non-Tuners) benefit from banishing *Rubic* cards to Summon themselves.
