@@ -31,11 +31,7 @@
 
 | aspect | type | name | notes |
 | :----- | :--- | :--- | :---- |
-| Activate 1 of the following effects.
-• Tribute 2 other cards from your hand and/or field; draw 2 cards.
-• Discard 1 ‘Instant Draw’; draw 2 cards.
-• If your opponent controls more cards than you, and you have less than 2 cards in your hand: Pay half your LP; draw 2 cards.
-You can only activate ‘Instant Draw’ once per turn. |
+| Draw cards until you draw a Spell/Trap (max 3), then you can Special Summon 1 Level 4 or lower monster from your hand, also after that, for each card you drew, shuffle 1 card from your hand into the Deck. For the rest of the turn after this card resolves, each time you add a card from your Deck to your hand by card effect, you must immediately discard 1 card. |
 
 
 <br>
