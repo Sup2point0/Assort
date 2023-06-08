@@ -146,13 +146,13 @@ title="">
 title="">
 <img src="../../.assets/cards/monsters/Soul Spider.png" height="169px"
 title="">
-<img src="../../.assets/cards/monsters/Soul Swordsman.png" height="169px"
+<img src="../../.assets/cards/ritual/Soul Swordsman.png" height="169px"
 title="">
-<img src="../../.assets/cards/monsters/Soul Dragon.png" height="169px"
+<img src="../../.assets/cards/ritual/Soul Dragon.png" height="169px"
 title="">
-<img src="../../.assets/cards/monsters/Soul Elder.png" height="169px"
+<img src="../../.assets/cards/ritual/Soul Elder.png" height="169px"
 title="">
-<img src="../../.assets/cards/monsters/Shadow Assassin.png" height="169px"
+<img src="../../.assets/cards/ritual/Shadow Assassin.png" height="169px"
 title="">
 <img src="../../.assets/cards/spells/Soul Ritual.png" height="169px"
 title="">
