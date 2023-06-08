@@ -443,9 +443,14 @@ Since several of the archetype’s effects involve moving cards to appropriate a
 
 > Last updated: 2023
 
+### Tips
 - View the deck on [DuelingBook](https://duelingbook.com/deck?id=12381789)!
-- Tip: hover over a card to view its card text.
-- Note: the number of copies are not exact – they only indicate a card’s place within the archetype.
+- Hover over a card to view its card text.
+
+### Notes
+- The cards are ordered in a logical order rather than by property.
+- The number of copies are not exact – they only indicate a card’s place within the deck.
+- The staples provided are not exhaustive – they are only those that synergise especially well with the deck.
 
 <details open>
   <summary> <b> display </b> </summary>
