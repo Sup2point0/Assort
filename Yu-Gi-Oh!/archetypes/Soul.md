@@ -67,7 +67,7 @@ Any Monsters whose Types are not specified are Psychic.
 | :--- | :--- |
 | [Pot of Souls](../cards/spells/–/–.md) | |
 | [Soul Chasm](../cards/spells/–/–.md) | ✦ Field |
-| [Soul Corruption](../cards/spells/–/–.md) | ⚡︎ Quick |
+| [Soul Corruption](../cards/spells/–/–.md) | |
 | [Soul Dagger](../cards/spells/–/–.md) | + Equip |
 | [Soul Illusion](../cards/spells/–/–.md) | ⚡︎ Quick |
 | [Soul Manifestation](../cards/spells/–/–.md) | ⚡︎ Quick |
