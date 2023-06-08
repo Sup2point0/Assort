@@ -44,3 +44,6 @@
 
 
 ## Trivia
+
+- This card is inspired by the [*Foolish*](https://yugipedia.com/wiki/Foolish) series.
+- This card is harder to resolve than other *Foolish* cards, but if done so successfully, combines the effects of [Foolish Burial](https://yugipedia.com/wiki/Foolish_Burial) and [Foolish Burial Goods](https://yugipedia.com/wiki/Foolish_Burial_Goods) into one.
