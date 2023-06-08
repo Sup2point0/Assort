@@ -68,6 +68,36 @@ A series of Cyberse Monsters, revolving around Link Summoning, with various supp
 <br>
 
 
+## Deck
+
+> Last updated: {...}
+
+### Tips
+- View the deck on [DuelingBook](https://duelingbook.com/deck?id=11997304)!
+- Hover over a card to view its card text.
+
+### Notes
+- The cards are ordered in a logical order rather than by properties.
+- The number of copies are not exact – they only indicate a card’s place within the deck.
+- The staples provided are not exhaustive – they are only those that synergise especially well with the deck.
+
+<details open>
+  <summary> <b> display </b> </summary>
+
+### Main Deck
+<img src="../../.assets/cards/monsters/.png" height="169px"
+title="">
+
+### Extra Deck
+<img src="../../.assets/cards/monsters/.png" height="169px"
+title="">
+
+</details>
+
+
+<br>
+
+
 ## Trivia
 
 - The ATK/DEF of the Monsters (that have both ATK and DEF) add up to 3200.
