@@ -40,6 +40,27 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th colspan="2"> <h3> – </h3> </th>
+  </tr>
+  <tr>
+    <td> type </td>
+    <td> – </td>
+  </tr>
+  <tr>
+    <td> archetype </td>
+    <td> <a href="../../../archetypes/–.md">–</a> </td>
+  </tr>
+  <tr>
+    <td> Property </td>
+    <td> – </td>
+  </tr>
+  <tr>
+    <td colspan="2"> <img src="../../../.assets/cards/–/–.png" width="320px"> </td>
+  </tr>
+</table>
+
 
 <br>
 
