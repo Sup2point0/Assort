@@ -547,10 +547,16 @@ title="❶ If a ‘Rubic’ Monster you control leaves the field by an opponent'
 title="❶ Once per Chain, if a ‘Rubic’ Spell/Trap you control moves to another Zone: You can target 1 card on the field; move it to any adjacent Zone, and if you do, destroy it. ❷ If this card is banished: You can place your banished ‘Rubic Construction’ face-up in your Spell/Trap Zone. You can only use this effect of ‘Rubic Destruction’ once per turn.">
 <img src="../../.assets/cards/traps/Rubic Transverse.png" height="169px"
 title="Activate only as Chain Link 3 or higher. ❶ Move 1 ‘Rubic’ Monster you control to a Main Monster Zone another ‘Rubic’ Link Monster you control links to, and if you do, negate the activations of your opponent’s cards and effects activated before this card in this Chain. ❷ You can banish this card from your Graveyard; attach to a ‘Rubic’ Xyz Monster(s) you control as Material, up to 3 Monsters on the field that ‘Rubic’ Link Monsters link to.">
+<img src="../../.assets/cards/spells/Foolish Exile.png" height="169px"
+title="Banish 1 card from your Deck.">
+<img src="../../.assets/cards/spells/Foolish Burial Trade.png" height="169px"
+title="Shuffle up to 2 of your banished cards with different types (Monster/Spell/Trap) into the Deck, then send that many cars of the same type(s) from your Deck to the Graveyard. You can only activate ‘Foolish Burial Trade’ once per turn.">
+<img src="../../.assets/cards/traps/Awakening the Drakon.png" height="169px"
+title="If this Set card in its owner’s control leaves the field by an opponent’s card, and is now banished or in the Graveyard: You can Special Summon 1 monster from your Extra Deck or Graveyard.">
 <!-- <img src="../../.assets/cards/traps/Rubic Inverse.png" height="169px"
 title="❶ When your opponent Summons a Monster, or activates a card or effect: Move 1 other ‘Rubic’ card on the field an appropriate adjacent Zone, and if you do, negate the Summon or activation. ❷ If the activation of your ‘Rubic’ card or its effect would be negated, you can banish this card from your Graveyard instead."> -->
 
-## Extra Deck
+### Extra Deck
 <img src="../../.assets/cards/synchro/Rubic Versine.png" height="169px"
 title="1 ‘Rubic’ Tuner + 1 ‘Rubic’ non-Tuner Monster
 ❶ If this card is Special Summoned: You can Set 1 ‘Rubic’ Trap from your Deck. You can only use this effect of ‘Rubic Versine’ once per turn. ❷ Once per Chain, if this card moves to another Zone: You can target 1 card on the field; move it to an appropriate adjacent Zone, and if you do, destroy it.">
