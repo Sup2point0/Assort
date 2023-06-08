@@ -91,7 +91,15 @@ A series of custom staple cards, many parodies of existing cards.
   <summary> <b> display </b> </summary>
 
 ### Main Deck
-<img src="../../.assets/cards/spells/.png" height="169px"
+<img src="../../.assets/cards/spells/Instant Draw.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Quickdraw Summon.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Quick Polymerization.png" height="169px"
+title="">
+<img src="../../.assets/cards/traps/Infinite Impertinence.png" height="169px"
+title="">
+<img src="../../.assets/cards/traps/Awakening the Drakon.png" height="169px"
 title="">
 
 </details>
