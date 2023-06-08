@@ -2,7 +2,6 @@
 
 {desc}
 
-
 <table>
   <tr>
     <th colspan="3"> <h3> Laiza, Enchantress of Darquess </h3> </th>

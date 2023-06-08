@@ -2,7 +2,6 @@
 
 {desc}
 
-
 <table>
   <tr>
     <th colspan="3"> <h3> Rubic Hexangle </h3> </th>

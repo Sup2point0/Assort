@@ -2,7 +2,6 @@
 
 *Avenge our fallen allies, and strike fear into the heart of the enemy. Xyz Descension!*
 
-
 <table>
   <tr>
     <th colspan="3"> <h3> Dark-Knight Onyx Arisen </h3> </th>
