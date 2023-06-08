@@ -452,81 +452,97 @@ Since several of the archetype’s effects involve moving cards to appropriate a
 
 ### Main Deck
 <img src="../../.assets/cards/monsters/Rubic Angular.png" height="169px"
-title="">
+title="❶ If this card is Normal or Special Summoned: You can Special Summon 1 Level 3 ‘Rubic’ Monster from your hand or Graveyard. ❷ You can banish this card from your hand or Graveyard; send 1 ‘Rubic’ monster from your Deck to the Graveyard. You can only use each effect of ‘Rubic Angular’ once per turn.">
 <img src="../../.assets/cards/monsters/Rubic Axis.png" height="169px"
-title="">
+title="❶ If this card is Normal or Special Summoned: You can Special Summon 1 ‘Rubic Token’ (Cyberse/DARK/Level 3/ATK 300/DEF 0) to each player’s field in the same column. ❷ You can banish this card from your hand or Graveyard, then target 1 of your banished ‘Rubic’ Monsters; add it to your hand. You can only use each effect of ‘Rubic Axis’ once per turn.">
 <img src="../../.assets/cards/monsters/Rubic Sine.png" height="169px"
-title="">
+title="❶ You can target 1 card on the field; move it to an appropriate adjacent Zone, and if you do, Special Summon this card from your hand or Graveyard. ❷ If this card is banished: You can add 1 ‘Rubic’ non-Tuner Monster from your Deck to your hand. You can only use each effect of ‘Rubic Sine’ once per turn.">
 <img src="../../.assets/cards/monsters/Rubic Cosine.png" height="169px"
-title="">
+title="❶ You can target 1 card on the field; move it to an appropriate adjacent Zone, and if you do, Special Summon this card from your hand or Graveyard. ❷ If this card is banished: You can add 1 ‘Rubic’ non-Normal Spell/Trap from your Deck to your hand. You can only use each effect of ‘Rubic Cosine’ once per turn.">
 <img src="../../.assets/cards/monsters/Rubic Secant.png" height="169px"
-title="">
+title="❶ You can banish 1 other card from your hand, field or Graveyard; Special Summon this card from your hand or Graveyard, then if you banished a ‘Rubic’ card, you can negate the effects of 1 card on the field. ❷ If this card moves to another Zone: You can send 1 ‘Rubic’ Monster from your Deck to the Graveyard. You can only use each effect of ‘Rubic Secant’ once per turn.">
 <img src="../../.assets/cards/monsters/Rubic Cosecant.png" height="169px"
-title="">
+title="❶ You can banish 1 other card from your hand, field or Graveyard; Special Summon this card from your hand or Graveyard, then if you banished a ‘Rubic’ card, you can flip 1 card on the field face-down. ❷ If this card moves to another Zone: You can send 1 ‘Rubic’ Trap from your Deck to the Graveyard. You can only use each effect of ‘Rubic Cosecant’ once per turn.">
 <img src="../../.assets/cards/ritual/Rubic Driangle.png" height="169px"
-title="">
+title="You can Ritual Summon this card with ‘Rubic Dragonometry’. ❶ If your opponent Special Summons a Monster: You can target that Monster; move it any adjacent Zone, and if you do, banish it, then you can increase the ATK of 1 ‘Rubic’ Monster you control by that Monster’s original ATK, until the end of this turn. ❷ If this Ritual Summoned card leaves the field by an opponent's card: You can Special Summon 1 ‘Angle’ ‘Rubic’ Link Monster from your Extra Deck. You can only use each effect of ‘Rubic Driangle’ once per turn.">
 <img src="../../.assets/cards/spells/Rubic Plane.png" height="169px"
-title="">
+title="❶ ‘Rubic’ cards you control are unaffected by your opponent’s card effects that targeted them while they were in a different Zone. ❷ If a Monster is Special Summoned: You can move 1 card you control to an appropriate adjacent Zone. ❷ If a Spell card or effect is activated: You can Special Summon 1 ‘Rubic Token’ (Cyberse/DARK/Level 3/ATK 300/DEF 0) to either player’s field. You can only use each effect of ‘Rubic Plane’ once per turn.">
 <img src="../../.assets/cards/spells/Rubic Algorithm.png" height="169px"
-title="">
+title="❶ Target 1 other card on the field; move it to an appropriate adjacent Zone, then add 1 ‘Rubic’ card from your Deck to your hand. ❷ If a card moves to another Zone, while this card is in your Graveyard: You can target 1 of your banished ‘Rubic’ cards; return it to the Graveyard, and if you do, add this card to your hand. You cannot activate Monster effects, except those of ‘Rubic’ Monsters, the turn you activate this card’s effects. You can only activate ‘Rubic Algorithm’ once per turn.">
 <img src="../../.assets/cards/spells/Rubic Permutation.png" height="169px"
-title="">
+title="❶ Move 1 other ‘Rubic’ card on the field to an appropriate adjacent Zone, then Special Summon 1 ‘Rubic’ Monster from your Deck, with a different name than the Monsters you control. ❷ If this card is banished: You can move 1 card on the field to an appropriate adjacent Zone. You can only activate ‘Rubic Permutation’ once per turn.">
 <img src="../../.assets/cards/spells/Rubic Solution.png" height="169px"
-title="">
+title="❶ Target 1 ‘Rubic’ Monster in your Graveyard; Special Summon it to your linked Zone, then you can move it to an appropriate adjacent Zone. ❷ You can banish this card and 1 other ‘Rubic’ card from your Graveyard, then target 1 of your banished ‘Rubic’ Spell/Traps; add it to your hand. You can only use an effect of ‘Rubic Solution’ once per turn.">
 <img src="../../.assets/cards/spells/Rubic Function.png" height="169px"
-title="">
+title="Activate 1 of the following effects.
+❶ Target 1 Cyberse Xyz Monster you control; Special Summon from your Extra Deck, 1 ‘Rubic’ Xyz Monster that is up to 3 Ranks higher, by using that target as Material, then attach this card to the Summoned Monster as additional Material. (This is treated as an Xyz Summon. Transfer Materials.)
+❷ Target 1 Cyberse Link Monster you control; Special Summon from your Extra Deck, 1 ‘Rubic’ Link Monster that is up to 2 Link Ratings higher, by using that target as Material. (This is treated as a Link Summon.)
+You can only activate each effect of ‘Rubic Function’ once per turn.">
 <img src="../../.assets/cards/spells/Rubic Construction.png" height="169px"
-title="">
+title="❶ Once per Chain, if a ‘Rubic’ Spell/Trap you control moves to another Zone: You can Special Summon 1 ‘Rubic Token’ (Cyberse/DARK/Level 3/ATK 300/DEF 0) to either player’s field. ❷ If this card is banished: You can place your banished ‘Rubic Destruction’ face-up in your Spell/Trap Zone. You can only use this effect of ‘Rubic Construction’ once per turn.">
 <img src="../../.assets/cards/spells/Rubic Slice.png" height="169px"
-title="">
+title="Equip only to a ‘Rubic’ Monster. ❶ If it attacks, inflict piercing battle damage, also your opponent cannot activate cards or effects until the end of the Damage Step. ❷ If this card is banished: You can target 1 ‘Rubic’ Monster you control; equip this card to that target, then you can move it to another Main Monster Zone.">
 <img src="../../.assets/cards/spells/Rubic Dragonometry.png" height="169px"
-title="">
+title="❶ This card can be used to Ritual Summon any ‘Rubic’ Ritual Monster from your hand, Deck or Graveyard. You must also banish 3 ‘Rubic’ Monsters from your hand, field, Graveyard and/or your opponent’s field (but no more than 1 from each), whose total Levels equal 9 or a higher multiple of 3. ❷ If you have not used an effect of ‘Rubic Dragonometry’ this turn: You can target 1 of your banished ‘Rubic’ cards; shuffle this card from your Graveyard into the Deck, and if you do, add that card to your hand.">
 <img src="../../.assets/cards/traps/Rubic Scramble.png" height="169px"
-title="">
+title="❶ Move up to 3 cards on the field to appropriate adjacent Zones. ❷ If a card moves to another Zone, while this card is in your Graveyard: You can Set this card to your field. You cannot activate Monster effects, except those of ‘Rubic’ monsters, the turn you activate this card’s effects. You can only activate ‘Rubik Scramble’ once per turn.">
 <img src="../../.assets/cards/traps/Rubic Execution.png" height="169px"
-title="">
+title="Activate only as Chain Link 3 or higher. ❶ Target cards on the field, up to the number of ‘Rubic’ Ritual/Synchro/Xyz/Link Monsters you control; move them to appropriate adjacent Zones, and if you do, banish them. ❷ If a ‘Rubic’ card you control would leave the field by card effect, you can banish this card from your Graveyard instead. You can only activate ‘Rubic Execution’ once per turn.">
 <img src="../../.assets/cards/traps/Rubic Rotation.png" height="169px"
-title="">
+title="❶ Target 1 ‘Rubic’ Monster you control and 1 Monster your opponent controls; switch control of those targets. ❷ You can banish this card from your Graveyard, then target 1 Monster on the field; until the end of this turn, swap its ATK/DEF, or if it is a ‘Rubic’ Monster, increase its ATK by its DEF instead. You can only use each effect of ‘Rubic Rotation’ once per turn.">
 <img src="../../.assets/cards/traps/Rubic Megaminx.png" height="169px"
-title="">
+title="❶ Move 1 other card on the field to an appropriate adjacent Zone, then Special Summon this card as a Normal Monster (Cyberse/DARK/Level 9/ATK 2400/DEF 3000). ❷ You can banish this card and 3 ‘Rubic’ Monsters (1 Synchro, 1 Xyz, 1 Link) from your field and/or Graveyard; Special Summon 1 ‘Rubic’ ‘Angle’ Link Monster from your Extra Deck.">
 <img src="../../.assets/cards/traps/Rubic Reset.png" height="169px"
-title="">
+title="❶ Target 1 ‘Rubic’ Monster you control; banish as many other Monsters on the field as possible, then Special Summon as many of those banished Monsters as possible to their owners’ fields. ❷ If this card is banished: You can target 1 of your banished ‘Rubic’ Spell/Traps; Set it to your field. You can only use each effect of ‘Rubic Reset’ once per turn.">
 <img src="../../.assets/cards/traps/Rubic Revenge.png" height="169px"
-title="">
+title="❶ If a ‘Rubic’ Monster you control leaves the field by an opponent's card: Banish as many Monsters on the field as possible, also after that, Special Summon a number of your banished ‘Rubic’ Monsters, but negate their effects, then immediately after this effect resolves, Special Summon 1 ‘Rubic’ Monster from your Extra Deck, by using only those Monsters as Material. You can only activate ‘Rubic Revenge’ once per turn.">
 <img src="../../.assets/cards/traps/Rubic Destruction.png" height="169px"
-title="">
+title="❶ Once per Chain, if a ‘Rubic’ Spell/Trap you control moves to another Zone: You can target 1 card on the field; move it to any adjacent Zone, and if you do, destroy it. ❷ If this card is banished: You can place your banished ‘Rubic Construction’ face-up in your Spell/Trap Zone. You can only use this effect of ‘Rubic Destruction’ once per turn.">
 <img src="../../.assets/cards/traps/Rubic Inverse.png" height="169px"
-title="">
+title="❶ When your opponent Summons a Monster, or activates a card or effect: Move 1 other ‘Rubic’ card on the field an appropriate adjacent Zone, and if you do, negate the Summon or activation. ❷ If the activation of your ‘Rubic’ card or its effect would be negated, you can banish this card from your Graveyard instead.">
 <img src="../../.assets/cards/traps/Rubic Transverse.png" height="169px"
-title="">
+title="Activate only as Chain Link 3 or higher. ❶ Move 1 ‘Rubic’ Monster you control to a Main Monster Zone another ‘Rubic’ Link Monster you control links to, and if you do, negate the activations of your opponent’s cards and effects activated before this card in this Chain. ❷ You can banish this card from your Graveyard; attach to a ‘Rubic’ Xyz Monster(s) you control as Material, up to 3 Monsters on the field that ‘Rubic’ Link Monsters link to.">
 
 ## Extra Deck
 <img src="../../.assets/cards/synchro/Rubic Versine.png" height="169px"
-title="">
+title="1 ‘Rubic’ Tuner + 1 ‘Rubic’ non-Tuner Monster
+❶ If this card is Special Summoned: You can Set 1 ‘Rubic’ Trap from your Deck. You can only use this effect of ‘Rubic Versine’ once per turn. ❷ Once per Chain, if this card moves to another Zone: You can target 1 card on the field; move it to an appropriate adjacent Zone, and if you do, destroy it.">
 <img src="../../.assets/cards/synchro/Rubic Vercosine.png" height="169px"
-title="">
+title="1 ‘Rubic’ Tuner + 1 ‘Rubic’ non-Tuner Monster
+❶ If this card is Special Summoned: You can target 1 Level 6 or lower ‘Rubic’ Monster in your Graveyard; Special Summon it. You can only use this effect of ‘Rubic Vercosine’ once per turn. ❷ Once per Chain, if this card moves to another Zone: You can Set 1 ‘Rubic’ Trap from your Graveyard.">
 <img src="../../.assets/cards/synchro/Rubic Haversine.png" height="169px"
-title="">
+title="1+ ‘Rubic’ Tuners + 1+ ‘Rubic’ non-Tuner Monsters
+❶ If this card was Synchro Summoned using a Synchro Monster as Material, it is unaffected by other Monsters’ effects, except those of ‘Rubic’ Monsters. ❷ If this card battles a Monster in the same column as another ‘Rubic’ card you control, triple any battle damage inflicted to your opponent. ❸ Once per Chain, if this card moves to another Zone: You can target 1 card on the field; move it to an appropriate adjacent Zone, and if you do, banish it.">
 <img src="../../.assets/cards/synchro/Rubic Arcsine.png" height="169px"
-title="">
+title="1+ ‘Rubic’ Tuners + 1+ ‘Rubic’ non-Tuner Monsters
+❶ If this card was Synchro Summoned using a Synchro Monster as Material, it is unaffected by other cards’ effects, except those of ‘Rubic’ cards. ❷ If this card battles a Monster in another column, triple any battle damage inflicted to your opponent. ❸ If this Synchro Summoned card leaves the field: You can Special Summon up to 3 of your banished ‘Rubic’ Monsters with Levels, whose total Levels do not exceed 12.">
 <img src="../../.assets/cards/xyz/Rubic Exsecant.png" height="169px"
-title="">
+title="2+ Level 3 ‘Rubic’ Monsters
+❶ You can detach 1 Material; move 1 card on the field to an appropriate adjacent Zone, then Special Summon 1 ‘Rubic Token’ (Cyberse/DARK/Level 3/ATK 300/DEF 0) to either player’s field. ❷ If this card moves to another Zone: You can detach 1 Material; Special Summon 1 ‘Rubic’ Monster from your Deck. You can only use each effect of ‘Rubic Exsecant’ once per turn.">
 <img src="../../.assets/cards/xyz/Rubic Excosecant.png" height="169px"
-title="">
+title="2+ Level 6 ‘Rubic’ Monsters
+You can also Xyz Summon this card by using a Rank 3 ‘Rubic’ Xyz Monster as Material. (Do not transfer Materials.) ❶ Once per turn, even during the Damage Step (Quick Effect): You can detach 1 Material; move 1 card on the field to an appropriate adjacent Zone, then if it is not a ‘Rubic’ card, negate its effects. ❷ Once per Chain, if a card moves to another Zone (even during the Damage Step): You can detach 1 Material; banish that card.">
 <img src="../../.assets/cards/xyz/Rubic Arcsecant.png" height="169px"
-title="">
+title="2+ Level 9 ‘Rubic’ Monsters
+You can also treat ‘Rubic’ Xyz Monsters as Level 9 Monsters for this card’s Xyz Summon. ❶ If a ‘Rubic’ card(s) you control would be destroyed, you can detach 1 Material from this card instead. ❷ Once per Chain, if a card moves to another Zone: You can attach it to this card as Material. ❸ Once per turn, when your opponent activates a card or effect on the field (Quick Effect): You can detach 1 Material; move that card to an appropriate adjacent Zone, and if you do, that effect becomes ‘Move 1 card on the field to an appropriate adjacent Zone’.">
 <img src="../../.assets/cards/link/Rubic Radian.png" height="169px"
-title="">
+title="1 ‘Rubic’ Monster
+❶ If this card is Link Summoned: You can send 1 ‘Rubic Algorithm’ or ‘Rubic Scramble’ from your Deck to the Graveyard. ❷ If a card moves to another Zone: You can target 1 ‘Rubic’ Xyz Monster you control; attach this card from your Graveyard to it as Material. You can only use an effect of ‘Rubic Radian’ once per turn.">
 <img src="../../.assets/cards/link/Rubic Perpendicular.png" height="169px"
-title="">
+title="2 ‘Rubic’ Monsters
+❶ If this card is Link Summoned: You can target 1 of your banished ‘Rubic’ cards; add it to your hand. ❷ You can target 1 ‘Rubic’ Monster you control and 1 Monster your opponent controls; move those targets to the Main Monster Zones this card links to, and if you do, your Monster gains ATK equal to half the original ATK of your opponent's Monster. You can only use each effect of ‘Rubic Perpendicular’ once per turn.">
 <img src="../../.assets/cards/link/Rubic Diagonal.png" height="169px"
-title="">
+title="2 ‘Rubic’ Monsters
+❶ If this card is Link Summoned: You can add 1 ‘Rubic Dragonometry’ from your Deck to your hand, also you can shuffle 1 of your banished ‘Rubic’ Monsters into the Deck. ❷ Once per turn, if a card is placed in a Zone this card links to: You can move that card to an appropriate adjacent Zone, then you can Special Summon up to 2 ‘Rubic Token’s (Cyberse/DARK/Level 3/ATK 300/DEF 0) to either player’s Zones this card links to.">
 <img src="../../.assets/cards/link/Rubic Vertex.png" height="169px"
-title="">
+title="2 ‘Rubic’ Monsters
+❶ This card and cards it links to cannot be targeted by your opponent’s card effects. ❷ Once per Chain, if a card is placed in a Zone this card links to: You can move any number of Monsters this card links to to appropriate adjacent Zones, then Special Summon as many ‘Rubic Token’s (Cyberse/DARK/Level 3/ATK 300/DEF 0) as possible to either player’s Zones this card links to.">
 <img src="../../.assets/cards/link/Rubic Quadrangle.png" height="169px"
-title="">
+title="2 ‘Rubic’ Monsters
+❶ Unaffected by the activated effects of non-Link Monsters while in the Extra Monster Zone. ❷ Other Monsters this card does not link to cannot attack. ❸ Once per Battle Phase (Quick Effect): You can banish all cards this card links to, then apply the following effects, depending on the number of cards that left the field by this effect. • 1+: Double this card’s ATK. • 2+: Inflict 1000 damage for each card banished. • 3+: Banish 1 card on the field.">
 <img src="../../.assets/cards/link/Rubic Hexangle.png" height="169px"
-title="">
+title="3 ‘Rubic’ Monsters
+❶ Unaffected by activated effects, except those of ‘Rubic’ cards, while in the Extra Monster Zone. ❷ This card gains 1200 ATK for each card it links to. ❸ Once per Chain (Quick Effect): You can move this card to your Main or Extra Monster Zone it links to. ❹ Once per turn, if this card moves to a Main Monster Zone: You can target 1 other Monster on the field or in either player’s Graveyard; place it in your Main Monster Zone this card links to. (If your opponent owns it, take control of it.) ❺ You can only control 1 ‘Rubic Hexangle’.">
 
 </details>
 
