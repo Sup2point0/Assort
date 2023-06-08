@@ -1,6 +1,6 @@
 # Cards
 
-All the custom cards I’ve cryzen.
+All the custom cards I’ve created.
 
 
 <br>
@@ -14,29 +14,26 @@ All the custom cards I’ve cryzen.
 
 ### Ritual
 [Laiza, Enchantress of Darquess](monsters/ritual/Laiza.md)  
-[Next-Gen Sky Dragon of Osiris](monsters/ritual/Next-Gen%20Sky%20Dragon%20of%20Osiris.md)  
 [Raiza, Sorceress of Darquess](monsters/ritual/Raiza.md)  
+[Vaiza, Empress of Darquess](monsters/ritual/Vaiza.md)  
 
 ### Fusion
-[Screaming Venom Fusion Dragon](monsters/fusion/Screaming%20Venom%20Fusion%20Dragon.md)
 [Vengeance Vanguard](monsters/fusion/Vengeance%20Vanguard.md)  
-[XYZ-Gen Cyber Crush Overdragon](monsters/fusion/XYZ-Gen%20Cyber%20Crush%20Overdragon.md)  
+[Primordial Darquessence, Oblivion of Darquess](monsters/fusion/Primordial%20Darquessence.md)  
 
 ### Synchro
-[Next-Gen Crystal Tear Wing Synchro Dragon](monsters/synchro/Next-Gen%20Crystal%20Tear%20Wing%20Synchro%20Dragon.md)  
-[Next-Gen Crystal Wing Synchro Dragon](monsters/synchro/Next-Gen%20Crystal%20Wing%20Synchro%20Dragon.md)  
-[Next-Gen Tear Wing Synchro Dragon](monsters/synchro/Next-Gen%20Tear%20Wing%20Synchro%20Dragon.md)  
-[Soul Slayer](monsters/synchro/Soul%20Slayer.md)  
+[Rubic Arcsine](monsters/synchro/Rubic%20Arcsine.md)  
 
 ### Xyz
-[Next-Gen Dark Rebellion Xyz Dragon](monsters/xyz/Next-Gen%20Dark%20Rebellion%20Xyz%20Dragon)
+[Dark-Knight Onyx Arisen](monsters/xyz/Dark-Knight%20Onyx%20Arisen.md)  
+[Rubic Arcsecant](monsters/xyz/Rubic%20Arcsecant.md)  
 
 ### Pendulum
-[Arcane Battlemage](monsters/pendulum/Arcane%20Battlemage.md)  
+[World Affinity Tyrian Pendragon](monsters/ritual/World%20Affinity%20Tyrian%20Pendragon.md)  
 
 ### Link
-[Next-Gen XYZ-Dragon Crush Cannon](monsters/link/Next-Gen%20XYZ-Dragon%20Crush%20Cannon.md)  
-[Unspecialyzed](monsters/link/Unspecialyzed.md)  
+[Ark-Knight Cerulean Aventurescence](monsters/link/Ark-Knight%20Cerulean%20Aventurescence.md)  
+[Rubic Hexangle](monsters/link/Rubic%20Hexangle.md)  
 
 
 <br>
@@ -44,11 +41,35 @@ All the custom cards I’ve cryzen.
 
 ## Spells
 
+### Normal
+[Foolish Burial Trade](spells/Foolish%20Burial%20Trade.md)  
+[Foolish Exile](spells/Foolish%20Exile.md)  
+[Rubic Algorithm](spells/Rubic%20Algorithm.md)  
+[That Grass Looks Darker](spells/That%20Grass%20Looks%20Darker.md)  
+
+### Quick-Play
+[Instant Draw](spells/Instant%20Draw.md)  
+[Quick Polymerization](spells/Quick%20Polymerization.md)  
+[Quickdraw Summon](spells/Quickdraw%20Summon.md)  
+
+### Ritual
+[Darquess Rising](spells/Darquess%20Rising.md)  
+
 
 <br>
 
 
 ## Traps
 
+### Normal
+[Awakening the Drakon](traps/Awakening%20the%20Drakon.md)  
+[Infinite Impertinence](traps/Infinite%20Impertinence.md)  
+[Rubic Scramble](traps/Rubic%20Scramble.md)  
+[Terrorforming](traps/Terrorforming.md)  
+
+### Continuous
+[Darkchoke](traps/Darkchoke.md)  
+
 ### Counter
+[Darquess Falling](traps/Darquess%20Falling.md)  
 [Victory in Vengeance](Victory%20in%20Vengeance.md)  
