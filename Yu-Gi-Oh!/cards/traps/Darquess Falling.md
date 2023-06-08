@@ -45,3 +45,4 @@
 - This card is a counterpart to [Darquess Rising](../spells/Darquess%20Rising.md).
   - Rising Ritual Summons from the hand or Grave, Falling Ritual Summons from the Grave or Banished Pile.
   - Rising Fusion Summons from the Extra Deck or Grave, Falling Fusion Summons from the Extra Deck or Banished Pile.
+- The artwork is a {...} edit of Coven Morgana from [*League of Legends*](https://wikipedia.org/wiki/League_of_Legends).
