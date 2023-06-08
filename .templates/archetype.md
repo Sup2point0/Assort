@@ -82,7 +82,7 @@ An archetype of – Monsters, revolving around – Summoning, inspired by the [*
 - Hover over a card to view its card text.
 
 ### Notes
-- The cards are ordered in a logical order rather than by property.
+- The cards are ordered in a logical order rather than by properties.
 - The number of copies are not exact – they only indicate a card’s place within the deck.
 - The staples provided are not exhaustive – they are only those that synergise especially well with the deck.
 
