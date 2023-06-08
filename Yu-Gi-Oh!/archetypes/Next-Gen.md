@@ -1,6 +1,6 @@
-revitalisation# Next-Gen
+# Next-Gen
 
-A superarchetype of revitalyzacions of various existing archetypes.
+A superarchetype of revitalisations of various existing archetypes.
 
 
 <br>
@@ -10,9 +10,11 @@ A superarchetype of revitalyzacions of various existing archetypes.
 
 | archetype | origin | notes |
 | :-------- | :----- | :---- |
-| [Next-Gen A-to-Z](Next-Gen%20A-to-Z.md) | [A-to-Z](https://yugipedia.com/wiki/A-to-Z) | |
+| [Next-Gen A-to-Z](Next-Gen%20A-to-Z.md) | [A-to-Z](https://yugipedia.com/wiki/A-to-Z) | now with (eventually) a Monster for every letter in the alphabet |
 | [Next-Gen Code Talker](Next-Gen%20Code%20Talker.md) | [Code Talker](https://yugipedia.com/wiki/Code_Talker_(archetype)) | |
 | [Next-Gen Cyber Dragon](Next-Gen%20Cyber%20Dragon.md) | [Cyber Dragon](https://yugipedia.com/wiki/Cyber_Dragon_(archetype)) | evolves into [Next-Next-Next-Next-Next-Next-Gen Cyber Dragon](../cards/monsters/xyz/Next-Next-Next-Next-Next-Next-Gen%20Cyber%20Dragon.md) |
+| Next-Gen Firewall | [Firewall](https://yugipedia.com/wiki/Firewall_(archetype)) | |
+| Next-Gen Processlayer | [Mathmech](https://yugipedia.com/wiki/Mathmech) | *Processlayer*, the cooler TCG fan translation of *Zanki* from the OCG |
 | [Next-Gen Raidraptor](Next-Gen%20Raidraptor.md) | [Raidraptor](https://yugipedia.com/wiki/Raidraptor) | |
 
 
@@ -29,6 +31,8 @@ A superarchetype of revitalyzacions of various existing archetypes.
 | Synchro  | x |
 | Xyz      | x |
 | Link     | x |
+| Spell    | x |
+| Trap     | x |
 
 ### Monsters
 
@@ -65,7 +69,6 @@ A superarchetype of revitalyzacions of various existing archetypes.
 | [Next-Gen Cyber Wings](../cards/spells/equip/–.md) | ✦ Equip |
 | [Next-Gen Devolution](../cards/spells/–/–.md) | ⚡︎ Quick |
 | [Next-Gen Evolution](../cards/spells/–/–.md) | ⚡︎ Quick |
-| [Next-Gen Recycle](../cards/spells/–/–.md) | ∞ Continuous |
 | [Next-Gen Resolution](../cards/spells/–/–.md) | ∞ Continuous |
 | [Next-Gen –](../cards/spells/–/–.md) | – |
 
@@ -96,3 +99,5 @@ A superarchetype of revitalyzacions of various existing archetypes.
 
 
 ## Trivia
+
+- This superarchetype’s name is inspired by the [Next-Gen](https://soul-knight.fandom.com/wiki/Next-gen_SMG) series of weapons from [*Soul Knight*](https://soul-knight.fandom.com).
