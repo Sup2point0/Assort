@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td> Restrictions </td>
-    <td> Limited </td>
+    <td> Semi-Limited </td>
   </tr>
   <tr>
     <td colspan="2"> <img src="../../../.assets/cards/spells/Foolish Exile.png" width="320px"> </td>
