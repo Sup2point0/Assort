@@ -376,6 +376,18 @@ With such an efficient and consistent but xenophobic engine, the archetype has p
     <td align="center"> Execution </td>
     <td align="center"> Rotation </td>
     <td align="center"> Megaminx </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/traps/Rubic Execution.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/traps/Rubic Rotation.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/traps/Rubic Megaminx.png"> </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th> Trap </th>
     <td align="center"> Reset </td>
     <td align="center"> Revenge </td>
     <td align="center"> Inverse </td>
@@ -383,9 +395,6 @@ With such an efficient and consistent but xenophobic engine, the archetype has p
   </tr>
   <tr>
     <th> card </th>
-    <td align="center"> <img src="../../.assets/cards/traps/Rubic Execution.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/traps/Rubic Rotation.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/traps/Rubic Megaminx.png"> </td>
     <td align="center"> <img src="../../.assets/cards/traps/Rubic Reset.png"> </td>
     <td align="center"> <img src="../../.assets/cards/traps/Rubic Revenge.png"> </td>
     <td align="center"> <img src="../../.assets/cards/traps/Rubic Inverse.png"> </td>
