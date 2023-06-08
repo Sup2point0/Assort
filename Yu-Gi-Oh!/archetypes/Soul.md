@@ -111,6 +111,130 @@ Any Monsters whose Types are not specified are Psychic.
 <br>
 
 
+## Deck
+
+> Last updated: {...}
+
+### Tips
+- View the deck on [DuelingBook](...)!
+- Hover over a card to view its card text.
+
+### Notes
+- The cards are ordered in a logical order rather than by properties.
+- The number of copies are not exact – they only indicate a card’s place within the deck.
+- The staples provided are not exhaustive – they are only those that synergise especially well with the deck.
+
+<details open>
+  <summary> <b> display </b> </summary>
+
+### Main Deck
+<img src="../../.assets/cards/monsters/Soul Synchron.png" height="169px"
+title="">
+<img src="../../.assets/cards/monsters/Soul Shard.png" height="169px"
+title="">
+<img src="../../.assets/cards/monsters/Soul Fragment.png" height="169px"
+title="">
+<img src="../../.assets/cards/monsters/Tearful Soul.png" height="169px"
+title="">
+<img src="../../.assets/cards/monsters/Sorrowful Soul.png" height="169px"
+title="">
+<img src="../../.assets/cards/monsters/Vengeful Soul.png" height="169px"
+title="">
+<img src="../../.assets/cards/monsters/Soul Magician.png" height="169px"
+title="">
+<img src="../../.assets/cards/monsters/Soul Demon.png" height="169px"
+title="">
+<img src="../../.assets/cards/monsters/Soul Spider.png" height="169px"
+title="">
+<img src="../../.assets/cards/monsters/Soul Swordsman.png" height="169px"
+title="">
+<img src="../../.assets/cards/monsters/Soul Dragon.png" height="169px"
+title="">
+<img src="../../.assets/cards/monsters/Soul Elder.png" height="169px"
+title="">
+<img src="../../.assets/cards/monsters/Shadow Assassin.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Soul Ritual.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Soul Scripture.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Pot of Souls.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Soul Seeker.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Soul Manifestation.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Soul Resurgence.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Soul Sanctuary.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Soul Chasm.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Soul Necropolis.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Soul Walker.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Soul Corruption.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Soul Purity.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Soul Illusion.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Soul Dagger.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Soul Prophecy.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Shadow Surge.png" height="169px"
+title="">
+<img src="../../.assets/cards/traps/Soul Rupture.png" height="169px"
+title="">
+<img src="../../.assets/cards/traps/Soul Fracture.png" height="169px"
+title="">
+<img src="../../.assets/cards/traps/Soul Virus.png" height="169px"
+title="">
+<img src="../../.assets/cards/traps/Soul Scream.png" height="169px"
+title="">
+<img src="../../.assets/cards/traps/Tormenting Trap Hole.png" height="169px"
+title="">
+<img src="../../.assets/cards/traps/Darkchoke.png" height="169px"
+title="">
+<img src="../../.assets/cards/traps/Victory in Vengeance.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Foolish Burial Trade.png" height="169px"
+title="">
+
+### Extra Deck
+<img src="../../.assets/cards/synchro/Soul Shard Synchron.png" height="169px"
+title="">
+<img src="../../.assets/cards/synchro/Soul Snake.png" height="169px"
+title="">
+<img src="../../.assets/cards/synchro/Soul Alchemist.png" height="169px"
+title="">
+<img src="../../.assets/cards/synchro/Soul Knight.png" height="169px"
+title="">
+<img src="../../.assets/cards/synchro/Soul Wanderer.png" height="169px"
+title="">
+<img src="../../.assets/cards/synchro/Soul Guardian.png" height="169px"
+title="">
+<img src="../../.assets/cards/synchro/Soul Warden.png" height="169px"
+title="">
+<img src="../../.assets/cards/synchro/Soul Shard Swordsman.png" height="169px"
+title="">
+<img src="../../.assets/cards/synchro/Soul Shard Dragon.png" height="169px"
+title="">
+<img src="../../.assets/cards/synchro/Soul Slayer.png" height="169px"
+title="">
+<img src="../../.assets/cards/synchro/Soul Assassin.png" height="169px"
+title="">
+<img src="../../.assets/cards/fusion/Vengeance Vanguard.png" height="169px"
+title="">
+
+</details>
+
+
+<br>
+
+
 ## Trivia
 
 - [Vengeance Vanguard](../cards/fusion/Vengeance%20Vanguard.md) is the ultimate Monster of the archetype, but is not in the archetype itself.
