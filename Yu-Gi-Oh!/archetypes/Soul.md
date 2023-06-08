@@ -308,6 +308,6 @@ title="">
 
 - [Vengeance Vanguard](../cards/fusion/Vengeance%20Vanguard.md) is the ultimate Monster of the archetype, but is not in the archetype itself.
 - The 0 ATK or DEF of Monsters reflects their fragility and volatility.
-- A significant chunk of the art is sourced from League of Legends.
+- A significant chunk of the art is sourced from [*League of Legends*](https://wikipedia.org/wiki/League_of_Legends).
 - This is one of the first custom archetypes I created.
   - It originally formed a deck with the [Ninjato](Ninjato.md) archetype, before I decided to split them so each could focus on their individual playstyle.
