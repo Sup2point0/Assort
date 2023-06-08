@@ -64,14 +64,14 @@ An archetype of DARK Cyberse Monsters, harnessing Synchro, Xyz, Link Summoning a
 
 | card | property |
 | :--- | :------- |
-| [Rubic Plane](../cards/spells/–.md) | ✦ Field |
-| [Rubic Algorithm](../cards/spells/–.md) | |
-| [Rubic Permutation](../cards/spells/–.md) | |
-| [Rubic Solution](../cards/spells/–.md) | |
-| [Rubic Function](../cards/spells/–.md) | ⚡︎ Quick |
-| [Rubic Construction](../cards/spells/–.md) | ∞ Continuous |
-| [Rubic Slice](../cards/spells/–.md) | + Equip |
-| [Rubic Dragonometry](../cards/spells/–.md) | ⟡ Ritual |
+| [Rubic Plane](../cards/spells/Rubic%20Plane.md) | ✦ Field |
+| [Rubic Algorithm](../cards/spells/Rubic%20Algorithm.md) | |
+| [Rubic Permutation](../cards/spells/Rubic%20Permutation.md) | |
+| [Rubic Solution](../cards/spells/Rubic%20Solution.md) | |
+| [Rubic Function](../cards/spells/Rubic%20Function.md) | ⚡︎ Quick |
+| [Rubic Construction](../cards/spells/Rubic%20Construction.md) | ∞ Continuous |
+| [Rubic Slice](../cards/spells/Rubic%20Slice.md) | + Equip |
+| [Rubic Dragonometry](../cards/spells/Rubic%20Dragonometry.md) | ⟡ Ritual |
 
 </details>
 
@@ -82,15 +82,15 @@ An archetype of DARK Cyberse Monsters, harnessing Synchro, Xyz, Link Summoning a
 
 | card | property |
 | :--- | :------- |
-| [Rubic Scramble](../cards/traps/–.md) | |
-| [Rubic Execution](../cards/traps/–.md) | |
-| [Rubic Rotation](../cards/traps/–.md) | |
-| [Rubic Megaminx](../cards/traps/–.md) | |
-| [Rubic Reset](../cards/traps/–.md) | |
-| [Rubic Revenge](../cards/traps/–.md) | |
-| [Rubic Destruction](../cards/traps/–.md) | ∞ Continuous |
-| [Rubic Inverse](../cards/traps/–.md) | ↵ Counter |
-| [Rubic Transverse](../cards/traps/–.md) | ↵ Counter |
+| [Rubic Scramble](../cards/traps/Rubic%20Scramble.md) | |
+| [Rubic Execution](../cards/traps/Rubic%20Execution.md) | |
+| [Rubic Rotation](../cards/traps/Rubic%20Rotation.md) | |
+| [Rubic Megaminx](../cards/traps/Rubic%20Megaminx.md) | |
+| [Rubic Reset](../cards/traps/Rubic%20Reset.md) | |
+| [Rubic Revenge](../cards/traps/Rubic%20Revenge.md) | |
+| [Rubic Destruction](../cards/traps/Rubic%20Destruction.md) | ∞ Continuous |
+| [Rubic Inverse](../cards/traps/Rubic%20Inverse.md) | ↵ Counter |
+| [Rubic Transverse](../cards/traps/Rubic%20Transverse.md) | ↵ Counter |
 
 </details>
 
@@ -451,10 +451,82 @@ Since several of the archetype’s effects involve moving cards to appropriate a
   <summary> <b> display </b> </summary>
 
 ### Main Deck
-{...}
+<img src="../../.assets/cards/monsters/Rubic Angular.png" height="169px"
+title="">
+<img src="../../.assets/cards/monsters/Rubic Axis.png" height="169px"
+title="">
+<img src="../../.assets/cards/monsters/Rubic Sine.png" height="169px"
+title="">
+<img src="../../.assets/cards/monsters/Rubic Cosine.png" height="169px"
+title="">
+<img src="../../.assets/cards/monsters/Rubic Secant.png" height="169px"
+title="">
+<img src="../../.assets/cards/monsters/Rubic Cosecant.png" height="169px"
+title="">
+<img src="../../.assets/cards/ritual/Rubic Driangle.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Rubic Plane.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Rubic Algorithm.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Rubic Permutation.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Rubic Solution.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Rubic Function.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Rubic Construction.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Rubic Slice.png" height="169px"
+title="">
+<img src="../../.assets/cards/spells/Rubic Dragonometry.png" height="169px"
+title="">
+<img src="../../.assets/cards/traps/Rubic Scramble.png" height="169px"
+title="">
+<img src="../../.assets/cards/traps/Rubic Execution.png" height="169px"
+title="">
+<img src="../../.assets/cards/traps/Rubic Rotation.png" height="169px"
+title="">
+<img src="../../.assets/cards/traps/Rubic Megaminx.png" height="169px"
+title="">
+<img src="../../.assets/cards/traps/Rubic Reset.png" height="169px"
+title="">
+<img src="../../.assets/cards/traps/Rubic Revenge.png" height="169px"
+title="">
+<img src="../../.assets/cards/traps/Rubic Destruction.png" height="169px"
+title="">
+<img src="../../.assets/cards/traps/Rubic Inverse.png" height="169px"
+title="">
+<img src="../../.assets/cards/traps/Rubic Transverse.png" height="169px"
+title="">
 
 ## Extra Deck
-{...}
+<img src="../../.assets/cards/synchro/Rubic Versine.png" height="169px"
+title="">
+<img src="../../.assets/cards/synchro/Rubic Vercosine.png" height="169px"
+title="">
+<img src="../../.assets/cards/synchro/Rubic Haversine.png" height="169px"
+title="">
+<img src="../../.assets/cards/synchro/Rubic Arcsine.png" height="169px"
+title="">
+<img src="../../.assets/cards/xyz/Rubic Exsecant.png" height="169px"
+title="">
+<img src="../../.assets/cards/xyz/Rubic Excosecant.png" height="169px"
+title="">
+<img src="../../.assets/cards/xyz/Rubic Arcsecant.png" height="169px"
+title="">
+<img src="../../.assets/cards/link/Rubic Radian.png" height="169px"
+title="">
+<img src="../../.assets/cards/link/Rubic Perpendicular.png" height="169px"
+title="">
+<img src="../../.assets/cards/link/Rubic Diagonal.png" height="169px"
+title="">
+<img src="../../.assets/cards/link/Rubic Vertex.png" height="169px"
+title="">
+<img src="../../.assets/cards/link/Rubic Quadrangle.png" height="169px"
+title="">
+<img src="../../.assets/cards/link/Rubic Hexangle.png" height="169px"
+title="">
 
 </details>
 
