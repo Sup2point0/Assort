@@ -2,7 +2,6 @@
 
 {desc}
 
-
 <table>
   <tr>
     <th colspan="3"> <h3> Primordial Darquessence, Oblivion of Darquess </h3> </th>
