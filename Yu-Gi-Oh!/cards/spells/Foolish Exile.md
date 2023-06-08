@@ -44,5 +44,5 @@
 
 ## Trivia
 
-- This card is inspired by the [Foolish](https://yugipedia.com/wiki/Foolish) series.
+- This card is inspired by the [*Foolish*](https://yugipedia.com/wiki/Foolish) series.
 - Functionally, it is a downgrade of [Gold Sarcophagus](https://yugipedia.com/wiki/Gold_Sarcophagus).
