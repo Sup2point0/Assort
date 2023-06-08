@@ -45,6 +45,9 @@ Inkurzen
 &emsp; [Next-Gen A-to-Z](Next-Gen%20A-to-Z.md)  
 &emsp; [Next-Gen Code Talker](Next-Gen%20Code%20Talker.md)  
 &emsp; [Next-Gen Cyber Dragon](Next-Gen%20Cyber%20Dragon.md)  
+&emsp; Next-Gen Firewall  
+&emsp; Next-Gen Processlayer  
+&emsp; Next-Gen Raidraptor  
 [Ninjato](Ninjato.md)  
 [**Rubic**](Rubic.md)  
 [Shadow](Shadow.md)  
