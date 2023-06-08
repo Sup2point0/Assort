@@ -41,3 +41,5 @@
 
 
 ## Trivia
+
+- This card’s artwork is of Coven Morgana from [*League of Legends*](https://wikipedia.org/wiki/League_of_Legends).
