@@ -257,6 +257,12 @@ title="Shuffle any number of your banished ‘Soul’ cards into the Deck, then 
 <img src="../../.assets/cards/synchro/Soul Shard Synchron.png" height="169px"
 title="‘Soul Synchron’ + 1+ ‘Soul Shard’s
 Return this banished card to the Extra Deck at the end of each turn. You can Synchro Summon this card using materials with any Level. This card’s original Level becomes the total Levels of the materials used for its Synchro Summon (even after it leaves the field). You can send 1 ‘Soul’ non-Tuner monster from your Deck or Extra Deck to the Graveyard; increase or decrease this card’s Level by that monster’s Level in the Graveyard. You can only use this effect of 'Soul Shard Synchron' once per turn.">
+<img src="../../.assets/cards/synchro/Soul Shard Synchron.png" height="169px"
+title="‘Soul Synchron’ + 1+ ‘Soul Shard’s
+Return this banished card to the Extra Deck at the end of each turn. You can Synchro Summon this card using materials with any Level. This card’s original Level becomes the total Levels of the materials used for its Synchro Summon (even after it leaves the field). You can send 1 ‘Soul’ non-Tuner monster from your Deck or Extra Deck to the Graveyard; increase or decrease this card’s Level by that monster’s Level in the Graveyard. You can only use this effect of 'Soul Shard Synchron' once per turn.">
+<img src="../../.assets/cards/synchro/Soul Shard Synchron.png" height="169px"
+title="‘Soul Synchron’ + 1+ ‘Soul Shard’s
+Return this banished card to the Extra Deck at the end of each turn. You can Synchro Summon this card using materials with any Level. This card’s original Level becomes the total Levels of the materials used for its Synchro Summon (even after it leaves the field). You can send 1 ‘Soul’ non-Tuner monster from your Deck or Extra Deck to the Graveyard; increase or decrease this card’s Level by that monster’s Level in the Graveyard. You can only use this effect of 'Soul Shard Synchron' once per turn.">
 <img src="../../.assets/cards/synchro/Soul Snake.png" height="169px"
 title="1 ‘Soul’ Tuner + 1+ ‘Soul’ non-Tuner monsters
 If this card is sent to the Graveyard: You can add 1 ‘Soul’ card from your Graveyard to your hand. If this card is banished: You can equip it to a monster on the field. You can only use this effect of ‘Soul Snake’ once per turn. Negate the equipped monster’s attacks and effects, also it cannot be used as Special Summon material.">
