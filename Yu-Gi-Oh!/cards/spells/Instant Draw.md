@@ -43,6 +43,6 @@
 
 ## Trivia
 
-- This card’s original effect was `Discard 1 card; draw 2 cards.`.
+- This card’s original effect was `Discard 1 card; draw 2 cards.`
   - However, this was far too generic, and would render cards like [Allure of Darkness](https://yugipedia.com/wiki/Allure_of_Darkness) or [Trade-In](https://yugipedia.com/wiki/Trade-In) rather meaningless.
 - This card’s art is taken from [Shining Draw](https://yugipedia.com/wiki/Shining_Draw_(card)).
