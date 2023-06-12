@@ -23,7 +23,6 @@ A series of custom staple cards, many parodies of existing cards.
 | :--- | :---- | :------ | :--- | :-------- |
 | [Bloody Blossoms of the Afterlife](../cards/monsters/standard/–.md) | 0 | 0 / 0 | Illusionist Tuner | DARK |
 | [Bloody Blossoms of the Afterworld](../cards/monsters/standard/–.md) | 0 | 0 / 0 | Illusionist Tuner | DARK |
-| [–](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – | – |
 
 </details>
 
