@@ -39,9 +39,11 @@
 
 ## Aspects
 
-| aspect | type | name | notes |
-| :----- | :--- | :--- | :---- |
-| 
+| aspect | type | notes |
+| :----- | :--- | :---- |
+| This card’s original Level is treated as 0. | condition | Level 0 Tuners, let’s go |
+| During your opponent’s turn (Quick Effect): You can send this card from your hand or field to the Graveyard; this turn, each time your opponent Special Summons a monster, they must banish 1 card from their hand, field, Extra Deck or Graveyard face-down. | A potentially devastating handtrap effect. |
+| You cannot activate other card effects the turn you activate this effect. | lock condition | Severely restricted, so that the only interrupt the opponent will need to deal with is this one. |
 
 
 <br>
@@ -51,3 +53,4 @@
 
 - This card’s art is taken from [Red Blossoms from Underroot](https://yugipedia.com/wiki/Red_Blossoms_from_Underroot).
   - This is a remake of that card as a handtrap.
+- This card is intended to be a replacement for [Maxx "C"](https://yugipedia.com/wiki/Maxx_"C").
