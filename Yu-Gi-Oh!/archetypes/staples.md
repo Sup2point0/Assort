@@ -21,8 +21,8 @@ A series of custom staple cards, many parodies of existing cards.
 
 | card | Level | ATK/DEF | Type | Attribute |
 | :--- | :---- | :------ | :--- | :-------- |
-| [Bloody Blossoms of the Afterlife](../cards/monsters/standard/–.md) | 0 | 0 / 0 | Illusionist Tuner | DARK |
-| [Bloody Blossoms of the Afterworld](../cards/monsters/standard/–.md) | 0 | 0 / 0 | Illusionist Tuner | DARK |
+| [Bloody Blossoms of the Afterlife](../cards/monsters/standard/Bloody%20Blossoms%20of%20the%20Afterlife.md) | 0 | 0 / 0 | Illusionist Tuner | DARK |
+| [Bloody Blossoms of the Afterworld](../cards/monsters/standard/Bloody%20Blossoms%20of%20the%20Afterworld.md) | 0 | 0 / 0 | Illusionist Tuner | DARK |
 
 </details>
 
