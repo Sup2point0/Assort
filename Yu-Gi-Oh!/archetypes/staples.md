@@ -43,16 +43,17 @@ A series of custom staple cards, many parodies of existing cards.
 
 | card | property |
 | :--- | :------- |
-| [Final Vanquish](../cards/spells/–.md) | |
-| [Foolish Burial Trade](../cards/spells/–.md) | |
-| [Foolish Exile](../cards/spells/–.md) | |
-| [Instant Draw](../cards/spells/–.md) | ⚡︎ Quick |
-| [It’s In The Name](../cards/spells/–.md) | |
-| [Quick Polymerization](../cards/spells/–.md) | ⚡︎ Quick |
-| [Quickdraw Summon](../cards/spells/–.md) | ⚡︎ Quick |
-| [Rakurai](../cards/spells/–.md) | |
-| [That Grass Looks Darker](../cards/spells/–.md) | |
-| [–](../cards/spells/–.md) | – |
+| [Atrocious Fusion](../cards/spells/Atrocious%20Fusion.md) | ⚡︎ Quick |
+| [Final Vanquish](../cards/spells/Final%20Vanquish.md) | |
+| [Foolish Burial Trade](../cards/spells/Foolish%20Burial%20Trade.md) | |
+| [Foolish Exile](../cards/spells/Foolish%20Exile.md) | |
+| [Hybrid Polymerization](../cards/spells/Hybrid%20Polymerization.md) | ⚡︎ Quick |
+| [Instant Draw](../cards/spells/Instant%20Draw.md) | ⚡︎ Quick |
+| [It's In The Name](../cards/spells/It's%20In%20The%20Name.md) | |
+| [Quick Polymerization](../cards/spells/Quick%20Polymerization.md) | ⚡︎ Quick |
+| [Quickdraw Summon](../cards/spells/Quickdraw%20Summon.md) | ⚡︎ Quick |
+| [Rakurai](../cards/spells/Rakurai.md) | |
+| [That Grass Looks Darker](../cards/spells/That%20Grass%20Looks%20Darker.md) | |
 
 </details>
 
@@ -63,10 +64,13 @@ A series of custom staple cards, many parodies of existing cards.
 
 | card | property |
 | :--- | :------- |
-| [Awakening the Drakon](../cards/traps/–.md) | |
-| [Darkchoke](../cards/traps/–.md) | ∞ Continuous |
-| [Infinite Impertinence](../cards/traps/–.md) | |
-| [Terrorforming](../cards/traps/–.md) | |
+| [Awakening the Drakon](../cards/traps/Awakening%20the%20Drakon.md) | |
+| [Darkchoke](../cards/traps/Darkchoke.md) | ∞ Continuous |
+| [Infinite Impertinence](../cards/traps/Infinite%20Impertinence.md) | |
+| [Solemn Silence](../cards/traps/Solemn%20Silence.md) | ↵ Counter |
+| [Terrorforming](../cards/traps/Terrorforming.md) | |
+| [Tormenting Trap Hole](../cards/traps/Tormenting%20Trap%20Hole.md) | |
+| [Victory in Vengeance](../cards/traps/Victory%20in%20Vengeance.md) | ↵ Counter |
 | [–](../cards/traps/–.md) | – |
 
 </details>
