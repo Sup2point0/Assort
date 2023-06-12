@@ -55,6 +55,6 @@ Random decks I decided to make for fun, but rarely play with.
 
 ### Other
 
-| deck | notes | card text |
-| :--- | :---- | :-------- |
-| [staples](https://duelingbook.com/deck?id=12239205) | all my custom staple cards! | canon PSCT |
+| deck | series | notes | card text |
+| :--- | :----- | :---- | :-------- |
+| [staples](https://duelingbook.com/deck?id=12239205) | [staples](archetypes/staples.md) | all my custom staple cards! | canon PSCT |
