@@ -39,3 +39,5 @@
 
 
 ## Trivia
+
+- This card’s art is taken from [Fusion of Fire](https://yugipedia.com/wiki/Fusion_of_Fire).
