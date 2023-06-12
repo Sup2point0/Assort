@@ -70,7 +70,6 @@ A series of custom staple cards, many parodies of existing cards.
 | [Terrorforming](../cards/traps/Terrorforming.md) | |
 | [Tormenting Trap Hole](../cards/traps/Tormenting%20Trap%20Hole.md) | |
 | [Victory in Vengeance](../cards/traps/Victory%20in%20Vengeance.md) | ↵ Counter |
-| [–](../cards/traps/–.md) | – |
 
 </details>
 
@@ -83,7 +82,7 @@ A series of custom staple cards, many parodies of existing cards.
 > Last updated: June 2023
 
 ### Tips
-- View the deck on [DuelingBook](...)!
+- View the deck on [DuelingBook](https://duelingbook.com/deck?id=12239205)!
 - Hover over a card to view its card text.
 
 ### Notes
@@ -99,7 +98,7 @@ title="(This card’s original Level is treated as 0.)
 During your opponent’s turn (Quick Effect): You can send this card from your hand or field to the Graveyard; this turn, each time your opponent Special Summons a monster, they must banish 1 card from their hand, field, Extra Deck or Graveyard face-down. You cannot activate other card effects the turn you activate this effect.">
 <img src="../../.assets/cards/monsters/Bloody Blossoms of the Afterworld.png" height="169px"
 title="(This card’s original Level is treated as 0.)
-Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 or more monsters on the field with different types (Fusion/Synchro/Xyz/Link). You cannot Normal Summon/Set during the turn you Summon ‘Bloody Blossoms of the Afterworld’ this way. Cannot be Tributed or used as Special Summon Material. There can only be 1 ‘Bloody Blossoms of the Afterworld’ on the field.">
+Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 or more monsters on the field with different types (Fusion/Synchro/Xyz/Link). You cannot Normal Summon/Set during the turn you Summon ‘Bloody Blossoms of the Afterworld’ this way. Cannot be Tributed or used as Special Summon material. There can only be 1 ‘Bloody Blossoms of the Afterworld’ on the field.">
 <img src="../../.assets/cards/spells/Instant Draw.png" height="169px"
 title="Activate 1 of the following effects.
 • Tribute 2 other cards from your hand and/or field; draw 2 cards.
