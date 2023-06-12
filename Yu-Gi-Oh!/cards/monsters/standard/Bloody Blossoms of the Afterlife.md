@@ -51,6 +51,9 @@
 
 ## Trivia
 
+- This card is intended to be a replacement for [Maxx "C"](https://yugipedia.com/wiki/Maxx_"C").
+- This card shares a similar name to [Bloody Blossoms of the Afterworld](Bloody%20Blossoms%20of%20the%20Afterworld.md).
+  - Both cards are custom staples.
+  - Both are Level 0 DARK Illusionist Tuner Monsters, but have very different effects.
 - This card’s art is taken from [Red Blossoms from Underroot](https://yugipedia.com/wiki/Red_Blossoms_from_Underroot).
   - This is a remake of that card as a handtrap.
-- This card is intended to be a replacement for [Maxx "C"](https://yugipedia.com/wiki/Maxx_"C").
