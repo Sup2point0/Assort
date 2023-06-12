@@ -96,7 +96,7 @@ A series of custom staple cards, many parodies of existing cards.
 ### Main Deck
 <img src="../../.assets/cards/monsters/Bloody Blossoms of the Afterlife.png" height="169px"
 title="(This card’s original Level is treated as 0.)
-During your opponent's turn (Quick Effect): You can send this card from your hand or field to the Graveyard; this turn, each time your opponent Special Summons a monster, they must banish 1 card from their hand, field, Extra Deck or Graveyard face-down. You cannot activate other card effects the turn you activate this effect.">
+During your opponent’s turn (Quick Effect): You can send this card from your hand or field to the Graveyard; this turn, each time your opponent Special Summons a monster, they must banish 1 card from their hand, field, Extra Deck or Graveyard face-down. You cannot activate other card effects the turn you activate this effect.">
 <img src="../../.assets/cards/monsters/Bloody Blossoms of the Afterworld.png" height="169px"
 title="(This card’s original Level is treated as 0.)
 Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 or more monsters on the field with different types (Fusion/Synchro/Xyz/Link). You cannot Normal Summon/Set during the turn you Summon ‘Bloody Blossoms of the Afterworld’ this way. Cannot be Tributed or used as Special Summon Material. There can only be 1 ‘Bloody Blossoms of the Afterworld’ on the field.">
