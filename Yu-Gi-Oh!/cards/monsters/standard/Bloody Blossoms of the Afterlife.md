@@ -42,8 +42,8 @@
 | aspect | type | notes |
 | :----- | :--- | :---- |
 | This card’s original Level is treated as 0. | condition | Level 0 Tuners, let’s go |
-| During your opponent’s turn (Quick Effect): You can send this card from your hand or field to the Graveyard; this turn, each time your opponent Special Summons a monster, they must banish 1 card from their hand, field, Extra Deck or Graveyard face-down. | A potentially devastating handtrap effect. |
-| You cannot activate other card effects the turn you activate this effect. | lock condition | Severely restricted, so that the only interrupt the opponent will need to deal with is this one. |
+| During your opponent’s turn (Quick Effect): You can send this card from your hand or field to the Graveyard; this turn, each time your opponent Special Summons a monster, they must banish 1 card from their hand, field, Extra Deck or Graveyard face-down. | quick | A potentially devastating handtrap effect. |
+| You cannot activate other card effects the turn you use this effect. | lock condition | Severely restricted, so that the only interrupt the opponent will need to deal with is this one. Also, this inherently makes it a hard once per turn! |
 
 
 <br>
