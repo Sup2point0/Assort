@@ -52,6 +52,7 @@ Inkurzen
 [**Rubic**](Rubic.md)  
 [Shadow](Shadow.md)  
 [**Soul**](Soul.md)  
+&emsp; [**Soul Shard**](Soul.md)  
 [Stranded](Stranded.md)  
 [Supnautic](Supnautic.md)  
 [The Specialists](The%20Specialists.md)  
