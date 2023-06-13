@@ -618,25 +618,25 @@ title="3 ‘Rubic’ Monsters
 - The archetype is fairly xenophobic.
   - Most effects support only *Rubic* cards.
   - [Algorithm and Rubic](#Algorithm--Scramble) both lock the player from activating any Monster effects other than those of *Rubic* Monsters.
-  - The [Lv 6 non-Tuners](#Level-6-non-Tuners) benefit from banishing *Rubic* cards to Summon themselves.
+  - The [Lv6 non-Tuners](#Level-6-non-Tuners) benefit from banishing *Rubic* cards to Summon themselves.
   - [Function](#Spells) is the only card to function with any Cyberse Monster.
 - The gimmicks of the archetype draw parallels to Rubik’s cubes and geometry.
   - Moving cards on the field corresponds to turning a Rubik’s cube.
   - Spawning [Rubic Tokens](#Tokens) corresponds to drawing construction lines in geometry.
 - [Axis](#Level-3-non-Tuners) Summons Tokens to the same column, creating a vertical ‘axis’ between each player’s field.
 - The Link Arrows of the Link Monsters all point in ordinal directions.
-  - As such, the archetype can create a tri-monster Extra Link.
+  - As such, the archetype can create a tri-Monster Extra Link.
     - This doesn’t achieve much since the upwards arrows will unlock plenty of zones for the opponent anyway.
     - Although, these can be blocked off with Rubic Tokens.
   - The arrows of [Radian](#Link-Monsters) and [Perpendicular](#Link-Monsters) combine to form the arrows of [Vertex](#Link-Monsters).
 - [Hexangle](#Link-Monsters), being the ultimate ace of the archetype, is an exception to several of its trends.
   - It is the only card that inherently moves itself (and no other cards).
-  - Instead of synergyzing with other cards, it only relies on them being present to boost its own ATK.
+  - Instead of synergising with other cards, it only relies on them being present to boost its own ATK.
   - It requires exactly 3 Materials, while the rest of the [Link Monsters](#Link-Monsters) higher than Link-1 require exactly 2 Materials.
   - It is the only Link Monster with Link Arrows in the cardinal directions.
 - Field Spells cannot be moved to other zones, which makes them immune to many of the archetype’s effects.
 - A high proportion of the card art is, in fact, shamelessly stolen from existing *Yu-Gi-Oh!* cards.
-  - Those archetypes include primarily [Mathmech](https://yugipedia.com/wiki/Mathmech) and [Topologic](https://yugipedia.com/wiki/Topologic), as well as [Deskbot](https://yugipedia.com/wiki/Deskbot), [Cubic](https://yugipedia.com/wiki/Cubic) (the ironicity, I know), [Tindangle](https://yugipedia.com/wiki/Tindangle), and various [Cyberse](https://yugipedia.com/wiki/Cyberse) support.
+  - Those archetypes include primarily [*Mathmech*](https://yugipedia.com/wiki/Mathmech) and [*Topologic*](https://yugipedia.com/wiki/Topologic), as well as [*Deskbot*](https://yugipedia.com/wiki/Deskbot), [*Cubic*](https://yugipedia.com/wiki/Cubic) (the ironicity, I know), [*Tindangle*](https://yugipedia.com/wiki/Tindangle), and various [Cyberse](https://yugipedia.com/wiki/Cyberse) support.
 
 ### Nomenclature
 
