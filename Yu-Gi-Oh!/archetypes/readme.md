@@ -35,7 +35,7 @@ Inkurzen
 [Kinetic Warrior](Kinetic%20Warrior.md)  
 [**k-Knight**](k-Knight.md)  
 &emsp; [Tekk-Knight](Tekk-Knight.md)  
-&emsp; &emsp; [Tekk-Knight](Tekk-Knight.md)  
+&emsp; &emsp; [Hi-Tekk-Knight](Tekk-Knight.md)  
 &emsp; [Dekk-Knight](Dekk-Knight.md)  
 &emsp; [Ark-Knight](Ark-Knight.md)  
 &emsp; &emsp; [Dark-Knight](Dark-Knight.md)  
