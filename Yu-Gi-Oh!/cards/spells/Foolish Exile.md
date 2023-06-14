@@ -1,7 +1,5 @@
 # Foolish Exile
 
-{desc}
-
 <table>
   <tr>
     <th colspan="2"> <h3> Foolish Exile </h3> </th>
@@ -45,3 +43,11 @@
 
 - This card is inspired by the [*Foolish*](https://yugipedia.com/wiki/Foolish) series.
 - Functionally, it is a downgrade of [Gold Sarcophagus](https://yugipedia.com/wiki/Gold_Sarcophagus).
+
+
+<br>
+
+
+## See Also
+
+[Foolish Burial Trade](../spells/Foolish%20Burial%20Trade.md)  
