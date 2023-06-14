@@ -41,3 +41,11 @@
 ## Trivia
 
 - This card’s art is taken from [Fusion of Fire](https://yugipedia.com/wiki/Fusion_of_Fire).
+
+
+<br>
+
+
+## See Also
+
+[Quick Polymerization](Quick%20Polymerization.md)  
