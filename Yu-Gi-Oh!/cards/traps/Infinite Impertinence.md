@@ -1,7 +1,5 @@
 # Infinite Impertinence
 
-{desc}
-
 <table>
   <tr>
     <th colspan="2"> <h3> Infinite Impertinence </h3> </th>
@@ -43,3 +41,9 @@
 ## Trivia
 
 - This card is a parody of [Infinite Impermanence](https://yugipedia.com/wiki/Infinite_Impermanence).
+
+
+<br>
+
+
+## See Also
