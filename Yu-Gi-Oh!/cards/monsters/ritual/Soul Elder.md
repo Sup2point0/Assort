@@ -1,6 +1,6 @@
 # Soul Elder
 
-{desc}
+<!-- *Arise, primordial...* -->
 
 <table>
   <tr>
