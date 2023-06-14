@@ -1,6 +1,6 @@
 # Laiza, Enchantress of Darquess
 
-{desc}
+<!-- {desc} -->
 
 <table>
   <tr>
@@ -64,7 +64,15 @@
     - Laiza prevents Special Summoning non-DARK Monsters from the Extra Deck, while Raiza prevents Normal Summoning non-DARK Monsters.
     - Laiza inflicts 350 damage each time a card is banished, while Raiza banishes the top card of the opponent’s Deck face-down each time the player themselves takes damage.
     - Laiza Special Summons a banished DARK Monster, while Raiza banishes one.
-- This card’s ignition and applied effects synchronyze very well with Raiza.
+- This card’s ignition and applied effects synchronise very well with Raiza.
   - Using Raiza’s ignition effect, an opponent’s DARK Monster can be banished, and then easily stolen using Laiza’s ignition effect.
   - Since the *Darquess* archetype has plenty of effects that deal damage to the player themselves, each time they do Raiza banishes a card from the opponent’s Deck, which then allows Laiza’s effect to deal damage.
 - The artwork is of Coven Evelynn from [*League of Legends*](https://wikipedia.org/wiki/League_of_Legends).
+
+
+<br>
+
+
+## See Also
+
+[Vaiza, Empress of Darquess](../ritual/Vaiza.md)  
