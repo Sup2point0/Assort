@@ -47,10 +47,10 @@
 
 | aspect | type | name | notes |
 | :----- | :--- | :--- | :---- |
-| 2650 ATK | attack | Affine Burst | |
 | You can Ritual Summon this card with ‘Soul Ritual’. | Summon condition | | |
 | Once per turn, if this card or another ‘Soul’ Ritual or Synchro monster is Special Summoned: You can shuffle 1 card from the field or either player’s Graveyard into the Deck. | trigger | | |
 | If this card would be destroyed, you can banish 1 ‘Soul’ monster from your Graveyard instead. | continuous | | Think of it like the souls in the Grave sacrificing themselves to protect this Monster. |
+| 2650 ATK | attack | Affine Burst | |
 
 
 <br>
