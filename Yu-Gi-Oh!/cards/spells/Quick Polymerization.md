@@ -1,7 +1,5 @@
 # Quick Polymerization
 
-{desc}
-
 <table>
   <tr>
     <th colspan="2"> <h3> Quick Polymerization </h3> </th>
@@ -46,3 +44,11 @@
 ## Trivia
 
 - This is one of the earliest custom cards I created (as in, even before I discovered DuelingBook).
+
+
+<br>
+
+
+## See Also
+
+[Hybrid Polymerization](Hybrid%20Polymerization.md)  
