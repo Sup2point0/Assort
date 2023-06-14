@@ -47,10 +47,10 @@
 
 | aspect | type | name | notes |
 | :----- | :--- | :--- | :---- |
-| 2750 ATK | attack | Affine Slash | |
 | You can Ritual Summon this card with ‘Soul Ritual’. | Summon condition | | |
 | Once per turn, if this card or another ‘Soul’ Ritual or Synchro Monster is Special Summoned: You can return 1 card from the field or either player’s Graveyard to the hand. | trigger | | |
 | If this card would be destroyed, you can banish 1 ‘Soul’ Monster from your Graveyard instead. | continuous | | Think of it like the souls in the Grave sacrificing themselves to protect this Monster. |
+| 2750 ATK | attack | Affine Slash | |
 
 
 <br>
