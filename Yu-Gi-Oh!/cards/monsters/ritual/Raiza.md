@@ -1,6 +1,6 @@
 # Raiza, Sorceress of Darquess
 
-{desc}
+<!-- {desc} -->
 
 <table>
   <tr>
@@ -60,3 +60,12 @@
 ## Trivia
 
 - This Monster’s name is the same as [Raiza the Storm Monarch](https://yugipedia.com/wiki/Raiza_the_Storm_Monarch).
+
+
+<br>
+
+
+## See Also
+
+[Laiza, Enchantress of Darquess](../ritual/Laiza.md)  
+[Vaiza, Empress of Darquess](../ritual/Vaiza.md)  
