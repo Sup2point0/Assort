@@ -59,6 +59,7 @@
 ## Trivia
 
 - This card is a [*Soul Shard*](../../../archetypes/Soul.md) counterpart of [Soul Synchron](../standard/Soul%20Synchron.md).
+- This card’s final effect is inspired by [Accel Synchron](https://yugipedia.com/wiki/Accel_Synchron).
 
 
 <br>
