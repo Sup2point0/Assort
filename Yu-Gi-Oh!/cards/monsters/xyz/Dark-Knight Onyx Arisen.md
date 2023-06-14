@@ -55,6 +55,12 @@
 
 ## Trivia
 
-- This card is an upgraded counterpart to [Ark-Knight Cerulean Aventurescence](../link/Ark-Knight%20Cerulean%20Aventurescence.md).
+- This card is a [*Dark-Knight*](../../../archetypes/Ark-Knight.md) upgrade to [Ark-Knight Cerulean Aventurescence](../link/Ark-Knight%20Cerulean%20Aventurescence.md).
 - It is the only [*Dark-Knight*](../../../archetypes/Ark-Knight.md) Monster.
   - It is also the only DARK [*k-Knight*](../../../archetypes/k-Knight.md) Extra Deck Monster.
+
+
+<br>
+
+
+## See Also
