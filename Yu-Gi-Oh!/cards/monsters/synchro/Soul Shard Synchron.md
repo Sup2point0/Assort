@@ -49,8 +49,8 @@
 | :----- | :--- | :--- | :---- |
 | Tuner | property | Soul Resonance | |
 | You can Synchro Summon this card using Materials with any Level. | Summon condition | | That’s right, *any* Level. |
-| This card’s original Level becomes the total Levels of the Materials used for its Synchro Summon (even after it leaves the field). | | Incredible flexibility. Also, that original Level sticks. |
-| You can send 1 ‘Soul’ non-Tuner Monster from your Deck or Extra Deck to the Graveyard; increase or decrease this card’s Level by that monster’s Level in the Graveyard. | ignition, once per turn | Since *Soul* has a Monster of every Level, this can change its Level to almost anything. |
+| This card’s original Level becomes the total Levels of the Materials used for its Synchro Summon (even after it leaves the field). | condition | | Incredible flexibility. Also, that original Level sticks. |
+| You can send 1 ‘Soul’ non-Tuner Monster from your Deck or Extra Deck to the Graveyard; increase or decrease this card’s Level by that monster’s Level in the Graveyard. | ignition, once per turn | | Since *Soul* has a Monster of every Level, this can change its Level to almost anything. |
 
 
 <br>
