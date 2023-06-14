@@ -1,6 +1,6 @@
 # Darquess Rising
 
-{desc}
+<!-- {desc} -->
 
 <table>
   <tr>
@@ -43,3 +43,13 @@
 ## Trivia
 
 - This card’s artwork is of Coven Morgana from [*League of Legends*](https://wikipedia.org/wiki/League_of_Legends).
+
+
+<br>
+
+
+## See Also
+
+[Raiza, Sorceress of Darquess](../monsters/ritual/Raiza.md)  
+[Laiza, Enchantress of Darquess](../monsters/ritual/Laiza.md)  
+[Vaiza, Empress of Darquess](../monsters/ritual/Vaiza.md)  
