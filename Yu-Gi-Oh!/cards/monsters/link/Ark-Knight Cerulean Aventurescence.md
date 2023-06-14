@@ -1,6 +1,6 @@
 # Ark-Knight Cerulean Aventurescence
 
-{desc}
+<!-- {desc} -->
 
 <table>
   <tr>
@@ -60,5 +60,12 @@
 
 ## Trivia
 
+- [Dark-Knight Onyx Arisen](../xyz/Dark-Knight%20Onyx%20Arisen.md) is a [*Dark-Knight*](../../../archetypes/Ark-Knight.md) upgrade of this card.
 - This Monster is inpired by [Mekk-Knight Crusadia Avramax](https://yugipedia.com/wiki/Mekk-Knight_Crusadia_Avramax).
   - Its type (Link), Attribute, ATK, Link Rating and Link Arrows are all identical.
+
+
+<br>
+
+
+## See Also
