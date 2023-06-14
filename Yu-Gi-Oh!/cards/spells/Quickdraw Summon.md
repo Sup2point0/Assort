@@ -1,7 +1,5 @@
 # Quickdraw Summon
 
-{desc}
-
 <table>
   <tr>
     <th colspan="2"> <h3> Quickdraw Summon </h3> </th>
@@ -42,3 +40,11 @@
 
 - This card’s art is taken from [Drastic Draw](https://yugipedia.com/wiki/Drastic_Draw).
 - This is one of the earliest custom cards I created (as in, even before I discovered DuelingBook).
+
+
+<br>
+
+
+## See Also
+
+[Instant Draw](Instant%20Draw.md)  
