@@ -1,7 +1,5 @@
 # Rubic Arcsecant
 
-{desc}
-
 <table>
   <tr>
     <th colspan="3"> <h3> Rubic Arcsecant </h3> </th>
@@ -47,10 +45,10 @@
 
 | aspect | type | name | notes |
 | :----- | :--- | :--- | :---- |
-| You can also treat ‘Rubic’ Xyz Monsters as Level 9 Monsters for this card’s Xyz Summon. | Summon condition | | |
-| If a ‘Rubic’ card(s) you control would be destroyed, you can detach 1 Material from this card instead. | continuous | | |
-| Once per Chain, if a card moves to another Zone: You can attach it to this card as Material. | trigger | | |
-| Once per turn, when your opponent activates a card or effect on the field (Quick Effect): You can detach 1 Material; move that card to an appropriate adjacent Zone, and if you do, that effect becomes ‘Move 1 card on the field to an appropriate adjacent Zone’ instead. | quick | | |
+| You can also treat ‘Rubic’ Xyz Monsters as Level 9 monsters for this card’s Xyz Summon. | Summon condition | | |
+| If a ‘Rubic’ card(s) you control would be destroyed, you can detach 1 material from this card instead. | continuous | | |
+| Once per Chain, if a card moves to another zone: You can attach it to this card as material. | trigger | | |
+| Once per turn, when your opponent activates a card or effect on the field (Quick Effect): You can detach 1 material; move that card to an appropriate adjacent zone, and if you do, that effect becomes ‘Move 1 card on the field to an appropriate adjacent Zone’ instead. | quick | | |
 | 3300 ATK | attack | ~ | |
 
 
@@ -64,3 +62,11 @@
   - Both have a Continuous Effect that synergyzes with their archetype’s playstyle.
   - Both have a once per Chain effect that attaches other cards to themselves as Material.
   - Both have a disruptive Quick Effect that follows their archetype’s playestyle.
+
+
+<br>
+
+
+## See Also
+
+[Rubic Arcsine](../synchro/Rubic%20Arcsine.md)  
