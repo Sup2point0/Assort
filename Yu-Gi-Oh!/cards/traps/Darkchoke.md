@@ -1,7 +1,5 @@
 # Darkchoke
 
-{desc}
-
 <table>
   <tr>
     <th colspan="2"> <h3> Darkchoke </h3> </th>
@@ -39,3 +37,9 @@
 
 - This card is inspired by the [Darkchoke Curse](../../../affine/spells/asphyxiskotadi.md).
   - This is reflected in how it ‘chokes’ the opponent to death by dealing increasing damage each turn, and is very difficult to deal with.
+
+
+<br>
+
+
+## See Also
