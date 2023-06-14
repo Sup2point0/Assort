@@ -1,7 +1,5 @@
 # Awakening the Drakon
 
-{desc}
-
 <table>
   <tr>
     <th colspan="2"> <h3> Awakening the Drakon </h3> </th>
@@ -42,3 +40,9 @@
 - This card is a parody of the card [Waking the Dragon](https://yugipedia.com/wiki/Waking_the_Dragon).
   - Unlike Waking the Dragon, which Special Summons from the Deck or Extra Deck, this card Special Summons from the Extra Deck or Graveyard.
     - Importantly, this prevents it from being negated by [Ash Blossom & Joyous Spring](https://yugipedia.com/wiki/Ash_Blossom_%26_Joyous_Spring).
+
+
+<br>
+
+
+## See Also
