@@ -1,6 +1,6 @@
 # Primordial Darquessence, Oblivion of Darquess
 
-{desc}
+<!-- {desc} -->
 
 <table>
   <tr>
@@ -64,3 +64,13 @@
 - ‘Darquessence’ in this card’s name is a portmanteau of ‘Darquess’ and ‘essence’.
 - This card has the longest name of any *Darquess* card.
   - It has a total of 45 characters, including spaces.
+
+
+<br>
+
+
+## See Also
+
+[Raiza, Sorceress of Darquess](../ritual/Raiza.md)  
+[Laiza, Enchantress of Darquess](../ritual/Laiza.md)  
+[Vaiza, Empress of Darquess](../ritual/Vaiza.md)  
