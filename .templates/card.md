@@ -75,6 +75,15 @@
 
 ## Trivia
 
+- Origin
+- Archetype
+- Upgrades
+- Name
+- Effects
+- Inspiration
+- Artwork
+- Age
+
 
 <br>
 
