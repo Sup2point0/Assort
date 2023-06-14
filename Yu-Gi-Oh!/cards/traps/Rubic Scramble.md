@@ -1,7 +1,5 @@
 # Rubic Scramble
 
-{desc}
-
 <table>
   <tr>
     <th colspan="2"> <h3> Rubic Scramble </h3> </th>
@@ -41,3 +39,11 @@
 
 
 ## Trivia
+
+
+<br>
+
+
+## See Also
+
+[Rubic Algorithm](../spells/Rubic%20Algorithm.md)  
