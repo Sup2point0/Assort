@@ -247,8 +247,8 @@ title="During each Standby Phase, place 1 Choke Counter on this card, then your 
 title="When your opponent declares a direct attack, or activates a card or effect that would inflict damage to you: Negate the attack or activation, also after that, banish as many monsters as possible from both player’s Graveyards, inflict 450 damage for each, then if at least 7 were banished, you can Special Summon 1 ‘Vengeance Vanguard’ from your Extra Deck. You can only activate ‘Victory in Vengeance’ once per Duel.">
 <img src="../../.assets/cards/spells/Foolish Burial Trade.png" height="169px"
 title="Shuffle up to 2 of your banished cards with different types (Monster/Spell/Trap) into the Deck, then send that many cards of the same type(s) from your Deck to the Graveyard. You can only activate ‘Foolish Burial Trade’ once per turn.">
-<img src="../../.assets/cards/spells/Soul Purity.png" height="169px"
-title="Shuffle any number of your banished ‘Soul’ cards into the Deck, then Special Summon 1 ‘Soul’ Synchro monster from your Extra Deck, whose Level equals the number of cards shuffled. (This is treated as Synchro Summon.) If this card is banished: You can shuffle up to 3 of your banished ‘Soul’ cards into the Deck, then draw 1 card. You can only use this effect of ‘Soul Purity’ once per turn.">
+<!-- <img src="../../.assets/cards/spells/Soul Purity.png" height="169px"
+title="Shuffle any number of your banished ‘Soul’ cards into the Deck, then Special Summon 1 ‘Soul’ Synchro monster from your Extra Deck, whose Level equals the number of cards shuffled. (This is treated as Synchro Summon.) If this card is banished: You can shuffle up to 3 of your banished ‘Soul’ cards into the Deck, then draw 1 card. You can only use this effect of ‘Soul Purity’ once per turn."> -->
 
 ### Extra Deck
 <img src="../../.assets/cards/synchro/Soul Shard Synchron.png" height="169px"
