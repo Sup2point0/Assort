@@ -24,37 +24,37 @@ Any Monsters whose Types are not specified are Psychic.
 
 | card | Level | ATK/DEF | Type |
 | :--- | :---- | :------ | :--- |
-| [Soul Synchron](../cards/monsters/standard/–.md) | ? | 0 / 0 | Tuner |
-| [Soul Shard](../cards/monsters/standard/–.md) | 1 ★ | 50 / 0 | Spirit |
-| [Soul Fragment](../cards/monsters/standard/–.md) | 2 ★ | 150 / 0 | Spirit |
-| [Tearful Soul](../cards/monsters/standard/–.md) | 2 ★★ | 250 / 0 | Spirit |
-| [Sorrowful Soul](../cards/monsters/standard/–.md) | 2 ★★ | 350 / 0 | Spirit |
-| [Vengeful Soul](../cards/monsters/standard/–.md) | 3 ★★★ | 450 / 0 | Spirit |
-| [Soul Demon](../cards/monsters/standard/–.md) | 3 ★★★ | 750 / 0 | Fiend Spirit |
-| [Soul Spider](../cards/monsters/standard/–.md) | 8 ★★★★★★★★ | 0 / 2850 | Insect |
-| [Soul Magician](../cards/monsters/standard/–.md) | 4 ★★★★ | 1950 / 0 | Spellcaster |
-| [Soul Dragon](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2650 / 0 | Dragon Ritual Tuner |
-| [Soul Swordsman](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 2750 / 0 | Warrior Ritual Tuner |
-| [Soul Elder](../cards/monsters/standard/–.md) | 10 ★★★★★★★★★★ | 0 / 3750 | Omega Psychic Ritual |
-| [Soul –](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – |
+| [Soul Synchron](../cards/monsters/standard/Soul%20Synchron.md) | ? | 0 / 0 | Tuner |
+| [Soul Shard](../cards/monsters/standard/Soul%20Shard.md) | 1 ★ | 50 / 0 | Spirit |
+| [Soul Fragment](../cards/monsters/standard/Soul%20Fragment.md) | 2 ★ | 150 / 0 | Spirit |
+| [Tearful Soul](../cards/monsters/standard/Tearful%20Soul.md) | 2 ★★ | 250 / 0 | Spirit |
+| [Sorrowful Soul](../cards/monsters/standard/Sorrowful%20Soul.md) | 2 ★★ | 350 / 0 | Spirit |
+| [Vengeful Soul](../cards/monsters/standard/Vengeful%20Soul.md) | 3 ★★★ | 450 / 0 | Spirit |
+| [Soul Demon](../cards/monsters/standard/Soul%20Demon.md) | 3 ★★★ | 750 / 0 | Fiend Spirit |
+| [Soul Magician](../cards/monsters/standard/Soul%20Magician.md) | 4 ★★★★ | 1950 / 0 | Spellcaster |
+| [Soul Spider](../cards/monsters/standard/Soul%20Spider.md) | 8 ★★★★★★★★ | 0 / 2850 | Insect |
+| [Soul Swordsman](../cards/monsters/ritual/Soul%20Swordsman.md) | 7 ★★★★★★★ | 2750 / 0 | Warrior Ritual Tuner |
+| [Soul Dragon](../cards/monsters/ritual/Soul%20Dragon.md) | 7 ★★★★★★★ | 2650 / 0 | Dragon Ritual Tuner |
+| [Soul Elder](../cards/monsters/ritual/Soul%20Elder.md) | 10 ★★★★★★★★★★ | 0 / 3750 | Omega Psychic Ritual |
 
 </details>
 
 <details open>
   <summary> <b> Extra Deck </b> </summary> <br>
 
-| card | Level | ATK/DEF | Type | material |
+| card | Level | ATK/DEF | Type | Material |
 | :--- | :---- | :------ | :--- | :------- |
 | [Soul Shard Synchron](../cards/monsters/synchro/–.md) | ? | 0 / 0 | Synchro Tuner Spirit | *Soul Synchron* + 1+ *Soul Shard*s |
-| [Soul Snake](../cards/monsters/synchro/–.md) | 3 ★★★ | 1350 / 0 | Reptile Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
-| [Soul Alchemist](../cards/monsters/synchro/–.md) | 4 ★★★★ | 0 / 2150 | Spellcaster Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
-| [Soul Knight](../cards/monsters/synchro/–.md) | 5 ★★★★★ | 1650 / 0 | Warrior Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
-| [Soul Wanderer](../cards/monsters/synchro/–.md) | 6 ★★★★★★ | 2350 / 0 | Zombie Synchro | 1 ‘Soul’ Synchro Tuner + 1+ non-Tuner ‘Soul’ Monsters|
-| [Soul Guardian](../cards/monsters/synchro/–.md) | 7 ★★★★★★★ | 0 / 2950 | Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters, including a Synchro Monster |
+| [Soul Snake](../cards/monsters/synchro/–.md) | 4 ★★★★ | 1350 / 0 | Reptile Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
+| [Soul Alchemist](../cards/monsters/synchro/–.md) | 5 ★★★★★ | 0 / 2350 | Spellcaster Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
+| [Soul Knight](../cards/monsters/synchro/–.md) | 6 ★★★★★★ | 1750 / 0 | Warrior Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
+| [Soul Wanderer](../cards/monsters/synchro/–.md) | 7 ★★★★★★★ | 2450 / 0 | Zombie Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
+| [Soul Guardian](../cards/monsters/synchro/–.md) | 8 ★★★★★★★★ | 0 / 2950 | Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
 | [Soul Shard Swordsman](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | 3250 / 0 | Magical Knight Synchro Tuner | *Soul Swordsman* + 1+ *Soul Shard*s |
 | [Soul Shard Dragon](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | 3650 / 0 | High Dragon Synchro Tuner | *Soul Dragon* + 1+ *Soul Shard*s |
-| [Soul Warden](../cards/monsters/synchro/–.md) | 10 ★★★★★★★★★★ | 0 / 3450 | Wyrm Synchro | 1 ‘Soul’ Ritual/Synchro Tuner + 1+ ‘Soul’ Monsters, including a Ritual/Synchro Monster |
-| [Soul Slayer](../cards/monsters/synchro/–.md) | 11 ★★★★★★★★★★★ | ? / ? | Omega Psychic Synchro | 1 ‘Soul Shard’ Tuner + 1+ ‘Soul’ Ritual/Synchro Monsters |
+| [Soul Warden](../cards/monsters/synchro/–.md) | 10 ★★★★★★★★★★ | 0 / 3450 | Wyrm Synchro | 1 ‘Soul’ Ritual or Synchro Tuner + 1 ‘Soul’ Ritual or Synchro Monster |
+| [Soul Slayer](../cards/monsters/synchro/–.md) | 11 ★★★★★★★★★★★ | ? / ? | Omega Psychic Synchro | 1 ‘Soul Shard’ Tuner + 1+ ‘Soul’ Ritual or Synchro Monsters |
+| [Soul Assassin](../cards/monsters/synchro/–.md) | 12 ★★★★★★★★★★★★ | 2950 / 0 | Celestial Warrior Synchro | 1 ‘Soul’ Tuner + [*Shadow Assassin*](../cards/monsters/ritual/Shadow%20Assassin.md) |
 
 </details>
 
@@ -63,24 +63,23 @@ Any Monsters whose Types are not specified are Psychic.
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| card | Type |
-| :--- | :--- |
-| [Pot of Souls](../cards/spells/–/–.md) | |
-| [Soul Chasm](../cards/spells/–/–.md) | ✦ Field |
-| [Soul Corruption](../cards/spells/–/–.md) | |
-| [Soul Dagger](../cards/spells/–/–.md) | + Equip |
-| [Soul Illusion](../cards/spells/–/–.md) | ⚡︎ Quick |
-| [Soul Manifestation](../cards/spells/–/–.md) | ⚡︎ Quick |
-| [Soul Purity](../cards/spells/–/–.md) | ⚡︎ Quick |
-| [Soul Necropolis](../cards/spells/–/–.md) | ✦ Field |
-| [Soul Prophecy](../cards/spells/–/–.md) | ◈ Ritual |
-| [Soul Resurgence](../cards/spells/–/–.md) | ⚡︎ Quick |
-| [Soul Ritual](../cards/spells/–/–.md) | ◈ Ritual |
-| [Soul Sanctuary](../cards/spells/–/–.md) | ∞ Continuous |
-| [Soul Scripture](../cards/spells/–/–.md) | |
-| [Soul Seeker](../cards/spells/–/–.md) | ⚡︎ Quick |
-| [Soul Walker](../cards/spells/–/–.md) | ∞ Continuous |
-| [Soul –](../cards/spells/–/–.md) | – |
+| card | property |
+| :--- | :------- |
+| [Pot of Souls](../cards/spells/Pot%20of%20Souls.md) | |
+| [Soul Chasm](../cards/spells/Soul%20Chasm.md) | ✦ Field |
+| [Soul Corruption](../cards/spells/Soul%20Corruption.md) | |
+| [Soul Dagger](../cards/spells/Soul%20Dagger.md) | + Equip |
+| [Soul Illusion](../cards/spells/Soul%20Illusion.md) | ⚡︎ Quick |
+| [Soul Manifestation](../cards/spells/Soul%20Manifestation.md) | ⚡︎ Quick |
+| [Soul Necropolis](../cards/spells/Soul%20Necropolis.md) | ✦ Field |
+| [Soul Purity](../cards/spells/Soul%20Purity.md) | ⚡︎ Quick |
+| [Soul Prophecy](../cards/spells/Soul%20Prophecy.md) | ◈ Ritual |
+| [Soul Resurgence](../cards/spells/Soul%20Resurgence.md) | ⚡︎ Quick |
+| [Soul Ritual](../cards/spells/Soul%20Ritual.md) | ◈ Ritual |
+| [Soul Sanctuary](../cards/spells/Soul%20Sanctuary.md) | ∞ Continuous |
+| [Soul Scripture](../cards/spells/Soul%20Scripture.md) | |
+| [Soul Seeker](../cards/spells/Soul%20Seeker.md) | ⚡︎ Quick |
+| [Soul Walker](../cards/spells/Soul%20Walker.md) | ∞ Continuous |
 
 </details>
 
@@ -89,13 +88,12 @@ Any Monsters whose Types are not specified are Psychic.
 <details open>
   <summary> <b> display </b> </summary> <br>
 
-| card | Type |
-| :--- | :--- |
-| [Soul Fracture](../cards/traps/–/–.md) | |
-| [Soul Rupture](../cards/traps/–/–.md) | |
-| [Soul Scream](../cards/traps/–/–.md) | ↵ Counter |
-| [Soul Virus](../cards/traps/–/–.md) | ∞ Continuous |
-| [Soul –](../cards/traps/–/–.md) | – |
+| card | property |
+| :--- | :------- |
+| [Soul Fracture](../cards/traps/Soul%20Fracture.md) | |
+| [Soul Rupture](../cards/traps/Soul%20Rupture.md) | |
+| [Soul Scream](../cards/traps/Soul%20Scream.md) | ↵ Counter |
+| [Soul Virus](../cards/traps/Soul%20Virus.md) | ∞ Continuous |
 
 </details>
 
@@ -103,7 +101,7 @@ Any Monsters whose Types are not specified are Psychic.
 <br>
 
 
-## Strategics
+## Strategy
 
 {...}
 
@@ -113,7 +111,7 @@ Any Monsters whose Types are not specified are Psychic.
 
 ## Deck
 
-> Last updated: {...}
+> Last updated: June 2023
 
 ### Tips
 - View the deck on [DuelingBook](https://duelingbook.com/deck?id=11423800)!
