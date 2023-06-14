@@ -1,7 +1,5 @@
 # Terrorforming
 
-{desc}
-
 <table>
   <tr>
     <th colspan="2"> <h3> Terrorforming </h3> </th>
@@ -43,3 +41,9 @@
 - This card is a parody of the [Terraforming](https://yugipedia.com/wiki/Terraforming) card.
 - Its name is also pun on [Terraforming](https://en.wikipedia.org/wiki/Terraforming).
   - This is reflected in its art which depicts a black hole, since a black hole would terraform celestial bodies near it, and induce terror in anything alive.
+
+
+<br>
+
+
+## See Also
