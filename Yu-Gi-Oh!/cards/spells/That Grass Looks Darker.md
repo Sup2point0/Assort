@@ -1,7 +1,5 @@
 # That Grass Looks Darker
 
-{desc}
-
 <table>
   <tr>
     <th colspan="2"> <h3> That Grass Looks Darker </h3> </th>
@@ -42,3 +40,9 @@
 
 - This card is parody of the [That Grass Looks Darker](https://yugipedia.com/wiki/That_Grass_Looks_Greener).
   - This reflects how it banishes cards, which is ‘darker’ than milling cards.
+
+
+<br>
+
+
+## See Also
