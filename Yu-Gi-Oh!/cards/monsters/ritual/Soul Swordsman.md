@@ -7,7 +7,7 @@
     <th colspan="3"> <h3> Soul Swordsman </h3> </th>
   </tr>
   <tr>
-    <td rowspan="8"> <img src="../../../../.assets/cards/synchro/Soul Swordsman.png" width="320px"> </td>
+    <td rowspan="8"> <img src="../../../../.assets/cards/ritual/Soul Swordsman.png" width="320px"> </td>
   </tr>
   <tr>
     <td> type </td>
@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td> Types </td>
-    <td> Warrior / Synchro </td>
+    <td> Warrior / Ritual </td>
   </tr>
   <tr>
     <td> Attribute </td>
