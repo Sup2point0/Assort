@@ -116,7 +116,7 @@ Any Monsters whose Types are not specified are Psychic.
 > Last updated: {...}
 
 ### Tips
-- View the deck on [DuelingBook](...)!
+- View the deck on [DuelingBook](https://duelingbook.com/deck?id=11423800)!
 - Hover over a card to view its card text.
 
 ### Notes
@@ -138,20 +138,17 @@ You can Special Summon this card (from your hand or Graveyard) by banishing 1 ot
 title="(This card's original Level is always treated as 0.)
 You can Special Summon this card (from your hand or Graveyard) by banishing 1 other ‘Soul’ card from your field or Graveyard, but you cannot Summon ‘Soul Synchron’ this way by banishing the same type of card (Monster/Spell/Trap) again this turn. You can remove 1 Soul Counter from the field; this card gains 1 Level.">
 <img src="../../.assets/cards/monsters/Soul Shard.png" height="169px"
-title="Return this banished card to the Graveyard at the end of each turn. If you control a Level 4 or higher 'Soul' monster, you can Special Summon this card (from your Graveyard) to an adjacent zone. You can only Summon 'Soul Shard' this way twice per turn.">
+title="Return this banished card to the Graveyard at the end of each turn. If you control a Level 4 or higher ‘Soul’ monster, you can Special Summon this card (from your Graveyard) to an adjacent zone. You can only Summon ‘Soul Shard’ this way twice per turn.">
 <img src="../../.assets/cards/monsters/Soul Shard.png" height="169px"
-title="Return this banished card to the Graveyard at the end of each turn. If you control a Level 4 or higher 'Soul' monster, you can Special Summon this card (from your Graveyard) to an adjacent zone. You can only Summon 'Soul Shard' this way twice per turn.">
+title="Return this banished card to the Graveyard at the end of each turn. If you control a Level 4 or higher ‘Soul’ monster, you can Special Summon this card (from your Graveyard) to an adjacent zone. You can only Summon ‘Soul Shard’ this way twice per turn.">
 <img src="../../.assets/cards/monsters/Soul Shard.png" height="169px"
-title="Return this banished card to the Graveyard at the end of each turn. If you control a Level 4 or higher 'Soul' monster, you can Special Summon this card (from your Graveyard) to an adjacent zone. You can only Summon 'Soul Shard' this way twice per turn.">
+title="Return this banished card to the Graveyard at the end of each turn. If you control a Level 4 or higher ‘Soul’ monster, you can Special Summon this card (from your Graveyard) to an adjacent zone. You can only Summon ‘Soul Shard’ this way twice per turn.">
 <img src="../../.assets/cards/monsters/Soul Fragment.png" height="169px"
-title="(This card's name is always treated as 'Soul Shard'.)
-Return this banished card to the Graveyard at the end of each turn. If a 'Soul' card is banished: You can Special Summon this card from your Graveyard. You can only Summon 'Soul Fragment' this way twice per turn.">
+title="Return this banished card to the Graveyard at the end of each turn. This card’s name becomes ‘Soul Shard’ while on the field. If a ‘Soul’ card is banished: You can Special Summon this card from your Graveyard. You can only Summon ‘Soul Shard’ this way twice per turn.">
 <img src="../../.assets/cards/monsters/Soul Fragment.png" height="169px"
-title="(This card's name is always treated as 'Soul Shard'.)
-Return this banished card to the Graveyard at the end of each turn. If a 'Soul' card is banished: You can Special Summon this card from your Graveyard. You can only Summon 'Soul Fragment' this way twice per turn.">
+title="Return this banished card to the Graveyard at the end of each turn. This card’s name becomes ‘Soul Shard’ while on the field. If a ‘Soul’ card is banished: You can Special Summon this card from your Graveyard. You can only Summon ‘Soul Shard’ this way twice per turn.">
 <img src="../../.assets/cards/monsters/Soul Fragment.png" height="169px"
-title="(This card's name is always treated as 'Soul Shard'.)
-Return this banished card to the Graveyard at the end of each turn. If a 'Soul' card is banished: You can Special Summon this card from your Graveyard. You can only Summon 'Soul Fragment' this way twice per turn.">
+title="Return this banished card to the Graveyard at the end of each turn. This card’s name becomes ‘Soul Shard’ while on the field. If a ‘Soul’ card is banished: You can Special Summon this card from your Graveyard. You can only Summon ‘Soul Shard’ this way twice per turn.">
 <img src="../../.assets/cards/monsters/Tearful Soul.png" height="169px"
 title="Return this banished card to the Graveyard at the end of each turn. If you take damage: You can Special Summon this card from your Graveyard. If this card is banished: You can send 1 ‘Soul’ monster from your Deck to the Graveyard. You can only use each effect of ‘Tearful Soul’ once per turn.">
 <img src="../../.assets/cards/monsters/Sorrowful Soul.png" height="169px"
@@ -243,7 +240,7 @@ title="Each time a player takes damage, place 1 Soul Counter on this card. If th
 <img src="../../.assets/cards/traps/Soul Scream.png" height="169px"
 title="When a card or effect is activated: Banish 1 ‘Soul’ Ritual or Synchro monster from your field or Graveyard; inflict damage equal to that banished monster’s ATK or DEF (your choice), also negate all other effects in this Chain. If you take more than 2000 damage: You can Set this card from your Graveyard.">
 <img src="../../.assets/cards/traps/Tormenting Trap Hole.png" height="169px"
-title="When your opponent Summons a monster from the Graveyard, or Special Summons a monster using a monster Summoned from the Graveyard as material: Banish the Summoned monster, and if you do, while that card is banished, your opponent takes damage equal to half its original ATK during each Standby Phase. You can only activate 'Tormenting Trap Hole' once per Duel.">
+title="When your opponent Summons a monster from the Graveyard, or Special Summons a monster using a monster Summoned from the Graveyard as material: Banish the Summoned monster, and if you do, while that card is banished, your opponent takes damage equal to half its original ATK during each Standby Phase. You can only activate ‘Tormenting Trap Hole’ once per Duel.">
 <img src="../../.assets/cards/traps/Darkchoke.png" height="169px"
 title="During each Standby Phase, place 1 Choke Counter on this card, then your opponent takes damage equal to the number of Choke Counters on this card x 200. If this card’s effects would be negated, remove all Choke Counters from it instead. This face-up card with a Choke Counter cannot leave the field by card effect, unless it is banished.">
 <img src="../../.assets/cards/traps/Victory in Vengeance.png" height="169px"
@@ -256,13 +253,13 @@ title="Shuffle any number of your banished ‘Soul’ cards into the Deck, then 
 ### Extra Deck
 <img src="../../.assets/cards/synchro/Soul Shard Synchron.png" height="169px"
 title="‘Soul Synchron’ + 1+ ‘Soul Shard’s
-Return this banished card to the Extra Deck at the end of each turn. You can Synchro Summon this card using materials with any Level. This card’s original Level becomes the total Levels of the materials used for its Synchro Summon (even after it leaves the field). You can send 1 ‘Soul’ non-Tuner monster from your Deck or Extra Deck to the Graveyard; increase or decrease this card’s Level by that monster’s Level in the Graveyard. You can only use this effect of 'Soul Shard Synchron' once per turn.">
+You can Synchro Summon this card using materials with any Level. This card’s original Level becomes the total Levels of the materials used for its Synchro Summon (even after it leaves the field). You can send 1 ‘Soul’ non-Tuner monster from your Deck or Extra Deck to the Graveyard; increase or decrease this card’s Level by that monster’s Level in the Graveyard. You can only use this effect of ‘Soul Shard Synchron’ once per turn.">
 <img src="../../.assets/cards/synchro/Soul Shard Synchron.png" height="169px"
 title="‘Soul Synchron’ + 1+ ‘Soul Shard’s
-Return this banished card to the Extra Deck at the end of each turn. You can Synchro Summon this card using materials with any Level. This card’s original Level becomes the total Levels of the materials used for its Synchro Summon (even after it leaves the field). You can send 1 ‘Soul’ non-Tuner monster from your Deck or Extra Deck to the Graveyard; increase or decrease this card’s Level by that monster’s Level in the Graveyard. You can only use this effect of 'Soul Shard Synchron' once per turn.">
+You can Synchro Summon this card using materials with any Level. This card’s original Level becomes the total Levels of the materials used for its Synchro Summon (even after it leaves the field). You can send 1 ‘Soul’ non-Tuner monster from your Deck or Extra Deck to the Graveyard; increase or decrease this card’s Level by that monster’s Level in the Graveyard. You can only use this effect of ‘Soul Shard Synchron’ once per turn.">
 <img src="../../.assets/cards/synchro/Soul Shard Synchron.png" height="169px"
 title="‘Soul Synchron’ + 1+ ‘Soul Shard’s
-Return this banished card to the Extra Deck at the end of each turn. You can Synchro Summon this card using materials with any Level. This card’s original Level becomes the total Levels of the materials used for its Synchro Summon (even after it leaves the field). You can send 1 ‘Soul’ non-Tuner monster from your Deck or Extra Deck to the Graveyard; increase or decrease this card’s Level by that monster’s Level in the Graveyard. You can only use this effect of 'Soul Shard Synchron' once per turn.">
+You can Synchro Summon this card using materials with any Level. This card’s original Level becomes the total Levels of the materials used for its Synchro Summon (even after it leaves the field). You can send 1 ‘Soul’ non-Tuner monster from your Deck or Extra Deck to the Graveyard; increase or decrease this card’s Level by that monster’s Level in the Graveyard. You can only use this effect of ‘Soul Shard Synchron’ once per turn.">
 <img src="../../.assets/cards/synchro/Soul Snake.png" height="169px"
 title="1 ‘Soul’ Tuner + 1+ ‘Soul’ non-Tuner monsters
 If this card is sent to the Graveyard: You can add 1 ‘Soul’ card from your Graveyard to your hand. If this card is banished: You can equip it to a monster on the field. You can only use this effect of ‘Soul Snake’ once per turn. Negate the equipped monster’s attacks and effects, also it cannot be used as Special Summon material.">
@@ -273,11 +270,11 @@ If this card is Synchro Summoned: You can banish 1 ‘Soul’ card from your Gra
 title="1 ‘Soul’ Tuner + 1+ ‘Soul’ non-Tuner monsters
 Gains 150 ATK for each of your banished ‘Soul’ cards. Once per turn, when an attack is declared involving a ‘Soul’ monster you control: You can banish 1 ‘Soul’ card from your Graveyard; send 1 card on the field to the Graveyard. You can banish 1 ‘Soul’ Spell/Trap and 1 other ‘Soul’ monster from your Graveyard; Special Summon this card from your Graveyard. You can only use this effect of ‘Soul Knight’ once per turn.">
 <img src="../../.assets/cards/synchro/Soul Wanderer.png" height="169px"
-title="1 ‘Soul’ Synchro Tuner + 1+ ‘Soul’ non-Tuner monsters
+title="1 ‘Soul’ Tuner + 1+ ‘Soul’ non-Tuner monsters
 When your opponent activates a Spell/Trap card or effect, while you control a ‘Soul’ Ritual or Synchro monster (Quick Effect): You can banish this card from your field or Graveyard; shuffle that card into the Deck, and if you do, negate that effect. Once per End Phase, if this card is banished: You can Special Summon it, but shuffle it into the Deck when it leaves the field.">
 <img src="../../.assets/cards/synchro/Soul Guardian.png" height="169px"
 title="1 ‘Soul’ Tuner + 1+ ‘Soul’ non-Tuner monsters
-Your other ‘Soul’ cards cannot be targeted by your opponent’s card effects. If a ‘Soul’ card(s) you control would be destroyed by battle or card effect, you can banish 1 ‘Soul’ card from your Graveyard instead. When a ‘Soul’ monster you control is targeted for an attack: You can Special Summon this card from your Graveyard, and if you do, negate the attack. You can only use this effect of ‘Soul Guardian’ once per turn.">
+Your other ‘Soul’ cards cannot be targeted by your opponent’s card effects. If a ‘Soul’ monster you control is targeted by your opponent for an attack or with a card effect, while this card is in your Graveyard (Quick Effect): You can banish 1 other ‘Soul’ card from your Graveyard; Special Summon this card, and if you do, negate that attack or effect. You can only use this effect of ‘Soul Guardian’ once per turn.">
 <img src="../../.assets/cards/synchro/Soul Warden.png" height="169px"
 title="1 ‘Soul’ Ritual or Synchro Tuner + 1+ ‘Soul’ Ritual or Synchro monsters
 Your ‘Soul’ cards are unaffected by your opponent’s monster effects, except those that target them. While this card is in Defense Position, your opponent attack directly. Once per turn, if you control this card you Synchro Summoned: You can activate 1 of the following effects.
