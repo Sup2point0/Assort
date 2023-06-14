@@ -1,6 +1,6 @@
 # Soul
 
-An archetype of DARK Monsters with various Types, revolving around Ritual and Synchro Summoning, with Graveyard effects and non-targeting soft removal. All Monsters either have 0 ATK or DEF, with the other value ending in a 50, and the lower Level Monsters are all Spirit Monsters.
+An archetype of DARK Monsters with various Types, revolving around Ritual and Synchro Summoning, with Grave effects and non-targeting soft removal.
 
 The archetype has cross-support with the [*Shadow*](Shadow.md) archetype.
 
@@ -12,8 +12,11 @@ The archetype has cross-support with the [*Shadow*](Shadow.md) archetype.
 
 | type | count |
 | :--- | :---- |
+| Tuner   | x6 |
 | Ritual  | x3 |
 | Synchro | x10 |
+| Spell   | x15 |
+| Trap    | x4 |
 
 ### Monsters
 
