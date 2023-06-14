@@ -38,3 +38,9 @@
 ## Trivia
 
 - This card’s art is taken from [Solemn Warning](https://yugipedia.com/wiki/Solemn_Warning).
+
+
+<br>
+
+
+## See Also
