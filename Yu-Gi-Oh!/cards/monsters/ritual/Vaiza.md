@@ -1,6 +1,6 @@
 # Vaiza, Empress of Darquess
 
-{desc}
+<!-- {desc} -->
 
 <table>
   <tr>
@@ -58,3 +58,12 @@
 
 
 ## Trivia
+
+
+<br>
+
+
+## See Also
+
+[Raiza, Sorceress of Darquess](../ritual/Raiza.md)  
+[Laiza, Enchantress of Darquess](../ritual/Laiza.md)  
