@@ -47,17 +47,17 @@ Any Monsters whose Types are not specified are Psychic.
 
 | card | Level | ATK/DEF | Type | Material |
 | :--- | :---- | :------ | :--- | :------- |
-| [Soul Shard Synchron](../cards/monsters/synchro/–.md) | ? | 0 / 0 | Synchro Tuner Spirit | *Soul Synchron* + 1+ *Soul Shard*s |
-| [Soul Snake](../cards/monsters/synchro/–.md) | 4 ★★★★ | 1350 / 0 | Reptile Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
-| [Soul Alchemist](../cards/monsters/synchro/–.md) | 5 ★★★★★ | 0 / 2350 | Spellcaster Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
-| [Soul Knight](../cards/monsters/synchro/–.md) | 6 ★★★★★★ | 1750 / 0 | Warrior Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
-| [Soul Wanderer](../cards/monsters/synchro/–.md) | 7 ★★★★★★★ | 2450 / 0 | Zombie Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
-| [Soul Guardian](../cards/monsters/synchro/–.md) | 8 ★★★★★★★★ | 0 / 2950 | Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
-| [Soul Shard Swordsman](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | 3250 / 0 | Magical Knight Synchro Tuner | *Soul Swordsman* + 1+ *Soul Shard*s |
-| [Soul Shard Dragon](../cards/monsters/synchro/–.md) | 9 ★★★★★★★★★ | 3650 / 0 | High Dragon Synchro Tuner | *Soul Dragon* + 1+ *Soul Shard*s |
-| [Soul Warden](../cards/monsters/synchro/–.md) | 10 ★★★★★★★★★★ | 0 / 3450 | Wyrm Synchro | 1 ‘Soul’ Ritual or Synchro Tuner + 1 ‘Soul’ Ritual or Synchro Monster |
-| [Soul Slayer](../cards/monsters/synchro/–.md) | 11 ★★★★★★★★★★★ | ? / ? | Omega Psychic Synchro | 1 ‘Soul Shard’ Tuner + 1+ ‘Soul’ Ritual or Synchro Monsters |
-| [Soul Assassin](../cards/monsters/synchro/–.md) | 12 ★★★★★★★★★★★★ | 2950 / 0 | Celestial Warrior Synchro | 1 ‘Soul’ Tuner + [*Shadow Assassin*](../cards/monsters/ritual/Shadow%20Assassin.md) |
+| [Soul Shard Synchron](../cards/monsters/synchro/Soul%20Shard%20Synchron.md) | ? | 0 / 0 | Synchro Tuner Spirit | *Soul Synchron* + 1+ *Soul Shard*s |
+| [Soul Snake](../cards/monsters/synchro/Soul%20Snake.md) | 4 ★★★★ | 1350 / 0 | Reptile Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
+| [Soul Alchemist](../cards/monsters/synchro/Soul%20Alchemist.md) | 5 ★★★★★ | 0 / 2350 | Spellcaster Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
+| [Soul Knight](../cards/monsters/synchro/Soul%20Knight.md) | 6 ★★★★★★ | 1750 / 0 | Warrior Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
+| [Soul Wanderer](../cards/monsters/synchro/Soul%20Wanderer.md) | 7 ★★★★★★★ | 2450 / 0 | Zombie Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
+| [Soul Guardian](../cards/monsters/synchro/Soul%20Guardian.md) | 8 ★★★★★★★★ | 0 / 2950 | Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
+| [Soul Shard Swordsman](../cards/monsters/synchro/Soul%20Shard%20Swordsman.md) | 9 ★★★★★★★★★ | 3250 / 0 | Magical Knight Synchro Tuner | *Soul Swordsman* + 1+ *Soul Shard*s |
+| [Soul Shard Dragon](../cards/monsters/synchro/Soul%20Shard%20Dragon.md) | 9 ★★★★★★★★★ | 3650 / 0 | High Dragon Synchro Tuner | *Soul Dragon* + 1+ *Soul Shard*s |
+| [Soul Warden](../cards/monsters/synchro/Soul%20Warden.md) | 10 ★★★★★★★★★★ | 0 / 3450 | Wyrm Synchro | 1 ‘Soul’ Ritual or Synchro Tuner + 1 ‘Soul’ Ritual or Synchro Monster |
+| [Soul Slayer](../cards/monsters/synchro/Soul%20Slayer.md) | 11 ★★★★★★★★★★★ | ? / ? | Omega Psychic Synchro | 1 ‘Soul Shard’ Tuner + 1+ ‘Soul’ Ritual or Synchro Monsters |
+| [Soul Assassin](../cards/monsters/synchro/Soul%20Assassin.md) | 12 ★★★★★★★★★★★★ | 2950 / 0 | Celestial Warrior Synchro | 1 ‘Soul’ Tuner + [*Shadow Assassin*](../cards/monsters/ritual/Shadow%20Assassin.md) |
 
 </details>
 
