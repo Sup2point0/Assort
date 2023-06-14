@@ -129,14 +129,14 @@ Any Monsters whose Types are not specified are Psychic.
 
 ### Main Deck
 <img src="../../.assets/cards/monsters/Soul Synchron.png" height="169px"
-title="(This card's original Level is always treated as 0.)
-You can Special Summon this card (from your hand or Graveyard) by banishing 1 other ‘Soul’ card from your field or Graveyard, but you cannot Summon ‘Soul Synchron’ this way by banishing the same type of card (Monster/Spell/Trap) again this turn. You can remove 1 Soul Counter from the field; this card gains 1 Level.">
+title="(This card’s original Level is treated as 0.)
+You can Special Summon this card (from your Graveyard) by banishing 1 other ‘Soul’ card from your Graveyard, but you cannot Summon ‘Soul Synchron’ this way by banishing the same type of card (Monster/Spell/Trap) again this turn. You can remove 1 Soul Counter from the field; this card gains 1 Level (max 10).">
 <img src="../../.assets/cards/monsters/Soul Synchron.png" height="169px"
-title="(This card's original Level is always treated as 0.)
-You can Special Summon this card (from your hand or Graveyard) by banishing 1 other ‘Soul’ card from your field or Graveyard, but you cannot Summon ‘Soul Synchron’ this way by banishing the same type of card (Monster/Spell/Trap) again this turn. You can remove 1 Soul Counter from the field; this card gains 1 Level.">
+title="(This card’s original Level is treated as 0.)
+You can Special Summon this card (from your Graveyard) by banishing 1 other ‘Soul’ card from your Graveyard, but you cannot Summon ‘Soul Synchron’ this way by banishing the same type of card (Monster/Spell/Trap) again this turn. You can remove 1 Soul Counter from the field; this card gains 1 Level (max 10).">
 <img src="../../.assets/cards/monsters/Soul Synchron.png" height="169px"
-title="(This card's original Level is always treated as 0.)
-You can Special Summon this card (from your hand or Graveyard) by banishing 1 other ‘Soul’ card from your field or Graveyard, but you cannot Summon ‘Soul Synchron’ this way by banishing the same type of card (Monster/Spell/Trap) again this turn. You can remove 1 Soul Counter from the field; this card gains 1 Level.">
+title="(This card’s original Level is treated as 0.)
+You can Special Summon this card (from your Graveyard) by banishing 1 other ‘Soul’ card from your Graveyard, but you cannot Summon ‘Soul Synchron’ this way by banishing the same type of card (Monster/Spell/Trap) again this turn. You can remove 1 Soul Counter from the field; this card gains 1 Level (max 10).">
 <img src="../../.assets/cards/monsters/Soul Shard.png" height="169px"
 title="Return this banished card to the Graveyard at the end of each turn. If you control a Level 4 or higher ‘Soul’ monster, you can Special Summon this card (from your Graveyard) to an adjacent zone. You can only Summon ‘Soul Shard’ this way twice per turn.">
 <img src="../../.assets/cards/monsters/Soul Shard.png" height="169px"
