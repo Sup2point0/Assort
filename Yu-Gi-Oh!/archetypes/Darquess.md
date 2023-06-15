@@ -338,7 +338,7 @@ Otherwise of note are the 3 Continuous Traps, which like the Ritual Monsters are
 
 <table>
   <tr>
-    <th width="42px"> card </th>
+    <th width="42px"> Monster </th>
     <th align="center"> Lynuca </th>
     <th align="center"> Kes </th>
   </tr>
