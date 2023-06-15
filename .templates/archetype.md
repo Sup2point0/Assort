@@ -69,7 +69,7 @@ An archetype of – Monsters, revolving around – Summoning, inspired by the [*
 
 <table>
   <tr>
-    <th> card </th>
+    <th> Monster </th>
     <td align="center"> – </td>
   </tr>
   <tr>
