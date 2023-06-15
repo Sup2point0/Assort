@@ -144,7 +144,7 @@ You might have noticed these are Tuners – that’s because by tuning them with
 
 <table>
   <tr>
-    <th> card </th>
+    <th> Monster </th>
     <td align="center"> Soul Swordsman </td>
     <td align="center"> Soul Dragon </td>
   </tr>
