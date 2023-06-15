@@ -72,4 +72,4 @@
 
 ## See Also
 
-[Lynuca, Silencer of Darquess](../../../archetypes/Darquess.md#Other-Fusions)  
+[Lynuca, Silencer of Darquess](../../../archetypes/Darquess.md#Support)  
