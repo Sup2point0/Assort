@@ -259,7 +259,7 @@ The 3 main Level 13 Fusion Monsters each have 3300 ATK, requiring 2 of the 3 Rit
   <tr>
     <th> continuous </th>
     <td> neither player can Normal or Special Summon non-DARK Monsters </td>
-    <td> opponent can only Summon Monsters in Defence Position, and Monsters they control in Defence Position cannot activate effects </td>
+    <td> opponent‘s Monsters are changed to Defense Position, and Monsters they control in Defense Position cannot activate effects </td>
     <td> negates the effects of DARK Synchro, Xyz, and Link Monsters </td>
   </tr>
 </table>
