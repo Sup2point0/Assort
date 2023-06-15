@@ -264,6 +264,14 @@ The 3 main Level 13 Fusion Monsters each have 3300 ATK, requiring 2 of the 3 Rit
   </tr>
 </table>
 
+[Primordial Darquessence](../cards/monsters/fusion/Primordial%20Darquessence.md) is the ultimate boss Monster of the archetype, requiring 3 Lv13 *Darquess* Monsters as Material – note that these can be either Ritual or Fusion Monsters. Its effects are, to say the least, quite ridiculous.
+
+<table>
+  <tr>
+    <td> <img src="../../.assets/cards/fusion/Primordial Darquessence.png" height="269px"> </td>
+  </tr>
+</table>
+
 ### Spells
 The archetypal Field Spell is [Realm of Darquess](../cards/spells/field/Realm%20of%20Darquess.md), which provides the critical conditions for the rest of the archetype to function effectively.
 
