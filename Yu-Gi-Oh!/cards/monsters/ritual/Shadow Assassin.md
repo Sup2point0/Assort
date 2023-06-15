@@ -62,7 +62,7 @@
   - As such, its name is very similar, just with a different adjective.
   - It also inherits Silent Assassin’s effect to respond to the opponent’s Monster effects, but significantly stronger.
 - This card synergises extremely well with the [*Soul*](../../../archetypes/Soul.md) archetype.
-  - *Soul* revolves around the Grave, so can help get this card into the Grave to be Ritual Summoned. Although it may be more difficult to send it from the hand to the Grave than straight from the Deck, since this card is Lv10 it is perfect to Tribute for Ritual Summoning any of the *Soul* [Ritual Monsters](../../../archetypes/Soul.md#Ritual-Monsters).
+  - *Soul* revolves around the Grave, so can help get this card into the Grave to be Ritual Summoned. Although it may be more difficult to send it from the hand to the Grave than straight from the Deck, since this card is Lv10, it is perfect to Tribute for Ritual Summoning any of the *Soul* [Ritual Monsters](../../../archetypes/Soul.md#Ritual-Monsters).
   - *Soul* also happens to lack Monster negates ([Soul Wanderer](../../../archetypes/Soul.md#Mid-Level-Synchro-Monsters) can only negate Spell/Traps), which this card very much helps out with.
 
 
