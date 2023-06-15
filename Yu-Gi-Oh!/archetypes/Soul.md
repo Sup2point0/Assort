@@ -321,11 +321,14 @@ There are quite a few ‘consistency’ or ‘driver’ Spells that unlock acces
   </tr>
 </table>
 
-### Lingering Spells
+### Lingering Spells
+{~}
 
-### Miscellaneous Spells
+### Miscellaneous Spells
+{~}
 
 ### Trap Cards
+{~}
 
 
 <br>
