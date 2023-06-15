@@ -1,6 +1,6 @@
 # Soul
 
-An archetype of DARK Monsters with various Types, revolving around Ritual and Synchro Summoning, with Grave effects and non-targeting soft removal.
+An archetype of DARK Monsters of various Types, revolving around Ritual and Synchro Summoning, with Grave effects and non-targeting soft removal.
 
 The archetype has cross-support with the [*Shadow*](Shadow.md) series.
 
