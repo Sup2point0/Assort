@@ -45,7 +45,7 @@
     - It can target Ritual Monsters, but not Pendulum Monsters.
     - Instead of sending from the Extra Deck to the Grave as its cost, it banishes a Monster from anywhere other than the Grave, which could be beneficial to certain Decks.
     - This card can only be activated once per turn.
-- This card’s artwork is of [Ne Zha](https://wikipedia.org/wiki/Nezha) and [Ao Bing](https://wikipedia.org/wiki/Ao_Bing) from the [2019 film *哪吒之魔童降世*](https://wikipedia.org/wiki/Ne_Zha_(2019_film)).
+- This card’s artwork is of [Ne Zha](https://wikipedia.org/wiki/Nezha) and [Ao Bing](https://wikipedia.org/wiki/Ao_Bing) from the [2019 film 哪吒之魔童降世](https://wikipedia.org/wiki/Ne_Zha_(2019_film)).
 
 
 <br>
