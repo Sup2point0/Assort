@@ -294,7 +294,8 @@ Must be Synchro Summoned with the above materials. This card’s original ATK an
 title="1 ‘Soul’ Tuner + ‘Shadow Assassin’
 If this card was not Synchro Summoned with the above materials, its effects are negated. Can attack your opponent directly. If this card attacks, your opponent cannot activate cards or effects until the end of the Damage Step. If this card inflicts battle damage to your opponent: You can banish as many ‘Soul’ monsters from your Graveyard as possible, and if you do, inflict 350 damage for each banished.">
 <img src="../../.assets/cards/fusion/Vengeance Vanguard.png" height="169px"
-title="">
+title="‘Vengeful Soul’ + ‘Sorrowful Soul’ + ‘Tearful Soul’
+Must be Special Summoned (from your Extra Deck) by ‘Victory in Vengeance’, or by banishing the above cards, and 4 or more ‘Soul’ Ritual and/or Synchro monsters with different names, from your field and/or Graveyard while your LP are lower than your opponent. Cannot be targeted or banished by card effects. Gains 700 ATK for each of your banished monsters. If this card is Summoned: Pay half your LP; banish all cards from your opponent’s field and Graveyard. Cards and effects cannot be activated in response to this effect’s activation.">
 
 </details>
 
