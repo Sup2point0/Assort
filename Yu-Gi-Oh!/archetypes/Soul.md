@@ -132,7 +132,7 @@ Tuning it with [Soul Shard](#Soul-Shard) brings out [Soul Shard Synchron](../car
 </table>
 
 ### Ritual Monsters
-There are 2 Lv7 Ritual Monsters, [Soul Swordsman]() and [Soul Dragon](), which serve as the Ritual aces of the archetype. They are quite similar, with moderate ATK, and non-targeting soft removal trigger effect that activates whenever a *Soul* Ritual or Synchro Monster is Special Summoned (note that this doesn’t need to be a proper Ritual or Synchro Summon, or even be performed by the player themselves).
+There are 2 Lv7 Ritual Monsters, [Soul Swordsman](../cards/monsters/ritual/Soul%20Swordsman.md) and [Soul Dragon](../cards/monsters/ritual/Soul%20Dragon.md), which serve as the Ritual aces of the archetype. They are quite similar, with moderate ATK, and a non-targeting soft removal trigger effect that activates whenever a *Soul* Ritual or Synchro Monster is Special Summoned (note that this doesn’t need to be a proper Ritual or Synchro Summon, or even be performed by the player themselves).
 
 > If this card or another ‘Soul’ Ritual or Synchro Monster is Special Summoned: You can {…} 1 card from the field or either player’s Graveyard {…}.
 
@@ -140,15 +140,35 @@ They can also protect themselves from destruction by banishing a *Soul* Monster 
 
 > If this card would be destroyed, you can banish 1 ‘Soul’ Monster from your Graveyard instead.
 
-You might have noticed these are Tuners – that’s because by tuning them with [Soul Shard](), they can evolve into their upgraded *Soul Shard* [Synchro forms](), [Soul Shard Swordsman]() and [Soul Shard Dragon]()!
+You might have noticed these are Tuners – that’s because by tuning them with [Soul Shard](#Soul-Shard), they can evolve into their upgraded *Soul Shard* [Synchro forms](#High-Level-Synchro-Monsters), [Soul Shard Swordsman](../cards/monsters/synchro/Soul%20Shard%20Swordsman) and [Soul Shard Dragon](../cards/monsters/synchro/Soul%20Shard%20Dragon)!
 
-{{~}}
+<table>
+  <tr>
+    <th> card </th>
+    <td align="center"> Soul Swordsman </td>
+    <td align="center"> Soul Dragon </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/ritual/Soul Swordsman.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/ritual/Soul Dragon.png"> </td>
+  </tr>
+  <tr>
+    <th> removal </th>
+    <td> return to hand </td>
+    <td> shuffle into Deck </td>
+  </tr>
+</table>
 
-[Soul Elder]() is the Lv10 Ritual boss of the archetype, with a few devastating effects. It negates the effects of all Monsters without a Level (everywhere, not just on the field), which synergises perfectly with the rest of the archetype, since it exclusively utilises Synchro Monsters (alongside the Fusion Monster [Vengeance Vanguard]()). This also doesn’t impact the [Tuners](), since they do ‘have a Level’, only that their Level is 0.
+[Soul Elder](../cards/monsters/ritual/Soul%20Elder.md) is the Lv10 Ritual boss of the archetype, with a few devastating effects. It negates the effects of all Monsters without a Level (everywhere, not just on the field), which synergises perfectly with the rest of the archetype, since it exclusively utilises Synchro Monsters (alongside the Fusion Monster [Vengeance Vanguard](../cards/monsters/fusion/Vengeance%20Vanguard)). This also doesn’t impact the [Tuners](#Tuners), since they do ‘have a Level’, only that their Level is 0.
 
-The Monster also grants the protection effect of the [Synchro Aces]() to all *Soul* cards the player controls, preventing their destruction by banishing a *Soul* card from the Grave. Should a *Soul* card be banished – either through this effect, or to activate another *Soul* card’s effect, since the archetype fulfils this regularly – it can then banish an opponent’s card too.
+The Monster also grants the protection effect of the [Synchro aces](#High-Level-Synchro-Monsters) to all *Soul* cards the player controls, preventing their destruction by banishing a *Soul* card from the Grave. Should a *Soul* card be banished – either through this effect, or to activate another *Soul* card’s effect, since the archetype fulfils this regularly – it can then banish an opponent’s card too.
 
-{{~}}
+<table>
+  <tr>
+    <td> <img src="../../.assets/cards/ritual/Soul Elder.png" height="369px"> </td>
+  </tr>
+</table>
 
 
 <br>
