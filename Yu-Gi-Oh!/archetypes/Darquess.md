@@ -97,7 +97,7 @@ An archetype of DARK and primarily Spellcaster Monsters, harnessing Ritual and F
 All Monsters have 0 DEF.
 
 ### Level 4
-The 3 Level 4 Monsters have 1900 ATK and share the following effect:
+The 3 Lv4 Monsters have 1900 ATK and share the following effect:
 
 > If another card is banished: You can either add this banished card to your hand, or Special Summon this card from your hand.
 
@@ -127,7 +127,7 @@ Each has an effect to search another card on Summon, which also deals damage to 
 </table>
 
 ### Level 7
-This self-dealt damage allows the 3 Level 7 Monsters to be Summoned, which each have 2300 ATK.
+This self-dealt damage allows the 3 Lv7 Monsters to be Summoned, which each have 2300 ATK.
 
 > If either player takes damage: You can Special Summon this card from your hand or Graveyard, then you can increase this card’s Level (max 12) by 1 for every 100 damage taken.
 
@@ -157,7 +157,7 @@ They can then banish a card from the hand or Grave to search a Ritual-related ca
 </table>
 
 ### Level 9
-The 3 Level 9 Monsters have 2700 ATK, and serve as powerful removal, interrupts and sacrifices for Ritual Summons.
+The 3 Lv9 Monsters have 2700 ATK, and serve as powerful removal, interrupts and sacrifices for Ritual Summons.
 
 They share the following effects:
 
@@ -199,7 +199,7 @@ Vyktica is slightly different:
 </table>
 
 ### Level 13 Ritual
-The 3 Ritual Monsters are each Level 13 with 3000 ATK. All 3 are Limited, so the player can only ever control 1 of each. They share the Summoning condition that they must be Ritual Summoned by a ‘Darquess’ card. Upon Ritual Summon, they can each search any ‘Darquess’ Trap from the Deck.
+The 3 Ritual Monsters are each Lv13 with 3000 ATK. All 3 are Limited, so the player can only ever control 1 of each. They share the Summoning condition that they must be Ritual Summoned by a ‘Darquess’ card. Upon Ritual Summon, they can each search any ‘Darquess’ Trap from the Deck.
 
 > If this card is Ritual Summoned: You can Set 1 ‘Darquess’ Trap from your Deck.
 
@@ -239,7 +239,7 @@ Each then has a continuous floodgate effect, an ignition effect involving banish
 </table>
 
 ### Level 13 Fusion
-The 3 main Level 13 Fusion Monsters each have 3300 ATK, requiring 2 of the 3 Ritual Monsters as Material. They feature a powerful floodgate effect of their own, while sharing the following effect:
+The 3 main Lv13 Fusion Monsters each have 3300 ATK, requiring 2 of the 3 Ritual Monsters as Material. They feature a powerful floodgate effect of their own, while sharing the following effect:
 
 > If this card is targeted (Quick Effect): You can make 1 other DARK Monster on the field become the target instead.
 
@@ -272,7 +272,7 @@ The 3 main Level 13 Fusion Monsters each have 3300 ATK, requiring 2 of the 3 Rit
   </tr>
 </table>
 
-### Spells
+### Spell Support
 The archetypal Field Spell is [Realm of Darquess](../cards/spells/field/Realm%20of%20Darquess.md), which provides the critical conditions for the rest of the archetype to function effectively.
 
 The archetypal Ritual and Fusion Spell is [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md), which can recover itself as long as it is banished.
@@ -288,7 +288,7 @@ The archetypal Ritual and Fusion Spell is [Darquess Rising](../cards/spells/ritu
   </tr>
 </table>
 
-### Traps
+### Trap Cards
 Many opening and searching cards that would usually be Spells are instead Traps, some of which have the ability to be activated immediately by taking damage. Most important of all are the Monster and Spell/Trap searchers, [Awakening of Darquess]() and [Runes of Darquess](), which can also search the Field Spell if it is not already active.
 
 <table>
@@ -331,11 +331,34 @@ Otherwise of note are the 3 Continuous Traps, which like the Ritual Monsters are
   </tr>
 </table>
 
+### Support
+{...}
+
+[Lynuca](../cards/monsters/fusion/Lynuca.md) can be seen as an upgrade of the [Lv9 Monsters](#Level-9) (it can be brought out by banishing any 2 of them from the field), combining all their effects into a single *lingering* omni-negate. [Kes](#Monsters) is essentially an afterthought, but surprisingly powerful – it alone fully enables [Soul of Darquess](#Trap-Cards) or [Darquess Falling](#Ritual-Support) for a wicked comeback.
+
+<table>
+  <tr>
+    <th width="42px"> card </th>
+    <th align="center"> Lynuca </th>
+    <th align="center"> Kes </th>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td> <img src="../../.assets/cards/fusion/Lynuca.png"> </td>
+    <td> <img src="../../.assets/cards/monsters/Kes.png"> </td>
+  </tr>
+  <tr>
+    <th> effect </th>
+    <td> banish activated card or effect, negate effects of all cards with that name until the end of next turn </td>
+    <td> bury <em>Darquess</em> Monster from the Extra Deck to search Soul of Darquess or Darquess Falling </td>
+  </tr>
+</table>
+
 
 <br>
 
 
-## Strategics
+## Strategy
 
 {...}
 
