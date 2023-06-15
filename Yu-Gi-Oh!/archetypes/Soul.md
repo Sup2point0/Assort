@@ -263,13 +263,40 @@ The advanced Ritual Spell [Soul Prophecy](#Spells) is more unique, Ritual Summon
 ### Main Spells
 There are quite a few ‘consistency’ or ‘driver’ Spells that unlock access to the rest of the archetype, both through searching cards and, more importantly, milling them.
 
-| Spell | card | role | notes |
-| :---- | :--- | :--- | :---- |
-| [Soul Scripture](#Spells) | <img src="../../.assets/cards/spells/Soul%20Scripture.png" height="369px"> | Spell searcher | self-recursing, can even search itself |
-| [Pot of Souls](#Spells) | <img src="../../.assets/cards/spells/Pot%20of%20Souls.png" height="369px"> | draw | can lead to ridiculous card advantage through both drawing *and* milling |
-| [Soul Seeker](#Spells) | <img src="../../.assets/cards/spells/Soul%20Seeker.png" height="369px"> | searcher | allows for more precise searching, while also milling |
-| [Soul Manifestation](#Spells) | <img src="(../../.assets/cards/spells/Soul%20Manifestation.png" height="369px"> | starter | helpful consistency boost, recovers a *Soul* Spell/Trap from the Grave when banished |
-| [Soul Resurgence](#Spells) | <img src="../../.assets/cards/spells/Soul%20Resurgence.png" height="369px"> | revival | helpful for comebacks or combos, recovers a banished *Soul* card when banished |
+<table>
+  <tr>
+    <th> Spell </th>
+    <td align="center"> Soul Scripture </td>
+    <td align="center"> Pot of Souls </td>
+    <td align="center"> Soul Seeker </td>
+    <td align="center"> Soul Manifestation </td>
+    <td align="center"> Soul Resurgence </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/spells/Soul Scripture.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/Pot of Souls.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/Soul Seeker.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/Soul Manifestation.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/Soul Resurgence.png"> </td>
+  </tr>
+  <tr>
+    <th> role </th>
+    <td> – </td>
+    <td> – </td>
+    <td> – </td>
+    <td> – </td>
+    <td> – </td>
+  </tr>
+  <tr>
+    <th> notes </th>
+    <td> – </td>
+    <td> – </td>
+    <td> – </td>
+    <td> – </td>
+    <td> – </td>
+  </tr>
+</table>
 
 ### Lingering Spells
 
