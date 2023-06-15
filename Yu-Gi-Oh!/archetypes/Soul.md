@@ -104,6 +104,37 @@ Any Monsters whose Types are not specified are Psychic.
 <br>
 
 
+## Overview
+
+*Soul* is a highly diverse archetype, with plenty of niche or flavour cards that don’t fit into a particular category. All of the Monsters have either 0 ATK or 0 DEF, with the other value ending in 50, and many of the low-Level Monsters are Spirits.
+
+### Tuners
+[Soul Synchron](../cards/standard/Soul%20Synchron.md) is the archetypal Tuner, unique in having an original Level of 0. It can, however, raise its own Level up to Lv11 by absorbing [Soul Counters](#Soul-Counters) from anywhere on the field, which allows [higher Level Synchro Monsters](#High-Level-Synchro-Monsters) to be accessed more easily. This card is vital for Synchro Summons, so can easily Special Summon itself multiple times in one turn – although *Soul* Traps tend to be in short supply.
+
+Tuning it with [Soul Shard](#Soul-Shard) brings out [Soul Shard Synchron](../cards/synchro/Soul%20Shard%20Synchron.md), the archetypal Synchro Tuner. It is Lv0 like Soul Synchron, but is unique in that it replaces its original Level with the total Level of its Materials. It can then alter this Level by burying a non-Tuner *Soul* Monster, which also happens to be a built-in search.
+
+<table>
+  <tr>
+    <th> Monster </th>
+    <td align="center"> Soul Synchron </td>
+    <td align="center"> Soul Shard Synchron </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/monsters/Soul Synchron.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/synchro/Soul Shard Synchron.png"> </td>
+  </tr>
+  <tr>
+    <th> raises Level </th>
+    <td> by removing Soul Counters from the field </td>
+    <td> by burying a non-Tuner <em>Soul</em> Monster from the Deck or Extra Deck </td>
+  </tr>
+</table>
+
+
+<br>
+
+
 ## Strategy
 
 {...}
