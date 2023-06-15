@@ -43,7 +43,7 @@
 
 ## Trivia
 
-- This card’s art is taken from [Where Arf Thou?](https://yugipedia.com/wiki/Where_Arf_Thou?).
+- This card’s art is taken from [Where Arf Thou?](https://yugipedia.com/wiki/Where_Arf_Thou%3F).
 
 
 <br>
