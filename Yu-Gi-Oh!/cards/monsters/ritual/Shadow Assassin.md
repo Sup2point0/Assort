@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td> series </td>
-    <td> <a href="../../../archetypes/Shadow.md">Shadow</a> <br> <a href="../../../archetypes/Assassin.md">Assassin</a> </td>
+    <td> <a href="../../../archetypes/Shadow.md">Shadow</a>, <a href="../../../archetypes/Assassin.md">Assassin</a> </td>
   </tr>
   <tr>
     <td> Types </td>
