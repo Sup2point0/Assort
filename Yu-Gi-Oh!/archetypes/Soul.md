@@ -47,7 +47,7 @@ Any Monsters whose Types are not specified are Psychic.
 
 | card | Level | ATK/DEF | Type | Material |
 | :--- | :---- | :------ | :--- | :------- |
-| [Soul Shard Synchron](../cards/monsters/synchro/Soul%20Shard%20Synchron.md) | ? | 0 / 0 | Synchro Tuner Spirit | *Soul Synchron* + 1+ *Soul Shard*s |
+| [Soul Shard Synchron](../cards/monsters/synchro/Soul%20Shard%20Synchron.md) | ? | 0 / 0 | Synchro Tuner | *Soul Synchron* + 1+ *Soul Shard*s |
 | [Soul Snake](../cards/monsters/synchro/Soul%20Snake.md) | 4 ★★★★ | 1350 / 0 | Reptile Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
 | [Soul Alchemist](../cards/monsters/synchro/Soul%20Alchemist.md) | 5 ★★★★★ | 0 / 2350 | Spellcaster Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
 | [Soul Knight](../cards/monsters/synchro/Soul%20Knight.md) | 6 ★★★★★★ | 1750 / 0 | Warrior Synchro | 1 ‘Soul’ Tuner + 1+ non-Tuner ‘Soul’ Monsters |
@@ -240,14 +240,14 @@ title="Each time a player takes damage, place 1 Soul Counter on this card. If th
 • For every 3 Soul Counters on this card, your opponent banishes 1 card (of their choice) from their Extra Deck, face-down (max 3).">
 <img src="../../.assets/cards/traps/Soul Scream.png" height="169px"
 title="When a card or effect is activated: Banish 1 ‘Soul’ Ritual or Synchro monster from your field or Graveyard; inflict damage equal to that banished monster’s ATK or DEF (your choice), also negate all other effects in this Chain. If you take more than 2000 damage: You can Set this card from your Graveyard.">
-<img src="../../.assets/cards/traps/Tormenting Trap Hole.png" height="169px"
-title="When your opponent Summons a monster from the Graveyard, or Special Summons a monster using a monster Summoned from the Graveyard as material: Banish the Summoned monster, and if you do, while that card is banished, your opponent takes damage equal to half its original ATK during each Standby Phase. You can only activate ‘Tormenting Trap Hole’ once per Duel.">
-<img src="../../.assets/cards/traps/Darkchoke.png" height="169px"
-title="During each Standby Phase, place 1 Choke Counter on this card, then your opponent takes damage equal to the number of Choke Counters on this card x 200. If this card’s effects would be negated, remove all Choke Counters from it instead. This face-up card with a Choke Counter cannot leave the field by card effect, unless it is banished.">
 <img src="../../.assets/cards/traps/Victory in Vengeance.png" height="169px"
 title="When your opponent declares a direct attack, or activates a card or effect that would inflict damage to you: Negate the attack or activation, also after that, banish as many monsters as possible from both player’s Graveyards, inflict 450 damage for each, then if at least 7 were banished, you can Special Summon 1 ‘Vengeance Vanguard’ from your Extra Deck. You can only activate ‘Victory in Vengeance’ once per Duel.">
 <img src="../../.assets/cards/spells/Foolish Burial Trade.png" height="169px"
 title="Shuffle up to 2 of your banished cards with different types (Monster/Spell/Trap) into the Deck, then send that many cards of the same type(s) from your Deck to the Graveyard. You can only activate ‘Foolish Burial Trade’ once per turn.">
+<img src="../../.assets/cards/traps/Tormenting Trap Hole.png" height="169px"
+title="When your opponent Summons a monster from the Graveyard, or Special Summons a monster using a monster Summoned from the Graveyard as material: Banish the Summoned monster, and if you do, while that card is banished, your opponent takes damage equal to half its original ATK during each Standby Phase. You can only activate ‘Tormenting Trap Hole’ once per Duel.">
+<img src="../../.assets/cards/traps/Darkchoke.png" height="169px"
+title="During each Standby Phase, place 1 Choke Counter on this card, then your opponent takes damage equal to the number of Choke Counters on this card x 200. If this card’s effects would be negated, remove all Choke Counters from it instead. This face-up card with a Choke Counter cannot leave the field by card effect, unless it is banished.">
 <!-- <img src="../../.assets/cards/spells/Soul Purity.png" height="169px"
 title="Shuffle any number of your banished ‘Soul’ cards into the Deck, then Special Summon 1 ‘Soul’ Synchro monster from your Extra Deck, whose Level equals the number of cards shuffled. (This is treated as Synchro Summon.) If this card is banished: You can shuffle up to 3 of your banished ‘Soul’ cards into the Deck, then draw 1 card. You can only use this effect of ‘Soul Purity’ once per turn."> -->
 
