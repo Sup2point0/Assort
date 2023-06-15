@@ -131,6 +131,15 @@ Tuning it with [Soul Shard](#Soul-Shard) brings out [Soul Shard Synchron](../car
   </tr>
 </table>
 
+### Soul Shard
+{~}
+
+### Soulful Monsters
+{~}
+
+### Miscellaneous Monsters
+{~}
+
 ### Ritual Monsters
 There are 2 Lv7 Ritual Monsters, [Soul Swordsman](../cards/monsters/ritual/Soul%20Swordsman.md) and [Soul Dragon](../cards/monsters/ritual/Soul%20Dragon.md), which serve as the Ritual aces of the archetype. They are quite similar, with moderate ATK, and a non-targeting soft removal trigger effect that activates whenever a *Soul* Ritual or Synchro Monster is Special Summoned (note that this doesn’t need to be a proper Ritual or Synchro Summon, or even be performed by the player themselves).
 
@@ -140,7 +149,7 @@ They can also protect themselves from destruction by banishing a *Soul* Monster 
 
 > If this card would be destroyed, you can banish 1 ‘Soul’ Monster from your Graveyard instead.
 
-You might have noticed these are Tuners – that’s because by tuning them with [Soul Shard](#Soul-Shard), they can evolve into their upgraded *Soul Shard* [Synchro forms](#High-Level-Synchro-Monsters), [Soul Shard Swordsman](../cards/monsters/synchro/Soul%20Shard%20Swordsman) and [Soul Shard Dragon](../cards/monsters/synchro/Soul%20Shard%20Dragon)!
+You might have noticed these are Tuners – that’s because by tuning them with [Soul Shard](#Soul-Shard), they can evolve into their upgraded *Soul Shard* [Synchro forms](#High-Level-Synchro-Monsters), [Soul Shard Swordsman](#High-Level-Synchro-Monsters) and [Soul Shard Dragon](#High-Level-Synchro-Monsters)!
 
 <table>
   <tr>
@@ -169,6 +178,31 @@ The Monster also grants the protection effect of the [Synchro aces](#High-Level-
     <td> <img src="../../.assets/cards/ritual/Soul Elder.png" height="369px"> </td>
   </tr>
 </table>
+
+### Low-Level Synchro Monsters
+{~}
+
+### Mid-Level Synchro Monsters
+[Soul Knight](#Monsters) is the signature Monster of the archetype. Despite its low original ATK, it is highly versatile – able to quickly reach very high ATK as the game develops, and even revive itself, not least being easily accessible in the first place due to its low Level.
+
+[Soul Wanderer](#Monsters) has rather unusual effects. It provides a Spell/Trap negate either while on the field, or while in the Grave and the player controls another *Soul* Ritual or Synchro Monster. Since it is Lv7, this makes it the perfect Monster to sacrifice from the Extra Deck for [Soul Prophecy](#Ritual-Spells) to Ritual Summon [Soul Swordsman](#Ritual-Monsters) or [Soul Dragon](#Ritual-Monsters). If properly Synchro Summoned first, it can also revive itself, either for another negate or extra Material.
+
+[Soul Guardian](#Monsters) is a defensive Monster that prevents the opponent from targeting any other *Soul* cards the player controls with card effects. Together with [Soul Warden](#High-Level-Synchro-Monsters), this grants almost absolute protection to almost all of the player’s *Soul* cards. Like many *Soul* Monsters, it can revive itself from the Grave, so can be quite difficult to deal with.
+
+### High-Level Synchro Monsters
+[Soul Swordsman](#Ritual-Monsters) and [Soul Dragon](#Ritual-Monsters) evolve into [Soul Shard Swordsman](../cards/monsters/synchro/Soul%20Shard%20Swordsman.md) and [Soul Shard Dragon](../cards/monsters/synchro/Soul%20Shard%20Dragon.md), Lv9 Synchro Tuners with significantly higher ATK and a far more dangerous disruptive effects.
+
+They require their Ritual counterpart and any number of *Soul Shard* Monsters as Material – which could be 2 [Soul Shard](#Soul-Shard)s, 1 [Soul Fragment](#Soul-Shard), or even a Lv2 [Soul Shard Synchron](#Tuners) – and have the condition that they must first be Synchro Summoned with exactly those Materials, preventing them from being cheated out as easily.
+
+Inherited from their base forms, both can now protect themselves from destruction by banishing *any* *Soul* card (not just a Monster) from the Grave. They each have a Quick Effect that can activate by also banishing a *Soul* card from the Grave; Soul Shard Swordsman specialises in quick removal, while Soul Shard Dragon provides quick disruption and also has the highest ATK in the archetype.
+
+{{~}}
+
+[Soul Warden]() and [Soul Slayer]() are the Synchro bosses of the archetype. They are both Accel Synchro Monsters, requiring *Soul* Ritual or Synchro Monsters as Material, with Soul Slayer also specifying a *Soul Shard* Tuner. Soul Warden is purely defensive, granting all of the player’s *Soul* cards (so including those not on the field) immunity to the opponent’s Monster effects that don’t target them – which includes protection from negation and floodgates. Conversely, Soul Slayer is purely offensive, quickly inflicting critical amounts of damage to the opponent to swing in for the kill.
+
+{{~}}
+
+[Soul Assassin]() is a cross-archetypal Lv12 Synchro Monster, requiring a *Soul* Tuner with [Shadow Assassin](). This is another option for OTKing the opponent, with a direct attack that cannot be stopped, that then allows it to inflict potentially massive damage. Often it will be more effective to leave the formidable Shadow Assassin on the field, but in a developed game where there are plenty of *Soul* monsters in the Grave, Soul Shard Assassin can end it before the opponent has a chance to do anything.
 
 
 <br>
