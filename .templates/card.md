@@ -75,7 +75,6 @@
 
 ## Trivia
 
-- Origin
 - Archetype
 - Upgrades
 - Name
@@ -83,6 +82,7 @@
 - Inspiration
 - Artwork
 - Age
+- History
 
 
 <br>
