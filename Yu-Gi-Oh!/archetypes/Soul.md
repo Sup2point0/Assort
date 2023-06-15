@@ -131,6 +131,25 @@ Tuning it with [Soul Shard](#Soul-Shard) brings out [Soul Shard Synchron](../car
   </tr>
 </table>
 
+### Ritual Monsters
+There are 2 Lv7 Ritual Monsters, [Soul Swordsman]() and [Soul Dragon](), which serve as the Ritual aces of the archetype. They are quite similar, with moderate ATK, and non-targeting soft removal trigger effect that activates whenever a *Soul* Ritual or Synchro Monster is Special Summoned (note that this doesn’t need to be a proper Ritual or Synchro Summon, or even be performed by the player themselves).
+
+> If this card or another ‘Soul’ Ritual or Synchro Monster is Special Summoned: You can {…} 1 card from the field or either player’s Graveyard {…}.
+
+They can also protect themselves from destruction by banishing a *Soul* Monster from the Grave instead.
+
+> If this card would be destroyed, you can banish 1 ‘Soul’ Monster from your Graveyard instead.
+
+You might have noticed these are Tuners – that’s because by tuning them with [Soul Shard](), they can evolve into their upgraded *Soul Shard* [Synchro forms](), [Soul Shard Swordsman]() and [Soul Shard Dragon]()!
+
+{{~}}
+
+[Soul Elder]() is the Lv10 Ritual boss of the archetype, with a few devastating effects. It negates the effects of all Monsters without a Level (everywhere, not just on the field), which synergises perfectly with the rest of the archetype, since it exclusively utilises Synchro Monsters (alongside the Fusion Monster [Vengeance Vanguard]()). This also doesn’t impact the [Tuners](), since they do ‘have a Level’, only that their Level is 0.
+
+The Monster also grants the protection effect of the [Synchro Aces]() to all *Soul* cards the player controls, preventing their destruction by banishing a *Soul* card from the Grave. Should a *Soul* card be banished – either through this effect, or to activate another *Soul* card’s effect, since the archetype fulfils this regularly – it can then banish an opponent’s card too.
+
+{{~}}
+
 
 <br>
 
