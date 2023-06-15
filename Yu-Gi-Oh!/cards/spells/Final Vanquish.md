@@ -29,7 +29,7 @@
 
 | aspect | type | notes |
 | :----- | :--- | :---- |
-| Banish 1 monster from your hand, field, Deck or Extra Deck, then target 1 monster your opponent controls with the same type (Ritual/Fusion/Synchro/Xyz/Link); banish that target face-down. | activation | The idea is kinda that the 2 antagonists take each other out |
+| Banish 1 monster from your hand, field, Deck or Extra Deck, then target 1 monster your opponent controls with the same type (Ritual/Fusion/Synchro/Xyz/Link); banish that target face-down. | activation | The idea is kinda that the 2 antagonists take each other out, y’know? |
 | Your opponent cannot activate cards or effects in response to this card’s activation. | condition | |
 | You can only activate ‘Final Vanquish’ once per turn. | turnly restriction | |
 
