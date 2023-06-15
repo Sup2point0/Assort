@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td> Property </td>
-    <td> Quick </td>
+    <td> Quick-Play </td>
   </tr>
   <tr>
     <td colspan="2"> <img src="../../../.assets/cards/spells/Atrocious Fusion.png" width="320px"> </td>
