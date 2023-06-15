@@ -194,15 +194,60 @@ The Monster also grants the protection effect of the [Synchro aces](#High-Level-
 
 They require their Ritual counterpart and any number of *Soul Shard* Monsters as Material – which could be 2 [Soul Shard](#Soul-Shard)s, 1 [Soul Fragment](#Soul-Shard), or even a Lv2 [Soul Shard Synchron](#Tuners) – and have the condition that they must first be Synchro Summoned with exactly those Materials, preventing them from being cheated out as easily.
 
-Inherited from their base forms, both can now protect themselves from destruction by banishing *any* *Soul* card (not just a Monster) from the Grave. They each have a Quick Effect that can activate by also banishing a *Soul* card from the Grave; Soul Shard Swordsman specialises in quick removal, while Soul Shard Dragon provides quick disruption and also has the highest ATK in the archetype.
+Inherited from their base forms, both can now protect themselves from destruction by banishing *any* *Soul* card (not just a Monster) from the Grave. They each have a quick effect that can activate by also banishing a *Soul* card from the Grave; Soul Shard Swordsman specialises in quick removal, while Soul Shard Dragon provides quick disruption and also has the highest ATK in the archetype.
 
-{{~}}
+<table>
+  <tr>
+    <th> Monster </th>
+    <td align="center"> Soul Shard Swordsman </td>
+    <td align="center"> Soul Shard Dragon </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/synchro/Soul Shard Swordsman.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/synchro/Soul Shard Dragon.png"> </td>
+  </tr>
+  <tr>
+    <th> quick effect </th>
+    <td> return 1 card from either player’s field or Grave to the hand </td>
+    <td> flip all cards the opponent controls face-down </td>
+  </tr>
+  <tr>
+    <th> other effect </th>
+    <td> make opponent shuffle 1 card from their hand into the Deck when they add a card to their hand by card effect </td>
+    <td> redirect an effect that targets a <em>Soul</em> card to one of the opponent’s cards </td>
+  </tr>
+</table>
 
-[Soul Warden]() and [Soul Slayer]() are the Synchro bosses of the archetype. They are both Accel Synchro Monsters, requiring *Soul* Ritual or Synchro Monsters as Material, with Soul Slayer also specifying a *Soul Shard* Tuner. Soul Warden is purely defensive, granting all of the player’s *Soul* cards (so including those not on the field) immunity to the opponent’s Monster effects that don’t target them – which includes protection from negation and floodgates. Conversely, Soul Slayer is purely offensive, quickly inflicting critical amounts of damage to the opponent to swing in for the kill.
+[Soul Warden](../cards/monsters/synchro/Soul%20Warden.md) and [Soul Slayer](../cards/monsters/synchro/Soul%20Slayer.md) are the Synchro bosses of the archetype. They are both Accel Synchro Monsters, requiring *Soul* Ritual or Synchro Monsters as Material, with Soul Slayer also specifying a *Soul Shard* Tuner. Soul Warden is purely defensive, granting all of the player’s *Soul* cards (so including those not on the field) immunity to the opponent’s Monster effects that don’t target them – which includes protection from negation and floodgates. Conversely, Soul Slayer is purely offensive, quickly inflicting critical amounts of damage to the opponent to swing in for the kill.
 
-{{~}}
+<table>
+  <tr>
+    <th> Monster </th>
+    <td align="center"> Soul Warden </td>
+    <td align="center"> Soul Slayer </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/synchro/Soul Warden.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/synchro/Soul Slayer.png"> </td>
+  </tr>
+</table>
 
-[Soul Assassin]() is a cross-archetypal Lv12 Synchro Monster, requiring a *Soul* Tuner with [Shadow Assassin](). This is another option for OTKing the opponent, with a direct attack that cannot be stopped, that then allows it to inflict potentially massive damage. Often it will be more effective to leave the formidable Shadow Assassin on the field, but in a developed game where there are plenty of *Soul* monsters in the Grave, Soul Shard Assassin can end it before the opponent has a chance to do anything.
+[Soul Assassin](../cards/monsters/synchro/Soul%20Assassin.md) is a cross-archetypal Lv12 Synchro Monster, requiring a *Soul* Tuner with [Shadow Assassin](../cards/monsters/ritual/Shadow%20Assassin.md). This is another option for OTKing the opponent, with a direct attack that cannot be stopped, that then allows it to inflict potentially massive damage. Often it will be more effective to leave the formidable Shadow Assassin on the field, but in a developed game where there are plenty of *Soul* monsters in the Grave, Soul Shard Assassin can end it before the opponent has a chance to do anything.
+
+<table>
+  <tr>
+    <th> Monster </th>
+    <td align="center"> Shadow Assassin</td>
+    <td align="center"> Soul Assassin </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/ritual/Shadow Assassin.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/synchro/Soul Assassin.png"> </td>
+  </tr>
+</table>
 
 
 <br>
