@@ -261,6 +261,11 @@ Naturally, the most optimal method is removing Soul Counters, which results in n
 The advanced Ritual Spell [Soul Prophecy](#Spells) is more unique, Ritual Summoning from either the Deck or Grave by burying a *Soul* Synchro Monster from the Extra Deck. This essentially allows any *Soul* Ritual Monster to be turboed out for little cost, and so comes with the restriction that the player is locked out of Ritual Summoning other Monsters while that Monster remains on the field. It will also be destroyed at the end of the next turn, though all of the *Soul* Ritual Monsters can prevent this through their own protective effect.
 
 ### Main Spells
+There are quite a few ‘consistency’ or ‘driver’ Spells that unlock access to the rest of the archetype, both through searching cards and, more importantly, milling them.
+
+| Spell | card | role | notes |
+| :---- | :--- | :--- | :---- |
+| [Soul Scripture]() | ![](../../.assets/cards/spells/Soul%20Scripture.png) | Spell searcher | self-recursing, can even search itself |
 
 ### Lingering Spells
 
