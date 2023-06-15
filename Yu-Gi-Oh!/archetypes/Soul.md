@@ -265,11 +265,11 @@ There are quite a few ‘consistency’ or ‘driver’ Spells that unlock acces
 
 | Spell | card | role | notes |
 | :---- | :--- | :--- | :---- |
-| [Soul Scripture](#Spells) | ![](../../.assets/cards/spells/Soul%20Scripture.png) | Spell searcher | self-recursing, can even search itself |
-| [Pot of Souls](#Spells) | ![](../../.assets/cards/spells/Pot%20of%20Souls.png) | draw | can lead to ridiculous card advantage through both drawing *and* milling |
-| [Soul Seeker](#Spells) | ![](../../.assets/cards/spells/Soul%20Seeker.png) | searcher | allows for more precise searching, while also milling |
-| [Soul Manifestation](#Spells) | ![](../../.assets/cards/spells/Soul%20Manifestation.png) | starter | helpful consistency boost, recovers a *Soul* Spell/Trap from the Grave when banished |
-| [Soul Resurgence](#Spells) | ![](../../.assets/cards/spells/Soul%20Resurgence.png) | revival | helpful for comebacks or combos, recovers a banished *Soul* card when banished |
+| [Soul Scripture](#Spells) | <img src="../../.assets/cards/spells/Soul%20Scripture.png" height="369px"> | Spell searcher | self-recursing, can even search itself |
+| [Pot of Souls](#Spells) | <img src="../../.assets/cards/spells/Pot%20of%20Souls.png" height="369px"> | draw | can lead to ridiculous card advantage through both drawing *and* milling |
+| [Soul Seeker](#Spells) | <img src="../../.assets/cards/spells/Soul%20Seeker.png" height="369px"> | searcher | allows for more precise searching, while also milling |
+| [Soul Manifestation](#Spells) | <img src="(../../.assets/cards/spells/Soul%20Manifestation.png" height="369px"> | starter | helpful consistency boost, recovers a *Soul* Spell/Trap from the Grave when banished |
+| [Soul Resurgence](#Spells) | <img src="../../.assets/cards/spells/Soul%20Resurgence.png" height="369px"> | revival | helpful for comebacks or combos, recovers a banished *Soul* card when banished |
 
 ### Lingering Spells
 
