@@ -309,4 +309,4 @@ Must be Special Summoned (from your Extra Deck) by ‘Victory in Vengeance’, o
 - The 0 ATK or DEF of Monsters reflects their fragility and volatility.
 - A significant chunk of the art is sourced from [*League of Legends*](https://wikipedia.org/wiki/League_of_Legends).
 - This is one of the first custom archetypes I created.
-  - It originally formed a deck with the [Ninjato](Ninjato.md) archetype, before I decided to split them so each could focus on their individual playstyle.
+  - It originally formed a deck called *Vengeance* with the [Ninjato](Ninjato.md) archetype, before I decided to split them so each could focus on their individual playstyle.
