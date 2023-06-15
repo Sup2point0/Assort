@@ -249,6 +249,16 @@ Inherited from their base forms, both can now protect themselves from destructio
   </tr>
 </table>
 
+### Ritual Spells
+
+### Main Spells
+
+### Lingering Spells
+
+### Miscellaneous Spells
+
+### Trap Cards
+
 
 <br>
 
@@ -454,8 +464,10 @@ Must be Special Summoned (from your Extra Deck) by ‘Victory in Vengeance’, o
 
 ## Trivia
 
-- [Vengeance Vanguard](../cards/monsters/fusion/Vengeance%20Vanguard.md) is the final boss of the archetype, but is not in the archetype itself.
+- The archetype features every type of Spell and Trap.
+- It also has a Monster for every Level from 0 to 12.
 - The 0 ATK or DEF of Monsters reflects their fragility and volatility.
+- [Vengeance Vanguard](../cards/monsters/fusion/Vengeance%20Vanguard.md) is the final boss of the archetype, but is not in the archetype itself.
 - A significant chunk of the art is sourced from [*League of Legends*](https://wikipedia.org/wiki/League_of_Legends).
 - This is one of the first custom archetypes I created.
   - It originally formed a deck called *Vengeance* with the [Ninjato](Ninjato.md) archetype, before I decided to split them so each could focus on their individual playstyle.
