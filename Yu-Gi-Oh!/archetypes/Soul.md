@@ -250,6 +250,15 @@ Inherited from their base forms, both can now protect themselves from destructio
 </table>
 
 ### Ritual Spells
+The archetype has 2 Ritual Spells. The standard, [Soul Ritual](../cards/spells/Soul%20Ritual.md), can Ritual Summon from either the hand and Grave, and can sacrifice in 3 ways:
+
+- Tribute Monsters from your field (not hand)
+- Banish *Soul* Synchro Monsters from your Grave
+- Remove Soul Counters from the field
+
+Naturally, the most optimal method is removing Soul Counters, which results in no card advantage loss. Being able to combine all 3 gives the card great versatility in different situations. It can even recover itself whenever another Monster or *Soul* Spell/Trap is banished.
+
+The advanced Ritual Spell [Soul Prophecy](#Spells) is more unique, Ritual Summoning from either the Deck or Grave by burying a *Soul* Synchro Monster from the Extra Deck. This essentially allows any *Soul* Ritual Monster to be turboed out for little cost, and so comes with the restriction that the player is locked out of Ritual Summoning other Monsters while that Monster remains on the field. It will also be destroyed at the end of the next turn, though all of the *Soul* Ritual Monsters can prevent this through their own protective effect.
 
 ### Main Spells
 
