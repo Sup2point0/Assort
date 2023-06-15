@@ -65,7 +65,28 @@ An archetype of – Monsters, revolving around – Summoning, inspired by the [*
 <br>
 
 
-## Strategics
+## Overview
+
+<table>
+  <tr>
+    <th> card </th>
+    <td align="center"> – </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/–/–.png"> </td>
+  </tr>
+  <tr>
+    <th> – </th>
+    <td> – </td>
+  </tr>
+</table>
+
+
+<br>
+
+
+## Strategy
 
 {...}
 
