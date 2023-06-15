@@ -268,7 +268,7 @@ The 3 main Level 13 Fusion Monsters each have 3300 ATK, requiring 2 of the 3 Rit
 
 <table>
   <tr>
-    <td> <img src="../../.assets/cards/fusion/Primordial Darquessence.png" height="269px"> </td>
+    <td> <img src="../../.assets/cards/fusion/Primordial Darquessence.png" height="369px"> </td>
   </tr>
 </table>
 
