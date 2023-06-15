@@ -61,9 +61,10 @@
 ## Trivia
 
 - This Monster is the final boss of the [*Soul*](../../../archetypes/Soul.md) archetype, despite not being part of the archetype itself.
-- It is (very loosely) an upgrade of [Soul Slayer](../sychro/Soul%20Slayer.md).
+- It is (very loosely) an evolution of [Soul Slayer](../sychro/Soul%20Slayer.md).
 - This card’s trigger effect is slightly similar to[Victory in Vengeance](../../traps/Victory%20in%20Vengeance.md).
 - This Monster was originally a (Link-4) Link Monster.
+  - It specifically required Vengeful Soul as Material (at the time, that was the only ‘Soulful’ Monster, and the card that tied *Soul* to *Vengeance*).
   - It had 3 Link Arrows pointing in the upwards directions and 1 pointing straight down.
   - This was very early during my return to Yu-Gi-Oh, so I was fascinated by Link Monsters and thought it would be cool to make the ultimate boss one of them. In practice, it’s far more fitting as a Fusion Monster.
 - This was the first entirely overpowered, utterly over-the-top, totally over-tuned boss Monster I created.
