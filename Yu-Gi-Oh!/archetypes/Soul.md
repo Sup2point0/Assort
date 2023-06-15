@@ -254,11 +254,34 @@ The archetype has 2 Ritual Spells. The standard, [Soul Ritual](../cards/spells/S
 
 - Tribute Monsters from your field (not hand)
 - Banish *Soul* Synchro Monsters from your Grave
-- Remove Soul Counters from the field
+- Remove [Soul Counters](#Soul-Counters) from the field
 
 Naturally, the most optimal method is removing Soul Counters, which results in no card advantage loss. Being able to combine all 3 gives the card great versatility in different situations. It can even recover itself whenever another Monster or *Soul* Spell/Trap is banished.
 
 The advanced Ritual Spell [Soul Prophecy](#Spells) is more unique, Ritual Summoning from either the Deck or Grave by burying a *Soul* Synchro Monster from the Extra Deck. This essentially allows any *Soul* Ritual Monster to be turboed out for little cost, and so comes with the restriction that the player is locked out of Ritual Summoning other Monsters while that Monster remains on the field. It will also be destroyed at the end of the next turn, though all of the *Soul* Ritual Monsters can prevent this through their own protective effect.
+
+<table>
+  <tr>
+    <th> Spell </th>
+    <td align="center"> Soul Ritual </td>
+    <td align="center"> Soul Prophecy </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/spells/Soul Ritual.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/Soul Prophecy.png"> </td>
+  </tr>
+  <tr>
+    <th> location </th>
+    <td> hand or Grave </td>
+    <td> Deck or Grave </td>
+  </tr>
+  <tr>
+    <th> sacrifices </th>
+    <td> Tribute Monsters from field, banish <em>Soul</em> Synchro Monsters from Grave, remove Soul Counters from field </td>
+    <td> Send 1 <em>Soul</em> Monster from Extra Deck to Grave </td>
+  </tr>
+</table>
 
 ### Main Spells
 There are quite a few ‘consistency’ or ‘driver’ Spells that unlock access to the rest of the archetype, both through searching cards and, more importantly, milling them.
