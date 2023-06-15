@@ -282,19 +282,19 @@ There are quite a few ‘consistency’ or ‘driver’ Spells that unlock acces
   </tr>
   <tr>
     <th> role </th>
-    <td> – </td>
-    <td> – </td>
-    <td> – </td>
-    <td> – </td>
-    <td> – </td>
+    <td> Spell searcher </td>
+    <td> drawer </td>
+    <td> finder </td>
+    <td> starter </td>
+    <td> revival </td>
   </tr>
   <tr>
     <th> notes </th>
-    <td> – </td>
-    <td> – </td>
-    <td> – </td>
-    <td> – </td>
-    <td> – </td>
+    <td> self-recursing, can even search itself </td>
+    <td> can lead to ridiculous card advantage through both drawing *and* milling </td>
+    <td> allows for more precise searching, while also milling </td>
+    <td> helpful consistency boost, recovers a <em>Soul</em> Spell/Trap from the Grave </td>
+    <td> helpful for comebacks or combos, recovers a banished <em>Soul</em> card </td>
   </tr>
 </table>
 
