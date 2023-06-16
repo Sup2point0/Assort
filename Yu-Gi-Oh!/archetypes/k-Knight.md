@@ -93,10 +93,11 @@ title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [
 title="Cannot be used as SS Material, except for a ‘k-Knight’ Monster. ❶ [HOPT] If a column contains exactly 2 cards: You can SS this card from your hand to a Zone in an adjacent column, then you can move 1 card on the field to another appropriate Zone on its controller’s field. ❷ [HOPT] If this card is sent to the GY: You can add 1 ‘k-Knight’ Monster from your Deck to your hand.">
 <img src="../../.assets/cards/ritual/Ultramarine Wonder.png" height="169px"
 title="Can be Ritual Summoned with any ‘World Affinity’ card. ❶ [OPT] If this card or another ‘k-Knight’ Monster is SSd to your field: You can shuffle 1 card on the field into the Deck. ❷ [HOPT] If this card is banished, or leaves the field by an opponent’s card: You can add 1 ‘World Affinity’ card from your Deck or Banished Pile to your hand.">
+<a href="../cards/monsters/ritual/World Affinity Tyrian Pendragon.md">
 <img src="../../.assets/cards/ritual/Tyrian Pendragon.png" height="169px"
 title="❶ You cannot activate S/Ts, except ‘World Affinity’ cards. ❷ Your opponent cannot target cards you control with card effects.
 ––––––––––––––––––––
-Must first be Ritual Summoned by a ‘World Affinity’ card. ❶ [HOPT] If you control this card you Ritual Summoned using a ‘Hi-Tekk-Knight’, ‘Dekk-Knight’ or ‘Ark-Knight’ Monster: You can shuffle all cards your opponent controls into the Deck. ❷ [HOPT] If this Ritual Summoned Monster is banished, or leaves the field by an opponent’s card: You can place it in your Pendulum Zone, then you can SS 1 ‘Dekk-Knight’ Monster from your XD, ignoring its Summoning conditions.">
+Must first be Ritual Summoned by a ‘World Affinity’ card. ❶ [HOPT] If you control this card you Ritual Summoned using a ‘Hi-Tekk-Knight’, ‘Dekk-Knight’ or ‘Ark-Knight’ Monster: You can shuffle all cards your opponent controls into the Deck. ❷ [HOPT] If this Ritual Summoned Monster is banished, or leaves the field by an opponent’s card: You can place it in your Pendulum Zone, then you can SS 1 ‘Dekk-Knight’ Monster from your XD, ignoring its Summoning conditions."> </a>
 <img src="../../.assets/cards/spells/World Affinity Legacy.png" height="169px"
 title="❶ ‘k-Knight’ Monsters you control are unaffected by the effects of your opponent’s cards in their own column, also they can attack directly while your opponent controls no cards in that column. ❷ If your ‘k-Knight’ Monster battles, your opponent cannot activate cards or effects until after damage calculation.">
 <img src="../../.assets/cards/spells/World Affinity Legacy.png" height="169px"
@@ -176,11 +177,13 @@ Must first be Xyz Summoned. You can also use ‘Hi-Tekk-Knight’ Link Monsters 
 <img src="../../.assets/cards/link/Radical Trinity.png" height="169px"
 title="2 ‘Hi-Tekk-Knight’ Monsters with different names
 Must first be Link Summoned. ❶ ‘k-Knight’ Monsters this card links to cannot be targeted by your opponent. ❷ While this card is in the Extra Monster Zone, it can attack all SSd Monsters in your opponent’s Main Monster Zones, thrice each. ❸ [HOPT] At the start of the BP: You can increase this card’s ATK by half the total ATK of the ‘k-Knight’ Monsters it links to, also you cannot attack with other Monsters you control this turn.">
+<a href="../cards/monsters/link/Ark-Knight Cerulean Aventurescence.md">
 <img src="../../.assets/cards/link/Cerulean Aventurescence.png" height="169px"
 title="4 ‘k-Knight’ Monsters
-Must be Link Summoned, using Materials with different types (Ritual/Fusion/Synchro/Xyz/Link). This card’s Link Summon cannot be negated. ❶ Cannot be targeted by your opponent’s card effects. ❷ Gains 500 ATK for each of your banished ‘k-Knight’ Monsters. ❸ When this card is Link Summoned: Shuffle all cards from your opponent’s field and GY into the Deck. ❹ You can only control 1 ‘Ark-Knight Cerulean Aventurescence’.">
+Must be Link Summoned, using Materials with different types (Ritual/Fusion/Synchro/Xyz/Link). This card’s Link Summon cannot be negated. ❶ Cannot be targeted by your opponent’s card effects. ❷ Gains 500 ATK for each of your banished ‘k-Knight’ Monsters. ❸ When this card is Link Summoned: Shuffle all cards from your opponent’s field and GY into the Deck. ❹ You can only control 1 ‘Ark-Knight Cerulean Aventurescence’."> </a>
+<a href="../cards/monsters/xyz/Dark-Knight Onyx Arisen.md">
 <img src="../../.assets/cards/xyz/Onyx Arisen.png" height="169px"
-title="Must be SSd (from your XD) to the Extra Monster Zone by the effect of a ‘World Affinity’ card. ❶ When this card is SSd: Attach as many of your banished ‘k-Knight’ Monsters as possible to this card as Material. ❷ While this card has Material, it is unaffected by your opponent’s card effects, also it gains ATK equal to half the total ATK of its attached Materials. ❸ [HOPT] You can detach 1 Material; Banish 1 card your opponent controls face-down. ❹ There can only be 1 ‘Dark-Knight’ Onyx Arisen on the field.">
+title="Must be SSd (from your XD) to the Extra Monster Zone by the effect of a ‘World Affinity’ card. ❶ When this card is SSd: Attach as many of your banished ‘k-Knight’ Monsters as possible to this card as Material. ❷ While this card has Material, it is unaffected by your opponent’s card effects, also it gains ATK equal to half the total ATK of its attached Materials. ❸ [HOPT] You can detach 1 Material; Banish 1 card your opponent controls face-down. ❹ There can only be 1 ‘Dark-Knight’ Onyx Arisen on the field."> </a>
 
 </details>
 
