@@ -27,7 +27,7 @@ Any Monsters whose Types are not specified are Psychic.
 
 | card | Level | ATK/DEF | Type |
 | :--- | :---- | :------ | :--- |
-| [Soul Synchron](../cards/monsters/standard/Soul%20Synchron.md) | ? | 0 / 0 | Tuner |
+| [Soul Synchron](../cards/monsters/standard/Soul%20Synchron.md) | 0 | 0 / 0 | Tuner |
 | [Soul Shard](../cards/monsters/standard/Soul%20Shard.md) | 1 ★ | 50 / 0 | Spirit |
 | [Soul Fragment](../cards/monsters/standard/Soul%20Fragment.md) | 2 ★ | 150 / 0 | Spirit |
 | [Tearful Soul](../cards/monsters/standard/Tearful%20Soul.md) | 2 ★★ | 250 / 0 | Spirit |
