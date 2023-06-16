@@ -289,11 +289,11 @@ There are quite a few ‘consistency’ or ‘driver’ Spells that unlock acces
 <table>
   <tr>
     <th> Spell </th>
-    <td align="center"> Soul Scripture </td>
-    <td align="center"> Pot of Souls </td>
-    <td align="center"> Soul Seeker </td>
-    <td align="center"> Soul Manifestation </td>
-    <td align="center"> Soul Resurgence </td>
+    <td align="center"> Scripture </td>
+    <td align="center"> Pot </td>
+    <td align="center"> Seeker </td>
+    <td align="center"> Manifestation </td>
+    <td align="center"> Resurgence </td>
   </tr>
   <tr>
     <th> card </th>
@@ -322,10 +322,68 @@ There are quite a few ‘consistency’ or ‘driver’ Spells that unlock acces
 </table>
 
 ### Lingering Spells
-{~}
+The archetype has 2 Field Spells, which both place Soul Counters on the field, and have a beneficial trigger effect upon being banished. [Soul Chasm](#Spells) has a crippling effect that could render boards entirely unable to battle, but since *Soul* Monsters have either 0 ATK or 0 DEF, its debuff doesn’t affect them at all. [Soul Necropolis](#Spells) protects the entire Grave and Banished Pile, allowing the archetype to activate effects there without fear of disruption from the opponent.
+
+<table>
+  <tr>
+    <th> Spell </th>
+    <td align="center"> Chasm </td>
+    <td align="center"> Necropolis </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/spells/Soul Chasm.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/Soul Necropolis.png"> </td>
+  </tr>
+  <tr>
+    <th> field effect </th>
+    <td> Monsters lose ATK/DEF equal to their original DEF/ATK </td>
+    <td> <em>Soul</em> cards not on field are unaffected by opponent’s card effects </td>
+  </tr>
+  <tr>
+    <th> places Soul Counters </th>
+    <td> each time card is banished </td>
+    <td> each time Monster is Summoned from Grave </td>
+  </tr>
+  <tr>
+    <th> banish effect </th>
+    <td> return banished <em>Soul</em> Spell/Traps to Grave </td>
+    <td> return banished <em>Soul</em> Monsters to Grave </td>
+  </tr>
+</table>
+
+There are also 2 Continuous Spells. [Soul Sanctuary](#Spells) is an incredible enabler that boost ATK and searches cards, acting like many archetypal Field Spells. Since it is a Continuous Spell instead of a Field Spell, multiple copies on the field will even stack the ATK boost. [Soul Walker](#Spells) then allows the player’s *Soul* Monsters to straight up attack directly, which is very dangerous given the archetype’s ability to spam many, if weak, Monsters with ease. However, it does require the opponent to control more cards, so may not always work if the opponent has an undeveloped field.
+
+<table>
+  <tr>
+    <th> Spell </th>
+    <td align="center"> Sanctuary </td>
+    <td align="center"> Walker </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/spells/Soul Sanctuary.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/Soul Walker.png"> </td>
+  </tr>
+</table>
 
 ### Miscellaneous Spells
-{~}
+[Soul Corruption](#Spells) is yet more non-targeting soft removal. [Soul Illusion](#Spells) can either protect the player’s *Soul* Monsters by diverting attention away from them to itself, or in certain situations disrupt the opponent by preventing *them* from interacting with their own Monster. It’s also an easy out to any high-ATK Monster, since it can just copy that Monster’s ATK and crash into it. [Soul Dagger](#Spells) provides another way to boost ATK, as well as making an excellent self-recursing banish choice to activate the effects of other *Soul* cards.
+
+<table>
+  <tr>
+    <th> Spell </th>
+    <td align="center"> Corruption </td>
+    <td align="center"> Illusion </td>
+    <td align="center"> Dagger </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/spells/Soul Corruption.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/Soul Illusion.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/spells/Soul Dagger.png"> </td>
+  </tr>
+</table>
 
 ### Trap Cards
 {~}
@@ -336,7 +394,7 @@ There are quite a few ‘consistency’ or ‘driver’ Spells that unlock acces
 
 ## Strategy
 
-{...}
+{~}
 
 
 <br>
