@@ -111,8 +111,9 @@ An archetype of – Monsters, revolving around – Summoning, inspired by the [*
   <summary> <b> display </b> </summary>
 
 ### Main Deck
+<a href="../cards/–/–.md">
 <img src="../../.assets/cards/monsters/.png" height="169px"
-title="">
+title=""> </a>
 
 </details>
 
