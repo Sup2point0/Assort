@@ -132,13 +132,23 @@ Tuning it with [Soul Shard](#Soul-Shard) brings out [Soul Shard Synchron](../car
 </table>
 
 ### Soul Shard
-{~}
+[Soul Shard](../cards/monsters/standard/Soul%20Shard.md) is a rather inconspicuous Monster that is key to some parts of the archetype. It unlocks access to the *Soul Shard* Synchro Monsters, [Soul Shard Synchron](#Tuners) and the [Soul Shard upgrades](#High-Level-Synchro-Monsters) of the [Lv7 Ritual Monsters](#Ritual-Monsters), all significantly more powerful than their standard counterparts. Soul Shard can easily Summon itself from the Grave, provided the player controls a high-Level *Soul* Monster. To help further, and provide a higher-Level alternative for Synchro Summons, [Soul Fragment](#Monsters) is a Lv2 Monster that can treat its name as ‘Soul Shard’, and can also easily bring itself onto the field.
+
+{{~}}
 
 ### Soulful Monsters
-{~}
+There are 3 other Psychic Spirit Monsters, whose name follows the form `<‘-ful’ adjective> Soul`. They don’t do too much, but are the Material needed to bring out [Vengeance Vanguard](../cards/monsters/fusion/Vengeance%20Vanguard.md).
+
+2 of them are Lv2, with [Vengeful Soul](#Monsters) being Lv3. They share the following effects:
+
+> Return this banished card to the Graveyard at the end of each turn. If you take damage: You can Special Summon this card from your Graveyard. If this card is banished: You can {…}. You can only use this effect of {…} once per turn.
+
+{{~}}
 
 ### Miscellaneous Monsters
-{~}
+[Soul Magician](#Monsters) is an excellent supportive Monster, and the highest Level Main Deck *Soul* Monster that can be easily Summoned. It can leverage its magical powers to recover a *Soul* Spell each turn, which helps greatly during long grind games. [Soul Demon](#Monsters) is another option to easily gather Synchro Material, and can even save games if the player has bricked or the opponent is low on LP. The archetype also has [Soul Spider](#Monsters), which can Summon itself (exclusively) from the Grave by Tributing all Monsters on the field, bypassing most immunities.
+
+{{~}}
 
 ### Ritual Monsters
 There are 2 Lv7 Ritual Monsters, [Soul Swordsman](../cards/monsters/ritual/Soul%20Swordsman.md) and [Soul Dragon](../cards/monsters/ritual/Soul%20Dragon.md), which serve as the Ritual aces of the archetype. They are quite similar, with moderate ATK, and a non-targeting soft removal trigger effect that activates whenever a *Soul* Ritual or Synchro Monster is Special Summoned (note that this doesn’t need to be a proper Ritual or Synchro Summon, or even be performed by the player themselves).
@@ -386,7 +396,19 @@ There are also 2 Continuous Spells. [Soul Sanctuary](#Spells) is an incredible e
 </table>
 
 ### Trap Cards
-{~}
+There are only 4 *Soul* Traps, and all are fairly situational.
+
+[Soul Rupture](#Traps) is a retaliative field nuke, that can revive a *Soul* Monster from the Grave too, but can sometimes be difficult to trigger at the right time. Oftentimes, it’s more helpful with its second effect to recover another *Soul* Spell/Trap.
+
+[Soul Fracture](#Traps) is rather like [Waking the Dragon](). It has 2 effects, both of which can only be activated once per Duel. If it’s hard removed (destroyed or banished) by an opponent’s card effect, it can straight up cheat out any *Soul* Monster from the Extra Deck with no restrictions, like a [high-Level Synchro Monster](#High-Level-Synchro-Monster). Of course, this can be difficult to trigger, but it also has a highly dangerous Grave effect that achieves the same thing – only the Monster is destroyed later on (but remember, the [Soul Shard aces](#High-Level-Synchro-Monsters) can protect themselves from destruction).
+
+Soul Rupture happens to synergise nicely with Soul Fracture, in that if the opponent activates an effect that would wipe the field (including backrow), chaining the Grave effect of Soul Rupture could allow Soul Fracture to be Set, and so trigger Soul Fracture’s effect without the opponent intending to.
+
+[Soul Virus](#Traps) slowly eats away at the opponent’s Deck and Extra Deck. It contributes little to the game and barely interacts with the rest of the archetype, but can provide spare [Soul Counters](#Soul-Counters), both by itself or as another card for the [Field Spells](#Lingering-Spells) to place Soul Counters on. Most importantly, it is very difficult to remove, and becomes very damaging indeed if left for too long – before the opponent has realised it, they’ve lost several of their important cards.
+
+[Soul Scream](#Traps) is the archetypal Counter Trap, with the power to negate *all effects* in a Chain, though like [Soul Corruption](#Miscellaneous-Spells), its cost requires setup. While this can be extremely impactful, it doesn’t discriminate between each player, so will render the entire Chain ineffective; as such, it’s most effective in response to an opponent’s [SEGOC](), like [Solemn Silence](../cards/traps/Solemn%20Silence.md)
+
+{{~}}
 
 
 <br>
@@ -620,6 +642,17 @@ Must be Special Summoned (from your Extra Deck) by ‘Victory in Vengeance’, o
 
 - The archetype features every type of Spell and Trap.
 - It also has a Monster for every Level from 0 to 12.
+- The archetype harnesses almost every type of removal effect, including:
+  - Neutralising ([Soul Snake](#Low-Level-Synchro-Monsters)) – turning a Monster into a dead body by negating its attacks and effects, and preventing it from being used as Material
+  - Destroying ([Soul Rupture](#Trap-Cards))
+  - Sending to the Grave ([Soul Knight](#Mid-Level-Synchro-Monsters))
+  - Banishing ([Soul Elder](#Ritual-Monsters))
+  - Returning to the hand ([Soul Swordsman](#Ritual-Monsters), [Soul Shard Swordsman](#High-Level-Synchro-Monsters))
+  - Shuffling into the Deck ([Soul Dragon](#Ritual-Monsters), [Soul Shard Swordsman](#High-Level-Synchro-Monsters))
+  - Flipping face-down ([Soul Shard Dragon](#High-Level-Synchro-Monsters))
+  - Taking control ([Soul Corruption](#Miscellaneous-Spells))
+  - Tributing ([Soul Spider](#Miscellaneous-Monsters))
+  - Banishing face-down ([Soul Virus](#Trap-Cards))
 - The 0 ATK or DEF of Monsters reflects their fragility and volatility.
 - [Vengeance Vanguard](../cards/monsters/fusion/Vengeance%20Vanguard.md) is the final boss of the archetype, but is not in the archetype itself.
 - A significant chunk of the art is sourced from [*League of Legends*](https://wikipedia.org/wiki/League_of_Legends).
