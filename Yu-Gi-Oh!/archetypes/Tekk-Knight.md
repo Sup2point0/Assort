@@ -81,7 +81,7 @@ Additionally, each has an effect to search or recover a different Monster upon b
 <br>
 
 
-## Strategics
+## Strategy
 
 > *This section is **under construction***. Apologies for any incomplete or inconsistent content.
 
