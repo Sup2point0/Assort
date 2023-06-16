@@ -134,7 +134,18 @@ Tuning it with [Soul Shard](#Soul-Shard) brings out [Soul Shard Synchron](../car
 ### Soul Shard
 [Soul Shard](../cards/monsters/standard/Soul%20Shard.md) is a rather inconspicuous Monster that is key to some parts of the archetype. It unlocks access to the *Soul Shard* Synchro Monsters, [Soul Shard Synchron](#Tuners) and the [Soul Shard upgrades](#High-Level-Synchro-Monsters) of the [Lv7 Ritual Monsters](#Ritual-Monsters), all significantly more powerful than their standard counterparts. Soul Shard can easily Summon itself from the Grave, provided the player controls a high-Level *Soul* Monster. To help further, and provide a higher-Level alternative for Synchro Summons, [Soul Fragment](#Monsters) is a Lv2 Monster that can treat its name as ‘Soul Shard’, and can also easily bring itself onto the field.
 
-{{~}}
+<table>
+  <tr>
+    <th> Monster </th>
+    <td align="center"> Soul Shard </td>
+    <td align="center"> Soul Fragment </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/monsters/Soul Shard.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Soul Fragment.png"> </td>
+  </tr>
+</table>
 
 ### Soulful Monsters
 There are 3 other Psychic Spirit Monsters, whose name follows the form `<‘-ful’ adjective> Soul`. They don’t do too much, but are the Material needed to bring out [Vengeance Vanguard](../cards/monsters/fusion/Vengeance%20Vanguard.md).
@@ -143,7 +154,26 @@ There are 3 other Psychic Spirit Monsters, whose name follows the form `<‘-ful
 
 > Return this banished card to the Graveyard at the end of each turn. If you take damage: You can Special Summon this card from your Graveyard. If this card is banished: You can {…}. You can only use this effect of {…} once per turn.
 
-{{~}}
+<table>
+  <tr>
+    <th> Monster </th>
+    <td align="center"> Tearful Soul </td>
+    <td align="center"> Sorrowful Soul </td>
+    <td align="center"> Vengeful Soul </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/monsters/Tearful Soul.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Sorrowful Soul.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Vengeful Soul.png"> </td>
+  </tr>
+  <tr>
+    <th> banish effect </th>
+    <td> – </td>
+    <td> – </td>
+    <td> – </td>
+  </tr>
+</table>
 
 ### Miscellaneous Monsters
 [Soul Magician](#Monsters) is an excellent supportive Monster, and the highest Level Main Deck *Soul* Monster that can be easily Summoned. It can leverage its magical powers to recover a *Soul* Spell each turn, which helps greatly during long grind games. [Soul Demon](#Monsters) is another option to easily gather Synchro Material, and can even save games if the player has bricked or the opponent is low on LP. The archetype also has [Soul Spider](#Monsters), which can Summon itself (exclusively) from the Grave by Tributing all Monsters on the field, bypassing most immunities.
