@@ -169,16 +169,29 @@ There are 3 other Psychic Spirit Monsters, whose name follows the form `<‘-ful
   </tr>
   <tr>
     <th> banish effect </th>
-    <td> – </td>
-    <td> – </td>
-    <td> – </td>
+    <td> bury a <em>Soul</em> Monster from Deck </td>
+    <td> return a banished <em>Soul</em> card to the Grave </td>
+    <td> banish a card from opponent’s Grave </td>
   </tr>
 </table>
 
 ### Miscellaneous Monsters
 [Soul Magician](#Monsters) is an excellent supportive Monster, and the highest Level Main Deck *Soul* Monster that can be easily Summoned. It can leverage its magical powers to recover a *Soul* Spell each turn, which helps greatly during long grind games. [Soul Demon](#Monsters) is another option to easily gather Synchro Material, and can even save games if the player has bricked or the opponent is low on LP. The archetype also has [Soul Spider](#Monsters), which can Summon itself (exclusively) from the Grave by Tributing all Monsters on the field, bypassing most immunities.
 
-{{~}}
+<table>
+  <tr>
+    <th> Monster </th>
+    <td align="center"> Soul Magician </td>
+    <td align="center"> Soul Demon </td>
+    <td align="center"> Soul Spider </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/monsters/Soul Magician.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Soul Demon.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Soul Spider.png"> </td>
+  </tr>
+</table>
 
 ### Ritual Monsters
 There are 2 Lv7 Ritual Monsters, [Soul Swordsman](../cards/monsters/ritual/Soul%20Swordsman.md) and [Soul Dragon](../cards/monsters/ritual/Soul%20Dragon.md), which serve as the Ritual aces of the archetype. They are quite similar, with moderate ATK, and a non-targeting soft removal trigger effect that activates whenever a *Soul* Ritual or Synchro Monster is Special Summoned (note that this doesn’t need to be a proper Ritual or Synchro Summon, or even be performed by the player themselves).
@@ -228,6 +241,21 @@ The Monster also grants the protection effect of the [Synchro aces](#High-Level-
 [Soul Wanderer](#Monsters) has rather unusual effects. It provides a Spell/Trap negate either while on the field, or while in the Grave and the player controls another *Soul* Ritual or Synchro Monster. Since it is Lv7, this makes it the perfect Monster to sacrifice from the Extra Deck for [Soul Prophecy](#Ritual-Spells) to Ritual Summon [Soul Swordsman](#Ritual-Monsters) or [Soul Dragon](#Ritual-Monsters). If properly Synchro Summoned first, it can also revive itself, either for another negate or extra Material.
 
 [Soul Guardian](#Monsters) is a defensive Monster that prevents the opponent from targeting any other *Soul* cards the player controls with card effects. Together with [Soul Warden](#High-Level-Synchro-Monsters), this grants almost absolute protection to almost all of the player’s *Soul* cards. Like many *Soul* Monsters, it can revive itself from the Grave, so can be quite difficult to deal with.
+
+<table>
+  <tr>
+    <th> Monster </th>
+    <td align="center"> Soul Knight </td>
+    <td align="center"> Soul Wanderer </td>
+    <td align="center"> Soul Guardian </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/monsters/Soul Knight.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Soul Wanderer.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/monsters/Soul Guardian.png"> </td>
+  </tr>
+</table>
 
 ### High-Level Synchro Monsters
 [Soul Swordsman](#Ritual-Monsters) and [Soul Dragon](#Ritual-Monsters) evolve into [Soul Shard Swordsman](../cards/monsters/synchro/Soul%20Shard%20Swordsman.md) and [Soul Shard Dragon](../cards/monsters/synchro/Soul%20Shard%20Dragon.md), Lv9 Synchro Tuners with significantly higher ATK and a far more dangerous disruptive effects.
@@ -438,7 +466,22 @@ Soul Rupture happens to synergise nicely with Soul Fracture, in that if the oppo
 
 [Soul Scream](#Traps) is the archetypal Counter Trap, with the power to negate *all effects* in a Chain, though like [Soul Corruption](#Miscellaneous-Spells), its cost requires setup. While this can be extremely impactful, it doesn’t discriminate between each player, so will render the entire Chain ineffective; as such, it’s most effective in response to an opponent’s [SEGOC](), like [Solemn Silence](../cards/traps/Solemn%20Silence.md)
 
-{{~}}
+<table>
+  <tr>
+    <th> Spell </th>
+    <td align="center"> Rupture </td>
+    <td align="center"> Fracture </td>
+    <td align="center"> Virus </td>
+    <td align="center"> Scream </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/traps/Soul Rupture.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/traps/Soul Fracture.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/traps/Soul Virus.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/traps/Soul Scream.png"> </td>
+  </tr>
+</table>
 
 
 <br>
