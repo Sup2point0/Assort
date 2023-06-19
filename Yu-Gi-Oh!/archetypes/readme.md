@@ -74,5 +74,13 @@ Anywhere and everywhere really, I’m so deep into cardmaking that I’ll see an
 
 If you wanna find out more about a particular archetype, you can try checking out its #Trivia section.
 
+### What’s with the weird terminology?
+Sorry, that’s just me, I have very particular preferences when it comes to nomenclature. Anyway, here’s what the non-standard ones I use mean:
+
+| term | equivalent | meaning |
+| :--- | :--------- | :------ |
+| bury | mill? | send a card from the Deck / Extra Deck to the Graveyard |
+| recover | none | add a card from the Graveyard or Banished Pile back to the hand |
+
 ### How did you obtain all the images?
 Haha, I painstakingly took screenshots for each card on iPad (which yields the best resolution), hand-cropped them by eye (since iPadOS can’t crop by measurement), and then uploaded and renamed all of them. Yeah. A lotta work for sure, but strangely satisfying and surprisingly not that boring.
