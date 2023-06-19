@@ -264,9 +264,9 @@ The Monster also grants the protection effect of the [Synchro aces](#High-Level-
   </tr>
   <tr>
     <th> card </th>
-    <td align="center"> <img src="../../.assets/cards/monsters/Soul Knight.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/monsters/Soul Wanderer.png"> </td>
-    <td align="center"> <img src="../../.assets/cards/monsters/Soul Guardian.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/synchro/Soul Knight.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/synchro/Soul Wanderer.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/synchro/Soul Guardian.png"> </td>
   </tr>
 </table>
 
