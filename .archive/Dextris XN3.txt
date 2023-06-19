@@ -1,0 +1,35 @@
+== Description ==
+The '''2019 Dextris XN3''' is a fictional car created by [[User:Sup2point0|Sup#2.0]] and designed by [[User:CyberMonkeyJ14|CyberMonkeyJ14]] in collaboration with Gameloft.
+
+== {{game|A9|heading}} Asphalt 9: Legends ==
+=== Summary ===
+The '''2019 Dextris XN3''' was added in the [[Ultimate Showdown Update]] as a high-end Class S car with the following rank statistics:
+
+* Stock rank: '''3420'''
+* {{A9stars|1|6}} rank: '''3628'''
+* {{A9stars|2|6}} rank: '''3836'''
+* {{A9stars|3|6}} rank: '''4045'''
+* {{A9stars|4|6}} rank: '''4254'''
+* {{A9stars|5|6}} rank: '''4464'''
+* {{A9stars|6|6}} rank: '''4679'''
+
+Upgrades require {{A9credits|20,000,000}} while Import Parts require {{A9credits|24,000,000}}. A total of 20 Epic Import Parts can be applied (5 on each stat).
+
+=== Performance ===
+The 2019 Dextris XN3 has extremely well-balanced stats, featuring a relatively high top speed for Class S, quick acceleration, very good nitro efficiency, and excellent handling and drifting. It is a direct upgrade of the [[W Motors Fenyr SuperSport]], with better stats in every single aspect.
+
+=== Usage ===
+The Dextris XN3 performs well in both events and multiplayer, as it can handle any track, straight or twisty. Its main competitors in events include the [[Bugatti Chiron]] and [[Koenigsegg Regera]], while its competitors in multiplayer include the [[Rimac C Two|Rimac C_Two]] and [[SSC Tuatara]]. In fact, the Dextris XN3 can compete with most high-end Class S cars or 'kings', despite not being a king itself.
+
+=== Availability ===
+{{main|2019 Dextris XN3 (Drive Syndicate)}}
+[[File: DSX-001.png|thumb|200px|right]]
+The Dextris XN3 Drive Syndicate was launched on December 20, 2020 as the third and final<sup>[https://facebook.com/posts/84634837/Final_Drive_Syndicate 1]</sup> [[Drive Syndicate]] [[Special Events (Asphalt 9)|special even]]. The event lasted 69 days.
+
+The player can obtain the key for the car by reaching {{A9synpts|1,000,000}} in the Drive Syndicate. An exclusive decal was rewarded at {{A9synpts|2,000,000}}.
+
+== Trivia ==
+* The Dextris XN3 was and remains the only fictional car added to Asphalt 9.
+
+{{A9navbox}}
+{{AFnavbox}}
