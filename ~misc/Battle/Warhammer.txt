@@ -1,0 +1,163 @@
+= Warhammer =
+
+{{BattleInfoBox
+| Type = Warship
+| Name = Warhammer
+| Image = multiple
+<gallery style=tabber>
+WarhammerPreview.png | Preview
+WarhammerArt | Art
+WarhammerIcon | Icon [v13.0-]
+WarhammerIconV2 | Icon [v13.0+]
+</gallery>
+| {Cost
+Coins = {{coins|25,000}}
+Parts = {{parts|450,000}} {{parts|rare|80,000}} {{parts|legendary|600}}
+Cores = {{cores|energy|3}} {{cores|plasma|2}} {{cores|high-energy|1}}
+| }
+| {Stats
+Rating = 10
+Health = 10,500
+Movement Speed = 30
+Body Damage = 31,500
+Body Damage Rate = 3.0
+Resistance = 4.0%
+Resistance Boost = +6.0%
+Super Resistance = +56.0%
+| }
+| {Guns
+Total = x65
+Unspec = x12
+Spec = x53
+x12 Unspecialized Guns
+x8 Rapid-Fire Guns
+x4 Power Guns
+x2 Ranged Guns
+x4 Auto-Aim Smart Turrets
+x6 Missile Launchers
+x6 Homing Missile Launchers
+x3 Multi-Missile Launchers
+x16 Thruster Guns
+x4 Booster Guns
+| }
+| Gen = I
+| Fusion = Thunder Warhammer
+| Fuse = [[Thunderspear]]
+}}
+
+== Description ==
+[[File: WarhammerinBattle.png | thumb | right | 250px]]
+The '''Warhammer''' is a [[Generation I|1st Generation]] [[Warship]] in [[Battle]].
+
+== Specialization ==
+The Warhammer specializes in Health and Bombardment. It is one of the toughest Warships, with over 10,000 HP.
+
+== Guns ==
+[[File: WarhammerGunsBreakdown.png | thumb | left | 250px]]
+The Warhammer features a total of 65 guns, with 12 unspecialized, leaving 53 specialized.
+
+=== {{guns|unspec}} Unspecialized ===
+[[File: WarhammerUnspecGuns.png | thumb | right | 250px | These guns are used for general purposes. | Alt = Unspecialized Guns on the Warhammer's body]]
+The Warhammer has 12 Unspecialized Guns spread out across its body.
+
+=== {{guns|rapid}} Rapid-Fire ===
+[[File: WarhammerRapidFire.png | thumb | left | 250px | The low accuracy is made up for by the fast fire rate. | Alt = Rapid-Fire Guns on either side of the Warhammer's body]]
+There are 4 Rapid-Fire Guns on either side of the Warhammer's body. They allow it to deal damage rapidly without overflow. These should be used to target weak enemies or enemies low on health.
+
+=== {{guns|power}} Power ===
+[[File: WarhammerPowerGuns.png | thumb | right | 250px | The Power Guns are used to take down tougher enemies. | Alt = Power Guns on the underside of the Warhammer]]
+The Warhammer features 4 Power Guns, which deal much greater damage than Rapid-Fire Guns, but fire more slowly. Combined with the Rapid-Fire Guns, the player can take down general enemies incredibly quickly.
+
+=== {{guns|ranged}} Ranged ===
+[[File: WarhammerRangedGuns.png | thumb | left | 250px | There are only 2 Ranged Guns on the Warhammer's underside. | Alt = Ranged Guns on the underside of the Warhammer]]
+The Warhammer only has 2 Ranged Guns, meaning it has to rely on long-range missiles to take down tougher enemies from afar.
+
+=== {{guns|turret|smart|auto}} Turrets ===
+[[File: WarhammerSmartTurrets.png | thumb | right | 250px | The Warhammer features 4 Auto-Aim Smart Turrets, which are more accurate than regular Auto-Aim Turrets. | Alt = The Warhammer's 4 Auto-Aim Smart Turrets]]
+The 4 Auto-Aim Smart Turrets are very useful for taking down weak enemies that get too close, allowing the player to focus on bigger threats.
+
+=== {{guns|missile}} Missile Launchers ===
+[[File: WarhammerMissileLaunchers.png | thumb | left | 250px | Alt = The Warhammer's powerful missile launchers]]
+The 12 Missile Launchers, 6 of which have homing capabilities, are the Warhammer's main method of ranged attack, as it only has 2 Ranged Guns. However, their reload rate is quite slow, making the Warhammer not great for ranged attack.
+
+=== {{guns|multi-missile}} Multi-Missile Launchers ===
+[[File: WarhammerMultiMissiles.png | thumb | right | 250px | Each of the Warhammer's Multi-Missile Launchers can launch 6 missiles. | Alt = The 3 Multi-Missile Launchers arranged in a triangular arrangement around the Warhammer's body]]
+The Multi-Missile Launchers are great for crowd control, as they can fire multiple missiles that deal damage in a small splash radius.
+
+=== {{guns|thruster}} Thrusters ===
+[[File: WarhammerThrusters.png | thumb | left | 250px | Although there are many Thruster Guns, they have a low firerate. | Alt = The thrusters are arranged in a hexagonal formation]]
+
+== Usage ==
+{{BattleStatsBox; style = bar
+| Health = High
+| Resistance = Med
+| Deflection = Low
+| Damage = High
+| Crowd Control = Med
+| Assassination = None
+| Penetration = Med
+| Bombardment = High
+| Speed = Low
+| Stealth = None
+| Support = Med
+| Protection = Med
+| Range = Low
+}}
+The Warhammer is an extremely versatile warship and as such can be deployed at any time. However, the player should take into account its slow movement speed, so do not deploy it near the end of the battle.
+
+The player can use it in any way they wish, whether it be a tank or a weapon. Its high damage output and high health means it can do a significant amount of damage to the enemy while tanking for other troops.
+
+=== [[Quick Battle]] ===
+The Warhammer is not very suitable for Quick Battles due to its rather slow movement speed and mediocre range.
+
+=== [[Mega Showdown]] ===
+The Warhammer is incredibly effective in Mega Showdowns, especially in larger amounts, due to their tough health and high damage output. Although there are other options which are superior at crowd control, the Warhammer is still an essential part of any Mega Army, capable of causing huge destruction.
+
+== Strategies ==
+{{stratdisclaimer}}
+To maximize the Warhammer's potential, the player should deploy it early on in the battle. The Warhammer should last very long in the battle, unless the enemy deploys a [[Destroyer]] which will deal extreme damage against the Warhammer due to its high DPH.
+
+The Warhammer can be used as a tank, protecting other weaker troops, allowing them to survive and help in the battle - particularly [[Wizard]]s and [[Necromancer]]s, which have high damage output but low health.
+
+However, the Warhammer's range is quite limited, so it is important that the player deploys it close to the enemy so that it will not be destroyed before it reaches the enemy. Keep in mind, though, that if it is deployed much further forward than other troops all of the enemy's fire will be concentrated on the Warhammer, taking it out much faster.
+
+== Upgrades ==
+{{main|Thunder Warhammer}}
+The player can fuse the Warhammer with a Thunderspear to form a much more powerful Thunder Warhammer, which specializes in health, damage, penetration and bombardment.
+
+== Balance Changes ==
+{{BalanceChangesBox
+|
+| Version = v1.0.3
+| State = Nerf
+| Change = Health reduced from 12,500 to 10,500
+| State = Buff
+| Change = Body Damage Rate increased from 2.5 to 3.0
+|
+| Version = v1.3.1
+| State = Buff
+| Change = Parts Price reduced from {{parts|500,000}} to {{parts|450,000}} and {{parts|rare|100,000}} to {{parts|rare|80,000}}
+|
+}}
+
+== Bug Fixes ==
+{{longsection}}
+{{BugFixesBox
+|
+| Version = v1.0.1
+| Change = Now correctly deletes after being destroyed.
+|
+}}
+
+== Trivia ==
+* The Warhammer was one of the first Warships to be added to the game, along with the [[Thunderspear]] and [[Battlepounder]].
+
+== See Also ==
+* [[Warship]]
+* [[Thunderspear]]
+* [[Battlepounder]]
+* [[Thunder Warhammer]]
+
+{{GenINavBox}}
+{{WarshipNavBox}}
+{{TroopNavBox}}
