@@ -1,12 +1,18 @@
 # Units
 
 
-### Troops
+## Troops
+
 Wizard  
 Necromancer  
 
-### Attack Units
-| Unit | Speciality |
+
+<br>
+
+
+## Attack Units
+
+| unit | speciality |
 | :--- | :--------- |
 | A | DPS |
 | B | DPH |
@@ -21,7 +27,15 @@ Necromancer
 | Y | assassination, range |
 | Z | bombardment, speed |
 
-### Warships
+
+<br>
+
+
+## Warships
+
+| unit | speciality |
+| :--- | :--------- |
+
 Warhammer   -   Specializes in Health and Bombardment
 Thunderspear   -   Specializes in Damage and Speed
 Thunder Warhammer  -  Specializes in Health, Damage, Penetration and Bombardment
