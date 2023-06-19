@@ -233,7 +233,20 @@ The Monster also grants the protection effect of the [Synchro aces](#High-Level-
 </table>
 
 ### Low-Level Synchro Monsters
-{~}
+[Soul Snake](#Monsters) is intended only to be buried from the Extra Deck, providing additional value in the Grave. Its effect that triggers upon being banished also recycles itself, as once the equipped Monster leaves the field it’ll be destroyed and sent to the Grave again, triggering its effect once more. [Soul Alchemist](#Monsters) searches out any Ritual cards necessary by burying them from the Deck – [Soul Ritual](#Ritual-Spells) can recover itself and then Ritual Summon the [Ritual Monsters](#Ritual-Monsters) from the Grave. It also gathers more Synchro Material to help with Synchro climbing.
+
+<table>
+  <tr>
+    <th> Monster </th>
+    <td align="center"> Soul Snake </td>
+    <td align="center"> Soul Alchemist </td>
+  </tr>
+  <tr>
+    <th> card </th>
+    <td align="center"> <img src="../../.assets/cards/synchro/Soul Snake.png"> </td>
+    <td align="center"> <img src="../../.assets/cards/synchro/Soul Alchemist.png"> </td>
+  </tr>
+</table>
 
 ### Mid-Level Synchro Monsters
 [Soul Knight](#Monsters) is the signature Monster of the archetype. Despite its low original ATK, it is highly versatile – able to quickly reach very high ATK as the game develops, and even revive itself, not least being easily accessible in the first place due to its low Level.
