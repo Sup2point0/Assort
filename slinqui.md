@@ -1,6 +1,6 @@
 # Slinqui
 
-An [assortacion]() of my [varical]() [inventen]() phrases and [terminologics]().
+An [assortacion](... 'assortment') of my [varical](... 'various') [inventen](... 'invented') phrases and [terminologics](... 'terminology').
 
 | line | meaning | instance |
 | :--- | :------ | :------- |
@@ -10,6 +10,7 @@ An [assortacion]() of my [varical]() [inventen]() phrases and [terminologics]().
 | life experience | Parody of work experience – in other words, just going out in the world and trying new things. | *Hey, it’ll be a cool opportunity for life experience, right?* |
 | lokay | ‘lol okay’ | *lokay sure* |
 | istx | ‘I swear to [xenique](xeriqui/readme.md)’. Less religious equivalent of ‘I swear to God’. | *oh my days why is this so difficult istx* |
+| productively unproductive | Working really hard on something inconsequential. | *These few days have been productively unproductive.* |
 | smh my face <br> smh my life | Just extra emphasyzacion on 'smh' for comedic effect. | *I didn't sleep until midnight yesterday smh my life* |
 | stroking / tweaking your bones | Parody of ‘pulling your leg’, just a reference to the fact that I really like BONES fsr. | *don’t worry, I’m only stroking your bones.* |
 | yeup | ‘yep’ + ‘yup’. Reflects the drawn out ‘yee-up’ for humourous confirmation. | *yeup, we’re screwed.* |
