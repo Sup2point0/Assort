@@ -504,6 +504,11 @@ Soul Rupture happens to synergise nicely with Soul Fracture, in that if the oppo
 
 {~}
 
+### Weaknesses
+Any kind of floodgate against the Grave instantly kills the archetype. Any form of disruption against the Grave also makes life exceedingly difficult.
+
+Other than that, the archetype’s greatest weakness is consistency. If it gets going with a healthy number of cards in the Grave, it *really* gets going, but if not, then it does struggle doing anything meaningful at all. In particular, it is noticeably reliant on the millers, [Pot of Souls](#Main-Spells) and [Soul Seeker](#Main-Spells), since although there are plenty of effects that bury specific cards from the Deck to help with consistency and combos, often what is needed is just a large pool of cards available in the Grave, whether to utilise their effects, or banish them as cost for other cards.
+
 
 <br>
 
