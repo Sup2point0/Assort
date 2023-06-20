@@ -31,7 +31,7 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
 | card | copies | notes |
 | :--- | :----- | :---- |
 | [Drytron Alpha Thuban](https://yugipedia.com/wiki/Drytron_Alpha_Thuban) | x3 | |
-| [Drytron Zeta Aldibah](https://yugipedia.com/wiki/Drytron_Zeta_Aldibah) | x3 | I really wish it could recover Ritual Spells from the Grave, since it becomes rather useless late game. |
+| [Drytron Zeta Aldibah](https://yugipedia.com/wiki/Drytron_Zeta_Aldibah) | x2 | Dropped to x2 cuz it’s *ridiculously* tight on space. I really wish it could recover Ritual Spells from the Grave, since it becomes rather useless late game. |
 | [Drytron Delta Altais](https://yugipedia.com/wiki/Drytron_Delta_Altais) | x2 | My favourite Drytron, the draw is always insane. |
 | [Drytron Gamma Eltanin](https://yugipedia.com/wiki/Drytron_Gamma_Eltanin) | x2 | Pivotal for comebacks, but I don’t need the extension normally. |
 | [Drytron Beta Rastaban](https://yugipedia.com/wiki/Drytron_Beta_Rastaban) | x1 | Saviour against Runick or Dimension Shifter, seriously clutch. |
