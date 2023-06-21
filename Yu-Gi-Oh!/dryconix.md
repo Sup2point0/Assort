@@ -55,14 +55,14 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
 | card | copies | notes |
 | :--- | :----- | :---- |
 | [Drytron Mu Beta Fafnir](https://yugipedia.com/wiki/Drytron_Mu_Beta_Fafnir) | x2 | Insane consistency tool. As long as we can get 2 Drytrons on the field, this’ll guarantee any missing pieces we need. If we don’t end with Amorphactor Pain, it even provides a negate to protect against boardbreakers. Unfortunately, for Extra Deck space I’ve had to cut this down to 2 copies, but rarely does that come back to bite. |
-| [Herald of the Arc Light](https://yugipedia.com/wiki/Herald_of_the_Arc_Light) | x3 | Of course, the perfect Monster to bury from our Extra Deck. And with Drytron, the more Rituals in hand, the better. We can even Synchro Summon it with Ash Blossom (Lv3 Tuner) and a Drytron (Lv1), which is better than keeping Ash in hand, since this can negate any card or effect – with a search right after too! Aside from working under Amorphactor Pain (since it Tributes itself as cost, so its effect won’t be negated), it even blocks Droplet by preventing anyone from sending cards to the Grave as cost. Just insane value. |
-| [Elder Entity N'tss](https://yugipedia.com/wiki/) | x1 | One’s enough, just for the situations where we really need it. |
-| [Clear Wing Synchro Dragon](https://yugipedia.com/wiki/Clear_Wing_Synchro_Dragon) | x1 | This is my favourite Synchro Monster, so naturally I was delighted when I realyzed I could throw it in Drytron. A stellar option if we don’t have enough to bring out a double-Tribute Ritual Monster. |
-| [Black Rose Dragon](https://yugipedia.com/wiki/Black_Rose_Dragon) | x1 | A nice backup to have when we really just need to *nuke the board*. |
-| [Wind Pegasus @Ignister](https://yugipedia.com/wiki/) | x1 | Works under Amorphactor Pain and in the Grave, even has Spell/Trap removal for followup. |
 | [Linkuriboh](https://yugipedia.com/wiki/Linkuriboh) | x1 | Pivotal for optilical combo sequencing. Clutch when you need it. |
 | [Relinquished Anima](https://yugipedia.com/wiki/) | x1 | Hilarious when it works, perfect for plucking back a Lava Golem too. |
 | [Herald of Mirage Lights](https://yugipedia.com/wiki/Herald_of_Mirage_Lights) | x1 | This, *this*, is the missing piece I spent so long looking for – too often do I end with extra bodies (especially if I’ve used Gamma) which don’t do anything, and I can’t clean up for anything else (IP Masquerena would take even more Extra Deck space for other staples, which I refuse to resort to) – but what would really help is a recovery option. That’s exactly what Herald of Mirage Lights does, grabbing back not 1, but *2* Ritual cards – how awesome is that! No longer do I need to rest on the Heart of the Cards every time my opponent dismantles my board and I have no more Rituals left in hand. |
+| [Clear Wing Synchro Dragon](https://yugipedia.com/wiki/Clear_Wing_Synchro_Dragon) | x1 | This is my favourite Synchro Monster, so naturally I was delighted when I realyzed I could throw it in Drytron. A stellar option if we don’t have enough to bring out a double-Tribute Ritual Monster. |
+| [Wind Pegasus @Ignister](https://yugipedia.com/wiki/) | x1 | Works under Amorphactor Pain and in the Grave, even has Spell/Trap removal for followup. |
+| [Herald of the Arc Light](https://yugipedia.com/wiki/Herald_of_the_Arc_Light) | x3 | Of course, the perfect Monster to bury from our Extra Deck. And with Drytron, the more Rituals in hand, the better. We can even Synchro Summon it with Ash Blossom (Lv3 Tuner) and a Drytron (Lv1), which is better than keeping Ash in hand, since this can negate any card or effect – with a search right after too! Aside from working under Amorphactor Pain (since it Tributes itself as cost, so its effect won’t be negated), it even blocks Droplet by preventing anyone from sending cards to the Grave as cost. Just insane value. |
+| [Elder Entity N'tss](https://yugipedia.com/wiki/https://yugipedia.com/wiki/Elder_Entity_N'%27'tss) | x1 | One’s enough, just for the situations where we really need it. |
+| [Garura, Wings of Resonant Life](https://yugipedia.com/wiki/Garura,_Wings_of_Resonant_Life) | x1 | ~ |
 | [Lyrilusc – Assembled Nightingale](https://yugipedia.com/wiki/) | x1 | If the opponent has an unbreakable board but no interruptions, then it’s time for an emergency OTK with Assembled Nightingale and White Relic. |
 | [Raidraptor – Ultimate Falcon](https://yugipedia.com/wiki/) | x1 | I actually love this card, considering my first deck was Raidraptor. *So* many decks just cannot handle this being dropped on them. |
 | [Infinitrack Fortress Megaclops](https://yugipedia.com/wiki/Infinitrack_Fortress_Megaclops) | x1 | Waking the Dragon moment lmao |
@@ -78,13 +78,13 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
 | [Drytron Fafnir](https://yugipedia.com/wiki/Drytron_Fafnir) | x3 | Eh, the search is cool and all, but I’m here for *negate protection* – that feeling when your opponent Solemns Meteonis Drytron and is left confuzzled as to why it didn’t work – also, the level manipulyzacion effect that no one pays any attention too can *really* disrupt any Synchro or Xyz decks. |
 | [Cyber Emergency](https://yugipedia.com/wiki/Cyber_Emergency) | x3 | Quality searcher, can grab a Draconids or Quadrantids to Tribute for White Zoa too if needed. |
 | [Drytron Nova](https://yugipedia.com/wiki/Drytron_Nova) | x3 | This deck needs all the consistency it can get. |
-| [Drytron Eclipse](https://yugipedia.com/wiki/Drytron_Eclipse) | x1 | Surprisingly clutch, super useful for recovering a Drytron mech to sacrifice for White Zoa, and the ATK boost is splendid with Draconids for OTKs. |
-| [Nadir Servant](https://yugipedia.com/wiki/Nadir_Servant) | x1 | Insane value, searching an extra Ritual Monster to Tribute and any Ritual card (by sending Arc Light). Had several games where topdecking this instantly turned the fight around. |
-| [Dogmatikatrix](https://yugipedia.com/wiki/) | x2 | Just incredible searching power, especially if going second, and leaves Drytrons free to search for other Ritual cards. Once we’ve got White Zoa out, we can even scout out our opponent’s Extra Deck or bury any Monster from our own for even more value. |
-| [Dogmatikabre](https://yugipedia.com/wiki/) | x1 | Just for White Zoa, but also useful with the lower Level Dogmatika Rituals if I have Herald of the Arc Lights in the Grave. |
-| [Where Arf Thou?](https://yugipedia.com/wiki/) | x2 | Another searcher for consistency, can search Droll & Lock Bird if I’ve got all the Drytron modules I need. |
-| [Preparation of Rites](https://yugipedia.com/wiki/) | x1 | Searches Odd-Eyes Gravity Dragon for opening setup, or White Relic of Dogmatika for OTK, and a free recovery (especially for Dogmatikabre to revive Zoa). |
-| [Pre-Preparation of Rites](https://yugipedia.com/wiki/) | x1 | Searches Dogmatikabre and a free Dogmatika Ritual Monster to Tribute, and acts as an Ash bait, even if it is a dead draw later on. |
+<!-- | [Drytron Eclipse](https://yugipedia.com/wiki/Drytron_Eclipse) | x1 | Surprisingly clutch, super useful for recovering a Drytron mech to sacrifice for White Zoa, and the ATK boost is splendid with Draconids for OTKs. | -->
+| [Dogmatikabre](https://yugipedia.com/wiki/Dogmatikamacabre) | x1 | Just for White Zoa, but also useful with the lower Level Dogmatika Rituals if I have Herald of the Arc Lights in the Grave. |
+| [Nadir Servant](https://yugipedia.com/wiki/Nadir_Servant) | x2 | Insane value, searching an extra Ritual Monster to Tribute and any Ritual card (by sending Arc Light). Had several games where topdecking this instantly turned the fight around. |
+| [Dogmatikatrix](https://yugipedia.com/wiki/Dogmatikamatrix) | x2 | Just incredible searching power, especially if going second, and leaves Drytrons free to search for other Ritual cards. Once we’ve got White Zoa out, we can even scout out our opponent’s Extra Deck or bury any Monster from our own for even more value. |
+| [Where Arf Thou?](https://yugipedia.com/wiki/Where_Arf_Thou%3F) | x2 | Another searcher for consistency, can search Droll & Lock Bird if I’ve got all the Drytron modules I need. |
+| [Preparation of Rites](https://yugipedia.com/wiki/Preparation%20of%20Rites) | x1 | Searches Odd-Eyes Gravity Dragon for opening setup, or White Relic of Dogmatika for OTK, and a free recovery (especially for Dogmatikabre to revive Zoa). |
+| [Pre-Preparation of Rites](https://yugipedia.com/wiki/Pre-Preparation%20of%20Rites) | x1 | Searches Dogmatikabre and a free Dogmatika Ritual Monster to Tribute, and acts as an Ash bait, even if it is a dead draw later on. |
 
 </details>
 
@@ -106,12 +106,16 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
 
 | card | copies | notes |
 | :--- | :----- | :---- |
-| [Lava Golem](https://yugipedia.com/wiki/) | x1 | Such a powerful boardbreaker. Fits perfectly with Drytron since it can’t be Normal Summoned, and Drytron doesn’t really need a Normal Summon anyway. |
 | [Ash Blossom & Joyous Spring](https://yugipedia.com/wiki/) | x2 | I didn’t use to run this since stopping people from playing the game isn’t fun, but... man am I tired of Maxx C... and Branded Fusion into Mirrorjade... and Chixiao into Chengying... and Block Dragon – you get the idea. Also, most of the time I Normal Summon it to tune with a Drytron to make a spare Herald of the Arc Light! Insane value. |
 | [Droll & Lock Bird](https://yugipedia.com/wiki/) | x1 | Can’t use it against Maxx C since it literally locks myself, but searchable with *Where Arf Thou?* and shuts some decks down nicely. Quite a mean handtrap tho. |
+| [Lava Golem](https://yugipedia.com/wiki/) | x1 | Such a powerful boardbreaker. Fits perfectly with Drytron since it can’t be Normal Summoned, and Drytron doesn’t really need a Normal Summon anyway. |
+| [Nibiru, the Primal Being](https://yugipedia.com/wiki/Nibiru,_the_Primal_Being) | x1 | |
+| [Called by the Grave]() | x1 | |
+| [Crossout Designator]() | x1 | |
 | [Forbidden Droplet](https://yugipedia.com/wiki/) | x1 | Another reason to leave spare Drytron modules on board. Splendid in Drytron, especially when going second, since the modules don’t really care if they’re in the Hand or Grave. |
-| [Triple Tactics Talent](https://yugipedia.com/wiki/) | x1 | Quality response and all too easy to trigger. |
+| [Super Polymerization]() | x1 | |
 | [Ultimate Slayer](https://yugipedia.com/wiki/) | x1 | People should give this more recognition honestly. Perfect against Synchro decks to send a Herald of the Arc Light for an extra search, or against Fusion decks to send a N'tss for a free pop. Nicely avoids Mirrorjade and Chengying’s effects. |
+| [Triple Tactics Talent](https://yugipedia.com/wiki/) | x1 | Quality response and all too easy to trigger. |
 | [Infinite Impermanence](https://yugipedia.com/wiki/) | x1 | Why only 1, I know. I don’t really play it as interruption (unless it’s Aluber or Chixiao), but rather an opener when going second to neutralyze a threat or draw out a negate. |
 | [Evenly Matched](https://yugipedia.com/wiki/) | x1 | Actually cracked. |
 | [Waking the Dragon](https://yugipedia.com/wiki/) | x1 | Not a staple, I know. Yet the amount of times this has worked and saved me by bringing out Ultimate Falcon or Infinitrack Megaclops is *staggering*. |
