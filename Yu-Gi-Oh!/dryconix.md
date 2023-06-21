@@ -69,6 +69,8 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
 
 </details>
 
+### Spells
+
 <details open>
   <summary> <b> display </b> </summary> <br>
 
@@ -78,7 +80,6 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
 | [Drytron Fafnir](https://yugipedia.com/wiki/Drytron_Fafnir) | x3 | Eh, the search is cool and all, but I’m here for *negate protection* – that feeling when your opponent Solemns Meteonis Drytron and is left confuzzled as to why it didn’t work – also, the level manipulyzacion effect that no one pays any attention too can *really* disrupt any Synchro or Xyz decks. |
 | [Cyber Emergency](https://yugipedia.com/wiki/Cyber_Emergency) | x3 | Quality searcher, can grab a Draconids or Quadrantids to Tribute for White Zoa too if needed. |
 | [Drytron Nova](https://yugipedia.com/wiki/Drytron_Nova) | x3 | This deck needs all the consistency it can get. |
-<!-- | [Drytron Eclipse](https://yugipedia.com/wiki/Drytron_Eclipse) | x1 | Surprisingly clutch, super useful for recovering a Drytron mech to sacrifice for White Zoa, and the ATK boost is splendid with Draconids for OTKs. | -->
 | [Dogmatikabre](https://yugipedia.com/wiki/Dogmatikamacabre) | x1 | Just for White Zoa, but also useful with the lower Level Dogmatika Rituals if I have Herald of the Arc Lights in the Grave. |
 | [Nadir Servant](https://yugipedia.com/wiki/Nadir_Servant) | x2 | Insane value, searching an extra Ritual Monster to Tribute and any Ritual card (by sending Arc Light). Had several games where topdecking this instantly turned the fight around. |
 | [Dogmatikatrix](https://yugipedia.com/wiki/Dogmatikamatrix) | x2 | Just incredible searching power, especially if going second, and leaves Drytrons free to search for other Ritual cards. Once we’ve got White Zoa out, we can even scout out our opponent’s Extra Deck or bury any Monster from our own for even more value. |
@@ -106,7 +107,7 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
 
 | card | copies | notes |
 | :--- | :----- | :---- |
-| [Ash Blossom & Joyous Spring](https://yugipedia.com/wiki/) | x2 | I didn’t use to run this since stopping people from playing the game isn’t fun, but... man am I tired of Maxx C... and Branded Fusion into Mirrorjade... and Chixiao into Chengying... and Block Dragon – you get the idea. Also, most of the time I Normal Summon it to tune with a Drytron to make a spare Herald of the Arc Light! Insane value. |
+| [Ash Blossom & Joyous Spring](https://yugipedia.com/wiki/) | x1 | I didn’t use to run this since stopping people from playing the game isn’t fun, but... man am I tired of Maxx C... and Branded Fusion into Mirrorjade... and Chixiao into Chengying... and Block Dragon – you get the idea. Also, most of the time I Normal Summon it to tune with a Drytron to make a spare Herald of the Arc Light! Insane value. |
 | [Droll & Lock Bird](https://yugipedia.com/wiki/) | x1 | Can’t use it against Maxx C since it literally locks myself, but searchable with *Where Arf Thou?* and shuts some decks down nicely. Quite a mean handtrap tho. |
 | [Lava Golem](https://yugipedia.com/wiki/) | x1 | Such a powerful boardbreaker. Fits perfectly with Drytron since it can’t be Normal Summoned, and Drytron doesn’t really need a Normal Summon anyway. |
 | [Nibiru, the Primal Being](https://yugipedia.com/wiki/Nibiru,_the_Primal_Being) | x1 | |
@@ -119,6 +120,16 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
 | [Infinite Impermanence](https://yugipedia.com/wiki/) | x1 | Why only 1, I know. I don’t really play it as interruption (unless it’s Aluber or Chixiao), but rather an opener when going second to neutralyze a threat or draw out a negate. |
 | [Evenly Matched](https://yugipedia.com/wiki/) | x1 | Actually cracked. |
 | [Waking the Dragon](https://yugipedia.com/wiki/) | x1 | Not a staple, I know. Yet the amount of times this has worked and saved me by bringing out Ultimate Falcon or Infinitrack Megaclops is *staggering*. |
+
+### History
+
+<details open>
+  <summary> <b> display </b> </summary> <br>
+
+| card | copies | notes |
+| :--- | :----- | :---- |
+| [Drytron Eclipse](https://yugipedia.com/wiki/Drytron_Eclipse) | x1 | Surprisingly clutch, super useful for recovering a Drytron mech to sacrifice for White Zoa, and the ATK boost is splendid with Draconids for OTKs. |
+| [Pot of Extravagance]() | x1 | |
 
 </details>
 
