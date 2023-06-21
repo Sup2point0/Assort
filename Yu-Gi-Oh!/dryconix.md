@@ -210,6 +210,7 @@ Yeah no, Bystial totally kills Drytron.
 Its only real interruption is the banish from Dark Magical Circle, which could be critical if we’ve got a weak hand, but is usually easy to overcome. Quadrantids is lethal against Dark Magician, since they can’t recover their Spell/Traps, and if they’ve activyzen Eternal Soul then they just end up nuking their own field.
 
 ### Dinomorphia
+Dinomorphia’s pretty powerful at control, which Drytron tends to struggle against. Luckily while [Rexterm](https://yugipedia.com/wiki/Dinomorphia_Rexterm)’s ATK-modifying effect neutralises our Battle Phase, which will be our main way to deal with their Monsters, it doesn’t stop our modules from activating their effects since they don’t activate on the field. If we manage to get Odd-Eyes Gravity Dragon on the field, they’re royally screwed. If we get an Amorphactor Pain with that too? Yeah, that’s gonna be rough. The only issue is stopping the opponent from just running over them.
 
 ### Dogmatika
 Haha, I’m afraid you just milled my 3 ARC LIGHTS – yeah, the mirror match is hilarious if they blindly mill my Extra Deck.
@@ -256,9 +257,12 @@ If it’s Runick Spright, then there’s very little hope, what with the insane 
 Swordsoul and Swordsoul Tenyi, unlike Branded Despia, are such a pain to play against. Which is weird, since both decks feature single-card opening combos and tech in other Monsters of their Summoning tecnique – and I even find Synchro Monsters cooler than Fusion Monsters. I suppose it’s because Swordsoul is so braindead to play, and provides such easy access to high-Level Synchro Monsters that would otherwise be much more difficult to Summon.
 
 ### Tearlaments
-Well, after dropping in Master Duel, almost every other duel I have is against Tearlaments. That’s *Ishizu* Tearlaments, I should specify.
+Tearlaments is fine. No really, it dies to Blue-Eyes Chaos MAX Dragon or a turn one Amorphactor Pain. Ofc, [Kaleido-Heart](https://yugipedia.com/wiki/Tearlaments_Kaleido-Heart) and [Rulkallos](https://yugipedia.com/wiki/Tearlaments_Rulkallos) have some pretty wicked effects – almost all effects of our Drytron cards involve Special Summoning, and we each module to be in circulation – but if we manage to pull through, we can certainly take them down.
+
+What’s isn’t fine tho, are the non-*Tearlaments* cards. Oh man, those are vicious. Ishizu, just like Bystial, totally kills Drytron, and does an even harsher job of it in the late-game, cleansing all of our modules right out of the Grave. And with Drytron’s playstyle, we’ll just be triggering [Kelbek](https://yugipedia.com/wiki/Kelbek_the_Ancient_Vanguard)’s trigger effect right for them. And if they’ve come prepared, [Underworld Goddess](https://yugipedia.com/wiki/Underworld_Goddess_of_the_Closed_World) is the easy out to Blue-Eyes Chaos MAX Dragon that’ll hurt us when trying to comeback too. Oh, and [Abyss Dweller](https://yugipedia.com/wiki/Abyss_Dweller)? Just no.
 
 ### The Weather
+The Weather is strangely terrifying to play against, since it has incredible grind game that Drytron happens to have difficulty countering. In particular, it’s their Monsters banishing themselves as cost, and the protection and recovery for their Spell/Traps, that makes them so resilient. We don’t have any real counter to their strategy, and anything I try to bring out just dies to the [Thundery Canvas](https://yugipedia.com/wiki/The_Weather_Thundery_Canvas). Really, our best shot is to try and OTK with Lyrilusc – Assembled Nightingale and White Relic of Dogmatika, but that’s not always the easiest to pull off.
 
 
 <br>
