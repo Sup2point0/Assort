@@ -28,6 +28,5 @@ Forbidden Apocrypha
 Night’s End Sorcerer
 
 Protecting Spirit Loagaeth  
-Gorgon  
-Empress of the Evil Eyed  
+Gorgon, Empress of the Evil Eyed  
 Adularia of the June Moon
