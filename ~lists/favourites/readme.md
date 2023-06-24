@@ -39,6 +39,7 @@ Every favourite thing you could ever imagine (eventually).
 | superhero | Spider-Man | Dr Strange |
 | supernatural ability | invisibility, teleportation, incorporeality | |
 | transport | train | scooter |
+| tree | alder, cypress | |
 
 
 ## Food
