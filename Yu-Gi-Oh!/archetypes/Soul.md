@@ -502,7 +502,16 @@ Soul Rupture happens to synergise nicely with Soul Fracture, in that if the oppo
 
 ## Strategy
 
-{~}
+The entire archetype revolves absolutely around the Grave. In fact, several cards and effects *only* work from the Grave – for instance, [Soul Synchron](#Tuners), [Soul Shard](#Soul-Shard), [Soul Magician](#Miscellaneous-Monsters) and the like can only Special Summon themselves from the Grave, not the hand. As such, getting a large number of cards into the Grave is vital, which the [consistency Spells](#Main-Spells) all help towards. Instead of searching cards from the Deck, the archetype tends to send them from the Deck to the Grave, and then rely on other effects to recover them from the Grave. It’s fairly roundabout, but does give the archetype great versatility in being able to recycle other cards that would otherwise be inaccessible in the Grave.
+
+The archetype is also designed entirely to go second – since the key enablers, [Pot of Souls](#Main-Spells) and [Soul Seeker](#Main-Spells), rely exclusively on the opponent having an established field, constructing a board on the first turn without those cards is very difficult, and in many cases, essentially impossible. When going second, however, unless the opponent negates them, the opportunities these cards unlock are potentially boundless. And the more cards the opponent controls, the more effective they are – so if the opponent ends on an unstoppable board, then our counterattack will be all the more unstoppable! (Not really... there are only so many effects from the Grave, and the archetype by no means has infinite resources)
+
+Despite its ability to swarm the field with sacrifices or Material for Ritual or Synchro Summons, the archetype likely struggles to OTK. Instead, it tends towards a more comeback-oriented playstyle, with a myriad of removal effects to deal with any ace Monsters the opponent throws.
+
+### Combos
+With such diversity, the archetype’s playstyle is highly non-linear – to encapsulate it informally, *just spam bodies and hope for the best*.
+
+### Tech Picks
 
 ### Weaknesses
 Any kind of floodgate against the Grave instantly kills the archetype. Any form of disruption against the Grave also makes life exceedingly difficult.
