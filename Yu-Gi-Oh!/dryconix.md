@@ -62,10 +62,10 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
 | [Wind Pegasus @Ignister](https://yugipedia.com/wiki/Wind_Pegasus_@Ignister) | x1 | Works under Amorphactor Pain and in the Grave, even has Spell/Trap removal for followup. |
 | [Herald of the Arc Light](https://yugipedia.com/wiki/Herald_of_the_Arc_Light) | x3 | Of course, the perfect Monster to bury from our Extra Deck. And with Drytron, the more Rituals in hand, the better. We can even Synchro Summon it with Ash Blossom (Lv3 Tuner) and a Drytron (Lv1), which is better than keeping Ash in hand, since this can negate any card or effect – with a search right after too! Aside from working under Amorphactor Pain (since it Tributes itself as cost, so its effect won’t be negated), it even blocks Droplet by preventing anyone from sending cards to the Grave as cost. Just insane value. |
 | [Elder Entity N'tss](https://yugipedia.com/wiki/https://yugipedia.com/wiki/Elder_Entity_N'%27'tss) | x1 | One’s enough, just for the situations where we really need it. |
-| [Garura, Wings of Resonant Life](https://yugipedia.com/wiki/Garura,_Wings_of_Resonant_Life) | x1 | ~ |
-| [Lyrilusc – Assembled Nightingale](https://yugipedia.com/wiki/Lyrilusc_-_Assembled_Nightingale) | x1 | If the opponent has an unbreakable board but no interruptions, then it’s time for an emergency OTK with Assembled Nightingale and White Relic. |
+| [Garura, Wings of Resonant Life](https://yugipedia.com/wiki/Garura,_Wings_of_Resonant_Life) | x1 | For Super Polymerization and any effect that buries from the Extra Deck. |
+| [Lyrilusc – Assembled Nightingale](https://yugipedia.com/wiki/Lyrilusc_-_Assembled_Nightingale) | x1 | If the opponent has an unbreakable board but no interruptions, then it’s time for an emergency OTK with Assembled Nightingale and White Relic! |
 | [Raidraptor – Ultimate Falcon](https://yugipedia.com/wiki/Raidraptor_-_Ultimate_Falcon) | x1 | I actually love this card, considering my first deck was Raidraptor. *So* many decks just cannot handle this being dropped on them. |
-| [Infinitrack Fortress Megaclops](https://yugipedia.com/wiki/Infinitrack_Fortress_Megaclops) | x1 | Waking the Dragon moment lmao |
+| [Infinitrack Fortress Megaclops](https://yugipedia.com/wiki/Infinitrack_Fortress_Megaclops) | x1 | Waking the Dragon moment, what can I say... |
 
 </details>
 
@@ -107,14 +107,14 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
 
 | card | copies | notes |
 | :--- | :----- | :---- |
-| [Ash Blossom & Joyous Spring](https://yugipedia.com/wiki/Ash_Blossom_&_Joyous_Spring/) | x1 | I didn’t use to run this since stopping people from playing the game isn’t fun, but... man am I tired of Maxx C... and Branded Fusion into Mirrorjade... and Chixiao into Chengying... and Block Dragon – you get the idea. Also, most of the time I Normal Summon it to tune with a Drytron to make a spare Herald of the Arc Light! Insane value. |
+| [Ash Blossom & Joyous Spring](https://yugipedia.com/wiki/Ash_Blossom_&_Joyous_Spring/) | x1 | I didn’t use to run this, since stopping people from playing the game isn’t fun, but... man am I tired of Maxx C... and Branded Fusion into Mirrorjade... and Chixiao into Chengying – you get the idea. Also, most of the time I Normal Summon it, and tune it with a Drytron to make a spare Herald of the Arc Light! Insane value. |
 | [Droll & Lock Bird](https://yugipedia.com/wiki/Droll_&_Lock_Bird) | x1 | Can’t use it against Maxx C since it literally locks myself, but searchable with *Where Arf Thou?* and shuts some decks down nicely. Quite a mean handtrap tho. |
 | [Lava Golem](https://yugipedia.com/wiki/Lava_Golem) | x1 | Such a powerful boardbreaker. Fits perfectly with Drytron since it can’t be Normal Summoned, and Drytron doesn’t really need a Normal Summon anyway. |
-| [Nibiru, the Primal Being](https://yugipedia.com/wiki/Nibiru,_the_Primal_Being) | x1 | |
-| [Called by the Grave](https://yugipedia.com/wiki/Called_by_the_Grave) | x1 | |
-| [Crossout Designator](https://yugipedia.com/wiki/Crossout_Designator) | x1 | |
+| [Nibiru, the Primal Being](https://yugipedia.com/wiki/Nibiru,_the_Primal_Being) | x1 | A really *horrible* handtrap, but I run it just for Crossout. |
+| [Called by the Grave](https://yugipedia.com/wiki/Called_by_the_Grave) | x1 | Unfortunately, handtraps exist. |
+| [Crossout Designator](https://yugipedia.com/wiki/Crossout_Designator) | x1 | Well, I thought, if I’m already running literally every staple card at 1 copy, I might as well play Crossout to counter any of them, y’know? |
 | [Forbidden Droplet](https://yugipedia.com/wiki/Forbidden_Droplet) | x1 | Another reason to leave spare Drytron modules on board. Splendid in Drytron, especially when going second, since the modules don’t really care if they’re in the Hand or Grave. |
-| [Super Polymerization](https://yugipedia.com/wiki/Super_Polymerization) | x1 | |
+| [Super Polymerization](https://yugipedia.com/wiki/Super_Polymerization) | x1 | A wonderful boardbreaker, if a bit toxic. |
 | [Ultimate Slayer](https://yugipedia.com/wiki/Ultimate_Slayer) | x1 | People should give this more recognition honestly. Perfect against Synchro decks to send a Herald of the Arc Light for an extra search, or against Fusion decks to send a N'tss for a free pop. Nicely avoids Mirrorjade and Chengying’s effects. |
 | [Triple Tactics Talent](https://yugipedia.com/wiki/Triple_Tactics_Talent) | x1 | Quality response and all too easy to trigger. |
 | [Infinite Impermanence](https://yugipedia.com/wiki/Infinite_Impermanence) | x1 | Why only 1, I know. I don’t really play it as interruption (unless it’s Aluber or Chixiao), but rather an opener when going second to neutralyze a threat or draw out a negate. |
@@ -129,7 +129,7 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
 | card | copies | notes |
 | :--- | :----- | :---- |
 | [Drytron Eclipse](https://yugipedia.com/wiki/Drytron_Eclipse) | x1 | Surprisingly clutch, super useful for recovering a Drytron mech to sacrifice for White Zoa, and the ATK boost is splendid with Draconids for OTKs. |
-| [Pot of Extravagance](https://yugipedia.com/wiki/Pot_of_Extravagance) | x1 | |
+| [Pot of Extravagance](https://yugipedia.com/wiki/Pot_of_Extravagance) | x1 | Drytron wasn’t too dependent on the Extra Deck, so this was great (even if it did lock Delta Altais), but now... yeah no, no way we’re losing cards out of the Extra Deck. |
 
 </details>
 
@@ -137,7 +137,7 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
 <br>
 
 
-## Strategics
+## Strategy
 
 ### End Board
 The dream endboard consists of White Zoa, Amorphactor Pain, Odd-Eyes Gravity Dragon, Elder Entity.
