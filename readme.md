@@ -1,6 +1,6 @@
 # Assort
 
-An assortment of my various creations.
+An assortment of my various creations. Now syncing!
 
 
 <br>
