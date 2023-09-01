@@ -1,6 +1,6 @@
 # Favourites
 
-Every favourite thing you could ever imagine (eventually).
+Every one of my favourites in any category you could ever imagine (eventually).
 
 
 ## Essentials
