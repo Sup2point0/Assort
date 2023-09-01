@@ -103,3 +103,4 @@
 | [superis](affinitys/superis.md) | superior | affinity learning |
 | [tychis](affinitys/tychis.md) | tychus, felixus | luck |
 | [vitakinetis](affinitys/vitakinetis.md) | vitakinetic | life control |
+| [xeriqui](../xeriqui/readme.md) | | xerique creation |
