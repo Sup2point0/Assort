@@ -45,20 +45,32 @@
 ### Case
 `/–/`
 
-*[sense]()*
+[*sense*](readme.md)
 
 1. definicion  
 &ensp; *test*
 > similar: [](#)
 
 <details>
-  <summary> <b> Conjugyzacion </b> </summary> <br>
+  <summary> <b> Conjugacion </b> </summary> <br>
 
-| tense | participle |
-| :---- | :--------- |
-| present | – |
-| past | – |
-| perfect | – |
+<table>
+  <tr>
+    <th> tense </th>
+    <th> perfect </th>
+    <th> imperfect </th>
+  </tr>
+  <tr>
+    <th> past </th>
+    <td> ~ </td>
+    <td> ~ </td>
+  </tr>
+  <tr>
+    <th> present </th>
+    <td> ~ </td>
+    <td> ~ </td>
+  </tr>
+</table>
 
 </details>
 
