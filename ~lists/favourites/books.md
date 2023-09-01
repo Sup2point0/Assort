@@ -7,7 +7,7 @@ I love reading. Truly. I was one of those kids who didn’t need to be forced to
 | book | author | notes |
 | :--- | :----- | :---- |
 | [*Legend*]() | [Marie Lu]() | |
-| [*Oblivion*]() | [Anthony Horotitz]() | |
+| [*Oblivion*]() | [Anthony Horowitz]() | |
 | [*The Loneliness of Distant Beings*]() | [Kate Ling]() | |
 | [*Red Queen*]() | [Victoria Aveyard]() | |
 

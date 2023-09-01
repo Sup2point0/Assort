@@ -1,3 +1,5 @@
+> Y’know, this used to be relevant. Then I came across Phigros, and my tastes in music changed irreversibly.
+
 # Favourite Music
 
 Favourite soundtracks in varical categorys. Kinda arrangen in order – but it’s insanely difficult, and my preferences change daily anyway.
