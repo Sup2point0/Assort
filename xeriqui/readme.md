@@ -28,7 +28,7 @@ We don’t end there. Keeping Xistence together, are the divine forces of nature
 
 The realm which they reside in is ***xenique***, the outer outskirts of Xistence. Unyzen, they form the very membrane of xistence, holding together the outline of the bubble. Indeed, it seems “all knowledge is precious whether or not it serves the slightest human use”, given that it’s the fabric of existence.
 
-Naturally, existence needs an antogonist. This is where antimatter comes in. Existing parallel to our xistence are the antixeriques, or ***zerixes***, and antixeliques, or ***zelixes***, of ***Antixistence***, where everything consists of antimatter. Antimatter annihilyzes normal matter, so the two should never meet.
+Naturally, existence needs an antogonist. This is where antimatter comes in. Existing parallel to our xistence are the antixeriques (or ***zerixes***) and antixeliques (or ***zelixes***) of ***Antixistence***, where everything consists of antimatter. Antimatter annihilyzes normal matter, so the two should never meet. The zelixes reside in ***xenoque***.
 
 And don’t we all love an inter-dimensional world-destruction war between 2 supreme celestial forces with existence on the line... yeah, I feel like that’d make a pretty epic saga.
 
