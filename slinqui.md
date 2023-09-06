@@ -4,9 +4,11 @@ An [assortacion](... 'assortment') of my [varical](... 'various') [inventen](...
 
 | line | meaning | instance |
 | :--- | :------ | :------- |
-| clutch catalyst | [Adrenaline](https://wikipedia.org/wiki/Adrenaline), really. | *I was high on clutch catalyst during the test.* |
-| hand acrobatics | What your fingers do when you're typing really fast on a keyboard. | *Typing in aLtErNyZiNg CaSe is literally hand acrobatics.* |
-| life deprivation | y’know, I’m not even sure I know myself. | *I am, in fact, high on life deprivation.* |
+| back in a bite | ‘Be right back’, after a meal. | *I gotta have lunch, back in a bite* |
+| back in a blip | ‘Be right back’, except maybe not. Cuz y’know, maybe something like the [Blip](https://marvelcinematicuniverse.fandom.com/wiki/Blip) will crop up. | *I’ve been interrupted, back in a blip* |
+| clutch catalyst | [Adrenaline](https://wikipedia.org/wiki/Adrenaline), really. Epinephrine, since that’s a cool name too. | *I was high on clutch catalyst during the test.* |
+| hand acrobatics | What your fingers do when you're typing really fast on a keyboard. Or playing a Lv16 AT Phigros chart. | *Typing in aLtErNyZiNg CaSe is literally hand acrobatics.* |
+| life deprivation | Y’know, I’m not even sure I know myself. | *I am, in fact, high on life deprivation.* |
 | life experience | Parody of work experience – in other words, just going out in the world and trying new things. | *Hey, it’ll be a cool opportunity for life experience, right?* |
 | lokay | ‘lol okay’ | *lokay sure* |
 | istx | ‘I swear to [xenique](xeriqui/readme.md)’. Less religious equivalent of ‘I swear to God’. | *oh my days why is this so difficult istx* |
