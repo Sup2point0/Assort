@@ -49,7 +49,7 @@
 | If a ‘Rubic’ card(s) you control would be destroyed, you can detach 1 material from this card instead. | continuous | | |
 | Once per Chain, if a card moves to another zone: You can attach it to this card as material. | trigger | | |
 | Once per turn, when your opponent activates a card or effect on the field (Quick Effect): You can detach 1 material; move that card to an appropriate adjacent zone, and if you do, that effect becomes ‘Move 1 card on the field to an appropriate adjacent Zone’ instead. | quick | | |
-| 3300 ATK | attack | ~ | |
+| 3300 ATK | attack | Rubic Arc Slash | |
 
 
 <br>
