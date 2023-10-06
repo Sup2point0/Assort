@@ -1,6 +1,6 @@
 # Vengeance Vanguard
 
-{desc}
+*Unleash the vengeance of our fallen souls!*
 
 <table>
   <tr>
