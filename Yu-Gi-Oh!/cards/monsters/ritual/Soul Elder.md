@@ -1,6 +1,6 @@
 # Soul Elder
 
-<!-- *Arise, primordial...* -->
+*Arise, primordial manifestation of our souls!*
 
 <table>
   <tr>
