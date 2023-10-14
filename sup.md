@@ -44,7 +44,7 @@
 
 ## Aptitudes
 
-<img src=".assets/sup/procrastinyzer.png" width="360px"> <img src=".assets/sup/burst.png" width="360px">
+<img src=".assets/sup/procrastinator.png" width="360px"> <img src=".assets/sup/burst.png" width="360px">
 <img src=".assets/sup/rubix.png" width="360px"> <img src=".assets/sup/typing.png" width="360px">
 
 
@@ -83,10 +83,10 @@
 
 ## Games
 
-<img src=".assets/sup/Master Duel.png" width="360px"> <img src=".assets/sup/Master Duel.png" width="360px">
+<img src=".assets/sup/Phigros.png" width="360px"> <img src=".assets/sup/Master Duel.png" width="360px">
 <img src=".assets/sup/Bloons.png" width="360px"> <img src=".assets/sup/Pop.png" width="360px">
 <img src=".assets/sup/Asphalt 9.png" width="360px"> <img src=".assets/sup/Asphalt 8.png" width="360px">
-<img src=".assets/sup/Soul.png" width="360px">
+<img src=".assets/sup/Soul.png" width="360px"> <img src=".assets/sup/Bomb Party.png" width="360px">
 
 
 ## Affine
