@@ -16,7 +16,7 @@ Every one of my favourites in any category you could ever imagine (eventually).
 | country | Antarctica | |
 | climate | temperate | |
 | day of week | Thursday | |
-| emoji | 👀 | <img src="../../.assets/blob.party.gif" width="20px"> <img src="../../.assets/blob.happy.png" width="20px"> <img src="../../.assets/eyes.spastic.png" width="20px"> |
+| emoji | 👀 | <img src="../../.assets/emoticons/blob.party.gif" width="20px"> <img src="../../.assets/emoticons/blob.happy.png" width="20px"> <img src="../../.assets/emoticons/eyes.spastic.png" width="20px"> |
 | eye colour | anyone up for violet? | heterochromical blue-green |
 | fairytale | Jack and the Beanstalk, Sleeping Beauty |
 | feeling | nostalgia, satisfaction | |
