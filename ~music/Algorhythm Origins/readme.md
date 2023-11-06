@@ -1,6 +1,6 @@
 # Algorhythm Origins
 
-Original soundtracks created for my rhythm game *Algorhythm*, in GarageBand for iPadOS.
+Original soundtracks created for my rhythm game *Algorhythm*, in [GarageBand](https://www.apple.com/ios/garageband) (iPadOS).
 
 
 <br>
