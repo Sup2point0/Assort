@@ -1,6 +1,6 @@
 # Problem-Solving Super Simple and Compact Custom Card Text
 
-Card text in *Yu-Gi-Oh!* is wonderfully written (in that it flows like regular text, easily allowing players to understand what it does) ...but at the same time is also horrendously cluttered and inefficient for playing a card game, especially one on tiny pieces of cardboard. Problem-Solving Card Text is awesome, don’t get me wrong, but it has plenty of issues, inefficiencies, and inconsistencies that should really be addressed.
+I’ve always thought card text in *Yu-Gi-Oh!* is wonderfully written (in that it flows like regular text, allowing even younger players to understand what it does) ...but at the same time is also horrendously cluttered and inefficient for playing a card game, especially one on tiny pieces of cardboard. [Problem-Solving Card Text](https://yugipedia.com/wiki/Problem-Solving_Card_Text) is awesome, don’t get me wrong, but it has plenty of issues, inefficiencies, and inconsistencies that should really be addressed.
 
 And so, here’s *PSSSCCCT*, the successor to PSCT, which I exclusively utilise on DuelingBook to allow the opponent (and me) to far more easily interpret and keep track of what all my cards do.
 
@@ -13,9 +13,9 @@ See [§ Changes](#Changes) for quick reference.
 ## Overview
 
 ### Rationale
-There have been some great changes to PSCT in the past – for instance, simply stating `inflict piercing battle damage` instead explaining how piercing battle damage works – but the thing is, they just don’t *do* enough.
+There have been some great changes to PSCT in the past – for instance, simply stating `inflict piercing battle damage` instead of explaining how piercing battle damage works – but the thing is, they just don’t *do* enough.
 
-A signficant instance of this is the simplification of `Graveyard` to `GY`. This is a keyword that is very likely to appear on cards (especially with modern cards), and often more than once, so saving those characters brings widespread benefit. So, why not do the same for other keywords, those that are even more prevalent than `Graveyard`? The main culprit is gonna be `Special Summon`. Look how much space this saves:
+A pretty major one was the simplification of `Graveyard` to `GY`. This is a keyword that is very likely to appear on cards (especially with modern cards), and often more than once, so saving those characters brings widespread benefit. So, why not do the same for other keywords, those that are even more prevalent than `Graveyard`? The main culprit is gonna be `Special Summon`. Look how much space this saves:
 
 <table>
   <tr>
@@ -33,7 +33,7 @@ And imagine that across almost every card, even several times in the same card. 
 ### Turnly Restrictions
 Once per turn clauses. Seriously. Almost every single modern Yu-Gi-Oh card will have these – potentially even multiple, like with [Spright](https://yugipedia.com/wiki/Spright) Monsters or [Primeval Planet Perlereino](https://yugipedia.com/wiki/Primeval_Planet_Perlereino).
 
-Now, there are different kinds of once per turn restrictions, so only the 3 most common are simplified, for the sake of avoiding confusion. All of them become a `[...]` modifyzer before the start of the effect. Soft `once per turn` becomes `[OPT]`, and `you can only use this effect of {...} once per turn` (note `use` instead of `activate`) becomes `[HOPT]`, like so:
+Now, there are different kinds of once per turn restrictions, so only the 3 most common are simplified, for the sake of avoiding confusion. All of them become a `[...]` modifier before the start of the effect. Soft `once per turn` becomes `[OPT]`, and `you can only use this effect of {...} once per turn` (note `use` instead of `activate`) becomes `[HOPT]`, like so:
 
 <table>
   <tr>
@@ -50,12 +50,12 @@ Now, there are different kinds of once per turn restrictions, so only the 3 most
 
 Where `HOPT` represents ‘hard once per turn’. If it’s `each effect` (instead of `this effect`), then `[HOPT]` goes before every applicable effect. This also brings the added advantage of being able to easily designate each effect different turnly restrictions, facilitating more flexible card design. It also means `you can only use each of the following effects of {...} once per turn` will be no more, which always disrupts text structure.
 
-Similarly, for Summon conditions:
+And similarly, for Summon conditions:
 
 | PSCT | PSSSCCCT |
 | :--- | :------- |
 | `If you control a Level/Rank 2 monster, you can Special Summon this card (from your hand). You can only Special Summon "Spright Blue" once per turn this way.` | `[HOPT] If you control a Level/Rank 2 Monster, you can SS this card (from your hand).` |
-| `Once per turn, you can also Xyz Summon "Cyber Dragon Infinity" by using "Cyber Dragon Nova" you control as material. (Transfer its materials to this card.)` | `[HOPT] You can also Xyz Summon this card by using a 'Cyber Dragon Nova' you control as Material. (Transfer Materials.)` |
+| `Once per turn, you can also Xyz Summon "Cyber Dragon Infinity" by using "Cyber Dragon Nova" you control as material. (Transfer its materials to this card.)` | `[HOPT] You can also Xyz Summon this card by using 1 'Cyber Dragon Nova' as Material. (Transfer Materials.)` |
 
 ### Capitalisation
 The main thing PSCT’s got going for it is how it ensures consistency in effect wording. But it really, really annoys me how it’s *consistently inconsistent*. In particular, there are some keywords that aren’t capitalised by themselves, but *are* when modified by another word. Observe:
@@ -67,9 +67,9 @@ The main thing PSCT’s got going for it is how it ensures consistency in effect
 
 Then there’s the weird capitalisation of effects – `Condition: Cost; resolution` – where the text after a colon is capitalised, but not after the semicolon, what’s up with that?
 
-So, a lot of the changes will tackle inconsistencys in structure and capitalisation, while condensing several well-known key words or phrases – above all, the aim was to maintain readability alongside balancing efficiency.
+So, a lot of the changes will tackle inconsistencies in structure and capitalisation, while condensing several well-known key words or phrases – above all, the aim was to maintain readability alongside balancing efficiency.
 
-### Enumeryzacion
+### Enumeration
 Aw yeah, *this* is my favourite part. Bullet pointing effects with line breaks between each would be great, but it’s also quite impractical due to the limited space. And bullet pointing without line breaks isn’t really all that effective. But numbering effects just like the OCG? The clarity boost, especially when playing online, is insane. It’s still a chunk of text of course, but the visual distinction between the thin outline of the text and thick fill of the circled number gives it vitally needed structure, which allows your eyes to far more quickly find where one effect ends and another begins. And the difference between numbers and bullet points is that numbers are more distinctive, and are easier to identify – when playing, you can just call ‘effect 2’ and the effect in question can easily be found.
 
 
@@ -77,6 +77,8 @@ Aw yeah, *this* is my favourite part. Bullet pointing effects with line breaks b
 
 
 ## Cases
+
+A selection of instances where PSSSCCCT makes a significant difference, to illustrate the improvements.
 
 ### Monsters
 | card | PSCT | PSSSCCCT |
