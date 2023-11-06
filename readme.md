@@ -1,6 +1,6 @@
 # Assort
 
-An assortment of my various creations. Now syncing!
+An assortment of my various creations.
 
 
 <br>
@@ -15,13 +15,17 @@ Unsure where to start? Try checking out some of these!
 📁 [Yu-Gi-Oh!](Yu-Gi-Oh!)  
 📁 [kenzokinetics](kenzokinetics)  
 📁 [xeriqui](xeriqui)  
-📁 [writing](~writing)  
+
+📁 [graphic design](~graphics)  
+📁 [writing pieces](~writing)  
+📁 [music](~music)  
+📁 [poetry](~poetry)  
 
 ### Files
-📂 [Rubic](Yu-Gi-Oh!/archetypes/Rubic.md)  
-📂 [koniokinetis](affine/affinitys/koniokinetis.md)  
-📂 [Ultraman Infinity](Ultraman/Ultraman%20Infinity.md)  
-📂 [fictional elements](Ascense/elements.md)  
+📂 [Rubic](Yu-Gi-Oh!/archetypes/Rubic.md) – a custom *Yu-Gi-Oh!* archetype  
+📂 [koniokinetis](affine/affinitys/koniokinetis.md) – a fictional affinity  
+📂 [Ultraman Infinity](Ultraman/Ultraman%20Infinity.md) – a fictional Ultraman  
+📂 [fictional elements](Ascense/elements.md) – a list of invented elements  
 
 
 <br>
@@ -118,3 +122,7 @@ The scale of magnitude used throughout varical sections.
     <td> <img src=".assets/spectrus/spectrus.blue.low.spec.png" width="360px"> </td>
   </tr>
 </table>
+
+---
+
+> yo, still here?
