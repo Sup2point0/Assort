@@ -1,5 +1,7 @@
 # Albums
 
+Planned track names from back when I thought I couldn’t properly produce music. Maybe one day I’ll actually use them, who knows?
+
 | album | tracks |
 | :---- | :----- |
 | [Silence of War](#silence-of-war) | 10 |
@@ -37,7 +39,7 @@ Devoid
 Forgotten Tomorrow  
 Bitter Flames  
 Road to Extinction  
-**Final Excursion**
+**Final Excursion**  
 
 
 <br>
@@ -54,7 +56,7 @@ Sea Storm
 Danger Ahead  
 Sea Fire  
 Distant Days  
-Glorious Destiny
+Glorious Destiny  
 
 
 <br>
@@ -70,7 +72,7 @@ Close to Earth
 The Wanderer  
 Night Camp  
 Mellow Hearth  
-Lonely Adventurer
+Lonely Adventurer  
 
 
 <br>
@@ -83,7 +85,7 @@ Twinkle
 Skydrop  
 Melting  
 **Pinpricks**  
-Ghost of a Touch
+Ghost of a Touch  
 
 
 <br>
@@ -99,7 +101,7 @@ Once More
 Eclipse  
 Everlasting  
 **When Time Became History**  
-Second Chance
+Second Chance  
 
 
 <br>
@@ -110,7 +112,7 @@ Second Chance
 Darkness Rising  
 Charge  
 Quasar  
-Dark Victory
+Dark Victory  
 
 
 <br>
@@ -130,7 +132,7 @@ Revolutionary Venture
 **End of Time**  
 Burning Up  
 For the Last Time  
-Singularity
+Singularity  
 
 
 <br>
@@ -143,7 +145,7 @@ Bloon Bop
 Popping Party  
 Jungle Jam  
 Twilight Twinkle  
-Discombobloonation
+Discombobloonation  
 
 
 <br>
@@ -163,7 +165,7 @@ Cursed Throne
 Hollow Crown  
 **Ancient Anarchy**  
 Survive  
-Time Rider
+Time Rider  
 
 
 <br>
@@ -182,7 +184,7 @@ Locked Away
 Bloodstained Treasure  
 **Legendary Voyage**  
 Journey’s End  
-At What Cost
+At What Cost  
 
 
 <br>
@@ -198,7 +200,7 @@ Vision
 Power  
 Perseverance  
 Experience  
-Champion
+Champion  
 
 
 <br>
@@ -214,7 +216,7 @@ Battery
 Core  
 Wire  
 Centre  
-Membrane
+Membrane  
 
 
 <br>
@@ -227,7 +229,7 @@ Ambition
 Vengeance  
 Retribution  
 Avenge  
-Mercy
+Mercy  
 
 
 <br>
@@ -244,7 +246,7 @@ Bare
 Never Again  
 **Never Forget**  
 Remembrance  
-Finality
+Finality  
 
 
 <br>
@@ -258,7 +260,7 @@ Whisper
 Just Us  
 Intrepid  
 A Time Long Ago  
-Our Story
+Our Story  
 
 
 <br>
@@ -275,7 +277,7 @@ Limitless
 Mastery  
 Fusion  
 Wreckless  
-Touchdown
+Touchdown  
 
 
 <br>
@@ -323,4 +325,4 @@ Dissociation
 Hydrogen Bond  
 Nuclear Fission  
 Nuclear Fission  
-Island of Stability
+Island of Stability  
