@@ -8,16 +8,16 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
 
 ## Archetypes
 
-| archetype | origin | notes |
-| :-------- | :----- | :---- |
-| [Aeternal](archetypes/Aeternal.md) | time | |
-| [Catastropical](archetypes/Catastropical.md) | environment | natural hazards |
-| Dyverse | | |
+| archetype | origin | role |
+| :-------- | :----- | :--- |
+| [Aeternal](archetypes/Aeternal.md) | time | supernatural antagonist |
+| [Catastropical](archetypes/Catastropical.md) | environment, natural hazards | |
+| [Dyverse](archetypes/Dyverse.md) | digital | |
 | [Epic Excursion](archetypes/Epic%20Excursion.md) | | locations |
-| [Supnautic](archetypes/Supnautic.md) | underwater | |
+| [Supnautic](archetypes/Supnautic.md) | underwater | creatures |
 | [Stranded](archetypes/Stranded.md) | | cross-archetypal |
-| [World Construct](archetypes/World%20Construct.md) | | |
-
+| [Walker](archetypes/Walker.md) | | protagonists |
+| [World Construct](archetypes/World%20Construct.md) | | structures |
 
 
 <br>
@@ -33,7 +33,8 @@ It’ll come.
 
 ## Trivia
 
+- The storyline is inspired by the existing cross-archetypal storylines in *Yu-Gi-Oh!*.
+  - In particular, it draws from *Branded* and *World Legacy*, which the names of the [*Stranded*](archetypes/Stranded.md) and [*World Construct*](archetypes/World%20Construct.md) archetypes are parodies of, respectively.
+  - The 
 - All of the archetypes in this storyline are entirely original.
-  - However, some of their names are parodies of existing archetypes.
-    - [Stranded](archetypes/Stranded.md) » [Branded](https://yugipedia.com/wiki/Branded)
-    - [World Construct](archetypes/World%20Construct.md) » [World Legacy](https://yugipedia.com/wiki/World_Legacy)
+  - *Catastropical* was the first archetype in the storyline to be conceived.
