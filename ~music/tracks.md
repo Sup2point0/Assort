@@ -3,7 +3,7 @@
 Airborne  
 Antidextrous  
 Arcane  
-Away  
+*Away*  
 Base Memories  
 Bloop  
 Bright Memories  
@@ -13,7 +13,7 @@ Conception
 Cosmos  
 Cyclone  
 Dactyl  
-**Day**  
+*Day*  
 **Decimal**  
 Decked Out  
 Descension  
@@ -89,4 +89,4 @@ Viral
 &emsp; Vortex (2020 Revitalization)  
 Wasting Away  
 We’ll Meet Again  
-Zap
+Zap  
