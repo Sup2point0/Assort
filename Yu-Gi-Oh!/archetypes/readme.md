@@ -1,6 +1,8 @@
 # Archetypes
 
-All the archetypes of custom cards I’ve created. Especially developed pages are **weighted**.
+It seems I cannot for the life of me stop creating custom cards, even after I think I’ve exhausted all my ideas. They just keep on coming. So, here are all the archetypes of custom cards I’ve created – although this it isn’t even all of them, since some cards don’t belong to archetypes, and some archetypes I haven’t added to the list yet :v
+
+Especially developed pages are **weighted**, so there’ll be more to explore in those.
 
 
 <br>
@@ -8,14 +10,11 @@ All the archetypes of custom cards I’ve created. Especially developed pages ar
 
 ## Index
 
-[Aetern](Aetern.md)  
-&emsp; [Aeternal](Aeternal.md)  
-&emsp; [Aeternity](Aeternity.md)  
+[Antarctech](Antarctech.md)  
 Antarctic  
 [Antarctron](Antarctron.md)  
-Arachnis  
+[Arachnis](Arachnis.md)  
 [Battle Sheep](Battle%20Sheep.md)  
-[Catastropical](Catastropical.md)  
 [**Darquess**](Darquess.md)  
 [Dead-Eyes](Dead-Eyes.md)  
 [Dragmatika](Dragmatika.md)  
@@ -54,7 +53,14 @@ Inkurzen
 [**Soul**](Soul.md)  
 &emsp; [Soul Shard](Soul.md)  
 [Stranded](Stranded.md)  
-[Supnautic](Supnautic.md)  
+&emsp; [Aetern](Aetern.md)  
+&emsp; &emsp; [Aeternal](Aeternal.md)  
+&emsp; &emsp; [Aeternity](Aeternity.md)  
+&emsp; [Catastropical](Catastropical.md)  
+&emsp; Dyverse  
+&emsp; Epic Excursion  
+&emsp; [Supnautic](Supnautic.md)  
+&emsp; [World Construct](World%20Construct.md)  
 [The Specialists](The%20Specialists.md)  
 [**Vapour-Eyes**](Vapour-Eyes.md)  
 [Virus](Virus.md)  
