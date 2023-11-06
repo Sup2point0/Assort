@@ -38,7 +38,7 @@ The Antarctican Scientific Complete Enumeration of Natural and Synthesyzed Eleme
     &emsp; <a href="#bionic"> Bionic </a> <br>
     &emsp; <a href="#cetallic"> Cetallic </a> <br>
     &emsp; <a href="#concovalent"> Concovalent </a> <br>
-    <a href="#generations"> Generations </a>
+    <a href="#generations"> Generations </a> <br>
     &emsp; <a href="#generation-i"> I </a> <br>
     &emsp; <a href="#generation-ii"> II </a> <br>
     &emsp; <a href="#generation-iii"> III </a> <br>
