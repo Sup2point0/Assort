@@ -64,7 +64,7 @@ Inkurzen
 &emsp; Dyvoid  
 &emsp; Epic Excursion  
 &emsp; [Supnautic](Supnautic.md)  
-&emsp; Walker
+&emsp; Walker  
 [The Specialists](The%20Specialists.md)  
 [**Vapour-Eyes**](Vapour-Eyes.md)  
 [Virus](Virus.md)  
