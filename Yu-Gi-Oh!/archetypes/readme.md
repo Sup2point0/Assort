@@ -56,11 +56,15 @@ Inkurzen
 &emsp; [Aetern](Aetern.md)  
 &emsp; &emsp; [Aeternal](Aeternal.md)  
 &emsp; &emsp; [Aeternity](Aeternity.md)  
+&emsp; Affinitic  
 &emsp; [Catastropical](Catastropical.md)  
+&emsp; [Construct](Construct.md)  
+&emsp; Delphoenix  
 &emsp; Dyverse  
+&emsp; Dyvoid  
 &emsp; Epic Excursion  
 &emsp; [Supnautic](Supnautic.md)  
-&emsp; [World Construct](World%20Construct.md)  
+&emsp; Walker
 [The Specialists](The%20Specialists.md)  
 [**Vapour-Eyes**](Vapour-Eyes.md)  
 [Virus](Virus.md)  
@@ -78,7 +82,7 @@ All of my custom cards are created on [DuelingBook](https://duelingbook.com), us
 ### Where does your inspiration come from?
 Anywhere and everywhere really, I’m so deep into cardmaking that I’ll see anything and consider how I could make it into a deck. But a pretty significant chunk of my custom archetypes are revitalisations or remakes of existing archetypes, like how [*k-Knight*](k-Knight.md) and [*World Affinity*](World%20Affinity.md) are inspired by [Mekk-Knight](https://yugipedia.com/wiki/Mekk-Knight) and [World Legacy](https://yugipedia.com/wiki/World_Legacy).
 
-If you wanna find out more about a particular archetype, you can try checking out its #Trivia section.
+If you want to find out more about a particular archetype, you can try checking out its #Trivia section ;)
 
 ### What’s with the weird terminology?
 Sorry, that’s just me, I have very particular preferences when it comes to nomenclature. Anyway, here’s what the non-standard ones I use mean:
