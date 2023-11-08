@@ -24,7 +24,7 @@ An abridged localisation of *The Stranded Saga*, a recovered transcription of th
 <br>
 
 
-## Prologue – “Derealising Descent” <a name="Prologue"></a>
+## <a name="Prologue"></a> Prologue – “Derealising Descent”
 
 > *And we could only gaze in awe*  
 > *Upon those sights born from our thoughts*  
