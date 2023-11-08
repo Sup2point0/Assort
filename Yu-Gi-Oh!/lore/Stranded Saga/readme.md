@@ -36,6 +36,55 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
 
 See [*The Stranded Saga*](The%20Stranded%20Saga.md).
 
+### Characters
+Each character’s name changes slightly throughout the storyline.
+
+<table>
+  <tr>
+    <th> Arc </th>
+    <th colspan="4"> Name </th>
+  </tr>
+  <tr>
+    <td> Original </td>
+    <td> Xero </td>
+    <td> Seyva </td>
+    <td> Blob </td>
+    <td> Zyne </td>
+  </tr>
+  <tr>
+    <td> <em>Extracts</em> </td>
+    <td> Xero the Stranded Dreamwalker </td>
+    <td> Seyva the Stranded Starwalker </td>
+    <td> Blob the Stranded Worldwalker </td>
+    <td> Zyne the Stranded Saviour </td>
+  </tr>
+  <tr>
+    <td> ... </td>
+    <td> ... </td>
+    <td> ... </td>
+    <td> ... </td>
+    <td> ... </td>
+  </tr>
+  <tr>
+    <td> <em>Stranded in Supnautica</em> </td>
+    <td> ... </td>
+    <td> Seyva the Stranded Supnautican </td>
+    <td> ... </td>
+    <td> ... </td>
+  </tr>
+  <tr>
+    <td> ... </td>
+    <td> ... </td>
+    <td> ... </td>
+    <td> ... </td>
+    <td> ... </td>
+  </tr>
+  <tr>
+    <td> <em>Everlasting Tragedy</em> </td>
+    <td> Xeroque the Aeternity Construct </td>
+  </tr>
+</table>
+
 
 <br>
 
