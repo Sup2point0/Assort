@@ -14,6 +14,16 @@ An abridged localisation of *The Stranded Saga*, a recovered transcription of th
 <table>
   <td>
     <a href="#Prologue">Prologue – “Derealising Descent”</a> <br>
+    <a href="##">Extract – ”The Lone Survivor”</a> <br>
+    <a href="##">Extract – “Infinite Possibilities in a Non-Singularity”</a> <br>
+    <a href="##">Extract – “The Xen Constructs”</a> <br>
+    <a href="##">Arc – Stranded in Supnautica</a> <br>
+    <a href="##">Arc – “Verse and Void”</a> <br>
+    <a href="##">Extract – “Isolation”</a> <br>
+    <a href="##">Arc – “Cross-Xeniqive Clash”</a> <br>
+    <a href="##">Arc – Paradox Falls</a> <br>
+    <a href="##">Arc – Intervention of Aeternity</a> <br>
+    <a href="##">Extract – Everlasting Tragedy</a> <br>
     <a href="##">–</a>
   </td>
 </table>
