@@ -10,14 +10,17 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
 
 | archetype | origin | role |
 | :-------- | :----- | :--- |
-| [Aeternal](archetypes/Aeternal.md) | time | supernatural antagonist |
+| [Aeternal, Aeternity](archetypes/Aetern.md) | time | supernatural antagonist |
+| [Affinitic](archetypes/Affinitic.md) | | |
 | [Catastropical](archetypes/Catastropical.md) | environment, natural hazards | |
+| [Delphoenix](archetypes/Delphoenix.md) | | |
 | [Dyverse](archetypes/Dyverse.md) | digital | |
+| [Dyvoid](archetypes/Dyvoid.md) | | |
 | [Epic Excursion](archetypes/Epic%20Excursion.md) | | locations |
 | [Supnautic](archetypes/Supnautic.md) | underwater | creatures |
 | [Stranded](archetypes/Stranded.md) | | cross-archetypal |
 | [Walker](archetypes/Walker.md) | | protagonists |
-| [World Construct](archetypes/World%20Construct.md) | | structures |
+| [Construct](archetypes/Construct.md) | | structures |
 
 
 <br>
@@ -25,7 +28,7 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
 
 ## Lore
 
-It’ll come.
+See [*The Stranded Saga*](The%20Stranded%20Saga.md).
 
 
 <br>
