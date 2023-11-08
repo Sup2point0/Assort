@@ -10,17 +10,17 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
 
 | archetype | notes |
 | :-------- | :---- |
-| [Aetern](../../archetypes/Aetern.md) | |
+| [Aetern](../../archetypes/Aetern.md) | Spell/Traps, Extra Deck Monsters |
 | [Affinitic](../../archetypes/Affinitic.md) | |
 | [Catastropical](../../archetypes/Catastropical.md) | |
-| [Construct](../../archetypes/Construct.md) | |
+| [Construct](../../archetypes/Construct.md) | power cards |
 | [Delphoenix](../../archetypes/Delphoenix.md) | |
 | [Dyverse](../../archetypes/Dyverse.md) | |
-| [Dyvoid](../../archetypes/Dyvoid.md) | |
-| [Epic Excursion](../../archetypes/Epic%20Excursion.md) | |
+| [Dyvoid](../../archetypes/Dyvoid.md) | antagonists |
+| [Epic Excursion](../../archetypes/Epic%20Excursion.md) | supportive Spell/Traps |
 | [Supnautic](../../archetypes/Supnautic.md) | |
-| [Stranded](../../archetypes/Stranded.md) | |
-| [Walker](../../archetypes/Walker.md) | |
+| [Stranded](../../archetypes/Stranded.md) | cross-archetypal cards |
+| [Walker](../../archetypes/Walker.md) | protagonists |
 
 
 <br>
