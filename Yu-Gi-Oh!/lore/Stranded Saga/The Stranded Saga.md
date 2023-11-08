@@ -6,35 +6,7 @@ An abridged localisation of *The Stranded Saga*, a recovered transcription of th
 <br>
 
 
-## Index
-
-<details open>
-  <summary> <b> display </b> </summary> <br>
-
-<table>
-  <td>
-    <a href="#Prologue">Prologue – “Derealising Descent”</a> <br>
-    <a href="##">Extract – ”The Lone Survivor”</a> <br>
-    <a href="##">Extract – “Infinite Possibilities in a Non-Singularity”</a> <br>
-    <a href="##">Extract – “The Xen Constructs”</a> <br>
-    <a href="##">Arc – Stranded in Supnautica</a> <br>
-    <a href="##">Arc – The Universe of the Dyverse</a> <br>
-    <a href="##">Extract – “Isolation”</a> <br>
-    <a href="##">Arc – “Cross-Xeniqive Clash”</a> <br>
-    <a href="##">Arc – Paradox Falls</a> <br>
-    <a href="##">Arc – Intervention of Aeternity</a> <br>
-    <a href="##">Extract – Everlasting Tragedy</a> <br>
-    <a href="##">–</a>
-  </td>
-</table>
-
-</details>
-
-
-<br>
-
-
-## <a name="Prologue"></a> Prologue – “Derealising Descent”
+## Prologue – “Derealising Descent”
 
 > *And we could only gaze in awe*  
 > *Upon those sights born from our thoughts*  
