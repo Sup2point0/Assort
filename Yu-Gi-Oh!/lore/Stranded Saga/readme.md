@@ -8,19 +8,74 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
 
 ## Archetypes
 
-| archetype | notes |
-| :-------- | :---- |
-| [Aetern](../../archetypes/Aetern.md) | Spell/Traps, Extra Deck Monsters |
-| [Affinitic](../../archetypes/Affinitic.md) | |
-| [Catastropical](../../archetypes/Catastropical.md) | |
-| [Construct](../../archetypes/Construct.md) | power cards |
-| [Delphoenix](../../archetypes/Delphoenix.md) | |
-| [Dyverse](../../archetypes/Dyverse.md) | |
-| [Dyvoid](../../archetypes/Dyvoid.md) | antagonists |
-| [Epic Excursion](../../archetypes/Epic%20Excursion.md) | supportive Spell/Traps |
-| [Supnautic](../../archetypes/Supnautic.md) | |
-| [Stranded](../../archetypes/Stranded.md) | cross-archetypal cards |
-| [Walker](../../archetypes/Walker.md) | protagonists |
+<table>
+  <tr>
+    <td rowspan="2"> <a href="../../archetypes/Aetern.m">Aetern</a> </td>
+    <td> Aeternal </td>
+    <td> Spell/Traps, Extra Deck Monsters </td>
+  </tr>
+  <tr>
+    <td> Aeternity </td>
+    <td> power cards </td>
+  </tr>
+  <tr>
+    <td colspan="2"> <a href="../../archetypes/Affine.md">Affine</a> </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td colspan="2"> <a href="../../archetypes/Catastropical.md">Catastropical</a> </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> <a href="../../archetypes/Construct.md">Construct</a> </td>
+    <td> World Construct </td>
+    <td rowspan="2"> power cards </td>
+  </tr>
+  <tr>
+    <td> Neural Construct </td>
+  </tr>
+  <tr>
+    <td colspan="2"> <a href="../../archetypes/Delphoenix.md">Delphoenix</a> </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td colspan="2"> <a href="../../archetypes/Dyverse.md">Dyverse</a> </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td colspan="2"> <a href="../../archetypes/Dyvoid.md">Dyvoid</a> </td>
+    <td> antagonists </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> <a href="../../archetypes/Excursion.md">Excursion</a> </td>
+    <td> Endless Excursion </td>
+    <td rowspan="2"> supportive Spell/Traps </td>
+  </tr>
+  <tr>
+    <td> Epic Excursion </td>
+  </tr>
+  <tr>
+    <td rowspan="3"> <a href="../../archetypes/Supnautic.md">Supnautic</a> </td>
+    <td> Supnautica </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> Supnautican </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> Supnautical </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td colspan="2"> <a href="../../archetypes/Stranded.md">Stranded</a> </td>
+    <td> cross-archetypal cards </td>
+  </tr>
+  <tr>
+    <td colspan="2"> <a href="../../archetypes/Walker">Walker</a> </td>
+    <td> protagonists </td>
+  </tr>
+</table>
 
 
 <br>
