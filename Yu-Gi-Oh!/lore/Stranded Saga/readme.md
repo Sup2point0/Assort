@@ -101,10 +101,10 @@ Each character’s name changes slightly throughout the storyline.
   </tr>
   <tr>
     <td> Original </td>
-    <td> Xero </td>
-    <td> Seyva </td>
-    <td> Blob </td>
-    <td> Zyne </td>
+    <td> Luce </td>
+    <td> Seya </td>
+    <td> Xlob </td>
+    <td> Kyre </td>
   </tr>
   <tr>
     <td> <em>Extracts</em> </td>
