@@ -81,13 +81,9 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
 <br>
 
 
-## Overview
-
-
-<br>
-
-
 ## Lore
+
+> Under construction!
 
 See [*The Stranded Saga*](The%20Stranded%20Saga.md).
 
@@ -108,10 +104,10 @@ Each character’s name changes slightly throughout the storyline.
   </tr>
   <tr>
     <td> <em>Extracts</em> </td>
-    <td> Xero the Stranded Dreamwalker </td>
+    <td> Lucen the Stranded Dreamwalker </td>
     <td> Seyva the Stranded Starwalker </td>
-    <td> Blob the Stranded Worldwalker </td>
-    <td> Zyne the Stranded Saviour </td>
+    <td> Xlob the Stranded Worldwalker </td>
+    <td> Kyra the Stranded Saviour </td>
   </tr>
   <tr>
     <td> ... </td>
@@ -136,9 +132,15 @@ Each character’s name changes slightly throughout the storyline.
   </tr>
   <tr>
     <td> <em>Everlasting Tragedy</em> </td>
-    <td> Xeroque the Aeternity Construct </td>
+    <td> Lux the Aeternity Construct </td>
   </tr>
 </table>
+
+
+<br>
+
+
+## Overview
 
 
 <br>
@@ -148,5 +150,11 @@ Each character’s name changes slightly throughout the storyline.
 
 - The storyline draws inspiration from the existing cross-archetypal storylines in *Yu-Gi-Oh!*, in particular [*Branded*](https://yugipedia.com/wiki/Branded) and [*World Legacy*](https://yugipedia.com/wiki/World_Legacy).
   - It also forms part of the larger lore of [Xeriqui](../../../xeriqui).
-- All of the archetypes in this storyline are entirely original.
-  - *Catastropical* was the first archetype in the storyline to be conceived.
+- Several of the archetypes in this storyline are inspired by or are parodies of existing archetypes.
+  - *Stranded* is a parody of *Branded*.
+  - *Construct* is back-derived from *World Construct*, which is a parody of *World Legacy*.
+  - *Dyverse* is a portmanteau of *Cyberse* and ‘diverse’.
+  - *Dyvoid* is a portmanteau of *Dyverse* and ‘void’.
+  - *Supnautica* is somewhat inspired by [*Subnautica*](...).
+  - *Aetern*, *Catastropical*, and *Delphoenix* are entirely original.
+  - *Affine*, *Excursion* and *Walker* are just words.
