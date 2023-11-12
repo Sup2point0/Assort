@@ -165,16 +165,16 @@ Each character’s name changes slightly throughout the storyline.
   - It also forms part of the larger lore of [Xeriqui](../../../xeriqui).
 
 ### Inspiration
-Many archetypes in this storyline are inspired by, or are parodies of, existing archetypes, either in name, design, or both.
+The names of many archetypes in this storyline are inspired by, or are parodies of, existing archetypes.
 
-| archetype | name | design | etymology |
-| :-------- | :--- | :----- | :-------- |
+| archetype | origin | etymology |
+| :-------- | :----- | :-------- |
 | *Stranded* | [*Branded*](https://yugipedia.com/wiki/Branded) | |
-| *Aeternal*, *Aeternity* | | | ‘æ’ + ‘eternal’ |
-| *Catastropical* | | | ‘catastrophe’ + ‘tropical’ |
-| *Cephradicated* | | [*Knightmare*](https://yugipedia.com/wiki/Knightmare) | [*Cepheus*](https://wikipedia.org/wiki/Cepheus_(constellation)) (constellation) + ‘eradicated’ |
-| *Construct* | [*World Legacy*](https://yugipedia.com/wiki/World_Legacy) | |  back-derived from ‘World Construct’, now a sub-archetype |
-| *Delphoenix* | | [*Drytron*](https://yugipedia.com/wiki/Drytron) | [*Delphinus*](https://wikipedia.org/wiki/Delphinus) (constellation) + ‘phoenix’ |
-| *Dyverse* | [Cyberse](https://yugipedia.com/wiki/Cyberse) | | *Cyberse* + ‘diverse’ |
-| *Dyvoid* | | | *Dyverse* + ‘void’ |
-| *Supnautica* | [*Subnautica*]() | | ‘sup’ + *nautica* |
+| *Aeternal* / *Aeternity* | | ‘æ’ + *eternal* / *eternity* |
+| *Catastropical* | | *catastrophe* + *tropical* |
+| *Cephradicated* | | [*Cepheus*](https://wikipedia.org/wiki/Cepheus_(constellation)) (constellation) + *eradicated* |
+| *Construct* | [*World Legacy*](https://yugipedia.com/wiki/World_Legacy) | back-derived from *World Construct* |
+| *Delphoenix* | | [*Delphinus*](https://wikipedia.org/wiki/Delphinus) (constellation) + *phoenix* |
+| *Dyverse* | [Cyberse](https://yugipedia.com/wiki/Cyberse) | *Cyberse* + *diverse* |
+| *Dyvoid* | | *Dyverse* + *void* |
+| *Supnautica* | [*Subnautica*](https://wikipedia.org/wiki/Subnautica) (game) | *sup* + *nautica* |
