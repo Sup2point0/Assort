@@ -171,6 +171,7 @@ The names of many archetypes in this storyline are inspired by, or are parodies 
 | :-------- | :----- | :-------- |
 | *Stranded* | [*Branded*](https://yugipedia.com/wiki/Branded) | |
 | *Aeternal*, *Aeternity* | | ‘æ’ + *eternal*, *eternity* |
+| *Avertrocious*, *Avertrocity* | | *averse* + *atrocious*, *atrocity* |
 | *Catastropical* | | *catastrophe* + *tropical* |
 | *Cephradicated* | | [*Cepheus*](https://wikipedia.org/wiki/Cepheus_(constellation)) (constellation) + *eradicated* |
 | *Construct* | [*World Legacy*](https://yugipedia.com/wiki/World_Legacy) | back-derived from *World Construct* |
