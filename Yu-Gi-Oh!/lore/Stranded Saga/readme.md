@@ -163,11 +163,18 @@ Each character’s name changes slightly throughout the storyline.
 
 - The storyline draws inspiration from the existing cross-archetypal storylines in *Yu-Gi-Oh!*, in particular [*Branded*](https://yugipedia.com/wiki/Branded) and [*World Legacy*](https://yugipedia.com/wiki/World_Legacy).
   - It also forms part of the larger lore of [Xeriqui](../../../xeriqui).
-- Several of the archetypes in this storyline are inspired by or are parodies of existing archetypes.
-  - *Stranded* is a parody of *Branded*.
-  - *Construct* is back-derived from *World Construct*, which is a parody of *World Legacy*.
-  - *Dyverse* is a portmanteau of *Cyberse* and ‘diverse’.
-  - *Dyvoid* is a portmanteau of *Dyverse* and ‘void’.
-  - *Supnautica* is somewhat inspired by [*Subnautica*](...).
-  - *Aetern*, *Catastropical*, and *Delphoenix* are entirely original.
-  - *Affine*, *Excursion* and *Walker* are just words.
+
+### Inspiration
+Many archetypes in this storyline are inspired by, or are parodies of, existing archetypes, either in name, design, or both.
+
+| archetype | name | design | etymology |
+| :-------- | :--- | :----- | :-------- |
+| *Stranded* | [*Branded*](https://yugipedia.com/wiki/Branded) | |
+| *Aeternal*, *Aeternity* | | | ‘æ’ + ‘eternal’ |
+| *Catastropical* | | | ‘catastrophe’ + ‘tropical’ |
+| *Cephradicated* | | [*Knightmare*](https://yugipedia.com/wiki/Knightmare) | [*Cepheus*](https://wikipedia.org/wiki/Cepheus_(constellation)) (constellation) + ‘eradicated’ |
+| *Construct* | [*World Legacy*](https://yugipedia.com/wiki/World_Legacy) | |  back-derived from ‘World Construct’, now a sub-archetype |
+| *Delphoenix* | | [*Drytron*](https://yugipedia.com/wiki/Drytron) | [*Delphinus*](https://wikipedia.org/wiki/Delphinus) (constellation) + ‘phoenix’ |
+| *Dyverse* | [Cyberse](https://yugipedia.com/wiki/Cyberse) | | *Cyberse* + ‘diverse’ |
+| *Dyvoid* | | | *Dyverse* + ‘void’ |
+| *Supnautica* | [*Subnautica*]() | | ‘sup’ + *nautica* |
