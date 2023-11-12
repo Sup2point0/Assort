@@ -6,7 +6,7 @@ An abridged localisation of *The Stranded Saga*, a recovered transcription of th
 <br>
 
 
-<h2 align="center"> PROLOGUE </h2> {#Prologue}
+<h2 align="center" name="Prologue"> PROLOGUE </h2>
 
 <div align="center">
 <em>And we could only gaze in awe </em> <br>
@@ -21,7 +21,7 @@ An abridged localisation of *The Stranded Saga*, a recovered transcription of th
 <br>
 
 
-<h2 align="center"> EXTRACTS </h2> {#Extracts}
+<h2 align="center" name="Extracts"> EXTRACTS </h2>
 
 ### Wisps of Creation
 It had been like this for as long as he could remember. Each night, his mind would be filled with spectacular visions, seemingly real and unreal at the same time, so vivid and detailed as if entire lifetimes were passing. Dreams, as we know them.
@@ -32,19 +32,19 @@ Yet eventually, he would have to wake up. It felt like he had been submerged for
 <br>
 
 
-<h2 align="center"> ARC I – Descent </h2> {#Arc-I}
+<h2 align="center" name="Arc-I"> ARC I – Descent </h2>
 
 
 <br>
 
 
-<h2 align="center"> ARC II – Clash </h2> {#Arc-II}
+<h2 align="center" name="Arc-II"> ARC II – Clash </h2>
 
 
 <br>
 
 
-<h2 align="center"> ENVOI </h2> {#Envoi}
+<h2 align="center" name="Envoi"> ENVOI </h2>
 
 ### Everlasting Tragedy
 ...
