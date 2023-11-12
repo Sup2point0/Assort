@@ -20,11 +20,28 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
   </tr>
   <tr>
     <td colspan="2"> <a href="../../archetypes/Affine.md">Affine</a> </td>
-    <td>  </td>
+    <td> affinitics </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> <a href="../../archetypes/Avertroci.md">Avertroci</a> </td>
+    <td> Avertrocious </td>
+    <td> horrific corrupted beings </td>
+  </tr>
+  <tr>
+    <td> Avertrocity </td>
+    <td> especially horrific especially corrupted beings </td>
   </tr>
   <tr>
     <td colspan="2"> <a href="../../archetypes/Catastropical.md">Catastropical</a> </td>
-    <td>  </td>
+    <td> natural hazards </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> <a href="../../archetypes/Cephradica.md">Cephradica</a> </td>
+    <td> Cephradicated </td>
+    <td rowspan="2"> corrupted Delphoenix </td>
+  </tr>
+  <tr>
+    <td> Cephradicator </td>
   </tr>
   <tr>
     <td rowspan="2"> <a href="../../archetypes/Construct.md">Construct</a> </td>
@@ -36,15 +53,15 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
   </tr>
   <tr>
     <td colspan="2"> <a href="../../archetypes/Delphoenix.md">Delphoenix</a> </td>
-    <td>  </td>
+    <td> astral guardians </td>
   </tr>
   <tr>
     <td colspan="2"> <a href="../../archetypes/Dyverse.md">Dyverse</a> </td>
-    <td>  </td>
+    <td> digital beings </td>
   </tr>
   <tr>
     <td colspan="2"> <a href="../../archetypes/Dyvoid.md">Dyvoid</a> </td>
-    <td> antagonists </td>
+    <td> antimatter antagonists </td>
   </tr>
   <tr>
     <td rowspan="2"> <a href="../../archetypes/Excursion.md">Excursion</a> </td>
@@ -92,7 +109,7 @@ Each character’s name changes slightly throughout the storyline.
 
 <table>
   <tr>
-    <th> Arc </th>
+    <th> Part </th>
     <th colspan="4"> Name </th>
   </tr>
   <tr>
@@ -104,35 +121,32 @@ Each character’s name changes slightly throughout the storyline.
   </tr>
   <tr>
     <td> <em>Extracts</em> </td>
-    <td> Lucen the Stranded Dreamwalker </td>
+    <td> Lucyn the Stranded Dreamwalker </td>
     <td> Seyva the Stranded Starwalker </td>
     <td> Xlob the Stranded Worldwalker </td>
     <td> Kyra the Stranded Saviour </td>
   </tr>
   <tr>
-    <td> ... </td>
-    <td> ... </td>
+    <td rowspan="2"> Arc I </td>
+    <td> Lucyne the Affinitive Worldwalker </td>
+  </tr>
+  <tr>
+    <td> Lucyon the Aeternal Timewalker </td>
     <td> ... </td>
     <td> ... </td>
     <td> ... </td>
   </tr>
   <tr>
-    <td> <em>Stranded in Supnautica</em> </td>
+    <td> Arc II </td>
+    <td> Lucyos, Chosen of the Stranded </td>
+    <td> Sveya, Valiant of the Stranded </td>
     <td> ... </td>
-    <td> Seyva the Stranded Supnautican </td>
-    <td> ... </td>
-    <td> ... </td>
+    <td> Kyra, Vengeful of the Stranded </td>
   </tr>
   <tr>
-    <td> ... </td>
-    <td> ... </td>
-    <td> ... </td>
-    <td> ... </td>
-    <td> ... </td>
-  </tr>
-  <tr>
-    <td> <em>Everlasting Tragedy</em> </td>
-    <td> Lux the Aeternity Construct </td>
+    <td> Envoi </td>
+    <td> Lucque, the Aeternity Construct </td>
+    <td> Veya, the Stranded Stargazer </td>
   </tr>
 </table>
 
