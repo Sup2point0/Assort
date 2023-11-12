@@ -120,28 +120,28 @@ Each character’s name changes slightly throughout the storyline.
     <td> Kyre </td>
   </tr>
   <tr>
-    <td> <em>Extracts</em> </td>
+    <td> <a href="The Stranded Saga.md#EXTRACTS"><em>Extracts</em></a> </td>
     <td> Lucyn the Stranded Dreamwalker </td>
     <td rowspan="3"> Seyva the Stranded Starwalker </td>
     <td rowspan="3"> Xlob the Stranded Worldwalker </td>
     <td rowspan="3"> Kyra the Stranded Saviour </td>
   </tr>
   <tr>
-    <td rowspan="2"> Arc I </td>
+    <td rowspan="2"> <a href="The Stranded Saga.md#ARC-I"><em>Arc I</em></a> </td>
     <td> Lucyne the Affinitive Worldwalker </td>
   </tr>
   <tr>
     <td> Lucyon the Aeternal Timewalker </td>
   </tr>
   <tr>
-    <td> Arc II </td>
+    <td> <a href="The Stranded Saga.md#ARC-II"><em>Arc II</em></a> </td>
     <td> Lucyos, Chosen of the Stranded </td>
     <td> Sveya, Valiant of the Stranded </td>
     <td> ? </td>
     <td> Kyra, Vengeful of the Stranded </td>
   </tr>
   <tr>
-    <td> Envoi </td>
+    <td> <a href="The Stranded Saga.md#ENVOI"><em>Envoi</em></a> </td>
     <td> Lucque, the Aeternity Construct </td>
     <td> Veya, the Stranded Stargazer </td>
     <td> Xlob the ~ Heartwalker </td>
