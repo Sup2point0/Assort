@@ -173,7 +173,7 @@ The names of many archetypes in this storyline are inspired by, or are parodies 
 | *Aeternal*, *Aeternity* | | ‘æ’ + *eternal*, *eternity* |
 | *Avertrocious*, *Avertrocity* | | *averse* + *atrocious*, *atrocity* |
 | *Catastropical* | | *catastrophe* + *tropical* |
-| *Cephradicated* | | [*Cepheus*](https://wikipedia.org/wiki/Cepheus_(constellation)) (constellation) + *eradicated* |
+| *Cephradicated*, *Cephradicator* | | [*Cepheus*](https://wikipedia.org/wiki/Cepheus_(constellation)) (constellation) + *eradicated*, *eradicator* |
 | *Construct* | [*World Legacy*](https://yugipedia.com/wiki/World_Legacy) | back-derived from *World Construct* |
 | *Delphoenix* | | [*Delphinus*](https://wikipedia.org/wiki/Delphinus) (constellation) + *phoenix* |
 | *Dyverse* | [Cyberse](https://yugipedia.com/wiki/Cyberse) | *Cyberse* + *diverse* |
