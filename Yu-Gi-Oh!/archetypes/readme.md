@@ -57,13 +57,13 @@ Inkurzen
 &emsp; &emsp; [Aeternal](Aeternal.md)  
 &emsp; &emsp; [Aeternity](Aeternity.md)  
 &emsp; Affine  
-&emsp; [Avertroci](Avertrocious.md)    
-&emsp; &emsp; Avertrocious  
-&emsp; &emsp; Avertrocity  
+&emsp; Avertroci    
+&emsp; &emsp; [Avertrocious](Avertrocious.md)  
+&emsp; &emsp; [Avertrocity](Avertrocit.md)  
 &emsp; [Catastropical](Catastropical.md)  
-&emsp; [Cephradica](Cephradica.md)  
-&emsp; &emsp; Cephradicated  
-&emsp; &emsp; Cephradicator  
+&emsp; Cephradica  
+&emsp; &emsp; [Cephradicated](Cephradicated.md)  
+&emsp; &emsp; [Cephradicator](Cephradicator.md)  
 &emsp; [Construct](Construct.md)  
 &emsp; [Delphoenix](Delphoenix.md)  
 &emsp; [Dyverse](Dyverse.md)  
