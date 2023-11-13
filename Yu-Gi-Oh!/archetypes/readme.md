@@ -56,13 +56,19 @@ Inkurzen
 &emsp; [Aetern](Aetern.md)  
 &emsp; &emsp; [Aeternal](Aeternal.md)  
 &emsp; &emsp; [Aeternity](Aeternity.md)  
-&emsp; Affinitic  
+&emsp; Affine  
+&emsp; [Avertroci](Avertrocious.md)    
+&emsp; &emsp; Avertrocious  
+&emsp; &emsp; Avertrocity  
 &emsp; [Catastropical](Catastropical.md)  
+&emsp; [Cephradica](Cephradica.md)  
+&emsp; &emsp; Cephradicated  
+&emsp; &emsp; Cephradicator  
 &emsp; [Construct](Construct.md)  
-&emsp; Delphoenix  
-&emsp; Dyverse  
-&emsp; Dyvoid  
-&emsp; Epic Excursion  
+&emsp; [Delphoenix](Delphoenix.md)  
+&emsp; [Dyverse](Dyverse.md)  
+&emsp; [Dyvoid](Dyvoid.md)  
+&emsp; Excursion  
 &emsp; [Supnautic](Supnautic.md)  
 &emsp; Walker  
 [The Specialists](The%20Specialists.md)  
