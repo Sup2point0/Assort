@@ -35,6 +35,7 @@ An archetype of WATER Monsters with various Types.
 
 | card | Level | ATK/DEF | Type | Attribute | Material |
 | :--- | :---- | :------ | :--- | :-------- | :------- |
+| Aeternity Catastropical Supnauticator, the Affine Dyverse Construct | 13 ★★★★★★★★★★★★★ | 5000 / 5000 | Fusion Galaxy Aqua Pyro Thunder Psychic Cyberse | DIVINE, LIGHT, FIRE, WATER, EARTH, WIND | |
 | [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – / – | – | – | – |
 
 </details>
@@ -67,4 +68,4 @@ An archetype of WATER Monsters with various Types.
 
 ## Trivia
 
-- *Supnautica* is a parody of [*Subnautica*](https://wikipedia.org/wiki/Subnautica).
+- The name *Supnautica* is a parody of the game [*Subnautica*](https://wikipedia.org/wiki/Subnautica).
