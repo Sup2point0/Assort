@@ -1,6 +1,6 @@
 # Cards
 
-All the custom cards I’ve created.
+All the custom cards I’ve created (that have individual pages).
 
 
 <br>
