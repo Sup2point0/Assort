@@ -1,4 +1,4 @@
-# Cards
+# Cardlist
 
 It would be ridiculous to create all the cards for all the archetypes in the Stranded Saga (even for me), so instead, here are the names of all the cards, categorised as logically as I could (a mix of functional and chronological).
 
