@@ -1,6 +1,6 @@
 <h1 align="center"> The Stranded Saga </h1>
 
-An abridged localisation of *The Stranded Saga*, a recovered transcription of the original chronicle as told by Veya. The names, genders and speech of the involved beings and characters have been normalised to those standard on this Earth, so as to avoid unnecessarily disrupting understanding while staying as true to the original as possible.
+An abridged localisation of *The Stranded Saga*, a recovered transcription of the original chronicle as told by Veya. The names, genders and speech of the involved beings and characters have been normalised to those standard on this Earth, so as to avoid unnecessarily disrupting understanding.
 
 
 <br>
@@ -15,14 +15,22 @@ An abridged localisation of *The Stranded Saga*, a recovered transcription of th
 </div>
 
 ### Forsaken Memory
-A person stood in his way.  
-“What brings you here?” their soft voice carried.  
-“I... can’t remember,” said Luce, taking a step towards them.  
-“You can’t enter,” they breathed.  
-“Why not?”  
-A moment passed. “Not yet.” Their face was still concealed.  
-“Where do I go, then?” Luce asked, tentatively.  
-They turned their back to him. “You only have to follow your heart.”  
+> A person stood in his way.  
+> “What brings you here?” their soft voice carried.  
+> “I... can’t remember,” said Luce, taking a step towards them.  
+> “You can’t enter,” they breathed.  
+> “Why not?”  
+> A moment passed. “Not yet.” Their face was still concealed.  
+> “Where do I go, then?” Luce asked, tentatively.  
+> They turned their back to him. “You only have to follow your heart.”  
+
+
+<br>
+
+
+<h2 align="center" name="Preface"> PREFACE </h2>
+
+Many have spoken of the *dreamscape*, a place visited in dreams. In it lie an endless number of worlds, each hiding breathtaking beauty, terrible torment, or anywhere in between. Time is fluid, and parts may flit into and out of existence instantaneously. Whether it physically exists or not remains a mystery, but it is out there, somewhere – waiting for curious souls to venture into its unexplored depths.
 
 
 <br>
@@ -30,11 +38,19 @@ They turned their back to him. “You only have to follow your heart.”
 
 <h2 align="center" name="Arc-I"> ARC I – Descent </h2>
 
+### Catastropical Crisis
+
 
 <br>
 
 
 <h2 align="center" name="Arc-II"> ARC II – Requital </h2>
+
+### To Make a Hero
+
+### The Truth Amidst the Ever-Shining Stars
+
+### Paradox Falls
 
 
 <br>
@@ -65,12 +81,12 @@ When he found her, her eyes were closed in a peaceful expression of detachment. 
 
 His name was Souk. Tall, hunch-backed, with skin like the bark of wood and cut like rock, the odd weed twisting up a limb, arched feet with roots piercing into the ground, four tender fingers shaped like leaves on each hand, and the brightest pair of golden eyes filled with undeniable warmth. He lived on the outskirts of Supnautica, above the water, away from the others.
 
-She never asked why. She never knew much about him at all. But he was there, always watching over her as she grew. Soon she ventured into the depths of Supnautica, and learnt their language, learnt to swim, learnt to breathe. And each day, she would return to their home, where Souk would open the door with his crooked smile, wrapping her in a rustled embrace. He never talked, but his eyes lit up the room.
+She never asked why. She never knew much about him at all. But he was there, always watching over her as she grew. Soon she ventured into the depths of Supnautica, and learnt their language, learnt to swim, learnt to breathe. And each day, she would return to their home, where Souk would open the door with his crooked smile, wrapping her in a rustled embrace. He never talked, but his eyes lit up her world.
 
 ### Infinite Possibility
-&emsp; &emsp; *Gwob?*  
-&emsp; &emsp; *Xwobo wob*  
-&emsp; &emsp; *om zgo*  
-&emsp; &emsp; *Awgo!*  
+> *Gwob?*  
+> *Xwobo wob*  
+> *om zgo*  
+> *Awgo!*  
 
 Who knew who had conceived the idea? It was, after all, an incredibly obscure thought... a world within a world, confined into the tiny space of a small blob. Somehow, this blob was alive, whatever you might mean by ‘alive’, and it would occasionally swallow something into its infinite depths, or spit something out.
