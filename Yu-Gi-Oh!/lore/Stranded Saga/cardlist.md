@@ -10,8 +10,14 @@ It would be ridiculous to create all the cards for all the archetypes in the Str
 
 Delphoenix Aestivale, the Ever-Shining Construct of Wishes  
 
+Ryku Affinitis, Avertrocious Nemesis  
+Tenko Kalyptis, Avertrocious Sentinel  
+Vyrik Obscuris, Avertrocious Silencer  
+
 Aeternity Catastropical Supnauticator, the Affine Dyverse Construct  
 Avertrocious Cephradicator Arkyrios, the Annihilating Dyvoid Construct  
+
+World Construct Singularity
 
 
 <br>
@@ -21,3 +27,16 @@ Avertrocious Cephradicator Arkyrios, the Annihilating Dyvoid Construct
 
 ### Stranded
 See [*Stranded*](../../archetypes/Stranded.md).
+
+### Delphoenix
+Delphoenix Aphelion  
+Delphoenix Ashes  
+Delphoenix Equinox  
+Delphoenix Wishes  
+Delphoenix Supernova  
+Delphoenix Syzygy  
+
+### Construct
+Gateway to the Primordial Construct  
+The Primordial Construct  
+Constructed Universe  
