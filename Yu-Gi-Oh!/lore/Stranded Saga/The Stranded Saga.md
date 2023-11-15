@@ -72,12 +72,14 @@ It had been like this for as long as he could remember. Each night, his mind wou
 
 He couldn’t remember when she started appearing. It was a while before he started noticing her. She would lurk in the corner of his mind, stay by his side on his travels. Her presence was always there. The ghost of a touch, pinpricks dancing along his skin. He could feel her cries chasing after him, when nightmares sent him hurtling across the dreamscape. Her voice would echo in his head after he awoke, like a melody drawing him back into the dreamscape. Who was this faceless girl? He could never see her full figure, only ever a blur of iridescent hair rippling past, or a hazy silhouette half-shrouded in mist.
 
+The closer he tried to approach, the further she appeared. And so, in time, he ceased trying, instead accepting her silent presence. It stayed like that, until she had vanished without him noticing.
+
 ### Lone Wanderer
-In the deep night below a starry sky, a lone girl gazed up with the heavens glistening in her eyes. What did she see in that shining darkness?
+In the deep night below a starry sky, a lone girl gazed up with the heavens glistening in her eyes. Her hair danced behind her, ethereal in the starlight. In her hands, she clasped a tiny locket, tinted lilac. It seemed as if she was searching for something. What did she see in that shining darkness?
 
 The cold was bitter and unforgiving, but against her, it held back. She made her way onwards, never tiring, even as the night dragged on endlessly. The grass tickled at her frosted skin, but the feeling didn’t reach her head. It was only as the clouds closed in and she could no longer see the starlight that she finally collapsed on the ground, shivering in silence.
 
-When he found her, her eyes were closed in a peaceful expression of detachment. He scooped her into his arms and sprinted back to his abode, laying her gently upon a large leaf that wrapped around her body. Slowly, the cold drained from her body, and she arose to the sight of him washing up a meal.
+When he found her, her eyes were closed in a peaceful expression of detachment. He scooped her into his arms and sprinted back to his abode, laying her gently upon a large leaf that wrapped around her. Slowly, the cold drained from her body, and she arose to the sight of him washing up a meal.
 
 His name was Souk. Tall, hunch-backed, with skin like the bark of wood and cut like rock, the odd weed twisting up a limb, arched feet with roots piercing into the ground, four tender fingers shaped like leaves on each hand, and the brightest pair of golden eyes filled with undeniable warmth. He lived on the outskirts of Supnautica, above the water, away from the others.
 
@@ -90,3 +92,14 @@ She never asked why. She never knew much about him at all. But he was there, alw
 > *Awgo!*  
 
 Who knew who had conceived the idea? It was, after all, an incredibly obscure thought... a world within a world, confined into the tiny space of a small blob. Somehow, this blob was alive, whatever you might mean by ‘alive’, and it would occasionally swallow something into its infinite depths, or spit something out.
+
+### The Xen Constructs
+Xistence is not stable. It never has been, and never will be; such is the nature of an existence born from the ever-fluctuating thoughts of ‘living’ beings.
+
+Many things can lead to the collapse of a xerique. What’s worse is its corruption, an inexplicable unstoppable infection that eats away at the world and its continuity, until it shatters. Should this happen, fragments may, and almost certainly will, find their way into other xeriques. This may be harmless, only a minor disturbance that goes unnoticed. But with so many splinters, and so many worlds, disturbance is inevitable.
+
+Disturbance leads to corruption, and what ensues is a chain reaction of corruption that tears away at xeriques on unprecedented levels. Indeed, there may be infinite xeriques, but beyond a breaking point, Xistence itself would collapse. Beyond that... is unknown.
+
+Corruption is expected. Corruption can be contained. If minor enough, it can be contained within the xerique. But at the scale of entire xeriques?
+
+The *Xen Constructs*, xeniqive ‘structures’, were created. They enclose corrupted xeriques, preventing the corruption from ever escaping. The worlds inside live on, degenerating further and morphing unrecognisably. To enter a Xen Construct would be beyond nightmarish. As it is, they are a necessary evil holding Xistence together. Not a perfect solution, but the one that works. In time.
