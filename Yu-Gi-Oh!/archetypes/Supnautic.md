@@ -1,6 +1,6 @@
 # Supnautic
 
-An archetype of WATER Monsters with various Types.
+An archetype of WATER and EARTH Monsters with various Types.
 
 
 <br>
@@ -26,7 +26,8 @@ An archetype of WATER Monsters with various Types.
 
 | card | Level | ATK/DEF | Type | Attribute |
 | :--- | :---- | :------ | :--- | :-------- |
-| [–](../cards/monsters/standard/–.md) | n ★★★★★★★★★★★★ | – / – | – | – |
+| Souk, Supnautican Scavenger | | | | EARTH |
+| Supnautican Elder | | | | WATER |
 
 </details>
 
@@ -35,8 +36,12 @@ An archetype of WATER Monsters with various Types.
 
 | card | Level | ATK/DEF | Type | Attribute | Material |
 | :--- | :---- | :------ | :--- | :-------- | :------- |
+| Supnautic Pringer |
+| Supnautic Krail |
+| Supnautic Krakon |
+| Supnautic Serentine |
+| Supnautic Tydra |
 | Aeternity Catastropical Supnauticator, the Affine Dyverse Construct | 13 ★★★★★★★★★★★★★ | 5000 / 5000 | Fusion Galaxy Aqua Pyro Thunder Psychic Cyberse | DIVINE, LIGHT, FIRE, WATER, EARTH, WIND | |
-| [–](../cards/monsters/–/–.md) | n ★★★★★★★★★★★★ | – / – | – | – | – |
 
 </details>
 
@@ -47,7 +52,9 @@ An archetype of WATER Monsters with various Types.
 
 | card | property |
 | :--- | :------- |
-| [–](../cards/spells/–.md) | – |
+| Supnautica, Land of the Lost | Field |
+| Supnautica Reef | Continuous |
+| Supnautical Treasures | |
 
 </details>
 
