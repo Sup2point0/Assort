@@ -176,6 +176,17 @@ An archetype including the *Epic Excursion* Continuous Spells, and *Endless Excu
 ### Affine
 An archetype featuring Monsters of various Attributes and Types, harnessing all Summoning techniques.
 
+<details>
+  <summary> <b> Monsters </b> </summary>
+
+Avier Accelis, Affine Swift  
+Nerra, Affine Vitakinetic  
+Topo Tychis, Affine Felixus  
+Xeros, Affine Superior  
+Vinita Arkhelm, Affine Legend  
+
+</details>
+
 ### Aetern
 An archetype of LIGHT and DARK Galaxy Fusion and Xyz Monsters, focusing on Fusion Summoning non-combative Monsters through fusing Spell/Traps instead of Monsters, somewhat inspired by the [*Runick*](https://yugipedia.com/wiki/Runick) archetype. It has no Main Deck Monsters, even having many cards that restrict the player from Special Summoning Main Deck Monsters. The archetype includes the subarchetypes *Aeternal* and *Aeternity*, with the latter being reserved for a select few power cards.
 
@@ -204,8 +215,10 @@ Aeternal Void
 
 </details>
 
-### Supnautic
+### Supnautic
 See [*Supnautic*](../../archetypes/Supnautic.md).
+
+### Construct
 
 
 <br>
