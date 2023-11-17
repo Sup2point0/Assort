@@ -100,8 +100,6 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
 
 ## Lore
 
-> Under construction!
-
 See [*The Stranded Saga*](The%20Stranded%20Saga.md).
 
 ### Characters
@@ -154,6 +152,60 @@ Each character’s name changes slightly throughout the storyline.
 
 
 ## Overview
+
+> Since there are too many new archetypes that have not been finalised or are not yet concrete in design, they are documented here instead of their own separate file in [archetypes](../../archetypes).
+
+The archetypes of the Stranded Saga can broadly be divided into 2 halves – protagonist and antagonist – where the cards in each archetype are designed to sometimes work together within their half, and sometimes counter the opposite the other half, whether directly or indirectly. Not all cards have overlapping or synergising effects, allowing each archetype to maintain its own character, but the links and crossovers between them enables the potential of mixing them interchangeably into a single cohesive deck.
+
+### Stranded
+This synergy is mainly enabled by the central *Stranded* archetype, which connects the archetypes with its many cross-archetypal cards (like [Catastropical Island of the Stranded](...)) and multi-archetype support (like [Stranded Fusion](...)). Most of the main characters belong primarily to this archetype, and the Spell/Traps detail most of the significant events in the storyline.
+
+> See [*Stranded*](../../archetypes/Stranded.md) for more.
+
+### Excursion
+An archetype including the *Epic Excursion* Continuous Spells, and *Endless Excursion* Continuous Traps. These represent the different locations visited by the characters in the storyline.
+
+| card | supports |
+| :--- | :------- |
+| Endless Excursion into the Dreamscape | *Walker* |
+| Epic Excursion to the Catastropical Peaks | *Catastropical*
+| Epic Excursion to the Affine Lakes | *Affine* |
+| Epic Exursion to the Supnautican Depths | *Supnautic* |
+| Epic Excursion to the Ever-Shining Skies | *Delphoenix* |
+
+### Affine
+An archetype featuring Monsters of various Attributes and Types, harnessing all Summoning techniques.
+
+### Aetern
+An archetype of LIGHT and DARK Galaxy Fusion and Xyz Monsters, focusing on Fusion Summoning non-combative Monsters through fusing Spell/Traps instead of Monsters, somewhat inspired by the [*Runick*](https://yugipedia.com/wiki/Runick) archetype. It has no Main Deck Monsters, even having many cards that restrict the player from Special Summoning Main Deck Monsters. The archetype includes the subarchetypes *Aeternal* and *Aeternity*, with the latter being reserved for a select few power cards.
+
+<details>
+  <summary> <b> Monsters </b> </summary>
+
+Aeternity Aeva  
+Aeternity Aekai  
+Aeternity Aekaxin  
+Aeternity Aekaxinji  
+Primordial Aeternity  
+Timeless Aeternity  
+
+</details>
+
+<details>
+  <summary> <b> Spell/Traps </b> </summary>
+
+Aeternal Birth  
+Aeternal End  
+Aeternal Collapse  
+Aeternal Construction  
+Aeternal Rift  
+Aeternal Silence  
+Aeternal Void  
+
+</details>
+
+### Supnautic
+See [*Supnautic*](../../archetypes/Supnautic.md).
 
 
 <br>
