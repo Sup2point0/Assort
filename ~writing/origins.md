@@ -43,7 +43,7 @@
 
 ## FOREWORD
 
-*This is perhaps a rather confused piece of writing, both in style and purpose; whether this is intentional or not shall, as per tradition, be left as an exercise to the reader. I’m sure there is plenty of profound meaning and allegory intwined here amidst the ambience and ‘quasi-sarcastive ironicity’, but as the supposed writer I’m afraid I could not tell you – it is up to you what you make of it. Hopefully this brief introduction will have only confused you further and unsettled any doubts still plaguing your mind. Enjoy.*
+*This is perhaps a rather confused piece of writing, both in style and purpose; whether this is intentional or not shall, as per tradition, be left as an exercise to the reader. I’m sure there is plenty of profound meaning and allegory intwined here amidst the ambience and quasi-sarcastive ironicity, but as the supposed writer I’m afraid I could not tell you – it is up to you what you make of it. Hopefully this brief introduction will have only confused you further and unsettled any doubts still plaguing your mind. Enjoy.*
 
 
 <br>
@@ -72,8 +72,8 @@ I would like to extend my gratitude towards the following:
 
 ## FINAL THOUGHTS
 
-`2023/11/18` &ensp; I started writing this at a really terrible time.  
-`2023/11/23` &ensp; Now the time is good. We’re gonna finish this.
+`2023/11/18` I started writing this at a really terrible time.  
+`2023/11/23` Now the time is good. We’re gonna finish this.
 
 
 <br>
