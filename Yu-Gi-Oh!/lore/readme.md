@@ -1,0 +1,1 @@
+Yeah, guess I’m creating *Yu-Gi-Oh* lore now.
