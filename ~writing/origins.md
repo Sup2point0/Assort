@@ -1,7 +1,13 @@
 # *On the Origins of Sup#2.0*
 
-*Assort*. 2024 ~; 2(0): 42–69.  
-© 2024 Sup#2.0 (https://github.com/Sup2point0)
+<details>
+  <summary> <b> </b> </summary>
+
+&ensp; *Assort*. 2024 ~; origin(~writing): origins.md.  
+&ensp; © 2024 Sup#2.0 (https://github.com/Sup2point0)  
+&ensp; ACI: `20|0067iX`
+
+</details>
 
 
 <br>
@@ -44,6 +50,27 @@
 ## FOREWORD
 
 *This is perhaps a rather confused piece of writing, both in style and purpose; whether this is intentional or not shall, as per tradition, be left as an exercise to the reader. I’m sure there is plenty of profound meaning and allegory intwined here amidst the ambience and quasi-sarcastive ironicity, but as the supposed writer I’m afraid I could not tell you – it is up to you what you make of it. Hopefully this brief introduction will have only confused you further and unsettled any doubts still plaguing your mind. Enjoy.*
+
+
+<br>
+
+
+## ANALYSIS OF USERNAME STRUCTURE AND STYLES
+
+> TLDR; usernames are incredibly significant, being the main thing that defines us online, and unimaginably influencing others’ perception of us. There are a number of distinct styles of usernames that have emerged, which we will take into consideration when analysing `Sup#2.0` later on.
+
+<table>
+  <tr>
+    <th> words </th>
+    <th> capitalisation </th>
+    <th> separation </th>
+  </tr>
+  <tr>
+    <td rowspan="3"> 1 </td>
+    <td> lower <br> <code>soup</code> </td>
+    <td> </td>
+  </tr>
+</table>
 
 
 <br>
