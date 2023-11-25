@@ -24,6 +24,14 @@
     <a href="#Introduction">Introduction</a> <br>
     <a href="#Usernames">Analysis of Username Structure and Styles</a> <br>
     <a href="#Lore">The Lore Behind Sup#2.0</a> <br>
+    &emsp; <a href="#Emergence">Emergence</a> <br>
+    &emsp; <a href="#Discovery">Discovery</a> <br>
+    &emsp; <a href="#Encounter">Encounter</a> <br>
+    &emsp; <a href="##">Evolution</a> <br>
+    &emsp; <a href="##">ASIDE – Animation</a> <br>
+    &emsp; <a href="##">Exploded</a> <br>
+    &emsp; <a href="#Modernity">Modernity</a> <br>
+    &emsp; <a href="##">ASIDE – Timescale</a> <br>
     <a href="#Derivatives">A Look at Derivatives</a> <br>
     <a href="#Analysis">Pristine Perfection: Structural Analysis</a> <br>
     <a href="#Ecosystem">The Emergent Ecosystem</a> <br>
@@ -139,8 +147,8 @@ I would like to extend my gratitude towards the following:
 ## FINAL THOUGHTS
 
 `2023/11/18` I started writing this at a really terrible time.  
-`2023/11/23` Now the time is good. We’re gonna finish this.
-`2023/11/24` Damn, this just got big.
+`2023/11/23` Now the time is good. We’re gonna finish this.  
+`2023/11/24` Damn, this just got big.  
 
 
 <br>
