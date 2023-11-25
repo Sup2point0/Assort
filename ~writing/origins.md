@@ -10,9 +10,6 @@
 </details>
 
 
-<br>
-
-
 ## Contents
 
 > Tip: You can also use the outline pane (upper right on [github.com](https://github.com/Sup2point0/Assort/blob/origin/~writing/origins.md)).
