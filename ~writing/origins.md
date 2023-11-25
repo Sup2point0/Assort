@@ -5,7 +5,7 @@
 
 &ensp; *Assort*. 2024 ~; origin(~writing): origins.md.  
 &ensp; © 2024 Sup#2.0 (https://github.com/Sup2point0)  
-&ensp; ACI: `20|0067iX`
+&ensp; ACI: `20|0067iX`; CXUL: `AN.AC.?`
 
 </details>
 
@@ -22,11 +22,12 @@
     <a href="#Abstract">Abstract</a> <br>
     <a href="#Foreword">Foreword</a> <br>
     <a href="#Introduction">Introduction</a> <br>
-    <a href="#Username-Analysis">Analysis of Username Structure and Styles</a> <br>
-    <a href="##">Lore</a> <br>
-    <a href="##">Derivatives</a> <br>
-    <a href="##">Analysis of Sup#2.0</a> <br>
-    <a href="##">Alternatives</a> <br>
+    <a href="#Usernames">Analysis of Username Structure and Styles</a> <br>
+    <a href="#Lore">The Lore Behind Sup#2.0</a> <br>
+    <a href="#Derivatives">A Look at Derivatives</a> <br>
+    <a href="#Analysis">Pristine Perfection: Structural Analysis</a> <br>
+    <a href="#Ecosystem">The Emergent Ecosystem</a> <br>
+    <a href="#Alternatives">What If: Considered Alternatives</a> <br>
     <a href="#Closure">Closure</a> <br>
     <a href="#References">References</a> <br>
     <a href="#Acknowledgements">Acknowledgements</a> <br>
@@ -55,6 +56,14 @@
 <br>
 
 
+## INTRODUCTION
+
+Across the various sites and services of the internet, users are given the option to create their own ‘username’, a pseudonym much like our real names that will represent that person online. Whether this must be unique, or if it can be modified once set, depends on the platform in question. However, often in the interest of creating an online ‘identity’ or ‘persona’ – especially for those involved in the content creation, such as music artists, livestreamers, YouTubers, etc. – individuals will decide upon a username and stick to it across platforms.
+
+
+<br>
+
+
 ## ANALYSIS OF USERNAME STRUCTURE AND STYLES
 
 > TLDR; usernames are incredibly significant, being the main thing that defines us online, and unimaginably influencing others’ perception of us. There are a number of distinct styles of usernames that have emerged, which we will take into consideration when analysing `Sup#2.0` later on.
@@ -71,6 +80,36 @@
     <td> </td>
   </tr>
 </table>
+
+
+<br>
+
+
+## LORE
+
+> This section is a primary account written from a personal perspective. As a disclaimer, it may contain inaccurate, exaggerated or outright untruthful content. There is no malicious intent behind this – it is simply a result of the extraordinary length of time that has passed since the events in question. I have done my best to reconstruct the progression based on the details I am able to remember.
+
+### Emergence
+
+### Discovery
+
+### Encounter
+
+### Evolution
+
+### ASIDE – Animation
+
+### Exploded
+
+### Modernity
+
+### ASIDE – Timescale
+
+
+<br>
+
+
+## A LOOK AT DERIVATIVES
 
 
 <br>
@@ -101,6 +140,7 @@ I would like to extend my gratitude towards the following:
 
 `2023/11/18` I started writing this at a really terrible time.  
 `2023/11/23` Now the time is good. We’re gonna finish this.
+`2023/11/24` Damn, this just got big.
 
 
 <br>
