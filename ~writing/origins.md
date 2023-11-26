@@ -159,6 +159,7 @@ I would like to extend my gratitude towards the following:
 - My primary school friends who introduced me to *diep.io*.
 - Everyone who asked me where my username came from. Your constant reminding was what drove me to embark upon and actually complete this ridiculous endeavour.
 - That one player I met called ‘Sup’. None of this would’ve been possible without you. If you even exist.
+- Childhood me. You were ahead of your time, truly. I’m unbelievably lucky to have grown from you.
 
 
 <br>
@@ -169,6 +170,7 @@ I would like to extend my gratitude towards the following:
 `2023/11/18` I started writing this at a really terrible time.  
 `2023/11/23` Now the time is good. We’re gonna finish this.  
 `2023/11/24` Damn, this just got big.  
+`2023/11/25` Oh no, I just realised I could talk about my profile picture too... I think we’ll leave that for another time 0.o  
 
 
 <br>
