@@ -19,16 +19,16 @@
     <a href="#Abstract">Abstract</a> <br>
     <a href="#Foreword">Foreword</a> <br>
     <a href="#Introduction">Introduction</a> <br>
-    <a href="#Usernames">Analysis of Username Structure and Styles</a> <br>
-    <a href="#Lore">The Lore Behind Sup#2.0</a> <br>
+    <a href="#Usernames">Structure and Style in Usernames</a> <br>
+    <a href="#Lore">The Lore of Sup#2.0</a> <br>
     &emsp; <a href="#Emergence">Emergence</a> <br>
     &emsp; <a href="#Discovery">Discovery</a> <br>
     &emsp; <a href="#Encounter">Encounter</a> <br>
-    &emsp; <a href="##">Evolution</a> <br>
-    &emsp; <a href="##">ASIDE – Animation</a> <br>
+    &emsp; <a href="#Evolution">Evolution</a> <br>
+    &emsp; <a href="#Animation">ASIDE – Animation</a> <br>
     &emsp; <a href="##">Exploded</a> <br>
     &emsp; <a href="#Modernity">Modernity</a> <br>
-    &emsp; <a href="##">ASIDE – Timescale</a> <br>
+    &emsp; <a href="#Timescale">ASIDE – Timescale</a> <br>
     <a href="#Derivatives">A Look at Derivatives</a> <br>
     <a href="#Analysis">Pristine Perfection: Structural Analysis</a> <br>
     <a href="#Ecosystem">The Emergent Ecosystem</a> <br>
@@ -69,7 +69,7 @@ Across the various sites and services of the internet, users are given the optio
 <br>
 
 
-## ANALYSIS OF USERNAME STRUCTURE AND STYLES
+## STRUCTURE AND STYLE IN USERNAMES
 
 > TLDR; usernames are incredibly significant, being the main thing that defines us online, and unimaginably influencing others’ perception of us. There are a number of distinct styles of usernames that have emerged, which we will take into consideration when analysing `Sup#2.0` later on.
 
@@ -78,13 +78,34 @@ Across the various sites and services of the internet, users are given the optio
     <th> words </th>
     <th> capitalisation </th>
     <th> separation </th>
+    <th> decoration </th>
   </tr>
   <tr>
     <td rowspan="3"> 1 </td>
     <td> lower <br> <code>soup</code> </td>
-    <td> </td>
+    <td rowspan="3"> </td>
+    <td> underscore <br> <code>_soup_</code> </td>
+  </tr>
+  <tr>
+    <td> initial <br> <code>Soup</code> </td>
+    <td> hyphen <br> <code>-Soup- </td>
+  </tr>
+  <tr>
+    <td> upper <br> <code>SOUP</code> </td>
+    <td> ‘x’ <br> <code>xXSOUPXx</code> </td>
   </tr>
 </table>
+
+### Capitalisation
+
+| capitalisation | examples | critera | analysis |
+| :------------- | :------- | :------ | :------- |
+| lower | `soup`, `soupysoup` | All letters are lowercase. |
+| initial | `Soup`, `Soupysoup` | First letter is capitalised. |
+| title |`SoupySoup` | Every distinct word is capitalised. |
+| camel | `soupySoup` | Every word is capitalised, except the first. |
+| upper | `SOUP`, `SOUPYSOUP` | All letters are uppercase. | Loud, bold. Dependent on word length and choice. (Compare `ASH` and `HYPEREXPLOSION`) |
+| dynamic | `sOUP`, `sOuP`, `SoupYsouP` | Varying capitalisation, though may follow a pattern. |
 
 
 <br>
@@ -121,6 +142,8 @@ Across the various sites and services of the internet, users are given the optio
 
 
 ## CLOSURE
+
+I am incredibly lucky to have found a username that so perfectly encapsulates me, and that I love wholeheartedly even decades since its conception.
 
 
 <br>
