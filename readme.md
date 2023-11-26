@@ -1,6 +1,6 @@
 # Assort
 
-An assortment of my various creations.
+An assortment of my various creations. Feel free to have a look around!
 
 
 <br>
@@ -8,7 +8,7 @@ An assortment of my various creations.
 
 ## Portal
 
-Unsure where to start? Try checking out some of these!
+Unsure where to start?
 
 ### Folders
 📁 [affine](affine)  
@@ -22,6 +22,7 @@ Unsure where to start? Try checking out some of these!
 📁 [poetry](~poetry)  
 
 ### Files
+📂 [On the Origins on Sup#2.0](~writing/origins.md) – the lore behind Sup#2.0  
 📂 [Rubic](Yu-Gi-Oh!/archetypes/Rubic.md) – a custom *Yu-Gi-Oh!* archetype  
 📂 [koniokinetis](affine/affinitys/koniokinetis.md) – a fictional affinity  
 📂 [Ultraman Infinity](Ultraman/Ultraman%20Infinity.md) – a fictional Ultraman  
