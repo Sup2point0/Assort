@@ -33,6 +33,7 @@
     <a href="#Analysis">Pristine Perfection: Structural Analysis</a> <br>
     <a href="#Ecosystem">The Emergent Ecosystem</a> <br>
     <a href="#Alternatives">What If: Considered Alternatives</a> <br>
+    <a href="#Appendix">Appendix: Unique Usernames</a> <br>
     <a href="#Closure">Closure</a> <br>
     <a href="#References">References</a> <br>
     <a href="#Acknowledgements">Acknowledgements</a> <br>
@@ -196,11 +197,33 @@ Through a hybrid technique of introspective neural reactivation and psychochrono
 
 ## WHAT IF: CONSIDERED ALTERNATIVES
 
+A stray thought that once crossed my mind was *what if I weren’t called Sup?* This is no doubt an interesting consideration.
+
+As it happens, I proceeded to devise a list of potential usernames (for myself). It is highly unlikely that these will ever actually be used, but trying to think of them proved just how difficult it is to find a truly perfect username (for me). The ‘presentable’ candidates are listed below, and the best few are discussed in more depth.
+
+<!-- Hm. Interesting that you’re poking around in here. -->
+| username | variations |
+| :------- | :--------- |
+| `Avidity` | |
+| `CryoCrystal` | |
+| `LiterallyAwesome` | |
+| `LoneFlyingPenguin` | |
+| `LuckiestLoon` | |
+| `RailTail9` | `RailTail7` |
+| `Resplendent` | `Resplendence` |
+| `Severescence` | |
+| `SuperVescence` | `Supervescence` |
+| `Synchra` | `SynchraNaut` |
+<!-- I lied, actually. There is 1 alternative username that has been put into use – which is exactly why it’s not here. -->
+
+### Dawn
+While I personally find *Dawn* filled with personality and possibility, it is also fairly generic, definitely not unique, and a real name. Of all the alternatives, however, this is the one I have envisioned being known by the most, and in all honesty, going by ‘Dawn’ would be pretty cool.
+
 
 <br>
 
 
-## APPENDIX
+## APPENDIX: UNIQUE USERNAMES
 
 From a purely mathematical perspective, this already provides far too many unique usernames to ever come close to running out, even with character limits in place. Given a character set of size $c$ and a character limit of $n$ characters, the number of possible usernames can given by $c^{n}$. It is apparent how quickly this grows if either variable is increased, especially when both are multi-digit integers.
 
