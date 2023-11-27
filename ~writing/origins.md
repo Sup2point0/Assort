@@ -141,7 +141,7 @@ The (original) reasoning behind `Sup#2.0` can be summarised as follows:
 
 The hashtag (strictly speaking, the hash) was, quite simply, a cool character. There’s nothing else to it. I must’ve just been looking for a symbol to throw into the mix, and decided the hashtag would be cool.
 
-`2.0`, however, was originally `0.2`. See, I knew “x-point y”, where $x$ and $y$ are elements of the set ${0, 2}$ and $x\neqy$, was a technical ‘term’, and it blew the mind of my inner child. Except, I didn’t know which way round $x$ and $y$ were, and thought “0.2” looked correct – as it happens, it wasn’t. So I was skulking about as `Sup#0.2`, thinking I had a fantastic username, when I had gotten part of it embarassingly wrong.
+`2.0`, however, was originally `0.2`. See, I knew “x-point y”, where $x$ and $y$ are elements of the set $\set{0, 2}$ and $x\neq{y}$, was a technical ‘term’, and it blew the mind of my inner child. Except, I didn’t know which way round $x$ and $y$ were, and thought “0.2” looked correct – as it happens, it wasn’t. So I was skulking about as `Sup#0.2`, thinking I had a fantastic username, when I had gotten part of it embarassingly wrong.
 
 It took us working with [LEGO WeDo 2.0](https://education.lego.com/products/lego-education-wedo-2-0-core-set/45300/) at school for me to realise the technical part I wanted to add should have been “2.0”, not “0.2”. Immediately, I updated it to its purest form today – `Sup#2.0`.
 
