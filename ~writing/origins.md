@@ -83,29 +83,38 @@ Several of these structures can be decomposed into combinations and variations o
 <table>
   <tr>
     <th> words </th>
-    <th> capitalisation </th>
-    <th> separation </th>
-    <th> decoration </th>
+    <th colspan="2"> capitalisation </th>
+    <th colspan="2"> separation </th>
+    <th colspan="2"> decoration </th>
   </tr>
   <tr>
     <td rowspan="3"> 1 </td>
-    <td> lower <br> <code>soup</code> </td>
-    <td rowspan="3"> </td>
-    <td> underscore <br> <code>_soup_</code> </td>
+    <td> lower </td>
+    <td> <code>soup</code> </td>
+    <td colspan="2" rowspan="3"> </td>
+    <td> underscore </td>
+    <td> <code>_soup_</code> </td>
   </tr>
   <tr>
-    <td> initial <br> <code>Soup</code> </td>
-    <td> hyphen <br> <code>-Soup- </td>
+    <td> initial </td>
+    <td> <code>Soup</code> </td>
+    <td> hyphen </td>
+    <td> <code>-Soup-</code> </td>
   </tr>
   <tr>
-    <td> upper <br> <code>SOUP</code> </td>
-    <td> ‘x’ <br> <code>xXSOUPXx</code> </td>
+    <td> upper </td>
+    <td> <code>SOUP</code> </td>
+    <td> ‘x’ </td>
+    <td> <code>xXSOUPXx</code> </td>
   </tr>
   <tr>
     <td rowspan="6"> 2 </td>
-    <td> lower <br> <code>soupysoup</code> </td>
-    <td> none <br> <code>soupysoup</code> </td>
-    <td> underscore <br> <code>_soupysoup_</code> </td>
+    <td> lower </td>
+    <td> <code>soupysoup</code> </td>
+    <td> none </td>
+    <td> <code>soupysoup</code> </td>
+    <td> underscore </td>
+    <td> <code>_soupysoup_</code> </td>
   </tr>
   <tr>
     <td> initial <br> <code>Soupysoup</code> </td>
