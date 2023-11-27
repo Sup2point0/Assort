@@ -74,6 +74,12 @@ Across the various sites and services of the internet, users are given the optio
 
 > TLDR; usernames are incredibly significant, being the main thing that defines us online, and unimaginably influencing others’ perception of us. There are a number of distinct styles of usernames that have emerged, which we will take into consideration when analysing `Sup#2.0` later on.
 
+Usernames are represented as strings of characters. At the very least, this includes the 26 letters of the English alphabet, and usually the 10 arabic numerals too. Most platforms will also keep capitalisation, and some allow non-alphanumeric characters, such as hyphens and underscores.
+
+With users striving to create unique, memorable and ‘cool’ usernames, a number of distinct styles or formats have emerged – structures or patterns that many usernames follow, involving features such as word choice, capitalisation, and symbol usage. These give them a particular ‘flavour’ or ‘vibe’ that can be difficult to put into words. Next, we explore these styles, and endeavour to characterise the impressions they give.
+
+Several of these structures can be decomposed into combinations and variations of different features. We illustrate them here to demonstrate their existence, but will not discuss every possibility, instead focusing on just the individual feature
+
 <table>
   <tr>
     <th> words </th>
@@ -98,6 +104,9 @@ Across the various sites and services of the internet, users are given the optio
 </table>
 
 ### Capitalisation
+A hallmark of ‘online’ text is freedom of capitalisation. As mentioned earlier, however, not all platforms are case-sensitive, which can – and often does – ruin usernames that utilise it.
+
+Capitalisation is one of the core factors affecting the feeling of a username. We identify the following styles with disinct criteria for each. Note that the analysis of their effect may lack objectivity and context, and is only a generalisation.
 
 | capitalisation | examples | critera | analysis |
 | :------------- | :------- | :------ | :------- |
@@ -156,7 +165,7 @@ The *iXPLODE* fanbase also had a slightly different tradition. *iXPLODE* would n
 
 Despite at first having scoffed at .io games players who added clan tags for their pretentiousness, eventually I decided I wanted to show my attachment to *iXPLODE* too. Nevertheless, I did not want to erase my identity entirely, so I used `iX` as a prefix – hence my .io games username unlocked its final evolution: `[iX] Sup#2.0`. Looking upon this form of the username always brings a pang of nostalgia to my heart.
 
-`iX` is a wonderfully simple abbreviation of `IXPLODE`, but impressively manages to retain personality and elegance (as per what was previously discussed in [Username Structure and Styles](#Usernames)). I have always found `[iX]` to be a rather non-disruptive tag, and enjoy how the `i` slots comfortably into the `X` with the square brackets wrapping firmly around – of course, I am biased, but these still stand. Above all, its shortness and simplicity lends itself extremely well to being a tag, unlike others such as `[MasterOv]` and `[...]`, which often end up dominating the usernames they affix. `[iX]` complements `Sup#2.0` nicely, adding even more flavour with the brackets, capitalisation and unique characters.
+`iX` is a wonderfully simple abbreviation of `iXPLODE`, but impressively manages to retain personality and elegance (as per what was previously discussed in [Username Structure and Styles](#Usernames)). I have always found `[iX]` to be a rather non-disruptive tag, and enjoy how the `i` slots comfortably into the `X` with the square brackets wrapping firmly around – of course, I am biased, but these still stand. Above all, its shortness and simplicity lends itself extremely well to being a tag, unlike others such as `[MasterOv]` and `[...]`, which often end up dominating the usernames they affix. `[iX]` complements `Sup#2.0` nicely, adding even more flavour with the brackets, capitalisation and unique characters.
 
 ### Modernity
 Inevitably, I fell out of .io games, and with it, dropped the `[iX]` tag. This takes us to the present, where `Sup#2.0` is firmly here to stay. Although, with the increase in the number of sites I have created accounts on, many of which have different username allowances, `Sup#2.0` is actually rarely seen as my username – rather, `Sup2point0` has become far more ubiquitous. We will expand further upon this in [A Look at Derivatives](#Derivatives).
