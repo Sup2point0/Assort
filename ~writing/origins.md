@@ -26,7 +26,7 @@
     &emsp; <a href="#Encounter">Encounter</a> <br>
     &emsp; <a href="#Evolution">Evolution</a> <br>
     &emsp; <a href="#Animation">ASIDE – Animation</a> <br>
-    &emsp; <a href="##">Exploded</a> <br>
+    &emsp; <a href="#Confirmity">Conformity</a> <br>
     &emsp; <a href="#Modernity">Modernity</a> <br>
     &emsp; <a href="#Timescale">ASIDE – Timescale</a> <br>
     <a href="#Derivatives">A Look at Derivatives</a> <br>
@@ -116,20 +116,61 @@ Across the various sites and services of the internet, users are given the optio
 > This section is a primary account written from a personal perspective. As a disclaimer, it may contain inaccurate, exaggerated or outright untruthful content. There is no malicious intent behind this – it is simply a result of the extraordinary length of time that has passed since the events in question. I have done my best to reconstruct the progression based on the details I am able to remember.
 
 ### Emergence
+As a child I did not have much interaction with the internet – electronics, certainly, but my online presence came much later.
+
+The first occasion where I found myself requiring a username was when I played [*diep.io*](https://diep.io) for the first time. This is one of many iconic *.io games*, which formed an unforgettable part of my childhood. In diep.io, the goal is to control a tank and attack other players, defeating them to increase your score and unlock upgrades. Naturally, a username would be desirable here, to leave an impression upon your opponents’ minds as they fall under your might, or – more likely – making a name for yourself in the hopes that other players may someday recognise you.
+
+I suspect I may have played as an unnamed tank at first, which is indeed an option diep.io and many other .io games offer (very rarely would other platforms allow this, for evident reasons). In-game, this leaves the space above a player’s tank empty, where their username would otherwise be displayed, and in death screens or notifications, they are simply referred to as “an unnamed tank”. The only other username I can recall using is `KILLER`, though this is concerningly dubious. Soon it occurred to me that I should decide upon a permanent username to be known as.
 
 ### Discovery
+If I recall correctly, I first heard of the word “sup” from my childhood friends. Though very much faded, I can still feel some twinge of... envy, perhaps? – in all honesty, I cannot remember – but there was certainly a feeling. I was never one to keep up with slang (this is still somewhat the case today [^slinqui]) and that word just fascinated me for some reason. As to how I learnt the word from my friends, and the context in which they used it, those have been lost to time; the obvious would be them using it as a greeting, but I feel like this wasn’t the case.
+
+And so, when it came to devising a username for myself, I settled on `Sup` (capitalisation unknown). This is, exactly, the origin of my username – a cool word I heard from my friends as an innocent child who felt mildly left out. I could not tell you if I planned on this staying with me forever, but that quiet kid who strays from mainstream, and does their own thing? He’s still here, and I hope he stays with me forever.
 
 ### Encounter
+I was happy with “Sup” for a while. I cannot remember the feeling, but I know I would’ve loved the username. I can almost imagine the intense pride and sense of uniqueness I must’ve felt at the time.
+
+This next part is probably the most questionable detail in this entire story, and at this point I’m conflicted as to whether it is actually true or just a fabrication of my mind that I’ve managed to trick (almost ‘doublethink’ [^1984]) myself into believing.
+
+One day, I happened to come across another player called “Sup” (again, capitalisation unknown). Now this, was unacceptable. My username absolutely had to be unique. I had never considered that someone else might think of using the same username of “Sup”, and this revelation shook me greatly. Immediately I began considering what I could change it too. I settled on keeping `Sup`, but adding more to it. This ended up being `#2.0`.
 
 ### Evolution
+The (original) reasoning behind `Sup#2.0` can be summarised as follows:
+> *It seemed cool.*
+
+The hashtag (strictly speaking, the hash) was, quite simply, a cool character. There’s nothing else to it. I must’ve just been looking for a symbol to throw into the mix, and decided the hashtag would be cool.
+
+`2.0`, however, was originally `0.2`. See, I knew “x-point y”, where $x$ and $y$ are elements of the set ${0, 2}$ and $x\neqy$, was a technical ‘term’, and it blew the mind of my inner child. Except, I didn’t know which way round $x$ and $y$ were, and thought “0.2” looked correct – as it happens, it wasn’t. So I was skulking about as `Sup#0.2`, thinking I had a fantastic username, when I had gotten part of it embarassingly wrong.
+
+It took us working with [LEGO WeDo 2.0](https://education.lego.com/products/lego-education-wedo-2-0-core-set/45300/) at school for me to realise the technical part I wanted to add should have been “2.0”, not “0.2”. Immediately, I updated it to its purest form today – `Sup#2.0`.
 
 ### ASIDE – Animation
 
-### Exploded
+### Conformity
+Being into .io games, especially diep.io, I would watch other people play on YouTube. There was no one I enjoyed more than *iXPLODE* [^iX], who I remained a dedicated viewer of for years. He [^gender] did end up, unfortunately, being corrupted by [*Fortnite*](...)’s surge in popularity, and stopped making .io games content; however, his old videos can still be found on his channel. [^]
+
+In the .io games community there existed ‘clans’, generally named after popular .io games YouTubers (`TheLegendMasterOv` was especially prominent. [^stats]). It is unclear whether these were intentionally created by those YouTubers themselves, or unofficially started by loyal fans. Note that these had no intrinsic functionality in-game, but had other emergent effects, such as friendship, rivalry, teaming, and ultimately, promotion for the YouTuber. Players, if they so chose to do so, would denote the clan they belonged to with a ‘tag’ before their name, resulting in `[clan] username`.
+
+The *iXPLODE* fanbase also had a slightly different tradition. *iXPLODE* would name himself `iX` while playing [^], and his fans followed suit. (It is also possible fans started naming themselves `iX` as an abbreviation of `iXPLODE`, and *iXPLODE* picked up on this; it is unclear which happened first) This had the effect of allowing any player named `iX` to become essentially anonymous, which *iXPLODE* started doing to avoid the hassle of unwanted arguments (in .io games where chat was available) and targeting (i.e. purposefully chasing after recognised players). [^]
+
+Despite at first having scoffed at .io games players who added clan tags for their pretentiousness, eventually I decided I wanted to show my attachment to *iXPLODE* too. Nevertheless, I did not want to erase my identity entirely, so I used `iX` as a prefix – hence my .io games username unlocked its final evolution: `[iX] Sup#2.0`. Looking upon this form of the username always brings a pang of nostalgia to my heart.
+
+`iX` is a wonderfully simple abbreviation of `IXPLODE`, but impressively manages to retain personality and elegance (as per what was previously discussed in [Username Structure and Styles](#Usernames)). I have always found `[iX]` to be a rather non-disruptive tag, and enjoy how the `i` slots comfortably into the `X` with the square brackets wrapping firmly around – of course, I am biased, but these still stand. Above all, its shortness and simplicity lends itself extremely well to being a tag, unlike others such as `[MasterOv]` and `[...]`, which often end up dominating the usernames they affix. `[iX]` complements `Sup#2.0` nicely, adding even more flavour with the brackets, capitalisation and unique characters.
 
 ### Modernity
+Inevitably, I fell out of .io games, and with it, dropped the `[iX]` tag. This takes us to the present, where `Sup#2.0` is firmly here to stay. Although, with the increase in the number of sites I have created accounts on, many of which have different username allowances, `Sup#2.0` is actually rarely seen as my username – rather, `Sup2point0` has become far more ubiquitous. We will expand further upon this in [A Look at Derivatives](#Derivatives).
 
 ### ASIDE – Timescale
+While the chronological progression of events was straightforward to recall, pinpointing when they occurred was not.
+
+Through a hybrid technique of introspective neural reactivation and psychochronological meta-analysis, we can (approximately) deduce the following.
+
+- `Sup` emerged as early as 2014, and likely no later than 2016.
+- `Sup#0.2` has a significant probability of having arisen in late 2016 to early 2017, possibly earlier.
+- The amendment to `Sup#2.0` would have occurred not too long after, but still a considerable duration (in the range of days to a few months).
+- Much uncertainty surrounds when `[iX]` was added, but it would have occurred between shortly after `Sup#0.2` and not too long after `Sup#2.0`.
+- I believe `[iX] Sup#2.0` was the variation of the username in use for the longest, though this way have been warped by perception.
+- `Sup2point0` was first used in 2017 or 2018.
 
 
 <br>
@@ -154,6 +195,18 @@ Across the various sites and services of the internet, users are given the optio
 
 
 ## WHAT IF: CONSIDERED ALTERNATIVES
+
+
+<br>
+
+
+## APPENDIX
+
+From a purely mathematical perspective, this already provides far too many unique usernames to ever come close to running out, even with character limits in place. Given a character set of size $c$ and a character limit of $n$ characters, the number of possible usernames can given by $c^{n}$. It is apparent how quickly this grows if either variable is increased, especially when both are multi-digit integers.
+
+With capitalisation, we take the character set to have 36 characters; including capitalisation, this expands to 52 characters. Including all of the characters that are indicated on a standard QWERTY keyboard (ignoring unprinted or unindicated keyboard combinations), we reach ? characters. The following graph demonstrates the growth in possible usernames as the character limit increases for fixed character set sizes.
+
+![logscale graph of unique usernames with respect to character limit](...)
 
 
 <br>
