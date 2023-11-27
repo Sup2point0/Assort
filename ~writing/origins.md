@@ -70,11 +70,11 @@ Across the various sites and services of the internet, users are given the optio
 <br>
 
 
-## STRUCTURE AND STYLE IN USERNAMES
+<h2 name="Usernames"> STRUCTURE AND STYLE IN USERNAMES </h2>
 
 > TLDR; usernames are incredibly significant, being the main thing that defines us online, and unimaginably influencing others’ perception of us. There are a number of distinct styles of usernames that have emerged, which we will take into consideration when analysing `Sup#2.0` later on.
 
-Usernames are represented as strings of characters. At the very least, this includes the 26 letters of the English alphabet, and usually the 10 arabic numerals too. Most platforms will also keep capitalisation, and some allow non-alphanumeric characters, such as hyphens and underscores.
+Usernames are represented as strings of characters. At the very least, this includes the 26 letters of the English alphabet, and usually the 10 arabic numerals too. Most platforms will also keep capitalisation, and some allow non-alphanumeric characters, such as hyphens and underscores. We discuss how these affect possible usernames in the [Appendix](#Appendix).
 
 With users striving to create unique, memorable and ‘cool’ usernames, a number of distinct styles or formats have emerged – structures or patterns that many usernames follow, involving features such as word choice, capitalisation, and symbol usage. These give them a particular ‘flavour’ or ‘vibe’ that can be difficult to put into words. Next, we explore these styles, and endeavour to characterise the impressions they give.
 
@@ -154,7 +154,7 @@ The hashtag (strictly speaking, the hash) was, quite simply, a cool character. T
 
 It took us working with [LEGO WeDo 2.0](https://education.lego.com/products/lego-education-wedo-2-0-core-set/45300/) at school for me to realise the technical part I wanted to add should have been “2.0”, not “0.2”. Immediately, I updated it to its purest form today – `Sup#2.0`.
 
-### ASIDE – Animation
+<h3 name="Animation"> ASIDE – Animation </h3>
 
 ### Conformity
 Being into .io games, especially diep.io, I would watch other people play on YouTube. There was no one I enjoyed more than *iXPLODE* [^iX], who I remained a dedicated viewer of for years. He [^gender] did end up, unfortunately, being corrupted by [*Fortnite*](...)’s surge in popularity, and stopped making .io games content; however, his old videos can still be found on his channel. [^]
@@ -170,7 +170,7 @@ Despite at first having scoffed at .io games players who added clan tags for the
 ### Modernity
 Inevitably, I fell out of .io games, and with it, dropped the `[iX]` tag. This takes us to the present, where `Sup#2.0` is firmly here to stay. Although, with the increase in the number of sites I have created accounts on, many of which have different username allowances, `Sup#2.0` is actually rarely seen as my username – rather, `Sup2point0` has become far more ubiquitous. We will expand further upon this in [A Look at Derivatives](#Derivatives).
 
-### ASIDE – Timescale
+<h3 name="Timescale"> ASIDE – Timescale </h3>
 While the chronological progression of events was straightforward to recall, pinpointing when they occurred was not.
 
 Through a hybrid technique of introspective neural reactivation and psychochronological meta-analysis, we can (approximately) deduce the following.
@@ -186,25 +186,25 @@ Through a hybrid technique of introspective neural reactivation and psychochrono
 <br>
 
 
-## A LOOK AT DERIVATIVES
+<h2 name="Derivatives"> A LOOK AT DERIVATIVES </h2>
 
 
 <br>
 
 
-## PRISTINE PERFECTION: STRUCTURAL ANALYSIS
+<h2 name="Analysis"> PRISTINE PERFECTION: STRUCTURAL ANALYSIS </h2>
 
 
 <br>
 
 
-## THE EMERGENT ECOSYSTEM
+<h2 name="Ecosystem"> THE EMERGENT ECOSYSTEM </h2>
 
 
 <br>
 
 
-## WHAT IF: CONSIDERED ALTERNATIVES
+<h2 name="Alternatives"> WHAT IF: CONSIDERED ALTERNATIVES </h2>
 
 A stray thought that once crossed my mind was *what if I weren’t called Sup?* This is no doubt an interesting consideration.
 
@@ -232,7 +232,9 @@ While I personally find *Dawn* filled with personality and possibility, it is al
 <br>
 
 
-## APPENDIX: UNIQUE USERNAMES
+<h2 name="Appendix"> APPENDIX: UNIQUE USERNAMES </h2>
+
+Previously before analysing username styles we mentioned 
 
 From a purely mathematical perspective, this already provides far too many unique usernames to ever come close to running out, even with character limits in place. Given a character set of size $c$ and a character limit of $n$ characters, the number of possible usernames can given by $c^{n}$. It is apparent how quickly this grows if either variable is increased, especially when both are multi-digit integers.
 
@@ -260,7 +262,7 @@ I am incredibly lucky to have found a username that so perfectly encapsulates me
 
 ## ACKNOWLEDGEMENTS
 
-Written, researched and recalled by Sup#2.0 ([@Sup2point0](https://github.com/Sup2point0)), November 2023 – ? 2024.
+Written, researched and recalled entirely by Sup#2.0 ([@Sup2point0](https://github.com/Sup2point0)), November 2023 – ? 2024.
 
 I would like to extend my gratitude towards the following:
 
