@@ -72,9 +72,9 @@ Across the various sites and services of the internet, users are given the optio
 
 <h2 name="Usernames"> STRUCTURE AND STYLE IN USERNAMES </h2>
 
-> TLDR; usernames are incredibly significant, being the main thing that defines us online, and unimaginably influencing others’ perception of us. There are a number of distinct styles of usernames that have emerged, which we will take into consideration when analysing `Sup#2.0` later on.
+> TLDR; usernames are incredibly significant, being the main thing that defines us online, and unimaginably influencing others’ perception of us. There are a number of distinct styles of usernames that have emerged, which we will take into consideration when analysing `Sup#2.0` later on (see [Structural Analysis](#Analysis)).
 
-Usernames are represented as strings of characters. At the very least, this includes the 26 letters of the English alphabet, and usually the 10 arabic numerals too. Most platforms will also keep capitalisation, and some allow non-alphanumeric characters, such as hyphens and underscores. We discuss how these affect possible usernames in the [Appendix](#Appendix).
+Usernames are represented as strings of characters. At the very least, this includes the 26 letters of the English alphabet, and usually the 10 arabic numerals too. Most platforms will also keep capitalisation, and some allow non-alphanumeric characters, such as hyphens and underscores. We discuss how these affect possible usernames in [Appendix](#Appendix).
 
 With users striving to create unique, memorable and ‘cool’ usernames, a number of distinct styles or formats have emerged – structures or patterns that many usernames follow, involving features such as word choice, capitalisation, and symbol usage. These give them a particular ‘flavour’ or ‘vibe’ that can be difficult to put into words. Next, we explore these styles, and endeavour to characterise the impressions they give.
 
@@ -100,6 +100,37 @@ Several of these structures can be decomposed into combinations and variations o
   <tr>
     <td> upper <br> <code>SOUP</code> </td>
     <td> ‘x’ <br> <code>xXSOUPXx</code> </td>
+  </tr>
+  <tr>
+    <td rowspan="6"> 2 </td>
+    <td> lower <br> <code>soupysoup</code> </td>
+    <td> none <br> <code>soupysoup</code> </td>
+    <td> underscore <br> <code>_soupysoup_</code> </td>
+  </tr>
+  <tr>
+    <td> initial <br> <code>Soupysoup</code> </td>
+    <td> space <br> <code>Soupy soup</code> </td>
+    <td> hyphen <br> <code>-Soupysoup- </td>
+  </tr>
+  <tr>
+    <td> title <br> <code>SoupySoup</code> </td>
+    <td> underscore <br> <code>Soupy_Soup</code> </td>
+    <td> <br> <code></code> </td>
+  </tr>
+  <tr>
+    <td> camel <br> <code>soupySoup</code> </td>
+    <td> hyphen <br> <code>soupy-Soup</code> </td>
+    <td> <br> <code></code> </td>
+  </tr>
+  <tr>
+    <td> upper <br> <code>SOUPYSOUP</code> </td>
+    <td> </td>
+    <td> <br> <code></code> </td>
+  </tr>
+  <tr>
+    <td> dynamic <br> <code>sOuPySoUp</code> </td>
+    <td> </td>
+    <td> <br> <code></code> </td>
   </tr>
 </table>
 
