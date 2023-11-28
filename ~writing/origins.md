@@ -36,6 +36,7 @@
     <a href="#Appendix">Appendix: Unique Usernames</a> <br>
     <a href="#Closure">Closure</a> <br>
     <a href="#References">References</a> <br>
+    <a href="#Footnotes">Footnotes</a> <br>
     <a href="#Acknowledgements">Acknowledgements</a> <br>
     <a href="#Final-Thoughts">Final Thoughts</a> <br>
     <a href="#Further-Reading">Further Reading</a> <br>
@@ -72,7 +73,7 @@ Across the various sites and services of the internet, users are given the optio
 
 <h2 name="Usernames"> STRUCTURE AND STYLE IN USERNAMES </h2>
 
-> TLDR; usernames are incredibly significant, being the main thing that defines us online, and unimaginably influencing others’ perception of us. There are a number of distinct styles of usernames that have emerged, which we will take into consideration when analysing `Sup#2.0` later on (see [Structural Analysis](#Analysis)).
+> TLDR; a number of distinct styles of usernames have emerged, dependent on several features which we will take into consideration when analysing `Sup#2.0` later on.
 
 Usernames are represented as strings of characters. At the very least, this includes the 26 letters of the English alphabet, and usually the 10 arabic numerals too. Most platforms will also keep capitalisation, and some allow non-alphanumeric characters, such as hyphens and underscores. We discuss how these affect possible usernames in [Appendix](#Appendix).
 
@@ -234,6 +235,49 @@ Through a hybrid technique of introspective neural reactivation and psychochrono
 
 <h2 name="Analysis"> PRISTINE PERFECTION: STRUCTURAL ANALYSIS </h2>
 
+This username has sparked the creation of many idiosyncrasies, archetypes and inside jokes. Explaining them may be like dissecting a frog [^frog], so proceed at your own risk.
+
+> TLDR; a lot of the things I say, write, name and use are related in some way to the username `Sup#2.0`.
+
+### Salutations!
+“sup” (lowercase) has become, without a doubt, my go-to and absolute favourite greeting. It acts as both a greeting and conversation starter, can be taken to mean either, and sets an informal and fun tone. The latter is also why the lowercase here is important. Friends of mine may recount instances where I accidentally send a capitalised `Sup`, and immediately correct it with `*sup` – which might appear rather questionable, but is absolutely vital. [^sauce: trust bro]
+
+“suppety sup” (pronounced `/ˌsʌpətiˈsʌp/`) is sparingly used as a playful and cuter variant.
+
+Figure 1 illustrates my usage of various greetings in conversations with friends online.
+
+[ Greetings Census Distribution | Data collected and totalled across several personal {Disc} chats and servers. ]
+
+Focusing on a singular chat with ? messages from me.
+
+[ Greetings Sample Distribution | Data collected from personal chats across various platforms with the same friend. ]
+
+> The data in these figures is from December 2023, and will become steadily out of date; however, the relationship they illustrate remains the same.
+
+### Soup?
+Perhaps the one word my usage of confuses people most is “soup”. [^confusion]
+
+I’ve taken quite a liking to this meaning, and have used it ever since. While “soup” has the literal meaning of ‘soup’ one drinks [^soup], “soup” (`/suːp/`) can also be heard as a playful corruption of “sup” (`/sʌp/`), where the rounding of the mouth changes the `ʌ` to `uː`.
+
+### Sups~
+A quintessential saying of mine is as follows:
+
+> sup sup’s sups sup sup’s sup sup sup’s sup sups
+
+Contrary to popular belief, this ‘sentence’ not only makes sense, but holds meaning and purpose.
+
+> WARNING: Spoilers ahead. Proceed at your own peril.
+
+First, to identify its inherent structure and distinct constituents, we fragment the phrase and add punctuation as follows.
+
+> (sup), (sup’s sups) (s’up) (sup’s sup), (sup sup’s sup sups)
+
+Despite all sounding identical, each word encapsulates its own meaning. When spoken, this can be brought out through tone and stress.
+
+Finally, let us now translate it.
+
+> sup, Sup’s sups who’re up Sup’s sup, sip on Sup’s superior sups!
+
 
 <br>
 
@@ -300,15 +344,27 @@ I am incredibly lucky to have found a username that so perfectly encapsulates me
 <br>
 
 
+## FOOTNOTES
+
+
+<br>
+
+
 ## ACKNOWLEDGEMENTS
 
-Written, researched and recalled entirely by Sup#2.0 ([@Sup2point0](https://github.com/Sup2point0)), November 2023 – ? 2024.
+- Written, researched and recalled entirely by Sup#2.0 ([@Sup2point0](https://github.com/Sup2point0)), November 2023 – ? 2024.
+- Figures created in Microsoft PowerPoint 2016 (Offline) for Windows 10.
+- IPA characters typed using [ipa.typeit.org](https://ipa.typeit.org).
 
 I would like to extend my gratitude towards the following:
 
 - The creators of [*diep.io*](https://diep.io).
 - My primary school friends who introduced me to *diep.io*.
+- *iXPLODE*, for being part of my childhood.
+- *wbangca*, you played a small, but probably vital part.
 - Everyone who asked me where my username came from. Your constant reminding was what drove me to embark upon and actually complete this ridiculous endeavour.
+- Markdown, for providing such a wonderful format to write this in.
+- GitHub, for providing such a fantastic platform to host this on.
 - That one player I met called ‘Sup’. None of this would’ve been possible without you. If you even exist.
 - Childhood me. You were ahead of your time, truly. I’m unbelievably lucky to have grown from you.
 
@@ -322,6 +378,7 @@ I would like to extend my gratitude towards the following:
 `2023/11/23` Now the time is good. We’re gonna finish this.  
 `2023/11/24` Damn, this just got big.  
 `2023/11/25` Oh no, I just realised I could talk about my profile picture too... I think we’ll leave that for another time 0.o  
+`2023/11/27` Should I just write an autobiography at this point?  
 
 
 <br>
