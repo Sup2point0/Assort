@@ -81,7 +81,6 @@ Usernames are represented as strings of characters. At the very least, this incl
 
 With users striving to create unique, distinct and ultimately ‘cool’ <!-- this is subjective, ofc --> usernames, a number of distinct styles or formats have emerged – structures or patterns that many usernames follow, involving features such as word choice, capitalisation, and symbol usage. These give them a particular ‘flavour’ or ‘vibe’ that can be difficult to put into words. Several of these structures can be decomposed into combinations and variations of different features, yet may not always be the sum of its parts; as always, context and nuance is paramount. We will explore these features and endeavour to characterise the general impressions they tend to leave.
 
-<!-- TODO -->
 <table>
   <tr>
     <th> words </th>
@@ -119,29 +118,42 @@ With users striving to create unique, distinct and ultimately ‘cool’ <!-- th
     <td> <code>_soupysoup_</code> </td>
   </tr>
   <tr>
-    <td> initial <br> <code>Soupysoup</code> </td>
-    <td> space <br> <code>Soupy soup</code> </td>
-    <td> hyphen <br> <code>-Soupysoup- </td>
+    <td> initial </td>
+    <td> <code>Soupysoup</code> </td>
+    <td> space </td>
+    <td> <code>Soupy soup</code> </td>
+    <td> hyphen </td>
+    <td> <code>-Soupysoup- </td>
   </tr>
   <tr>
-    <td> title <br> <code>SoupySoup</code> </td>
-    <td> underscore <br> <code>Soupy_Soup</code> </td>
-    <td> <br> <code></code> </td>
+    <td> title </td>
+    <td> <code>SoupySoup</code> </td>
+    <td> underscore </td>
+    <td> <code>Soupy_Soup</code> </td>
+    <td> ‘x’ </td>
+    <td> <code>xXSoupySoupXx</code> </td>
   </tr>
   <tr>
-    <td> camel <br> <code>soupySoup</code> </td>
-    <td> hyphen <br> <code>soupy-Soup</code> </td>
-    <td> <br> <code></code> </td>
-  </tr>
-  <tr>
-    <td> upper <br> <code>SOUPYSOUP</code> </td>
+    <td> camel </td>
+    <td> <code>soupySoup</code> </td>
+    <td> hyphen </td>
+    <td> <code>soupy-Soup</code> </td>
     <td> </td>
-    <td> <br> <code></code> </td>
+    <td> <code></code> </td>
   </tr>
   <tr>
-    <td> dynamic <br> <code>sOuPySoUp</code> </td>
+    <td> upper </td>
+    <td> <code>SOUPYSOUP</code> </td>
     <td> </td>
-    <td> <br> <code></code> </td>
+    <td> </td>
+    <td> <code></code> </td>
+  </tr>
+  <tr>
+    <td> dynamic </td>
+    <td> <code>sOuPySoUp</code> </td>
+    <td> </td>
+    <td> </td>
+    <td> <code></code> </td>
   </tr>
 </table>
 
