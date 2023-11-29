@@ -77,10 +77,11 @@ Some platforms (such as [YouTube](https://youtube.com) and [Discord](https://dis
 
 > TLDR; a number of distinct styles of usernames have emerged, dependent on several features which we will take into consideration when analysing `Sup#2.0` later on.
 
-Usernames are represented as strings of characters. At the very least, this includes the 26 letters of the English alphabet, and almost always the 10 arabic numerals too. Most platforms will also keep capitalisation (though not all, particularly in identifying usernames), and some allow non-alphanumeric characters, such as hyphens and underscores. This, perhaps expectedly, is sufficient for an incredible number of username possibilities. (We expand upon this in [Appendix].)
+Usernames are represented as strings of characters. At the very least, this includes the 26 letters of the English alphabet, and almost always the 10 arabic numerals too. Most platforms will also keep capitalisation (though not all, particularly in identifying usernames), and some allow non-alphanumeric characters, such as hyphens and underscores. This, perhaps expectedly, is sufficient for an incredible number of username possibilities. (We expand upon this in [Appendix](#Appendix).)
 
-With users striving to create unique, distinct and ultimately ‘cool’ [^subjective] usernames, a number of distinct styles or formats have emerged – structures or patterns that many usernames follow, involving features such as word choice, capitalisation, and symbol usage. These give them a particular ‘flavour’ or ‘vibe’ that can be difficult to put into words. Several of these structures can be decomposed into combinations and variations of different features, yet may not always be the sum of its parts; as always, context and nuance is paramount. We will explore these features and endeavour to characterise the general impressions they tend to leave.
+With users striving to create unique, distinct and ultimately ‘cool’ <!-- this is subjective, ofc --> usernames, a number of distinct styles or formats have emerged – structures or patterns that many usernames follow, involving features such as word choice, capitalisation, and symbol usage. These give them a particular ‘flavour’ or ‘vibe’ that can be difficult to put into words. Several of these structures can be decomposed into combinations and variations of different features, yet may not always be the sum of its parts; as always, context and nuance is paramount. We will explore these features and endeavour to characterise the general impressions they tend to leave.
 
+<!-- TODO -->
 <table>
   <tr>
     <th> words </th>
@@ -198,15 +199,15 @@ It took us working with [LEGO WeDo 2.0](https://education.lego.com/products/lego
 <h3 name="Animation"> ASIDE – Animation </h3>
 
 ### Conformity
-Being into .io games, especially diep.io, I would watch other people play on YouTube. There was no one I enjoyed more than *iXPLODE* [^iX], who I remained a dedicated viewer of for years. He [^gender] did end up, unfortunately, being corrupted by [*Fortnite*](...)’s surge in popularity, and stopped making .io games content; however, his old videos can still be found on his channel. [^]
+Being into .io games, especially diep.io, I would watch other people play on YouTube. There was no one I enjoyed more than [*iXPLODE*](https://youtube.com/@iXPLODE), who I remained a dedicated viewer of for years. He [^gender] did end up, unfortunately, being corrupted by [*Fortnite*](...)’s surge in popularity, and stopped making .io games content; however, his old videos can still be found on his channel. [^]
 
 In the .io games community there existed ‘clans’, generally named after popular .io games YouTubers (`TheLegendMasterOv` was especially prominent. [^stats]). It is unclear whether these were intentionally created by those YouTubers themselves, or unofficially started by loyal fans. Note that these had no intrinsic functionality in-game, but had other emergent effects, such as friendship, rivalry, teaming, and ultimately, promotion for the YouTuber. Players, if they so chose to do so, would denote the clan they belonged to with a ‘tag’ before their name, resulting in `[clan] username`.
 
-The *iXPLODE* fanbase also had a slightly different tradition. *iXPLODE* would name himself `iX` while playing [^], and his fans followed suit. (It is also possible fans started naming themselves `iX` as an abbreviation of `iXPLODE`, and *iXPLODE* picked up on this; it is unclear which happened first) This had the effect of allowing any player named `iX` to become essentially anonymous, which *iXPLODE* started doing to avoid the hassle of unwanted arguments (in .io games where chat was available) and targeting (i.e. purposefully chasing after recognised players). [^]
+The *iXPLODE* fanbase also had a slightly different tradition. *iXPLODE* would name himself `iX` while playing [^], and his fans followed suit. (It is also possible fans started naming themselves `iX` as an abbreviation of `iXPLODE`, and *iXPLODE* picked up on this; it is unclear which happened first) This had the effect of allowing any player named `iX` to become essentially anonymous, which *iXPLODE* started doing to avoid the hassle of unwanted arguments (in .io games where chat was available) and targeting (i.e. purposefully chasing after recognised players) [^].
 
 Despite at first having scoffed at .io games players who added clan tags for their pretentiousness, eventually I decided I wanted to show my attachment to *iXPLODE* too. Nevertheless, I did not want to erase my identity entirely, so I used `iX` as a prefix – hence my .io games username unlocked its final evolution: `[iX] Sup#2.0`. Looking upon this form of the username always brings a pang of nostalgia to my heart.
 
-`iX` is a wonderfully simple abbreviation of `iXPLODE`, but impressively manages to retain personality and elegance (as per what was previously discussed in [Username Structure and Styles](#Usernames)). I have always found `[iX]` to be a rather non-disruptive tag, and enjoy how the `i` slots comfortably into the `X` with the square brackets wrapping firmly around – of course, I am biased, but these still stand. Above all, its shortness and simplicity lends itself extremely well to being a tag, unlike others such as `[MasterOv]` and `[...]`, which often end up dominating the usernames they affix. `[iX]` complements `Sup#2.0` nicely, adding even more flavour with the brackets, capitalisation and unique characters.
+`iX` is a wonderfully simple abbreviation of `iXPLODE`, but impressively manages to retain personality and elegance (as per what was previously discussed in [Structure and Style in Usernames](#Usernames)). I have always found `[iX]` to be a rather non-disruptive tag, and enjoy how the `i` slots comfortably into the `X` with the square brackets wrapping firmly around – of course, I am biased, but these still stand. Above all, its shortness and simplicity lends itself extremely well to being a tag, unlike others such as `[MasterOv]` and `[...]`, which often end up dominating the usernames they affix. `[iX]` complements `Sup#2.0` nicely, adding even more flavour with the brackets, capitalisation and unique characters.
 
 ### Modernity
 Inevitably, I fell out of .io games, and with it, dropped the `[iX]` tag. This takes us to the present, where `Sup#2.0` is firmly here to stay. Although, with the increase in the number of sites I have created accounts on, many of which have different username allowances, `Sup#2.0` is actually rarely seen as my username – rather, `Sup2point0` has become far more ubiquitous. We will expand further upon this in [A Look at Derivatives](#Derivatives).
@@ -246,7 +247,7 @@ This username has sparked the creation of many idiosyncrasies, archetypes and in
 
 Figure 1 illustrates my usage of various greetings in conversations with friends online.
 
-[ Greetings Census Distribution | Data collected and totalled across several personal {Disc} chats and servers. ]
+[ Greetings Census Distribution | Data collected and totalled across several personal Discord chats and servers. ]
 
 Focusing on a singular chat with ? messages from me.
 
@@ -257,7 +258,7 @@ Focusing on a singular chat with ? messages from me.
 ### Soup?
 Perhaps the one word my usage of confuses people most is “soup”. [^confusion]
 
-I’ve taken quite a liking to this meaning, and have used it ever since. While “soup” has the literal meaning of ‘soup’ one drinks [^soup], “soup” (`/suːp/`) can also be heard as a playful corruption of “sup” (`/sʌp/`), where the rounding of the mouth changes the `ʌ` to `uː`.
+I’ve taken quite a liking to this meaning, and have used it ever since. While “soup” has the literal meaning of ‘soup’ one drinks, <!-- I love soup! --> “soup” (`/suːp/`) can also be heard as a playful corruption of “sup” (`/sʌp/`), where the rounding of the mouth changes the `ʌ` to `uː`.
 
 ### Sups~
 A quintessential saying of mine is as follows:
@@ -342,7 +343,7 @@ Thank you for reading this far. I hope you enjoyed.
 
 ## ACKNOWLEDGEMENTS
 
-- Written, researched and recalled entirely by Sup#2.0 ([@Sup2point0](https://github.com/Sup2point0)), November 2023 – ? 2024.
+- Written, researched and recalled by Sup#2.0 (@Sup2point0), November 2023 – ? 2024.
 - Figures created in Microsoft PowerPoint 2016 (Offline) for Windows 10.
 - IPA characters typed using [ipa.typeit.org](https://ipa.typeit.org).
 
