@@ -392,4 +392,5 @@ Just in case you’re still bored.
 
 ## REFERENCES
 
-[^1]: YouTube Help. *Handles overview [Online]. Available: https://support.google.com/youtube/answer/11585688
+[^1]: YouTube Help. *Handles overview* [Online]. Available: https://support.google.com/youtube/answer/11585688
+[^2]: Discord Help. *...* [Online]. Available: ...
