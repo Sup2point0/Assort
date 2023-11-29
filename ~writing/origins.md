@@ -67,6 +67,8 @@
 
 Across the various sites and services of the internet, users are given the option to create their own ‘username’, a pseudonym much like our real names that will represent that person online. Whether this must be unique, or if it can be modified once set, depends on the platform in question. However, often in the interest of creating an online ‘identity’ or ‘persona’ – especially for those involved in the content creation, such as music artists, livestreamers, YouTubers, etc. – individuals will decide upon a username and stick to it across platforms.
 
+Some platforms (such as [YouTube](https://youtube.com) and [Discord](https://discord.com)) distinguish between an ‘identifying’ and ‘displayed’ username (note that these terms are unofficial). The key difference is that identifying usernames must be unique for each user, while displayed usernames can be identical to another user’s. [^YouTube, Disc] However, from a syntactic perspective the only difference is in the restrictions placed upon their format – for the purposes of analysis their distinction can be ignored.
+
 
 <br>
 
@@ -75,11 +77,9 @@ Across the various sites and services of the internet, users are given the optio
 
 > TLDR; a number of distinct styles of usernames have emerged, dependent on several features which we will take into consideration when analysing `Sup#2.0` later on.
 
-Usernames are represented as strings of characters. At the very least, this includes the 26 letters of the English alphabet, and usually the 10 arabic numerals too. Most platforms will also keep capitalisation, and some allow non-alphanumeric characters, such as hyphens and underscores. We discuss how these affect possible usernames in [Appendix](#Appendix).
+Usernames are represented as strings of characters. At the very least, this includes the 26 letters of the English alphabet, and almost always the 10 arabic numerals too. Most platforms will also keep capitalisation (though not all, particularly in identifying usernames), and some allow non-alphanumeric characters, such as hyphens and underscores. This, perhaps expectedly, is sufficient for an incredible number of username possibilities. (We expand upon this in [Appendix].)
 
-With users striving to create unique, memorable and ‘cool’ usernames, a number of distinct styles or formats have emerged – structures or patterns that many usernames follow, involving features such as word choice, capitalisation, and symbol usage. These give them a particular ‘flavour’ or ‘vibe’ that can be difficult to put into words. Next, we explore these styles, and endeavour to characterise the impressions they give.
-
-Several of these structures can be decomposed into combinations and variations of different features. We illustrate them here to demonstrate their existence, but will not discuss every possibility, instead focusing on just the individual feature
+With users striving to create unique, distinct and ultimately ‘cool’ [^subjective] usernames, a number of distinct styles or formats have emerged – structures or patterns that many usernames follow, involving features such as word choice, capitalisation, and symbol usage. These give them a particular ‘flavour’ or ‘vibe’ that can be difficult to put into words. Several of these structures can be decomposed into combinations and variations of different features, yet may not always be the sum of its parts; as always, context and nuance is paramount. We will explore these features and endeavour to characterise the general impressions they tend to leave.
 
 <table>
   <tr>
