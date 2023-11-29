@@ -28,7 +28,14 @@ Like MuseScore, it’s incredible for a free piece of software, and one that’s
 ### Algorhythm Origins
 A series of soundtracks made for my rhythm game [Algorhythm](https://github.com/Sup2point0/Algorhythm).
 
-| track | notes |
-| :---- | :---- |
-| [Dawn](tracks/Algorhythm%20Origins/Dawn.m4a) | |
-| [Day](tracks/Algorhythm%20Origins/Day.m4a) | |
+> [Dawn](tracks/Algorhythm%20Origins/Dawn.m4a)
+> [Day](tracks/Algorhythm%20Origins/Day.m4a)
+> Daylight
+> Daybreak
+> Yesterday
+> Night
+> Tomorrow
+> Rush
+> Rise
+> Time
+> Dusk  
