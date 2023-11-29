@@ -67,7 +67,7 @@
 
 Across the various sites and services of the internet, users are given the option to create their own ‘username’, a pseudonym much like our real names that will represent that person online. Whether this must be unique, or if it can be modified once set, depends on the platform in question. However, often in the interest of creating an online ‘identity’ or ‘persona’ – especially for those involved in the content creation, such as music artists, livestreamers, YouTubers, etc. – individuals will decide upon a username and stick to it across platforms.
 
-Some platforms (such as [YouTube](https://youtube.com) and [Discord](https://discord.com)) distinguish between an ‘identifying’ and ‘displayed’ username (note that these terms are unofficial). The key difference is that identifying usernames must be unique for each user, while displayed usernames can be identical to another user’s. [^YouTube, Disc] However, from a syntactic perspective the only difference is in the restrictions placed upon their format – for the purposes of analysis their distinction can be ignored.
+Some platforms (such as [YouTube](https://youtube.com) and [Discord](https://discord.com)) distinguish between an ‘identifying’ and ‘displayed’ username (note that these terms are unofficial). The key difference is that identifying usernames must be unique for each user, while displayed usernames can be identical to another user’s. [^1][^Disc] However, from a syntactic perspective the only difference is in the restrictions placed upon their format – for the purposes of analysis their distinction can be ignored.
 
 
 <br>
@@ -334,11 +334,15 @@ With capitalisation, we take the character set to have 36 characters; including 
 
 I am incredibly lucky to have found a username that so perfectly encapsulates me, and that I love wholeheartedly even decades since its conception.
 
+Thank you for reading this far. I hope you enjoyed.
+
 
 <br>
 
 
 ## REFERENCES
+
+[^1]: https://support.google.com/youtube/answer/11585688
 
 
 <br>
