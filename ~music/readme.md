@@ -38,5 +38,5 @@ A series of soundtracks made for my rhythm game [Algorhythm](https://github.com/
 > Rush  
 > Rise  
 > Time  
-> Dusk
+> Dusk  
 > Twilight  
