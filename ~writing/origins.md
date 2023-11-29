@@ -12,7 +12,8 @@
 
 ## Contents
 
-> Tip: You can also use the outline pane (upper right on [github.com](https://github.com/Sup2point0/Assort/blob/origin/~writing/origins.md)).
+> [!Tip]
+> You can also use the outline pane (upper right on [github.com](https://github.com/Sup2point0/Assort/blob/origin/~writing/origins.md)).
 
 <table>
   <td>
@@ -35,11 +36,10 @@
     <a href="#Alternatives">What If: Considered Alternatives</a> <br>
     <a href="#Appendix">Appendix: Unique Usernames</a> <br>
     <a href="#Closure">Closure</a> <br>
-    <a href="#References">References</a> <br>
-    <a href="#Footnotes">Footnotes</a> <br>
     <a href="#Acknowledgements">Acknowledgements</a> <br>
     <a href="#Final-Thoughts">Final Thoughts</a> <br>
     <a href="#Further-Reading">Further Reading</a> <br>
+    <a href="#References">References</a> <br>
   </td>
 </table>
 
@@ -67,7 +67,7 @@
 
 Across the various sites and services of the internet, users are given the option to create their own ‘username’, a pseudonym much like our real names that will represent that person online. Whether this must be unique, or if it can be modified once set, depends on the platform in question. However, often in the interest of creating an online ‘identity’ or ‘persona’ – especially for those involved in the content creation, such as music artists, livestreamers, YouTubers, etc. – individuals will decide upon a username and stick to it across platforms.
 
-Some platforms (such as [YouTube](https://youtube.com) and [Discord](https://discord.com)) distinguish between an ‘identifying’ and ‘displayed’ username (note that these terms are unofficial). The key difference is that identifying usernames must be unique for each user, while displayed usernames can be identical to another user’s. [^1][^Disc] However, from a syntactic perspective the only difference is in the restrictions placed upon their format – for the purposes of analysis their distinction can be ignored.
+Some platforms (such as [YouTube](https://youtube.com) and [Discord](https://discord.com)) distinguish between an ‘identifying’ and ‘displayed’ username (note that these terms are unofficial). The key difference is that identifying usernames must be unique for each user, while displayed usernames can be identical to another user’s [^1][^2]. However, from a syntactic perspective the only difference is in the restrictions placed upon their format – for the purposes of analysis their distinction can be ignored.
 
 
 <br>
@@ -340,20 +340,6 @@ Thank you for reading this far. I hope you enjoyed.
 <br>
 
 
-## REFERENCES
-
-[^1]: https://support.google.com/youtube/answer/11585688
-
-
-<br>
-
-
-## FOOTNOTES
-
-
-<br>
-
-
 ## ACKNOWLEDGEMENTS
 
 - Written, researched and recalled entirely by Sup#2.0 ([@Sup2point0](https://github.com/Sup2point0)), November 2023 – ? 2024.
@@ -399,3 +385,11 @@ I would like to extend my gratitude towards the following:
 Just in case you’re still bored.
 
 - [Wormhole of Wikipedia](Wormhole%20of%20Wikipedia.md)
+
+
+<br>
+
+
+## REFERENCES
+
+[^1]: YouTube Help. *Handles overview [Online]. Available: https://support.google.com/youtube/answer/11585688
