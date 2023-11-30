@@ -249,9 +249,9 @@ Through a hybrid technique of introspective neural reactivation and psychochrono
 
 <h2 name="Analysis"> PRISTINE PERFECTION: STRUCTURAL ANALYSIS </h2>
 
-This username has sparked the creation of many idiosyncrasies, archetypes and inside jokes. Explaining them may be like dissecting a frog [^frog], so proceed at your own risk.
-
 > TLDR; a lot of the things I say, write, name and use are related in some way to the username `Sup#2.0`.
+
+This username has sparked the creation of many idiosyncrasies, archetypes and inside jokes. Explaining them may be like dissecting a frog [^frog], so proceed at your own risk.
 
 ### Salutations!
 “sup” (lowercase) has become, without a doubt, my go-to and absolute favourite greeting. It acts as both a greeting and conversation starter, can be taken to mean either, and sets an informal and fun tone. The latter is also why the lowercase here is important. Friends of mine may recount instances where I accidentally send a capitalised `Sup`, and immediately correct it with `*sup` – which might appear rather questionable, but is absolutely vital. [^sauce: trust bro]
@@ -343,13 +343,35 @@ Every option here holds its own character, and I love each and every one of them
 
 <h2 name="Appendix"> APPENDIX: UNIQUE USERNAMES </h2>
 
-Previously before analysing username styles we mentioned 
+Previously in [Structure and Styles in Usernames](#Usernames) we mentioned the huge number of possible usernames. Here we take a deeper look at this and consider just how many there are.
 
-From a purely mathematical perspective, this already provides far too many unique usernames to ever come close to running out, even with character limits in place. Given a character set of size $c$ and a character limit of $n$ characters, the number of possible usernames can given by $c^{n}$. It is apparent how quickly this grows if either variable is increased, especially when both are multi-digit integers.
+Ignoring semantics (i.e. if a username is realistic), this is influenced by 2 factors: the size of the character set (which characters can be used), and the character length limit (the maximum character length of a username). For instance, with a character set `{S, Q}` and a character limit of 3, we obtain the following possibilities:
 
-With capitalisation, we take the character set to have 36 characters; including capitalisation, this expands to 52 characters. Including all of the characters that are indicated on a standard QWERTY keyboard (ignoring unprinted or unindicated keyboard combinations), we reach ? characters. The following graph demonstrates the growth in possible usernames as the character limit increases for fixed character set sizes.
+| length | permutations | total |
+| :----- | :----------- | :---- |
+| 1 | `S`, `Q` | 2 |
+| 2 | `SS` `QQ` <br> `SQ` `QS` | 4 |
+| 3 | `SSS` `QQQ` <br> `SSQ` `SQS` `QSS` <br> `SQQ` `QSQ` `QQS` | 8 |
+| **total** | | 13 |
 
-![logscale graph of unique usernames with respect to character limit](...)
+Let us try to now generalise this. Given a character set of size $c$ and a character *length* of $n$ characters, the number of possible usernames can given by $c^{n}$. However, we also consider usernames shorter than $n$, hence we add on the permutations for $n-1$, $n-2$, etc. We can express this as
+
+$$
+\sum{}_{}
+$$
+
+It is apparent how quickly this grows if either variable is increased, especially when both are multi-digit integers.
+
+Without capitalisation, we take the character set to have 36 characters. From a purely mathematical perspective, this already provides far too many unique usernames to ever come close to running out, even with character limits in place. Including capitalisation, this expands to 52 characters. Including all of the characters that are indicated on a standard QWERTY keyboard (ignoring unprinted or unindicated keyboard combinations), we reach 94 characters. The following graph demonstrates the growth in possible usernames as the character limit increases for fixed character set sizes.
+
+<table align="center">
+  <tr>
+    <td> <img height="500px" src="../.assets/origins/logscale-usernames-characters.jpeg" alt="logscale graph of unique usernames with respect to character limit"> </td>
+  </tr>
+  <tr>
+    <td align="center"> <b> Figure ? </b> &ensp; Log-scale graph of unique usernames with respect to character limit and set size. </td>
+  </tr>
+</table>
 
 
 <br>
