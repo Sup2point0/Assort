@@ -354,15 +354,13 @@ Ignoring semantics (i.e. if a username is realistic), this is influenced by 2 fa
 | 3 | `SSS` `QQQ` <br> `SSQ` `SQS` `QSS` <br> `SQQ` `QSQ` `QQS` | 8 |
 | **total** | | 13 |
 
-Let us try to now generalise this. Given a character set of size $c$ and a character *length* of $n$ characters, the number of possible usernames can given by $c^{n}$. However, we also consider usernames shorter than $n$, hence we add on the permutations for $n-1$, $n-2$, etc. We can express this as
+Let us try to now generalise this. Given a character set of size $c$ and a character *length* of $N$ characters, the number of possible usernames can given by $c^{N}$. However, we also consider usernames shorter than $N$, hence we add on the permutations for $N-1$, $N-2$, etc. We can express this as
 
 $$
-\sum{}_{}
+\sum_{n=1}^{N} c^{n}
 $$
 
-It is apparent how quickly this grows if either variable is increased, especially when both are multi-digit integers.
-
-Without capitalisation, we take the character set to have 36 characters. From a purely mathematical perspective, this already provides far too many unique usernames to ever come close to running out, even with character limits in place. Including capitalisation, this expands to 52 characters. Including all of the characters that are indicated on a standard QWERTY keyboard (ignoring unprinted or unindicated keyboard combinations), we reach 94 characters. The following graph demonstrates the growth in possible usernames as the character limit increases for fixed character set sizes.
+It is apparent how quickly this sum grows if either $c$ or $N$ is increased, especially when both are multi-digit integers. The graph below illustrates this growth as $N$ increases for different values of $c$.
 
 <table align="center">
   <tr>
@@ -372,6 +370,8 @@ Without capitalisation, we take the character set to have 36 characters. From a 
     <td align="center"> <b> Figure ? </b> &ensp; Log-scale graph of unique usernames with respect to character limit and set size. </td>
   </tr>
 </table>
+
+Without capitalisation, the alphabet has 26 characters. Including numerals, we take the character set to have 36 characters. From a purely mathematical perspective, this already provides far too many unique usernames to ever come close to running out, even with character limits in place. With capitalisation, this expands to 52 characters. Including all of the characters that are indicated on a standard QWERTY keyboard (ignoring unprinted or unindicated keyboard combinations), we reach 94 characters.
 
 
 <br>
