@@ -177,6 +177,7 @@ Capitalisation is one of the core factors affecting the feeling of a username. W
 
 ## LORE
 
+> [!Note]
 > This section is a primary account written from a personal perspective. As a disclaimer, it may contain inaccurate, exaggerated or outright untruthful content. There is no malicious intent behind this – it is simply a result of the extraordinary length of time that has passed since the events in question. I have done my best to reconstruct the progression based on the details I am able to remember.
 
 ### Emergence
@@ -303,9 +304,9 @@ Finally, let us now translate it.
 
 <h2 name="Alternatives"> WHAT IF: CONSIDERED ALTERNATIVES </h2>
 
-A stray thought that once crossed my mind was *what if I weren’t called Sup?* This is no doubt an interesting consideration.
+A stray thought that once crossed my mind was *what if I weren’t called Sup?* This is no doubt an interesting consideration. The username `Sup` has become such a part of my identity and personality now, that it is exceptionally difficult to imagine being called anything else.
 
-As it happens, I proceeded to devise a list of potential usernames (for myself). It is highly unlikely that these will ever actually be used, but trying to think of them proved just how difficult it is to find a truly perfect username (for me). The ‘presentable’ candidates are listed below, and the best few are discussed in more depth.
+As it happens, I did proceed to devise a list of potential usernames (for myself). It is highly unlikely that these will ever actually be used, but trying to think of them proved just how difficult it would be to find a truly perfect username (other than `Sup#2.0`, for me). The ‘presentable’ candidates are listed below, and the best few are discussed in more depth.
 
 <!-- Hm. Interesting that you’re poking around in here. -->
 | username | variations |
@@ -319,11 +320,22 @@ As it happens, I proceeded to devise a list of potential usernames (for myself).
 | `Resplendent` | `Resplendence` |
 | `Severescence` | |
 | `SuperVescence` | `Supervescence` |
-| `Synchra` | `SynchraNaut` |
+| `Synchra` | `SynchraNaut`, `synchraNaut` |
 <!-- I lied, actually. There is 1 alternative username that has been put into use – which is exactly why it’s not here. -->
+
+### LiterallyAwesome
+Every option here encapsulates different 
+
+### Synchra
+I find this filled with intrigue and character. It derives from ‘Synchro’ monsters in *[Yu-Gi-Oh!]* [^Synchro].
+
+`SynchraNaut` / `synchraNaut` is even more intriguing, and initialises nicely to `SN` / `sN`.
 
 ### Dawn
 While I personally find *Dawn* filled with personality and possibility, it is also fairly generic, definitely not unique, and a real name. Of all the alternatives, however, this is the one I have envisioned being known by the most, and in all honesty, going by ‘Dawn’ would be pretty cool.
+
+### Thoughts
+Every option here holds its own character, and I love each and every one of them. Yet while I would be happy using them, none of them are entirely perfect – of course, neither is `Sup`, but `Sup#2.0` strays quite close. Really, I’m looking for something to capture the character in all of them within a single username, which is understandably nigh on impossible.
 
 
 <br>
