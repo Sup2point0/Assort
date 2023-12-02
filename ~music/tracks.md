@@ -1,7 +1,7 @@
-# Tracks
-
 > [!Note]
-> This file has been deprecated and is now left here if I ever need ideas for song names.
+> This file has been deprecated and is now left here, if I ever need ideas for song names.
+
+# Tracks
 
 Airborne  
 Antidextrous  
