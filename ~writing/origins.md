@@ -158,7 +158,7 @@ With users striving to create unique, distinct and ultimately ‘cool’ <!-- th
     <td> <code></code> </td>
   </tr>
   <tr>
-    <td rowspan=""> 3 </td>
+    <td rowspan="6"> 3 </td>
     <td> lower </td>
     <td> <code>soupthesoupy</code> </td>
     <td> none </td>
