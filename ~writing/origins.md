@@ -138,24 +138,19 @@ With users striving to create unique, distinct and ultimately ‘cool’ <!-- th
     <td> <code>soupySoup</code> </td>
     <td> hyphen </td>
     <td> <code>soupy-Soup</code> </td>
-    <td> </td>
-    <td> <code></code> </td>
+    <td colspan="2"> </td>
   </tr>
   <tr>
     <td> upper </td>
     <td> <code>SOUPYSOUP</code> </td>
-    <td> </td>
-    <td> <code></code> </td>
-    <td> </td>
-    <td> <code></code> </td>
+    <td colspan="2"> </td>
+    <td colspan="2"> </td>
   </tr>
   <tr>
     <td> dynamic </td>
     <td> <code>sOuPySoUp</code> </td>
-    <td> </td>
-    <td> <code></code> </td>
-    <td> </td>
-    <td> <code></code> </td>
+    <td colspan="2"> </td>
+    <td colspan="2"> </td>
   </tr>
   <tr>
     <td rowspan="6"> 3 </td>
@@ -187,24 +182,19 @@ With users striving to create unique, distinct and ultimately ‘cool’ <!-- th
     <td> <code>souptheSoupy</code> </td>
     <td> hyphen </td>
     <td> <code>soup-the-Soupy</code> </td>
-    <td> </td>
-    <td> <code></code> </td>
+    <td colspan="2"> </td>
   </tr>
   <tr>
     <td> upper </td>
     <td> <code>SOUPTHESOUPY</code> </td>
-    <td> </td>
-    <td> <code></code> </td>
-    <td> </td>
-    <td> <code></code> </td>
+    <td colspan="2"> </td>
+    <td colspan="2"> </td>
   </tr>
   <tr>
     <td> dynamic </td>
     <td> <code>SouPtheSouPY</code> </td>
-    <td> </td>
-    <td> <code></code> </td>
-    <td> </td>
-    <td> <code></code> </td>
+    <td colspan="2"> </td>
+    <td colspan="2"> </td>
   </tr>
 </table>
 
