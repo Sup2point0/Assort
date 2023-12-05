@@ -145,6 +145,7 @@ With users striving to create unique, distinct and ultimately ‘cool’ <!-- th
     <td> upper </td>
     <td> <code>SOUPYSOUP</code> </td>
     <td> </td>
+    <td> <code></code> </td>
     <td> </td>
     <td> <code></code> </td>
   </tr>
@@ -152,6 +153,56 @@ With users striving to create unique, distinct and ultimately ‘cool’ <!-- th
     <td> dynamic </td>
     <td> <code>sOuPySoUp</code> </td>
     <td> </td>
+    <td> <code></code> </td>
+    <td> </td>
+    <td> <code></code> </td>
+  </tr>
+  <tr>
+    <td rowspan=""> 3 </td>
+    <td> lower </td>
+    <td> <code>soupthesoupy</code> </td>
+    <td> none </td>
+    <td> <code>soupthesoupy</code> </td>
+    <td> underscore </td>
+    <td> <code>_soupthesoupy_</code> </td>
+  </tr>
+  <tr>
+    <td> initial </td>
+    <td> <code>Soupthesoupy</code> </td>
+    <td> space </td>
+    <td> <code>Soup the soupy</code> </td>
+    <td> hyphen </td>
+    <td> <code>-Soupthesoupy-</code> </td>
+  </tr>
+  <tr>
+    <td> title </td>
+    <td> <code>SouptheSoupy</code> </td>
+    <td> underscore </td>
+    <td> <code>Soup_the_S_oupy</code> </td>
+    <td> ‘x’ </td>
+    <td> <code>xXSouptheSoupyXx</code> </td>
+  </tr>
+  <tr>
+    <td> camel </td>
+    <td> <code>souptheSoupy</code> </td>
+    <td> hyphen </td>
+    <td> <code>soup-the-Soupy</code> </td>
+    <td> </td>
+    <td> <code></code> </td>
+  </tr>
+  <tr>
+    <td> upper </td>
+    <td> <code>SOUPTHESOUPY</code> </td>
+    <td> </td>
+    <td> <code></code> </td>
+    <td> </td>
+    <td> <code></code> </td>
+  </tr>
+  <tr>
+    <td> dynamic </td>
+    <td> <code>SouPtheSouPY</code> </td>
+    <td> </td>
+    <td> <code></code> </td>
     <td> </td>
     <td> <code></code> </td>
   </tr>
