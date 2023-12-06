@@ -3,7 +3,9 @@
 
 # Music
 
-I never thought I’d be able to make my own music, but here I am.
+I never thought I’d be able to make my own music, but here I am. I’ve still got a long way – a long, long way — to go, but I’m really loving it.
+
+Check out what I’ve made [here](tracks.md).
 
 
 <br>
