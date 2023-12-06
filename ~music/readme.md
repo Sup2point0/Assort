@@ -3,9 +3,7 @@
 
 # Music
 
-I never thought I’d be able to make my own music, but here I am. I’ve still got a long way – a long, long way — to go, but I’m really loving it.
-
-Check out what I’ve made [here](tracks.md).
+I never thought I’d be able to make my own music, but here I am. I’ve still got a long way – a long, long way — to go, but I’m really loving it. Check out what I’ve [created](tracks)!
 
 
 <br>
@@ -13,9 +11,6 @@ Check out what I’ve made [here](tracks.md).
 
 ## MuseScore
 Installed this on my own laptop for music work during lockdown of Covid-19, and realised how incredible it was, for something entirely free. And now MuseScore 4!?
-
-> [Insenza](tracks/Insenza.mp3)  
-> [Bubble Iris](tracks/Bubble%20Iris.mp3)  
 
 
 <br>
