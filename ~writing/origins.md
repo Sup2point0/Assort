@@ -20,8 +20,9 @@
     <a href="#Abstract">Abstract</a> <br>
     <a href="#Foreword">Foreword</a> <br>
     <a href="#Introduction">Introduction</a> <br>
-    <a href="#Usernames">Structure and Style in Usernames</a> <br>
-    <a href="#Lore">The Lore of Sup#2.0</a> <br>
+    <a href="#Usernames">Considerations in Username Creation</a> <br>
+    <a href="#Features">Structural and Stylistic Features</a> <br>
+    <a href="#Lore">The Lore of Legend</a> <br>
     &emsp; <a href="#Emergence">Emergence</a> <br>
     &emsp; <a href="#Discovery">Discovery</a> <br>
     &emsp; <a href="#Encounter">Encounter</a> <br>
@@ -31,10 +32,11 @@
     &emsp; <a href="#Modernity">Modernity</a> <br>
     &emsp; <a href="#Timescale">ASIDE – Timescale</a> <br>
     <a href="#Derivatives">A Look at Derivatives</a> <br>
-    <a href="#Analysis">Pristine Perfection: Structural Analysis</a> <br>
+    <a href="#Analysis">Pristine Perfection</a> <br>
     <a href="#Ecosystem">The Emergent Ecosystem</a> <br>
     <a href="#Alternatives">What If: Considered Alternatives</a> <br>
-    <a href="#Appendix">Appendix: Unique Usernames</a> <br>
+    <a href="#Appendix-1">Appendix 1.0 – Unique Usernames</a> <br>
+    <a href="#Appendix-2">Appendix 2.0</a> <br>
     <a href="#Closure">Closure</a> <br>
     <a href="#Acknowledgements">Acknowledgements</a> <br>
     <a href="#Final-Thoughts">Final Thoughts</a> <br>
@@ -248,9 +250,15 @@ The hashtag (strictly speaking, the hash) was, quite simply, a cool character. T
 
 `2.0`, however, was originally `0.2`. See, I knew “x-point y”, where $x$ and $y$ are elements of the set $\set{0, 2}$ and $x\neq{y}$, was a technical ‘term’, and it blew the mind of my inner child. Except, I didn’t know which way round $x$ and $y$ were, and thought “0.2” looked correct – as it happens, it wasn’t. So I was skulking about as `Sup#0.2`, thinking I had a fantastic username, when I had gotten part of it embarassingly wrong.
 
-It took us working with [LEGO WeDo 2.0](https://education.lego.com/products/lego-education-wedo-2-0-core-set/45300/) at school for me to realise the technical part I wanted to add should have been “2.0”, not “0.2”. Immediately, I updated it to its purest form today – `Sup#2.0`.
+It took us working with [LEGO WeDo 2.0](https://education.lego.com/products/lego-education-wedo-2-0-core-set/45300/) at school for me to realise the technical part I wanted to add should have been `2.0`, not `0.2`. Immediately, I updated it to its purest form today – `Sup#2.0`.
 
 <h3 name="Animation"> ASIDE – Animation </h3>
+Around the time of `Sup#2.0`’s conception I had briefly watched a YouTuber *wbangca* [^wbanca]. <!-- strange name, I know, and he still hasn’t changed it to this day! o7 --> He, as was becoming popular at the time [^intro-popular], had an elaborate intro animation to his videos. It consisted of many video feeds flying in to merge into a single cube, which then revealed his username, `wbangca`.
+
+This utterly blew the mind of my younger self, and, loving to create my own parodies of things, I imagined what my own intro with `Sup#2.0` could look like. I would have videos flying inwards, but instead of arranging into a cube, they would meld together to form the hash `#`. This did not play a part in the conception of `Sup#2.0` per se, but was certainly something that reinforced it in my mind.
+
+[^wbanca]: YouTuber. YouTube: https://youtube.com/@wbangca
+[^intro-popular]: ...
 
 ### Conformity
 Being into .io games, especially diep.io, I would watch other people play on YouTube. There was no one I enjoyed more than [*iXPLODE*](https://youtube.com/@iXPLODE), who I remained a dedicated viewer of for years. He [^gender] did end up, unfortunately, being corrupted by [*Fortnite*](...)’s surge in popularity, and stopped making .io games content; however, his old videos can still be found on his channel. [^]
@@ -284,11 +292,29 @@ Through a hybrid technique of introspective neural reactivation and psychochrono
 
 <h2 name="Derivatives"> A LOOK AT DERIVATIVES </h2>
 
+### Sup2.0
+Due to aforementioned character restrictions[^](#), more often than not `Sup#2.0` cannot be used as a username. (The `#` tends to be especially problematic.) This is unfortunate, but it is a reality I have come to accept.
+
+On lenient platforms where `.` is allowed but `#` is not, `Sup2.0` thus becomes the next best option. Indeed, it does look somewhat empty or incomplete without the `#` (discussed in [Pristine Perfection](#Analysis]), but the essence of the username is there. In rare cases where capitalisation is not retained (specifically Disc usernames [^disc-username]), `sup2.0` may occur – even more tragedic, but still preferred over the following.
+
+[^disc-username]: ...
+
+### Sup2point0
+This has, undoubtedly, become the most ubiquitous form of the username, used as a login username, handle, and in URLs. Containing only alphanumeric characters and not caring about capitalisation all that much, it is highly reliable and almost guaranteed to work on any platform.
+
+The word `point` is an expansion of `.`, since `2.0` is read ‘two-point-oh’. It is apparent that `Sup2point0` looks decidedly more awkward than `Sup2.0`, though once it becomes familiar, this mostly fades away.
+
 
 <br>
 
 
 <h2 name="Analysis"> PRISTINE PERFECTION: STRUCTURAL ANALYSIS </h2>
+
+
+<br>
+
+
+<h2 name="Ecosystem"> THE EMERGENT ECOSYSTEM </h2>
 
 > TLDR; a lot of the things I say, write, name and use are related in some way to the username `Sup#2.0`.
 
@@ -297,9 +323,9 @@ This username has sparked the creation of many idiosyncrasies, archetypes and in
 ### Salutations!
 “sup” (lowercase) has become, without a doubt, my go-to and absolute favourite greeting. It acts as both a greeting and conversation starter, can be taken to mean either, and sets an informal and fun tone. The latter is also why the lowercase here is important. Friends of mine may recount instances where I accidentally send a capitalised `Sup`, and immediately correct it with `*sup` – which might appear rather questionable, but is absolutely vital. [^sauce: trust bro]
 
-“suppety sup” (pronounced `/ˌsʌpətiˈsʌp/`) is sparingly used as a playful and cuter variant.
+“suppety sup” (pronounced `/ˌsʌpətiˈsʌp/`) is sparingly used as a playful and cuter variant. It can be taken to follow the format of “hippety hop”.
 
-Figure 1 illustrates my usage of various greetings in conversations with friends online.
+To illustrate how prevalent my usage of “sup” is, data was collected from my conversations with people online [^tool, consent], and is illustrated in the figures below.
 
 [ Greetings Census Distribution | Data collected and totalled across several personal Discord chats and servers. ]
 
@@ -309,6 +335,8 @@ Focusing on a singular chat with ? messages from me.
 
 > The data in these figures is from December 2023, and will become steadily out of date; however, the relationship they illustrate remains the same.
 
+[^sauce]: trust bro
+
 ### Soup?
 Perhaps the one word my usage of confuses people most is “soup”. [^confusion]
 
@@ -317,27 +345,20 @@ I’ve taken quite a liking to this meaning, and have used it ever since. While 
 ### Sups~
 A quintessential saying of mine is as follows:
 
-> sup sup’s sups sup sup’s sup sup sup’s sup sups
+> sup sup’s sups sup sup’s sup sup sup sup’s sup sups
 
 Contrary to popular belief, this ‘sentence’ not only makes sense, but holds meaning and purpose.
 
-> WARNING: Spoilers ahead. Proceed at your own peril.
+> [!Warning]
+> Spoilers ahead. Proceed at your own peril.
 
 First, to identify its inherent structure and distinct constituents, we fragment the phrase and add punctuation as follows.
 
-> (sup), (sup’s sups) (s’up) (sup’s sup), (sup sup’s sup sups)
+> (sup), (sup’s sups) (s’up) (sup’s sup sup), (sup sup’s sup sups)! (sup)?
 
-Despite all sounding identical, each word encapsulates its own meaning. When spoken, this can be brought out through tone and stress.
+Despite all sounding identical, each word encapsulates its own meaning. When spoken, this can be brought out through tone and stress. Finally, let us now translate it.
 
-Finally, let us now translate it.
-
-> sup, Sup’s sups who’re up Sup’s sup, sip on Sup’s superior sups!
-
-
-<br>
-
-
-<h2 name="Ecosystem"> THE EMERGENT ECOSYSTEM </h2>
+> sup, Sup’s sups who’re up Sup’s super sup, sip on Sup’s superior sups! sup?
 
 
 <br>
