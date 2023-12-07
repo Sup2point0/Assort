@@ -40,8 +40,9 @@
     <a href="#Closure">Closure</a> <br>
     <a href="#Acknowledgements">Acknowledgements</a> <br>
     <a href="#Final-Thoughts">Final Thoughts</a> <br>
+    <a href="#Fixes">Amendments & Updates</a> <br>
     <a href="#Further-Reading">Further Reading</a> <br>
-    <a href="#References">References</a> <br>
+    <a href="#Endnotes">References & Footnotes</a> <br>
   </td>
 </table>
 
@@ -227,7 +228,7 @@ Capitalisation is one of the core factors affecting the feeling of a username. W
 <br>
 
 
-## LORE
+## THE LORE OF LEGEND
 
 > [!Note]
 > This section is a primary account written from a personal perspective. As a disclaimer, it may contain inaccurate, exaggerated or outright untruthful content. There is no malicious intent behind this – it is simply a result of the extraordinary length of time that has passed since the events in question. I have done my best to reconstruct the progression based on the details I am able to remember.
@@ -491,7 +492,7 @@ While on the topic of Silentroom, one of his most renowned tracks is *Nhelv* [^n
 
 ## CLOSURE
 
-I am incredibly lucky to have found a username that so perfectly encapsulates me, and that I love wholeheartedly even decades since its conception.
+I am incredibly lucky to have found a username that so perfectly encapsulates me, and that I love wholeheartedly even decades since its conception. For those of you yet to find yours, I wish you the best. It may not be easy, but it’ll be worth it.
 
 Thank you for reading this far. I hope you enjoyed.
 
@@ -528,12 +529,16 @@ I would like to extend my gratitude towards the following:
 `2023/11/24` Damn, this just got big.  
 `2023/11/25` Oh no, I just realised I could talk about my profile picture too... I think we’ll leave that for another time 0.o  
 `2023/11/27` Should I just write an autobiography at this point?  
+`2023/12/05` Why not just look at other people’s usernames while we’re at. Just for fun.  
+`2023/12/06` Yoo, Markdown referencing is awesome!  
 
 
 <br>
 
 
-## AMENDMENTS & UPDATES
+<h2 name="Fixes"> AMENDMENTS & UPDATES </h2>
+
+<!-- Yeup, I did write all of this. No ChatGPT usage either, which one of my friends suggested. Was it a waste of time? *Ever* so slightly, maybe. But this is what I enjoy. And I’m glad I can now flex on other people with this :v -->
 
 
 <br>
@@ -549,7 +554,7 @@ Just in case you’re still bored.
 <br>
 
 
-## REFERENCES & FOOTNOTES
+<h2 name="Endnotes"> REFERENCES & FOOTNOTES </h2>
 
 > [!Note]
 > Due to Markdown limitations, references and footnotes are listed together.
