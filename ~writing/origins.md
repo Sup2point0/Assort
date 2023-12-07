@@ -228,7 +228,7 @@ Capitalisation is one of the core factors affecting the feeling of a username. W
 <br>
 
 
-## THE LORE OF LEGEND
+<h2 name="Lore"> THE LORE OF LEGEND </h2>
 
 > [!Note]
 > This section is a primary account written from a personal perspective. As a disclaimer, it may contain inaccurate, exaggerated or outright untruthful content. There is no malicious intent behind this – it is simply a result of the extraordinary length of time that has passed since the events in question. I have done my best to reconstruct the progression based on the details I am able to remember.
