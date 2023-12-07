@@ -79,13 +79,13 @@ Some platforms (such as [YouTube](https://youtube.com) and [Discord](https://dis
 <br>
 
 
-<h2 name="Usernames"> CONSIDERATIONS IN USERNAME CREATION <h2>
+<h2 name="Usernames"> CONSIDERATIONS IN USERNAME CREATION </h2>
 
 
 <br>
 
 
-<h2 name="Usernames"> STRUCTURAL AND STYLISTIC FEATURES </h2>
+<h2 name="Features"> STRUCTURAL AND STYLISTIC FEATURES </h2>
 
 > TLDR; a number of distinct styles of usernames have emerged, dependent on several features which we will take into consideration when analysing `Sup#2.0` later on.
 
