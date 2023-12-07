@@ -1,3 +1,3 @@
 just testing references [^test].
 
-[^test]: so?
+[test]: so?
