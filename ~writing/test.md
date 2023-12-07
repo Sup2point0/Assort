@@ -1,3 +1,3 @@
-just testing references [test].
+just testing references [^poly-test].
 
-[test]: so?
+[^poly-test]: so?
