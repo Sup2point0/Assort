@@ -52,7 +52,7 @@
 
 ## ABSTRACT
 
-&emsp; Many a times in the past have people, both those I have met online and those I know in real life, inquired into the origins behind my username `Sup#2.0`. However, for years the answer has been “oh, there’s *so* much lore behind it” [sic], or I have resorted to giving a quick (and often inconsistently incomplete) rundown, which leaves much to be desired, if only on my end. This will seek to remedy that. We will take a deep dive into the lore, reasoning and rationale behind the username of Sup#2.0 and its derivatives, analyse its evolution, structure and aptness, and finally consider various potential alternatives.
+Many a times in the past have people, both those I have met online and those I know in real life, inquired into the origins behind my username `Sup#2.0`. However, for years the answer has been “oh, there’s *so* much lore behind it” [sic], or I have resorted to giving a quick (and often inconsistently incomplete) rundown, which leaves much to be desired, if only on my end. This will seek to remedy that. We will take a deep dive into the lore, reasoning and rationale behind the username of Sup#2.0 and its derivatives, analyse its evolution, structure and aptness, and finally consider various potential alternatives.
 
 
 <br>
