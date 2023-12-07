@@ -270,7 +270,7 @@ It took us working with [LEGO WeDo 2.0<sup>↗</sup>](https://education.lego.com
 
 <h3 name="Animation"> ASIDE – Animation </h3>
 
-Around the time of `Sup#2.0`’s conception I had briefly watched a YouTuber [*wbangca*<sup>↗</sup>](https://youtube.com/@wbangca). <!-- strange name, I know, and he still hasn’t changed it to this day! o7 --> He, as was becoming popular at the time [^yt-intros], had an elaborate intro animation to his videos. It consisted of many video feeds flying in to merge into a single cube, which then revealed his username, `wbangca`.
+Around the time of `Sup#2.0`’s conception I had briefly watched a YouTuber [*wbangca*<sup>↗</sup>](https://youtube.com/@wbangca). <!-- strange name, I know, and he still hasn’t changed it to this day! o7 --> He, as was becoming popular at the time[^yt-intros], had an elaborate intro animation to his videos. It consisted of many video feeds flying in to merge into a single cube, which then revealed his username, `wbangca`.
 
 This utterly blew the mind of my younger self, and, loving to create my own parodies of things, I imagined what my own intro with `Sup#2.0` could look like. I would have videos flying inwards, but instead of arranging into a cube, they would meld together to form the hash `#`. This did not play a part in the conception of `Sup#2.0` per se, but was certainly something that reinforced it in my mind.
 
