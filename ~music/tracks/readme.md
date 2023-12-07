@@ -56,23 +56,23 @@ Original soundtracks created for *Algorhythm*.
 src="../../.assets/covers/Dawn.PNG" href="Algorhythm Origins/Dawn.wav">
 <img alt="Day" title="Day" height="240px"
 src="../../.assets/covers/Day.PNG" href="Algorhythm Origins/Day.wav">
-<img alt="Daylight" title="~" height="240px"
+<img alt="Daylight" title="Daylight" height="240px"
 src="../../.assets/covers/~.PNG" href="Algorhythm Origins/~.wav">
-<img alt="Daybreak" title="~" height="240px"
+<img alt="Daybreak" title="Daybreak" height="240px"
 src="../../.assets/covers/~.PNG" href="Algorhythm Origins/~.wav">
 <img alt="Yesterday" title="Yesterday" height="240px"
-src="../../.assets/covers/Yesterday.jpg" href="Algorhythm Origins/~.wav">
+src="../../.assets/covers/.PNG" href="Algorhythm Origins/~.wav">
 <img alt="Night" title="Night" height="240px"
 src="../../.assets/covers/Night.jpg" href="Algorhythm Origins/~.wav">
-<img alt="Tomorrow" title="~" height="240px"
+<img alt="Tomorrow" title="Tomorrow" height="240px"
+src="../../.assets/covers/Tomorrow.jpg" href="Algorhythm Origins/~.wav">
+<img alt="Rise" title="Rise" height="240px"
 src="../../.assets/covers/~.PNG" href="Algorhythm Origins/~.wav">
-<img alt="Rise" title="~" height="240px"
+<img alt="Time" title="Time" height="240px"
 src="../../.assets/covers/~.PNG" href="Algorhythm Origins/~.wav">
-<img alt="Time" title="~" height="240px"
+<img alt="Dusk" title="Dusk" height="240px"
 src="../../.assets/covers/~.PNG" href="Algorhythm Origins/~.wav">
-<img alt="Dusk" title="~" height="240px"
-src="../../.assets/covers/~.PNG" href="Algorhythm Origins/~.wav">
-<img alt="Twilight" title="~" height="240px"
+<img alt="Twilight" title="Twilight" height="240px"
 src="../../.assets/covers/~.PNG" href="Algorhythm Origins/~.wav">
 
 ### MuseScore
