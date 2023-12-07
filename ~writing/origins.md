@@ -240,7 +240,7 @@ The first occasion where I found myself requiring a username was when I played *
 
 I suspect I may have played as an unnamed tank at first, which is indeed an option diep.io and many other .io games offer (very rarely would other platforms allow this, for evident reasons). In-game, this leaves the space above a player’s tank empty, where their username would otherwise be displayed, and in death screens or notifications, they are simply referred to as “an unnamed tank”. The only other username I can recall using is `KILLER`, though this is concerningly dubious. Soon it occurred to me that I should decide upon a permanent username to be known as.
 
-[^link-diep]: Online shooter game. https://diep.io
+[^link-diep]: Online shooter game. <https://diep.io>
 
 ### Discovery
 If I recall correctly, I first heard of the word “sup” from my childhood friends. Though very much faded, I can still feel some twinge of... envy, perhaps? – in all honesty, I cannot remember – but there was certainly a feeling. I was never one to keep up with slang (this is still somewhat the case today [^slinqui]) and that word just fascinated me for some reason. As to how I learnt the word from my friends, and the context in which they used it, those have been lost to time; the obvious would be them using it as a greeting, but I feel like this wasn’t the case.
@@ -464,6 +464,9 @@ It is apparent how quickly this sum grows if either $c$ or $N$ is increased, esp
 </table>
 
 Without capitalisation, the alphabet has 26 characters. Including numerals, we take the character set to have 36 characters. From a purely mathematical perspective, this already provides far too many unique usernames to ever come close to running out, even with character limits in place. With capitalisation, this expands to 52 characters. Including all of the characters that are indicated on a standard QWERTY keyboard (ignoring unprinted or unindicated keyboard combinations), we reach 94 characters.
+
+
+<br>
 
 
 ## APPENDIX 2.0
