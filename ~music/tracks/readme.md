@@ -60,10 +60,10 @@ src="../../.assets/covers/Day.PNG" href="Algorhythm Origins/Day.wav">
 src="../../.assets/covers/~.PNG" href="Algorhythm Origins/~.wav">
 <img alt="Daybreak" title="~" height="240px"
 src="../../.assets/covers/~.PNG" href="Algorhythm Origins/~.wav">
-<img alt="Yesterday" title="~" height="240px"
-src="../../.assets/covers/~.PNG" href="Algorhythm Origins/~.wav">
-<img alt="Night" title="~" height="240px"
-src="../../.assets/covers/~.PNG" href="Algorhythm Origins/~.wav">
+<img alt="Yesterday" title="Yesterday" height="240px"
+src="../../.assets/covers/Yesterday.jpg" href="Algorhythm Origins/~.wav">
+<img alt="Night" title="Night" height="240px"
+src="../../.assets/covers/Night.jpg" href="Algorhythm Origins/~.wav">
 <img alt="Tomorrow" title="~" height="240px"
 src="../../.assets/covers/~.PNG" href="Algorhythm Origins/~.wav">
 <img alt="Rise" title="~" height="240px"
