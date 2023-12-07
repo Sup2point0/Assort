@@ -28,7 +28,7 @@
     &emsp; <a href="#Encounter">Encounter</a> <br>
     &emsp; <a href="#Evolution">Evolution</a> <br>
     &emsp; <a href="#Animation">ASIDE – Animation</a> <br>
-    &emsp; <a href="#Confirmity">Conformity</a> <br>
+    &emsp; <a href="#Conformity">Conformity</a> <br>
     &emsp; <a href="#Modernity">Modernity</a> <br>
     &emsp; <a href="#Timescale">ASIDE – Timescale</a> <br>
     <a href="#Derivatives">A Look at Derivatives</a> <br>
