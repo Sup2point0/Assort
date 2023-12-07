@@ -4,7 +4,7 @@
   <summary> <b> </b> </summary>
 
 &ensp; *Assort*. 2024 ~; origin(~writing): origins.md.  
-&ensp; © 2024 Sup#2.0 (https://github.com/Sup2point0)  
+&ensp; © 2024 Sup#2.0 (<https://github.com/Sup2point0>)  
 &ensp; ACI: `20|0067iX`; CXUL: `AN.AC.?`
 
 </details>
@@ -35,8 +35,8 @@
     <a href="#Analysis">Pristine Perfection</a> <br>
     <a href="#Ecosystem">The Emergent Ecosystem</a> <br>
     <a href="#Alternatives">What If: Considered Alternatives</a> <br>
-    <a href="#Appendix-1">Appendix 1.0 – Unique Usernames</a> <br>
-    <a href="#Appendix-2">Appendix 2.0</a> <br>
+    <a href="#Appendix-1.0">Appendix 1.0</a> <br>
+    <a href="#Appendix-2.0">Appendix 2.0</a> <br>
     <a href="#Closure">Closure</a> <br>
     <a href="#Acknowledgements">Acknowledgements</a> <br>
     <a href="#Final-Thoughts">Final Thoughts</a> <br>
@@ -51,7 +51,7 @@
 
 ## ABSTRACT
 
-> Many a times in the past have people, both those I have met online and those I know in real life, inquired into the origins behind my username `Sup#2.0`. However, for years the answer has been “oh, there’s *so* much lore behind it” [sic], or I have resorted to giving a quick (and often inconsistently incomplete) rundown, which leaves much to be desired, if only on my end. This will seek to remedy that. We will take a deep dive into the lore, reasoning and rationale behind the username of Sup#2.0 and its derivatives, analyse its evolution, structure and aptness, and finally consider various potential alternatives.
+&emsp; Many a times in the past have people, both those I have met online and those I know in real life, inquired into the origins behind my username `Sup#2.0`. However, for years the answer has been “oh, there’s *so* much lore behind it” [sic], or I have resorted to giving a quick (and often inconsistently incomplete) rundown, which leaves much to be desired, if only on my end. This will seek to remedy that. We will take a deep dive into the lore, reasoning and rationale behind the username of Sup#2.0 and its derivatives, analyse its evolution, structure and aptness, and finally consider various potential alternatives.
 
 
 <br>
@@ -59,7 +59,7 @@
 
 ## FOREWORD
 
-*This is perhaps a rather confused piece of writing, both in style and purpose; whether this is intentional or not shall, as per tradition, be left as an exercise to the reader. I’m sure there is plenty of profound meaning and allegory intwined here amidst the ambience and quasi-sarcastive ironicity, but as the supposed writer I’m afraid I could not tell you – it is up to you what you make of it. Hopefully this brief introduction will have only confused you further and unsettled any doubts still plaguing your mind. Enjoy.*
+> *This is perhaps a rather confused piece of writing, both in style and purpose; whether this is intentional or not shall, as per tradition, be left as an exercise to the reader. I’m sure there is plenty of profound meaning and allegory intwined here amidst the ambience and quasi-sarcastive ironicity, but as the supposed writer I’m afraid I could not tell you – it is up to you what you make of it. Hopefully this brief introduction will have only confused you further and unsettled any doubts still plaguing your mind. Enjoy.*
 
 
 <br>
@@ -69,17 +69,26 @@
 
 Across the various sites and services of the internet, users are given the option to create their own ‘username’, a pseudonym much like our real names that will represent that person online. Whether this must be unique, or if it can be modified once set, depends on the platform in question. However, often in the interest of creating an online ‘identity’ or ‘persona’ – especially for those involved in the content creation, such as music artists, livestreamers, YouTubers, etc. – individuals will decide upon a username and stick to it across platforms.
 
-Some platforms (such as [YouTube](https://youtube.com) and [Discord](https://discord.com)) distinguish between an ‘identifying’ and ‘displayed’ username (note that these terms are unofficial). The key difference is that identifying usernames must be unique for each user, while displayed usernames can be identical to another user’s [^1][^2]. However, from a syntactic perspective the only difference is in the restrictions placed upon their format – for the purposes of analysis their distinction can be ignored.
+Some platforms (such as [YouTube](https://youtube.com) and [Discord](https://discord.com)) distinguish between an ‘identifying’ and ‘displayed’ username (note that these terms are unofficial). The key difference is that identifying usernames must be unique for each user, while displayed usernames can be identical to another user’s [^unique-youtube][^unique-disc]. However, from a syntactic perspective the only difference is in the restrictions placed upon their format – for the purposes of analysis their distinction can be ignored.
+
+[^unique-youtube]: YouTube Help. *Handles overview*. <https://support.google.com/youtube/answer/11585688>
+[^unique-disc]: Discord Help. *...*. <...>
 
 
 <br>
 
 
-<h2 name="Usernames"> STRUCTURE AND STYLE IN USERNAMES </h2>
+<h2 name="Usernames"> CONSIDERATIONS IN USERNAME CREATION <h2>
+
+
+<br>
+
+
+<h2 name="Usernames"> STRUCTURAL AND STYLISTIC FEATURES </h2>
 
 > TLDR; a number of distinct styles of usernames have emerged, dependent on several features which we will take into consideration when analysing `Sup#2.0` later on.
 
-Usernames are represented as strings of characters. At the very least, this includes the 26 letters of the English alphabet, and almost always the 10 arabic numerals too. Most platforms will also keep capitalisation (though not all, particularly in identifying usernames), and some allow non-alphanumeric characters, such as hyphens and underscores. This, perhaps expectedly, is sufficient for an incredible number of username possibilities. (We expand upon this in [Appendix](#Appendix).)
+Usernames are represented as strings of characters. At the very least, this includes the 26 letters of the English alphabet, and almost always the 10 arabic numerals too. Most platforms will also keep capitalisation (though not all, particularly in identifying usernames), and some allow non-alphanumeric characters, such as hyphens and underscores. This, perhaps expectedly, is sufficient for an incredible number of username possibilities. (We expand upon this in [Appendix 1.0](#Appendix-1).)
 
 With users striving to create unique, distinct and ultimately ‘cool’ <!-- this is subjective, ofc --> usernames, a number of distinct styles or formats have emerged – structures or patterns that many usernames follow, involving features such as word choice, capitalisation, and symbol usage. These give them a particular ‘flavour’ or ‘vibe’ that can be difficult to put into words. Several of these structures can be decomposed into combinations and variations of different features, yet may not always be the sum of its parts; as always, context and nuance is paramount. We will explore these features and endeavour to characterise the general impressions they tend to leave.
 
@@ -226,21 +235,27 @@ Capitalisation is one of the core factors affecting the feeling of a username. W
 ### Emergence
 As a child I did not have much interaction with the internet – electronics, certainly, but my online presence came much later.
 
-The first occasion where I found myself requiring a username was when I played [*diep.io*](https://diep.io) for the first time. This is one of many iconic *.io games*, which formed an unforgettable part of my childhood. In diep.io, the goal is to control a tank and attack other players, defeating them to increase your score and unlock upgrades. Naturally, a username would be desirable here, to leave an impression upon your opponents’ minds as they fall under your might, or – more likely – making a name for yourself in the hopes that other players may someday recognise you.
+The first occasion where I found myself requiring a username was when I played *diep.io*[^link-diep] for the first time. This is one of many iconic *.io games*, which formed an unforgettable part of my childhood. In diep.io, the goal is to control a tank and attack other players, defeating them to increase your score and unlock upgrades. Naturally, a username would be desirable here, to leave an impression upon your opponents’ minds as they fall under your might, or – more likely – making a name for yourself in the hopes that other players may someday recognise you.
 
 I suspect I may have played as an unnamed tank at first, which is indeed an option diep.io and many other .io games offer (very rarely would other platforms allow this, for evident reasons). In-game, this leaves the space above a player’s tank empty, where their username would otherwise be displayed, and in death screens or notifications, they are simply referred to as “an unnamed tank”. The only other username I can recall using is `KILLER`, though this is concerningly dubious. Soon it occurred to me that I should decide upon a permanent username to be known as.
+
+[^link-diep]: Online shooter game. https://diep.io
 
 ### Discovery
 If I recall correctly, I first heard of the word “sup” from my childhood friends. Though very much faded, I can still feel some twinge of... envy, perhaps? – in all honesty, I cannot remember – but there was certainly a feeling. I was never one to keep up with slang (this is still somewhat the case today [^slinqui]) and that word just fascinated me for some reason. As to how I learnt the word from my friends, and the context in which they used it, those have been lost to time; the obvious would be them using it as a greeting, but I feel like this wasn’t the case.
 
 And so, when it came to devising a username for myself, I settled on `Sup` (capitalisation unknown). This is, exactly, the origin of my username – a cool word I heard from my friends as an innocent child who felt mildly left out. I could not tell you if I planned on this staying with me forever, but that quiet kid who strays from mainstream, and does their own thing? He’s still here, and I hope he stays with me forever.
 
+[^slinqui]: ...
+
 ### Encounter
 I was happy with “Sup” for a while. I cannot remember the feeling, but I know I would’ve loved the username. I can almost imagine the intense pride and sense of uniqueness I must’ve felt at the time.
 
-This next part is probably the most questionable detail in this entire story, and at this point I’m conflicted as to whether it is actually true or just a fabrication of my mind that I’ve managed to trick (almost ‘doublethink’ [^1984]) myself into believing.
+This next part is probably the most questionable detail in this entire story, and at this point I’m conflicted as to whether it is actually true or just a fabrication of my mind that I’ve managed to trick (almost ‘doublethink’ [^doublethink]) myself into believing.
 
 One day, I happened to come across another player called “Sup” (again, capitalisation unknown). Now this, was unacceptable. My username absolutely had to be unique. I had never considered that someone else might think of using the same username of “Sup”, and this revelation shook me greatly. Immediately I began considering what I could change it too. I settled on keeping `Sup`, but adding more to it. This ended up being `#2.0`.
+
+[^doublethink]: ...
 
 ### Evolution
 The (original) reasoning behind `Sup#2.0` can be summarised as follows:
@@ -250,31 +265,41 @@ The hashtag (strictly speaking, the hash) was, quite simply, a cool character. T
 
 `2.0`, however, was originally `0.2`. See, I knew “x-point y”, where $x$ and $y$ are elements of the set $\set{0, 2}$ and $x\neq{y}$, was a technical ‘term’, and it blew the mind of my inner child. Except, I didn’t know which way round $x$ and $y$ were, and thought “0.2” looked correct – as it happens, it wasn’t. So I was skulking about as `Sup#0.2`, thinking I had a fantastic username, when I had gotten part of it embarassingly wrong.
 
-It took us working with [LEGO WeDo 2.0](https://education.lego.com/products/lego-education-wedo-2-0-core-set/45300/) at school for me to realise the technical part I wanted to add should have been `2.0`, not `0.2`. Immediately, I updated it to its purest form today – `Sup#2.0`.
+It took us working with LEGO WeDo 2.0 [^wedo-2.0]) at school for me to realise the technical part I wanted to add should have been `2.0`, not `0.2`. Immediately, I updated it to its purest form today – `Sup#2.0`.
+
+[^wedo-2.0]: ... <https://education.lego.com/products/lego-education-wedo-2-0-core-set/45300>
 
 <h3 name="Animation"> ASIDE – Animation </h3>
-Around the time of `Sup#2.0`’s conception I had briefly watched a YouTuber *wbangca* [^wbanca]. <!-- strange name, I know, and he still hasn’t changed it to this day! o7 --> He, as was becoming popular at the time [^intro-popular], had an elaborate intro animation to his videos. It consisted of many video feeds flying in to merge into a single cube, which then revealed his username, `wbangca`.
+
+Around the time of `Sup#2.0`’s conception I had briefly watched a YouTuber *wbangca* [^wbanca]. <!-- strange name, I know, and he still hasn’t changed it to this day! o7 --> He, as was becoming popular at the time [^yt-intros], had an elaborate intro animation to his videos. It consisted of many video feeds flying in to merge into a single cube, which then revealed his username, `wbangca`.
 
 This utterly blew the mind of my younger self, and, loving to create my own parodies of things, I imagined what my own intro with `Sup#2.0` could look like. I would have videos flying inwards, but instead of arranging into a cube, they would meld together to form the hash `#`. This did not play a part in the conception of `Sup#2.0` per se, but was certainly something that reinforced it in my mind.
 
-[^wbanca]: YouTuber. YouTube: https://youtube.com/@wbangca
-[^intro-popular]: ...
+[^wbanca]: YouTuber. YouTube: <https://youtube.com/@wbangca>
+[^yt-intros]: ...
 
 ### Conformity
-Being into .io games, especially diep.io, I would watch other people play on YouTube. There was no one I enjoyed more than [*iXPLODE*](https://youtube.com/@iXPLODE), who I remained a dedicated viewer of for years. He [^gender] did end up, unfortunately, being corrupted by [*Fortnite*](...)’s surge in popularity, and stopped making .io games content; however, his old videos can still be found on his channel. [^]
+Being into .io games, especially diep.io, I would watch other people play on YouTube. There was no one I enjoyed more than *iXPLODE* [^iX], who I remained a dedicated viewer of for years. He [^iX-gender] did end up, unfortunately, being corrupted by [*Fortnite*](...)’s surge in popularity, and stopped making .io games content; however, his old videos can still be found on his channel. [^]
 
-In the .io games community there existed ‘clans’, generally named after popular .io games YouTubers (`TheLegendMasterOv` was especially prominent. [^stats]). It is unclear whether these were intentionally created by those YouTubers themselves, or unofficially started by loyal fans. Note that these had no intrinsic functionality in-game, but had other emergent effects, such as friendship, rivalry, teaming, and ultimately, promotion for the YouTuber. Players, if they so chose to do so, would denote the clan they belonged to with a ‘tag’ before their name, resulting in `[clan] username`.
+In the .io games community there existed ‘clans’, generally named after popular .io games YouTubers (`TheLegendMasterOv` was especially prominent. [^masterov-stats]). It is unclear whether these were intentionally created by those YouTubers themselves, or unofficially started by loyal fans. Note that these had no intrinsic functionality in-game, but had other emergent effects, such as friendship, rivalry, teaming, and ultimately, promotion for the YouTuber. Players, if they so chose to do so, would denote the clan they belonged to with a ‘tag’ before their name, resulting in `[clan] username`.
 
-The *iXPLODE* fanbase also had a slightly different tradition. *iXPLODE* would name himself `iX` while playing [^], and his fans followed suit. (It is also possible fans started naming themselves `iX` as an abbreviation of `iXPLODE`, and *iXPLODE* picked up on this; it is unclear which happened first) This had the effect of allowing any player named `iX` to become essentially anonymous, which *iXPLODE* started doing to avoid the hassle of unwanted arguments (in .io games where chat was available) and targeting (i.e. purposefully chasing after recognised players) [^].
+The *iXPLODE* fanbase also had a slightly different tradition. *iXPLODE* would name himself `iX` while playing [^iX-name], and his fans followed suit. (It is also possible fans started naming themselves `iX` as an abbreviation of `iXPLODE`, and *iXPLODE* picked up on this; it is unclear which happened first) This had the effect of allowing any player named `iX` to become essentially anonymous, which *iXPLODE* started doing to avoid the hassle of unwanted arguments (in .io games where chat was available) and targeting (i.e. purposefully chasing after recognised players) [^io-conflicts].
 
 Despite at first having scoffed at .io games players who added clan tags for their pretentiousness, eventually I decided I wanted to show my attachment to *iXPLODE* too. Nevertheless, I did not want to erase my identity entirely, so I used `iX` as a prefix – hence my .io games username unlocked its final evolution: `[iX] Sup#2.0`. Looking upon this form of the username always brings a pang of nostalgia to my heart.
 
 `iX` is a wonderfully simple abbreviation of `iXPLODE`, but impressively manages to retain personality and elegance (as per what was previously discussed in [Structure and Style in Usernames](#Usernames)). I have always found `[iX]` to be a rather non-disruptive tag, and enjoy how the `i` slots comfortably into the `X` with the square brackets wrapping firmly around – of course, I am biased, but these still stand. Above all, its shortness and simplicity lends itself extremely well to being a tag, unlike others such as `[MasterOv]` and `[...]`, which often end up dominating the usernames they affix. `[iX]` complements `Sup#2.0` nicely, adding even more flavour with the brackets, capitalisation and unique characters.
 
+[^socials-iX]: YouTuber. YouTube: <https://youtube.com/@iXPLODE>
+[^iX-gender]: ...
+[^masterov-stats]: ...
+[^iX-name]: ...
+[^io-conflicts]: ...
+
 ### Modernity
 Inevitably, I fell out of .io games, and with it, dropped the `[iX]` tag. This takes us to the present, where `Sup#2.0` is firmly here to stay. Although, with the increase in the number of sites I have created accounts on, many of which have different username allowances, `Sup#2.0` is actually rarely seen as my username – rather, `Sup2point0` has become far more ubiquitous. We will expand further upon this in [A Look at Derivatives](#Derivatives).
 
 <h3 name="Timescale"> ASIDE – Timescale </h3>
+
 While the chronological progression of events was straightforward to recall, pinpointing when they occurred was not.
 
 Through a hybrid technique of introspective neural reactivation and psychochronological meta-analysis, we can (approximately) deduce the following.
@@ -293,11 +318,11 @@ Through a hybrid technique of introspective neural reactivation and psychochrono
 <h2 name="Derivatives"> A LOOK AT DERIVATIVES </h2>
 
 ### Sup2.0
-Due to aforementioned character restrictions[^](#), more often than not `Sup#2.0` cannot be used as a username. (The `#` tends to be especially problematic.) This is unfortunate, but it is a reality I have come to accept.
+Due to [aforementioned](#Usernames) character restrictions, more often than not `Sup#2.0` cannot be used as a username. (The `#` tends to be especially problematic.) This is unfortunate, but it is a reality I have come to accept.
 
-On lenient platforms where `.` is allowed but `#` is not, `Sup2.0` thus becomes the next best option. Indeed, it does look somewhat empty or incomplete without the `#` (discussed in [Pristine Perfection](#Analysis]), but the essence of the username is there. In rare cases where capitalisation is not retained (specifically Disc usernames [^disc-username]), `sup2.0` may occur – even more tragedic, but still preferred over the following.
+On lenient platforms where `.` is allowed but `#` is not, `Sup2.0` thus becomes the next best option. Indeed, it does look somewhat empty or incomplete without the `#` (discussed in [Pristine Perfection](#Analysis), but the essence of the username is there. In rare cases where capitalisation is not retained (specifically Disc usernames [^disc-username...]), `sup2.0` may occur – even more tragedic, but still preferred over the following.
 
-[^disc-username]: ...
+[^disc-username...]: ...
 
 ### Sup2point0
 This has, undoubtedly, become the most ubiquitous form of the username, used as a login username, handle, and in URLs. Containing only alphanumeric characters and not caring about capitalisation all that much, it is highly reliable and almost guaranteed to work on any platform.
@@ -308,7 +333,7 @@ The word `point` is an expansion of `.`, since `2.0` is read ‘two-point-oh’.
 <br>
 
 
-<h2 name="Analysis"> PRISTINE PERFECTION: STRUCTURAL ANALYSIS </h2>
+<h2 name="Analysis"> PRISTINE PERFECTION </h2>
 
 
 <br>
@@ -318,10 +343,12 @@ The word `point` is an expansion of `.`, since `2.0` is read ‘two-point-oh’.
 
 > TLDR; a lot of the things I say, write, name and use are related in some way to the username `Sup#2.0`.
 
-This username has sparked the creation of many idiosyncrasies, archetypes and inside jokes. Explaining them may be like dissecting a frog [^frog], so proceed at your own risk.
+This username has sparked the creation of many idiosyncrasies, archetypes and inside jokes. Explaining them may be like dissecting a frog [^frog-dissect], so proceed at your own risk.
+
+[^frog-dissect]: ...
 
 ### Salutations!
-“sup” (lowercase) has become, without a doubt, my go-to and absolute favourite greeting. It acts as both a greeting and conversation starter, can be taken to mean either, and sets an informal and fun tone. The latter is also why the lowercase here is important. Friends of mine may recount instances where I accidentally send a capitalised `Sup`, and immediately correct it with `*sup` – which might appear rather questionable, but is absolutely vital. [^sauce: trust bro]
+“sup” (lowercase) has become, without a doubt, my go-to and absolute favourite greeting. It acts as both a greeting and conversation starter, can be taken to mean either, and sets an informal and fun tone. The latter is also why the lowercase here is important. Friends of mine may recount instances where I accidentally send a capitalised `Sup`, and immediately correct it with `*sup` – which might appear rather questionable, but is absolutely vital. [^sauce]
 
 “suppety sup” (pronounced `/ˌsʌpətiˈsʌp/`) is sparingly used as a playful and cuter variant. It can be taken to follow the format of “hippety hop”.
 
@@ -338,9 +365,9 @@ Focusing on a singular chat with ? messages from me.
 [^sauce]: trust bro
 
 ### Soup?
-Perhaps the one word my usage of confuses people most is “soup”. [^confusion]
+Perhaps the one word my usage of confuses people most is “soup”. <!-- I’m aware of the irony in this being itself a confusing sentence. -->
 
-I’ve taken quite a liking to this meaning, and have used it ever since. While “soup” has the literal meaning of ‘soup’ one drinks, <!-- I love soup! --> “soup” (`/suːp/`) can also be heard as a playful corruption of “sup” (`/sʌp/`), where the rounding of the mouth changes the `ʌ` to `uː`.
+I’ve taken quite a liking to this meaning, and have used it ever since. While “soup” has the literal meaning of ‘soup’ one drinks, <!-- I unironically do love soup. Soup for life. --> “soup” (`/suːp/`) can also be heard as a playful corruption of “sup” (`/sʌp/`), where the rounding of the mouth changes the `ʌ` to `uː`.
 
 ### Sups~
 A quintessential saying of mine is as follows:
@@ -389,9 +416,11 @@ As it happens, I did proceed to devise a list of potential usernames (for myself
 Every option here encapsulates different 
 
 ### Synchra
-I find this filled with intrigue and character. It derives from ‘Synchro’ monsters in *[Yu-Gi-Oh!]* [^Synchro].
+I find this filled with intrigue and character. It derives from ‘Synchro’ monsters in Yu-Gi-Oh! [^synchro].
 
 `SynchraNaut` / `synchraNaut` is even more intriguing, and initialises nicely to `SN` / `sN`.
+
+[^synchro]: A Monster Type in the *Yu-Gi-Oh* trading card game. <https://yugipedia.com/wiki/Synchro_Monster>
 
 ### Dawn
 While I personally find *Dawn* filled with personality and possibility, it is also fairly generic, definitely not unique, and a real name. Of all the alternatives, however, this is the one I have envisioned being known by the most, and in all honesty, going by ‘Dawn’ would be pretty cool.
@@ -403,9 +432,9 @@ Every option here holds its own character, and I love each and every one of them
 <br>
 
 
-<h2 name="Appendix"> APPENDIX: UNIQUE USERNAMES </h2>
+## APPENDIX 1.0
 
-Previously in [Structure and Styles in Usernames](#Usernames) we mentioned the huge number of possible usernames. Here we take a deeper look at this and consider just how many there are.
+Previously in [Structural and Stylistic Features](#Features) we mentioned the huge number of possible usernames. Here we take a deeper look at this and consider just how many there are.
 
 Ignoring semantics (i.e. if a username is realistic), this is influenced by 2 factors: the size of the character set (which characters can be used), and the character length limit (the maximum character length of a username). For instance, with a character set `{S, Q}` and a character limit of 3, we obtain the following possibilities:
 
@@ -434,6 +463,27 @@ It is apparent how quickly this sum grows if either $c$ or $N$ is increased, esp
 </table>
 
 Without capitalisation, the alphabet has 26 characters. Including numerals, we take the character set to have 36 characters. From a purely mathematical perspective, this already provides far too many unique usernames to ever come close to running out, even with character limits in place. With capitalisation, this expands to 52 characters. Including all of the characters that are indicated on a standard QWERTY keyboard (ignoring unprinted or unindicated keyboard combinations), we reach 94 characters.
+
+
+## APPENDIX 2.0
+
+> [!Note]
+> This section contains subjective content, as well as significantly off-topic digressions.
+
+When discussing username styles[^](#Features) we avoided using real examples for continuity and objectivity. Here we take a look at some usernames I find exceptionally interesting, creative, and/or memorable.
+
+### Silentroom
+*Silentroom* [^socials-silentroom], formerly *polycube* (2012–201?)[^silentroom-doc], is a rhythm game musical artist.
+
+We can classify `Silentroom` as a compound 2-word initial-case username. Compared to others of its kind, I would say it pulls it off much better. This is somewhat down to “silentroom” sounding almost like a single compound word, rather than distinctly ‘silent room’ (hence why `SilentRoom` would actually be less effective). That cohesion also has the effect of emphasising its meaning, while allowing it to grow into something more. Considering the backstory of Silentroom as an artist, it is an absolutely apt name charged with weight and emotion.
+
+On YouTube, the video titles for Silentroom’s tracks follow the unusual format of ` / Silentroom` (as opposed to the standard `<artist> – <track>`). This further accentuates `Silentroom`, but the `/` also places the 2 parts on equal ground, resulting in quite a special effect.
+
+While on the topic of Silentroom, one of his most renowned tracks is *Nhelv* [^nhelv], which is an incredible specimen of a name – for anything. It appears to be a portmanteau of `nerv` (German for ‘nerve’) and `hell`; literally ‘nerve hell’, fitting for its neurofunk genre, sound design and visuals.
+
+[^socials-silentroom]: ...
+[^silentroom-doc]: ...
+[^nhelv]: ...
 
 
 <br>
@@ -499,7 +549,9 @@ Just in case you’re still bored.
 <br>
 
 
-## REFERENCES
+## REFERENCES & FOOTNOTES
 
-[^1]: YouTube Help. *Handles overview* [Online]. Available: https://support.google.com/youtube/answer/11585688
-[^2]: Discord Help. *...* [Online]. Available: ...
+> [!Note]
+> Due to Markdown limitations, references and footnotes are listed together.
+
+<!-- Yes, we’re doing this. -->
