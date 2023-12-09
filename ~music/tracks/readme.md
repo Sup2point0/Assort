@@ -29,24 +29,26 @@ src="../../.assets/covers/Boosted Memories.PNG" href="Boosted Memories.m4a">
 
 ## Series
 
-### Algorhythm CODEX
+### Elysion
 Soundtracks included in the *DECODE* and *ENCODE* series of *Algorhythm*.
 
-<img alt="Scars" title="" height="240px"
+<img alt="Ephemeris" title="" height="240px"
 src="../../.assets/covers/~.PNG" href="~.wav">
-<img alt="Drop" title="" height="240px"
+<img alt="Aphenia" title="" height="240px"
 src="../../.assets/covers/~.PNG" href="~.wav">
 <img alt="Lullacry" title="" height="240px"
 src="../../.assets/covers/~.PNG" href="~.wav">
 <img alt="Dactyl" title="" height="240px"
 src="../../.assets/covers/~.PNG" href="~.wav">
+<img alt="pseudorandom" title="" height="240px"
+src="../../.assets/covers/~.PNG" href="~.wav">
 <img alt="eRhythm PURE" title="" height="240px"
 src="../../.assets/covers/~.PNG" href="~.wav">
-<img alt="pseudorandom" title="" height="240px"
+<img alt="Viridian" title="" height="240px"
 src="../../.assets/covers/~.PNG" href="~.wav">
 <img alt="Cloud Sine" title="" height="240px"
 src="../../.assets/covers/~.PNG" href="~.wav">
-<img alt="The Algorithm" title="" height="240px"
+<img alt="Scars" title="" height="240px"
 src="../../.assets/covers/~.PNG" href="~.wav">
 
 ### Algorhythm Origins
