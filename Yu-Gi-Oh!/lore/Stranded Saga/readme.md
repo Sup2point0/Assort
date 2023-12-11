@@ -133,7 +133,7 @@ Each character’s name changes slightly throughout the storyline.
   </tr>
   <tr>
     <td> <a href="The Stranded Saga.md#EXTRACTS"><em>Extracts</em></a> </td>
-    <td> Luce the Standed Dreamer </td>
+    <td> Luce the Stranded Dreamer </td>
     <td> Seya the Stranded Wanderer </td>
     <td rowspan="5"> Xlob the Stranded Worldwalker </td>
     <td rowspan="4"> Kyra the Stranded Saviour </td>
@@ -141,17 +141,17 @@ Each character’s name changes slightly throughout the storyline.
   <tr>
     <td rowspan="3"> <a href="The Stranded Saga.md#ARC-I"><em>Arc I</em></a> </td>
     <td> Lucyn the Stranded Dreamwalker </td>
-    <td rowspan="2"> Seyva the Stranded Supnautican </td>
+    <td rowspan="3"> Seyva the Stranded Supnautican </td>
   </tr>
   <tr>
     <td> Lucyne the Affinitive Worldwalker </td>
   </tr>
   <tr>
     <td rowspan="2"> Lucyon the Aeternal Timewalker </td>
-    <td rowspan="2"> Seyva the Stranded Starwalker </td>
   </tr>
   <tr>
     <td rowspan="2"> <a href="The Stranded Saga.md#ARC-II"><em>Arc II</em></a> </td>
+    <td> Seyva the Stranded Starwalker </td>
     <td> Kyra the Stranded Silencer </td>
   </tr>
   <tr>
