@@ -10,7 +10,7 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
 
 <table>
   <tr>
-    <td rowspan="2"> <a href="../../archetypes/Construct.md">Construct</a> </td>
+    <td rowspan="2"> <a href="archetypes.md#Construct">Construct</a> </td>
     <td> World Construct </td>
     <td rowspan="2"> power cards </td>
   </tr>
@@ -18,12 +18,16 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
     <td> Neural Construct </td>
   </tr>
   <tr>
-    <td rowspan="2"> <a href="../../archetypes/Excursion.md">Excursion</a> </td>
+    <td rowspan="2"> <a href="archetypes.md#Excursion">Excursion</a> </td>
     <td> Endless Excursion </td>
-    <td rowspan="2"> supportive Spell/Traps </td>
+    <td rowspan="2"> protagonist-supportive Continuous Spell/Traps </td>
   </tr>
   <tr>
     <td> Epic Excursion </td>
+  </tr>
+  <tr>
+    <td colspan="2"> <a href="archetypes.md#Incursion">Incursion</a> </td>
+    <td> antagonist-supportive Spell/Traps </td>
   </tr>
   <tr>
     <td colspan="2"> <a href="../../archetypes/Stranded.md">Stranded</a> </td>
@@ -39,7 +43,7 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
 
 <table>
   <tr>
-    <td rowspan="2"> <a href="../../archetypes/Aetern.m">Aetern</a> </td>
+    <td rowspan="2"> <a href="archetypes.md#Aetern">Aetern</a> </td>
     <td> Aeternal </td>
     <td> Spell/Traps, Extra Deck Monsters </td>
   </tr>
@@ -48,11 +52,11 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
     <td> power cards </td>
   </tr>
   <tr>
-    <td colspan="2"> <a href="../../archetypes/Affine.md">Affine</a> </td>
+    <td colspan="2"> <a href="archetypes.md#Affine">Affine</a> </td>
     <td> affinitics </td>
   </tr>
   <tr>
-    <td colspan="2"> <a href="../../archetypes/Catastropical.md">Catastropical</a> </td>
+    <td colspan="2"> <a href="archetypes.md#Catastropical">Catastropical</a> </td>
     <td> natural hazards </td>
   </tr>
   <tr>
@@ -74,7 +78,7 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
 
 <table>
   <tr>
-    <td rowspan="2"> <a href="../../archetypes/Avertroci.md">Avertroci</a> </td>
+    <td rowspan="2"> <a href="archetypes.md#Avertrocious-/-Avertrocity">Avertroci</a> </td>
     <td> Avertrocious </td>
     <td> horrific corrupted beings </td>
   </tr>
@@ -83,7 +87,7 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
     <td> especially horrific especially corrupted beings </td>
   </tr>
   <tr>
-    <td rowspan="2"> <a href="../../archetypes/Cephradica.md">Cephradica</a> </td>
+    <td rowspan="2"> <a href="archetypes.md#Cephradicated">Cephradica</a> </td>
     <td> Cephradicated </td>
     <td rowspan="2"> corrupted Delphoenix </td>
   </tr>
@@ -95,11 +99,11 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
     <td> astral guardians </td>
   </tr>
   <tr>
-    <td colspan="2"> <a href="../../archetypes/Dyverse.md">Dyverse</a> </td>
+    <td colspan="2"> <a href="archetypes#Dyverse">Dyverse</a> </td>
     <td> digital beings </td>
   </tr>
   <tr>
-    <td colspan="2"> <a href="../../archetypes/Dyvoid.md">Dyvoid</a> </td>
+    <td colspan="2"> <a href="archetypes#Dyvoid">Dyvoid</a> </td>
     <td> antimatter antagonists </td>
   </tr>
 </table>
@@ -122,20 +126,24 @@ Each character’s name changes slightly throughout the storyline.
   </tr>
   <tr>
     <td> Original </td>
-    <td> Luce the Stranded Dreamer </td>
-    <td> Seya the Stranded Wanderer </td>
+    <td> Luce </td>
+    <td> Seya </td>
     <td> Xlob </td>
     <td> Kyre </td>
   </tr>
   <tr>
     <td> <a href="The Stranded Saga.md#EXTRACTS"><em>Extracts</em></a> </td>
-    <td> Lucyn the Stranded Dreamwalker </td>
-    <td rowspan="2"> Seyva the Stranded Supnautican </td>
-    <td rowspan="4"> Xlob the Stranded Worldwalker </td>
-    <td rowspan="3"> Kyra the Stranded Saviour </td>
+    <td> Luce the Standed Dreamer </td>
+    <td> Seya the Stranded Wanderer </td>
+    <td rowspan="5"> Xlob the Stranded Worldwalker </td>
+    <td rowspan="4"> Kyra the Stranded Saviour </td>
   </tr>
   <tr>
-    <td rowspan="2"> <a href="The Stranded Saga.md#ARC-I"><em>Arc I</em></a> </td>
+    <td rowspan="3"> <a href="The Stranded Saga.md#ARC-I"><em>Arc I</em></a> </td>
+    <td> Lucyn the Stranded Dreamwalker </td>
+    <td rowspan="2"> Seyva the Stranded Supnautican </td>
+  </tr>
+  <tr>
     <td> Lucyne the Affinitive Worldwalker </td>
   </tr>
   <tr>
