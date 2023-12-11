@@ -147,10 +147,11 @@ Each character’s name changes slightly throughout the storyline.
     <td> Lucyne the Affinitive Worldwalker </td>
   </tr>
   <tr>
-    <td rowspan="2"> Lucyon the Aeternal Timewalker </td>
+    <td> Lucyon the Aeternal Timewalker </td>
   </tr>
   <tr>
     <td rowspan="2"> <a href="The Stranded Saga.md#ARC-II"><em>Arc II</em></a> </td>
+    <td> Lucyne the Stranded Pioneer </td>
     <td> Seyva the Stranded Starwalker </td>
     <td> Kyra the Stranded Silencer </td>
   </tr>
