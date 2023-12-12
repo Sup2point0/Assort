@@ -1,9 +1,7 @@
 # Archetypes
 
 > [!Note]
-> This article is under construction.
-
-> Since there are too many new archetypes that have not been finalised or are not yet concrete in design, they are documented here instead of their own separate file in [archetypes](../../archetypes).
+> It would be ridiculous to create all the cards for all the archetypes in the Stranded Saga (even for me), so they are documented here instead of their own separate file in [archetypes](../../archetypes).
 
 The archetypes of the Stranded Saga can broadly be divided into 2 halves – protagonist and antagonist – where the cards in each archetype are designed to sometimes work together within their half, and sometimes counter the opposite the other half, whether directly or indirectly. Not all cards have overlapping or synergising effects, allowing each archetype to maintain its own character, but the links and crossovers between them enables the potential of mixing them interchangeably into a single cohesive deck.
 
@@ -15,42 +13,42 @@ The archetypes of the Stranded Saga can broadly be divided into 2 halves – pro
   </tr>
   <tr>
     <th rowspan="4"> synergising </th>
-    <td colspan="2" align="center"> Stranded </td>
+    <td colspan="2" align="center"> <a href="#Stranded">Stranded</a> </td>
   </tr>
   <tr>
-    <td> Walker </td>
+    <td> <a href="#Walker">Walker</a> </td>
     <td> </td>
   </tr>
   <tr>
-    <td> Excursion </td>
-    <td> Incursion </td>
+    <td> <a href="#Excursion">Excursion</a> </td>
+    <td> <a href="#Incursion">Incursion</a> </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"> Construct </td>
+    <td colspan="2" align="center"> <a href="#Construct">Construct</a> </td>
   </tr>
   <tr>
     <th rowspan="6"> individual </th>
-    <td colspan="2" align="center"> Catastropical </td>
+    <td colspan="2" align="center"> <a href="#Catastropical">Catastropical</a> </td>
   </tr>
   <tr>
-    <td> Affin </td>
-    <td> Avertroci </td>
+    <td> <a href="#Affin">Affin</a> </td>
+    <td> <a href="#Avertroci">Avertroci</a> </td>
   </tr>
   <tr>
-    <td> Aetern </td>
+    <td> <a href="#Aetern">Aetern</a> </td>
     <td> </td>
   </tr>
   <tr>
-    <td> Supnautic </td>
+    <td> <a href="#Supnautic">Supnautic</a> </td>
     <td> </td>
   </tr>
   <tr>
-    <td> Delphoenix </td>
-    <td> Cephradica </td>
+    <td> <a href="#Delphoenix">Delphoenix</a> </td>
+    <td> <a href="#Cephradica">Cephradica</a> </td>
   </tr>
   <tr>
-    <td> Dyverse </td>
-    <td> Dyvoid </td>
+    <td> <a href="#Dyverse">Dyverse</a> </td>
+    <td> <a href="#Dyvoid">Dyvoid</a> </td>
   </tr>
 </table>
 
@@ -59,15 +57,17 @@ The archetypes of the Stranded Saga can broadly be divided into 2 halves – pro
 
 
 ## Stranded
-This synergy is mainly enabled by the central *Stranded* archetype, which connects the archetypes with its many cross-archetypal cards (like [Catastropical Island of the Stranded](...)) and multi-archetype support (like [Stranded Fusion](...)). Most of the main characters belong primarily to this archetype, and the Spell/Traps detail most of the significant events in the storyline.
 
 > See [*Stranded*](../../archetypes/Stranded.md) for more.
+
+This synergy is mainly enabled by the central *Stranded* archetype, which connects the archetypes with its many cross-archetypal cards (like [Catastropical Island of the Stranded](...)) and multi-archetype support (like [Stranded Fusion](...)). Most of the main characters belong primarily to this archetype, and the Spell/Traps detail most of the significant events in the storyline.
 
 
 <br>
 
 
 ## Excursion
+
 An archetype including the *Epic Excursion* Continuous Spells, and *Endless Excursion* Continuous Traps. These represent the different locations visited by the characters in the storyline.
 
 | card | supports |
@@ -82,7 +82,14 @@ An archetype including the *Epic Excursion* Continuous Spells, and *Endless Excu
 <br>
 
 
+## Incursion
+
+
+<br>
+
+
 ## Catastropical
+
 An archetype of elemental Monsters with various Types.
 
 <details>
@@ -97,6 +104,7 @@ Catastropical Construction
 
 
 ## Affin
+
 An archetype featuring Monsters of various Attributes and Types, harnessing all Summoning techniques.
 
 <details>
@@ -115,13 +123,14 @@ Vinita Arkhelm, Affine Legend
 
 Affine Legacy  
 
-</details
+</details>
 
 
 <br>
 
 
 ## Aetern
+
 An archetype of LIGHT and DARK Galaxy Fusion and Xyz Monsters, focusing on Fusion Summoning non-combative Monsters through fusing Spell/Traps instead of Monsters, somewhat inspired by the [*Runick*](https://yugipedia.com/wiki/Runick) archetype. It has no Main Deck Monsters, even having many cards that restrict the player from Special Summoning Main Deck Monsters. The archetype includes the subarchetypes *Aeternal* and *Aeternity*, with the latter being reserved for a select few power cards.
 
 <details>
@@ -154,6 +163,7 @@ Aeternal Void
 
 
 ## Supnautic
+
 See [*Supnautic*](../../archetypes/Supnautic.md).
 
 
@@ -185,6 +195,7 @@ Avertrocious Remnants
 
 
 ## Delphoenix
+
 See [*Delphoenix*](../../archetypes/Delpheonix.md).
 
 
@@ -198,6 +209,7 @@ See [*Delphoenix*](../../archetypes/Delpheonix.md).
 
 
 ## Dyverse
+
 An archetype of WIND Cyberse Monsters.
 
 
@@ -218,6 +230,7 @@ Dyvoid Acpocalyptron Tanalysis
 
 
 ## Construct
+
 A series of unrelated Monsters and Spell/Traps, all of which are power cards related to significant characters or events in the storyline. It includes the *World Construct* subseries.
 
 <details>
