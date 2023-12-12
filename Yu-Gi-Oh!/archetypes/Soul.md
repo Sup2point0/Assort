@@ -511,6 +511,10 @@ Despite its ability to swarm the field with sacrifices or Material for Ritual or
 ### Combos
 With such diversity, the archetype’s playstyle is highly non-linear – to encapsulate it informally, *just spam bodies and hope for the best*.
 
+That being said, there are indeed many cards that are integral to being able to combo. Naturally, that includes [Soul Synchron](#Tuners), the only easily accessible Main Deck Tuner; [Soul Shard](#Soul-Shard), which provides spare Material and access to *Soul Shard* Monsters like [Soul Shard Synchron](#Tuners); and having [Soul Knight](#Low-Level-Synchro-Monsters) in circulation to consistently provide a body is a huge bonus.
+
+And there are plenty of cards that help access the different parts of the archetype. [Soul Alchemist](#Low-Level-Synchro-Monsters) is fantastic for Ritual support. [Soul Scripture](#Main-Spells) is central to finding the Spells needed in any situation, though does leave the choice to the opponent. This can be circumvented by revealing 3 cards with the same name, but bear in mind this does require 3 copies of that card to be *in the Deck* – which is often not the case if 1 has been milled.
+
 ### Tech Picks
 
 ### Weaknesses
