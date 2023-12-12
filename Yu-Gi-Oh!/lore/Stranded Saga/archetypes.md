@@ -54,12 +54,20 @@ The archetypes of the Stranded Saga can broadly be divided into 2 halves – pro
   </tr>
 </table>
 
-### Stranded
+
+<br>
+
+
+## Stranded
 This synergy is mainly enabled by the central *Stranded* archetype, which connects the archetypes with its many cross-archetypal cards (like [Catastropical Island of the Stranded](...)) and multi-archetype support (like [Stranded Fusion](...)). Most of the main characters belong primarily to this archetype, and the Spell/Traps detail most of the significant events in the storyline.
 
 > See [*Stranded*](../../archetypes/Stranded.md) for more.
 
-### Excursion
+
+<br>
+
+
+## Excursion
 An archetype including the *Epic Excursion* Continuous Spells, and *Endless Excursion* Continuous Traps. These represent the different locations visited by the characters in the storyline.
 
 | card | supports |
@@ -70,7 +78,11 @@ An archetype including the *Epic Excursion* Continuous Spells, and *Endless Excu
 | Epic Exursion to the Supnautican Depths | *Supnautic* |
 | Epic Excursion to the Ever-Shining Skies | *Delphoenix* |
 
-### Catastropical
+
+<br>
+
+
+## Catastropical
 An archetype of elemental Monsters with various Types.
 
 <details>
@@ -80,7 +92,11 @@ Catastropical Construction
 
 </details>
 
-### Affin
+
+<br>
+
+
+## Affin
 An archetype featuring Monsters of various Attributes and Types, harnessing all Summoning techniques.
 
 <details>
@@ -101,7 +117,11 @@ Affine Legacy
 
 </details
 
-### Aetern
+
+<br>
+
+
+## Aetern
 An archetype of LIGHT and DARK Galaxy Fusion and Xyz Monsters, focusing on Fusion Summoning non-combative Monsters through fusing Spell/Traps instead of Monsters, somewhat inspired by the [*Runick*](https://yugipedia.com/wiki/Runick) archetype. It has no Main Deck Monsters, even having many cards that restrict the player from Special Summoning Main Deck Monsters. The archetype includes the subarchetypes *Aeternal* and *Aeternity*, with the latter being reserved for a select few power cards.
 
 <details>
@@ -129,10 +149,18 @@ Aeternal Void
 
 </details>
 
-### Supnautic
+
+<br>
+
+
+## Supnautic
 See [*Supnautic*](../../archetypes/Supnautic.md).
 
-### Avertrocious
+
+<br>
+
+
+## Avertrocious
 
 <details>
   <summary> <b> Monsters </b> </summary>
@@ -152,15 +180,31 @@ Avertrocious Remnants
 
 </details>
 
-### Delphoenix
+
+<br>
+
+
+## Delphoenix
 See [*Delphoenix*](../../archetypes/Delpheonix.md).
 
-### Cephradica
 
-### Dyverse
+<br>
+
+
+## Cephradica
+
+
+<br>
+
+
+## Dyverse
 An archetype of WIND Cyberse Monsters.
 
-### Dyvoid
+
+<br>
+
+
+## Dyvoid
 
 <details>
   <summary> <b> Monsters </b> </summary>
@@ -169,12 +213,18 @@ Dyvoid Acpocalyptron Tanalysis
 
 </details>
 
-### Construct
+
+<br>
+
+
+## Construct
 A series of unrelated Monsters and Spell/Traps, all of which are power cards related to significant characters or events in the storyline. It includes the *World Construct* subseries.
 
 <details>
   <summary> <b> Monsters </b> </summary>
 
+Aeternity Catastropical Supnauticator, the Affine Dyverse Construct  
+Avertrocious Cephradicator Arkyrios, the Annihilating Dyvoid Construct  
 World Construct Singularity  
 
 </details>
