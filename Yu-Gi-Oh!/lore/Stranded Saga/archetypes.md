@@ -68,12 +68,19 @@ This synergy is mainly enabled by the central *Stranded* archetype, which connec
 
 ## Excursion
 
-An archetype including the *Epic Excursion* Continuous Spells, and *Endless Excursion* Continuous Traps. These represent the different locations visited by the characters in the storyline.
+An archetype including the *Epic Excursion* Continuous Spells, and *Endless Excursion* Continuous Traps, representing the different locations visited by the characters in the storyline.
+
+They share the following effect.
+
+> You can only control 1 “Excursion” card during the End Phase.
+
+This gives the unique mechanic of being able to activate multiple *Excursion* cards in one turn (particularly relevant if an *Endless Excursion* Trap is activated while the player already controls an *Epic Excursion* Spell), but needing to sacrifice them at the end of the turn.
 
 | card | supports |
 | :--- | :------- |
 | Endless Excursion into the Dreamscape | *Walker* |
 | Epic Excursion to the Catastropical Peaks | *Catastropical* |
+| Endless Excursion into Ancient Aeterra 
 | Epic Excursion to the Affine Lakes | *Affin* |
 | Epic Exursion to the Supnautican Depths | *Supnautic* |
 | Epic Excursion to the Ever-Shining Skies | *Delphoenix* |
@@ -84,13 +91,20 @@ An archetype including the *Epic Excursion* Continuous Spells, and *Endless Excu
 
 ## Incursion
 
+An archetype of Traps and Quick-Play Spells, countering the *Excursion* archetype. Most of the cards also belong to one or more of the antagonist archetypes. These represent some of the moments where those archetypes appear or attack.
+
+| card | supports |
+| :--- | :------- |
+| Avertrocious Incursion | *Avertroci* |
+| Cephradicated Incursion | *Cephradica* |
+
 
 <br>
 
 
 ## Catastropical
 
-An archetype of elemental Monsters with various Types.
+An archetype of elemental Monsters with various Types, representing supernatural hazards faced by the characters in the storyline.
 
 <details>
   <summary> <b> Spell/Traps </b> </summary>
@@ -105,7 +119,7 @@ Catastropical Construction
 
 ## Affin
 
-An archetype featuring Monsters of various Attributes and Types, harnessing all Summoning techniques.
+An archetype featuring Monsters of various Types and Attributes, harnessing all Summoning techniques. The name *affin* is used to inclusively cover the *Affine*, *Affinitic* and *Affinitive* subarchetypes.
 
 <details>
   <summary> <b> Monsters </b> </summary>
@@ -170,7 +184,9 @@ See [*Supnautic*](../../archetypes/Supnautic.md).
 <br>
 
 
-## Avertrocious
+## Avertroci
+
+An archetype featuring Monsters with various Types and Attributes, the antithesis to [*Affin*](#Affin). Similarly, the name *Avertroci* is used to cover the *Avertrocious* and *Avertrocity* subarchetypes, where *Avertrocious* represents the more humanoid antagonists, and *Avertrocity* their creations or actions.
 
 <details>
   <summary> <b> Monsters </b> </summary>
@@ -210,13 +226,15 @@ See [*Delphoenix*](../../archetypes/Delpheonix.md).
 
 ## Dyverse
 
-An archetype of WIND Cyberse Monsters.
+An archetype of Cyberse Monsters with various Attributes.
 
 
 <br>
 
 
 ## Dyvoid
+
+An archetype of DARK Cyborg and Machine Monsters. They represent the primary antagonists in the Stranded storyline.
 
 <details>
   <summary> <b> Monsters </b> </summary>
