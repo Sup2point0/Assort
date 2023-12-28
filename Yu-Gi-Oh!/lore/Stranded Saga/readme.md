@@ -12,7 +12,8 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
   <tr>
     <td rowspan="2"> <a href="archetypes.md#Construct">Construct</a> </td>
     <td> World Construct </td>
-    <td rowspan="2"> power cards </td>
+    <td rowspan="2"> LIGHT, DARK </td>
+    <td rowspan="2"> </td>
   </tr>
   <tr>
     <td> Neural Construct </td>
@@ -20,22 +21,25 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
   <tr>
     <td rowspan="2"> <a href="archetypes.md#Excursion">Excursion</a> </td>
     <td> Endless Excursion </td>
-    <td rowspan="2"> protagonist-supportive Continuous Spell/Traps </td>
+    <td colspan="2"> Continuous Traps </td>
   </tr>
   <tr>
     <td> Epic Excursion </td>
+    <td colspan="2"> Continuous Spells </td>
   </tr>
   <tr>
     <td colspan="2"> <a href="archetypes.md#Incursion">Incursion</a> </td>
-    <td> antagonist-supportive Spell/Traps </td>
+    <td colspan="2"> Quick-Play Spells, Traps </td>
   </tr>
   <tr>
     <td colspan="2"> <a href="../../archetypes/Stranded.md">Stranded</a> </td>
-    <td> cross-archetypal cards </td>
+    <td> LIGHT, DARK </td>
+    <td> </td>
   </tr>
   <tr>
     <td colspan="2"> <a href="../../archetypes/Walker">Walker</a> </td>
-    <td> protagonists </td>
+    <td> LIGHT, DARK </td>
+    <td> </td>
   </tr>
 </table>
 
@@ -45,32 +49,37 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
   <tr>
     <td rowspan="2"> <a href="archetypes.md#Aetern">Aetern</a> </td>
     <td> Aeternal </td>
-    <td> Spell/Traps, Extra Deck Monsters </td>
+    <td rowspan="2"> LIGHT, DARK </td>
+    <td rowspan="2"> Galaxy </td>
+    <td rowspan="2"> Fusion, Xyz </td>
   </tr>
   <tr>
     <td> Aeternity </td>
-    <td> power cards </td>
   </tr>
   <tr>
-    <td colspan="2"> <a href="archetypes.md#Affine">Affine</a> </td>
-    <td> affinitics </td>
+    <td colspan="2"> <a href="archetypes.md#Affin">Affin</a> </td>
+    <td> All </td>
+    <td> Spellcaster, Warrior, Psychic </td>
+    <td> All </td>
   </tr>
   <tr>
     <td colspan="2"> <a href="archetypes.md#Catastropical">Catastropical</a> </td>
-    <td> natural hazards </td>
+    <td> FIRE, WATER, EARTH, WIND </td>
+    <td> Aqua, Pyro, Rock, Thunder </td>
+    <td> Ritual, Fusion </td>
   </tr>
   <tr>
     <td rowspan="3"> <a href="../../archetypes/Supnautic.md">Supnautic</a> </td>
     <td> Supnautica </td>
-    <td>  </td>
+    <td rowspan="3"> WATER, EARTH </td>
+    <td rowspan="3"> Many </td>
+    <td rowspan="3"> Tribute, Flip, Ritual, Fusion </td>
   </tr>
   <tr>
     <td> Supnautican </td>
-    <td>  </td>
   </tr>
   <tr>
     <td> Supnautical </td>
-    <td>  </td>
   </tr>
 </table>
 
@@ -78,33 +87,42 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
 
 <table>
   <tr>
-    <td rowspan="2"> <a href="archetypes.md#Avertrocious-/-Avertrocity">Avertroci</a> </td>
+    <td rowspan="2"> <a href="archetypes.md#Avertroci">Avertroci</a> </td>
     <td> Avertrocious </td>
-    <td> horrific corrupted beings </td>
+    <td rowspan="2"> All </td>
+    <td rowspan="2"> Spellcaster, Warrior, Psychic </td>
+    <td rowspan="2"> All </td>
   </tr>
   <tr>
     <td> Avertrocity </td>
-    <td> especially horrific especially corrupted beings </td>
   </tr>
   <tr>
     <td rowspan="2"> <a href="archetypes.md#Cephradicated">Cephradica</a> </td>
     <td> Cephradicated </td>
-    <td rowspan="2"> corrupted Delphoenix </td>
+    <td rowspan="2"> DARK </td>
+    <td rowspan="2"> Illusion </td>
+    <td rowspan="2"> Dark Synchro, Reincarnation Synchro </td>
   </tr>
   <tr>
     <td> Cephradicator </td>
   </tr>
   <tr>
     <td colspan="2"> <a href="../../archetypes/Delphoenix.md">Delphoenix</a> </td>
-    <td> astral guardians </td>
+    <td> LIGHT </td>
+    <td> Galaxy </td>
+    <td> Ritual, Xyz </td>
   </tr>
   <tr>
     <td colspan="2"> <a href="archetypes#Dyverse">Dyverse</a> </td>
-    <td> digital beings </td>
+    <td> LIGHT, FIRE, WATER, EARTH, WIND </td>
+    <td> Cyberse </td>
+    <td> Synchro, Xyz </td>
   </tr>
   <tr>
     <td colspan="2"> <a href="archetypes#Dyvoid">Dyvoid</a> </td>
-    <td> antimatter antagonists </td>
+    <td> DARK </td>
+    <td> Cyborg, Machine </td>
+    <td> Fusion, Xyz </td>
   </tr>
 </table>
 
