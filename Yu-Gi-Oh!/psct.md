@@ -25,28 +25,27 @@ Take [Endymion, the Mighty Master of Magic](https://yugipedia.com/wiki/Endymion,
 A selection of diverse instances to illustrate how *PSCT* works.
 
 ### Monsters
+
 <table>
   <tr>
     <th> card </th>
     <th> PSCT / <em>PSCT</em> </th>
   </tr>
   <tr>
-    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Kashtira_Arise-Heart">Kashtira Arise-Heart</a> </td>
+    <td rowspan="2"> Kashtira Arise-Heart </td>
     <td> 3 Level 7 monsters <br> Once per turn, you can also Xyz Summon "Kashtira Arise-Heart" by using 1 "Kashtira" monster you control, if an effect of "Kashtira Shangri-Ira" was successfully activated this turn. (Transfer its materials to this card.) Any card sent to the GY is banished instead. Once per Chain, each time a card(s) is banished: Attach 1 banished card to this card as material. Once per turn (Quick Effect): You can detach 3 materials from this card, then target 1 card on the field; banish it face-down. </td>
   </tr>
   <tr>
     <td>
-      <code coffee>
-        3 * Monster[level = 3] <br> 
-        ...
-      </code>
+      <pre lang="coffee"><code>[SS] 3 * Monster[level=3]
+  opt cond [HOPT]: if "Kashtira Shangri-Ira".Activated(Effect[], success=TRUE, turn=THIS):
+  self.SS(XYZ, transfer=TRUE) with Monster("Kashtira", control=you)
+[1] req inf eff: if would Send(Card[] as card, GY), Banish(card)
+[2] req trig eff [OPC] on Card[].Banished(): Target(Card[BN]) as t; self.Attach(t)
+[3] opt quick eff [OPT]: self.Detach(3), Target(Card[FD]) as t; Banish(t, face=down) </code> </pre>
     </td>
   </tr>
 </table>
-
-| card | PSCT | PSSSCCCT |
-| :--- | :--- | :------- |
-| [Kashtira Arise-Heart](https://yugipedia.com/wiki/Kashtira_Arise-Heart) | 
 
 
 <br>
