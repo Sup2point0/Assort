@@ -55,7 +55,7 @@ A selection of diverse instances to illustrate how *PSCT* works.
   </tr>
   <tr>
     <td>
-      <pre lang="coffee"><code>[SS] req cond SS(Ritual, self) with Card["Dogmatika"]
+      <pre lang="coffee"><code>[SS] req Card["Dogmatika"]
 [1] cont eff: Unaffected(Monsters["Dogmatika", control=YOU] by {
   Effects[OPP, activated, Monsters[class=EXTRA]]) }
 [2] opt ignit eff [HOPT]: OPP.Choose(Effect) from {
