@@ -39,10 +39,22 @@ A selection of diverse instances to illustrate how *PSCT* works.
     <td>
       <pre lang="coffee"><code>[SS] 3 * Monster[level=3]
   opt cond [HOPT]: if "Kashtira Shangri-Ira".Activated(Effect[], success=TRUE, turn=THIS):
-  self.SS(XYZ, transfer=TRUE) with Monster("Kashtira", control=you)
+  self.SS(XYZ, transfer=TRUE) with Monster("Kashtira", control=YOU)
 [1] req inf eff: if would Send(Card[] as card, GY), Banish(card)
-[2] req trig eff [OPC] on Card[].Banished(): Target(Card[BN]) as t; self.Attach(t)
-[3] opt quick eff [OPT]: self.Detach(3), Target(Card[FD]) as t; Banish(t, face=down) </code> </pre>
+[2] req trig eff [OPC] on Card[].Banished(): Target(Card[BND]) as t; self.Attach(t)
+[3] opt quick eff [OPT]: self.Detach(3), Target(Card[FLD]) as t; Banish(t, face=down) </code> </pre>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> Drytron Meteonis Draconids </td>
+    <td> You can Ritual Summon this card with "Meteonis Drytron". Your opponent cannot target this card with monster effects. If the total Levels of monsters used for its Ritual Summon are 2 or less, this card can attack all Special Summoned monsters your opponent controls once each. During your opponent's turn (Quick Effect): You can banish monsters from your GY whose combined ATK equals exactly 2000 or 4000, then target 1 face-up card your opponent controls for every 2000 ATK of the total; send that card(s) to the GY. You can only use this effect of "Drytron Meteonis Draconids" once per turn. </td>
+  </tr>
+  <tr>
+    <td>
+      <pre lang="coffee"><code>[SS] "Meteonis Drytron"
+[1] req inf eff: opp.Target[self, Effect[Monster]]=FALSE
+[2] opt inf eff: ...
+[3] opt quick eff [HOPT, turn=OPP]: ... </code> </pre>
     </td>
   </tr>
 </table>
