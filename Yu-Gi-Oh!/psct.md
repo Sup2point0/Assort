@@ -35,7 +35,7 @@ A selection of diverse instances to illustrate how *PSCT* works.
     <th> <em>PSCT</em> </th>
   </tr>
   <tr>
-    <td rowspan="2"> Drytron Meteonis Draconids </td>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Drytron_Meteonis_Draconids">Drytron Meteonis Draconids</a> </td>
     <td> You can Ritual Summon this card with "Meteonis Drytron". Your opponent cannot target this card with monster effects. If the total Levels of monsters used for its Ritual Summon are 2 or less, this card can attack all Special Summoned monsters your opponent controls once each. During your opponent's turn (Quick Effect): You can banish monsters from your GY whose combined ATK equals exactly 2000 or 4000, then target 1 face-up card your opponent controls for every 2000 ATK of the total; send that card(s) to the GY. You can only use this effect of "Drytron Meteonis Draconids" once per turn. </td>
   </tr>
   <tr>
@@ -50,7 +50,7 @@ A selection of diverse instances to illustrate how *PSCT* works.
     </td>
   </tr>
   <tr>
-    <td rowspan="2"> <a href="">Dogmatika Alba Zoa</a> </td>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Dogmatika_Alba_Zoa">Dogmatika Alba Zoa</a> </td>
     <td> Cannot be Ritual Summoned, except by "Dogmatikalamity" or another "Dogmatika" card effect. "Dogmatika" monsters you control are unaffected by the activated effects of your opponent's Fusion, Synchro, Xyz, and Link Monsters. During your Main Phase: You can make your opponent choose and apply 1 of these effects ('you' in these effects means that opponent). <br> ● For every 2 cards in your Extra Deck, send 1 card from your hand or Extra Deck to the GY. <br> ● Return all Fusion, Synchro, Xyz, and Link Monsters you control to the Extra Deck. <br> You can only use this effect of "Dogmatika Alba Zoa" once per turn. </td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@ A selection of diverse instances to illustrate how *PSCT* works.
     </td>
   </tr>
   <tr>
-    <td rowspan="2"> Kashtira Arise-Heart </td>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Kashtira_Arise-Heart">Kashtira Arise-Heart</a> </td>
     <td> 3 Level 7 monsters <br> Once per turn, you can also Xyz Summon "Kashtira Arise-Heart" by using 1 "Kashtira" monster you control, if an effect of "Kashtira Shangri-Ira" was successfully activated this turn. (Transfer its materials to this card.) Any card sent to the GY is banished instead. Once per Chain, each time a card(s) is banished: Attach 1 banished card to this card as material. Once per turn (Quick Effect): You can detach 3 materials from this card, then target 1 card on the field; banish it face-down. </td>
   </tr>
   <tr>
