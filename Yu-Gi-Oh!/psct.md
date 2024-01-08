@@ -28,8 +28,41 @@ A selection of diverse instances to illustrate how *PSCT* works.
 
 <table>
   <tr>
-    <th> card </th>
-    <th> PSCT / <em>PSCT</em> </th>
+    <th rowspan="2"> card </th>
+    <th> PSCT </th>
+  </tr>
+  <tr>
+    <th> <em>PSCT</em> </th>
+  </tr>
+  <tr>
+    <td rowspan="2"> Drytron Meteonis Draconids </td>
+    <td> You can Ritual Summon this card with "Meteonis Drytron". Your opponent cannot target this card with monster effects. If the total Levels of monsters used for its Ritual Summon are 2 or less, this card can attack all Special Summoned monsters your opponent controls once each. During your opponent's turn (Quick Effect): You can banish monsters from your GY whose combined ATK equals exactly 2000 or 4000, then target 1 face-up card your opponent controls for every 2000 ATK of the total; send that card(s) to the GY. You can only use this effect of "Drytron Meteonis Draconids" once per turn. </td>
+  </tr>
+  <tr>
+    <td>
+      <pre lang="coffee"><code>[SS] "Meteonis Drytron"
+[1] cont eff: OPP.Cannot(Target(self) with Effects[Monster])
+[2] opt cont eff if Total(self.SS(Ritual).Monsters.Levels) < 3:
+  self.Can(Attack(all Monsters[SS=TRUE, control=OPP]))
+[3] opt quick eff [HOPT, turn=OPP]:
+  Banish(YOU.GY, Monsters[ATK > 0]) -> fuel where Total(fuel, ATK) = 2000/4000,
+  Target(Card[control=OPP, face=UP]) -> t; Send(GY, t) </code></pre>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> <a href="">Dogmatika Alba Zoa</a> </td>
+    <td> Cannot be Ritual Summoned, except by "Dogmatikalamity" or another "Dogmatika" card effect. "Dogmatika" monsters you control are unaffected by the activated effects of your opponent's Fusion, Synchro, Xyz, and Link Monsters. During your Main Phase: You can make your opponent choose and apply 1 of these effects ('you' in these effects means that opponent). <br> ● For every 2 cards in your Extra Deck, send 1 card from your hand or Extra Deck to the GY. <br> ● Return all Fusion, Synchro, Xyz, and Link Monsters you control to the Extra Deck. <br> You can only use this effect of "Dogmatika Alba Zoa" once per turn. </td>
+  </tr>
+  <tr>
+    <td>
+      <pre lang="coffee"><code>[SS] req cond SS(Ritual, self) with Card["Dogmatika"]
+[1] cont eff: Unaffected(Monsters["Dogmatika", control=YOU] by {
+  Effects[OPP, activated, Monsters[class=EXTRA]]) }
+[2] opt ignit eff [HOPT]: OPP.Choose(Effect) from {
+  [2.1] for every 2 Cards in (OPP.(HAND/EXTRA) as loc) Send(loc, OPP.GY, Card[])
+  [2.2] Return(OPP.EXTRA, Monsters[class=EXTRA], control=OPP])
+} </code></pre>
+    </td>
   </tr>
   <tr>
     <td rowspan="2"> Kashtira Arise-Heart </td>
@@ -39,22 +72,34 @@ A selection of diverse instances to illustrate how *PSCT* works.
     <td>
       <pre lang="coffee"><code>[SS] 3 * Monster[level=3]
   opt cond [HOPT]: if "Kashtira Shangri-Ira".Activated(Effect[], success=TRUE, turn=THIS):
-  self.SS(XYZ, transfer=TRUE) with Monster("Kashtira", control=YOU)
-[1] req inf eff: if would Send(Card[] as card, GY), Banish(card)
-[2] req trig eff [OPC] on Card[].Banished(): Target(Card[BND]) as t; self.Attach(t)
-[3] opt quick eff [OPT]: self.Detach(3), Target(Card[FLD]) as t; Banish(t, face=down) </code> </pre>
+  self.SS(Xyz, transfer=TRUE) with Monster("Kashtira", control=YOU)
+[1] req cont eff: if would Send(GY, Card[] -> card), Banish(card)
+[2] req trig eff [OPC] on Banish(Card[]): Target(Card[VOID]) -> t; self.Attach(t)
+[3] opt quick eff [OPT]: self.Detach(3), Target(Card[FIELD]) -> t; Banish(t, face=DOWN) </code></pre>
     </td>
   </tr>
+</table>
+
+### Spell/Traps
+
+<table>
   <tr>
-    <td rowspan="2"> Drytron Meteonis Draconids </td>
-    <td> You can Ritual Summon this card with "Meteonis Drytron". Your opponent cannot target this card with monster effects. If the total Levels of monsters used for its Ritual Summon are 2 or less, this card can attack all Special Summoned monsters your opponent controls once each. During your opponent's turn (Quick Effect): You can banish monsters from your GY whose combined ATK equals exactly 2000 or 4000, then target 1 face-up card your opponent controls for every 2000 ATK of the total; send that card(s) to the GY. You can only use this effect of "Drytron Meteonis Draconids" once per turn. </td>
+    <th rowspan="2"> card </th>
+    <th> PSCT </th>
+  </tr>
+  <tr>
+    <th> <em>PSCT</em> </th>
+  </tr>
+  <tr>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Primeval_Planet_Perlereino">Primeval Planet Perlereino</a> </td>
+    <td> When this card is activated: You can add 1 "Tearlaments" monster or 1 "Visas Starfrost" from your Deck to your hand. Fusion Monsters and "Tearlaments" monsters you control gain 500 ATK. If a "Tearlaments" monster(s) you control or in your GY is shuffled into the Deck or Extra Deck (except during the Damage Step): You can target 1 card on the field; destroy it. You can only use this effect of "Primeval Planet Perlereino" once per turn. You can only activate 1 "Primeval Planet Perlereino" per turn. </td>
   </tr>
   <tr>
     <td>
-      <pre lang="coffee"><code>[SS] "Meteonis Drytron"
-[1] req inf eff: opp.Target[self, Effect[Monster]]=FALSE
-[2] opt inf eff: ...
-[3] opt quick eff [HOPT, turn=OPP]: ... </code> </pre>
+      <pre lang="coffee"><code>act eff [OPT]: HAND.Add(DECK, Monster["Tearlaments"]/"Visas Starfrost")
+[1] req cont eff: Alt(ATK, Monsters["Tearlaments"]/Monsters[Fusion])[control=YOU], +500)
+[2] trig? eff [HOPT, Step[Damage]=FALSE] on Shuffle(YOU.(FIELD/GY), YOU.(DECK/EXTRA) Monster["Tearlaments"]):
+  Target(Card[FIELD]) -> t; Destroy(t) </code></pre>
     </td>
   </tr>
 </table>
