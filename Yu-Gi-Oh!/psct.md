@@ -37,7 +37,7 @@ A selection of diverse instances to illustrate how *PSCT* works.
 [2] opt cont eff if Total(self.SS(Ritual).Monsters.Levels) < 3:
   self.Can(Attack(all Monsters[SS=TRUE, control=OPP]))
 [3] opt quick eff [HOPT, turn=OPP]:
-  Banish(YOU.GY, Monsters[ATK > 0]) -> fuel where Total(fuel, ATK) = 2000/4000,
+  Banish(YOU.GY, Monsters[ATK > 0]) -> fuel, where Total(fuel, ATK) = 2000/4000,
   Target(Card[control=OPP, face=UP]) -> t; Send(GY, t) </code></pre>
     </td>
   </tr>
@@ -50,8 +50,8 @@ A selection of diverse instances to illustrate how *PSCT* works.
       <pre lang="coffee"><code>[SS] req Card["Dogmatika"]
 [1] cont eff: Unaffected(Monsters["Dogmatika", control=YOU] by {
   Effects[OPP, activated, Monsters[class=EXTRA]]) }
-[2] opt ignit eff [HOPT]: OPP.Choose(Effect) from {
-  [2.1] for every 2 Cards in (OPP.(HAND/EXTRA) as loc) Send(loc, OPP.GY, Card[])
+[2] opt ignit eff [HOPT]: OPP.Choose(Effect) to Apply() from {
+  [2.1] for every 2 Cards in (OPP.(HAND/EXTRA) as loc), OPP.Send(loc, OPP.GY, Card[])
   [2.2] Return(OPP.EXTRA, Monsters[class=EXTRA], control=OPP])
 } </code></pre>
     </td>
@@ -90,7 +90,8 @@ A selection of diverse instances to illustrate how *PSCT* works.
     <td>
       <pre lang="coffee"><code>act eff [OPT]: HAND.Add(DECK, Monster["Tearlaments"]/"Visas Starfrost")
 [1] req cont eff: Alt(ATK, Monsters["Tearlaments"]/Monsters[Fusion])[control=YOU], +500)
-[2] trig? eff [HOPT, Step[Damage]=FALSE] on Shuffle(YOU.(FIELD/GY), YOU.(DECK/EXTRA) Monster["Tearlaments"]):
+[2] trig? eff [HOPT, Step[Damage]=FALSE]
+  on Shuffle(YOU.(FIELD/GY), YOU.(DECK/EXTRA) Monster["Tearlaments"]):
   Target(Card[FIELD]) -> t; Destroy(t) </code></pre>
     </td>
   </tr>
