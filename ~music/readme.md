@@ -30,7 +30,7 @@ Various tracks not belonging to any particular album or group.
 > *Ephemeris*  
 
 ### Algorhythm Origins
-A series of soundtracks made for my rhythm game [Algorhythm](https://github.com/Sup2point0/Algorhythm).
+A series of soundtracks made for my rhythm game [*Algorhythm*](https://github.com/Sup2point0/Algorhythm).
 
 > [Dawn](tracks/Algorhythm%20Origins/Dawn.m4a)  
 > [Day](tracks/Algorhythm%20Origins/Day.m4a)  
@@ -44,14 +44,23 @@ A series of soundtracks made for my rhythm game [Algorhythm](https://github.com/
 > Dusk  
 > Twilight  
 
-### Algorhythm: DECODE
-> Drop  
-> Lullacry  
+### Elysion
+More planned soundtracks for *Algorhythm*.
+
+> Ephemerald
+> Aphenia
+> Lullacry
+> Dactyl
+> Viridian
+> Cloudjumper
+> Scars
+
+### Corex
+Even more planned soundtracks for *Algorhythm*.
+
 > eRhythm PURE  
 > pseudorandom  
-> Cloud Sine  
-> The Algorithm  
-
-### Algorhythm: ENCODE
-> Scars  
-> Dactyl  
+> MEM_BRAIN  
+> SyntaxError  
+> ∏0!5V/3  
+> The Algorith  
