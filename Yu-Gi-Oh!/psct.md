@@ -109,3 +109,59 @@ A selection of diverse instances to illustrate how *PSCT* works.
 
 
 ## Documentation
+
+> [!Note]
+> If it isn’t abundantly clear already, this is entirely esoteric and *not* intended for actual use. For now.
+>
+> Regardless, here I’ll try to document all the defined keywords and all!
+
+### Actions
+
+```coffee
+Add(
+  source: Location [DECK/GY/VOID]
+  dest: Location [HAND/EXTRA]
+  target: Card/s
+) -> Card/s
+
+Alt(
+  property: Property [LEVEL/TYPE/ATTR/ATK/DEF]
+  target: Card/s
+  value = ?
+)
+
+Banish(
+  source: Location [HAND/FIELD/DECK/EXTRA/GY] = auto
+  target: Card/s
+  face: [UP/DOWN] = UP
+)
+
+Destroy(
+  source: Location [HAND/FIELD/DECK/EXTRA]] = auto
+  target: Card/s
+) -> Card/s
+
+Draw(
+  count: Number = 1
+)
+
+Return(
+  source: Location [FIELD/GY/VOID]
+  dest: Location [HAND/EXTRA/GY]
+) -> Card/s
+
+Reveal(
+  source: Location [HAND/DECK/EXTRA]
+  target: Card/s
+)
+
+Send(
+  source: Location [HAND/FIELD/DECK/EXTRA]
+  dest: Location [GY] = YOU.GY
+  target: Card/s
+) -> Card/s
+
+Target(
+  target: Card/s
+) -> Card/s
+```
