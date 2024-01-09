@@ -181,15 +181,15 @@ String
 ### Slots
 
 ```coffee
-Player = [YOU, OPP]
-Location = [HAND, FIELD, DECK, EXTRA, GY, VOID]
-Zone = [MONSTER, ST, FIELD, EXTRA]
+Player = [YOU/OPP]
+Location = [HAND/FIELD/DECK/EXTRA/GY/VOID]
+Zone = [MONSTER/ST/FIELD/EXTRA]
 
-Attribute = [FIRE, WATER, EARTH, WIND, LIGHT, DARK, DIVINE]
-Type = [Aqua, ... , Zombie]
-Ability = [Spirit, Toon, Tuner, Union]
+Attribute = [FIRE/WATER/EARTH/WIND/LIGHT/DARK/DIVINE]
+Type = [Aqua/ ... /Zombie]
+Ability = [Spirit/Toon/Tuner/Union]
 
-Direction = [T, L, D, R, TL, TR, DL, DR]
+Direction = [T/L/D/R/TL/TR/DL/DR]
 ```
 
 ### Objects
@@ -211,14 +211,28 @@ Monster[Card] {
   attr: Attribute
   type: Type
   ability: Ability/s = NONE
-  level: Number [0~13]
-  rank: Number [0~13] = NONE
-  link: Number [1~8] = NONE
+  level: Int [0~13]
+  rank: Int [0~13] = NONE
+  link: Int [1~8] = NONE
   arrows: Direction / List[Direction] = NONE
 }
 
 Spell[Card] {
-  property: [Normal, 
+  property: [Normal/Quick/Field/Cont/Equip/Ritual]
+}
+
+Trap[Card] {
+  property: [Normal/Cont/Counter]
+}
+
+Effect {
+  type: [NONE / Quick/? / Trigger/? / Ignit? / Cont]
+  cool: [OPT/HOPT/ ...]
+}
+
+Counter {
+  type: [Spell/ ...]
+}
 ```
 
 ### Actions
@@ -227,16 +241,22 @@ Spell[Card] {
 .Add(
   source: Location [DECK/GY/VOID]
   dest: Location [HAND/EXTRA]
-  target: Card/s
+  .target: Card/s
 ) -> Card/s
 
 .Apply(
   effect: Effect/Condition
+  .target: Card/s
 )
 
 .Attach(
   .target: Monster[Xyz]
   cards: Card
+)
+
+.Attack(
+  .source: Monster = SELF
+  target: Monster / Player
 )
 
 .Banish(
@@ -245,13 +265,18 @@ Spell[Card] {
   face: [UP/DOWN] = UP
 )
 
+.Battle(
+  .attack: Monster
+  target: Monster
+)
+
 .Change(
   property: Property [LEVEL/TYPE/ATTR/ATK/DEF]
   .target: Card/s
   value = ?
 )
 
-.Choose(
+Choose(
   options: Options
 ) -> Option/s
 
@@ -262,20 +287,24 @@ Spell[Card] {
 
 .Detach(
   .target: Monster[Xyz]
-  material: Number / Card/s = 1 * Card[]
+  material: Int / Card/s = 1 * Card[]
 ) -> Card/s
 
-.Discard(
-  cards: Number / Card/s = 1 * Card[]
+Discard(
+  cards: Int / Card/s = 1 * Card[]
 ) -> Card/s
 
-.Draw(
-  count: Number = 1
+Draw(
+  count: Int = 1
 )
 
-.Excavate(
-  count: Number = 1
+Excavate(
+  count: Int = 1
 ) -> Card/s
+
+Inflict(
+  damage: Int
+)
 
 .Return(
   source: Location [FIELD/GY/VOID]
@@ -298,6 +327,16 @@ Spell[Card] {
   source: Location [HAND/FIELD/GY/VOID]
   dest: Location [DECK/EXTRA]
   .target: Card/s
+)
+
+.Summon(
+  source: Location [HAND/FIELD/DECK/EXTRA/GY/VOID]
+  .target: Monster/s
+)
+
+.Use(
+  .target: Card/Player
+  use: Effect / ...
 )
 
 .Target(
