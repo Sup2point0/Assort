@@ -47,15 +47,16 @@ A series of soundtracks made for my rhythm game [*Algorhythm*](https://github.co
 ### Elysion
 More planned soundtracks for *Algorhythm*.
 
-> Ephemerald
-> Aphenia
-> Lullacry
-> Dactyl
-> Viridian
-> Cloudjumper
-> Scars
+> Ephemerald  
+> Aphenia  
+> Lullacry  
+> Dactyl  
+> Archiral?  
+> Viridian  
+> Cloudjumper  
+> Scars  
 
-### Corex
+### Cortex
 Even more planned soundtracks for *Algorhythm*.
 
 > eRhythm PURE  
@@ -63,4 +64,14 @@ Even more planned soundtracks for *Algorhythm*.
 > MEM_BRAIN  
 > SyntaxError  
 > ∏0!5V/3  
-> The Algorith  
+> The Algorithm  
+
+### Stranded
+Soundtracks for [*The Stranded Saga*](../Yu-Gi-Oh!/lore/Stranded%20Saga).
+
+> Stranded  
+> Catastropical  
+> Ever-Shining  
+> Requital  
+> Fate  
+> Walkers  
