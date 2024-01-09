@@ -27,6 +27,33 @@ A selection of diverse instances to illustrate how *PSCT* works.
     <th> <em>PSCT</em> </th>
   </tr>
   <tr>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Gigantic_Spright">Gigantic Spright<sup>↗</sup></a> </td>
+    <td> 2 Level 2 monsters <br> For this card's Xyz Summon, you can treat Link-2 monsters you control as Level 2 monsters for material. The original ATK of this card that has a Fusion, Synchro, Xyz, or Link Monster as material becomes doubled. During your Main Phase: You can activate this effect; detach 1 material from a monster you control, and if you do, Special Summon 1 Level 2 monster from your Deck, also neither player can Special Summon monsters for the rest of this turn, except Level/Rank/Link 2 monsters. You can only use this effect of "Gigantic Spright" once per turn. </td>
+  </tr>
+  <tr>
+    <td>
+      <pre lang="coffee"><code>[S] 2 * Monster[level=2]
+opt cond: self.Summon(Xyz) with Monsters[Link, link=2])
+[1] cont eff if self.materials has Monster[class=EXTRA] : Change(self.ATK.orig, * 2)
+[2] opt ignit eff [HOPT]: {}; Detach(Monster[Xyz, control=YOU], 1) to
+  Summon(Special, DECK, Monster[level=2]) + Apply(turn=THIS) {
+    (YOU, OPP).Summon!(Special, Monster[level!=2]) } </code></pre>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Exosisters_Magnifica">Exosisters Magnifica<sup>↗</sup></a> </td>
+    <td> 2 Rank 4 "Exosister" Xyz Monsters <br> Must be Xyz Summoned with the above materials. This card can make a second attack during each Battle Phase. Once per turn (Quick Effect): You can detach 1 material from this card; banish 1 card your opponent controls. When your opponent activates a card or effect (Quick Effect): You can return 1 Xyz Monster you own attached to this card to your Extra Deck, then you can Special Summon that monster from your Extra Deck, by using this card you control as material. (This is treated as an Xyz Summon. Transfer this card's materials to the Summoned monster.) </td>
+  </tr>
+  <tr>
+    <td>
+      <pre lang="coffee"><code>[S] req 2 * Monster["Exosister", Xyz, ran=4]
+[1] cont eff: Attack?(count=+1, each=Phase[Battle])
+[2] opt quick eff [OPT]: self.Detach(1); Banish(Card[control=OPP])
+[3] opt quick eff on OPP.Activate(Card/Effect[]): 
+  Return(self.materials, EXTRA, Monster[Xyz, YOU] -> t), t.Summon?(Xyz, transfer=TRUE) with self </code></pre>
+    </td>
+  </tr>
+  <tr>
     <td rowspan="2"> <a href="https://yugipedia.com/wiki/Drytron_Meteonis_Draconids">Drytron Meteonis Draconids<sup>↗</sup></a> </td>
     <td> You can Ritual Summon this card with "Meteonis Drytron". Your opponent cannot target this card with monster effects. If the total Levels of monsters used for its Ritual Summon are 2 or less, this card can attack all Special Summoned monsters your opponent controls once each. During your opponent's turn (Quick Effect): You can banish monsters from your GY whose combined ATK equals exactly 2000 or 4000, then target 1 face-up card your opponent controls for every 2000 ATK of the total; send that card(s) to the GY. You can only use this effect of "Drytron Meteonis Draconids" once per turn. </td>
   </tr>
@@ -70,6 +97,26 @@ A selection of diverse instances to illustrate how *PSCT* works.
 [3] opt quick eff [OPT]: self.Detach(3), Target(Card[FIELD]) -> t; Banish(t, face=DOWN) </code></pre>
     </td>
   </tr>
+  <tr>
+    <td rowspan="3"> <a href="https://yugipedia.com/wiki/Endymion,_the_Mighty_Master_of_Magic">Endymion, the Mighty Master of Magic<sup>↗</sup></a> </td>
+    <td> You can remove 6 Spell Counters from your field; Special Summon this card from the Pendulum Zone, then count the number of cards you control that can have a Spell Counter, destroy up to that many cards on the field, and if you do, place Spell Counters on this card equal to the number of cards destroyed. You can only use this effect of "Endymion, the Mighty Master of Magic" once per turn. </td>
+  </tr>
+  <tr>
+    <td> Once per turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can return 1 card you control with a Spell Counter to the hand, and if you do, negate the activation, and if you do that, destroy it. Then, you can place the same number of Spell Counters on this card that the returned card had. While this card has a Spell Counter, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects. When this card with a Spell Counter is destroyed by battle: You can add 1 Normal Spell from your Deck to your hand. </td>
+  </tr>
+  <tr>
+    <td>
+      <pre lang="coffee"><code>[1] opt ignit? eff [HOPT]: Remove(YOU.FIELD, 6 * Counter[Spell]);
+  self.Summon(Special), Cards[FIELD, counters[Spell] > 0] -> n,
+  {Destroy(FIELD, 0~n * Card[]) -> d} to Change(self.Counters[Spell], +d) </code> </pre>
+      <pre lang="coffee"><code>[1] cont eff while self.counters[Spell] > 0: OPP.(Target/Destroy)!(self) with Effects[]
+[2] opt quick eff [OPT] on Activate(Card/Effect[Spell/Trap] -> e:
+  Return(HAND, Card[control=YOU, {counters[Spell] -> c} > 0])
+  to Negate(e.activation) to Destroy(e.card), Change?(self.counters[Spell], +c)
+[3] opt trig eff on Destroy(self) with Battle() while self.counters[Spell] > 0:
+  Add(DECK, HAND, Spell[Normal]) </code></pre>
+    </td>
+  </tr>
 </table>
 
 ### Spell/Traps
@@ -95,6 +142,19 @@ A selection of diverse instances to illustrate how *PSCT* works.
   Target(Card[FIELD]) -> t; Destroy(t) </code></pre>
     </td>
   </tr>
+  <tr>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Branded_Retribution">Branded Retribution<sup>↗</sup></a> </td>
+    <td> When a Spell/Trap Card, or monster effect, is activated that includes an effect that Special Summons a monster(s): Return to the Extra Deck, 1 face-up Fusion Monster you control, or 2 Fusion Monsters in your GY, that mention "Fallen of Albaz" as material, and if you do, negate the activation, and if you do that, destroy that card. You can banish this card from your GY, then target 1 "Branded" Spell/Trap in your GY, except "Branded Retribution"; add it to your hand. You can only use 1 "Branded Retribution" effect per turn, and only once that turn. </td>
+  </tr>
+  <tr>
+    <td>
+      <pre lang="coffee"><code>act [HOPT] on Activate(Card[Spell/Trap] / Effect[Monster]) -> e would Summon(Special, Monster[]):
+  Monster[Fusion, materials has “Fallen of Albaz”] -> t,
+  Return(t[YOU.FIELD] / 2 * t[YOU.GY]) to Negate(e.activation) to Destroy(e.card)
+[1] opt quick? eff [HOPT]: self.Banish(GY), Target(GY, Spell/Trap["Branded"]) -> t ; Add(GY, HAND, t)
+[C] cond YOU.Use?(Effect[] in self.effects, count=1, each=turn) </code></pre>
+    </td>
+  </tr>
 </table>
 
 
@@ -117,10 +177,8 @@ Add(
   target: Card/s
 ) -> Card/s
 
-Alt(
-  property: Property [LEVEL/TYPE/ATTR/ATK/DEF]
-  target: Card/s
-  value = ?
+Apply(
+  effect: Effect/Condition
 )
 
 Banish(
@@ -128,6 +186,16 @@ Banish(
   target: Card/s
   face: [UP/DOWN] = UP
 )
+
+Change(
+  property: Property [LEVEL/TYPE/ATTR/ATK/DEF]
+  target: Card/s
+  value = ?
+)
+
+Choose(
+  options: Options
+) -> Option/s
 
 Destroy(
   source: Location [HAND/FIELD/DECK/EXTRA]] = auto
@@ -138,21 +206,32 @@ Draw(
   count: Number = 1
 )
 
+Excavate(
+  count: Number = 1
+) -> Card/s
+
 Return(
   source: Location [FIELD/GY/VOID]
   dest: Location [HAND/EXTRA/GY]
+  target: Card/s
 ) -> Card/s
 
 Reveal(
   source: Location [HAND/DECK/EXTRA]
   target: Card/s
-)
+) -> Card/s
 
 Send(
   source: Location [HAND/FIELD/DECK/EXTRA]
   dest: Location [GY] = YOU.GY
   target: Card/s
 ) -> Card/s
+
+Shuffle(
+  source: Location [HAND/FIELD/GY/VOID]
+  dest: Location [DECK/EXTRA]
+  target: Card/s
+)
 
 Target(
   target: Card/s
