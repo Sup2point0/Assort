@@ -152,7 +152,7 @@ opt cond: self.Summon(Xyz) with Monsters[Link, link=2])
   Monster[Fusion, materials has “Fallen of Albaz”] -> t,
   Return(t[YOU.FIELD] / 2 * t[YOU.GY]) to Negate(e.activation) to Destroy(e.card)
 [1] opt quick? eff [HOPT]: self.Banish(GY), Target(GY, Spell/Trap["Branded"]) -> t ; Add(GY, HAND, t)
-[C] cond YOU.Use?(Effect[] in self.effects, count=1, each=turn) </code></pre>
+[C] cond YOU.Use?(self.Effect[], count=1, each=turn) </code></pre>
     </td>
   </tr>
 </table>
@@ -168,6 +168,35 @@ opt cond: self.Summon(Xyz) with Monsters[Link, link=2])
 >
 > Regardless, here I’ll try to document all the defined keywords and all!
 
+### Constants
+
+```coffee
+YOU
+OPP
+```
+
+### Objects
+
+```coffee
+Card {
+  type [Monster/Spell/Trap]
+}
+
+Monster[Card] {
+  name: String
+  archetypes: String = NONE
+  effect: Boolean = auto
+  class: Class [MAIN/EXTRA] = NONE
+  attr: Attribute [FIRE/WATER/EARTH/WIND/LIGHT/DARK/DIVINE]
+  type: Type [...]
+  ability: Ability [...] = NONE
+  level: Number [0~13]
+  rank: Number [0~13] = NONE
+  link: Number [1~8] = NONE
+  arrows: List[Direction [T/L/D/R/TL/TR/DL/DR]] = NONE
+}
+```
+
 ### Actions
 
 ```coffee
@@ -180,6 +209,9 @@ Add(
 Apply(
   effect: Effect/Condition
 )
+
+Attach(
+  target
 
 Banish(
   source: Location [HAND/FIELD/DECK/EXTRA/GY] = auto
@@ -200,6 +232,11 @@ Choose(
 Destroy(
   source: Location [HAND/FIELD/DECK/EXTRA]] = auto
   target: Card/s
+) -> Card/s
+
+Detach(
+  target: Monster[Xyz]
+  material: Number / Card/s = 1 * Card[]
 ) -> Card/s
 
 Draw(
