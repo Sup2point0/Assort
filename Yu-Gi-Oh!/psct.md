@@ -168,11 +168,28 @@ opt cond: self.Summon(Xyz) with Monsters[Link, link=2])
 >
 > Regardless, here I’ll try to document all the defined keywords and all!
 
-### Constants
+### Types
 
 ```coffee
-YOU
-OPP
+Boolean = [TRUE/FALSE]
+Int
+List
+None = NONE
+String
+```
+
+### Slots
+
+```coffee
+Player = [YOU, OPP]
+Location = [HAND, FIELD, DECK, EXTRA, GY, VOID]
+Zone = [MONSTER, ST, FIELD, EXTRA]
+
+Attribute = [FIRE, WATER, EARTH, WIND, LIGHT, DARK, DIVINE]
+Type = [Aqua, ... , Zombie]
+Ability = [Spirit, Toon, Tuner, Union]
+
+Direction = [T, L, D, R, TL, TR, DL, DR]
 ```
 
 ### Objects
@@ -180,97 +197,110 @@ OPP
 ```coffee
 Card {
   type [Monster/Spell/Trap]
+  name: String
+  archetype: String = NONE
 }
 
 Monster[Card] {
-  name: String
-  archetypes: String = NONE
+  ATK: Int/None = 0
+  DEF: Int/None = 0
   effect: Boolean = auto
-  class: Class [MAIN/EXTRA] = NONE
-  attr: Attribute [FIRE/WATER/EARTH/WIND/LIGHT/DARK/DIVINE]
-  type: Type [...]
-  ability: Ability [...] = NONE
+  pendulum: Boolean = FALSE
+  kind: [MAIN/EXTRA] = NONE
+  class: [Fusion/Synchro/Xyz/Link]
+  attr: Attribute
+  type: Type
+  ability: Ability/s = NONE
   level: Number [0~13]
   rank: Number [0~13] = NONE
   link: Number [1~8] = NONE
-  arrows: List[Direction [T/L/D/R/TL/TR/DL/DR]] = NONE
+  arrows: Direction / List[Direction] = NONE
 }
+
+Spell[Card] {
+  property: [Normal, 
 ```
 
 ### Actions
 
 ```coffee
-Add(
+.Add(
   source: Location [DECK/GY/VOID]
   dest: Location [HAND/EXTRA]
   target: Card/s
 ) -> Card/s
 
-Apply(
+.Apply(
   effect: Effect/Condition
 )
 
-Attach(
-  target
+.Attach(
+  .target: Monster[Xyz]
+  cards: Card
+)
 
-Banish(
+.Banish(
   source: Location [HAND/FIELD/DECK/EXTRA/GY] = auto
-  target: Card/s
+  .target: Card/s
   face: [UP/DOWN] = UP
 )
 
-Change(
+.Change(
   property: Property [LEVEL/TYPE/ATTR/ATK/DEF]
-  target: Card/s
+  .target: Card/s
   value = ?
 )
 
-Choose(
+.Choose(
   options: Options
 ) -> Option/s
 
-Destroy(
+.Destroy(
   source: Location [HAND/FIELD/DECK/EXTRA]] = auto
-  target: Card/s
+  .target: Card/s
 ) -> Card/s
 
-Detach(
-  target: Monster[Xyz]
+.Detach(
+  .target: Monster[Xyz]
   material: Number / Card/s = 1 * Card[]
 ) -> Card/s
 
-Draw(
+.Discard(
+  cards: Number / Card/s = 1 * Card[]
+) -> Card/s
+
+.Draw(
   count: Number = 1
 )
 
-Excavate(
+.Excavate(
   count: Number = 1
 ) -> Card/s
 
-Return(
+.Return(
   source: Location [FIELD/GY/VOID]
   dest: Location [HAND/EXTRA/GY]
-  target: Card/s
+  .target: Card/s
 ) -> Card/s
 
-Reveal(
+.Reveal(
   source: Location [HAND/DECK/EXTRA]
-  target: Card/s
+  .target: Card/s
 ) -> Card/s
 
-Send(
+.Send(
   source: Location [HAND/FIELD/DECK/EXTRA]
   dest: Location [GY] = YOU.GY
-  target: Card/s
+  .target: Card/s
 ) -> Card/s
 
-Shuffle(
+.Shuffle(
   source: Location [HAND/FIELD/GY/VOID]
   dest: Location [DECK/EXTRA]
-  target: Card/s
+  .target: Card/s
 )
 
-Target(
-  target: Card/s
+.Target(
+  .target: Card/s
 ) -> Card/s
 ```
