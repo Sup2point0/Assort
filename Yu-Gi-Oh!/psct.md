@@ -33,7 +33,7 @@ A selection of diverse instances to illustrate how *PSCT* works.
   <tr>
     <td>
       <pre lang="coffee"><code>[S] 2 * Monster[level=2]
-opt cond: self.Summon(Xyz) with Monsters[Link, link=2])
+  opt cond: self.Summon?(Xyz) with Monsters[Link, link=2])
 [1] cont eff if self.materials has Monster[class=EXTRA] : Change(self.ATK.orig, * 2)
 [2] opt ignit eff [HOPT]: {}; Detach(Monster[Xyz, control=YOU], 1) to
   Summon(Special, DECK, Monster[level=2]) + Apply(turn=THIS) {
