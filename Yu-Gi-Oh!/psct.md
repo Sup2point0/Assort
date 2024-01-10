@@ -34,7 +34,7 @@ A selection of diverse instances to illustrate how *PSCT* works.
     <td>
       <pre lang="coffee"><code>[S] 2 * Monster[level=2]
   opt cond: self.Summon?(Xyz) with Monsters[Link, link=2]
-[1] cont eff if self.materials has Monster[class=EXTRA] : Change(self.ATK.orig, * 2)
+[1] cont eff if self.materials has Monster[class=EXTRA]: Change(self.ATK.orig, * 2)
 [2] opt ignit eff [HOPT]: {}; Detach(Monster[Xyz, control=YOU], 1) to
   Summon(Special, DECK, Monster[level=2]) + Apply(turn=THIS) {
     (YOU, OPP).Summon!(Special, Monster[level!=2]) } </code></pre>
@@ -46,7 +46,7 @@ A selection of diverse instances to illustrate how *PSCT* works.
   </tr>
   <tr>
     <td>
-      <pre lang="coffee"><code>[S] req 2 * Monster['Exosister', Xyz, ran=4]
+      <pre lang="coffee"><code>[S] req 2 * Monster['Exosister', Xyz, rank=4]
 [1] cont eff: Attack?(count=+1, each=Phase[Battle])
 [2] opt quick eff [OPT]: self.Detach(1); Banish(Card[control=OPP])
 [3] opt quick eff on OPP.Activate(Card/Effect[]): 
