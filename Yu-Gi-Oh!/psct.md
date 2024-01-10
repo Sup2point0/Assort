@@ -46,7 +46,7 @@ opt cond: self.Summon(Xyz) with Monsters[Link, link=2])
   </tr>
   <tr>
     <td>
-      <pre lang="coffee"><code>[S] req 2 * Monster["Exosister", Xyz, ran=4]
+      <pre lang="coffee"><code>[S] req 2 * Monster['Exosister', Xyz, ran=4]
 [1] cont eff: Attack?(count=+1, each=Phase[Battle])
 [2] opt quick eff [OPT]: self.Detach(1); Banish(Card[control=OPP])
 [3] opt quick eff on OPP.Activate(Card/Effect[]): 
@@ -59,7 +59,7 @@ opt cond: self.Summon(Xyz) with Monsters[Link, link=2])
   </tr>
   <tr>
     <td>
-      <pre lang="coffee"><code>[SS] "Meteonis Drytron"
+      <pre lang="coffee"><code>[S] 'Meteonis Drytron'
 [1] cont eff: OPP.Cannot(Target(self) with Effects[Monster])
 [2] opt cont eff if Total(self.SS(Ritual).Monsters.Levels) < 3:
   self.Can(Attack(all Monsters[SS=TRUE, control=OPP]))
@@ -75,7 +75,7 @@ opt cond: self.Summon(Xyz) with Monsters[Link, link=2])
   <tr>
     <td>
       <pre lang="coffee"><code>[SS] req Card["Dogmatika"]
-[1] cont eff: Unaffected(Monsters["Dogmatika", control=YOU] by {
+[1] cont eff: Unaffected(Monsters['Dogmatika', control=YOU] by {
   Effects[OPP, activated, Monsters[class=EXTRA]]) }
 [2] opt ignit eff [HOPT]: OPP.Choose(Effect) to Apply() from {
   [2.1] for every 2 Cards in (OPP.(HAND/EXTRA) as loc), OPP.Send(loc, OPP.GY, Card[])
@@ -90,8 +90,8 @@ opt cond: self.Summon(Xyz) with Monsters[Link, link=2])
   <tr>
     <td>
       <pre lang="coffee"><code>[SS] 3 * Monster[level=3]
-  opt cond [HOPT]: if "Kashtira Shangri-Ira".Activated(Effect[], success=TRUE, turn=THIS):
-  self.SS(Xyz, transfer=TRUE) with Monster("Kashtira", control=YOU)
+  opt cond [HOPT]: if 'Kashtira Shangri-Ira'.Activated(Effect[], success=TRUE, turn=THIS):
+  self.SS(Xyz, transfer=TRUE) with Monster('Kashtira', control=YOU)
 [1] req cont eff: if would Send(GY, Card[] -> card), Banish(card)
 [2] req trig eff [OPC] on Banish(Card[]): Target(Card[VOID]) -> t; self.Attach(t)
 [3] opt quick eff [OPT]: self.Detach(3), Target(Card[FIELD]) -> t; Banish(t, face=DOWN) </code></pre>
@@ -135,10 +135,10 @@ opt cond: self.Summon(Xyz) with Monsters[Link, link=2])
   </tr>
   <tr>
     <td>
-      <pre lang="coffee"><code>act eff [OPT]: HAND.Add(DECK, Monster["Tearlaments"]/"Visas Starfrost")
-[1] req cont eff: Alt(ATK, Monsters["Tearlaments"]/Monsters[Fusion])[control=YOU], +500)
+      <pre lang="coffee"><code>act eff [OPT]: HAND.Add(DECK, Monster['Tearlaments']/'Visas Starfrost')
+[1] req cont eff: Alt(ATK, Monsters['Tearlaments']/Monsters[Fusion])[control=YOU], +500)
 [2] trig? eff [HOPT, Step[Damage]=FALSE]
-  on Shuffle(YOU.(FIELD/GY), YOU.(DECK/EXTRA) Monster["Tearlaments"]):
+  on Shuffle(YOU.(FIELD/GY), YOU.(DECK/EXTRA) Monster['Tearlaments']):
   Target(Card[FIELD]) -> t; Destroy(t) </code></pre>
     </td>
   </tr>
@@ -149,9 +149,9 @@ opt cond: self.Summon(Xyz) with Monsters[Link, link=2])
   <tr>
     <td>
       <pre lang="coffee"><code>act [HOPT] on Activate(Card[Spell/Trap] / Effect[Monster]) -> e would Summon(Special, Monster[]):
-  Monster[Fusion, materials has “Fallen of Albaz”] -> t,
+  Monster[Fusion, materials has 'Fallen of Albaz'] -> t,
   Return(t[YOU.FIELD] / 2 * t[YOU.GY]) to Negate(e.activation) to Destroy(e.card)
-[1] opt quick? eff [HOPT]: self.Banish(GY), Target(GY, Spell/Trap["Branded"]) -> t ; Add(GY, HAND, t)
+[1] opt quick? eff [HOPT]: self.Banish(GY), Target(GY, Spell/Trap['Branded']) -> t ; Add(GY, HAND, t)
 [C] cond YOU.Use?(self.Effect[], count=1, each=turn) </code></pre>
     </td>
   </tr>
