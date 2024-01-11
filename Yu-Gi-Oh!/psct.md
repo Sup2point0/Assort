@@ -60,12 +60,13 @@ A selection of diverse instances to illustrate how *PSCT* works.
   <tr>
     <td>
       <pre lang="coffee"><code>[S] 'Meteonis Drytron'
-[1] cont eff: OPP.Cannot(Target(self) with Effects[Monster])
-[2] opt cont eff if Total(self.SS(Ritual).Monsters.Levels) < 3:
-  self.Can(Attack(all Monsters[SS=TRUE, control=OPP]))
+[1] cont eff: OPP.Target!(self) with Effects[Monster]
+[2] opt cont eff if Total(self.SS[Ritual].monsters.levels) < 3:
+  self.Attack?(all Monsters[SS=TRUE, control=OPP])
 [3] opt quick eff [HOPT, turn=OPP]:
-  Banish(YOU.GY, Monsters[ATK > 0]) -> fuel, where Total(fuel, ATK) = 2000/4000,
-  Target(Card[control=OPP, face=UP]) -> t; Send(GY, t) </code></pre>
+  Banish(YOU.GY, Monsters[ATK > 0]) -> fuel, where Total(fuel, ATK) -> c = 2000/4000,
+  Target(2000 // t * Card[control=OPP, face=UP]) -> t; Send(GY, t) </code></pre>
+
     </td>
   </tr>
   <tr>
@@ -75,11 +76,11 @@ A selection of diverse instances to illustrate how *PSCT* works.
   <tr>
     <td>
       <pre lang="coffee"><code>[SS] req Card["Dogmatika"]
-[1] cont eff: Unaffected(Monsters['Dogmatika', control=YOU] by {
-  Effects[OPP, activated, Monsters[class=EXTRA]]) }
-[2] opt ignit eff [HOPT]: OPP.Choose(Effect) to Apply() from {
-  [2.1] for every 2 Cards in (OPP.(HAND/EXTRA) as loc), OPP.Send(loc, OPP.GY, Card[])
-  [2.2] Return(OPP.EXTRA, Monsters[class=EXTRA], control=OPP])
+[1] cont eff: Unaffected(Monsters['Dogmatika', control=YOU]) by {
+  Effects[OPP, activated, Monsters[class=EXTRA]] }
+[2] opt ignit eff [HOPT]: OPP.Apply(Effect[]) from {
+  [2.1] Total(Cards[] in OPP.EXTRA) // 2 -> c, OPP.Send(HAND/EXTRA, GY, c * Card[])
+  [2.2] OPP.Return(EXTRA, Monsters[class=EXTRA], control=OPP])
 } </code></pre>
     </td>
   </tr>
