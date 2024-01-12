@@ -58,9 +58,9 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
   </tr>
   <tr>
     <td colspan="2"> <a href="archetypes.md#Affin">Affin</a> </td>
-    <td> All </td>
+    <td> all </td>
     <td> Spellcaster, Warrior, Psychic </td>
-    <td> All </td>
+    <td> all </td>
   </tr>
   <tr>
     <td colspan="2"> <a href="archetypes.md#Catastropical">Catastropical</a> </td>
@@ -72,7 +72,7 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
     <td rowspan="3"> <a href="../../archetypes/Supnautic.md">Supnautic</a> </td>
     <td> Supnautica </td>
     <td rowspan="3"> WATER, EARTH </td>
-    <td rowspan="3"> Many </td>
+    <td rowspan="3"> many </td>
     <td rowspan="3"> Tribute, Flip, Ritual, Fusion </td>
   </tr>
   <tr>
@@ -89,9 +89,9 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
   <tr>
     <td rowspan="2"> <a href="archetypes.md#Avertroci">Avertroci</a> </td>
     <td> Avertrocious </td>
-    <td rowspan="2"> All </td>
+    <td rowspan="2"> all </td>
     <td rowspan="2"> Spellcaster, Warrior, Psychic </td>
-    <td rowspan="2"> All </td>
+    <td rowspan="2"> all </td>
   </tr>
   <tr>
     <td> Avertrocity </td>
@@ -101,7 +101,7 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
     <td> Cephradicated </td>
     <td rowspan="2"> DARK </td>
     <td rowspan="2"> Illusion </td>
-    <td rowspan="2"> Dark Synchro, Reincarnation Synchro </td>
+    <td rowspan="2"> Dark Synchro </td>
   </tr>
   <tr>
     <td> Cephradicator </td>
@@ -122,7 +122,7 @@ The *Stranded Saga* is a storyline connecting several archetypes, including the 
     <td colspan="2"> <a href="archetypes#Dyvoid">Dyvoid</a> </td>
     <td> DARK </td>
     <td> Cyborg, Machine </td>
-    <td> Fusion, Xyz </td>
+    <td> Xyz, Link </td>
   </tr>
 </table>
 
@@ -158,11 +158,11 @@ Each character’s name changes slightly throughout the storyline.
   </tr>
   <tr>
     <td rowspan="3"> <a href="The Stranded Saga.md#ARC-I"><em>Arc I</em></a> </td>
-    <td> Lucyn the Stranded Dreamwalker </td>
+    <td> Lucen the Stranded Dreamwalker </td>
     <td rowspan="3"> Seyva the Stranded Supnautican </td>
   </tr>
   <tr>
-    <td> Lucyne the Affinitive Worldwalker </td>
+    <td> Lucyn the Affinitive Worldwalker </td>
   </tr>
   <tr>
     <td> Lucyon the Aeternal Timewalker </td>
