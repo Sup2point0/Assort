@@ -14,8 +14,7 @@ An abridged localisation of *The Stranded Saga*, a recovered transcription of th
 <em>Entranced by what our minds could dream.</em> <br>
 </div>
 
-## Forsaken Memory
-
+<h3 align="center"> Forsaken Memory </h3>
 > A person stood in his way.  
 > “What brings you here?” their soft voice carried.  
 > “I... can’t remember,” said Luce, taking a step towards them.  
@@ -39,9 +38,9 @@ Many have spoken of the *dreamscape*, a place visited in dreams. In it lie an en
 
 <h2 align="center" name="Arc-I"> ARC I – Descent </h2>
 
-### Catastropical Crisis
+<h3 align="center"> Catastropical Crisis </h3>
 
-### Inadvertent Destiny
+<h3 align="center"> Inadvertent Destiny </h3>
 In the world of affine, beings are bestowed a great power in their life – what is known as an ‘affinity’. It is, certainly, not an uncommon phenomenon, occuring in plenty of other worlds under the name of ‘magic’.
 
 Among the affinitics were the few Elders who inherited the greatest – and indeed most dangerous – affinitys of all. They devoted themselves to upholding the peace and protection of their world against any potential threats, both internal and external. No one else deserved these powers more. Tales of the Elders’ courage and purity in the face of tragedy and despair passed down the generations as legends.
