@@ -14,7 +14,8 @@ An abridged localisation of *The Stranded Saga*, a recovered transcription of th
 <em>Entranced by what our minds could dream.</em> <br>
 </div>
 
-### Forsaken Memory
+## Forsaken Memory
+
 > A person stood in his way.  
 > “What brings you here?” their soft voice carried.  
 > “I... can’t remember,” said Luce, taking a step towards them.  
@@ -40,6 +41,62 @@ Many have spoken of the *dreamscape*, a place visited in dreams. In it lie an en
 
 ### Catastropical Crisis
 
+### Inadvertent Destiny
+In the world of affine, beings are bestowed a great power in their life – what is known as an ‘affinity’. It is, certainly, not an uncommon phenomenon, occuring in plenty of other worlds under the name of ‘magic’.
+
+Among the affinitics were the few Elders who inherited the greatest – and indeed most dangerous – affinitys of all. They devoted themselves to upholding the peace and protection of their world against any potential threats, both internal and external. No one else deserved these powers more. Tales of the Elders’ courage and purity in the face of tragedy and despair passed down the generations as legends.
+
+<table>
+  <tr>
+    <th> Nerra </th>
+    <td> Vitakinetic </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Nerra, Affine Vitakinetic" title="Nerra, Affine Vitakinetic" height=240px"
+        src="../../../.assets/.png">
+    </td>
+    <td> Nerra held the very power of life and death in her hands: in an instant, she could breathe ‘life’ into any entity, and then suck it away the next. Much misuse in her younger years has taught her to use this affinity sparingly. </td>
+  </tr>
+  <tr>
+    <th> Topo Tychis </th>
+    <td> Felixus </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Topo Tychis, Affine Felixus" title="Topo Tychis, Affine Felixus" height="240px"
+        src="../../../.assets/.png">
+    </td>
+    <td> Blessed with the occasionally infuriating power of ‘luck’, Topo was well-known for being the youngest and least serious Elder – which still put his age at several hundred Earth years. </td>
+  </tr>
+  <tr>
+    <th> Xeros </th>
+    <td> Superior </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Xeros, Affine Superior" title="Xeros, Affine Superior" height="240px"
+        src="../../../.assets/.png">
+    </td>
+    <td> An explorer at heart with the ability to learn anyone else’s affinity. He has made it his life’s purpose to discover and study magical abilities in other worlds. </td>
+  </tr>
+  <tr>
+    <th> Vinita Arkhelm </th>
+    <td> Legend </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Vinita Arkhelm, Affine Legend" title="Vinita Arkhelm, Affine Legend" height="240px"
+        src="../../../.assets/.png">
+    </td>
+    <td> Though the Elders were all considered equal, Vinita was the oldest of them all, and held the greatest affinity – the ability to grant any other entity any affinity. However, after so long, he is tired, and seeks a successor. </td>
+  </tr>
+</table>
+
+### A Quest Across Time
+
+### Shrouded in the Arcane Lands
+
 
 <br>
 
@@ -49,6 +106,8 @@ Many have spoken of the *dreamscape*, a place visited in dreams. In it lie an en
 ### To Make a Hero
 
 ### The Truth Amidst the Ever-Shining Stars
+
+### Inversion from the Void
 
 ### Paradox Falls
 
@@ -79,6 +138,8 @@ In the deep night below a starry sky, a lone girl gazed up with the heavens glis
 
 The cold was bitter and unforgiving, but against her, it held back. She made her way onwards, never tiring, even as the night dragged on endlessly. The grass tickled at her frosted skin, but the feeling didn’t reach her head. It was only as the clouds closed in and she could no longer see the starlight that she finally collapsed on the ground, shivering in silence.
 
+<p align="center">〔~✦~〕</p>
+
 When he found her, her eyes were closed in a peaceful expression of detachment. He scooped her into his arms and sprinted back to his abode, laying her gently upon a large leaf that wrapped around her. Slowly, the cold drained from her body, and she arose to the sight of him washing up a meal.
 
 His name was Souk. Tall, hunch-backed, with skin like the bark of wood and cut like rock, the odd weed twisting up a limb, arched feet with roots piercing into the ground, four tender fingers shaped like leaves on each hand, and the brightest pair of golden eyes filled with undeniable warmth. He lived on the outskirts of Supnautica, above the water, away from the others.
@@ -102,4 +163,4 @@ Disturbance leads to corruption, and what ensues is a chain reaction of corrupti
 
 Corruption is expected. Corruption can be contained. If minor enough, it can be contained within the xerique. But at the scale of entire xeriques?
 
-The *Xen Constructs*, xeniqive ‘structures’, were created. They enclose corrupted xeriques, preventing the corruption from ever escaping. The worlds inside live on, degenerating further and morphing unrecognisably. To enter a Xen Construct would be beyond nightmarish. As it is, they are a necessary evil holding Xistence together. Not a perfect solution, but the one that works. In time.
+The *Xen Constructs*, xeniqive ‘structures’, were created. They enclose corrupted xeriques, preventing the corruption from ever escaping. The worlds inside live on, degenerating further and morphing unrecognisably. To enter a Xen Construct would be beyond nightmarish. As it is, they are a necessary evil holding Xistence together. Not a perfect solution, but the one that works.
