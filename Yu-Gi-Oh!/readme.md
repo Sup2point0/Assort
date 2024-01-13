@@ -24,6 +24,7 @@ The original, high-quality decks I play with the most. My favourite or most fami
 | [Arcana](https://duelingbook.com/deck?id=12012335) | All | [k-Knight](archetypes/k-Knight.md) + [World Affinity](archetypes/World%20Affinity.md) | polytypal swarming | PSSSCCCT |
 | [Darquessence](https://duelingbook.com/deck?id=12053993) | Ritual, Fusion | [Darquess](archetypes/Darquess.md) | draining control | classic PSCT |
 | [**Rubix**](https://duelingbook.com/deck?id=12381789) | Synchro, Xyz, Link | [Rubic](archetypes/Rubic.md) | ultimate versatility | indexed modern PSCT |
+| [Shards](https://duelingbook.com/deck?id=14562468) | Synchro, Xyz | Fractured, Shattered | punishment | canon PSCT |
 | Arachnyx | Xyz, Link | [Arachnis](archetypes/Arachnis.md) | evil control | PSSSCCCT |
 
 ### Assorted
