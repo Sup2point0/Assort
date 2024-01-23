@@ -29,7 +29,9 @@ Degenerate Circuit
 Harmonic Waves  
 Forbidden Apocrypha  
 Night’s End Sorcerer  
+Anotherverse Gluttonia  
 
 Protecting Spirit Loagaeth  
 Gorgon, Empress of the Evil Eyed  
 Adularia of the June Moon  
+Cupid Serve  
