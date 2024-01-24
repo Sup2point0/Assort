@@ -22,6 +22,9 @@ Supression Collider
 Iron Dragon Tiamaton  
 The Calibrator  
 Sublimation Knight  
+Super Solar Nutrient  
+Circle of the Fairies  
+Baromet of the Sacred Sheep Scrub  
 
 Threshold Borg  
 Thelematech Cratis  
