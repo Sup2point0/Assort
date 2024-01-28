@@ -90,7 +90,7 @@ A selection of diverse instances to illustrate how *PSCT* works.
   </tr>
   <tr>
     <td>
-      <pre lang="coffee"><code>[SS] 3 * Monster[level=3]
+      <pre lang="coffee"><code>[SS] 3 * Monster[level=7]
   opt cond [HOPT]: if 'Kashtira Shangri-Ira'.Activated(Effect[], success=TRUE, turn=THIS):
   self.SS(Xyz, transfer=TRUE) with Monster('Kashtira', control=YOU)
 [1] req cont eff: if would Send(GY, Card[] -> card), Banish(card)
