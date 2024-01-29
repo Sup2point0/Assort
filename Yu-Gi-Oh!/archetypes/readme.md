@@ -21,8 +21,9 @@ Arachnis
 [Battle Sheep](Battle%20Sheep.md)  
 [**Darquess**](Darquess.md)  
 [Dead-Eyes](Dead-Eyes.md)  
-[Dragmatika](Dragmatika.md)  
+Dragmatika  
 [Dystopia](Dystopia.md)  
+Ephemeral  
 Eternal King  
 &emsp; Eternal King Dragon  
 &emsp; Eternal King Servant  
@@ -44,6 +45,7 @@ Inkurzen
 &emsp; [Ark-Knight](Ark-Knight.md)  
 &emsp; &emsp; [Dark-Knight](Dark-Knight.md)  
 [Lightning](Lightning.md)  
+Manifestation  
 [Neuralliance](Neuralliance.md)  
 [Next-Gen](Next-Gen.md)  
 &emsp; [Next-Gen A-to-Z](Next-Gen%20A-to-Z.md)  
@@ -53,9 +55,11 @@ Inkurzen
 &emsp; Next-Gen Processlayer  
 &emsp; Next-Gen Raidraptor  
 [Ninjato](Ninjato.md)  
+Quick  
 [**Rubic**](Rubic.md)  
 [Shadow](Shadow.md)  
 [Shattered](Shattered.md)  
+Spiritual  
 [**Soul**](Soul.md)  
 &emsp; [Soul Shard](Soul.md)  
 [Stranded](Stranded.md)  
@@ -81,6 +85,9 @@ Inkurzen
 [**Vapour-Eyes**](Vapour-Eyes.md)  
 [Virus](Virus.md)  
 [World Affinity](World%20Affinity.md)  
+YNQ  
+&emsp; LYNQ /  
+&emsp; SYNQ /  
 
 
 <br>
