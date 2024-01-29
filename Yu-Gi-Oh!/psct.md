@@ -33,11 +33,11 @@ A selection of diverse instances to illustrate how *PSCT* works.
   <tr>
     <td>
       <pre lang="coffee"><code>[S] 2 * Monster[level=2]
-  opt cond: self.Summon?(Xyz) with Monsters[Link, link=2]
-[1] cont eff if self.materials has Monster[class=EXTRA]: Change(self.ATK.orig, * 2)
-[2] opt ignit eff [HOPT]: {}; Detach(Monster[Xyz, control=YOU], 1) to
+  [C] opt cond: self.Summon(Xyz) with Monsters[Link, link=2] as Monster[level=2]
+[1] cont eff if self.materials has Monster[class=EXTRA]: Alt(self.ATK.orig, *2)
+[2] opt ignit eff [HOPT]: Detach(Monster[Xyz, control=YOU], 1) to
   Summon(Special, DECK, Monster[level=2]) + Apply(turn=THIS) {
-    (YOU, OPP).Summon!(Special, Monster[level!=2]) } </code></pre>
+    Player[].Summon!(Special, Monster[level!=2]) } </code></pre>
     </td>
   </tr>
   <tr>
@@ -47,10 +47,10 @@ A selection of diverse instances to illustrate how *PSCT* works.
   <tr>
     <td>
       <pre lang="coffee"><code>[S] req 2 * Monster['Exosister', Xyz, rank=4]
-[1] cont eff: Attack?(count=+1, each=Phase[Battle])
+[1] cont eff: Attack?(count=+1, each=Phase.Battle)
 [2] opt quick eff [OPT]: self.Detach(1); Banish(Card[control=OPP])
 [3] opt quick eff on OPP.Activate(Card/Effect[]): 
-  Return(self.materials, EXTRA, Monster[Xyz, YOU] -> t), t.Summon?(Xyz, transfer=TRUE) with self </code></pre>
+  Return(self.materials, EXTRA, Monster[Xyz, own=YOU] -> t), t.Summon?(Xyz, transfer=TRUE) with self </code></pre>
     </td>
   </tr>
   <tr>
@@ -61,11 +61,11 @@ A selection of diverse instances to illustrate how *PSCT* works.
     <td>
       <pre lang="coffee"><code>[S] 'Meteonis Drytron'
 [1] cont eff: OPP.Target!(self) with Effects[Monster]
-[2] opt cont eff if Total(self.SS[Ritual].monsters.levels) < 3:
+[2] opt cont eff if Total(self.Summon[Ritual].Monsters[].levels) =< 2:
   self.Attack?(all Monsters[SS=TRUE, control=OPP])
 [3] opt quick eff [HOPT, turn=OPP]:
   Banish(YOU.GY, Monsters[ATK > 0]) -> fuel, where Total(fuel, ATK) -> c = 2000/4000,
-  Target(2000 // t * Card[control=OPP, face=UP]) -> t; Send(GY, t) </code></pre>
+  Target(2000 \ t * Card[control=OPP, face=UP]) -> t; Send(GY, t) </code></pre>
 
     </td>
   </tr>
@@ -79,7 +79,7 @@ A selection of diverse instances to illustrate how *PSCT* works.
 [1] cont eff: Unaffected(Monsters['Dogmatika', control=YOU]) by {
   Effects[OPP, activated, Monsters[class=EXTRA]] }
 [2] opt ignit eff [HOPT]: OPP.Apply(Effect[]) from {
-  [2.1] Total(Cards[] in OPP.EXTRA) // 2 -> c, OPP.Send(HAND/EXTRA, GY, c * Card[])
+  [2.1] Total(Cards[] in OPP.EXTRA) \ 2 -> c, OPP.Send(HAND/EXTRA, GY, c * Card[])
   [2.2] OPP.Return(EXTRA, Monsters[class=EXTRA], control=OPP])
 } </code></pre>
     </td>
@@ -92,10 +92,24 @@ A selection of diverse instances to illustrate how *PSCT* works.
     <td>
       <pre lang="coffee"><code>[SS] 3 * Monster[level=7]
   opt cond [HOPT]: if 'Kashtira Shangri-Ira'.Activated(Effect[], success=TRUE, turn=THIS):
-  self.SS(Xyz, transfer=TRUE) with Monster('Kashtira', control=YOU)
+  self.Summon(Xyz, transfer=TRUE) with Monster('Kashtira', control=YOU)
 [1] req cont eff: if would Send(GY, Card[] -> card), Banish(card)
 [2] req trig eff [OPC] on Banish(Card[]): Target(Card[VOID]) -> t; self.Attach(t)
 [3] opt quick eff [OPT]: self.Detach(3), Target(Card[FIELD]) -> t; Banish(t, face=DOWN) </code></pre>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="3"> <a href="https://yugipedia.com/wiki/Nirvana_High_Paladin">Nirvana High Paladin<sup>↗</sup></a> </td>
+    <td> If a Pendulum Monster you control attacks, for that battle, it cannot be destroyed by battle, also you take no battle damage. At the end of the Damage Step, if a Pendulum Monster you control attacked: All monsters your opponent currently controls lose ATK equal to that attacking monster's ATK, until the end of this turn. </td>
+  </tr>
+  <tr>
+    <td> 1 Tuner + 1+ non-Tuner Synchro Monsters
+For this card's Synchro Summon, you can treat 1 Pendulum Summoned Pendulum Monster you control as a Tuner. If this card is Synchro Summoned using a Pendulum Summoned Pendulum Monster Tuner: You can target 1 card in your GY; add it to your hand. When this card destroys an opponent's monster by battle: You can halve your opponent's LP. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone. </td>
+  </tr>
+  <tr>
+    <td>
+      <pre lang="coffee"><code>...
+...</code></pre>
     </td>
   </tr>
   <tr>
