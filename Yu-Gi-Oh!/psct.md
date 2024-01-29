@@ -110,7 +110,8 @@ A selection of diverse instances to illustrate how *PSCT* works.
 [P2] req trig eff if (Monster[Pend, control=YOU] -> t).Attack(), at Step[Damage].end: Monsters[control=OPP].Alt(ATK, -t.ATK) until TURN.end </code> </pre>
       <pre lang="coffee"><code>[S] Monster[Tuner], 1~ * Monster[Synchro, Tuner=FALSE]
 [C] opt cond self.Summon(Synchro) with Monster[Pend, summon=Pend, control=YOU] as Monster[Tuner]
-[1] opt trig eff on self.Summon(Synchro) with self.Summon(Synchro) with Monster[Tuner, summon=Pend]: Target(Card[YOU.GY]) -> t; t.Add(HAND)
+[1] opt trig eff on self.Summon(Synchro) with self.Summon(Synchro) with Monster[Tuner, summon=Pend]:
+  Target(Card[YOU.GY]) -> t; t.Add(HAND)
 [2] opt trig eff on self.Destroy(Monster[control=OPP], Battle): Alt(OPP.LP, -OPP.LP/2)
 [3] opt trig eff on self.Destroy(Battle/Effect): self.Place(YOU.Zone[Pend]) </code></pre>
     </td>
