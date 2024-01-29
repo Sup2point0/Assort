@@ -226,10 +226,11 @@ Boolean = [TRUE/FALSE]
 Int
 List
 None = NONE
+Num
 String
 ```
 
-### Slots
+### Constants
 
 ```coffee
 Player = [YOU/OPP]
@@ -237,15 +238,21 @@ Location = [HAND/FIELD/DECK/EXTRA/GY/VOID]
 Zone = [MONSTER/ST/FIELD/EXTRA]
 
 Attribute = [FIRE/WATER/EARTH/WIND/LIGHT/DARK/DIVINE]
-Type = [Aqua/ ... /Zombie]
-Ability = [Spirit/Toon/Tuner/Union]
+Type = [Aqua/.../Zombie]
+Ability = [Gemini/Spirit/Toon/Tuner/Union]
 
+Position = [ATK/DEF]
+Face = [UP/DOWN]
 Direction = [T/L/D/R/TL/TR/DL/DR]
 ```
 
 ### Objects
 
 ```coffee
+Player {
+  LP: Num
+}
+
 Card {
   type [Monster/Spell/Trap]
   name: String
@@ -266,6 +273,8 @@ Monster[Card] {
   rank: Int [0~13] = NONE
   link: Int [1~8] = NONE
   arrows: Direction / List[Direction] = NONE
+  pos: Position = ATK
+  face: Face = UP
 }
 
 Spell[Card] {
@@ -295,6 +304,12 @@ Counter {
   .target: Card/s
 ) -> Card/s
 
+.Alt(
+  property: Property [LEVEL/TYPE/ATTR/ATK/DEF]
+  .target: Card/s
+  value = ?
+)
+
 .Apply(
   effect: Effect/Condition
   .target: Card/s
@@ -307,7 +322,7 @@ Counter {
 
 .Attack(
   .source: Monster = SELF
-  target: Monster / Player
+  target: Monster/Player
 )
 
 .Banish(
@@ -321,18 +336,12 @@ Counter {
   target: Monster
 )
 
-.Change(
-  property: Property [LEVEL/TYPE/ATTR/ATK/DEF]
-  .target: Card/s
-  value = ?
-)
-
 Choose(
-  options: Options
+  {options}: Options
 ) -> Option/s
 
 .Destroy(
-  source: Location [HAND/FIELD/DECK/EXTRA]] = auto
+  source: Location [HAND/FIELD/DECK/EXTRA] = auto
   .target: Card/s
 ) -> Card/s
 
@@ -353,8 +362,26 @@ Excavate(
   count: Int = 1
 ) -> Card/s
 
+player.Gain(
+  points: Int
+)
+
+Card.Gain(
+  effect: Effect/s
+)
+
 Inflict(
   damage: Int
+)
+
+.Leave(
+  .target: Card/s
+  loc: Location
+) -> Card/s
+
+.Negate(
+  .target: Event
+  kind: [effect/activation]
 )
 
 .Return(
@@ -393,4 +420,13 @@ Inflict(
 .Target(
   .target: Card/s
 ) -> Card/s
+```
+
+### Functions
+
+```coffee
+.Count(
+  .list: List
+  target: Item/s / 
+)
 ```
