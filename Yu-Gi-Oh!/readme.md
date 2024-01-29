@@ -24,8 +24,10 @@ The original, high-quality decks I play with the most.
 | [Arcana<sup>↗</sup>](https://duelingbook.com/deck?id=12012335) | All | [*k-Knight*](archetypes/k-Knight.md) + [*World Affinity*](archetypes/World%20Affinity.md) | all-type swarming | *PSSSCCCT* | 3.0 |
 | [Darquessence<sup>↗</sup>](https://duelingbook.com/deck?id=12053993) | Ritual, Fusion | [*Darquess*](archetypes/Darquess.md) | draining control | classic PSCT | 3.0 |
 | [**Rubix**<sup>↗</sup>](https://duelingbook.com/deck?id=12381789) | Synchro, Xyz, Link | [Rubic](archetypes/Rubic.md) | ultimate versatility | indexed modern PSCT | 1.0 |
-| [Shards<sup>↗</sup>](https://duelingbook.com/deck?id=14562468) | Accel Synchro, Accel Xyz | *Fractured*, *Shattered* | punishment | indexed canon PSCT | 1.0 |
 | Arachnyx | Xyz, Link | [*Arachnis*](archetypes/Arachnis.md) | evil control | *PSSSCCCT* | 0.0 |
+| [Shards<sup>↗</sup>](https://duelingbook.com/deck?id=14562468) | Accel Synchro, Accel Xyz | *Fractured*, *Shattered* | punishment | indexed canon PSCT | 1.0 |
+| Ephemeris | Spirit, Ritual, Synchro | *Ephemeral*, *Spiritual* | bouncy | indexed classic PSCT | 0.0 |
+| SLYNQY | Trap, Link | *-LYNQ /*, *-SYNQ /* | Trap crazy | indexed classic PSCT | 0.0 |
 
 ### Assorted
 Downright remakes of existing archetypes, one of my favourite things to do.
@@ -57,7 +59,7 @@ Random decks I decided to make for fun, but rarely play with.
 
 | deck | series | notes | card text |
 | :--- | :----- | :---- | :-------- |
-| [staples](https://duelingbook.com/deck?id=12239205) | [staples](archetypes/staples.md) | all my custom staple cards! | canon PSCT |
+| [staples](https://duelingbook.com/deck?id=12239205) | [staples](archetypes/staples.md) | all my custom staple cards! | indexed canon PSCT |
 
 
 <br>
