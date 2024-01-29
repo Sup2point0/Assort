@@ -66,7 +66,6 @@ A selection of diverse instances to illustrate how *PSCT* works.
 [3] opt quick eff [HOPT, turn=OPP]:
   Banish(YOU.GY, Monsters[ATK > 0]) -> fuel, where Total(fuel, ATK) -> c = 2000/4000,
   Target(2000 \ t * Card[control=OPP, face=UP]) -> t; Send(GY, t) </code></pre>
-
     </td>
   </tr>
   <tr>
@@ -75,7 +74,7 @@ A selection of diverse instances to illustrate how *PSCT* works.
   </tr>
   <tr>
     <td>
-      <pre lang="coffee"><code>[SS] req Card["Dogmatika"]
+      <pre lang="coffee"><code>[S] req Card["Dogmatika"]
 [1] cont eff: Unaffected(Monsters['Dogmatika', control=YOU]) by {
   Effects[OPP, activated, Monsters[class=EXTRA]] }
 [2] opt ignit eff [HOPT]: OPP.Apply(Effect[]) from {
@@ -90,7 +89,7 @@ A selection of diverse instances to illustrate how *PSCT* works.
   </tr>
   <tr>
     <td>
-      <pre lang="coffee"><code>[SS] 3 * Monster[level=7]
+      <pre lang="coffee"><code>[S] 3 * Monster[level=7]
   opt cond [HOPT]: if 'Kashtira Shangri-Ira'.Activated(Effect[], success=TRUE, turn=THIS):
   self.Summon(Xyz, transfer=TRUE) with Monster('Kashtira', control=YOU)
 [1] req cont eff: if would Send(GY, Card[] -> card), Banish(card)
@@ -103,13 +102,17 @@ A selection of diverse instances to illustrate how *PSCT* works.
     <td> If a Pendulum Monster you control attacks, for that battle, it cannot be destroyed by battle, also you take no battle damage. At the end of the Damage Step, if a Pendulum Monster you control attacked: All monsters your opponent currently controls lose ATK equal to that attacking monster's ATK, until the end of this turn. </td>
   </tr>
   <tr>
-    <td> 1 Tuner + 1+ non-Tuner Synchro Monsters
-For this card's Synchro Summon, you can treat 1 Pendulum Summoned Pendulum Monster you control as a Tuner. If this card is Synchro Summoned using a Pendulum Summoned Pendulum Monster Tuner: You can target 1 card in your GY; add it to your hand. When this card destroys an opponent's monster by battle: You can halve your opponent's LP. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone. </td>
+    <td> 1 Tuner + 1+ non-Tuner Synchro Monsters <br> For this card's Synchro Summon, you can treat 1 Pendulum Summoned Pendulum Monster you control as a Tuner. If this card is Synchro Summoned using a Pendulum Summoned Pendulum Monster Tuner: You can target 1 card in your GY; add it to your hand. When this card destroys an opponent's monster by battle: You can halve your opponent's LP. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone. </td>
   </tr>
   <tr>
     <td>
-      <pre lang="coffee"><code>...
-...</code></pre>
+      <pre lang="coffee"><code>[P1] req cont eff if (Monster[Pend, control=YOU] -> t).Attack() -> b, t.Destroy!(Battle), Alt(b.damage, 0)
+[P2] req trig eff if (Monster[Pend, control=YOU] -> t).Attack(), at Step[Damage].end: Monsters[control=OPP].Alt(ATK, -t.ATK) until TURN.end </code> </pre>
+      <pre lang="coffee"><code>[S] Monster[Tuner], 1~ * Monster[Synchro, Tuner=FALSE]
+[C] opt cond self.Summon(Synchro) with Monster[Pend, summon=Pend, control=YOU] as Monster[Tuner]
+[1] opt trig eff on self.Summon(Synchro) with self.Summon(Synchro) with Monster[Tuner, summon=Pend]: Target(Card[YOU.GY]) -> t; t.Add(HAND)
+[2] opt trig eff on self.Destroy(Monster[control=OPP], Battle): Alt(OPP.LP, -OPP.LP/2)
+[3] opt trig eff on self.Destroy(Battle/Effect): self.Place(YOU.Zone[Pend]) </code></pre>
     </td>
   </tr>
   <tr>
@@ -158,6 +161,20 @@ For this card's Synchro Summon, you can treat 1 Pendulum Summoned Pendulum Monst
     </td>
   </tr>
   <tr>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Rank-Up-Magic_Revolution_Force">Rank-Up-Magic Revolution Force<sup>↗</sup></a> </td>
+    <td> ● During your turn: Target 1 "Raidraptor" Xyz Monster you control; Special Summon from your Extra Deck, 1 "Raidraptor" monster that is 1 Rank higher than that target, by using that target as the Xyz Material. <br> ● During your opponent's turn: Target 1 Xyz Monster your opponent controls with no Xyz Materials; take control of that Xyz Monster, then Special Summon from your Extra Deck, 1 "Raidraptor" monster that is 1 Rank higher than that monster, by using it as the Xyz Material. <br> (These Special Summons are treated as Xyz Summons. Attached Xyz Materials also become Xyz Materials on the Summoned monster.) </td>
+  </tr>
+  <tr>
+    <td>
+      <pre lang="coffee"><code>[1] act eff Choose() {
+  [1.1] [turn=YOU]: Target(Monster[Xyz, 'Raidraptor', control=YOU]) -> t;
+    Summon(Xyz, Extra, Monster[Xyz, 'Raidraptor', rank=t.rank+1], transfer=TRUE) with t
+  [1.2] [turn=OPP]: Target(Monster[Xyz, control=OPP, materials=0]) -> t;
+    t.Alt(control=YOU), Summon(Xyz, Extra, Monster[Xyz, 'Raidraptor', rank=t.rank+1], transfer=TRUE) with t
+} </code></pre>
+    </td>
+  </tr>
+  <tr>
     <td rowspan="2"> <a href="https://yugipedia.com/wiki/Branded_Retribution">Branded Retribution<sup>↗</sup></a> </td>
     <td> When a Spell/Trap Card, or monster effect, is activated that includes an effect that Special Summons a monster(s): Return to the Extra Deck, 1 face-up Fusion Monster you control, or 2 Fusion Monsters in your GY, that mention "Fallen of Albaz" as material, and if you do, negate the activation, and if you do that, destroy that card. You can banish this card from your GY, then target 1 "Branded" Spell/Trap in your GY, except "Branded Retribution"; add it to your hand. You can only use 1 "Branded Retribution" effect per turn, and only once that turn. </td>
   </tr>
@@ -168,6 +185,24 @@ For this card's Synchro Summon, you can treat 1 Pendulum Summoned Pendulum Monst
   Return(t[YOU.FIELD] / 2 * t[YOU.GY]) to Negate(e.activation) to Destroy(e.card)
 [1] opt quick? eff [HOPT]: self.Banish(GY), Target(GY, Spell/Trap['Branded']) -> t ; Add(GY, HAND, t)
 [C] cond YOU.Use?(self.Effect[], count=1, each=turn) </code></pre>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Last_Turn">Last Turn<sup>↗</sup></a> </td>
+    <td> This card can only be activated during your opponent's turn when your Life Points are 1000 or less. Select 1 monster on your side of the field and send all other cards on the field and in their respective owners' hands to their respective Graveyards. After that, your opponent selects and Special Summons 1 monster from their Deck in face-up Attack Position and attacks your selected monster. (Any Battle Damage from this battle is treated as 0.) The player whose monster remains alone on the field at the End Phase of this turn wins the Duel. Any other case results in a DRAW. </td>
+  </tr>
+  <tr>
+    <td>
+      <pre lang="coffee"><code>[1] act eff [turn = OPP] while YOU.LP =< 1000: {
+  Choose(Monster[], Monsters[control = YOU]) -> t
+  and Send(Players[].(HAND & FIELD), GY, Cards[Card != t])
+}  
+  [1.1] req act! eff on Resolve([1].Chain): OPP.Summon(Special, DECK, Monster[], pos=ATK) -> k, k.Attack(t) -> b, Alt(b.damage = 0)
+  [1.2] req act! eff [phase=END, turn=THIS]: {
+    if (t.control = YOU and k.control = NONE) then DUEL.win = YOU
+    else if t.control = NONE and k.control = OPP) then DUEL.win = OPP
+    else DUEL.win = NONE
+  } </code></pre>
     </td>
   </tr>
 </table>
