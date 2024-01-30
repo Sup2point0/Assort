@@ -106,8 +106,10 @@ A selection of diverse instances to illustrate how *PSCT* works.
   </tr>
   <tr>
     <td>
-      <pre lang="coffee"><code>[P1] req cont eff if (Monster[Pend, control=YOU] -> t).Attack() -> b, t.Destroy!(Battle), Alt(b.damage, 0)
-[P2] req trig eff if (Monster[Pend, control=YOU] -> t).Attack(), at Step[Damage].end: Monsters[control=OPP].Alt(ATK, -t.ATK) until TURN.end </code> </pre>
+      <pre lang="coffee"><code>[P1] req cont eff: if (Monster[Pend, control=YOU] -> t).Attack() -> b,
+  t.Destroy!(Battle), Alt(b.damage, 0)
+[P2] req trig eff [Step[Damage].end]: if (Monster[Pend, control=YOU] -> t).Attack(),
+  Monsters[control=OPP].Alt(ATK, -t.ATK) until TURN.end </code> </pre>
       <pre lang="coffee"><code>[S] Monster[Tuner], 1~ * Monster[Synchro, Tuner=FALSE]
 [C] opt cond self.Summon(Synchro) with Monster[Pend, summon=Pend, control=YOU] as Monster[Tuner]
 [1] opt trig eff on self.Summon(Synchro) with self.Summon(Synchro) with Monster[Tuner, summon=Pend]:
@@ -170,13 +172,13 @@ A selection of diverse instances to illustrate how *PSCT* works.
       <pre lang="coffee"><code>[1] act eff Choose() {
   [1.1] [turn=YOU]: Target(Monster[Xyz, 'Raidraptor', control=YOU]) -> t;
     Summon(Xyz, Extra, Monster[Xyz, 'Raidraptor', rank=t.rank+1], transfer=TRUE) with t
-  [1.2] [turn=OPP]: Target(Monster[Xyz, control=OPP, materials=0]) -> t;
-    t.Alt(control=YOU), Summon(Xyz, Extra, Monster[Xyz, 'Raidraptor', rank=t.rank+1], transfer=TRUE) with t
+  [1.2] [turn=OPP]: Target(Monster[Xyz, control=OPP, materials=0]) -> t; t.Alt(control=YOU),
+    Summon(Xyz, Extra, Monster[Xyz, 'Raidraptor', rank=t.rank+1], transfer=TRUE) with t
 } </code></pre>
     </td>
   </tr>
   <tr>
-    <td rowspan="2"> <a href="https://yugipedia.com/Small_World">SMall World<sup>↗</sup></a> </td>
+    <td rowspan="2"> <a href="https://yugipedia.com/Small_World">Small World<sup>↗</sup></a> </td>
     <td> Reveal 1 monster in your hand, choose 1 monster from your Deck that has exactly 1 of the same Type, Attribute, Level, ATK or DEF, and banish the revealed monster from your hand face-down. Then add, from the Deck to your hand, 1 monster that has exactly 1 of the same Type, Attribute, Level, ATK or DEF as the monster chosen from your Deck, and banish the card chosen from the Deck face-down. You can only activate 1 "Small World" per turn. </td>
   </tr>
   <tr>
@@ -186,7 +188,9 @@ A selection of diverse instances to illustrate how *PSCT* works.
   List[Bool[Data(c1)[i] = Data(c2)[i]] for i = 1~5] -> d,
   Bool[Count(d, TRUE) = 1] -> OUT
 }
-[1] act eff [HOPT[Activate]]: Reveal(HAND, Monster[] -> t1), Reveal(DECK, Monster[] -> t2) where Connected(t1, t2), Add(DECK, HAND, Monster[] -> t3) where Connected(t3, t2) </code></pre>
+[1] act eff [HOPT[Activate]]: Reveal(HAND, Monster[] -> t1), Reveal(DECK, Monster[] -> t2)
+  where Connected(t1, t2), Banish(t1, face=DOWN), Add(DECK, HAND, Monster[] -> t3)
+  where Connected(t3, t2), Banish(t2, face=DOWN) </code></pre>
     </td>
   </tr>
   <tr>
@@ -195,7 +199,7 @@ A selection of diverse instances to illustrate how *PSCT* works.
   </tr>
   <tr>
     <td>
-      <pre lang="coffee"><code>act [HOPT] on Activate(Card[Spell/Trap] / Effect[Monster]) -> e would Summon(Special, Monster[]):
+      <pre lang="coffee"><code>act [HOPT[Activate]] on Activate(Card[Spell/Trap] / Effect[Monster]) -> e would Summon(Special, Monster[]):
   Monster[Fusion, materials has 'Fallen of Albaz'] -> t,
   Return(t[YOU.FIELD] / 2 * t[YOU.GY]) to Negate(e.activation) to Destroy(e.card)
 [1] opt quick? eff [HOPT]: self.Banish(GY), Target(GY, Spell/Trap['Branded']) -> t ; Add(GY, HAND, t)
@@ -212,7 +216,8 @@ A selection of diverse instances to illustrate how *PSCT* works.
   Choose(Monster[], Monsters[control = YOU]) -> t
   and Send(Players[].(HAND & FIELD), GY, Cards[Card != t])
 }  
-  [1.1] req act! eff on Resolve([1].Chain): OPP.Summon(Special, DECK, Monster[], pos=ATK) -> k, k.Attack(t) -> b, Alt(b.damage = 0)
+  [1.1] req act! eff on Resolve([1].Chain): OPP.Summon(Special, DECK, Monster[], pos=ATK) -> k,
+    k.Attack(t) -> b, Alt(b.damage = 0)
   [1.2] req act! eff [phase=END, turn=THIS]: {
     if (t.control = YOU and k.control = NONE) then DUEL.win = YOU
     else if t.control = NONE and k.control = OPP) then DUEL.win = OPP
