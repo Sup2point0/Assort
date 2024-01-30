@@ -176,6 +176,20 @@ A selection of diverse instances to illustrate how *PSCT* works.
     </td>
   </tr>
   <tr>
+    <td rowspan="2"> <a href="https://yugipedia.com/Small_World">SMall World<sup>↗</sup></a> </td>
+    <td> Reveal 1 monster in your hand, choose 1 monster from your Deck that has exactly 1 of the same Type, Attribute, Level, ATK or DEF, and banish the revealed monster from your hand face-down. Then add, from the Deck to your hand, 1 monster that has exactly 1 of the same Type, Attribute, Level, ATK or DEF as the monster chosen from your Deck, and banish the card chosen from the Deck face-down. You can only activate 1 "Small World" per turn. </td>
+  </tr>
+  <tr>
+    <td>
+      <pre lang="coffee"><code>[D] func Data(Monster[] -> c) gives List[c.level, c.type, c.attr, c.ATK, c.DEF]
+[D] func Connected(2 * Monster[] -> c1, c2) {
+  List[Bool[Data(c1)[i] = Data(c2)[i]] for i = 1~5] -> d,
+  Bool[Count(d, TRUE) = 1] -> OUT
+}
+[1] act eff [HOPT[Activate]]: Reveal(HAND, Monster[] -> t1), Reveal(DECK, Monster[] -> t2) where Connected(t1, t2), Add(DECK, HAND, Monster[] -> t3) where Connected(t3, t2) </code></pre>
+    </td>
+  </tr>
+  <tr>
     <td rowspan="2"> <a href="https://yugipedia.com/wiki/Branded_Retribution">Branded Retribution<sup>↗</sup></a> </td>
     <td> When a Spell/Trap Card, or monster effect, is activated that includes an effect that Special Summons a monster(s): Return to the Extra Deck, 1 face-up Fusion Monster you control, or 2 Fusion Monsters in your GY, that mention "Fallen of Albaz" as material, and if you do, negate the activation, and if you do that, destroy that card. You can banish this card from your GY, then target 1 "Branded" Spell/Trap in your GY, except "Branded Retribution"; add it to your hand. You can only use 1 "Branded Retribution" effect per turn, and only once that turn. </td>
   </tr>
