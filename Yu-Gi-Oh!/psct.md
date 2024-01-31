@@ -50,7 +50,8 @@ A selection of diverse instances to illustrate how *PSCT* works.
 [1] cont eff: Attack?(count=+1, each=Phase.Battle)
 [2] opt quick eff [OPT]: self.Detach(1); Banish(Card[control=OPP])
 [3] opt quick eff on OPP.Activate(Card/Effect[]): 
-  Return(self.materials, EXTRA, Monster[Xyz, own=YOU] -> t), t.Summon?(Xyz, transfer=TRUE) with self </code></pre>
+  Return(self.materials, EXTRA, Monster[Xyz, own=YOU] -> t),
+  t.Summon?(Xyz, transfer=TRUE) with self </code></pre>
     </td>
   </tr>
   <tr>
@@ -116,6 +117,20 @@ A selection of diverse instances to illustrate how *PSCT* works.
   Target(Card[YOU.GY]) -> t; t.Add(HAND)
 [2] opt trig eff on self.Destroy(Monster[control=OPP], Battle): Alt(OPP.LP, -OPP.LP/2)
 [3] opt trig eff on self.Destroy(Battle/Effect): self.Place(YOU.Zone[Pend]) </code></pre>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Inspector_Boarder">Inspector Boarder<sup>↗</sup></a> </td>
+    <td> Cannot be Normal or Special Summoned if you control a monster. Neither player can activate monster effects unless the number of monster effects that player has previously activated that turn is less than the number of monster card types currently on the field (Ritual, Fusion, Synchro, Xyz, Pendulum, and Link). (If an effect's activation was negated, it still counts toward the total for that turn. Only count effects that were activated while this monster was face-up on the field.) </td>
+  </tr>
+  <tr>
+    <td>
+      <pre lang="coffee"><code>[C] cond: if YOU.Control(Monster[]) then self.Summon!(Normal / Special)
+[D] var Players[].count = 0
+[1] req act! eff on (Player[] -> p).Activate(Effect[Monster]): Alt(p.count, +1)
+[2] req cont eff: Count(Monsters[FIELD].classes[R/F/S/X/P/L], UNIQUE) -> c,
+  if (Player[count>=c] -> p) then p.Activate!(Effect[Monster])
+[3] req act! eff on Turn[].end: Players[].count = 0 </code></pre>
     </td>
   </tr>
   <tr>
