@@ -139,6 +139,9 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
 
 ## Strategy
 
+> [!Note]
+> This section is under construction.
+
 ### End Board
 The dream endboard consists of White Zoa, Amorphactor Pain, Odd-Eyes Gravity Dragon, Elder Entity.
 
@@ -146,13 +149,15 @@ White Zoa needs 3 cards to Ritual Summon – itself, Dogmatikabre, and a Draconi
 
 Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards to search out all the Ritual Spells and Monsters we need. Nadir Servant is great for searching any missing piece we need, and if we go second Dogmatikatrix can grab both White Zoa and Dogmatikabre all in one go, or even another copy of itself if we’ve already got one of those.
 
+### Strengths
+Drytron is definitely strong. It’s fallen behind the meta, sure, but it can still *do* things, and is plenty powerful if left unchecked. The archetype is by no means ‘grindy’, but grinds decently well – cycling the modules each turn for virtually no cost, and gaining card advantage through Drytron Alpha and Delta.
 
-<br>
+Due to the way it’s structured, Drytron has a few niche advantages. The effects of our modules don’t activate on the field, and their search is part of resolution, which means we can play under Skill Drain and other effects that relate to the field. Of course, the Rituals we’re aiming to end on won’t work, but luckily their high ATK means generally we can win through plain beatdown. We also don’t rely on Summoning from the Extra Deck too much, so while a lock or floodgate does hurt a bit, it doesn’t hurt anywhere as much as with other decks. Funniest of all of course, is how we benefit from burying from the Extra Deck – almost half of our Extra Deck is very useful when sent to the Grave.
 
+### Weaknesses
+As strong as it can be, Drytron is chock-full of weaknesses. Of course, the most pressing is consistency – unlike most other archetypes with 1-card starters, we need at least 2 Drytron modules to actually combo. And being a Ritual deck, we need to accumulate so many different cards to be able to even bring out any kind of boss Monster, so any negated search could be combo-ending. Don’t forget that all the effort is so resource-intensive that we’re often left with an empty hand after dropping everything we can, so a comeback in turn 3 too often relies on Heart of the Cards. Drytron can indeed have a pretty high ceiling, but do remember that we’re hard capped by 2 or 3 Ritual Summons each turn (and really only 1 in late game), and this requires having an opening hand with pretty much every card being live.
 
-## Gameplay
-
-The deck is insanely fun to play.
+What hurts most, though, is that it’s vulnerable to almost every form of interruption. Handtrap-wise when going fist, you’ve got Ash Blossom and Ghost Belle negating the modules, Infinite Impermanence, Effect Veiler and even Ghost Ogre choking Mu Beta Fafnir, and of course Maxx C and Droll & Lock Bird which are utter pain. Don’t even mention Bystials. Any grave disruption or floodgate, of which there is plenty – Called By The Grave, Ishizu shufflers, Abyss Dweller – totally kills the deck.
 
 
 <br>
@@ -268,6 +273,18 @@ The Weather is strangely terrifying to play against, since it has incredible gri
 <br>
 
 
+## Rivals
+
+### [Mekk-Knight Crusadia Avramax](https://yugipedia.com/wiki/Mekk-Knight_Crusadia_Avramax)
+I:P Masquerena makes no difference for Drytron, as none of our effects involve destruction anyway. It’s the battle invulnerability that’s the most problematic, since we do often rely on our naturally high ATK to take out the opponent’s ace Monsters. So, Shinobaron Peacock is our only non-targeting non-destructive removal option – which sounds bad, but at least it’s searchable. Otherwise, we’d have to rely on drawing Forbidden Droplet or, heaven forbid, triggering Nibiru.
+
+### [Apollousa, Bow of the Goddess](https://yugipedia.com/wiki/Apollousa,_Bow_of_the_Goddess)
+Drytron’s worst nightmare. Seriously. If we don’t draw a Spell/Trap out to this (or have everything necessary for a Ritual Summon in hand – that’s rare), we’re royally screwed. The issue, you see, is that Drytron cannot simply tank the negates or beat over it, because we rely exclusively on Special Summons, and can’t Special Summon without activating Monster effects. The feeling of having all your modules negated... man, it’s rough. The worst part? Often, Apolloussa is just one of our worries, cuz the opponent will have other interruptions or bodies for us to deal with.
+
+
+<br>
+
+
 ## Replays
 
 ### DuelingNexus
@@ -276,12 +293,6 @@ The Weather is strangely terrifying to play against, since it has incredible gri
 [Against Branded](https://duelingnexus.com/replay/672e3822-5723-41e7-88dc-08bd206ad14f)  
 [Against Kashtira](https://duelingnexus.com/replay/c4ac0ac3-d0d2-44eb-8fc0-6892759a9bdc)  
 [Against Dogmatika](https://duelingnexus.com/replay/2cf8cbbc-e82e-436a-ac25-e9ad90384c3d)  
-
-### Master Duel
-[Turn One](https://youtube.com/watch?v%3DDl9Sc7AOz0E%26list%3DPLmmew-ndEnv0pVyNQJwBxRkIZzbuqdrvn%26index%3D5)  
-[Draconids Being Awesome](https://youtube.com/watch?v%3DfpuNetOzBNo%26list%3DPLmmew-ndEnv0pVyNQJwBxRkIZzbuqdrvn%26index%3D9)  
-[Amorphactor Pain Clutch](https://youtube.com/watch?v%3DSTC9tNqbFWs%26list%3DPLmmew-ndEnv0pVyNQJwBxRkIZzbuqdrvn%26index%3D7)  
-[Anime Duel Against Marincess](https://youtube.com/watch?v%3D_tFhoIBfiiE%26list%3DPLmmew-ndEnv0pVyNQJwBxRkIZzbuqdrvn%26index%3D3)  
 
 ### DuelingBook
 [Turn One](https://duelingbook.com/replay?id=993175-47650375)  
