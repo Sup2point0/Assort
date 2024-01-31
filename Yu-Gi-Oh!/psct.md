@@ -112,25 +112,12 @@ A selection of diverse instances to illustrate how *PSCT* works.
 [P2] req trig eff [Step[Damage].end]: if (Monster[Pend, control=YOU] -> t).Attack(),
   Monsters[control=OPP].Alt(ATK, -t.ATK) until TURN.end </code> </pre>
       <pre lang="coffee"><code>[S] Monster[Tuner], 1~ * Monster[Synchro, Tuner=FALSE]
-[C] opt cond self.Summon(Synchro) with Monster[Pend, summon=Pend, control=YOU] as Monster[Tuner]
-[1] opt trig eff on self.Summon(Synchro) with self.Summon(Synchro) with Monster[Tuner, summon=Pend]:
+[C] opt cond self.Summon(Synchro) with {
+  Monster[Pend, summon=Pend, control=YOU] as Monster[Tuner] }
+[1] opt trig eff on self.Summon(Synchro) with Monster[Tuner, summon=Pend]:
   Target(Card[YOU.GY]) -> t; t.Add(HAND)
-[2] opt trig eff on self.Destroy(Monster[control=OPP], Battle): Alt(OPP.LP, -OPP.LP/2)
+[2] opt trig eff on self.Destroy(Monster[control=OPP], Battle): Alt(OPP.LP, -OPP.LP\2)
 [3] opt trig eff on self.Destroy(Battle/Effect): self.Place(YOU.Zone[Pend]) </code></pre>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Inspector_Boarder">Inspector Boarder<sup>↗</sup></a> </td>
-    <td> Cannot be Normal or Special Summoned if you control a monster. Neither player can activate monster effects unless the number of monster effects that player has previously activated that turn is less than the number of monster card types currently on the field (Ritual, Fusion, Synchro, Xyz, Pendulum, and Link). (If an effect's activation was negated, it still counts toward the total for that turn. Only count effects that were activated while this monster was face-up on the field.) </td>
-  </tr>
-  <tr>
-    <td>
-      <pre lang="coffee"><code>[C] cond: if YOU.Control(Monster[]) then self.Summon!(Normal / Special)
-[D] var Players[].count = 0
-[1] req act! eff on (Player[] -> p).Activate(Effect[Monster]): Alt(p.count, +1)
-[2] req cont eff: Count(Monsters[FIELD].classes[R/F/S/X/P/L], UNIQUE) -> c,
-  if (Player[count>=c] -> p) then p.Activate!(Effect[Monster])
-[3] req act! eff on Turn[].end: Players[].count = 0 </code></pre>
     </td>
   </tr>
   <tr>
@@ -151,6 +138,20 @@ A selection of diverse instances to illustrate how *PSCT* works.
   to Negate(e.activation) to Destroy(e.card), Change?(self.counters[Spell], +c)
 [3] opt trig eff on Destroy(self) with Battle() while self.counters[Spell] > 0:
   Add(DECK, HAND, Spell[Normal]) </code></pre>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Inspector_Boarder">Inspector Boarder<sup>↗</sup></a> </td>
+    <td> Cannot be Normal or Special Summoned if you control a monster. Neither player can activate monster effects unless the number of monster effects that player has previously activated that turn is less than the number of monster card types currently on the field (Ritual, Fusion, Synchro, Xyz, Pendulum, and Link). (If an effect's activation was negated, it still counts toward the total for that turn. Only count effects that were activated while this monster was face-up on the field.) </td>
+  </tr>
+  <tr>
+    <td>
+      <pre lang="coffee"><code>[C] cond: if YOU.Control(Monster[]) then self.Summon!(Normal / Special)
+[D] var Players[].count = 0
+[1] req act! eff on (Player[] -> p).Activate(Effect[Monster]): Alt(p.count, +1)
+[2] req cont eff: Count(Monsters[FIELD].classes[R/F/S/X/P/L], UNIQUE) -> c,
+  if (Player[count>=c] -> p) then p.Activate!(Effect[Monster])
+[3] req act! eff on Turn[].end: Players[].count = 0 </code></pre>
     </td>
   </tr>
 </table>
@@ -214,10 +215,12 @@ A selection of diverse instances to illustrate how *PSCT* works.
   </tr>
   <tr>
     <td>
-      <pre lang="coffee"><code>act [HOPT[Activate]] on Activate(Card[Spell/Trap] / Effect[Monster]) -> e would Summon(Special, Monster[]):
+      <pre lang="coffee"><code>act [HOPT[Activate]] on Activate(Card[Spell/Trap] / Effect[Monster]) -> e
+  where e would Summon(Special, Monster[]):
   Monster[Fusion, materials has 'Fallen of Albaz'] -> t,
   Return(t[YOU.FIELD] / 2 * t[YOU.GY]) to Negate(e.activation) to Destroy(e.card)
-[1] opt quick? eff [HOPT]: self.Banish(GY), Target(GY, Spell/Trap['Branded']) -> t ; Add(GY, HAND, t)
+[1] opt quick? eff [HOPT]: self.Banish(GY),
+  Target(GY, Spell/Trap['Branded']) -> t; Add(GY, HAND, t)
 [C] cond YOU.Use?(self.Effect[], count=1, each=turn) </code></pre>
     </td>
   </tr>
