@@ -78,11 +78,11 @@ I’ve played with a couple of decks in my time, but I’m not really one to pla
 
 | deck | archetypes | notes |
 | :--- | :--------- | :---- |
-| **Draptor** | [*Raidraptor*](), [*Phantom Knights*]() | |
-| **Dryconix** |
-| Cyburst |
-| Processlayer |
-| Sentrion |
+| **Draptor** | [*Raidraptor*](https://yugipedia.com/wiki/Raidraptor), [*Phantom Knights*](https://yugipedia.com/wiki/Phantom_Knights) | |
+| **Dryconix** | [*Drytron*](https://yugipedia.com/wiki/Drytron), [*Dogmatika*](https://yugipedia.com/wiki/Dogmatika), Ritual tech | |
+| Cyburst | [*Cyber Dragon*](https://yugipedia.com/wiki/Cyber_Dragon) | Yeah, same name as the custom. Why not. |
+| Processlayer | [*Mathmech*](https://yugipedia.com/wiki/Mathmech), Cyberse tech | Was fun in Master Duel. Deprecated now ofc cuz of the Circular ban. |
+| Sentrion | [*Centur-Ion*](https://yugipedia.com/wiki/Centur-Ion), [*P.U.N.K.*](https://yugipedia.com/wiki/P.U.N.K.), Synchro tech | Wonderfully versatile. Not as fun to play after a while, but waiting and looking for more interesting things to do. Oh yeah, and no Crimson Dragon. At all. |
 
 
 <br>
