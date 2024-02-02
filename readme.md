@@ -1,4 +1,4 @@
-# Assort
+# *Assort*
 
 An assortment of my various creations. Feel free to have a look around!
 
@@ -22,7 +22,7 @@ Unsure where to start?
 📁 [poetry](~poetry)  
 
 ### Files
-📂 [On the Origins on Sup#2.0](~writing/origins.md) – the lore behind Sup#2.0  
+📂 [*On the Origins on Sup#2.0*](~writing/origins.md) – the lore behind Sup#2.0  
 📂 [Rubic](Yu-Gi-Oh!/archetypes/Rubic.md) – a custom *Yu-Gi-Oh!* archetype  
 📂 [koniokinetis](affine/affinitys/koniokinetis.md) – a fictional affinity  
 📂 [Ultraman Infinity](Ultraman/Ultraman%20Infinity.md) – a fictional Ultraman  
@@ -123,6 +123,10 @@ The scale of magnitude used throughout varical sections.
     <td> <img src=".assets/spectrus/spectrus.blue.low.spec.png" width="360px"> </td>
   </tr>
 </table>
+
+
+<br>
+
 
 ---
 
