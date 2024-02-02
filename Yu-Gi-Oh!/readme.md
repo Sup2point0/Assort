@@ -65,8 +65,15 @@ Random decks I decided to make for fun, but rarely play with.
 <br>
 
 
+## Playing
+
+I played in real life as a kid, though that was very much ‘playground Yu-Gi-Oh’. Since returning, I’ve played on [*DuelingBook*<sup>↗</sup>](https://duelingbook.com), [*DuelingNexus*<sup>↗</sup>](https://duelingnexus.com), and [*Master Duel*<sup>↗</sup>](https://www.konami.com/yugioh/masterduel). Recently I even built my [Drytron deck](dryconix.md) in real life, and got my sister an Exosister deck to play against me with.
+
+I play with both custom cards and canon cards, though I like to keep the two entirely separate, so never mix customs with reals. Unfortunately, now I don’t have much time for proper long duels on DuelingBook (not that that’s stopped me from creating ever more custom cards :v). So it’s primarily dueling with canon cards on DuelingNexus.
+
+I’ve played with a couple of decks in my time, but I’m not really one to play a whole lot of different decks – I enjoy picking those I love the most and being deeply familiar with them. Here are all of them, in chronological order.
+
+
 ## Content
 
 Naturally, I watched some of *Duel Monsters* (the *Battle City* arc, I believe?). I’ve now watched all of *ARC-V* and *VRAINS* (in that order), and I’m currently (not) watching *ZEXAL*.
-
-I’ve played in real life as a kid, and since returning on [*DuelingBook*](https://duelingbook.com), [*Dueling Nexus*](https://duelingnexus.com), and [*Master Duel*](https://www.konami.com/yugioh/masterduel). You can watch some of my coolest Master Duel replays [here](https://youtube.com/playlist?list=PLmmew-ndEnv0pVyNQJwBxRkIZzbuqdrvn)!
