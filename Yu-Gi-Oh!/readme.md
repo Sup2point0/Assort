@@ -35,12 +35,12 @@ Downright remakes of existing archetypes, one of my favourite things to do.
 | deck | types | archetypes | notes | style | card text |
 | :--- | :---- | :--------- | :---- | :---- | :-------- |
 | *[Technyx<sup>↗</sup>](https://duelingbook.com/deck?id=11617228) | Fusion, Xyz, Link | [Next-Gen](archetypes/Next-Gen.md) [Cyber](archetypes/Next-Gen%20Cyber%20Dragon.md), [A-to-Z](archetypes/Next-Gen%20A-to-Z.md) + [Kinetic Warrior](archetypes/Kinetic%20Warrior.md) | *Next-Gen* revitalisations of existing archetypes | vicious beatdown | |
-| *[Astrix<sup>↗</sup>](https://duelingbook.com/deck?id=11963497) | Ritual, Xyz | Aquilyrynx + Delphoenix | revitalisation of [Drytron](https://yugipedia.com/wiki/Drytron) | | PSSSCCCT |
-| *[Stranded<sup>↗</sup>](https://duelingbook.com/deck?id=12190377) | Fusion, Synchro, Xyz | [Stranded](archetypes/Stranded.md) | parody of [Branded](https://yugipedia.com/wiki/Branded) | polytypal mashup | PSSSCCCT |
-| [Dystopia<sup>↗</sup>](https://duelingbook.com/deck?id=12502309) | Rank-Down Xyz | [Dystopia](archetypes/Dystopia.md) | parody of [Utopia](https://yugipedia.com/wiki/Utopia_(archetype)) | self-destruction, single-attack-kill | PSSSCCCT |
-| [Dragmatika<sup>↗</sup>](https://duelingbook.com/deck?id=12753373) | Ritual | [Dragmatika](archetypes/Dragmatika.md) | revitalisation of [Dogmatika](https://yugipedia.com/wiki/Dogmatika) | anti-Extra Deck | PSSSCCCT |
-| *[Vraptor<sup>↗</sup>](https://duelingbook.com/deck?id=12893390) | Rank-Up Xyz | [Next-Gen](archetypes/Next-Gen.md) [Raidraptor](archetypes/Next-Gen%20Raidraptor.md) | revitalisation of [Raidraptor](https://yugipedia.com/wiki/Raidraptor) | revolutionary comeback, animesque ace and swarming | PSSSCCCT |
-| [Arc-Z<sup>↗</sup>](https://duelingbook.com/deck?id=12974231) | Pendulum, Fusion, Synchro, Xyz | [Eternal King](archetypes/.md) | revitalisation of Z-ARC’s [Supreme King](https://yugipedia.com/wiki/Supreme_King) deck | more akin to the anime | PSSSCCCT |
+| *[Astrix<sup>↗</sup>](https://duelingbook.com/deck?id=11963497) | Ritual, Xyz | Aquilyrynx + Delphoenix | revitalisation of [Drytron<sup>↗</sup>](https://yugipedia.com/wiki/Drytron) | | PSSSCCCT |
+| *[Stranded<sup>↗</sup>](https://duelingbook.com/deck?id=12190377) | Fusion, Synchro, Xyz | [Stranded](archetypes/Stranded.md) | parody of [Branded<sup>↗</sup>](https://yugipedia.com/wiki/Branded) | polytypal mashup | PSSSCCCT |
+| [Dystopia<sup>↗</sup>](https://duelingbook.com/deck?id=12502309) | Rank-Down Xyz | [Dystopia](archetypes/Dystopia.md) | parody of [Utopia<sup>↗</sup>](https://yugipedia.com/wiki/Utopia_(archetype)) | self-destruction, single-attack-kill | PSSSCCCT |
+| [Dragmatika<sup>↗</sup>](https://duelingbook.com/deck?id=12753373) | Ritual | [Dragmatika](archetypes/Dragmatika.md) | revitalisation of [Dogmatika<sup>↗</sup>](https://yugipedia.com/wiki/Dogmatika) | anti-Extra Deck | PSSSCCCT |
+| *[Vraptor<sup>↗</sup>](https://duelingbook.com/deck?id=12893390) | Rank-Up Xyz | [Next-Gen](archetypes/Next-Gen.md) [Raidraptor](archetypes/Next-Gen%20Raidraptor.md) | revitalisation of [Raidraptor<sup>↗</sup>](https://yugipedia.com/wiki/Raidraptor) | revolutionary comeback, animesque ace and swarming | PSSSCCCT |
+| [Arc-Z<sup>↗</sup>](https://duelingbook.com/deck?id=12974231) | Pendulum, Fusion, Synchro, Xyz | [Eternal King](archetypes/.md) | revitalisation of Z-ARC’s [Supreme King<sup>↗</sup>](https://yugipedia.com/wiki/Supreme_King) deck | more akin to the anime | PSSSCCCT |
 
 ### Fun
 Random decks I decided to make for fun, but rarely play with.
@@ -78,11 +78,11 @@ I’ve played with a couple of decks in my time, but I’m not really one to pla
 
 | deck | archetypes | notes |
 | :--- | :--------- | :---- |
-| **Draptor** | [*Raidraptor*](https://yugipedia.com/wiki/Raidraptor), [*Phantom Knights*](https://yugipedia.com/wiki/Phantom_Knights) | |
-| **Dryconix** | [*Drytron*](https://yugipedia.com/wiki/Drytron), [*Dogmatika*](https://yugipedia.com/wiki/Dogmatika), Ritual tech | |
-| Cyburst | [*Cyber Dragon*](https://yugipedia.com/wiki/Cyber_Dragon) | Yeah, same name as the custom. Why not. |
-| Processlayer | [*Mathmech*](https://yugipedia.com/wiki/Mathmech), Cyberse tech | Was fun in Master Duel. Deprecated now ofc cuz of the Circular ban. |
-| Sentrion | [*Centur-Ion*](https://yugipedia.com/wiki/Centur-Ion), [*P.U.N.K.*](https://yugipedia.com/wiki/P.U.N.K.), Synchro tech | Wonderfully versatile. Not as fun to play after a while, but waiting and looking for more interesting things to do. Oh yeah, and no Crimson Dragon. At all. |
+| **Draptor** | [*Raidraptor*<sup>↗</sup>](https://yugipedia.com/wiki/Raidraptor), [*Phantom Knights*<sup>↗</sup>](https://yugipedia.com/wiki/Phantom_Knights) | |
+| **Dryconix** | [*Drytron*<sup>↗</sup>](https://yugipedia.com/wiki/Drytron), [*Dogmatika*<sup>↗</sup>](https://yugipedia.com/wiki/Dogmatika), Ritual tech | |
+| Cyburst | [*Cyber Dragon*<sup>↗</sup>](https://yugipedia.com/wiki/Cyber_Dragon) | Yeah, same name as the custom. Why not. |
+| Processlayer | [*Mathmech*<sup>↗</sup>](https://yugipedia.com/wiki/Mathmech), Cyberse tech | Was fun in Master Duel. Deprecated now ofc cuz of the Circular ban. |
+| Sentrion | [*Centur-Ion*<sup>↗</sup>](https://yugipedia.com/wiki/Centur-Ion), [*P.U.N.K.*<sup>↗</sup>](https://yugipedia.com/wiki/P.U.N.K.), Synchro tech | Wonderfully versatile. Not as fun to play after a while, but waiting and looking for more interesting things to do. Oh yeah, and no Crimson Dragon. At all. |
 
 
 <br>
@@ -90,4 +90,4 @@ I’ve played with a couple of decks in my time, but I’m not really one to pla
 
 ## Content
 
-Naturally, I watched some of [*Duel Monsters*](https://yugipedia.com/wiki/Yu-Gi-Oh!_(anime)) (the [*Battle City*](https://yugipedia.com/wiki/Battle_City_(disambiguation)) arc, I believe?). I’ve now watched all of [*ARC-V*](https://yugipedia.com/wiki/Yu-Gi-Oh!_ARC-V) and [*VRAINS*](https://yugipedia.com/wiki/Yu-Gi-Oh!_VRAINS) (in that order), and I’m currently (not) watching [*ZEXAL*](https://yugipedia.com/wiki/Yu-Gi-Oh!_ZEXAL).
+Naturally, I watched some of [*Duel Monsters*<sup>↗</sup>](https://yugipedia.com/wiki/Yu-Gi-Oh!_(anime)) (the [*Battle City*<sup>↗</sup>](https://yugipedia.com/wiki/Battle_City_(disambiguation)) arc, I believe?). I’ve now watched all of [*ARC-V*<sup>↗</sup>](https://yugipedia.com/wiki/Yu-Gi-Oh!_ARC-V) and [*VRAINS*<sup>↗</sup>](https://yugipedia.com/wiki/Yu-Gi-Oh!_VRAINS) (in that order), and I’m currently (not) watching [*ZEXAL*<sup>↗</sup>](https://yugipedia.com/wiki/Yu-Gi-Oh!_ZEXAL).
