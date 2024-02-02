@@ -73,7 +73,21 @@ I play with both custom cards and canon cards, though I like to keep the two ent
 
 I’ve played with a couple of decks in my time, but I’m not really one to play a whole lot of different decks – I enjoy picking those I love the most and being deeply familiar with them. Here are all of them, in chronological order.
 
+> [!Tip]
+> Favourites are **weighted**.
+
+| deck | archetypes | notes |
+| :--- | :--------- | :---- |
+| **Draptor** | [*Raidraptor*](), [*Phantom Knights*]() | |
+| **Dryconix** |
+| Cyburst |
+| Processlayer |
+| Sentrion |
+
+
+<br>
+
 
 ## Content
 
-Naturally, I watched some of *Duel Monsters* (the *Battle City* arc, I believe?). I’ve now watched all of *ARC-V* and *VRAINS* (in that order), and I’m currently (not) watching *ZEXAL*.
+Naturally, I watched some of [*Duel Monsters*](https://yugipedia.com/wiki/Yu-Gi-Oh!_(anime)) (the [*Battle City*](https://yugipedia.com/wiki/Battle_City_(disambiguation)) arc, I believe?). I’ve now watched all of [*ARC-V*](https://yugipedia.com/wiki/Yu-Gi-Oh!_ARC-V) and [*VRAINS*](https://yugipedia.com/wiki/Yu-Gi-Oh!_VRAINS) (in that order), and I’m currently (not) watching [*ZEXAL*](https://yugipedia.com/wiki/Yu-Gi-Oh!_ZEXAL).
