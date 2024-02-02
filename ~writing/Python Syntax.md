@@ -2,22 +2,31 @@
 
 If you‘ve taken a look at any of my code written in Python, you may have noticed its syntax is perhaps unconventional in many aspects – nothing that actually affects functionality, but plenty of idiosyncrasies that would immediately stick out to any seasoned Pythonista. I am well aware of this, and I apologise if this has caused any difficulty or distress (as I have been notified of – on several occasions) to anyone perusing my code.
 
-I tend to hold very specific personal preferences, especially when it comes to aesthetics. This, of course, means I pay meticulous attention to detail, and care (perhaps a little too much) about how my code looks.[^time] I very much agree that *code is read far more than it is written*.[^code]
+I tend to hold very specific personal preferences, especially when it comes to aesthetics. This, of course, means I pay meticulous attention to detail, and care (perhaps a little too much) about how my code looks.[^time] It working is just one aspect; cleaning, optimising, and refining continue for much longer. Ultimately, I endure in this because I have high standards for myself: I endeavour to write clean, clear and consistent code.[^standard] I genuinely believe my style is more effective at achieving this than ‘standard’ Python code conforming to [PEP 8](https://peps.python.org/pep-0008/).[^pep] Every instance where I deviate from convention was a justified and thought-out decision, and each has been reconsidered several times afterwards.
 
-[^code]: Quote by Guido Van Rossum. I think?
 [^time]: It is not entirely untrue that I often spend more time fussing over syntax and style than actually writing code. I find inexplicable joy in this.
-
-Ultimately, I endure in this because I have high standards for myself: I endeavour to write clean, clear and consistent code,[^standard] and I genuinely believe my style is more effective at achieving this than ‘standard’ Python code conforming to [PEP 8](...).[^pep] Every instance where I deviate from convention was a justified and thought-out decision, and each has been reconsidered several times afterwards.
-
 [^standard]: As to whether or not I achieve this...
 [^pep]: Please note this is only an opinion.
+
+I very much agree (from experience) that “code is read far more than it is written”.[^code] My first large-scale Python project, a [multi-purpose Discord bot^](https://github.com/Sup2point0/PENGUIN), contains some of the most (objectively) horrific code I have ever written, with utterly obfuscated names, ridiculous line breaking, and far too many one-liners.[^line] I still look back fondly on the code for sure, since it is just so *me* – but to anyone who might decide to go back and work on it,[^work] uh, you might wanna procure some spare replacement brain cells.[^brain-cells]
+
+[^code]: Quote by Guido Van Rossum. I think?
+[^line]: I thought they looked cool. I mean I still do, but also it’s kinda bad for readability. They’re wonderfully efficient, but can get pretty unwieldy. Use them in moderation, I suppose.
+[^work]: That’s me, buddy.
+[^brain-cells]: I hear they don’t come cheap nowadays.
+
+At the time, like any programmer who has gone through the journey of development, I thought, *yeah, I’ll perfectly understand how all this works years on*. And now? Oh yeah no, I actually still pretty much get how it works,[^get] but that isn’t to say that continuing development wouldn’t be a nightmare. Cuz it absolutely would be. So many names to re-familiarise with. Dependencies I forgot existed. Navigating the abject mess that is PENGUIN’s 2000+ line `main.py` file.
+
+[^get]: I think. Currently untested.
+
+Oh, and I can still write convention-conforming Python code, I just much prefer writing it in my style, and so that’s the kind you’ll see throughout most of my projects. Some that I intend to be a little more ‘public’ (projects that are a little less ‘casual’, I suppose) will have perhaps less ‘flavourful’ code.[^flavour] Whenever I work collaboratively though, I’m perfectly happy to adjust to whichever style or standard the team is following. Even if it kills me a little inside.
+
+[^flavour]: The only distinction I can think of for this, really, is import aliases – see [§ Names](#Names).
 
 Of course, I am only human,[^sup][^sip] so I’m not perfect, and neither is the code I write.
 
 [^sup]: Or so it would seem.
 [^sip]: Nah seriously.
-
-Oh, and I can still write convention-conforming Python code. I just much prefer writing it in my style. If I ever work collaboratively though, I’m perfectly happy to adjust to whichever style or standard the team is following. Even if it kills me a little instead.
 
 
 <br>
@@ -154,6 +163,49 @@ But then when it comes to multi-line strings, you no longer have to worry about 
 ### Names
 
 I was debating over whether to even discuss this here, but I think it's relevant enough.
+
+It’s said there are only 2 hard things in computer science: cache invalidation and naming things.[^hard] I have yet to utilise caching, but boy does the latter one hit hard.
+
+[^hard]: Quote by Phil Karlton. Pretty sure this time.
+
+I’ve made a meme before about my time distribution when programming, and it’s unfortunately scarily accurate.[^accurate] I probably care way too much about names. See, I find that the perfect name should be clear, concise, cool, maybe a little obfuscated, and ideally only a single word. Like `core`, `slot`, `pick`. But that’s a lotta requirements to fulfil, *especially* if you’re tryna do it for every single object. Naturally, that’s exactly what I try to do.
+
+[^accurate]: Not *actually* accurate, ofc, but the idea is definitely there.
+
+I honestly don’t really like `camelCase`. Or `snake_case` either. It just feels uncomfortable having object names where some have to that extra modifier because their name is longer. It’s definitely worse for `camelCase` since the change in capitalisation is kinda jarring, but the `_` in `snake_case` can also stick out.
+
+```py
+var: str
+myObject: MyClass
+dangThatsALongName = None
+
+val: int
+my_function: MyLambda
+would_you_stop_already()
+```
+
+In cases where I can, I refactor the code to use a `.` attribute accessor instead. For instance:
+
+```py
+# this...
+screen_width = 1600
+screen_height = 900
+
+# goes to:
+class screen:
+width = 1600
+height = 900
+```
+
+I really love this technique. It’s a fantastic way to segment and categorise objects, works well with global cross-file variables, and... I actually don’t see why there aren’t more people using it. Not just in Python, but in any language. Maybe there’s a non-obvious[^obvious] caveat or vulnerability that I’m aware of – in which case please let me know, I’d be happy to stop.
+
+[^obvious]: Or maybe it is obvious and I’m just delusional.
+
+The solution, of course, IS TO HAVE NO SEPARATOR AT ALL :DD
+
+No, seriously, I wasn’t joking.
+
+...
 
 
 <br>
