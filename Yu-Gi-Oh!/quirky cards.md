@@ -33,6 +33,7 @@ Harmonic Waves
 Forbidden Apocrypha  
 Night’s End Sorcerer  
 Anotherverse Gluttonia  
+Night Assailant  
 
 Protecting Spirit Loagaeth  
 Gorgon, Empress of the Evil Eyed  
