@@ -25,6 +25,7 @@ Sublimation Knight
 Super Solar Nutrient  
 Circle of the Fairies  
 Baromet of the Sacred Sheep Scrub  
+Split Mirror of the Underworld  
 
 Threshold Borg  
 Thelematech Cratis  
