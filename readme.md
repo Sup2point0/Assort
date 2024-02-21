@@ -32,10 +32,10 @@ Unsure where to start?
 <br>
 
 
-## [Frequerys](https://github.com/Sup2point0/Antarctica/blob/home/readme.md#what-does-frequerys-even-mean 'frequent queries')
+## [Frequerys<sup>↗</sup>](https://github.com/Sup2point0/Antarctica/blob/home/readme.md#what-does-frequerys-even-mean 'frequent queries')
 
 ### What’s all this for?
-I absolutely *love* creating things, and over the years I’ve created so much stuff that it’s all dispersed across multiple mediums – paper, phones, tablets, laptops, wikis – which is slightly a logistical nightmare. So, this is a repository to collect, store and archive (almost) everything I create. What exactly does that include? Well, content of any kind – documenting my ideas for games, graphic design and creative writing, lists, phenomena, worldbuilding and all. And also the fictional nation of [Antarctica](https://github.com/Sup2point0/Antarctica), but that’s so extensive that it’s in its own repo.
+I absolutely *love* creating things, and over the years I’ve created so much stuff that it’s all dispersed across multiple mediums – paper, phones, tablets, laptops, wikis – which is slightly a logistical nightmare. So, this is a repository to collect, store and archive (almost) everything I create. What exactly does that include? Well, content of any kind – documenting my ideas for games, graphic design and creative writing, lists, phenomena, worldbuilding and all. And also the fictional nation of [Antarctica<sup>↗</sup>](https://github.com/Sup2point0/Antarctica), but that’s so extensive that it’s in its own repo.
 
 ### Why use GitHub?
 GitHub is absolutely perfect for this, since I can organise everything into individual folders with infinite hierarchy, and even be able to access and share it from anywhere. Y’know, say I’ve got a piece of writing I want to show a friend, I can just send them a link like [https://github.com/Sup2point0/Assort/blob/origin/~writing/creative/Expanse.md](~writing/creative/Expanse.md), and done!
