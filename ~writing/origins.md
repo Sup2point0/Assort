@@ -4,9 +4,12 @@
 <details>
   <summary> <b> </b> </summary>
 
-&ensp; *Assort*. 2024 ~; origin(~writing): origins.md.  
+&ensp; *Assort* (origin). v2.0.0, 2024 ~ ~.  
+&ensp; ~writing/origins.md.  
 &ensp; © 2024 Sup#2.0 (<https://github.com/Sup2point0>)  
-&ensp; ACI: `20|0067iX`; CXUL: `AN.AC.?`
+&ensp; ACI: `20.04.`  
+&ensp; CXUL: `SP-LR-AS-AQ`  
+&ensp; IQTS: `6x3sF7-e2kzW0.02d`  
 
 </details>
 
@@ -530,6 +533,9 @@ I would like to extend my gratitude towards the following:
 `2023/11/27` Should I just write an autobiography at this point?  
 `2023/12/05` Why not just look at other people’s usernames while we’re at. Just for fun.  
 `2023/12/06` Yooo, Markdown referencing is awesome!  
+`2023/12/07` And so the appendices appear... I wonder how many we’ll have?  
+`2023/12/15` We’ve gotta keep going with this. Ikuze!  
+`2024/02/22` Ok, nvm, we’ll continue this at some later date...  
 
 
 <br>
