@@ -1,250 +1,36 @@
-<div class="markdown-heading"><h1 class="heading-element">Problem-Solving Super Simple and Compact Custom Card Text</h1><a id="user-content-problem-solving-super-simple-and-compact-custom-card-text" class="anchor" aria-label="Permalink: Problem-Solving Super Simple and Compact Custom Card Text" href="#problem-solving-super-simple-and-compact-custom-card-text"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>I’ve always thought card text in <em>Yu-Gi-Oh!</em> is wonderfully written (in that it flows like regular text, allowing even younger players to understand what it does) ...but at the same time is also horrendously cluttered and inefficient for playing a card game, especially one on tiny pieces of cardboard. <a href="https://yugipedia.com/wiki/Problem-Solving_Card_Text" rel="nofollow">Problem-Solving Card Text</a> is awesome, don’t get me wrong, but it has plenty of issues, inefficiencies, and inconsistencies that should really be addressed.</p>
-<p>And so, here’s <em>PSSSCCCT</em>, the successor to PSCT, which I exclusively utilise on DuelingBook to allow the opponent (and me) to far more easily interpret and keep track of what all my cards do.</p>
-<p>See <a href="#Changes">§ Changes</a> for quick reference.</p>
-<br>
-<div class="markdown-heading"><h2 class="heading-element">Overview</h2><a id="user-content-overview" class="anchor" aria-label="Permalink: Overview" href="#overview"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<div class="markdown-heading"><h3 class="heading-element">Rationale</h3><a id="user-content-rationale" class="anchor" aria-label="Permalink: Rationale" href="#rationale"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>There have been some great changes to PSCT in the past – for instance, simply stating <code>inflict piercing battle damage</code> instead of explaining how piercing battle damage works – but the thing is, they just don’t <em>do</em> enough.</p>
-<p>A pretty major one was the simplification of <code>Graveyard</code> to <code>GY</code>. This is a keyword that is very likely to appear on cards (especially with modern cards), and often more than once, so saving those characters brings widespread benefit. So, why not do the same for other keywords, those that are even more prevalent than <code>Graveyard</code>? The main culprit is gonna be <code>Special Summon</code>. Look how much space this saves:</p>
-<table>
-  <tbody><tr>
-    <th align="left"> PSCT </th>
-    <td> <code>If this card is Normal or Special Summoned: {...}</code> </td>
-  </tr>
-  <tr>
-    <th align="left"> PSSSCCCT </th>
-    <td> <code>If this card is NSd or SSd: {...}</code> </td>
-  </tr>
-</tbody></table>
-<p>And imagine that across almost every card, even several times in the same card. But y’know what would make <em>even more</em> of a difference?</p>
-<div class="markdown-heading"><h3 class="heading-element">Turnly Restrictions</h3><a id="user-content-turnly-restrictions" class="anchor" aria-label="Permalink: Turnly Restrictions" href="#turnly-restrictions"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>Once per turn clauses. Seriously. Almost every single modern Yu-Gi-Oh card will have these – potentially even multiple, like with <a href="https://yugipedia.com/wiki/Spright" rel="nofollow">Spright</a> Monsters or <a href="https://yugipedia.com/wiki/Primeval_Planet_Perlereino" rel="nofollow">Primeval Planet Perlereino</a>.</p>
-<p>Now, there are different kinds of once per turn restrictions, so only the 3 most common are simplified, for the sake of avoiding confusion. All of them become a <code>[...]</code> modifier before the start of the effect. Soft <code>once per turn</code> becomes <code>[OPT]</code>, and <code>you can only use this effect of {...} once per turn</code> (note <code>use</code> instead of <code>activate</code>) becomes <code>[HOPT]</code>, like so:</p>
-<table>
-  <tbody><tr>
-    <th align="left"> PSCT </th>
-    <td> <code>Once per turn: You can target 1 other face-up card you control; destroy it, then add 1 face-up Pendulum Monster from your Extra Deck to your hand.</code> </td>
-    <td> <code>If a card(s) in your Pendulum Zone leaves the field: Draw 1 card. You can only use this effect of "Heavymetalfoes Electrumite" once per turn.</code> </td>
-  </tr>
-  <tr>
-    <th align="left"> PSSSCCCT </th>
-    <td> <code>[OPT] You can target 1 other face-up card you control; Destroy it, then add 1 Pendulum Monster from your face-up XD to your hand.</code> </td>
-    <td> <code>[HOPT] If a card in your Pendulum Zone leaves the field: Draw 1 card.</code> </td>
-  </tr>
-</tbody></table>
-<p>Where <code>HOPT</code> represents ‘hard once per turn’. If it’s <code>each effect</code> (instead of <code>this effect</code>), then <code>[HOPT]</code> goes before every applicable effect. This also brings the added advantage of being able to easily designate each effect different turnly restrictions, facilitating more flexible card design. It also means <code>you can only use each of the following effects of {...} once per turn</code> will be no more, which always disrupts text structure.</p>
-<p>And similarly, for Summon conditions:</p>
-<table>
-<thead>
-<tr>
-<th align="left">PSCT</th>
-<th align="left">PSSSCCCT</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left"><code>If you control a Level/Rank 2 monster, you can Special Summon this card (from your hand). You can only Special Summon "Spright Blue" once per turn this way.</code></td>
-<td align="left"><code>[HOPT] If you control a Level/Rank 2 Monster, you can SS this card (from your hand).</code></td>
-</tr>
-<tr>
-<td align="left"><code>Once per turn, you can also Xyz Summon "Cyber Dragon Infinity" by using "Cyber Dragon Nova" you control as material. (Transfer its materials to this card.)</code></td>
-<td align="left"><code>[HOPT] You can also Xyz Summon this card by using 1 'Cyber Dragon Nova' as Material. (Transfer Materials.)</code></td>
-</tr>
-</tbody>
-</table>
-<div class="markdown-heading"><h3 class="heading-element">Capitalisation</h3><a id="user-content-capitalisation" class="anchor" aria-label="Permalink: Capitalisation" href="#capitalisation"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>The main thing PSCT’s got going for it is how it ensures consistency in effect wording. But it really, really annoys me how it’s <em>consistently inconsistent</em>. In particular, there are some keywords that aren’t capitalised by themselves, but <em>are</em> when modified by another word. Observe:</p>
-<table>
-<thead>
-<tr>
-<th align="left">uncapitalised</th>
-<th align="left">capitalised</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left"><code>target 1 monster you control</code></td>
-<td align="left">
-<code>target 1 Xyz Monster you control</code> <br> <code>1 Tuner Synchro Monster + 1+ non-Tuner monsters</code>
-</td>
-</tr>
-<tr>
-<td align="left"><code>a zone this card links to</code></td>
-<td align="left">
-<code>your Spell/Trap Zone</code> <br> <code>if this card in the Monster Zone is destroyed</code>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Then there’s the weird capitalisation of effects – <code>Condition: Cost; resolution</code> – where the text after a colon is capitalised, but not after the semicolon, what’s up with that?</p>
-<p>So, a lot of the changes will tackle inconsistencies in structure and capitalisation, while condensing several well-known key words or phrases – above all, the aim was to maintain readability alongside balancing efficiency.</p>
-<div class="markdown-heading"><h3 class="heading-element">Enumeration</h3><a id="user-content-enumeration" class="anchor" aria-label="Permalink: Enumeration" href="#enumeration"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>Aw yeah, <em>this</em> is my favourite part. Bullet pointing effects with line breaks between each would be great, but it’s also quite impractical due to the limited space. And bullet pointing without line breaks isn’t really all that effective. But numbering effects just like the OCG? The clarity boost, especially when playing online, is insane. It’s still a chunk of text of course, but the visual distinction between the thin outline of the text and thick fill of the circled number gives it vitally needed structure, which allows your eyes to far more quickly find where one effect ends and another begins. And the difference between numbers and bullet points is that numbers are more distinctive, and are easier to identify – when playing, you can just call ‘effect 2’ and the effect in question can easily be found.</p>
-<br>
-<div class="markdown-heading"><h2 class="heading-element">Cases</h2><a id="user-content-cases" class="anchor" aria-label="Permalink: Cases" href="#cases"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>A selection of instances where PSSSCCCT makes a significant difference, to illustrate the improvements.</p>
-<div class="markdown-heading"><h3 class="heading-element">Monsters</h3><a id="user-content-monsters" class="anchor" aria-label="Permalink: Monsters" href="#monsters"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<table>
-<thead>
-<tr>
-<th align="left">card</th>
-<th align="left">PSCT</th>
-<th align="left">PSSSCCCT</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left"><a href="https://yugippedia.com/wiki/Gigantic_Spright" rel="nofollow">Gigantic Spright</a></td>
-<td align="left">For this card's Xyz Summon, you can treat Link-2 monsters you control as Level 2 monsters for material. The original ATK of this card that has a Fusion, Synchro, Xyz, or Link Monster as material becomes doubled. During your Main Phase: You can activate this effect; detach 1 material from a monster you control, and if you do, Special Summon 1 Level 2 monster from your Deck, also neither player can Special Summon monsters for the rest of this turn, except Level/Rank/Link 2 monsters. You can only use this effect of "Gigantic Spright" once per turn.</td>
-<td align="left">You can treat Link-2 Monsters you control as Lv2 Monsters for this card's Xyz Summon. ➊ While this card has an XD Monster attached as Material, its original ATK is doubled. ➋ [HOPT]: You can detach 1 Material from a Monster you control, and if you do, SS 1 Lv2 Monster from your Deck, also neither player can SS Monsters for the rest of this turn, except Level/Rank/Link 2 Monsters.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Divine_Arsenal_AA-ZEUS_-_Sky_Thunder" rel="nofollow">Divine Arsenal AA-ZEUS - Sky Thunder</a></td>
-<td align="left">Once per turn, if an Xyz Monster battled this turn, you can also Xyz Summon "Divine Arsenal AA-ZEUS - Sky Thunder" by using 1 Xyz Monster you control as material. (Transfer its materials to this card.) (Quick Effect): You can detach 2 materials from this card; send all other cards from the field to the GY. Once per turn, if another card(s) you control is destroyed by battle or an opponent's card effect: You can attach 1 card from your hand, Deck, or Extra Deck to this card as material.</td>
-<td align="left">[HOPT] If an Xyz Monster battled this turn, you can Xyz Summon this card by using 1 Xyz Monster you control as Material. (Transfer Materials). ➊ [Quick] You can detach 2 Materials from this card; Send all other cards on the field to the GY. ➋ [OPT] If another card you control is destroyed by battle or an opponent's card effect: You can attach 1 card from your hand, Deck, XD to this card as Material.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Borreload_Savage_Dragon" rel="nofollow">Borreload Savage Dragon</a></td>
-<td align="left">If this card is Synchro Summoned: You can equip 1 Link Monster from your GY to this card, and if you do, place Borrel Counters on this card equal to that Link Monster's Link Rating. This card gains ATK equal to half the ATK of the monster equipped to it by its effect. When your opponent activates a card or effect (Quick Effect): You can remove 1 Borrel Counter from this card; negate the activation. You can only use this effect of "Borreload Savage Dragon" once per turn.</td>
-<td align="left">➊ If this card is Synchro Summoned: You can equip 1 Link Monster from your GY to this card, and if you do, place Borrel Counters on this card equal to that Monster's Link Rating. ➋ This card gains ATK equal to half the ATK of the Monster equipped to it by this effect. ➌ [HOPT Quick] When your opponent activates a card or effect: You can remove 1 Borrel Counter from this card; Negate the activation.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Drytron_Meteonis_Draconids" rel="nofollow">Drytron Meteonis Draconids</a></td>
-<td align="left">You can Ritual Summon this card with "Meteonis Drytron". Your opponent cannot target this card with monster effects. If the total Levels of monsters used for its Ritual Summon are 2 or less, this card can attack all Special Summoned monsters your opponent controls once each. During your opponent's turn (Quick Effect): You can banish monsters from your GY whose combined ATK equals exactly 2000 or 4000, then target 1 face-up card your opponent controls for every 2000 ATK of the total; send that card(s) to the GY. You can only use this effect of "Drytron Meteonis Draconids" once per turn.</td>
-<td align="left">Can be Ritual Summoned with 'Meteonis Drytron'. ➊ Cannot be targeted by your opponent's Monster effects. ➋ If the total Levels of the Monsters used for this card's Ritual Summon were 2 or less, it can attack all SSd Monsters your opponent controls, once each. ➌ [HOPT Quick] During your opponent's turn: You can banish Monsters from your GY, whose total ATK equals exactly 2000 or 4000, then target 1 face-up card your opponent controls for every 2000 ATK of the total; Send that card(s) to the GY.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Dogmatika_Alba_Zoa" rel="nofollow">Dogmatika Alba Zoa</a></td>
-<td align="left">Cannot be Ritual Summoned, except by "Dogmatikalamity" or another "Dogmatika" card effect. "Dogmatika" monsters you control are unaffected by the activated effects of your opponent's Fusion, Synchro, Xyz, and Link Monsters. During your Main Phase: You can make your opponent choose and apply 1 of these effects ('you' in these effects means that opponent). <br> ● For every 2 cards in your Extra Deck, send 1 card from your hand or Extra Deck to the GY. <br> ● Return all Fusion, Synchro, Xyz, and Link Monsters you control to the Extra Deck. <br> You can only use this effect of "Dogmatika Alba Zoa" once per turn.</td>
-<td align="left">Must be Ritual Summoned by a 'Dogmatika' card. ➊ 'Dogmatika' Monsters you control are unaffected by the activated effects of your opponent's XD Monsters. ➋ [HOPT]: You can make your opponent choose and apply 1 of the following effects. <br> ● They send 1 card from their hand or XD to the GY for every 2 cards in their XD. <br> ● They return all XD Monsters they control to the XD.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Kashtira_Arise-Heart" rel="nofollow">Kashtira Arise-Heart</a></td>
-<td align="left">3 Level 7 monsters <br> Once per turn, you can also Xyz Summon "Kashtira Arise-Heart" by using 1 "Kashtira" monster you control, if an effect of "Kashtira Shangri-Ira" was successfully activated this turn. (Transfer its materials to this card.) Any card sent to the GY is banished instead. Once per Chain, each time a card(s) is banished: Attach 1 banished card to this card as material. Once per turn (Quick Effect): You can detach 3 materials from this card, then target 1 card on the field; banish it face-down.</td>
-<td align="left">3 Lv7 Monsters <br> [HOPT] If an effect of 'Kashtira Shangri-Ira' was activated this turn, you can also Xyz Summon this card by using 1 'Kashtira' Monster you control as Material. (Transfer Materials, if any.) ➊ Any card sent to the GY is banished instead. ➋ Once per Chain, if a card is banished: Attach 1 banished card to this card as Material. ➌ [OPT Quick] You can detach 3 Materials from this card, then target 1 card on the field; Banish it face-down.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Cyberse_Clock_Dragon" rel="nofollow">Cyberse Clock Dragon</a></td>
-<td align="left">When this card is Fusion Summoned: You can send cards from the top of your Deck to the GY, equal to the total Link Rating of the materials used for this card's Fusion Summon, and if you do, until the end of the next turn, other monsters you control cannot attack, also this card gains 1000 ATK for each card sent to the GY by this effect. While you control a Link Monster(s), your opponent's monsters cannot target other monsters you control for attacks, also your opponent cannot target other monsters you control with card effects. If this Fusion Summoned card you control is sent to your GY by an opponent's card effect: You can add 1 Spell from your Deck to your hand.</td>
-<td align="left">➊ While you control a Link Monster, your opponent cannot target Monsters you control other than this card for attacks or with card effects. ➋ When this card is Fusion Summoned: You can send cards from the top of your Deck to the GY, equal to the total Link Rating of the Fusion Materials used, and if you do, until the end of next turn, this card gains 1000 ATK for each card sent to the GY by this effect, also your other Monsters cannot attack. ➌ If this Fusion Summoned card you control is sent to the GY by an opponent's card effect: You can add 1 Spell from your Deck to your hand.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Nirvana_High_Paladin" rel="nofollow">Nirvana High Paladin</a></td>
-<td align="left">If a Pendulum Monster you control attacks, for that battle, it cannot be destroyed by battle, also you take no battle damage. At the end of the Damage Step, if a Pendulum Monster you control attacked: All monsters your opponent currently controls lose ATK equal to that attacking monster's ATK, until the end of this turn. <br> ---  For this card's Synchro Summon, you can treat 1 Pendulum Summoned Pendulum Monster you control as a Tuner. If this card is Synchro Summoned using a Pendulum Summoned Pendulum Monster Tuner: You can target 1 card in your GY; add it to your hand. When this card destroys an opponent's monster by battle: You can halve your opponent's LP. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone.</td>
-<td align="left">➊ If your Pendulum Monster attacks, it cannot be destroyed by battle, also you take no damage from that battle. ➋ At the end of the Damage Step, if your Pendulum Monster attacked: All Monsters your opponent currently controls lose ATK equal to your Monster's ATK, until the end of this turn. <br> ---  You can treat 1 Pendulum Summoned Pendulum Monster you control as a Tuner for this card's Synchro Summon. ➊ If this card is Synchro Summoned using a Pendulum Summoned Pendulum Tuner Monster as Material: You can target 1 card in your GY; Add it to your hand. ➋ When this card destroys an opponent's Monster by battle: You can halve your opponent's LP. ➌ If this card in the Monster Zone is destroyed by battle or card effect: You can place it in your Pendulum Zone.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Endymion,_the_Mighty_Master_of_Magic" rel="nofollow">Endymion, the Mighty Master of Magic</a></td>
-<td align="left">You can remove 6 Spell Counters from your field; Special Summon this card from the Pendulum Zone, then count the number of cards you control that can have a Spell Counter, destroy up to that many cards on the field, and if you do, place Spell Counters on this card equal to the number of cards destroyed. You can only use this effect of "Endymion, the Mighty Master of Magic" once per turn. <br> ---  Once per turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can return 1 card you control with a Spell Counter to the hand, and if you do, negate the activation, and if you do that, destroy it. Then, you can place the same number of Spell Counters on this card that the returned card had. While this card has a Spell Counter, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects. When this card with a Spell Counter is destroyed by battle: You can add 1 Normal Spell from your Deck to your hand.</td>
-<td align="left">➊ [HOPT] You can remove 6 SCs from your field; SS this card from your Pendulum Zone, then destroy cards on the field, up to the number of cards you control that can have a SC, and if you do, place 1 SC on this card for each destroyed. <br> --- <br> ➊ While this card has a SC, it cannot be targeted or destroyed by your opponent's card effects. ➋ [OPT Quick] When a S/T card or effect is activated: You can return 1 card you control with a SC to the hand, and if you do, negate the activation, and if you do that, destroy that card, then you can place the same number of SCs on this card that the returned card had. ➌ When this card with a SC is destroyed by battle: You can add 1 Normal Spell from your Deck to your hand.</td>
-</tr>
-</tbody>
-</table>
-<div class="markdown-heading"><h3 class="heading-element">Spell/Traps</h3><a id="user-content-spelltraps" class="anchor" aria-label="Permalink: Spell/Traps" href="#spelltraps"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<table>
-<thead>
-<tr>
-<th align="left">card</th>
-<th align="left">PSCT</th>
-<th align="left">PSSSCCCT</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Primitive_Planet_Reichphobia" rel="nofollow">Primitive Planet Reichphobia</a></td>
-<td align="left">When this card is activated: You can add 1 "Scareclaw" monster or "Visas Starfrost" from your Deck to your hand. Monsters your opponent controls lose 100 ATK/DEF for each Defense Position monster on the field. If 3 or more Defense Position monsters are on the field: You can target 1 card your opponent controls; destroy it. You can only use this effect of "Primitive Planet Reichphobia" once per turn. You can only activate 1 "Primitive Planet Reichphobia" per turn.</td>
-<td align="left">➊ When this card is activated: You can add 1 'Scareclaw' Monster or 'Visas Starfrost' from your Deck to your hand. ➋ Monsters your opponent controls lose 100 ATK/DEF for each DEF Position Monster on the field. ➌ [HOPT] If 3+ Monsters on the field are in DEF Position: You can target 1 card your opponent controls; Destroy it. You can only activate 'Primitive Planet Reichphobia' once per turn.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Rank-Up-Magic_Revolution_Force" rel="nofollow">Rank-Up-Magic Revolution Force</a></td>
-<td align="left">● During your turn: Target 1 "Raidraptor" Xyz Monster you control; Special Summon from your Extra Deck, 1 "Raidraptor" monster that is 1 Rank higher than that target, by using that target as the Xyz Material. <br> ● During your opponent's turn: Target 1 Xyz Monster your opponent controls with no Xyz Materials; take control of that Xyz Monster, then Special Summon from your Extra Deck, 1 "Raidraptor" monster that is 1 Rank higher than that monster, by using it as the Xyz Material. <br> (These Special Summons are treated as Xyz Summons. Attached Xyz Materials also become Xyz Materials on the Summoned monster.)</td>
-<td align="left">➊ During your turn: Target 1 'Raidraptor' Xyz Monster you control; SS from your XD, 1 'Raidraptor' Xyz Monster that is 1 Rank higher, by using that target as Material. <br> ➋ During your opponent's turn: Target 1 Xyz Monster your opponent controls with no Material; Take control of that Xyz Monster, then SS from your XD, 1 'Raidraptor' Xyz Monster that is 1 Rank higher, by using it as Material. <br> (These are treated as Xyz Summons. Transfer Materials.)</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Branded_Retribution" rel="nofollow">Branded Retribution</a></td>
-<td align="left">When a Spell/Trap Card, or monster effect, is activated that includes an effect that Special Summons a monster(s): Return to the Extra Deck, 1 face-up Fusion Monster you control, or 2 Fusion Monsters in your GY, that mention "Fallen of Albaz" as material, and if you do, negate the activation, and if you do that, destroy that card. You can banish this card from your GY, then target 1 "Branded" Spell/Trap in your GY, except "Branded Retribution"; add it to your hand. You can only use 1 "Branded Retribution" effect per turn, and only once that turn.</td>
-<td align="left">➊ When a S/T card or Monster effect is activated that would SS a Monster: Return to the XD, either 1 face-up Fusion Monster you control, or 2 Fusion Monsters in your GY that list 'Fallen of Albaz' as Material, and if you do, negate the activation, and if you do that, destroy that card. ➋ [HOPT] You can banish this card from your GY, then target 1 'Branded' S/T in your GY, except 'Branded Retribution'; Add it to your hand. You can only use 1 effect of 'Branded Retribution' each turn.</td>
-</tr>
-</tbody>
-</table>
-<br>
-<div class="markdown-heading"><h2 class="heading-element">Changes</h2><a id="user-content-changes" class="anchor" aria-label="Permalink: Changes" href="#changes"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>A list of all the syntax changes.</p>
-<table>
-<thead>
-<tr>
-<th align="left">original</th>
-<th align="left">novel</th>
-<th align="left">notes</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left"><code>Condition: Cost; resolution. You can only {...} once per {...}.</code></td>
-<td align="left"><code>[~] Condition: Cost; Resolution.</code></td>
-<td align="left">resolution clause is also capitalyzen</td>
-</tr>
-<tr>
-<td align="left">
-<code>once per turn</code> <br> <code>You can only use this effect of ‘...’ once per turn.</code>
-</td>
-<td align="left">
-<code>[OPT]</code> <br> <code>[HOPT]</code>
-</td>
-<td align="left">placed at the start of the effect after the number</td>
-</tr>
-<tr>
-<td align="left"><code>(Quick Effect)</code></td>
-<td align="left"><code>[Quick]</code></td>
-<td align="left">placed at start of effect, can be merged with other modifiers</td>
-</tr>
-<tr>
-<td align="left"><code>Spell/Trap</code></td>
-<td align="left"><code>S/T</code></td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left"><code>Extra Deck</code></td>
-<td align="left"><code>XD</code></td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left"><code>{...} Phase</code></td>
-<td align="left"><code>~P</code></td>
-<td align="left">
-<code>BP</code> for ‘Battle Phase’, <code>MP2</code> for ‘Main Phase 2’, etc.</td>
-</tr>
-<tr>
-<td align="left"><code>Normal Summon</code></td>
-<td align="left"><code>NS</code></td>
-<td align="left">
-<code>NSs</code> and <code>NSd</code> for Normal ‘Summons’ and ‘Summoned’</td>
-</tr>
-<tr>
-<td align="left"><code>Special Summon</code></td>
-<td align="left"><code>SS</code></td>
-<td align="left">
-<code>SSs</code> and <code>SSd</code> for Special ‘Summons’ and ‘Summoned’</td>
-</tr>
-<tr>
-<td align="left"><code>Attack/Defense Position</code></td>
-<td align="left"><code>ATK/DEF Position</code></td>
-<td align="left">the abbreviations are already there, why not use them?</td>
-</tr>
-<tr>
-<td align="left">
-<code>monster</code> <br> <code>zone</code> <br> <code>material</code>
-</td>
-<td align="left">
-<code>Monster</code> <br> <code>Zone</code> <br> <code>Material</code>
-</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left"><code>{your card} that is banished</code></td>
-<td align="left"><code>in your Banished Pile</code></td>
-<td align="left">it’s kinda ridiculous that the hand, Deck, field, Grave and Extra Deck all have designated terms, but not cards that are banished</td>
-</tr>
-</tbody>
-</table>
+<div class="markdown-heading"><h1 class="heading-element">Quirky Cards</h1><a id="user-content-quirky-cards" class="anchor" aria-label="Permalink: Quirky Cards" href="#quirky-cards"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<p>Just noting down canon cards with interesting names or especially nice art.</p>
+<div class="markdown-heading"><h3 class="heading-element">Names</h3><a id="user-content-names" class="anchor" aria-label="Permalink: Names" href="#names"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<p>Double Byte Dragon<br>
+Steel Star Regulator<br>
+Blue Angel<br>
+Really Eternal Rest<br>
+Texchanger<br>
+Flip Frozen<br>
+Link Apple<br>
+Dimensional Allotrope Varis<br>
+Leafplace Plaice<br>
+The League of Uniform Nomenclature</p>
+<div class="markdown-heading"><h3 class="heading-element">Art</h3><a id="user-content-art" class="anchor" aria-label="Permalink: Art" href="#art"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<p>Chronicle Sorceress<br>
+Rescue Interlacer<br>
+Supression Collider<br>
+Iron Dragon Tiamaton<br>
+The Calibrator<br>
+Sublimation Knight<br>
+Super Solar Nutrient<br>
+Circle of the Fairies<br>
+Baromet of the Sacred Sheep Scrub<br>
+Split Mirror of the Underworld</p>
+<p>Threshold Borg<br>
+Thelematech Cratis<br>
+Degenerate Circuit<br>
+Harmonic Waves<br>
+Forbidden Apocrypha<br>
+Night’s End Sorcerer<br>
+Anotherverse Gluttonia<br>
+Night Assailant</p>
+<p>Protecting Spirit Loagaeth<br>
+Gorgon, Empress of the Evil Eyed<br>
+Adularia of the June Moon<br>
+Cupid Serve</p>
