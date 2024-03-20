@@ -1,495 +1,431 @@
-<blockquote>
-<p>[!Note]
-This article is slightly out of date. Maybe I’ll update it at some point.</p>
-</blockquote>
-<div class="markdown-heading"><h1 class="heading-element">Dryconix</h1><a id="user-content-dryconix" class="anchor" aria-label="Permalink: Dryconix" href="#dryconix"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single copies of staples, and <del>nearing</del> 60 cards, it’s still surprisingly consistent, insanely versatile, and can definitely hold its own.</p>
+<div class="markdown-heading"><h1 class="heading-element">Programming Style Cipher Text</h1><a id="user-content-programming-style-cipher-text" class="anchor" aria-label="Permalink: Programming Style Cipher Text" href="#programming-style-cipher-text"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<p>Ah, don’t we all love <a href="https://yugipedia.com/wiki/Problem-Solving_Card_Text" rel="nofollow">PSCT<sup>↗</sup></a> – <del>Problem-Solving Card Text</del> <em>Programming Style Cipher Text</em>, ofc.</p>
 <br>
-<div class="markdown-heading"><h2 class="heading-element">Cards</h2><a id="user-content-cards" class="anchor" aria-label="Permalink: Cards" href="#cards"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<div class="markdown-heading"><h2 class="heading-element">Overview</h2><a id="user-content-overview" class="anchor" aria-label="Permalink: Overview" href="#overview"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<br>
+<div class="markdown-heading"><h2 class="heading-element">Cases</h2><a id="user-content-cases" class="anchor" aria-label="Permalink: Cases" href="#cases"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<p>A selection of diverse instances to illustrate how <em>PSCT</em> works.</p>
+<div class="markdown-heading"><h3 class="heading-element">Monsters</h3><a id="user-content-monsters" class="anchor" aria-label="Permalink: Monsters" href="#monsters"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <table>
   <tbody><tr>
-    <td> archetypes </td>
-    <td> <a href="https://yugipedia.com/wiki/Drytron" rel="nofollow">Drytron</a>, <a href="https://yugipedia.com/wiki/Dogmatika" rel="nofollow">Dogmatika</a> <br> <a href="">Herald</a> </td>
+    <th rowspan="2"> card </th>
+    <th> PSCT </th>
   </tr>
   <tr>
-    <td> cards </td>
-    <td> 60 </td>
+    <th> <em>PSCT</em> </th>
   </tr>
   <tr>
-    <td> list </td>
-    <td> <a href="https://duelingbook.com/deck?id=12203999" rel="nofollow">DuelingBook</a>, <a href="https://duelingnexus.com/editor/34f29fc593559c6edcfe979561d59a06" rel="nofollow">DuelingNexus</a> </td>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Gigantic_Spright" rel="nofollow">Gigantic Spright<sup>↗</sup></a> </td>
+    <td> 2 Level 2 monsters <br> For this card's Xyz Summon, you can treat Link-2 monsters you control as Level 2 monsters for material. The original ATK of this card that has a Fusion, Synchro, Xyz, or Link Monster as material becomes doubled. During your Main Phase: You can activate this effect; detach 1 material from a monster you control, and if you do, Special Summon 1 Level 2 monster from your Deck, also neither player can Special Summon monsters for the rest of this turn, except Level/Rank/Link 2 monsters. You can only use this effect of "Gigantic Spright" once per turn. </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="highlight highlight-source-coffee"><pre>[S] <span class="pl-c1">2</span> <span class="pl-k">*</span> Monster[<span class="pl-v">level</span><span class="pl-k">=</span><span class="pl-c1">2</span>]
+  [C] <span class="pl-en">opt</span> <span class="pl-v">cond</span><span class="pl-k">:</span> <span class="pl-smi">self</span>.<span class="pl-en">Summon</span>(Xyz) <span class="pl-k">with</span> Monsters[Link, <span class="pl-v">link</span><span class="pl-k">=</span><span class="pl-c1">2</span>] <span class="pl-k">as</span> Monster[<span class="pl-v">level</span><span class="pl-k">=</span><span class="pl-c1">2</span>]
+[<span class="pl-c1">1</span>] <span class="pl-en">cont</span> eff <span class="pl-k">if</span> <span class="pl-smi">self</span>.<span class="pl-en">materials</span> <span class="pl-en">has</span> Monster[<span class="pl-v">class</span><span class="pl-k">=</span>EXTRA]<span class="pl-k">:</span> <span class="pl-en">Alt</span>(<span class="pl-smi">self</span>.<span class="pl-c1">ATK</span>.<span class="pl-smi">orig</span>, <span class="pl-k">*</span><span class="pl-c1">2</span>)
+[<span class="pl-c1">2</span>] <span class="pl-en">opt</span> <span class="pl-en">ignit</span> <span class="pl-en">eff</span> [HOPT]<span class="pl-k">:</span> <span class="pl-en">Detach</span>(Monster[Xyz, <span class="pl-v">control</span><span class="pl-k">=</span>YOU], <span class="pl-c1">1</span>) to
+  <span class="pl-en">Summon</span>(Special, DECK, Monster[<span class="pl-v">level</span><span class="pl-k">=</span><span class="pl-c1">2</span>]) <span class="pl-k">+</span> <span class="pl-en">Apply</span>(<span class="pl-v">turn</span><span class="pl-k">=</span>THIS) {
+    Player[].<span class="pl-smi">Summon</span><span class="pl-k">!</span>(Special, Monster[level<span class="pl-k">!=</span><span class="pl-c1">2</span>]) } </pre></div>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Exosisters_Magnifica" rel="nofollow">Exosisters Magnifica<sup>↗</sup></a> </td>
+    <td> 2 Rank 4 "Exosister" Xyz Monsters <br> Must be Xyz Summoned with the above materials. This card can make a second attack during each Battle Phase. Once per turn (Quick Effect): You can detach 1 material from this card; banish 1 card your opponent controls. When your opponent activates a card or effect (Quick Effect): You can return 1 Xyz Monster you own attached to this card to your Extra Deck, then you can Special Summon that monster from your Extra Deck, by using this card you control as material. (This is treated as an Xyz Summon. Transfer this card's materials to the Summoned monster.) </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="highlight highlight-source-coffee"><pre>[S] <span class="pl-en">req</span> <span class="pl-c1">2</span> <span class="pl-k">*</span> Monster[<span class="pl-s"><span class="pl-pds">'</span>Exosister<span class="pl-pds">'</span></span>, Xyz, <span class="pl-v">rank</span><span class="pl-k">=</span><span class="pl-c1">4</span>]
+[<span class="pl-c1">1</span>] <span class="pl-en">cont</span> <span class="pl-v">eff</span><span class="pl-k">:</span> Attack<span class="pl-k">?</span>(<span class="pl-v">count</span><span class="pl-k">=</span><span class="pl-k">+</span><span class="pl-c1">1</span>, <span class="pl-v">each</span><span class="pl-k">=</span><span class="pl-smi">Phase</span>.<span class="pl-smi">Battle</span>)
+[<span class="pl-c1">2</span>] <span class="pl-en">opt</span> <span class="pl-en">quick</span> <span class="pl-en">eff</span> [OPT]<span class="pl-k">:</span> <span class="pl-smi">self</span>.<span class="pl-en">Detach</span>(<span class="pl-c1">1</span>); <span class="pl-en">Banish</span>(Card[<span class="pl-v">control</span><span class="pl-k">=</span>OPP])
+[<span class="pl-c1">3</span>] <span class="pl-en">opt</span> <span class="pl-en">quick</span> <span class="pl-en">eff</span> <span class="pl-c1">on</span> <span class="pl-c1">OPP</span>.<span class="pl-en">Activate</span>(Card<span class="pl-k">/</span>Effect[])<span class="pl-k">:</span> 
+  <span class="pl-en">Return</span>(<span class="pl-smi">self</span>.<span class="pl-smi">materials</span>, EXTRA, Monster[Xyz, <span class="pl-v">own</span><span class="pl-k">=</span>YOU] <span class="pl-k">-&gt;</span> t),
+  <span class="pl-smi">t</span>.<span class="pl-smi">Summon</span><span class="pl-k">?</span>(Xyz, <span class="pl-v">transfer</span><span class="pl-k">=</span>TRUE) <span class="pl-k">with</span> self </pre></div>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Drytron_Meteonis_Draconids" rel="nofollow">Drytron Meteonis Draconids<sup>↗</sup></a> </td>
+    <td> You can Ritual Summon this card with "Meteonis Drytron". Your opponent cannot target this card with monster effects. If the total Levels of monsters used for its Ritual Summon are 2 or less, this card can attack all Special Summoned monsters your opponent controls once each. During your opponent's turn (Quick Effect): You can banish monsters from your GY whose combined ATK equals exactly 2000 or 4000, then target 1 face-up card your opponent controls for every 2000 ATK of the total; send that card(s) to the GY. You can only use this effect of "Drytron Meteonis Draconids" once per turn. </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="highlight highlight-source-coffee"><pre>[S] <span class="pl-s"><span class="pl-pds">'</span>Meteonis Drytron<span class="pl-pds">'</span></span>
+[<span class="pl-c1">1</span>] <span class="pl-en">cont</span> <span class="pl-v">eff</span><span class="pl-k">:</span> <span class="pl-c1">OPP</span>.<span class="pl-smi">Target</span><span class="pl-k">!</span>(self) <span class="pl-k">with</span> Effects[Monster]
+[<span class="pl-c1">2</span>] <span class="pl-en">opt</span> <span class="pl-en">cont</span> eff <span class="pl-k">if</span> <span class="pl-en">Total</span>(<span class="pl-smi">self</span>.<span class="pl-smi">Summon</span>[Ritual].<span class="pl-smi">Monsters</span>[].<span class="pl-smi">levels</span>) <span class="pl-k">=</span><span class="pl-k">&lt;</span> <span class="pl-c1">2</span><span class="pl-k">:</span>
+  <span class="pl-smi">self</span>.<span class="pl-smi">Attack</span><span class="pl-k">?</span>(<span class="pl-en">all</span> Monsters[<span class="pl-v">SS</span><span class="pl-k">=</span>TRUE, <span class="pl-v">control</span><span class="pl-k">=</span>OPP])
+[<span class="pl-c1">3</span>] <span class="pl-en">opt</span> <span class="pl-en">quick</span> <span class="pl-en">eff</span> [HOPT, <span class="pl-v">turn</span><span class="pl-k">=</span>OPP]<span class="pl-k">:</span>
+  <span class="pl-en">Banish</span>(<span class="pl-c1">YOU</span>.<span class="pl-c1">GY</span>, Monsters[ATK <span class="pl-k">&gt;</span> <span class="pl-c1">0</span>]) <span class="pl-k">-&gt;</span> fuel, <span class="pl-en">where</span> <span class="pl-en">Total</span>(fuel, ATK) <span class="pl-k">-&gt;</span> <span class="pl-v">c</span> <span class="pl-k">=</span> <span class="pl-c1">2000</span><span class="pl-k">/</span><span class="pl-c1">4000</span>,
+  <span class="pl-en">Target</span>(<span class="pl-c1">2000</span> \ t <span class="pl-k">*</span> Card[<span class="pl-v">control</span><span class="pl-k">=</span>OPP, <span class="pl-v">face</span><span class="pl-k">=</span>UP]) <span class="pl-k">-&gt;</span> t; <span class="pl-en">Send</span>(GY, t) </pre></div>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Dogmatika_Alba_Zoa" rel="nofollow">Dogmatika Alba Zoa<sup>↗</sup></a> </td>
+    <td> Cannot be Ritual Summoned, except by "Dogmatikalamity" or another "Dogmatika" card effect. "Dogmatika" monsters you control are unaffected by the activated effects of your opponent's Fusion, Synchro, Xyz, and Link Monsters. During your Main Phase: You can make your opponent choose and apply 1 of these effects ('you' in these effects means that opponent). <br> ● For every 2 cards in your Extra Deck, send 1 card from your hand or Extra Deck to the GY. <br> ● Return all Fusion, Synchro, Xyz, and Link Monsters you control to the Extra Deck. <br> You can only use this effect of "Dogmatika Alba Zoa" once per turn. </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="highlight highlight-source-coffee"><pre>[S] <span class="pl-en">req</span> Card[<span class="pl-s"><span class="pl-pds">"</span>Dogmatika<span class="pl-pds">"</span></span>]
+[<span class="pl-c1">1</span>] <span class="pl-en">cont</span> <span class="pl-v">eff</span><span class="pl-k">:</span> <span class="pl-en">Unaffected</span>(Monsters[<span class="pl-s"><span class="pl-pds">'</span>Dogmatika<span class="pl-pds">'</span></span>, <span class="pl-v">control</span><span class="pl-k">=</span>YOU]) <span class="pl-k">by</span> {
+  Effects[OPP, activated, Monsters[<span class="pl-v">class</span><span class="pl-k">=</span>EXTRA]] }
+[<span class="pl-c1">2</span>] <span class="pl-en">opt</span> <span class="pl-en">ignit</span> <span class="pl-en">eff</span> [HOPT]<span class="pl-k">:</span> <span class="pl-c1">OPP</span>.<span class="pl-en">Apply</span>(Effect[]) <span class="pl-k">from</span> {
+  [<span class="pl-c1">2.1</span>] <span class="pl-en">Total</span>(Cards[] <span class="pl-k">in</span> <span class="pl-c1">OPP</span>.<span class="pl-c1">EXTRA</span>) \ <span class="pl-ii">2</span> <span class="pl-k">-&gt;</span> c, <span class="pl-c1">OPP</span>.<span class="pl-en">Send</span>(HAND<span class="pl-k">/</span>EXTRA, GY, c <span class="pl-k">*</span> Card[])
+  [<span class="pl-c1">2.2</span>] <span class="pl-c1">OPP</span>.<span class="pl-en">Return</span>(EXTRA, Monsters[<span class="pl-v">class</span><span class="pl-k">=</span>EXTRA], <span class="pl-v">control</span><span class="pl-k">=</span>OPP])
+} </pre></div>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Kashtira_Arise-Heart" rel="nofollow">Kashtira Arise-Heart<sup>↗</sup></a> </td>
+    <td> 3 Level 7 monsters <br> Once per turn, you can also Xyz Summon "Kashtira Arise-Heart" by using 1 "Kashtira" monster you control, if an effect of "Kashtira Shangri-Ira" was successfully activated this turn. (Transfer its materials to this card.) Any card sent to the GY is banished instead. Once per Chain, each time a card(s) is banished: Attach 1 banished card to this card as material. Once per turn (Quick Effect): You can detach 3 materials from this card, then target 1 card on the field; banish it face-down. </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="highlight highlight-source-coffee"><pre>[S] <span class="pl-c1">3</span> <span class="pl-k">*</span> Monster[<span class="pl-v">level</span><span class="pl-k">=</span><span class="pl-c1">7</span>]
+  <span class="pl-en">opt</span> <span class="pl-en">cond</span> [HOPT]<span class="pl-k">:</span> <span class="pl-k">if</span> <span class="pl-s"><span class="pl-pds">'</span>Kashtira Shangri-Ira<span class="pl-pds">'</span></span>.<span class="pl-en">Activated</span>(Effect[], <span class="pl-v">success</span><span class="pl-k">=</span>TRUE, <span class="pl-v">turn</span><span class="pl-k">=</span>THIS)<span class="pl-k">:</span>
+  <span class="pl-smi">self</span>.<span class="pl-en">Summon</span>(Xyz, <span class="pl-v">transfer</span><span class="pl-k">=</span>TRUE) <span class="pl-k">with</span> <span class="pl-en">Monster</span>(<span class="pl-s"><span class="pl-pds">'</span>Kashtira<span class="pl-pds">'</span></span>, <span class="pl-v">control</span><span class="pl-k">=</span>YOU)
+[<span class="pl-c1">1</span>] <span class="pl-en">req</span> <span class="pl-en">cont</span> <span class="pl-v">eff</span><span class="pl-k">:</span> <span class="pl-k">if</span> <span class="pl-en">would</span> <span class="pl-en">Send</span>(GY, Card[] <span class="pl-k">-&gt;</span> card), <span class="pl-en">Banish</span>(card)
+[<span class="pl-c1">2</span>] <span class="pl-en">req</span> <span class="pl-en">trig</span> <span class="pl-en">eff</span> [OPC] <span class="pl-c1">on</span> <span class="pl-en">Banish</span>(Card[])<span class="pl-k">:</span> <span class="pl-en">Target</span>(Card[VOID]) <span class="pl-k">-&gt;</span> t; <span class="pl-smi">self</span>.<span class="pl-en">Attach</span>(t)
+[<span class="pl-c1">3</span>] <span class="pl-en">opt</span> <span class="pl-en">quick</span> <span class="pl-en">eff</span> [OPT]<span class="pl-k">:</span> <span class="pl-smi">self</span>.<span class="pl-en">Detach</span>(<span class="pl-c1">3</span>), <span class="pl-en">Target</span>(Card[FIELD]) <span class="pl-k">-&gt;</span> t; <span class="pl-en">Banish</span>(t, <span class="pl-v">face</span><span class="pl-k">=</span>DOWN) </pre></div>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="3"> <a href="https://yugipedia.com/wiki/Nirvana_High_Paladin" rel="nofollow">Nirvana High Paladin<sup>↗</sup></a> </td>
+    <td> If a Pendulum Monster you control attacks, for that battle, it cannot be destroyed by battle, also you take no battle damage. At the end of the Damage Step, if a Pendulum Monster you control attacked: All monsters your opponent currently controls lose ATK equal to that attacking monster's ATK, until the end of this turn. </td>
+  </tr>
+  <tr>
+    <td> 1 Tuner + 1+ non-Tuner Synchro Monsters <br> For this card's Synchro Summon, you can treat 1 Pendulum Summoned Pendulum Monster you control as a Tuner. If this card is Synchro Summoned using a Pendulum Summoned Pendulum Monster Tuner: You can target 1 card in your GY; add it to your hand. When this card destroys an opponent's monster by battle: You can halve your opponent's LP. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone. </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="highlight highlight-source-coffee"><pre>[P1] <span class="pl-en">req</span> <span class="pl-en">cont</span> <span class="pl-v">eff</span><span class="pl-k">:</span> <span class="pl-k">if</span> (Monster[Pend, <span class="pl-v">control</span><span class="pl-k">=</span>YOU] <span class="pl-k">-&gt;</span> t).<span class="pl-en">Attack</span>() <span class="pl-k">-&gt;</span> b,
+  <span class="pl-smi">t</span>.<span class="pl-smi">Destroy</span><span class="pl-k">!</span>(Battle), <span class="pl-en">Alt</span>(<span class="pl-smi">b</span>.<span class="pl-smi">damage</span>, <span class="pl-c1">0</span>)
+[P2] <span class="pl-en">req</span> <span class="pl-en">trig</span> <span class="pl-en">eff</span> [Step[Damage].<span class="pl-smi">end</span>]<span class="pl-k">:</span> <span class="pl-k">if</span> (Monster[Pend, <span class="pl-v">control</span><span class="pl-k">=</span>YOU] <span class="pl-k">-&gt;</span> t).<span class="pl-en">Attack</span>(),
+  Monsters[<span class="pl-v">control</span><span class="pl-k">=</span>OPP].<span class="pl-en">Alt</span>(ATK, <span class="pl-k">-</span><span class="pl-smi">t</span>.<span class="pl-c1">ATK</span>) <span class="pl-k">until</span> <span class="pl-c1">TURN</span>.<span class="pl-smi">end</span>  </pre></div>
+      <div class="highlight highlight-source-coffee"><pre>[S] Monster[Tuner], <span class="pl-c1">1</span><span class="pl-k">~</span> <span class="pl-k">*</span> Monster[Synchro, <span class="pl-v">Tuner</span><span class="pl-k">=</span>FALSE]
+[C] <span class="pl-en">opt</span> <span class="pl-en">cond</span> <span class="pl-smi">self</span>.<span class="pl-en">Summon</span>(Synchro) <span class="pl-k">with</span> {
+  Monster[Pend, <span class="pl-v">summon</span><span class="pl-k">=</span>Pend, <span class="pl-v">control</span><span class="pl-k">=</span>YOU] <span class="pl-k">as</span> Monster[Tuner] }
+[<span class="pl-c1">1</span>] <span class="pl-en">opt</span> <span class="pl-en">trig</span> <span class="pl-en">eff</span> <span class="pl-c1">on</span> <span class="pl-smi">self</span>.<span class="pl-en">Summon</span>(Synchro) <span class="pl-k">with</span> Monster[Tuner, <span class="pl-v">summon</span><span class="pl-k">=</span>Pend]<span class="pl-k">:</span>
+  <span class="pl-en">Target</span>(Card[<span class="pl-c1">YOU</span>.<span class="pl-c1">GY</span>]) <span class="pl-k">-&gt;</span> t; <span class="pl-smi">t</span>.<span class="pl-en">Add</span>(HAND)
+[<span class="pl-c1">2</span>] <span class="pl-en">opt</span> <span class="pl-en">trig</span> <span class="pl-en">eff</span> <span class="pl-c1">on</span> <span class="pl-smi">self</span>.<span class="pl-en">Destroy</span>(Monster[<span class="pl-v">control</span><span class="pl-k">=</span>OPP], Battle)<span class="pl-k">:</span> <span class="pl-en">Alt</span>(<span class="pl-c1">OPP</span>.<span class="pl-c1">LP</span>, <span class="pl-k">-</span><span class="pl-c1">OPP</span>.<span class="pl-c1">LP</span><span class="pl-k">\</span><span class="pl-c1">2</span>)
+[<span class="pl-c1">3</span>] <span class="pl-en">opt</span> <span class="pl-en">trig</span> <span class="pl-en">eff</span> <span class="pl-c1">on</span> <span class="pl-smi">self</span>.<span class="pl-en">Destroy</span>(Battle<span class="pl-k">/</span>Effect)<span class="pl-k">:</span> <span class="pl-smi">self</span>.<span class="pl-en">Place</span>(<span class="pl-c1">YOU</span>.<span class="pl-smi">Zone</span>[Pend]) </pre></div>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="3"> <a href="https://yugipedia.com/wiki/Endymion,_the_Mighty_Master_of_Magic" rel="nofollow">Endymion, the Mighty Master of Magic<sup>↗</sup></a> </td>
+    <td> You can remove 6 Spell Counters from your field; Special Summon this card from the Pendulum Zone, then count the number of cards you control that can have a Spell Counter, destroy up to that many cards on the field, and if you do, place Spell Counters on this card equal to the number of cards destroyed. You can only use this effect of "Endymion, the Mighty Master of Magic" once per turn. </td>
+  </tr>
+  <tr>
+    <td> Once per turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can return 1 card you control with a Spell Counter to the hand, and if you do, negate the activation, and if you do that, destroy it. Then, you can place the same number of Spell Counters on this card that the returned card had. While this card has a Spell Counter, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects. When this card with a Spell Counter is destroyed by battle: You can add 1 Normal Spell from your Deck to your hand. </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="highlight highlight-source-coffee"><pre>[<span class="pl-c1">1</span>] <span class="pl-en">opt</span> ignit<span class="pl-k">?</span> <span class="pl-en">eff</span> [HOPT]<span class="pl-k">:</span> <span class="pl-en">Remove</span>(<span class="pl-c1">YOU</span>.<span class="pl-c1">FIELD</span>, <span class="pl-c1">6</span> <span class="pl-k">*</span> Counter[Spell]);
+  <span class="pl-smi">self</span>.<span class="pl-en">Summon</span>(Special), Cards[FIELD, counters[Spell] <span class="pl-k">&gt;</span> <span class="pl-c1">0</span>] <span class="pl-k">-&gt;</span> n,
+  {<span class="pl-en">Destroy</span>(FIELD, <span class="pl-c1">0</span><span class="pl-k">~</span>n <span class="pl-k">*</span> Card[]) <span class="pl-k">-&gt;</span> d} <span class="pl-en">to</span> <span class="pl-en">Change</span>(<span class="pl-smi">self</span>.<span class="pl-smi">Counters</span>[Spell], <span class="pl-k">+</span>d)  </pre></div>
+      <div class="highlight highlight-source-coffee"><pre>[<span class="pl-c1">1</span>] <span class="pl-en">cont</span> <span class="pl-en">eff</span> <span class="pl-k">while</span> <span class="pl-smi">self</span>.<span class="pl-smi">counters</span>[Spell] <span class="pl-k">&gt;</span> <span class="pl-c1">0</span><span class="pl-k">:</span> OPP.(Target<span class="pl-k">/</span>Destroy)<span class="pl-k">!</span>(self) <span class="pl-k">with</span> Effects[]
+[<span class="pl-c1">2</span>] <span class="pl-en">opt</span> <span class="pl-en">quick</span> <span class="pl-en">eff</span> [OPT] <span class="pl-c1">on</span> <span class="pl-en">Activate</span>(Card<span class="pl-k">/</span>Effect[Spell<span class="pl-k">/</span>Trap] <span class="pl-k">-&gt;</span> <span class="pl-v">e</span><span class="pl-k">:</span>
+  <span class="pl-en">Return</span>(HAND, Card[<span class="pl-v">control</span><span class="pl-k">=</span>YOU, {counters[Spell] <span class="pl-k">-&gt;</span> c} <span class="pl-k">&gt;</span> <span class="pl-c1">0</span>])
+  <span class="pl-en">to</span> <span class="pl-en">Negate</span>(<span class="pl-smi">e</span>.<span class="pl-smi">activation</span>) <span class="pl-en">to</span> <span class="pl-en">Destroy</span>(<span class="pl-smi">e</span>.<span class="pl-smi">card</span>), Change<span class="pl-k">?</span>(<span class="pl-smi">self</span>.<span class="pl-smi">counters</span>[Spell], <span class="pl-k">+</span>c)
+[<span class="pl-c1">3</span>] <span class="pl-en">opt</span> <span class="pl-en">trig</span> <span class="pl-en">eff</span> <span class="pl-c1">on</span> <span class="pl-en">Destroy</span>(self) <span class="pl-k">with</span> <span class="pl-en">Battle</span>() <span class="pl-k">while</span> <span class="pl-smi">self</span>.<span class="pl-smi">counters</span>[Spell] <span class="pl-k">&gt;</span> <span class="pl-c1">0</span><span class="pl-k">:</span>
+  <span class="pl-en">Add</span>(DECK, HAND, Spell[Normal]) </pre></div>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Inspector_Boarder" rel="nofollow">Inspector Boarder<sup>↗</sup></a> </td>
+    <td> Cannot be Normal or Special Summoned if you control a monster. Neither player can activate monster effects unless the number of monster effects that player has previously activated that turn is less than the number of monster card types currently on the field (Ritual, Fusion, Synchro, Xyz, Pendulum, and Link). (If an effect's activation was negated, it still counts toward the total for that turn. Only count effects that were activated while this monster was face-up on the field.) </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="highlight highlight-source-coffee"><pre>[C] <span class="pl-v">cond</span><span class="pl-k">:</span> <span class="pl-k">if</span> <span class="pl-c1">YOU</span>.<span class="pl-en">Control</span>(Monster[]) <span class="pl-k">then</span> <span class="pl-smi">self</span>.<span class="pl-smi">Summon</span><span class="pl-k">!</span>(Normal <span class="pl-k">/</span> Special)
+[D] <span class="pl-k">var</span> Players[].<span class="pl-smi">count</span> <span class="pl-k">=</span> <span class="pl-c1">0</span>
+[<span class="pl-c1">1</span>] <span class="pl-en">req</span> act<span class="pl-k">!</span> <span class="pl-en">eff</span> <span class="pl-c1">on</span> (Player[] <span class="pl-k">-&gt;</span> p).<span class="pl-en">Activate</span>(Effect[Monster])<span class="pl-k">:</span> <span class="pl-en">Alt</span>(<span class="pl-smi">p</span>.<span class="pl-smi">count</span>, <span class="pl-k">+</span><span class="pl-c1">1</span>)
+[<span class="pl-c1">2</span>] <span class="pl-en">req</span> <span class="pl-en">cont</span> <span class="pl-v">eff</span><span class="pl-k">:</span> <span class="pl-en">Count</span>(Monsters[FIELD].<span class="pl-smi">classes</span>[R<span class="pl-k">/</span>F<span class="pl-k">/</span>S<span class="pl-k">/</span>X<span class="pl-k">/</span>P<span class="pl-k">/</span>L], UNIQUE) <span class="pl-k">-&gt;</span> c,
+  <span class="pl-k">if</span> (Player[count<span class="pl-k">&gt;=</span>c] <span class="pl-k">-&gt;</span> p) <span class="pl-k">then</span> <span class="pl-smi">p</span>.<span class="pl-smi">Activate</span><span class="pl-k">!</span>(Effect[Monster])
+[<span class="pl-c1">3</span>] <span class="pl-en">req</span> act<span class="pl-k">!</span> <span class="pl-en">eff</span> <span class="pl-c1">on</span> Turn[].<span class="pl-smi">end</span><span class="pl-k">:</span> Players[].<span class="pl-smi">count</span> <span class="pl-k">=</span> <span class="pl-c1">0</span> </pre></div>
+    </td>
   </tr>
 </tbody></table>
-<div class="markdown-heading"><h3 class="heading-element">Monsters</h3><a id="user-content-monsters" class="anchor" aria-label="Permalink: Monsters" href="#monsters"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<details open="">
-  <summary> <b> Main Deck </b> </summary> <br>
+<div class="markdown-heading"><h3 class="heading-element">Spell/Traps</h3><a id="user-content-spelltraps" class="anchor" aria-label="Permalink: Spell/Traps" href="#spelltraps"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <table>
-<thead>
-<tr>
-<th align="left">card</th>
-<th align="left">copies</th>
-<th align="left">notes</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Drytron_Alpha_Thuban" rel="nofollow">Drytron Alpha Thuban</a></td>
-<td align="left">x3</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Drytron_Zeta_Aldibah" rel="nofollow">Drytron Zeta Aldibah</a></td>
-<td align="left">x2</td>
-<td align="left">Dropped to x2 cuz it’s <em>ridiculously</em> tight on space. I really wish it could recover Ritual Spells from the Grave, since it becomes rather useless late game.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Drytron_Delta_Altais" rel="nofollow">Drytron Delta Altais</a></td>
-<td align="left">x2</td>
-<td align="left">My favourite Drytron, the draw is always insane.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Drytron_Gamma_Eltanin" rel="nofollow">Drytron Gamma Eltanin</a></td>
-<td align="left">x2</td>
-<td align="left">Pivotal for comebacks, but I don’t need the extension normally.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Drytron_Beta_Rastaban" rel="nofollow">Drytron Beta Rastaban</a></td>
-<td align="left">x1</td>
-<td align="left">Saviour against Runick or Dimension Shifter, seriously clutch.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Ultimate_Knight_Alpha_Ursatron" rel="nofollow">Ultimate Knight Alpha Ursatron</a></td>
-<td align="left">x2</td>
-<td align="left">Not <em>perfect</em> support by any means (since it’s unsearchable and can’t be used as Material for Mu Beta Fafnir or Herald of Mirage Lights) but being able to search Fafnir for negate protection is wonderful.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Drytron_Meteonis_Draconids" rel="nofollow">Drytron Meteonis Draconids</a></td>
-<td align="left">x1</td>
-<td align="left">Very strong against certain archetypes, and epic for OTKs.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Drytron_Meteonis_Quadrantids" rel="nofollow">Drytron Meteonis Quadrantids</a></td>
-<td align="left">x1</td>
-<td align="left">Ruins backrow.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/" rel="nofollow">Amorphactor Pain, the Imagination Dracoverlord</a></td>
-<td align="left">x1</td>
-<td align="left">My favourite Ritual Monster after White Zoa. Being able to actually play it is so wonderful.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/" rel="nofollow">Odd-Eyes Gravity Dragon</a></td>
-<td align="left">x1</td>
-<td align="left">Great to leave on an endboard, and clearing threatening backrow before my opponent realyzes what’s going on.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/" rel="nofollow">Blue-Eyes Chaos MAX Dragon</a></td>
-<td align="left">x1</td>
-<td align="left">Often underestimated, but super versatile against decks that just can’t handle both targeting and destruction immunity <em>and</em> high ATK – Labrynth, Runick, even Tearlaments and Kashtira.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/" rel="nofollow">Shinobaron Peacock</a></td>
-<td align="left">x1</td>
-<td align="left">Insane removal, especially against Avramax, Mirrorjade or HEROs.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/White_Relic_of_Dogmatika" rel="nofollow">White Relic of Dogmatika</a></td>
-<td align="left">x1</td>
-<td align="left">Surprisingly good for OTKs, and an easy out to an Accesscode Talker if didn’t manage to strike for game.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/White_Knight_of_Dogmatika" rel="nofollow">White Knight of Dogmatika</a></td>
-<td align="left">x1</td>
-<td align="left">Great when we’ve got nothing else.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Dogmatika_Alba_Zoa" rel="nofollow">White Zoa of Dogmatika</a></td>
-<td align="left">x1</td>
-<td align="left">Technically Alba Zoa now, but whatever, White Zoa is the better name. Anyway, the ace of the deck!</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Diviner_of_the_Herald" rel="nofollow">Diviner of the Herald</a></td>
-<td align="left">x3</td>
-<td align="left">Does scare people into thinking this is Herald Drytron, but nooo, we’re going into Lv7 Synchro toolbox B)</td>
-</tr>
-</tbody>
-</table>
-</details>
-<details open="">
-  <summary> <b> Extra Deck </b> </summary> <br>
-<table>
-<thead>
-<tr>
-<th align="left">card</th>
-<th align="left">copies</th>
-<th align="left">notes</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Drytron_Mu_Beta_Fafnir" rel="nofollow">Drytron Mu Beta Fafnir</a></td>
-<td align="left">x2</td>
-<td align="left">Insane consistency tool. As long as we can get 2 Drytrons on the field, this’ll guarantee any missing pieces we need. If we don’t end with Amorphactor Pain, it even provides a negate to protect against boardbreakers. Unfortunately, for Extra Deck space I’ve had to cut this down to 2 copies, but rarely does that come back to bite.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Linkuriboh" rel="nofollow">Linkuriboh</a></td>
-<td align="left">x1</td>
-<td align="left">Pivotal for optilical combo sequencing. Clutch when you need it.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Relinquished_Anima" rel="nofollow">Relinquished Anima</a></td>
-<td align="left">x1</td>
-<td align="left">Hilarious when it works, perfect for plucking back a Lava Golem too.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Herald_of_Mirage_Lights" rel="nofollow">Herald of Mirage Lights</a></td>
-<td align="left">x1</td>
-<td align="left">This, <em>this</em>, is the missing piece I spent so long looking for – too often do I end with extra bodies (especially if I’ve used Gamma) which don’t do anything, and I can’t clean up for anything else (IP Masquerena would take even more Extra Deck space for other staples, which I refuse to resort to) – but what would really help is a recovery option. That’s exactly what Herald of Mirage Lights does, grabbing back not 1, but <em>2</em> Ritual cards – how awesome is that! No longer do I need to rest on the Heart of the Cards every time my opponent dismantles my board and I have no more Rituals left in hand.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Clear_Wing_Synchro_Dragon" rel="nofollow">Clear Wing Synchro Dragon</a></td>
-<td align="left">x1</td>
-<td align="left">This is my favourite Synchro Monster, so naturally I was delighted when I realyzed I could throw it in Drytron. A stellar option if we don’t have enough to bring out a double-Tribute Ritual Monster.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Wind_Pegasus_@Ignister" rel="nofollow">Wind Pegasus @Ignister</a></td>
-<td align="left">x1</td>
-<td align="left">Works under Amorphactor Pain and in the Grave, even has Spell/Trap removal for followup.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Herald_of_the_Arc_Light" rel="nofollow">Herald of the Arc Light</a></td>
-<td align="left">x3</td>
-<td align="left">Of course, the perfect Monster to bury from our Extra Deck. And with Drytron, the more Rituals in hand, the better. We can even Synchro Summon it with Ash Blossom (Lv3 Tuner) and a Drytron (Lv1), which is better than keeping Ash in hand, since this can negate any card or effect – with a search right after too! Aside from working under Amorphactor Pain (since it Tributes itself as cost, so its effect won’t be negated), it even blocks Droplet by preventing anyone from sending cards to the Grave as cost. Just insane value.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/https://yugipedia.com/wiki/Elder_Entity_N'%27'tss" rel="nofollow">Elder Entity N'tss</a></td>
-<td align="left">x1</td>
-<td align="left">One’s enough, just for the situations where we really need it.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Garura,_Wings_of_Resonant_Life" rel="nofollow">Garura, Wings of Resonant Life</a></td>
-<td align="left">x1</td>
-<td align="left">For Super Polymerization and any effect that buries from the Extra Deck.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Lyrilusc_-_Assembled_Nightingale" rel="nofollow">Lyrilusc – Assembled Nightingale</a></td>
-<td align="left">x1</td>
-<td align="left">If the opponent has an unbreakable board but no interruptions, then it’s time for an emergency OTK with Assembled Nightingale and White Relic!</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Raidraptor_-_Ultimate_Falcon" rel="nofollow">Raidraptor – Ultimate Falcon</a></td>
-<td align="left">x1</td>
-<td align="left">I actually love this card, considering my first deck was Raidraptor. <em>So</em> many decks just cannot handle this being dropped on them.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Infinitrack_Fortress_Megaclops" rel="nofollow">Infinitrack Fortress Megaclops</a></td>
-<td align="left">x1</td>
-<td align="left">Waking the Dragon moment, what can I say...</td>
-</tr>
-</tbody>
-</table>
-</details>
-<div class="markdown-heading"><h3 class="heading-element">Spells</h3><a id="user-content-spells" class="anchor" aria-label="Permalink: Spells" href="#spells"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<details open="">
-  <summary> <b> display </b> </summary> <br>
-<table>
-<thead>
-<tr>
-<th align="left">card</th>
-<th align="left">copies</th>
-<th align="left">notes</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Meteonis_Drytron" rel="nofollow">Meteonis Drytron</a></td>
-<td align="left">x2</td>
-<td align="left">Always nice to have 2, just in case one gets banished, or to allow more than 1 Ritual Summon in later turns.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Drytron_Fafnir" rel="nofollow">Drytron Fafnir</a></td>
-<td align="left">x3</td>
-<td align="left">Eh, the search is cool and all, but I’m here for <em>negate protection</em> – that feeling when your opponent Solemns Meteonis Drytron and is left confuzzled as to why it didn’t work – also, the level manipulyzacion effect that no one pays any attention too can <em>really</em> disrupt any Synchro or Xyz decks.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Cyber_Emergency" rel="nofollow">Cyber Emergency</a></td>
-<td align="left">x3</td>
-<td align="left">Quality searcher, can grab a Draconids or Quadrantids to Tribute for White Zoa too if needed.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Drytron_Nova" rel="nofollow">Drytron Nova</a></td>
-<td align="left">x3</td>
-<td align="left">This deck needs all the consistency it can get.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Dogmatikamacabre" rel="nofollow">Dogmatikabre</a></td>
-<td align="left">x1</td>
-<td align="left">Just for White Zoa, but also useful with the lower Level Dogmatika Rituals if I have Herald of the Arc Lights in the Grave.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Nadir_Servant" rel="nofollow">Nadir Servant</a></td>
-<td align="left">x2</td>
-<td align="left">Insane value, searching an extra Ritual Monster to Tribute and any Ritual card (by sending Arc Light). Had several games where topdecking this instantly turned the fight around.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Dogmatikamatrix" rel="nofollow">Dogmatikatrix</a></td>
-<td align="left">x2</td>
-<td align="left">Just incredible searching power, especially if going second, and leaves Drytrons free to search for other Ritual cards. Once we’ve got White Zoa out, we can even scout out our opponent’s Extra Deck or bury any Monster from our own for even more value.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Where_Arf_Thou%3F" rel="nofollow">Where Arf Thou?</a></td>
-<td align="left">x2</td>
-<td align="left">Another searcher for consistency, can search Droll &amp; Lock Bird if I’ve got all the Drytron modules I need.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Preparation%20of%20Rites" rel="nofollow">Preparation of Rites</a></td>
-<td align="left">x1</td>
-<td align="left">Searches Odd-Eyes Gravity Dragon for opening setup, or White Relic of Dogmatika for OTK, and a free recovery (especially for Dogmatikabre to revive Zoa).</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Pre-Preparation%20of%20Rites" rel="nofollow">Pre-Preparation of Rites</a></td>
-<td align="left">x1</td>
-<td align="left">Searches Dogmatikabre and a free Dogmatika Ritual Monster to Tribute, and acts as an Ash bait, even if it is a dead draw later on.</td>
-</tr>
-</tbody>
-</table>
-</details>
-<div class="markdown-heading"><h3 class="heading-element">Traps</h3><a id="user-content-traps" class="anchor" aria-label="Permalink: Traps" href="#traps"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<details open="">
-  <summary> <b> display </b> </summary> <br>
-<table>
-<thead>
-<tr>
-<th align="left">card</th>
-<th align="left">copies</th>
-<th align="left">notes</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Drytron_Meteor_Shower" rel="nofollow">Drytron Meteor Shower</a></td>
-<td align="left">x1</td>
-<td align="left">It’s hilarious how few people actually know Drytron even has a Counter Trap, but it’s not bad at all, despite having no Grave effects like those of so many other archetypes. Hitting a Summon can often be just as devastyzing as negating an effect, undoing all the work put into bringing out a duel closer.</td>
-</tr>
-</tbody>
-</table>
-</details>
-<div class="markdown-heading"><h3 class="heading-element">Staples</h3><a id="user-content-staples" class="anchor" aria-label="Permalink: Staples" href="#staples"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<details open="">
-  <summary> <b> display </b> </summary> <br>
-<table>
-<thead>
-<tr>
-<th align="left">card</th>
-<th align="left">copies</th>
-<th align="left">notes</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Ash_Blossom_&amp;_Joyous_Spring/" rel="nofollow">Ash Blossom &amp; Joyous Spring</a></td>
-<td align="left">x1</td>
-<td align="left">I didn’t use to run this, since stopping people from playing the game isn’t fun, but... man am I tired of Maxx C... and Branded Fusion into Mirrorjade... and Chixiao into Chengying – you get the idea. Also, most of the time I Normal Summon it, and tune it with a Drytron to make a spare Herald of the Arc Light! Insane value.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Droll_&amp;_Lock_Bird" rel="nofollow">Droll &amp; Lock Bird</a></td>
-<td align="left">x1</td>
-<td align="left">Can’t use it against Maxx C since it literally locks myself, but searchable with <em>Where Arf Thou?</em> and shuts some decks down nicely. Quite a mean handtrap tho.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Lava_Golem" rel="nofollow">Lava Golem</a></td>
-<td align="left">x1</td>
-<td align="left">Such a powerful boardbreaker. Fits perfectly with Drytron since it can’t be Normal Summoned, and Drytron doesn’t really need a Normal Summon anyway.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Nibiru,_the_Primal_Being" rel="nofollow">Nibiru, the Primal Being</a></td>
-<td align="left">x1</td>
-<td align="left">A really <em>horrible</em> handtrap, but I run it just for Crossout.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Called_by_the_Grave" rel="nofollow">Called by the Grave</a></td>
-<td align="left">x1</td>
-<td align="left">Unfortunately, handtraps exist.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Crossout_Designator" rel="nofollow">Crossout Designator</a></td>
-<td align="left">x1</td>
-<td align="left">Well, I thought, if I’m already running literally every staple card at 1 copy, I might as well play Crossout to counter any of them, y’know?</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Forbidden_Droplet" rel="nofollow">Forbidden Droplet</a></td>
-<td align="left">x1</td>
-<td align="left">Another reason to leave spare Drytron modules on board. Splendid in Drytron, especially when going second, since the modules don’t really care if they’re in the Hand or Grave.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Super_Polymerization" rel="nofollow">Super Polymerization</a></td>
-<td align="left">x1</td>
-<td align="left">A wonderful boardbreaker, if a bit toxic.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Ultimate_Slayer" rel="nofollow">Ultimate Slayer</a></td>
-<td align="left">x1</td>
-<td align="left">People should give this more recognition honestly. Perfect against Synchro decks to send a Herald of the Arc Light for an extra search, or against Fusion decks to send a N'tss for a free pop. Nicely avoids Mirrorjade and Chengying’s effects.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Triple_Tactics_Talent" rel="nofollow">Triple Tactics Talent</a></td>
-<td align="left">x1</td>
-<td align="left">Quality response and all too easy to trigger.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Infinite_Impermanence" rel="nofollow">Infinite Impermanence</a></td>
-<td align="left">x1</td>
-<td align="left">Why only 1, I know. I don’t really play it as interruption (unless it’s Aluber or Chixiao), but rather an opener when going second to neutralyze a threat or draw out a negate.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Evenly_Matched" rel="nofollow">Evenly Matched</a></td>
-<td align="left">x1</td>
-<td align="left">Actually cracked.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Waking_the_Dragon" rel="nofollow">Waking the Dragon</a></td>
-<td align="left">x1</td>
-<td align="left">Not a staple, I know. Yet the amount of times this has worked and saved me by bringing out Ultimate Falcon or Infinitrack Megaclops is <em>staggering</em>.</td>
-</tr>
-</tbody>
-</table>
-<div class="markdown-heading"><h3 class="heading-element">History</h3><a id="user-content-history" class="anchor" aria-label="Permalink: History" href="#history"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<details open="">
-  <summary> <b> display </b> </summary> <br>
-<table>
-<thead>
-<tr>
-<th align="left">card</th>
-<th align="left">copies</th>
-<th align="left">notes</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Drytron_Eclipse" rel="nofollow">Drytron Eclipse</a></td>
-<td align="left">x1</td>
-<td align="left">Surprisingly clutch, super useful for recovering a Drytron mech to sacrifice for White Zoa, and the ATK boost is splendid with Draconids for OTKs.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://yugipedia.com/wiki/Pot_of_Extravagance" rel="nofollow">Pot of Extravagance</a></td>
-<td align="left">x1</td>
-<td align="left">Drytron wasn’t too dependent on the Extra Deck, so this was great (even if it did lock Delta Altais), but now... yeah no, no way we’re losing cards out of the Extra Deck.</td>
-</tr>
-</tbody>
-</table>
-</details>
+  <tbody><tr>
+    <th rowspan="2"> card </th>
+    <th> PSCT </th>
+  </tr>
+  <tr>
+    <th> <em>PSCT</em> </th>
+  </tr>
+  <tr>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Primeval_Planet_Perlereino" rel="nofollow">Primeval Planet Perlereino<sup>↗</sup></a> </td>
+    <td> When this card is activated: You can add 1 "Tearlaments" monster or 1 "Visas Starfrost" from your Deck to your hand. Fusion Monsters and "Tearlaments" monsters you control gain 500 ATK. If a "Tearlaments" monster(s) you control or in your GY is shuffled into the Deck or Extra Deck (except during the Damage Step): You can target 1 card on the field; destroy it. You can only use this effect of "Primeval Planet Perlereino" once per turn. You can only activate 1 "Primeval Planet Perlereino" per turn. </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="highlight highlight-source-coffee"><pre><span class="pl-en">act</span> <span class="pl-en">eff</span> [OPT]<span class="pl-k">:</span> <span class="pl-c1">HAND</span>.<span class="pl-en">Add</span>(DECK, Monster[<span class="pl-s"><span class="pl-pds">'</span>Tearlaments<span class="pl-pds">'</span></span>]<span class="pl-k">/</span><span class="pl-s"><span class="pl-pds">'</span>Visas Starfrost<span class="pl-pds">'</span></span>)
+[<span class="pl-c1">1</span>] <span class="pl-en">req</span> <span class="pl-en">cont</span> <span class="pl-v">eff</span><span class="pl-k">:</span> <span class="pl-en">Alt</span>(ATK, Monsters[<span class="pl-s"><span class="pl-pds">'</span>Tearlaments<span class="pl-pds">'</span></span>]<span class="pl-k">/</span>Monsters[Fusion])[<span class="pl-v">control</span><span class="pl-k">=</span>YOU], <span class="pl-k">+</span><span class="pl-c1">500</span>)
+[<span class="pl-c1">2</span>] trig<span class="pl-k">?</span> <span class="pl-en">eff</span> [<span class="pl-v">HOPT</span>, <span class="pl-v">Step</span>[Damage]<span class="pl-k">=</span><span class="pl-v">FALSE</span>]
+  <span class="pl-c1">on</span> <span class="pl-en">Shuffle</span>(YOU.(FIELD<span class="pl-k">/</span>GY), YOU.(DECK<span class="pl-k">/</span>EXTRA) Monster[<span class="pl-s"><span class="pl-pds">'</span>Tearlaments<span class="pl-pds">'</span></span>])<span class="pl-k">:</span>
+  <span class="pl-en">Target</span>(Card[FIELD]) <span class="pl-k">-&gt;</span> t; <span class="pl-en">Destroy</span>(t) </pre></div>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Rank-Up-Magic_Revolution_Force" rel="nofollow">Rank-Up-Magic Revolution Force<sup>↗</sup></a> </td>
+    <td> ● During your turn: Target 1 "Raidraptor" Xyz Monster you control; Special Summon from your Extra Deck, 1 "Raidraptor" monster that is 1 Rank higher than that target, by using that target as the Xyz Material. <br> ● During your opponent's turn: Target 1 Xyz Monster your opponent controls with no Xyz Materials; take control of that Xyz Monster, then Special Summon from your Extra Deck, 1 "Raidraptor" monster that is 1 Rank higher than that monster, by using it as the Xyz Material. <br> (These Special Summons are treated as Xyz Summons. Attached Xyz Materials also become Xyz Materials on the Summoned monster.) </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="highlight highlight-source-coffee"><pre>[<span class="pl-c1">1</span>] <span class="pl-en">act</span> <span class="pl-en">eff</span> <span class="pl-en">Choose</span>() {
+  [<span class="pl-c1">1.1</span>] [<span class="pl-v">turn</span><span class="pl-k">=</span>YOU]<span class="pl-k">:</span> <span class="pl-en">Target</span>(Monster[Xyz, <span class="pl-s"><span class="pl-pds">'</span>Raidraptor<span class="pl-pds">'</span></span>, <span class="pl-v">control</span><span class="pl-k">=</span>YOU]) <span class="pl-k">-&gt;</span> t;
+    <span class="pl-en">Summon</span>(Xyz, Extra, Monster[Xyz, <span class="pl-s"><span class="pl-pds">'</span>Raidraptor<span class="pl-pds">'</span></span>, <span class="pl-v">rank</span><span class="pl-k">=</span><span class="pl-smi">t</span>.<span class="pl-smi">rank</span><span class="pl-k">+</span><span class="pl-c1">1</span>], <span class="pl-v">transfer</span><span class="pl-k">=</span>TRUE) <span class="pl-k">with</span> t
+  [<span class="pl-c1">1.2</span>] [<span class="pl-v">turn</span><span class="pl-k">=</span>OPP]<span class="pl-k">:</span> <span class="pl-en">Target</span>(Monster[Xyz, <span class="pl-v">control</span><span class="pl-k">=</span>OPP, <span class="pl-v">materials</span><span class="pl-k">=</span><span class="pl-c1">0</span>]) <span class="pl-k">-&gt;</span> t; <span class="pl-smi">t</span>.<span class="pl-en">Alt</span>(<span class="pl-v">control</span><span class="pl-k">=</span>YOU),
+    <span class="pl-en">Summon</span>(Xyz, Extra, Monster[Xyz, <span class="pl-s"><span class="pl-pds">'</span>Raidraptor<span class="pl-pds">'</span></span>, <span class="pl-v">rank</span><span class="pl-k">=</span><span class="pl-smi">t</span>.<span class="pl-smi">rank</span><span class="pl-k">+</span><span class="pl-c1">1</span>], <span class="pl-v">transfer</span><span class="pl-k">=</span>TRUE) <span class="pl-k">with</span> t
+} </pre></div>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> <a href="https://yugipedia.com/Small_World" rel="nofollow">Small World<sup>↗</sup></a> </td>
+    <td> Reveal 1 monster in your hand, choose 1 monster from your Deck that has exactly 1 of the same Type, Attribute, Level, ATK or DEF, and banish the revealed monster from your hand face-down. Then add, from the Deck to your hand, 1 monster that has exactly 1 of the same Type, Attribute, Level, ATK or DEF as the monster chosen from your Deck, and banish the card chosen from the Deck face-down. You can only activate 1 "Small World" per turn. </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="highlight highlight-source-coffee"><pre>[D] <span class="pl-en">func</span> <span class="pl-en">Data</span>(Monster[] <span class="pl-k">-&gt;</span> c) <span class="pl-en">gives</span> List[<span class="pl-smi">c</span>.<span class="pl-smi">level</span>, <span class="pl-smi">c</span>.<span class="pl-smi">type</span>, <span class="pl-smi">c</span>.<span class="pl-smi">attr</span>, <span class="pl-smi">c</span>.<span class="pl-c1">ATK</span>, <span class="pl-smi">c</span>.<span class="pl-c1">DEF</span>]
+[D] <span class="pl-en">func</span> <span class="pl-en">Connected</span>(<span class="pl-c1">2</span> <span class="pl-k">*</span> Monster[] <span class="pl-k">-&gt;</span> c1, c2) {
+  List[Bool[<span class="pl-en">Data</span>(c1)[i] <span class="pl-k">=</span> <span class="pl-en">Data</span>(c2)[i]] <span class="pl-k">for</span> <span class="pl-v">i</span> <span class="pl-k">=</span> <span class="pl-c1">1</span><span class="pl-k">~</span><span class="pl-c1">5</span>] <span class="pl-k">-&gt;</span> d,
+  Bool[<span class="pl-en">Count</span>(d, TRUE) <span class="pl-k">=</span> <span class="pl-c1">1</span>] <span class="pl-k">-&gt;</span> OUT
+}
+[<span class="pl-c1">1</span>] <span class="pl-en">act</span> <span class="pl-en">eff</span> [HOPT[Activate]]<span class="pl-k">:</span> <span class="pl-en">Reveal</span>(HAND, Monster[] <span class="pl-k">-&gt;</span> t1), <span class="pl-en">Reveal</span>(DECK, Monster[] <span class="pl-k">-&gt;</span> t2)
+  <span class="pl-en">where</span> <span class="pl-en">Connected</span>(t1, t2), <span class="pl-en">Banish</span>(t1, <span class="pl-v">face</span><span class="pl-k">=</span>DOWN), <span class="pl-en">Add</span>(DECK, HAND, Monster[] <span class="pl-k">-&gt;</span> t3)
+  <span class="pl-en">where</span> <span class="pl-en">Connected</span>(t3, t2), <span class="pl-en">Banish</span>(t2, <span class="pl-v">face</span><span class="pl-k">=</span>DOWN) </pre></div>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Branded_Retribution" rel="nofollow">Branded Retribution<sup>↗</sup></a> </td>
+    <td> When a Spell/Trap Card, or monster effect, is activated that includes an effect that Special Summons a monster(s): Return to the Extra Deck, 1 face-up Fusion Monster you control, or 2 Fusion Monsters in your GY, that mention "Fallen of Albaz" as material, and if you do, negate the activation, and if you do that, destroy that card. You can banish this card from your GY, then target 1 "Branded" Spell/Trap in your GY, except "Branded Retribution"; add it to your hand. You can only use 1 "Branded Retribution" effect per turn, and only once that turn. </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="highlight highlight-source-coffee"><pre><span class="pl-en">act</span> [HOPT[Activate]] <span class="pl-c1">on</span> <span class="pl-en">Activate</span>(Card[Spell<span class="pl-k">/</span>Trap] <span class="pl-k">/</span> Effect[Monster]) <span class="pl-k">-&gt;</span> e
+  <span class="pl-en">where</span> <span class="pl-en">e</span> <span class="pl-en">would</span> <span class="pl-en">Summon</span>(Special, Monster[])<span class="pl-k">:</span>
+  Monster[Fusion, <span class="pl-en">materials</span> <span class="pl-en">has</span> <span class="pl-s"><span class="pl-pds">'</span>Fallen of Albaz<span class="pl-pds">'</span></span>] <span class="pl-k">-&gt;</span> t,
+  <span class="pl-en">Return</span>(t[<span class="pl-c1">YOU</span>.<span class="pl-c1">FIELD</span>] <span class="pl-k">/</span> <span class="pl-c1">2</span> <span class="pl-k">*</span> t[<span class="pl-c1">YOU</span>.<span class="pl-c1">GY</span>]) <span class="pl-en">to</span> <span class="pl-en">Negate</span>(<span class="pl-smi">e</span>.<span class="pl-smi">activation</span>) <span class="pl-en">to</span> <span class="pl-en">Destroy</span>(<span class="pl-smi">e</span>.<span class="pl-smi">card</span>)
+[<span class="pl-c1">1</span>] <span class="pl-en">opt</span> quick<span class="pl-k">?</span> <span class="pl-en">eff</span> [HOPT]<span class="pl-k">:</span> <span class="pl-smi">self</span>.<span class="pl-en">Banish</span>(GY),
+  <span class="pl-en">Target</span>(GY, Spell<span class="pl-k">/</span>Trap[<span class="pl-s"><span class="pl-pds">'</span>Branded<span class="pl-pds">'</span></span>]) <span class="pl-k">-&gt;</span> t; <span class="pl-en">Add</span>(GY, HAND, t)
+[C] <span class="pl-en">cond</span> <span class="pl-c1">YOU</span>.<span class="pl-smi">Use</span><span class="pl-k">?</span>(<span class="pl-smi">self</span>.<span class="pl-smi">Effect</span>[], <span class="pl-v">count</span><span class="pl-k">=</span><span class="pl-c1">1</span>, <span class="pl-v">each</span><span class="pl-k">=</span>turn) </pre></div>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> <a href="https://yugipedia.com/wiki/Last_Turn" rel="nofollow">Last Turn<sup>↗</sup></a> </td>
+    <td> This card can only be activated during your opponent's turn when your Life Points are 1000 or less. Select 1 monster on your side of the field and send all other cards on the field and in their respective owners' hands to their respective Graveyards. After that, your opponent selects and Special Summons 1 monster from their Deck in face-up Attack Position and attacks your selected monster. (Any Battle Damage from this battle is treated as 0.) The player whose monster remains alone on the field at the End Phase of this turn wins the Duel. Any other case results in a DRAW. </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="highlight highlight-source-coffee"><pre>[<span class="pl-c1">1</span>] <span class="pl-en">act</span> <span class="pl-en">eff</span> [<span class="pl-v">turn</span> <span class="pl-k">=</span> OPP] <span class="pl-k">while</span> <span class="pl-c1">YOU</span>.<span class="pl-c1">LP</span> <span class="pl-k">=</span><span class="pl-k">&lt;</span> <span class="pl-c1">1000</span><span class="pl-k">:</span> {
+  <span class="pl-en">Choose</span>(Monster[], Monsters[<span class="pl-v">control</span> <span class="pl-k">=</span> YOU]) <span class="pl-k">-&gt;</span> t
+  <span class="pl-k">and</span> <span class="pl-en">Send</span>(Players[].(HAND <span class="pl-k">&amp;</span> FIELD), GY, Cards[Card <span class="pl-k">!=</span> t])
+}  
+  [<span class="pl-c1">1.1</span>] <span class="pl-en">req</span> act<span class="pl-k">!</span> <span class="pl-en">eff</span> <span class="pl-c1">on</span> <span class="pl-en">Resolve</span>([<span class="pl-c1">1</span>].<span class="pl-smi">Chain</span>)<span class="pl-k">:</span> <span class="pl-c1">OPP</span>.<span class="pl-en">Summon</span>(Special, DECK, Monster[], <span class="pl-v">pos</span><span class="pl-k">=</span>ATK) <span class="pl-k">-&gt;</span> k,
+    <span class="pl-smi">k</span>.<span class="pl-en">Attack</span>(t) <span class="pl-k">-&gt;</span> b, <span class="pl-en">Alt</span>(<span class="pl-smi">b</span>.<span class="pl-smi">damage</span> <span class="pl-k">=</span> <span class="pl-c1">0</span>)
+  [<span class="pl-c1">1.2</span>] <span class="pl-en">req</span> act<span class="pl-k">!</span> <span class="pl-en">eff</span> [<span class="pl-v">phase</span><span class="pl-k">=</span>END, <span class="pl-v">turn</span><span class="pl-k">=</span>THIS]<span class="pl-k">:</span> {
+    <span class="pl-k">if</span> (<span class="pl-smi">t</span>.<span class="pl-smi">control</span> <span class="pl-k">=</span> YOU <span class="pl-k">and</span> <span class="pl-smi">k</span>.<span class="pl-smi">control</span> <span class="pl-k">=</span> NONE) <span class="pl-k">then</span> <span class="pl-c1">DUEL</span>.<span class="pl-smi">win</span> <span class="pl-k">=</span> YOU
+    <span class="pl-k">else</span> <span class="pl-k">if</span> <span class="pl-smi">t</span>.<span class="pl-smi">control</span> <span class="pl-k">=</span> NONE <span class="pl-k">and</span> <span class="pl-smi">k</span>.<span class="pl-smi">control</span> <span class="pl-k">=</span> OPP) <span class="pl-k">then</span> <span class="pl-c1">DUEL</span>.<span class="pl-smi">win</span> <span class="pl-k">=</span> OPP
+    <span class="pl-k">else</span> <span class="pl-c1">DUEL</span>.<span class="pl-smi">win</span> <span class="pl-k">=</span> NONE
+  } </pre></div>
+    </td>
+  </tr>
+</tbody></table>
 <br>
-<div class="markdown-heading"><h2 class="heading-element">Strategy</h2><a id="user-content-strategy" class="anchor" aria-label="Permalink: Strategy" href="#strategy"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<div class="markdown-heading"><h3 class="heading-element">End Board</h3><a id="user-content-end-board" class="anchor" aria-label="Permalink: End Board" href="#end-board"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>The dream endboard consists of White Zoa, Amorphactor Pain, Odd-Eyes Gravity Dragon, Elder Entity.</p>
-<p>White Zoa needs 3 cards to Ritual Summon – itself, Dogmatikabre, and a Draconids or Quadrantids in Hand to Tribute (or we could have a Lv8 Ritual and banish an Arc Light from the Grave, that works too). Regardless, it’s quite a lot to ask, and while it has stellar protection and a devastyzing effect, it’s probably not enough to hold up on its own – which means we can’t just abandon the Drytron side of things. So, I’ll only bring it out if I can still Ritual Summon other Ritual Monsters with Meteonis Drytron.</p>
-<p>Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards to search out all the Ritual Spells and Monsters we need. Nadir Servant is great for searching any missing piece we need, and if we go second Dogmatikatrix can grab both White Zoa and Dogmatikabre all in one go, or even another copy of itself if we’ve already got one of those.</p>
-<div class="markdown-heading"><h3 class="heading-element">Strengths</h3><a id="user-content-strengths" class="anchor" aria-label="Permalink: Strengths" href="#strengths"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>Drytron is definitely strong. It’s fallen behind the meta, sure, but it can still <em>do</em> things, and is plenty powerful if left unchecked. The archetype is by no means ‘grindy’, but grinds decently well – cycling the modules each turn for virtually no cost, and gaining card advantage through Drytron Alpha and Delta.</p>
-<p>Due to the way it’s structured, Drytron has a few niche advantages. The effects of our modules don’t activate on the field, and their search is part of resolution, which means we can play under Skill Drain and other effects that relate to the field. Of course, the Rituals we’re aiming to end on won’t work, but luckily their high ATK means generally we can win through plain beatdown. We also don’t rely on Summoning from the Extra Deck too much, so while a lock or floodgate does hurt a bit, it doesn’t hurt anywhere as much as with other decks. Funniest of all of course, is how we benefit from burying from the Extra Deck – almost half of our Extra Deck is very useful when sent to the Grave.</p>
-<div class="markdown-heading"><h3 class="heading-element">Weaknesses</h3><a id="user-content-weaknesses" class="anchor" aria-label="Permalink: Weaknesses" href="#weaknesses"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>As strong as it can be, Drytron is chock-full of weaknesses. Of course, the most pressing is consistency – unlike most other archetypes with 1-card starters, we need at least 2 Drytron modules to actually combo. And being a Ritual deck, we need to accumulate so many different cards to be able to even bring out any kind of boss Monster, so any negated search could be combo-ending. Don’t forget that all the effort is so resource-intensive that we’re often left with an empty hand after dropping everything we can, so a comeback in turn 3 too often relies on Heart of the Cards. Drytron can indeed have a pretty high ceiling, but do remember that we’re hard capped by 2 or 3 Ritual Summons each turn (and really only 1 in late game), and this requires having an opening hand with pretty much every card being live.</p>
-<p>What hurts most, though, is that it’s vulnerable to almost every form of interruption. Handtrap-wise when going fist, you’ve got Ash Blossom and Ghost Belle negating the modules, Infinite Impermanence, Effect Veiler and even Ghost Ogre choking Mu Beta Fafnir, and of course Maxx C and Droll &amp; Lock Bird which are utter pain. Don’t even mention Bystials. Any grave disruption or floodgate, of which there is plenty – Called By The Grave, Ishizu shufflers, Abyss Dweller – totally kills the deck.</p>
-<br>
-<div class="markdown-heading"><h2 class="heading-element">Rivals</h2><a id="user-content-rivals" class="anchor" aria-label="Permalink: Rivals" href="#rivals"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<details open="">
-  <summary> <b> display </b> </summary> <br>
-<table>
-  <tbody><tr><td>
-    <a href="#Adamancipator">Adamancipator</a> <br>
-    <a href="#Blue-Eyes">Blue-Eyes</a> <br>
-    <a href="#Branded-Despia">Branded Despia</a> <br>
-    <a href="#Bystial">Bystial</a> <br>
-    <a href="#Dark-Magician">Dark Magician</a> <br>
-    <a href="#Dinomorphia">Dinomorphia</a> <br>
-    <a href="#Dogmatika">Dogmatika</a> <br>
-    <a href="#Eldlich">Eldlich</a> <br>
-    <a href="#Floowandereeze">Floowandereeze</a> <br>
-    <a href="#Kashtira">Kashtira</a> <br>
-    <a href="#Labrynth">Labrynth</a> <br>
-    <a href="#Marincess">Marincess</a> <br>
-    <a href="#Mathmech">Mathmech</a> <br>
-    <a href="#Pendulum-Magician">Pendulum Magician</a> <br>
-    <a href="#Runick">Runick</a> <br>
-    <a href="#Sky-Striker">Sky Striker</a> <br>
-    <a href="#Spright">Spright</a> <br>
-    <a href="#Swordsoul">Swordsoul</a> <br>
-    <a href="#Tearlaments">Tearlaments</a> <br>
-    <a href="#The-Weather">The Weather</a> <br>
-    <a href="##">–</a>
-  </td>
-</tr></tbody></table>
-</details>
-<div class="markdown-heading"><h3 class="heading-element">Adamancipator</h3><a id="user-content-adamancipator" class="anchor" aria-label="Permalink: Adamancipator" href="#adamancipator"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<div class="markdown-heading"><h3 class="heading-element">Blue-Eyes</h3><a id="user-content-blue-eyes" class="anchor" aria-label="Permalink: Blue-Eyes" href="#blue-eyes"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>Blue-Eyes Jet Dragon is such a pain. Luckily, Draconids can’t be targeted by it, and has excellent removal in case the opponent has a higher ATK Monster. Ironically, the best weapon against them is their own ace Monster – Blue-Eyes Chaos MAX Dragon.</p>
-<div class="markdown-heading"><h3 class="heading-element">Branded Despia</h3><a id="user-content-branded-despia" class="anchor" aria-label="Permalink: Branded Despia" href="#branded-despia"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>This is actually so fun to play against, even if I do end up losing most of the time. Since its speciality is removal and doesn’t have negates at all, it presents a far more interesting challenge to overcome – many of my most exhilaryzing and memorable duels have been against Branded Despia. I love playing against duelists who really <em>know</em> the deck and don’t just play it cuz meta. Especially those who take it further and stretch its capabilitys, like Fusion Summoning twice in one Chain Link with Lubellion and Branded in Red.</p>
-<p>Amorphactor Pain is my greatest weapon against them, but even then they can easily battle over it, and if I want to dismantle their board, Mirrorjade presents a difficult challenge to remove.</p>
-<div class="markdown-heading"><h3 class="heading-element">Bystial</h3><a id="user-content-bystial" class="anchor" aria-label="Permalink: Bystial" href="#bystial"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>Well, I’ma head out.</p>
-<p>Yeah no, Bystial totally kills Drytron.</p>
-<div class="markdown-heading"><h3 class="heading-element">Dark Magician</h3><a id="user-content-dark-magician" class="anchor" aria-label="Permalink: Dark Magician" href="#dark-magician"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>Its only real interruption is the banish from Dark Magical Circle, which could be critical if we’ve got a weak hand, but is usually easy to overcome. Quadrantids is lethal against Dark Magician, since they can’t recover their Spell/Traps, and if they’ve activyzen Eternal Soul then they just end up nuking their own field.</p>
-<div class="markdown-heading"><h3 class="heading-element">Dinomorphia</h3><a id="user-content-dinomorphia" class="anchor" aria-label="Permalink: Dinomorphia" href="#dinomorphia"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>Dinomorphia’s pretty powerful at control, which Drytron tends to struggle against. Luckily while <a href="https://yugipedia.com/wiki/Dinomorphia_Rexterm" rel="nofollow">Rexterm</a>’s ATK-modifying effect neutralises our Battle Phase, which will be our main way to deal with their Monsters, it doesn’t stop our modules from activating their effects since they don’t activate on the field. If we manage to get Odd-Eyes Gravity Dragon on the field, they’re royally screwed. If we get an Amorphactor Pain with that too? Yeah, that’s gonna be rough. The only issue is stopping the opponent from just running over them.</p>
-<div class="markdown-heading"><h3 class="heading-element">Dogmatika</h3><a id="user-content-dogmatika" class="anchor" aria-label="Permalink: Dogmatika" href="#dogmatika"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>Haha, I’m afraid you just milled my 3 ARC LIGHTS – yeah, the mirror match is hilarious if they blindly mill my Extra Deck.</p>
-<div class="markdown-heading"><h3 class="heading-element">Eldlich</h3><a id="user-content-eldlich" class="anchor" aria-label="Permalink: Eldlich" href="#eldlich"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>Again, Chaos MAX Dragon. Can be a challenge to play against sometimes if they manage to snipe Meteonis Drytron in the Grave with Huaquero.</p>
-<div class="markdown-heading"><h3 class="heading-element">Floowandereeze</h3><a id="user-content-floowandereeze" class="anchor" aria-label="Permalink: Floowandereeze" href="#floowandereeze"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>What a pain to play against.</p>
-<div class="markdown-heading"><h3 class="heading-element">Kashtira</h3><a id="user-content-kashtira" class="anchor" aria-label="Permalink: Kashtira" href="#kashtira"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>Aside from it being a horribly generic, efficient, vicious deck, Kashtira actually can’t handle targeting protection, and it can’t go over 3000 ATK, making Chaos MAX Dragon a fantastic weapon against them... if I can actually bring it out in the first place, what with all my Zones locked.</p>
-<div class="markdown-heading"><h3 class="heading-element">Labrynth</h3><a id="user-content-labrynth" class="anchor" aria-label="Permalink: Labrynth" href="#labrynth"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>Blue-Eyes Chaos MAX Dragon insta-win. Labrynth can’t handle targeting and destruction protection or that 4000 ATK, unless they bring out Skill Drain. Then we’re screwed.</p>
-<p>Alternatively, they trigger Waking the Dragon and we drop Ultimate Falcon on them, which is a definitive insta-win.</p>
-<div class="markdown-heading"><h3 class="heading-element">Marincess</h3><a id="user-content-marincess" class="anchor" aria-label="Permalink: Marincess" href="#marincess"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>This shouldn’t be that hard to beat, but it is. Y’know what, returning to the original Ritual Monsters works wonderfully – Draconids and Quadrantids keep pressure on them by clearing their Spell/Traps each turn, and Odd-Eyes Gravity Dragon really hurts since they combo so much.</p>
-<div class="markdown-heading"><h3 class="heading-element">Mathmech</h3><a id="user-content-mathmech" class="anchor" aria-label="Permalink: Mathmech" href="#mathmech"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>I also play Mathmech myself, so I’m really familiar with how it works. And it can be really dangerous if we’re uncareful. Luckily skipping their Main Phase 1 with Amorphactor Pain neutralyzes the threat of an OTK, and if they don’t read and overlay into Alembertian or Laplacian while it’s on the field then things will be much more difficult for them.</p>
-<p>If they go first and drop Superfactorial early, then counterplay is really quite difficult with the resource rip and negate. Draconids is probably the most effective here, to remove materials before they can Synchro into Final Sigma or Link into Accesscode.</p>
-<div class="markdown-heading"><h3 class="heading-element">Pendulum Magician</h3><a id="user-content-pendulum-magician" class="anchor" aria-label="Permalink: Pendulum Magician" href="#pendulum-magician"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>Never did I think I would hate such a cool deck (since I absolutely loved Yuya’s deck in Arc-V), but the endboards it cryzes are really, really toxic, and literally none of the cards are actually archetypical. Apollousa is enough to kill Drytron, but a Baronne de Fleur, Hope Harbinger, Borreload Savage Dragon, <em>and</em> Time Pendulumgraph too? Even if I draw Forbidden Droplet, it’ll cripple my Hand, and I don’t run Dark Ruler No More anymore.</p>
-<div class="markdown-heading"><h3 class="heading-element">Runick</h3><a id="user-content-runick" class="anchor" aria-label="Permalink: Runick" href="#runick"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>Honestly makes me want to crawl up and die. Whenever I face this, the race is on to grab Chaos MAX Dragon before they banish it, since just like with Labrynth, it’s an insta-win. It feels <em>soo</em> good crashing into a Hugin to deal perfectly 8000 damage. Unless they have Skill Drain... and they probably do. In which case, Quadrantids is our only good option, since whenever they destroy it it’ll bring back more Drytrons, hopefully to attack directly. Unless they have There Can Be Only One. Oh my days. What an absolute pain. And Dimensional Fissure. ALL the floodgates.</p>
-<div class="markdown-heading"><h3 class="heading-element">Sky Striker</h3><a id="user-content-sky-striker" class="anchor" aria-label="Permalink: Sky Striker" href="#sky-striker"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>It’s beyond me how this deck even manages to put up a fight – maybe they just always catch me on a subpar hand.</p>
-<div class="markdown-heading"><h3 class="heading-element">Spright</h3><a id="user-content-spright" class="anchor" aria-label="Permalink: Spright" href="#spright"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>Well, this is really tough to beat. Since everything in Drytron is an activyzen effect, negates really hurt, and Spright is full of them. Amorphactor Pain can’t keep them at bay, and Chaos MAX Dragon falls to Spright Double Cross or a boosted Gigantic Spright.</p>
-<p>If I want to win, I have to play as viciously as I can, which means not letting Spright play at all. Currently the best strategic I’ve found is to clear their field, which means they can’t use their innate Special Summons. Hitting their Normal Summon with Meteor Shower or Draconids kills them entirely, unless they have Starter. If they start with Starter we’re basically screwed, unless they Summon Gigantic with nothing else on the field, in which case hitting that with Draconids clears their field.</p>
-<p>If it’s Runick Spright, then there’s very little hope, what with the insane advantage Fountain generyzes and the free Lv2 Special Summons that we just can’t stop.</p>
-<div class="markdown-heading"><h3 class="heading-element">Swordsoul</h3><a id="user-content-swordsoul" class="anchor" aria-label="Permalink: Swordsoul" href="#swordsoul"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>Swordsoul and Swordsoul Tenyi, unlike Branded Despia, are such a pain to play against. Which is weird, since both decks feature single-card opening combos and tech in other Monsters of their Summoning tecnique – and I even find Synchro Monsters cooler than Fusion Monsters. I suppose it’s because Swordsoul is so braindead to play, and provides such easy access to high-Level Synchro Monsters that would otherwise be much more difficult to Summon.</p>
-<div class="markdown-heading"><h3 class="heading-element">Tearlaments</h3><a id="user-content-tearlaments" class="anchor" aria-label="Permalink: Tearlaments" href="#tearlaments"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>Tearlaments is fine. No really, it dies to Blue-Eyes Chaos MAX Dragon or a turn one Amorphactor Pain. Ofc, <a href="https://yugipedia.com/wiki/Tearlaments_Kaleido-Heart" rel="nofollow">Kaleido-Heart</a> and <a href="https://yugipedia.com/wiki/Tearlaments_Rulkallos" rel="nofollow">Rulkallos</a> have some pretty wicked effects – almost all effects of our Drytron cards involve Special Summoning, and we each module to be in circulation – but if we manage to pull through, we can certainly take them down.</p>
-<p>What’s isn’t fine tho, are the non-<em>Tearlaments</em> cards. Oh man, those are vicious. Ishizu, just like Bystial, totally kills Drytron, and does an even harsher job of it in the late-game, cleansing all of our modules right out of the Grave. And with Drytron’s playstyle, we’ll just be triggering <a href="https://yugipedia.com/wiki/Kelbek_the_Ancient_Vanguard" rel="nofollow">Kelbek</a>’s trigger effect right for them. And if they’ve come prepared, <a href="https://yugipedia.com/wiki/Underworld_Goddess_of_the_Closed_World" rel="nofollow">Underworld Goddess</a> is the easy out to Blue-Eyes Chaos MAX Dragon that’ll hurt us when trying to comeback too. Oh, and <a href="https://yugipedia.com/wiki/Abyss_Dweller" rel="nofollow">Abyss Dweller</a>? Just no.</p>
-<div class="markdown-heading"><h3 class="heading-element">The Weather</h3><a id="user-content-the-weather" class="anchor" aria-label="Permalink: The Weather" href="#the-weather"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>The Weather is strangely terrifying to play against, since it has incredible grind game that Drytron happens to have difficulty countering. In particular, it’s their Monsters banishing themselves as cost, and the protection and recovery for their Spell/Traps, that makes them so resilient. We don’t have any real counter to their strategy, and anything I try to bring out just dies to the <a href="https://yugipedia.com/wiki/The_Weather_Thundery_Canvas" rel="nofollow">Thundery Canvas</a>. Really, our best shot is to try and OTK with Lyrilusc – Assembled Nightingale and White Relic of Dogmatika, but that’s not always the easiest to pull off.</p>
-<br>
-<div class="markdown-heading"><h2 class="heading-element">Rivals</h2><a id="user-content-rivals-1" class="anchor" aria-label="Permalink: Rivals" href="#rivals-1"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<div class="markdown-heading"><h3 class="heading-element"><a href="https://yugipedia.com/wiki/Mekk-Knight_Crusadia_Avramax" rel="nofollow">Mekk-Knight Crusadia Avramax</a></h3><a id="user-content-mekk-knight-crusadia-avramax" class="anchor" aria-label="Permalink: Mekk-Knight Crusadia Avramax" href="#mekk-knight-crusadia-avramax"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>I:P Masquerena makes no difference for Drytron, as none of our effects involve destruction anyway. It’s the battle invulnerability that’s the most problematic, since we do often rely on our naturally high ATK to take out the opponent’s ace Monsters. So, Shinobaron Peacock is our only non-targeting non-destructive removal option – which sounds bad, but at least it’s searchable. Otherwise, we’d have to rely on drawing Forbidden Droplet or, heaven forbid, triggering Nibiru.</p>
-<div class="markdown-heading"><h3 class="heading-element"><a href="https://yugipedia.com/wiki/Apollousa,_Bow_of_the_Goddess" rel="nofollow">Apollousa, Bow of the Goddess</a></h3><a id="user-content-apollousa-bow-of-the-goddess" class="anchor" aria-label="Permalink: Apollousa, Bow of the Goddess" href="#apollousa-bow-of-the-goddess"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>Drytron’s worst nightmare. Seriously. If we don’t draw a Spell/Trap out to this (or have everything necessary for a Ritual Summon in hand – that’s rare), we’re royally screwed. The issue, you see, is that Drytron cannot simply tank the negates or beat over it, because we rely exclusively on Special Summons, and can’t Special Summon without activating Monster effects. The feeling of having all your modules negated... man, it’s rough. The worst part? Often, Apolloussa is just one of our worries, cuz the opponent will have other interruptions or bodies for us to deal with.</p>
-<br>
-<div class="markdown-heading"><h2 class="heading-element">Replays</h2><a id="user-content-replays" class="anchor" aria-label="Permalink: Replays" href="#replays"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<div class="markdown-heading"><h3 class="heading-element">DuelingNexus</h3><a id="user-content-duelingnexus" class="anchor" aria-label="Permalink: DuelingNexus" href="#duelingnexus"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p><a href="https://duelingnexus.com/replay/4312a128-90ea-4414-a8aa-fb185203727d" rel="nofollow">Full</a><br>
-<a href="https://duelingnexus.com/replay/3801de35-505c-4724-815a-27c52a49ab0a" rel="nofollow">Fuller</a><br>
-<a href="https://duelingnexus.com/replay/672e3822-5723-41e7-88dc-08bd206ad14f" rel="nofollow">Against Branded</a><br>
-<a href="https://duelingnexus.com/replay/c4ac0ac3-d0d2-44eb-8fc0-6892759a9bdc" rel="nofollow">Against Kashtira</a><br>
-<a href="https://duelingnexus.com/replay/2cf8cbbc-e82e-436a-ac25-e9ad90384c3d" rel="nofollow">Against Dogmatika</a></p>
-<div class="markdown-heading"><h3 class="heading-element">DuelingBook</h3><a id="user-content-duelingbook" class="anchor" aria-label="Permalink: DuelingBook" href="#duelingbook"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p><a href="https://duelingbook.com/replay?id=993175-47650375" rel="nofollow">Turn One</a><br>
-<a href="https://duelingbook.com/replay?id=993175-47650808" rel="nofollow">Insane Turn One</a></p>
-<br>
-<div class="markdown-heading"><h2 class="heading-element">Questions</h2><a id="user-content-questions" class="anchor" aria-label="Permalink: Questions" href="#questions"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<div class="markdown-heading"><h3 class="heading-element">Why no Cyber Angel Benten?</h3><a id="user-content-why-no-cyber-angel-benten" class="anchor" aria-label="Permalink: Why no Cyber Angel Benten?" href="#why-no-cyber-angel-benten"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>Yeah, I’d love to reliably have Diviner for Lv7 Synchro Monsters, but I just don’t feel good playing Benten – I don’t really want to spend a Ritual search on it, using it feels like degeneracy, and above all I just don’t like its art... at all.</p>
-<div class="markdown-heading"><h3 class="heading-element">Why Dogmatikabre instead of Dogmatikalamity?</h3><a id="user-content-why-dogmatikabre-instead-of-dogmatikalamity" class="anchor" aria-label="Permalink: Why Dogmatikabre instead of Dogmatikalamity?" href="#why-dogmatikabre-instead-of-dogmatikalamity"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
-<p>Sure, Dogmatikalamity lets you Tribute straight from the Extra Deck, but it has 3 major downsides – it can’t Ritual Summon from the Grave, it can’t be searched by Pre-Preparation of Rites, and it locks you out of the Extra Deck.</p>
-<p>Being able to revive from the Grave is huge, since it means we don’t need to keep the Dogmatika Ritual Monsters in Hand, and can Tribute them for Drytrons. Even if White Zoa being ripped from our Hand or Deck, we can still bring it back; we can even search it ourselves with Foolish Burial, if needed. It’s just far more flexible and versatile in general, particularly in late game, where Dogmatikalamity would otherwise be dead draw.</p>
-<p>Locking us out of the Extra Deck doesn’t matter too much, since we could just drop White Zoa at the end of our combo anyway; but if we have Dogmatikatrix, bringing out a Dogmatika Ritual Monster as soon as possible means we’d be able to see what our opponent is playing, and setup an endboard accordingly, or if we’re lacking cards we need, send an Arc Light from our Extra Deck for a clutch search.</p>
-<p>And of course, being searchable by Pre-Preparation of Rites is nice, freeing up our Zeta to search for Meteonis Drytron.</p>
-</details>
+<div class="markdown-heading"><h2 class="heading-element">Documentation</h2><a id="user-content-documentation" class="anchor" aria-label="Permalink: Documentation" href="#documentation"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<blockquote>
+<p>[!Note]
+If it isn’t abundantly clear already, this is entirely esoteric and <em>not</em> intended for actual use. For now.</p>
+<p>Regardless, here I’ll try to document all the defined keywords and all!</p>
+</blockquote>
+<div class="markdown-heading"><h3 class="heading-element">Types</h3><a id="user-content-types" class="anchor" aria-label="Permalink: Types" href="#types"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<div class="highlight highlight-source-coffee"><pre><span class="pl-c1">Boolean</span> <span class="pl-k">=</span> [TRUE<span class="pl-k">/</span>FALSE]
+Int
+List
+<span class="pl-v">None</span> <span class="pl-k">=</span> NONE
+Num
+<span class="pl-c1">String</span></pre></div>
+<div class="markdown-heading"><h3 class="heading-element">Constants</h3><a id="user-content-constants" class="anchor" aria-label="Permalink: Constants" href="#constants"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<div class="highlight highlight-source-coffee"><pre><span class="pl-v">Player</span> <span class="pl-k">=</span> [YOU<span class="pl-k">/</span>OPP]
+<span class="pl-v">Location</span> <span class="pl-k">=</span> [HAND<span class="pl-k">/</span>FIELD<span class="pl-k">/</span>DECK<span class="pl-k">/</span>EXTRA<span class="pl-k">/</span>GY<span class="pl-k">/</span>VOID]
+<span class="pl-v">Zone</span> <span class="pl-k">=</span> [MONSTER<span class="pl-k">/</span>ST<span class="pl-k">/</span>FIELD<span class="pl-k">/</span>EXTRA]
+
+<span class="pl-v">Attribute</span> <span class="pl-k">=</span> [FIRE<span class="pl-k">/</span>WATER<span class="pl-k">/</span>EARTH<span class="pl-k">/</span>WIND<span class="pl-k">/</span>LIGHT<span class="pl-k">/</span>DARK<span class="pl-k">/</span>DIVINE]
+<span class="pl-v">Type</span> <span class="pl-k">=</span> [Aqua<span class="pl-k">/</span><span class="pl-k">...</span><span class="pl-k">/</span>Zombie]
+<span class="pl-v">Ability</span> <span class="pl-k">=</span> [Gemini<span class="pl-k">/</span>Spirit<span class="pl-k">/</span>Toon<span class="pl-k">/</span>Tuner<span class="pl-k">/</span>Union]
+
+<span class="pl-v">Position</span> <span class="pl-k">=</span> [ATK<span class="pl-k">/</span>DEF]
+<span class="pl-v">Face</span> <span class="pl-k">=</span> [UP<span class="pl-k">/</span>DOWN]
+<span class="pl-v">Direction</span> <span class="pl-k">=</span> [T<span class="pl-k">/</span>L<span class="pl-k">/</span>D<span class="pl-k">/</span>R<span class="pl-k">/</span>TL<span class="pl-k">/</span>TR<span class="pl-k">/</span>DL<span class="pl-k">/</span>DR]</pre></div>
+<div class="markdown-heading"><h3 class="heading-element">Objects</h3><a id="user-content-objects" class="anchor" aria-label="Permalink: Objects" href="#objects"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<div class="highlight highlight-source-coffee"><pre><span class="pl-en">Player</span> {
+  <span class="pl-v">LP</span><span class="pl-k">:</span> Num
+}
+
+<span class="pl-en">Card</span> {
+  <span class="pl-en">type</span> [Monster<span class="pl-k">/</span>Spell<span class="pl-k">/</span>Trap]
+  <span class="pl-v">name</span><span class="pl-k">:</span> <span class="pl-c1">String</span>
+  <span class="pl-v">archetype</span><span class="pl-k">:</span> <span class="pl-c1">String</span> <span class="pl-k">=</span> NONE
+}
+
+Monster[Card] {
+  <span class="pl-v">ATK</span><span class="pl-k">:</span> Int<span class="pl-k">/</span><span class="pl-v">None</span> <span class="pl-k">=</span> <span class="pl-c1">0</span>
+  <span class="pl-v">DEF</span><span class="pl-k">:</span> Int<span class="pl-k">/</span><span class="pl-v">None</span> <span class="pl-k">=</span> <span class="pl-c1">0</span>
+  <span class="pl-v">effect</span><span class="pl-k">:</span> <span class="pl-c1">Boolean</span> <span class="pl-k">=</span> auto
+  <span class="pl-v">pendulum</span><span class="pl-k">:</span> <span class="pl-c1">Boolean</span> <span class="pl-k">=</span> FALSE
+  <span class="pl-v">kind</span><span class="pl-k">:</span> [<span class="pl-v">MAIN</span><span class="pl-k">/</span><span class="pl-v">EXTRA</span>] <span class="pl-k">=</span> NONE
+  <span class="pl-v">class</span><span class="pl-k">:</span> [Fusion<span class="pl-k">/</span>Synchro<span class="pl-k">/</span>Xyz<span class="pl-k">/</span>Link]
+  <span class="pl-v">attr</span><span class="pl-k">:</span> Attribute
+  <span class="pl-v">type</span><span class="pl-k">:</span> Type
+  <span class="pl-v">ability</span><span class="pl-k">:</span> Ability<span class="pl-k">/</span><span class="pl-v">s</span> <span class="pl-k">=</span> NONE
+  <span class="pl-v">level</span><span class="pl-k">:</span> <span class="pl-en">Int</span> [<span class="pl-c1">0</span><span class="pl-k">~</span><span class="pl-c1">13</span>]
+  <span class="pl-v">rank</span><span class="pl-k">:</span> <span class="pl-en">Int</span> [<span class="pl-c1">0</span><span class="pl-k">~</span><span class="pl-c1">13</span>] <span class="pl-k">=</span> NONE
+  <span class="pl-v">link</span><span class="pl-k">:</span> <span class="pl-en">Int</span> [<span class="pl-c1">1</span><span class="pl-k">~</span><span class="pl-c1">8</span>] <span class="pl-k">=</span> NONE
+  <span class="pl-v">arrows</span><span class="pl-k">:</span> Direction <span class="pl-k">/</span> List[Direction] <span class="pl-k">=</span> NONE
+  <span class="pl-v">pos</span><span class="pl-k">:</span> <span class="pl-v">Position</span> <span class="pl-k">=</span> ATK
+  <span class="pl-v">face</span><span class="pl-k">:</span> <span class="pl-v">Face</span> <span class="pl-k">=</span> UP
+}
+
+Spell[Card] {
+  <span class="pl-v">property</span><span class="pl-k">:</span> [Normal<span class="pl-k">/</span>Quick<span class="pl-k">/</span>Field<span class="pl-k">/</span>Cont<span class="pl-k">/</span>Equip<span class="pl-k">/</span>Ritual]
+}
+
+Trap[Card] {
+  <span class="pl-v">property</span><span class="pl-k">:</span> [Normal<span class="pl-k">/</span>Cont<span class="pl-k">/</span>Counter]
+}
+
+<span class="pl-en">Effect</span> {
+  <span class="pl-v">type</span><span class="pl-k">:</span> [NONE <span class="pl-sr"><span class="pl-pds">/</span> Quick<span class="pl-pds">/</span></span><span class="pl-k">?</span> <span class="pl-sr"><span class="pl-pds">/</span> Trigger<span class="pl-pds">/</span></span><span class="pl-k">?</span> <span class="pl-k">/</span> Ignit<span class="pl-k">?</span> <span class="pl-k">/</span> Cont]
+  <span class="pl-v">cool</span><span class="pl-k">:</span> [OPT<span class="pl-k">/</span>HOPT<span class="pl-k">/</span> <span class="pl-k">...</span>]
+}
+
+<span class="pl-en">Counter</span> {
+  <span class="pl-v">type</span><span class="pl-k">:</span> [Spell<span class="pl-k">/</span> <span class="pl-k">...</span>]
+}</pre></div>
+<div class="markdown-heading"><h3 class="heading-element">Actions</h3><a id="user-content-actions" class="anchor" aria-label="Permalink: Actions" href="#actions"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<div class="highlight highlight-source-coffee"><pre>.<span class="pl-en">Add</span>(
+  <span class="pl-v">source</span><span class="pl-k">:</span> <span class="pl-en">Location</span> [DECK<span class="pl-k">/</span>GY<span class="pl-k">/</span>VOID]
+  <span class="pl-v">dest</span><span class="pl-k">:</span> <span class="pl-en">Location</span> [HAND<span class="pl-k">/</span>EXTRA]
+  .<span class="pl-smi">target</span><span class="pl-k">:</span> Card<span class="pl-k">/</span>s
+) <span class="pl-k">-&gt;</span> Card<span class="pl-k">/</span>s
+
+.<span class="pl-en">Alt</span>(
+  <span class="pl-v">property</span><span class="pl-k">:</span> <span class="pl-en">Property</span> [LEVEL<span class="pl-k">/</span>TYPE<span class="pl-k">/</span>ATTR<span class="pl-k">/</span>ATK<span class="pl-k">/</span>DEF]
+  .<span class="pl-smi">target</span><span class="pl-k">:</span> Card<span class="pl-k">/</span>s
+  <span class="pl-v">value</span> <span class="pl-k">=</span> <span class="pl-k">?</span>
+)
+
+.<span class="pl-en">Apply</span>(
+  <span class="pl-v">effect</span><span class="pl-k">:</span> Effect<span class="pl-k">/</span>Condition
+  .<span class="pl-smi">target</span><span class="pl-k">:</span> Card<span class="pl-k">/</span>s
+)
+
+.<span class="pl-en">Attach</span>(
+  .<span class="pl-smi">target</span><span class="pl-k">:</span> Monster[Xyz]
+  <span class="pl-v">cards</span><span class="pl-k">:</span> Card
+)
+
+.<span class="pl-en">Attack</span>(
+  .<span class="pl-smi">source</span><span class="pl-k">:</span> <span class="pl-v">Monster</span> <span class="pl-k">=</span> SELF
+  <span class="pl-v">target</span><span class="pl-k">:</span> Monster<span class="pl-k">/</span>Player
+)
+
+.<span class="pl-en">Banish</span>(
+  <span class="pl-v">source</span><span class="pl-k">:</span> <span class="pl-en">Location</span> [<span class="pl-v">HAND</span><span class="pl-k">/</span><span class="pl-v">FIELD</span><span class="pl-k">/</span><span class="pl-v">DECK</span><span class="pl-k">/</span><span class="pl-v">EXTRA</span><span class="pl-k">/</span><span class="pl-v">GY</span>] <span class="pl-k">=</span> auto
+  .<span class="pl-smi">target</span><span class="pl-k">:</span> Card<span class="pl-k">/</span>s
+  <span class="pl-v">face</span><span class="pl-k">:</span> [<span class="pl-v">UP</span><span class="pl-k">/</span><span class="pl-v">DOWN</span>] <span class="pl-k">=</span> UP
+)
+
+.<span class="pl-en">Battle</span>(
+  .<span class="pl-smi">attack</span><span class="pl-k">:</span> Monster
+  <span class="pl-v">target</span><span class="pl-k">:</span> Monster
+)
+
+<span class="pl-en">Choose</span>(
+  {options}<span class="pl-k">:</span> Options
+) <span class="pl-k">-&gt;</span> Option<span class="pl-k">/</span>s
+
+.<span class="pl-en">Destroy</span>(
+  <span class="pl-v">source</span><span class="pl-k">:</span> <span class="pl-en">Location</span> [<span class="pl-v">HAND</span><span class="pl-k">/</span><span class="pl-v">FIELD</span><span class="pl-k">/</span><span class="pl-v">DECK</span><span class="pl-k">/</span><span class="pl-v">EXTRA</span>] <span class="pl-k">=</span> auto
+  .<span class="pl-smi">target</span><span class="pl-k">:</span> Card<span class="pl-k">/</span>s
+) <span class="pl-k">-&gt;</span> Card<span class="pl-k">/</span>s
+
+.<span class="pl-en">Detach</span>(
+  .<span class="pl-smi">target</span><span class="pl-k">:</span> Monster[Xyz]
+  <span class="pl-v">material</span><span class="pl-k">:</span> Int <span class="pl-k">/</span> Card<span class="pl-k">/</span><span class="pl-v">s</span> <span class="pl-k">=</span> <span class="pl-c1">1</span> <span class="pl-k">*</span> Card[]
+) <span class="pl-k">-&gt;</span> Card<span class="pl-k">/</span>s
+
+<span class="pl-en">Discard</span>(
+  <span class="pl-v">cards</span><span class="pl-k">:</span> Int <span class="pl-k">/</span> Card<span class="pl-k">/</span><span class="pl-v">s</span> <span class="pl-k">=</span> <span class="pl-c1">1</span> <span class="pl-k">*</span> Card[]
+) <span class="pl-k">-&gt;</span> Card<span class="pl-k">/</span>s
+
+<span class="pl-en">Draw</span>(
+  <span class="pl-v">count</span><span class="pl-k">:</span> <span class="pl-v">Int</span> <span class="pl-k">=</span> <span class="pl-c1">1</span>
+)
+
+<span class="pl-en">Excavate</span>(
+  <span class="pl-v">count</span><span class="pl-k">:</span> <span class="pl-v">Int</span> <span class="pl-k">=</span> <span class="pl-c1">1</span>
+) <span class="pl-k">-&gt;</span> Card<span class="pl-k">/</span>s
+
+<span class="pl-smi">player</span>.<span class="pl-en">Gain</span>(
+  <span class="pl-v">points</span><span class="pl-k">:</span> Int
+)
+
+<span class="pl-smi">Card</span>.<span class="pl-en">Gain</span>(
+  <span class="pl-v">effect</span><span class="pl-k">:</span> Effect<span class="pl-k">/</span>s
+)
+
+<span class="pl-en">Inflict</span>(
+  <span class="pl-v">damage</span><span class="pl-k">:</span> Int
+)
+
+.<span class="pl-en">Leave</span>(
+  .<span class="pl-smi">target</span><span class="pl-k">:</span> Card<span class="pl-k">/</span>s
+  <span class="pl-v">loc</span><span class="pl-k">:</span> Location
+) <span class="pl-k">-&gt;</span> Card<span class="pl-k">/</span>s
+
+.<span class="pl-en">Negate</span>(
+  .<span class="pl-smi">target</span><span class="pl-k">:</span> Event
+  <span class="pl-v">kind</span><span class="pl-k">:</span> [effect<span class="pl-k">/</span>activation]
+)
+
+.<span class="pl-en">Return</span>(
+  <span class="pl-v">source</span><span class="pl-k">:</span> <span class="pl-en">Location</span> [FIELD<span class="pl-k">/</span>GY<span class="pl-k">/</span>VOID]
+  <span class="pl-v">dest</span><span class="pl-k">:</span> <span class="pl-en">Location</span> [HAND<span class="pl-k">/</span>EXTRA<span class="pl-k">/</span>GY]
+  .<span class="pl-smi">target</span><span class="pl-k">:</span> Card<span class="pl-k">/</span>s
+) <span class="pl-k">-&gt;</span> Card<span class="pl-k">/</span>s
+
+.<span class="pl-en">Reveal</span>(
+  <span class="pl-v">source</span><span class="pl-k">:</span> <span class="pl-en">Location</span> [HAND<span class="pl-k">/</span>DECK<span class="pl-k">/</span>EXTRA]
+  .<span class="pl-smi">target</span><span class="pl-k">:</span> Card<span class="pl-k">/</span>s
+) <span class="pl-k">-&gt;</span> Card<span class="pl-k">/</span>s
+
+.<span class="pl-en">Send</span>(
+  <span class="pl-v">source</span><span class="pl-k">:</span> <span class="pl-en">Location</span> [HAND<span class="pl-k">/</span>FIELD<span class="pl-k">/</span>DECK<span class="pl-k">/</span>EXTRA]
+  <span class="pl-v">dest</span><span class="pl-k">:</span> <span class="pl-en">Location</span> [<span class="pl-v">GY</span>] <span class="pl-k">=</span> <span class="pl-c1">YOU</span>.<span class="pl-c1">GY</span>
+  .<span class="pl-smi">target</span><span class="pl-k">:</span> Card<span class="pl-k">/</span>s
+) <span class="pl-k">-&gt;</span> Card<span class="pl-k">/</span>s
+
+.<span class="pl-en">Shuffle</span>(
+  <span class="pl-v">source</span><span class="pl-k">:</span> <span class="pl-en">Location</span> [HAND<span class="pl-k">/</span>FIELD<span class="pl-k">/</span>GY<span class="pl-k">/</span>VOID]
+  <span class="pl-v">dest</span><span class="pl-k">:</span> <span class="pl-en">Location</span> [DECK<span class="pl-k">/</span>EXTRA]
+  .<span class="pl-smi">target</span><span class="pl-k">:</span> Card<span class="pl-k">/</span>s
+)
+
+.<span class="pl-en">Summon</span>(
+  <span class="pl-v">source</span><span class="pl-k">:</span> <span class="pl-en">Location</span> [HAND<span class="pl-k">/</span>FIELD<span class="pl-k">/</span>DECK<span class="pl-k">/</span>EXTRA<span class="pl-k">/</span>GY<span class="pl-k">/</span>VOID]
+  .<span class="pl-smi">target</span><span class="pl-k">:</span> Monster<span class="pl-k">/</span>s
+)
+
+.<span class="pl-en">Use</span>(
+  .<span class="pl-smi">target</span><span class="pl-k">:</span> Card<span class="pl-k">/</span>Player
+  <span class="pl-v">use</span><span class="pl-k">:</span> Effect <span class="pl-k">/</span> <span class="pl-k">...</span>
+)
+
+.<span class="pl-en">Target</span>(
+  .<span class="pl-smi">target</span><span class="pl-k">:</span> Card<span class="pl-k">/</span>s
+) <span class="pl-k">-&gt;</span> Card<span class="pl-k">/</span>s</pre></div>
+<div class="markdown-heading"><h3 class="heading-element">Functions</h3><a id="user-content-functions" class="anchor" aria-label="Permalink: Functions" href="#functions"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<div class="highlight highlight-source-coffee"><pre>.<span class="pl-en">Count</span>(
+  .<span class="pl-smi">list</span><span class="pl-k">:</span> List
+  <span class="pl-v">target</span><span class="pl-k">:</span> Item<span class="pl-k">/</span>s <span class="pl-k">/</span> 
+)</pre></div>
