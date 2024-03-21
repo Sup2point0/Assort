@@ -1,6 +1,8 @@
 name: Quarkup
 
 on:
+  workflow_dispatch:
+
   push:
     paths:
       - '**.md'
