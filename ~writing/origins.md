@@ -1,4 +1,5 @@
 # *On the Origins of Sup#2.0*
+<!-- #QUARK LIVE -->
 <!-- ↗ ↑ ↓ -->
 
 <details>
@@ -565,3 +566,8 @@ Just in case you’re still bored.
 > Due to Markdown limitations, references and footnotes are listed together.
 
 <!-- Yes, we’re doing this. -->
+
+<!-- #QUARK META
+PATH origins
+STYLE #AUTO
+-->
