@@ -45,7 +45,7 @@ h3 {
 }
 
 code {
-  font-size: 1.69em;
+  color: var(--mellow-cresc);
   font-family: var(--font-code);
   font-weight: 400;
 }
