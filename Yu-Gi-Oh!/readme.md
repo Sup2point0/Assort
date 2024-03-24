@@ -1,4 +1,5 @@
 # *Yu-Gi-Oh!*
+<!-- #QUARK LIVE -->
 
 I’ve played *Yu-Gi-Oh!* ever since I was a child, with a fairly long interlude during the *VRAINS* era. Not too long ago, I fell in love with it once more, being utterly blown away when I discovered I could create *and play with* my own custom cards on *DuelingBook*. That then led me to try the actual game again, and I crafted a *Raidraptor* deck (since I loved [Kurosaki<sup>↗</sup>](https://yugipedia.com/wiki/Shay_Obsidian) from *ARC-V*) on [*DuelingNexus*<sup>↗</sup>](https://duelingnexus.com), picking up (surprisingly quickly, I must say) what modern Yu-Gi-Oh feels like.
 
@@ -91,3 +92,9 @@ I’ve played with a couple of decks in my time, but I’m not really one to pla
 ## Content
 
 Naturally, I watched some of [*Duel Monsters*<sup>↗</sup>](https://yugipedia.com/wiki/Yu-Gi-Oh!_(anime)) (the [*Battle City*<sup>↗</sup>](https://yugipedia.com/wiki/Battle_City_(disambiguation)) arc, I believe?). I’ve now watched all of [*ARC-V*<sup>↗</sup>](https://yugipedia.com/wiki/Yu-Gi-Oh!_ARC-V) and [*VRAINS*<sup>↗</sup>](https://yugipedia.com/wiki/Yu-Gi-Oh!_VRAINS) (in that order), and I’m currently (not) watching [*ZEXAL*<sup>↗</sup>](https://yugipedia.com/wiki/Yu-Gi-Oh!_ZEXAL).
+
+<!-- #QUARK META
+EXPORT yu-gi-oh/index
+STYLE #AUTO
+POLARITY #DARK
+-->
