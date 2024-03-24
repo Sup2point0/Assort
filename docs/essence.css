@@ -50,7 +50,6 @@ code {
   font-weight: 400;
 }
 
-/* property */
 em {
   font-variation-settings: "slnt" -2;
 }
@@ -58,12 +57,16 @@ h1 em, h2 em, h3 em {
   font-variation-settings: "slnt" -4;
 }
 
+strong {
+  font-weight: bolder;
+}
+
 a {
   display: inline-block;
   position: relative;
   text-decoration: none;
   color: var(--blue-cresc);
-  transition: .1s;
+  transition: .12s;
 }
 a:after {
   content: '';
@@ -74,7 +77,7 @@ a:after {
   height: 0.05rem;
   background-color: var(--blue-nova);
   transform: scaleX(0);
-  transform-origin: bottom right;
+  transform-origin: right;
   transition: transform .1s ease-out;
 }
 a:hover {
@@ -82,7 +85,7 @@ a:hover {
 }
 a:hover:after {
   transform: scaleX(1);
-  transform-origin: bottom left;
+  transform-origin: left;
 }
 a:visited {
   color: var(--lilac-cresc);
@@ -96,7 +99,8 @@ a:visited:hover {
 
 /* specific */
 #core {
-  margin: min(10px, 20vw);
+  margin-left: min(10px, 20vw);
+  margin-right: min(10px, 20vw);
   color: #fff;
 }
 
