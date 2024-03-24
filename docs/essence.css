@@ -96,7 +96,7 @@ a:visited:hover {
 
 /* specific */
 #core {
-  margin: 0 20%;
+  margin: 0 min(10px, 20vw);
   color: #fff;
 }
 
