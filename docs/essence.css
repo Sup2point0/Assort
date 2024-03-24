@@ -18,13 +18,12 @@ body {
   margin: 0px;
   background-color: var(--blue-night);
   color: #fff;
-  font-size: 1.44em
+  font-size: 1.44em;
   font-family: var(--font-body);
 }
 
 /* core */
 p {
-  font-size: 1.44em;
   font-weight: 200;
 }
 
