@@ -1,4 +1,5 @@
 # Xeriqui
+<!-- #QUARK LIVE -->
 
 A fictional theory of existence and reality.
 
@@ -35,3 +36,9 @@ And don’t we all love an inter-dimensional world-destruction war between 2 sup
 Of course, in the end, everything is a human construct.
 
 Who knows what’s out there?
+
+<!-- #QUARK META
+EXPORT xeriqui/index
+STYLE #AUTO
+POLARITY #DARK
+-->
