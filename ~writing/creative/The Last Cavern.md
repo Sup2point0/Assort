@@ -1,3 +1,6 @@
+# The Last Cavern
+<!-- #QUARK LIVE -->
+
 It’s always an excursion getting here, but it’s always worth it.  
 &emsp; No one, to my knowledge, has ever discovered this place. It’s shielded behind several layers of ancient ice pillars, perfectly arranged as if by some supernatural force so that they totally conceal what’s inside to the unobservant eye. From afar, the opening appears as only a jagged crack in an ordinary crevice of just another ice cliff, unappealing to even the most curious of adventurers; except, it seems, me.  
 &emsp; I dart and settle onto my usual perching spot, brushing off a couple blue flakes of ice off my hair. They flutter down onto the loose soil, seamlessly melding into the dirt without a trace. It’s wonderful, how they collapse from their flakes and fractals, into a miniscule droplet of freezing water that burrows into the earth. In time, I drop down and collapse onto the soil myself. I dig my hands into it, slowly, savouring the tender strokes as the crumbs of silt pour over my skin to fill the empty space. The darkness of it contrasts so distinctly with the pale white of my skin. It’s slightly warm to the touch, warmer than me. There’s no soil like this anymore.  
@@ -12,3 +15,8 @@ It’s always an excursion getting here, but it’s always worth it.
 
 
 (June 2022)
+
+<!-- #QUARK META
+EXPORT the-last-cavern
+STYLE #CREATIVE
+-->
