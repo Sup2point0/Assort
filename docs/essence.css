@@ -35,7 +35,7 @@ h2 {
   font-size: 2em;
   font-family: var(--font-head);
   font-weight: 600;
-  border-bottom: 1em solid var(--teal-elec)
+  border-bottom: 5px solid var(--teal-elec)
 }
 h3 {
   font-size: 1.69em;
