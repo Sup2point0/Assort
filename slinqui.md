@@ -1,4 +1,5 @@
 # Slinqui
+<!-- #QUARK LIVE -->
 
 An [assortacion](... 'assortment') of my [varical](... 'various') [inventen](... 'invented') phrases and [terminologics](... 'terminology').
 
@@ -17,3 +18,9 @@ An [assortacion](... 'assortment') of my [varical](... 'various') [inventen](...
 | stroking / tweaking your bones | Parody of ‘pulling your leg’, just a reference to the fact that I really like BONES fsr. | *don’t worry, I’m only stroking your bones.* |
 | yeup | ‘yep’ + ‘yup’. Reflects the drawn out ‘yee-up’ for humourous confirmation. | *yeup, we’re screwed.* |
 | ytf | ‘Why the f\*\*\*’, parody of ‘wtf’. | *ytf does this taste so delicious* |
+
+<!-- #QUARK META
+EXPORT slinqui
+STYLE #PERSONAL
+POLARITY #DARK
+-->
