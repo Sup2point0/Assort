@@ -99,8 +99,8 @@ a:visited:hover {
 
 /* specific */
 #core {
-  margin-left: min(10px, 20vw);
-  margin-right: min(10px, 20vw);
+  margin-left: min(100px, 20vw);
+  margin-right: min(100px, 20vw);
   color: #fff;
 }
 
