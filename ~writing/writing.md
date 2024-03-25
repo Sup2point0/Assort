@@ -1,4 +1,5 @@
 # writing.
+<!-- #QUARK LIVE -->
 
 Why do we write?
 
@@ -45,3 +46,7 @@ As always, it is the self-questioning, and the self-doubt. I don’t know, and h
 Our minds are an infinite universe, and these symbols can only hope to capture a tiny snapshot of that.
 
 It’s imperfect, it’s incomplete, it’s flawed, but it’ll... have to do.
+
+<!-- #QUARK META
+EXPORT writing
+-->
