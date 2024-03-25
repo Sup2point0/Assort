@@ -1,4 +1,5 @@
 # Expanse
+<!-- #QUARK LIVE -->
 
 They had told me what to expect. I came anyway.  
 &emsp; Through the lacerated, parched surface of the view pane, a glimmer of white slips through, trailing the piercing echo of a harsh landscape outside. My eyes instinctively squint, expecting light – but the outside world is dark. It has been for a long time. I prop myself up, and gaze out, scrutinizing whatever is visible. Among the murky haze, I can just make out the indistinct outlines of the barren plains, covered in silver snow, shaped by years of abrasion. They stretch into the distance, endless.  
@@ -14,3 +15,8 @@ They had told me what to expect. I came anyway.
 
 
 (March 2022)
+
+<!-- #QUARK META
+EXPORT expanse
+STYLE #CREATIVE
+-->
