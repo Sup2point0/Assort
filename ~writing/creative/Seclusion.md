@@ -1,4 +1,5 @@
 # Seclusion
+<!-- #QUARK LIVE -->
 
 Like yesterday, and the day before, and every other day for as long as I can remember, I gaze out to the morning sea.  
 &emsp; Except in winter, you never know when it’s morning, since the Sun doesn’t rise down here in Antarctica. I choose when to awaken, and when it’s time to go back to sleep. There’s no concept of days, or nights, or time. It’s eternally dark until summer, which is the only time that matters.  
@@ -16,3 +17,8 @@ Like yesterday, and the day before, and every other day for as long as I can rem
 
 
 (June 2022)
+
+<!-- #QUARK META
+EXPORT seclusion
+STYLE #CREATIVE
+-->
