@@ -7,10 +7,12 @@
 
 &ensp; *Assort* (origin). v2.0.0, 2024 ~ ~.  
 &ensp; ~writing/origins.md.  
-&ensp; © 2024 Sup#2.0 (<https://github.com/Sup2point0>)  
+&ensp; © 2024 Sup#2.0 (<https://github.com/Sup2point0>) 
+<!-- #QUARK LEAVE -->
 &ensp; ACI: `20.04.`  
 &ensp; CXUL: `SP-LR-AS-AQ`  
 &ensp; IQTS: `6x3sF7-e2kzW0.02d`  
+<!-- #QUARK LEFT -->
 
 </details>
 
