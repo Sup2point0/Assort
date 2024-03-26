@@ -26,19 +26,24 @@ p {
 }
 
 h1 {
+  padding: 0px;
   text-align: center;
   font-size: 4em;
   font-family: var(--font-title);
   font-weight: 500;
 }
 h2 {
-  padding-bottom: 8px;
+  margin-top: 1em;
+  margin-bottom: 0em;
+  padding-bottom: 0.2em;
   font-size: 2em;
   font-family: var(--font-head);
   font-weight: 600;
   border-bottom: 3.5px solid var(--teal-elec)
 }
 h3 {
+  margin-top: 0.5em;
+  margin-bottom: 0em;
   font-size: 1.69em;
   font-family: var(--font-head);
   font-weight: 500;
@@ -108,9 +113,8 @@ a:visited:hover {
 }
 
 /* specific */
-#core {
-  margin-left: min(100px, 20vw);
-  margin-right: min(100px, 20vw);
+#content {
+  margin: 0 min(169px, 20vw);
   color: #fff;
 }
 
