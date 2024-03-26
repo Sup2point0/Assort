@@ -32,10 +32,11 @@ h1 {
   font-weight: 500;
 }
 h2 {
+  padding-bottom: 8px;
   font-size: 2em;
   font-family: var(--font-head);
   font-weight: 600;
-  border-bottom: 5px solid var(--teal-elec)
+  border-bottom: 4px solid var(--teal-elec)
 }
 h3 {
   font-size: 1.69em;
@@ -48,6 +49,15 @@ code {
   font-size: 80%;
   font-family: var(--font-code);
   font-weight: 400;
+}
+
+td {
+  font-size: 69%;
+}
+th {
+  font-size: 69%;
+  font-family: var(--font-head);
+  font-weight: 500;
 }
 
 em {
