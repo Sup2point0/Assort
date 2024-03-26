@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+
+<!-- Quarkdown Template v1.2.0 -->
+<html>
+
+<head>
+  <link href="nova.css" rel="stylesheet">
+  <link href="essence.css" rel="stylesheet">
+</head>
+
+<body style="--darkness: False">
+  <article>
+  
+    <div id="header">
+      
+    </div>
+
+    <div id="content">
+      <div class="markdown-heading"><h1 class="heading-element">What’s up with my Python syntax?</h1><a id="user-content-whats-up-with-my-python-syntax" class="anchor" aria-label="Permalink: What’s up with my Python syntax?" href="#whats-up-with-my-python-syntax"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<p>&lt;-- #QUARK LIVE --&gt;</p>
+<p>If you‘ve taken a look at any of my code written in Python, you may have noticed its syntax is perhaps unconventional in many aspects – nothing that actually affects functionality, but plenty of idiosyncrasies that would immediately stick out to any seasoned Pythonista. I am well aware of this, and I apologise if this has caused any difficulty or distress (as I have been notified of – on several occasions) to anyone perusing my code.</p>
+<p>I tend to hold very specific personal preferences, especially when it comes to aesthetics. This, of course, means I pay meticulous attention to detail, and care (perhaps a little too much) about how my code looks.<sup><a href="#fn-time" id="user-content-fnref-time" data-footnote-ref="">1</a></sup> It working is just one aspect; cleaning, optimising, and refining continue for much longer. Ultimately, I endure in this because I have high standards for myself: I endeavour to write clean, clear and consistent code.<sup><a href="#fn-standard" id="user-content-fnref-standard" data-footnote-ref="">2</a></sup> I genuinely believe my style is more effective at achieving this than ‘standard’ Python code conforming to <a href="https://peps.python.org/pep-0008/" rel="nofollow">PEP 8</a>.<sup><a href="#fn-pep" id="user-content-fnref-pep" data-footnote-ref="">3</a></sup> Every instance where I deviate from convention was a justified and thought-out decision, and each has been reconsidered several times afterwards.</p>
+<p>I very much agree (from experience) that “code is read far more than it is written”.<sup><a href="#fn-code" id="user-content-fnref-code" data-footnote-ref="">4</a></sup> My first large-scale Python project, a <a href="https://github.com/Sup2point0/PENGUIN">multi-purpose Discord bot^</a>, contains some of the most (objectively) horrific code I have ever written, with utterly obfuscated names, ridiculous line breaking, and far too many one-liners.<sup><a href="#fn-line" id="user-content-fnref-line" data-footnote-ref="">5</a></sup> I still look back fondly on the code for sure, since it is just so <em>me</em> – but to anyone who might decide to go back and work on it,<sup><a href="#fn-work" id="user-content-fnref-work" data-footnote-ref="">6</a></sup> uh, you might wanna procure some spare replacement brain cells.<sup><a href="#fn-brain-cells" id="user-content-fnref-brain-cells" data-footnote-ref="">7</a></sup></p>
+<p>At the time, like any programmer who has gone through the journey of development, I thought, <em>yeah, I’ll perfectly understand how all this works years on</em>. And now? Oh yeah no, I actually still pretty much get how it works,<sup><a href="#fn-get" id="user-content-fnref-get" data-footnote-ref="">8</a></sup> but that isn’t to say that continuing development wouldn’t be a nightmare. Cuz it absolutely would be. So many names to re-familiarise with. Dependencies I forgot existed. Navigating the abject mess that is PENGUIN’s 2000+ line <code>main.py</code> file.</p>
+<p>Oh, and I can still write convention-conforming Python code, I just much prefer writing it in my style, and so that’s the kind you’ll see throughout most of my projects. Some that I intend to be a little more ‘public’ (projects that are a little less ‘casual’, I suppose) will have perhaps less ‘flavourful’ code.<sup><a href="#fn-flavour" id="user-content-fnref-flavour" data-footnote-ref="">9</a></sup> Whenever I work collaboratively though, I’m perfectly happy to adjust to whichever style or standard the team is following. Even if it kills me a little inside.</p>
+<p>Of course, I am only human,<sup><a href="#fn-sup" id="user-content-fnref-sup" data-footnote-ref="">10</a></sup><sup><a href="#fn-sip" id="user-content-fnref-sip" data-footnote-ref="">11</a></sup> so I’m not perfect, and neither is the code I write.</p>
+<br>
+<div class="markdown-heading"><h2 class="heading-element">Analysis</h2><a id="user-content-analysis" class="anchor" aria-label="Permalink: Analysis" href="#analysis"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<p>To illustrate the difference, consider the following ‘standard’ Python code:</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-k">class</span> <span class="pl-v">Soup</span>:
+    <span class="pl-s">"""Showing what standard Python code looks like."""</span>
+
+    <span class="pl-k">def</span> <span class="pl-en">__init__</span>(<span class="pl-s1">self</span>, <span class="pl-s1">flavour</span>: <span class="pl-s1">str</span> <span class="pl-c1">=</span> <span class="pl-s">'mushroom'</span>, <span class="pl-s1">hot</span><span class="pl-c1">=</span><span class="pl-c1">True</span>):
+        <span class="pl-s">"""Cook up some soup."""</span>
+        <span class="pl-s1">self</span>.<span class="pl-s1">flavour</span> <span class="pl-c1">=</span> <span class="pl-s1">flavour</span>
+        <span class="pl-s1">self</span>.<span class="pl-s1">hot</span> <span class="pl-c1">=</span> <span class="pl-s1">hot</span>
+        <span class="pl-k">if</span> <span class="pl-s1">hot</span>:
+            <span class="pl-s1">self</span>.<span class="pl-s1">notes</span> <span class="pl-c1">=</span> <span class="pl-s">'warning: hot'</span>
+        <span class="pl-k">else</span>:
+            <span class="pl-s1">self</span>.<span class="pl-s1">notes</span> <span class="pl-c1">=</span> <span class="pl-s">'warning: delicious'</span>
+        <span class="pl-s1">self</span>.<span class="pl-s1">content</span> <span class="pl-c1">=</span> <span class="pl-c1">1.0</span>
+
+<span class="pl-s1">supSoup</span> <span class="pl-c1">=</span> <span class="pl-v">Soup</span>(<span class="pl-s1">hot</span><span class="pl-c1">=</span><span class="pl-c1">False</span>)</pre></div>
+<p>And this is how it looks nicest to me:</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-k">class</span> <span class="pl-v">Soup</span>:
+  <span class="pl-s">'''Showing what my Python code looks like.'''</span>
+
+  <span class="pl-k">def</span> <span class="pl-en">__init__</span>(<span class="pl-s1">self</span>, <span class="pl-s1">flavour</span>: <span class="pl-s1">str</span> <span class="pl-c1">=</span> <span class="pl-s">'mushroom'</span>, <span class="pl-s1">hot</span> <span class="pl-c1">=</span> <span class="pl-c1">True</span>):
+    <span class="pl-s">'''Cook up some soup.'''</span>
+
+    <span class="pl-s1">self</span>.<span class="pl-s1">flavour</span> <span class="pl-c1">=</span> <span class="pl-s1">flavour</span>
+
+    <span class="pl-s1">self</span>.<span class="pl-s1">hot</span> <span class="pl-c1">=</span> <span class="pl-s1">hot</span>
+    <span class="pl-k">if</span> <span class="pl-s1">hot</span>:
+      <span class="pl-s1">self</span>.<span class="pl-s1">notes</span> <span class="pl-c1">=</span> <span class="pl-s">"warning: hot"</span>
+    <span class="pl-k">else</span>:
+      <span class="pl-s1">self</span>.<span class="pl-s1">notes</span> <span class="pl-c1">=</span> <span class="pl-s">"warning: delicious"</span>
+
+    <span class="pl-s1">self</span>.<span class="pl-s1">content</span> <span class="pl-c1">=</span> <span class="pl-c1">1.0</span>
+
+
+<span class="pl-s1">sup_soup</span> <span class="pl-c1">=</span> <span class="pl-v">Soup</span>(<span class="pl-s1">hot</span> <span class="pl-c1">=</span> <span class="pl-c1">False</span>)</pre></div>
+<p>Which of these are ‘better’ is certainly dependent on the reader. For me at least, the latter is far nicer, consistent, and clear.</p>
+<div class="markdown-heading"><h3 class="heading-element">Whitespace</h3><a id="user-content-whitespace" class="anchor" aria-label="Permalink: Whitespace" href="#whitespace"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<p>This is probably the defining characteristic of my code, and also the most difficult to justify and manage. There are several kinds of whitespace – literal space characters, line breaks, and empty lines themselves.</p>
+<p>Firstly, I use 2-space indentation. Always have done, and most likely always will. I really don't like how expanded 4-space indentation looks; 2-space just appears far neater and more subtle. 4-space might be better for clarity with really deep nesting, but like... just don’t nest that that far?</p>
+<p>Let’s talk about keyword arguments. Of all the things in PEP 8, this is the one I hate most.<sup><a href="#fn-hate" id="user-content-fnref-hate" data-footnote-ref="">12</a></sup> Convention is to not add spaces around the <code>=</code>, like so:</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-k">async</span> <span class="pl-k">def</span> <span class="pl-en">unpep</span>(<span class="pl-s1">source</span>, <span class="pl-s1">style</span><span class="pl-c1">=</span><span class="pl-s">'sup'</span>, <span class="pl-s1">light</span><span class="pl-c1">=</span><span class="pl-c1">False</span>):
+  ...
+
+<span class="pl-k">await</span> <span class="pl-en">unpep</span>(<span class="pl-s1">source</span><span class="pl-c1">=</span>[], <span class="pl-s1">style</span><span class="pl-c1">=</span><span class="pl-s">'soup'</span>, <span class="pl-s1">light</span><span class="pl-c1">=</span><span class="pl-c1">True</span>)</pre></div>
+<p>I mean, I get that it looks neater with loads of parameters on a single line. It even looks kinda neat with just one. But when you’re splitting them over multiple lines:</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-s1">obj</span> <span class="pl-c1">=</span> <span class="pl-v">Class</span>(
+  <span class="pl-s1">prop</span><span class="pl-c1">=</span><span class="pl-s1">val</span>,
+  <span class="pl-s1">attr</span><span class="pl-c1">=</span><span class="pl-s1">var</span>,
+  <span class="pl-s1">nice</span><span class="pl-c1">=</span><span class="pl-c1">False</span>,
+)
+<span class="pl-s1">soup</span> <span class="pl-c1">=</span> <span class="pl-s1">obj</span>.<span class="pl-s1">sup</span></pre></div>
+<p>Look at that inconsistency. Some <code>=</code> with spaces, and some without. WHY. Why would you not add spaces. And what if your argument is really long too?</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-k">await</span> <span class="pl-en">unpep</span>(
+  <span class="pl-s1">source</span><span class="pl-c1">=</span><span class="pl-s1">a_dict</span>[<span class="pl-s1">a_key</span>] <span class="pl-c1">*</span> <span class="pl-s1">a_val</span>,
+  <span class="pl-s1">style</span><span class="pl-c1">=</span><span class="pl-en">a_func</span>(<span class="pl-s1">a_par</span>),
+  <span class="pl-s1">light</span><span class="pl-c1">=</span><span class="pl-en">bool</span>(<span class="pl-s1">a_object</span>.<span class="pl-en">a_method</span>()),
+)</pre></div>
+<p>An absolute mess. The <code>a_dict[a_key]</code> looks like one entity with the <code>source=</code> while <code>* a_val</code> is separate. True, you could assign them to variables beforehand and pass in the short variable names. But sometimes that’s just a bit long-winded – say we’re creating UI elements and need to do some calculations for each of their properties. Maybe we’re defining them directly in a list, so creating the variables for those properties would need to go outside of the list definition. That could be a <em>long</em> way away.</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-s1">obj1_attr1</span> <span class="pl-c1">=</span> <span class="pl-c1">-</span><span class="pl-c1">1</span> <span class="pl-c1">*</span> (<span class="pl-en">calcx</span>() <span class="pl-c1">-</span> <span class="pl-en">calcy</span>())
+<span class="pl-s1">obj1_attr2</span> <span class="pl-c1">=</span> ...
+<span class="pl-s1">obj2_attr1</span> <span class="pl-c1">=</span> ...
+...
+
+<span class="pl-s1">objects</span> <span class="pl-c1">=</span> [
+  <span class="pl-v">Class</span>(
+    <span class="pl-s1">attr1</span><span class="pl-c1">=</span><span class="pl-s1">obj1_attr1</span>,
+    <span class="pl-s1">attr2</span><span class="pl-c1">=</span>...,
+    ...,
+  ),
+  <span class="pl-v">Class</span>(
+    <span class="pl-s1">attr1</span><span class="pl-c1">=</span><span class="pl-s1">obj2_attr1</span>,
+    ...,
+  ),
+]
+
+<span class="pl-c"># really?</span></pre></div>
+<p>What really gets me is what happens when you add type hints.</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-k">def</span> <span class="pl-en">typetest</span>(<span class="pl-s1">source</span><span class="pl-c1">=</span><span class="pl-c1">None</span>, <span class="pl-s1">dur</span>: <span class="pl-s1">int</span> <span class="pl-c1">=</span> <span class="pl-c1">60</span>, <span class="pl-s1">numbers</span><span class="pl-c1">=</span><span class="pl-c1">False</span>):
+  ...</pre></div>
+<p>The inconsistency – it’s unbelievable. An <code>=</code> without spaces, then one with, followed by another without. Like I seriously don’t understand. Why would you do this. Just add spaces around all of them, it’s so much neater.</p>
+<p>One of the things I often find most difficult when browsing (specifically Python) code written by others is identifying the structure, especially when there are many lines of code one after the other without any kind of segmentation. Of course, if they're all doing the same or similar thing, that's fair enough. But things like nested loops and if-else statements and all can get pretty unwieldy to navigate.</p>
+<div class="markdown-heading"><h3 class="heading-element">Quotes</h3><a id="user-content-quotes" class="anchor" aria-label="Permalink: Quotes" href="#quotes"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<p>For strings in Python one can use either <code>'single'</code> or <code>"double"</code> quotes, generally left as a matter of preference. Since the Python interpreter outputs strings with single quotes, I take this to be the default.</p>
+<p>Single quotes are indeed much cleaner than double quotes – especially considering the monospace typefaces used in coding, which leave the <code>"2"</code> quote marks of double quotes somewhat cramped. Often, when I compare single-quote strings to double-quote strings, it seems like the choice would be obvious.</p>
+<p>Yet single quotes have one downside in that using an apostrophe in the string requires a <code>\</code> to escape it. The same of course also applies for double quotes, but as it happens single quotes run into this issue far more, since apostrophes are so much more likely to show up in strings for possessives and contractions. Hence, double quotes for strings.</p>
+<p>But then when it comes to multi-line strings, you no longer have to worry about escaping quote marks at all (unless your text happens to have 3 or more consecutive quote marks, which is generally quite rare). So in this case, I see no reason not to use the far cleaner single quotes <code>'''</code> instead of <code>"""</code>. I honestly don't get why PEP 8 recommends using <code>"""</code> for docstrings so much, but honestly I doubt anyone really cares.</p>
+<div class="markdown-heading"><h3 class="heading-element">Names</h3><a id="user-content-names" class="anchor" aria-label="Permalink: Names" href="#names"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<p>I was debating over whether to even discuss this here, but I think it's relevant enough.</p>
+<p>It’s said there are only 2 hard things in computer science: cache invalidation and naming things.<sup><a href="#fn-hard" id="user-content-fnref-hard" data-footnote-ref="">13</a></sup> I have yet to utilise caching, but boy does the latter one hit hard.</p>
+<p>I’ve made a meme before about my time distribution when programming, and it’s unfortunately scarily accurate.<sup><a href="#fn-accurate" id="user-content-fnref-accurate" data-footnote-ref="">14</a></sup> I probably care way too much about names. See, I find that the perfect name should be clear, concise, cool, maybe a little obfuscated, and ideally only a single word. Like <code>core</code>, <code>slot</code>, <code>pick</code>. But that’s a lotta requirements to fulfil, <em>especially</em> if you’re tryna do it for every single object. Naturally, that’s exactly what I try to do.</p>
+<p>I honestly don’t really like <code>camelCase</code>. Or <code>snake_case</code> either. It just feels uncomfortable having object names where some have to that extra modifier because their name is longer. It’s definitely worse for <code>camelCase</code> since the change in capitalisation is kinda jarring, but the <code>_</code> in <code>snake_case</code> can also stick out.</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-s1">var</span>: <span class="pl-s1">str</span>
+<span class="pl-s1">myObject</span>: <span class="pl-v">MyClass</span>
+<span class="pl-s1">dangThatsALongName</span> <span class="pl-c1">=</span> <span class="pl-c1">None</span>
+
+<span class="pl-s1">val</span>: <span class="pl-s1">int</span>
+<span class="pl-s1">my_function</span>: <span class="pl-v">MyLambda</span>
+<span class="pl-en">would_you_stop_already</span>()</pre></div>
+<p>In cases where I can, I refactor the code to use a <code>.</code> attribute accessor instead. For instance:</p>
+<div class="highlight highlight-source-python"><pre><span class="pl-c"># this...</span>
+<span class="pl-s1">screen_width</span> <span class="pl-c1">=</span> <span class="pl-c1">1600</span>
+<span class="pl-s1">screen_height</span> <span class="pl-c1">=</span> <span class="pl-c1">900</span>
+
+<span class="pl-c"># goes to:</span>
+<span class="pl-k">class</span> <span class="pl-s1">screen</span>:
+<span class="pl-s1">width</span> <span class="pl-c1">=</span> <span class="pl-c1">1600</span>
+<span class="pl-s1">height</span> <span class="pl-c1">=</span> <span class="pl-c1">900</span></pre></div>
+<p>I really love this technique. It’s a fantastic way to segment and categorise objects, works well with global cross-file variables, and... I actually don’t see why there aren’t more people using it. Not just in Python, but in any language. Maybe there’s a non-obvious<sup><a href="#fn-obvious" id="user-content-fnref-obvious" data-footnote-ref="">15</a></sup> caveat or vulnerability that I’m aware of – in which case please let me know, I’d be happy to stop.</p>
+<p>The solution, of course, IS TO HAVE NO SEPARATOR AT ALL :DD</p>
+<p>No, seriously, I wasn’t joking.</p>
+<p>...</p>
+<br>
+<div class="markdown-heading"><h2 class="heading-element">Appendix</h2><a id="user-content-appendix" class="anchor" aria-label="Permalink: Appendix" href="#appendix"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<p>I can be somewhat stubborn in my ways, although there have genuinely been instances where I have changed my perspectives on conventions.</p>
+<p>A notable case is the capitalisation of object names. Previously, I enjoyed having everything lowercase – variables, functions, and in particular, classes. My reasoning was that I wanted my classes to follow the same format as the inbuilt classes, like <code>str</code> and <code>int</code>, which are all simple lowercase words. Now, I’ve come to appreciate <code>PascalCase</code> when naming classes, as it very clearly separates it from other kinds of objects. As for keeping in with the inbuilt classes, I realised having user-defined classes follow a different naming format is probably better. It also lends itself more nicely to multi-word names.</p>
+
+<section data-footnotes="">
+<ol>
+<li id="user-content-fn-time">
+<p>It is not entirely untrue that I often spend more time fussing over syntax and style than actually writing code. I find inexplicable joy in this. <a href="#fnref-time" data-footnote-backref="" aria-label="Back to reference 1">↩</a></p>
+</li>
+<li id="user-content-fn-standard">
+<p>As to whether or not I achieve this... <a href="#fnref-standard" data-footnote-backref="" aria-label="Back to reference 2">↩</a></p>
+</li>
+<li id="user-content-fn-pep">
+<p>Please note this is only an opinion. <a href="#fnref-pep" data-footnote-backref="" aria-label="Back to reference 3">↩</a></p>
+</li>
+<li id="user-content-fn-code">
+<p>Quote by Guido Van Rossum. I think? <a href="#fnref-code" data-footnote-backref="" aria-label="Back to reference 4">↩</a></p>
+</li>
+<li id="user-content-fn-line">
+<p>I thought they looked cool. I mean I still do, but also it’s kinda bad for readability. They’re wonderfully efficient, but can get pretty unwieldy. Use them in moderation, I suppose. <a href="#fnref-line" data-footnote-backref="" aria-label="Back to reference 5">↩</a></p>
+</li>
+<li id="user-content-fn-work">
+<p>That’s me, buddy. <a href="#fnref-work" data-footnote-backref="" aria-label="Back to reference 6">↩</a></p>
+</li>
+<li id="user-content-fn-brain-cells">
+<p>I hear they don’t come cheap nowadays. <a href="#fnref-brain-cells" data-footnote-backref="" aria-label="Back to reference 7">↩</a></p>
+</li>
+<li id="user-content-fn-get">
+<p>I think. Currently untested. <a href="#fnref-get" data-footnote-backref="" aria-label="Back to reference 8">↩</a></p>
+</li>
+<li id="user-content-fn-flavour">
+<p>The only distinction I can think of for this, really, is import aliases – see <a href="#Names">§ Names</a>. <a href="#fnref-flavour" data-footnote-backref="" aria-label="Back to reference 9">↩</a></p>
+</li>
+<li id="user-content-fn-sup">
+<p>Or so it would seem. <a href="#fnref-sup" data-footnote-backref="" aria-label="Back to reference 10">↩</a></p>
+</li>
+<li id="user-content-fn-sip">
+<p>Nah seriously. <a href="#fnref-sip" data-footnote-backref="" aria-label="Back to reference 11">↩</a></p>
+</li>
+<li id="user-content-fn-hate">
+<p>Ok ‘hate’ is a strong word. I just strongly disagree with it. <a href="#fnref-hate" data-footnote-backref="" aria-label="Back to reference 12">↩</a></p>
+</li>
+<li id="user-content-fn-hard">
+<p>Quote by Phil Karlton. Pretty sure this time. <a href="#fnref-hard" data-footnote-backref="" aria-label="Back to reference 13">↩</a></p>
+</li>
+<li id="user-content-fn-accurate">
+<p>Not <em>actually</em> accurate, ofc, but the idea is definitely there. <a href="#fnref-accurate" data-footnote-backref="" aria-label="Back to reference 14">↩</a></p>
+</li>
+<li id="user-content-fn-obvious">
+<p>Or maybe it is obvious and I’m just delusional. <a href="#fnref-obvious" data-footnote-backref="" aria-label="Back to reference 15">↩</a></p>
+</li>
+</ol>
+</section>
+
+    </div>
+
+    <div id="footer">
+      <p> by <a href="https://github.com/Sup2point0">Sup#2.0</a> </p>
+      <p> Auto-rendered by <a href="https://github.com/Sup2point0/Quarkdown">Quarkdown</a> v1.1.0 </p>
+      <p> <a href="https://github.com/Sup2point0/Assort/">View on GitHub</a> </p>
+    </div>
+  
+  </article>
+</body>
+
+</html>
