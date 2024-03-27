@@ -1,4 +1,5 @@
 # Nameless
+<!-- #QUARK LIVE -->
 
 Words are knives.  
 They mercilessly slice apart your skin  
@@ -26,3 +27,9 @@ Words are not a game.
 
 
 (May 2023)
+
+<!-- #QUARK META
+EXPORT poetry/nameless
+STYLE #creative
+POLARITY #light
+-->
