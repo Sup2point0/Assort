@@ -1,5 +1,5 @@
 # Xeriqui
-<!-- #QUARK LIVE -->
+<!-- #QUARK live! -->
 
 A fictional theory of existence and reality.
 
@@ -37,8 +37,8 @@ Of course, in the end, everything is a human construct.
 
 Who knows what’s out there?
 
-<!-- #QUARK META
-EXPORT xeriqui/index
-STYLE #AUTO
-POLARITY #DARK
+<!-- #QUARK
+EXPORT: xeriqui/index
+STYLE: auto
+POLARITY: dark
 -->
