@@ -1,5 +1,5 @@
 # writing.
-<!-- #QUARK LIVE -->
+<!-- #QUARK live! -->
 
 Why do we write?
 
@@ -47,6 +47,8 @@ Our minds are an infinite universe, and these symbols can only hope to capture a
 
 It’s imperfect, it’s incomplete, it’s flawed, but it’ll... have to do.
 
-<!-- #QUARK META
-EXPORT writing
+<!-- #QUARK
+EXPORT: writing
+STYLE: creative
+POLARITY: light
 -->
