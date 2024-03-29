@@ -1,5 +1,5 @@
 # Slinqui
-<!-- #QUARK LIVE -->
+<!-- #QUARK live! -->
 
 An [assortacion](... 'assortment') of my [varical](... 'various') [inventen](... 'invented') phrases and [terminologics](... 'terminology').
 
@@ -19,8 +19,8 @@ An [assortacion](... 'assortment') of my [varical](... 'various') [inventen](...
 | yeup | ‘yep’ + ‘yup’. Reflects the drawn out ‘yee-up’ for humourous confirmation. | *yeup, we’re screwed.* |
 | ytf | ‘Why the f\*\*\*’, parody of ‘wtf’. | *ytf does this taste so delicious* |
 
-<!-- #QUARK META
-EXPORT slinqui
-STYLE #PERSONAL
-POLARITY #DARK
+<!-- #QUARK
+EXPORT: slinqui
+STYLE: personal
+POLARITY: dark
 -->
