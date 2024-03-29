@@ -1,4 +1,5 @@
 # Strive
+<!-- #QUARK live! -->
 
 There,  
 A summer past, a summer been;  
@@ -39,3 +40,11 @@ Perhaps it was not meant to be.
 
 
 (Summer 2022)
+
+<!-- #QUARK
+EXPORT: poetry/strive
+STYLE: poetry
+INDEX: poetry
+YEAR: 22
+DEC: 6
+-->
