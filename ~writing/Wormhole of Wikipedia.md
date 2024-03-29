@@ -1,5 +1,5 @@
 # The Wormhole of Wikipedia
-<!-- #QUARK LIVE -->
+<!-- #QUARK live! -->
 
 One of my favourite indulgences is freely browsing Wikipedia. Maybe it’s down to my natural interest for anything and everything, but it’s kinda unreal how much I enjoy it, and how long I can go on for, just reading whatever interesting articles I come across.
 
@@ -37,6 +37,6 @@ But that’s no fun, so actually I’ve now got ~20 Wikipedia pages open at all 
 
 And this, is the wormhole of Wikipedia.
 
-<!-- #QUARK META
-EXPORT wormhole-of-wikipedia
+<!-- #QUARK
+EXPORT: wormhole-of-wikipedia
 -->
