@@ -1,4 +1,5 @@
 # Heartburn
+<!-- #QUARK live! -->
 
 There are few feelings worse than burnout.  
 When your heart once filled with wonder and delight  
@@ -33,3 +34,11 @@ When did we grow up?
 
 
 (29 February 2024)
+
+<!-- #QUARK
+EXPORT: poetry/heartburn
+STYLE: poetry
+INDEX: poetry
+YEAR: 24
+DEC: 2
+-->
