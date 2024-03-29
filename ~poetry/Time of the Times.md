@@ -1,4 +1,5 @@
 # Time of the Times
+<!-- #QUARK live! -->
 
 A year ago, or just a little more  
 It seems like a completely different world  
@@ -20,3 +21,11 @@ Here’s to one more, let’s hope the end isn’t too near
 
 
 (November 2021)
+
+<!-- #QUARK
+EXPORT: poetry/time-of-the-times
+STYLE: poetry
+INDEX: poetry
+YEAR: 21
+DEC: 11
+-->
