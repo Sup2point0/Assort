@@ -1,4 +1,5 @@
 # Reverie
+<!-- #QUARK live! -->
 
 There comes a moment in everyone’s mind  
 When you look back and see all that is past,  
@@ -32,3 +33,11 @@ And even the closest of echoes can feel far.
 
 
 (Winter 2021)
+
+<!-- #QUARK
+EXPORT: poetry/reverie
+STYLE: poetry
+INDEX: poetry
+YEAR: 21
+DEC: 12
+-->
