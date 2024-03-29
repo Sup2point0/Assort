@@ -1,4 +1,5 @@
 # Broken World
+<!-- #QUARK live! -->
 
 > [!Note]
 > This piece of writing is a bit broken too.
@@ -38,3 +39,9 @@ All of this is only a showerthought. One that lurks ever-present in the corner o
 A way I rationalise it is that with the billions upon billions of humans that have ever existed (to our knowledge of course, always remember that), we’d have had enough radical thoughts and perspectives and revolutions and reforms to cover everything significant or important, and ensure that what’s stuck must’ve stuck because it’s good. Evolution and natural selection and all that. But who knows.
 
 Even so, our world is still broken :v
+
+<!-- #QUARK
+EXPORT: broken-world
+STYLE: creative
+POLARITY: dark
+-->
