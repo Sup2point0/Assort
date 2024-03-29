@@ -1,4 +1,5 @@
 # Quantitative Quantitivity
+<!-- #QUARK live! -->
 
 Quantity is rough.  
 How do these people write so much  
@@ -45,3 +46,11 @@ Ah, this is a mess.
 
 
 (March 2023)
+
+<!-- #QUARK
+EXPORT: poetry/quantitative-quantitivity
+STYLE: poetry
+INDEX: poetry
+YEAR: 23
+DEC: 3
+-->
