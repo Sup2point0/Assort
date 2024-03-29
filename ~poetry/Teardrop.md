@@ -1,4 +1,5 @@
 # Teardrop
+<!-- #QUARK live! -->
 
 Look up, a sky of gleaming stalactites  
 of ice, streaming down from heavens above;  
@@ -20,3 +21,11 @@ The Ancients’ home should never have been crossed.
 
 
 (September 2022)
+
+<!-- #QUARK
+EXPORT: poetry/teardrop
+STYLE: poetry
+INDEX: poetry
+YEAR: 22
+DEC: 9
+-->
