@@ -1,4 +1,5 @@
 # This
+<!-- #QUARK live! -->
 
 This longstanding settlement, this harbour of peace;  
 This mystical crystal valley, this arcane world;  
@@ -17,3 +18,11 @@ This refuge, this hearth, this home, this magical village.
 
 
 (April 2021)
+
+<!-- #QUARK
+EXPORT: poetry/this
+STYLE: poetry
+INDEX: poetry
+YEAR: 21
+DEC: 4
+-->
