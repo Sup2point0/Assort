@@ -1,4 +1,5 @@
 # Heavy Crown
+<!-- #QUARK live! -->
 
 Time, time, and time again  
 For far too many times have rulers been  
@@ -27,3 +28,11 @@ And so I ask, allow me to be king.
 
 
 (Autumn 2021)
+
+<!-- #QUARK
+EXPORT: poetry/heavy-crown
+STYLE: poetry
+INDEX: poetry
+YEAR: 21
+DEC: 9
+-->
