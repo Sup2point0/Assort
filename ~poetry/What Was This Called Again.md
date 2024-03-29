@@ -1,4 +1,5 @@
 # What Was This Called Again?
+<!-- #QUARK live! -->
 
 Ah. It’s here again –  
 Just there, you know,  
@@ -17,3 +18,11 @@ A sense of something that you’ve left behind.
 
 
 (March 2023)
+
+<!-- #QUARK
+EXPORT: poetry/what-was-this-called-again
+STYLE: poetry
+INDEX: poetry
+YEAR: 23
+DEC: 3
+-->
