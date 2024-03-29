@@ -1,5 +1,5 @@
 # *On the Origins of Sup#2.0*
-<!-- #QUARK LIVE -->
+<!-- #QUARK live! -->
 <!-- ↗ ↑ ↓ -->
 
 <details>
@@ -569,8 +569,8 @@ Just in case you’re still bored.
 
 <!-- Yes, we’re doing this. -->
 
-<!-- #QUARK META
-EXPORT origins
-STYLE #AUTO
-POLARITY #LIGHT
+<!-- #QUARK
+EXPORT: origins
+STYLE: auto
+POLARITY: light
 -->
