@@ -1,4 +1,5 @@
 # Fortisan
+<!-- #QUARK live! -->
 
 Look up, a skies untouched,  
 Leave nothing if for a careless blink;  
@@ -24,3 +25,11 @@ Our time is now.
 
 
 (December 2021)
+
+<!-- #QUARK
+EXPORT: poetry/fortisan
+STYLE: poetry
+INDEX: poetry
+YEAR: 21
+DEC: 12
+-->
