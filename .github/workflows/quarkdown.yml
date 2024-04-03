@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: 'Quarkdown: activate'
-        uses: Sup2point0/Quarkdown/.github/workflows/assort.yml@main
+      - uses: Sup2point0/Quarkdown/.github/workflows/assort.yml@main
 
       # - name: 'Quarkdown: activate'
       #   run: |
