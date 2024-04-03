@@ -8,16 +8,19 @@ on:
       - '**.md'
 
 jobs:
-  trigger:
+  Quarkup:
     runs-on: ubuntu-latest
 
     steps:
       - name: 'Quarkdown: activate'
-        run: |
-          curl -X POST https://api.github.com/repos/Sup2point0/Quarkdown/dispatches \
-          -H 'Accept: application/vnd.github.everest-preview+json' \
-          -u ${{ secrets.CHARM }} \
-          --data '{"event_type": "Trigger Workflow", "client_payload": { "repository": "'"$GITHUB_REPOSITORY"'" }}'
+        uses: Sup2point0/Quarkdown/.github/workflows/assort.yml@main
+
+      # - name: 'Quarkdown: activate'
+      #   run: |
+      #     curl -X POST https://api.github.com/repos/Sup2point0/Quarkdown/dispatches \
+      #     -H 'Accept: application/vnd.github.everest-preview+json' \
+      #     -u ${{ secrets.CHARM }} \
+      #     --data '{"event_type": "Trigger Workflow", "client_payload": { "repository": "'"$GITHUB_REPOSITORY"'" }}'
           
           # curl -L
           # -X POST
