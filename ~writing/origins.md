@@ -1,5 +1,10 @@
 # *On the Origins of Sup#2.0*
-<!-- #QUARK live! -->
+<!-- #QUARK live!
+EXPORT: origins
+STYLE: auto
+DUALITY: light
+INDEX: writing
+-->
 <!-- ↗ ↑ ↓ -->
 
 <details>
@@ -568,9 +573,3 @@ Just in case you’re still bored.
 > Due to Markdown limitations, references and footnotes are listed together.
 
 <!-- Yes, we’re doing this. -->
-
-<!-- #QUARK
-EXPORT: origins
-STYLE: auto
-POLARITY: light
--->
