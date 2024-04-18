@@ -1,10 +1,35 @@
 # Coding Conventions
 
+It’s getting way too difficult to keep track of all this in my mind, so I need somewhere to standardardise it for consistency.
+
 
 <br>
 
 
-## Python
+## Aspects
+
+### Indentation
+
+| language | spaces |
+| :------- | :----- |
+| Python | 2 |
+| C# | 4 |
+| HTML | 2 |
+| CSS | 2 |
+| JavaScript | 2 |
+| SQL | 2 |
+| JSON | 2 |
+| YAML | 2 |
+| supcode | 3 |
+
+
+
+<br>
+
+
+## Reference
+
+### Python
 
 ```py
 '''
@@ -46,11 +71,7 @@ class PascalCase:
         snake_case(snake_case = snake_case)
 ```
 
-
-<br>
-
-
-## C#
+### C#
 
 ```cs
 /// project
@@ -96,3 +117,18 @@ class PascalCase
     #endregion
 }
 ```
+
+### Unity
+
+| entity | case | instance | notes |
+| :----- | :--- | :------- | :---- |
+| folder | `PascalCase` | `Scripts/` | |
+| file | `kebab-case` | `game-executive.cs` | |
+| editor object | `Title Case` | `Game Executive` | |
+| script component | `PascalCase` | `GameExec` | |
+| prefab field | `camelCasePrefab` | `objectPrefab` | |
+
+| term | instance | notes |
+| :--- | :------- | :---- |
+| `Executive` `Exec` | `GameExec` `AudioExec` | Manages a particular feature or aspect. |
+| `Spawner` `Origin` | `ParticleSpawner` | Purely handles creation of objects. Often upgraded into an `Executive`. |
