@@ -1,5 +1,11 @@
 # What’s up with my Python syntax?
-<-- #QUARK live! -->
+<!-- #QUARK live!
+  EXPORT: python-syntax
+  STYLE: dev
+  POLARITY: dark
+  INDEX: writing dev
+  DATE: 24 spring
+-->
 
 If you‘ve taken a look at any of my code written in Python, you may have noticed its syntax is perhaps unconventional in many aspects – nothing that actually affects functionality, but plenty of idiosyncrasies that would immediately stick out to any seasoned Pythonista. I am well aware of this, and I apologise if this has caused any difficulty or distress (as I have been notified of – on several occasions) to anyone perusing my code.
 
@@ -217,9 +223,3 @@ No, seriously, I wasn’t joking.
 I can be somewhat stubborn in my ways, although there have genuinely been instances where I have changed my perspectives on conventions.
 
 A notable case is the capitalisation of object names. Previously, I enjoyed having everything lowercase – variables, functions, and in particular, classes. My reasoning was that I wanted my classes to follow the same format as the inbuilt classes, like `str` and `int`, which are all simple lowercase words. Now, I’ve come to appreciate `PascalCase` when naming classes, as it very clearly separates it from other kinds of objects. As for keeping in with the inbuilt classes, I realised having user-defined classes follow a different naming format is probably better. It also lends itself more nicely to multi-word names.
-
-<!-- #QUARK
-EXPORT: python-syntax
-STYLE: auto
-POLARITY: dark
--->
