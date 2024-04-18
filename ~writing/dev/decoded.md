@@ -1,4 +1,11 @@
 # *decoded*
+<!-- #QUARK live!
+  EXPORT: dev/decoded
+  STYLE: dev tech
+  DUALITY: dark
+  INDEX: dev
+  DATE: 24 4
+-->
 
 <!-- #QUARK synopsis? -->
 Lessons I’ve learnt through years of software development.
@@ -20,11 +27,3 @@ Not all are of equal value. Some may be really niche or specific.
 - Longer identifiers are an acceptable evil given in lieu of the added clarity they can provide.
 
 </div>
-
-<!-- #QUARK 
-EXPORT: dev/decoded
-STYLE: dev tech
-DUALITY: dark
-INDEX: dev
-DATE: 24 4
--->
