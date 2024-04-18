@@ -1,6 +1,8 @@
-# *Assort*
+![assort-title](.assets/assort.png)
 
-An assortment of my various creations. Feel free to have a look around!
+---
+
+Feel free to have a look around!
 
 
 <br>
