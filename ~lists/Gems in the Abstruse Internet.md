@@ -1,8 +1,10 @@
 # Gems in the Abstruse Internet
 
-<!-- #QUARK captive? -->
+<!-- #QUARK synopsis? -->
+<!-- #QUARK only?
 A collection of incredible creations, resources, sites and articles I’ve discovered in the internet
-<!-- #QUARK captive. -->
+     #QUARK only. -->
+<!-- #QUARK synopsis. -->
 
 <!-- #QUARK ignore? -->
 Incredible creations and resources I’ve discovered in the internet through various avenues, just like you discovering this within *Assort*.
@@ -13,14 +15,12 @@ I’ve listed them in reverse chronological order, so that the further you go, t
 > [!Note]
 > Depending on how far into the futute you’re reading this, there’s a pretty nonzero some of these sites no longer exist or have changed URL. Unfortunately I can’t, like, archive the entirety of all of these (as much as I’d like to).
 
-<!-- #QUARK note
-
+<!-- #QUARK note?
 There is fsr an especially poignant feeling I’m filled with when archiving these steadily ageing websites. Maybe it’s cuz I’m Gen Z, and I witnessed the internet reverse-mature from its emo teenage years to the... well, whatever the internet of today is.
 
 I don’t know, there’s just something so nostalgic and innocent about the content-filled, cool-in-its-own-way design of the websites of the 2000s. That feeling’s especially invoked in me by *The Codeless Code* and old reddit.
 
 That stuff’s becoming ancient history now...
-
 #QUARK note. -->
 
 
@@ -29,7 +29,9 @@ That stuff’s becoming ancient history now...
 
 ## [The Book of Shaders](https://thebookofshaders.com)
 
+<!-- #QUARK caption? -->
 Winter 2023/2024
+<!-- #QUARK caption. -->
 
 I can’t even remember why I stumbled upon this, but sure, it was cool.
 
