@@ -26,6 +26,12 @@ Faithful Cleric
 Ghostblade  
 Kes, Fallen of Darquess  
 Legendary Dragon Spirit  
+Lightning Claw  
+Lightning Dragon  
+Lightning Lark  
+Lightning Orb  
+Lightning Shrike  
+Lightning Wing  
 Lyfris, Herald of Darquess  
 Hykarice, Sentry of Darquess  
 Kyralice, Sentinel of Darquess  
@@ -45,12 +51,13 @@ Tekk-Knight Neon Hope
 Tekk-Knight Scarlet Fury  
 Tekk-Knight Teal Avidity  
 Tekk-Knight Violet Sorrow  
+Vapour-Eyes Dragon  
 Vyktica, Valkyrie of Darquess  
 Wizardo  
 Zaia, Evoker of Darquess  
 
 ### Ritual
-Hi-Tekk-Knight Ultramarine Wonder
+Hi-Tekk-Knight Ultramarine Wonder  
 [Laiza, Enchantress of Darquess](monsters/ritual/Laiza.md)  
 [Raiza, Sorceress of Darquess](monsters/ritual/Raiza.md)  
 Rubic Driangle  
@@ -86,14 +93,23 @@ Hi-Tekk-Knight Lucent Edge
 Rubic Haversine  
 Rubic Vercosine  
 Rubic Versine  
+Vapour-Eyes Absolute Dragon  
 
 ### Xyz
 [Dark-Knight Onyx Arisen](monsters/xyz/Dark-Knight%20Onyx%20Arisen.md)  
 Dekk-Knight Saffron Resplendence  
 Hi-Tekk-Knight Shining Dawn  
+Neo Ultimate Vapour-Eyes Arc Lightning Dragon  
+Neo Ultimate Vapour-Eyes Lightning Dragon  
+Neo Vapour-Eyes Arc Lightning Dragon  
+Neo Vapour-Eyes Lightning Dragon  
 [Rubic Arcsecant](monsters/xyz/Rubic%20Arcsecant.md)  
 Rubic Excosecant  
 Rubic Exsecant  
+Ultimate Vapour-Eyes Arc Lightning Dragon  
+Ultimate Vapour-Eyes Lightning Dragon  
+Vapour-Eyes Arc Lightning Dragon  
+Vapour-Eyes Lightning Dragon  
 
 ### Pendulum
 [World Affinity Tyrian Pendragon](monsters/ritual/World%20Affinity%20Tyrian%20Pendragon.md)  
@@ -124,6 +140,7 @@ Allure of Darquess
 [Final Vanquish](spells/Final%20Vanquish.md)  
 [Foolish Burial Trade](spells/Foolish%20Burial%20Trade.md)  
 [Foolish Exile](spells/Foolish%20Exile.md)  
+Forged in Lightning  
 Prophecy of Darquess  
 Rakurai  
 Rites of Darquess  
@@ -134,7 +151,10 @@ Temptation of Darquess
 [That Grass Looks Darker](spells/That%20Grass%20Looks%20Darker.md)  
 
 ### Quick-Play
+Born in Lightning  
+Crafted in Lightning  
 Divine Destiny  
+Ephemeral Lightning  
 Ghostplay  
 [Hybrid Polymerization](spells/Hybrid%20Polymerization.md)  
 [Instant Draw](spells/Instant%20Draw.md)  
@@ -160,6 +180,7 @@ World Affinity Excursion
 World Affinity Symphony
 
 ### Field
+Lightning Fury  
 Ninja Dojo  
 Realm of Darquess  
 Rubic Plane  
@@ -186,6 +207,7 @@ Awakening of Darquess
 [Awakening the Drakon](traps/Awakening%20the%20Drakon.md)  
 Corruption of Darquess  
 [Infinite Impertinence](traps/Infinite%20Impertinence.md)  
+Live in Lightning  
 Manifestation Manoeuvres  
 Quick Escape  
 Quick Refresh  
@@ -207,6 +229,7 @@ World Affinity Tragedy
 World Affinity Vengeance  
 
 ### Continuous
+Charged in Lightning  
 [Darkchoke](traps/Darkchoke.md)  
 Perfection of Darquess  
 Magnificence of Darquess  
@@ -222,6 +245,7 @@ Dragon Head Rising
 Revenge of Darquess  
 Rubic Inverse  
 Rubic Transverse  
+Vapourizing Lightning  
 [Victory in Vengeance](Victory%20in%20Vengeance.md)  
 World Affinity Finality  
 World Affinity Reminiscence  
