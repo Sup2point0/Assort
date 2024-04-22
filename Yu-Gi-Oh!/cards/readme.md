@@ -39,19 +39,29 @@ Rubic Sine
 [Silent Assassin](monsters/standard/Silent%20Assassin.md)  
 Spellblade  
 Syndris, Oracle of Darquess  
+Tekk-Knight Aqua Vision  
+Tekk-Knight Citrine Dream  
+Tekk-Knight Neon Hope  
+Tekk-Knight Scarlet Fury  
+Tekk-Knight Teal Avidity  
+Tekk-Knight Violet Sorrow  
 Vyktica, Valkyrie of Darquess  
 Wizardo  
 Zaia, Evoker of Darquess  
 
 ### Ritual
+Hi-Tekk-Knight Ultramarine Wonder
 [Laiza, Enchantress of Darquess](monsters/ritual/Laiza.md)  
 [Raiza, Sorceress of Darquess](monsters/ritual/Raiza.md)  
 Rubic Driangle  
 [Vaiza, Empress of Darquess](monsters/ritual/Vaiza.md)  
+World Affinity Tyrian Pendragon  
 
 ### Fusion
+Dekk-Knight Divine Iridescence  
 Dyvarice, Corruptor of Darquess  
 Elaiza, Arisen of Darquess  
+Hi-Tekk-Knight Radiant Spectre  
 Levaiza, Ascended of Darquess  
 Lone Autumn Leaf  
 Lynuca, Silencer of Darquess  
@@ -65,11 +75,13 @@ Ninjato of the Sacred Arts
 Ninjato of the Sealing Arts  
 Ninjato of the Shadow Arts  
 Ninjax  
-The Awakened Drakon
+The Awakened Drakon  
 [Vengeance Vanguard](monsters/fusion/Vengeance%20Vanguard.md)  
 Vraiza, Awakened of Darquess  
 
 ### Synchro
+Dekk-Knight Cerise Evanescence  
+Hi-Tekk-Knight Lucent Edge  
 [Rubic Arcsine](monsters/synchro/Rubic%20Arcsine.md)  
 Rubic Haversine  
 Rubic Vercosine  
@@ -77,6 +89,8 @@ Rubic Versine
 
 ### Xyz
 [Dark-Knight Onyx Arisen](monsters/xyz/Dark-Knight%20Onyx%20Arisen.md)  
+Dekk-Knight Saffron Resplendence  
+Hi-Tekk-Knight Shining Dawn  
 [Rubic Arcsecant](monsters/xyz/Rubic%20Arcsecant.md)  
 Rubic Excosecant  
 Rubic Exsecant  
@@ -88,12 +102,15 @@ Rubic Exsecant
 Architechnician  
 [Ark-Knight Cerulean Aventurescence](monsters/link/Ark-Knight%20Cerulean%20Aventurescence.md)  
 Dancing Rain  
+Dekk-Knight Radical Trinity  
+Hi-Tekk-Knight Crystalline Lustre  
 Rubic Diagonal  
 [Rubic Hexangle](monsters/link/Rubic%20Hexangle.md)  
 Rubic Perpendicular  
 Rubic Quadrangle  
 Rubic Radian  
 Rubic Vertex  
+Tekk-Knight Azure Iris  
 Unspecialyzed  
 
 
@@ -130,16 +147,23 @@ Ninja Manifestation
 [Quickdraw Summon](spells/Quickdraw%20Summon.md)  
 Rubic Function  
 Whirling Tornado Slash  
+World Affinity Ascension  
+World Affinity Destiny  
+World Affinity Discovery  
+World Affinity Miracle  
 
 ### Continuous
 Covin of Darquess  
 Rubic Construction  
 Spellcasters’ Sanctuary  
+World Affinity Excursion  
+World Affinity Symphony
 
 ### Field
 Ninja Dojo  
 Realm of Darquess  
 Rubic Plane  
+World Affinity Legacy  
 
 ### Equip
 Myriad Manifestation Umbrella  
@@ -148,6 +172,8 @@ Rubic Slice
 ### Ritual
 [Darquess Rising](spells/Darquess%20Rising.md)  
 Rubic Dragonometry  
+World Affinity Wishes  
+World Affinity Wonder  
 
 
 <br>
@@ -174,6 +200,11 @@ Runes of Darquess
 Seduction of Darquess  
 Soul of Darquess  
 [Terrorforming](traps/Terrorforming.md)  
+World Affinity Adversity  
+World Affinity Clash  
+World Affinity Descension  
+World Affinity Tragedy  
+World Affinity Vengeance  
 
 ### Continuous
 [Darkchoke](traps/Darkchoke.md)  
@@ -183,6 +214,7 @@ Nightmare of Darquess
 Night Walker  
 Rubic Destruction  
 Shadow Walker  
+World Affinity Rivals  
 
 ### Counter
 [Darquess Falling](traps/Darquess%20Falling.md)  
@@ -191,6 +223,10 @@ Revenge of Darquess
 Rubic Inverse  
 Rubic Transverse  
 [Victory in Vengeance](Victory%20in%20Vengeance.md)  
+World Affinity Finality  
+World Affinity Reminiscence  
+World Affinity Showdown  
+World Affinity Trepidation  
 
 
 <br>
