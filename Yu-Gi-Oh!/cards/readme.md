@@ -22,6 +22,12 @@ Faithful Cleric
 Ghostblade  
 Legendary Dragon Spirit  
 [Ninjato](monsters/standard/Ninjato.md)  
+Rubic Angular  
+Rubic Axis  
+Rubic Cosecant  
+Rubic Cosine  
+Rubic Secant  
+Rubic Sine  
 [Silent Assassin](monsters/standard/Silent%20Assassin.md)  
 Spellblade  
 Wizardo  
@@ -29,6 +35,7 @@ Wizardo
 ### Ritual
 [Laiza, Enchantress of Darquess](monsters/ritual/Laiza.md)  
 [Raiza, Sorceress of Darquess](monsters/ritual/Raiza.md)  
+Rubic Driangle  
 [Vaiza, Empress of Darquess](monsters/ritual/Vaiza.md)  
 
 ### Fusion
@@ -38,7 +45,7 @@ Next-Gen A-to-Z Myriad Vanquish
 Ninjato of the Silent Arts  
 Ninjato of the Arcane Arts  
 Ninjato of the Master Arts  
-Ninjato of the Mystical Arts
+Ninjato of the Mystical Arts  
 Ninjato of the Sacred Arts  
 Ninjato of the Sealing Arts  
 Ninjato of the Shadow Arts  
@@ -48,10 +55,15 @@ The Awakened Drakon
 
 ### Synchro
 [Rubic Arcsine](monsters/synchro/Rubic%20Arcsine.md)  
+Rubic Haversine  
+Rubic Vercosine  
+Rubic Versine  
 
 ### Xyz
 [Dark-Knight Onyx Arisen](monsters/xyz/Dark-Knight%20Onyx%20Arisen.md)  
 [Rubic Arcsecant](monsters/xyz/Rubic%20Arcsecant.md)  
+Rubic Excosecant  
+Rubic Exsecant  
 
 ### Pendulum
 [World Affinity Tyrian Pendragon](monsters/ritual/World%20Affinity%20Tyrian%20Pendragon.md)  
@@ -60,7 +72,12 @@ The Awakened Drakon
 Architechnician  
 [Ark-Knight Cerulean Aventurescence](monsters/link/Ark-Knight%20Cerulean%20Aventurescence.md)  
 Dancing Rain  
+Rubic Diagonal  
 [Rubic Hexangle](monsters/link/Rubic%20Hexangle.md)  
+Rubic Perpendicular  
+Rubic Quadrangle  
+Rubic Radian  
+Rubic Vertex  
 Unspecialyzed  
 
 
@@ -75,6 +92,8 @@ Unspecialyzed
 [Foolish Exile](spells/Foolish%20Exile.md)  
 Rakurai  
 [Rubic Algorithm](spells/Rubic%20Algorithm.md)  
+Rubic Permutation  
+Rubic Solution  
 [That Grass Looks Darker](spells/That%20Grass%20Looks%20Darker.md)  
 
 ### Quick-Play
@@ -89,19 +108,24 @@ Ninja Artifice
 Ninja Manifestation  
 [Quick Polymerization](spells/Quick%20Polymerization.md)  
 [Quickdraw Summon](spells/Quickdraw%20Summon.md)  
+Rubic Function  
 Whirling Tornado Slash  
 
 ### Continuous
+Rubic Construction  
 Spellcasters’ Sanctuary  
 
 ### Field
 Ninja Dojo  
+Rubic Plane  
 
 ### Equip
 Myriad Manifestation Umbrella  
+Rubic Slice  
 
 ### Ritual
 [Darquess Rising](spells/Darquess%20Rising.md)  
+Rubic Dragonometry  
 
 
 <br>
@@ -116,15 +140,23 @@ Manifestation Manoeuvres
 Quick Escape  
 Quick Refresh  
 Quick Vanish  
+Rubic Execution  
+Rubic Megaminx  
+Rubic Reset  
+Rubic Revenge  
+Rubic Rotation  
 [Rubic Scramble](traps/Rubic%20Scramble.md)  
 [Terrorforming](traps/Terrorforming.md)  
 
 ### Continuous
 [Darkchoke](traps/Darkchoke.md)  
 Night Walker  
+Rubic Destruction  
 Shadow Walker  
 
 ### Counter
 [Darquess Falling](traps/Darquess%20Falling.md)  
 Dragon Head Rising  
+Rubic Inverse  
+Rubic Transverse  
 [Victory in Vengeance](Victory%20in%20Vengeance.md)  
