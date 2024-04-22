@@ -14,13 +14,21 @@ All the custom cards I’ve created.[^create] Of course, this is nowhere near co
 ## Monsters
 
 ### Standard
+Aiza, Invoker of Darquess  
+Azia, Envoker of Darquess  
 Arcane Battlemage  
 Berserker Blader  
-Descendant of Drakon  
 Bloody Blossoms of the Afterlife  
+Cythris, Augur of Darquess  
+Descendant of Drakon  
+Dyavin, Devoter of Darquess  
 Faithful Cleric  
 Ghostblade  
+Kes, Fallen of Darquess  
 Legendary Dragon Spirit  
+Lyfris, Herald of Darquess  
+Hykarice, Sentry of Darquess  
+Kyralice, Sentinel of Darquess  
 [Ninjato](monsters/standard/Ninjato.md)  
 Rubic Angular  
 Rubic Axis  
@@ -30,7 +38,10 @@ Rubic Secant
 Rubic Sine  
 [Silent Assassin](monsters/standard/Silent%20Assassin.md)  
 Spellblade  
+Syndris, Oracle of Darquess  
+Vyktica, Valkyrie of Darquess  
 Wizardo  
+Zaia, Evoker of Darquess  
 
 ### Ritual
 [Laiza, Enchantress of Darquess](monsters/ritual/Laiza.md)  
@@ -39,7 +50,11 @@ Rubic Driangle
 [Vaiza, Empress of Darquess](monsters/ritual/Vaiza.md)  
 
 ### Fusion
+Dyvarice, Corruptor of Darquess  
+Elaiza, Arisen of Darquess  
+Levaiza, Ascended of Darquess  
 Lone Autumn Leaf  
+Lynuca, Silencer of Darquess  
 [Primordial Darquessence, Oblivion of Darquess](monsters/fusion/Primordial%20Darquessence.md)  
 Next-Gen A-to-Z Myriad Vanquish  
 Ninjato of the Silent Arts  
@@ -52,6 +67,7 @@ Ninjato of the Shadow Arts
 Ninjax  
 The Awakened Drakon
 [Vengeance Vanguard](monsters/fusion/Vengeance%20Vanguard.md)  
+Vraiza, Awakened of Darquess  
 
 ### Synchro
 [Rubic Arcsine](monsters/synchro/Rubic%20Arcsine.md)  
@@ -87,13 +103,17 @@ Unspecialyzed
 ## Spells
 
 ### Normal
+Allure of Darquess  
 [Final Vanquish](spells/Final%20Vanquish.md)  
 [Foolish Burial Trade](spells/Foolish%20Burial%20Trade.md)  
 [Foolish Exile](spells/Foolish%20Exile.md)  
+Prophecy of Darquess  
 Rakurai  
+Rites of Darquess  
 [Rubic Algorithm](spells/Rubic%20Algorithm.md)  
 Rubic Permutation  
 Rubic Solution  
+Temptation of Darquess  
 [That Grass Looks Darker](spells/That%20Grass%20Looks%20Darker.md)  
 
 ### Quick-Play
@@ -112,11 +132,13 @@ Rubic Function
 Whirling Tornado Slash  
 
 ### Continuous
+Covin of Darquess  
 Rubic Construction  
 Spellcasters’ Sanctuary  
 
 ### Field
 Ninja Dojo  
+Realm of Darquess  
 Rubic Plane  
 
 ### Equip
@@ -134,7 +156,9 @@ Rubic Dragonometry
 ## Traps
 
 ### Normal
+Awakening of Darquess  
 [Awakening the Drakon](traps/Awakening%20the%20Drakon.md)  
+Corruption of Darquess  
 [Infinite Impertinence](traps/Infinite%20Impertinence.md)  
 Manifestation Manoeuvres  
 Quick Escape  
@@ -146,10 +170,16 @@ Rubic Reset
 Rubic Revenge  
 Rubic Rotation  
 [Rubic Scramble](traps/Rubic%20Scramble.md)  
+Runes of Darquess  
+Seduction of Darquess  
+Soul of Darquess  
 [Terrorforming](traps/Terrorforming.md)  
 
 ### Continuous
 [Darkchoke](traps/Darkchoke.md)  
+Perfection of Darquess  
+Magnificence of Darquess  
+Nightmare of Darquess  
 Night Walker  
 Rubic Destruction  
 Shadow Walker  
@@ -157,6 +187,10 @@ Shadow Walker
 ### Counter
 [Darquess Falling](traps/Darquess%20Falling.md)  
 Dragon Head Rising  
+Revenge of Darquess  
 Rubic Inverse  
 Rubic Transverse  
 [Victory in Vengeance](Victory%20in%20Vengeance.md)  
+
+
+<br>
