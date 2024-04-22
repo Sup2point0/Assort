@@ -13,17 +13,17 @@ All the custom cards I’ve created.[^create] Of course, this is nowhere near co
 
 ## Monsters
 
+### Normal
+Legendary Lightingale  
+
 ### Standard
 Aiza, Invoker of Darquess  
 Azia, Envoker of Darquess  
-Arcane Battlemage  
 Berserker Blader  
 Bloody Blossoms of the Afterlife  
 Cythris, Augur of Darquess  
 Descendant of Drakon  
 Dyavin, Devoter of Darquess  
-Faithful Cleric  
-Ghostblade  
 Kes, Fallen of Darquess  
 Legendary Dragon Spirit  
 Lightning Claw  
@@ -43,7 +43,6 @@ Rubic Cosine
 Rubic Secant  
 Rubic Sine  
 [Silent Assassin](monsters/standard/Silent%20Assassin.md)  
-Spellblade  
 Syndris, Oracle of Darquess  
 Tekk-Knight Aqua Vision  
 Tekk-Knight Citrine Dream  
@@ -51,10 +50,22 @@ Tekk-Knight Neon Hope
 Tekk-Knight Scarlet Fury  
 Tekk-Knight Teal Avidity  
 Tekk-Knight Violet Sorrow  
+The Inventor  
+The Logician  
+The Pioneer  
+The Scientist  
+The Technician  
+The Tinkerer  
 Vapour-Eyes Dragon  
 Vyktica, Valkyrie of Darquess  
 Wizardo  
 Zaia, Evoker of Darquess  
+
+### Pendulum
+Arcane Battlemage  
+Faithful Cleric  
+Ghostblade  
+Spellblade  
 
 ### Ritual
 Hi-Tekk-Knight Ultramarine Wonder  
@@ -62,7 +73,7 @@ Hi-Tekk-Knight Ultramarine Wonder
 [Raiza, Sorceress of Darquess](monsters/ritual/Raiza.md)  
 Rubic Driangle  
 [Vaiza, Empress of Darquess](monsters/ritual/Vaiza.md)  
-World Affinity Tyrian Pendragon  
+[World Affinity Tyrian Pendragon](monsters/ritual/World%20Affinity%20Tyrian%20Pendragon.md)  
 
 ### Fusion
 Dekk-Knight Divine Iridescence  
@@ -93,6 +104,7 @@ Hi-Tekk-Knight Lucent Edge
 Rubic Haversine  
 Rubic Vercosine  
 Rubic Versine  
+The Neoteric  
 Vapour-Eyes Absolute Dragon  
 
 ### Xyz
@@ -111,9 +123,6 @@ Ultimate Vapour-Eyes Lightning Dragon
 Vapour-Eyes Arc Lightning Dragon  
 Vapour-Eyes Lightning Dragon  
 
-### Pendulum
-[World Affinity Tyrian Pendragon](monsters/ritual/World%20Affinity%20Tyrian%20Pendragon.md)  
-
 ### Link
 Architechnician  
 [Ark-Knight Cerulean Aventurescence](monsters/link/Ark-Knight%20Cerulean%20Aventurescence.md)  
@@ -127,6 +136,12 @@ Rubic Quadrangle
 Rubic Radian  
 Rubic Vertex  
 Tekk-Knight Azure Iris  
+The Architect  
+The Developer  
+The Hacker  
+The Mastermind  
+The Paragon  
+The Prodigy  
 Unspecialyzed  
 
 
@@ -237,6 +252,8 @@ Nightmare of Darquess
 Night Walker  
 Rubic Destruction  
 Shadow Walker  
+Syntax Highlighting  
+The Specialists  
 World Affinity Rivals  
 
 ### Counter
