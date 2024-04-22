@@ -1,9 +1,9 @@
 # *On the Origins of Sup#2.0*
 <!-- #QUARK live!
-EXPORT: origins
-STYLE: auto
-DUALITY: light
-INDEX: writing
+  EXPORT: origins
+  STYLE: auto
+  DUALITY: light
+  INDEX: writing
 -->
 <!-- ↗ ↑ ↓ -->
 
@@ -13,11 +13,11 @@ INDEX: writing
 &ensp; *Assort* (origin). v2.0.0, 2024 ~ ~.  
 &ensp; ~writing/origins.md.  
 &ensp; © 2024 Sup#2.0 (<https://github.com/Sup2point0>) 
-<!-- #QUARK LEAVE -->
+<!-- #QUARK leave? -->
 &ensp; ACI: `20.04.`  
 &ensp; CXUL: `SP-LR-AS-AQ`  
 &ensp; IQTS: `6x3sF7-e2kzW0.02d`  
-<!-- #QUARK LEFT -->
+<!-- #QUARK leave. -->
 
 </details>
 
