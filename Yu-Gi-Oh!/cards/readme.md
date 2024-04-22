@@ -1,6 +1,11 @@
 # Cards
 
-All the custom cards I’ve created (that have individual pages).
+All the custom cards I’ve created.[^create] Of course, this is nowhere near complete, since tracking every single card I’ve made would take a little too much effort; nevertheless, most of the major archetypes I’ve created are here.
+
+[^create]: ‘create’ here means either that the card exists (or did exist at some point) on [DuelingBook<sup>↗</sup](https://duelingbook.com), or that I’ve either come up with the card name and envisioned some effects it would have (as is the case with most cards in the [Stranded Saga](../lore/Stranded%20Saga/))
+
+> [!Tip]
+> [Linked]() cards have their own individual pages.
 
 
 <br>
@@ -9,8 +14,17 @@ All the custom cards I’ve created (that have individual pages).
 ## Monsters
 
 ### Standard
+Arcane Battlemage  
+Berserker Blader  
+Descendant of Drakon  
+Bloody Blossoms of the Afterlife  
+Faithful Cleric  
+Ghostblade  
+Legendary Dragon Spirit  
 [Ninjato](monsters/standard/Ninjato.md)  
 [Silent Assassin](monsters/standard/Silent%20Assassin.md)  
+Spellblade  
+Wizardo  
 
 ### Ritual
 [Laiza, Enchantress of Darquess](monsters/ritual/Laiza.md)  
@@ -18,8 +32,19 @@ All the custom cards I’ve created (that have individual pages).
 [Vaiza, Empress of Darquess](monsters/ritual/Vaiza.md)  
 
 ### Fusion
-[Vengeance Vanguard](monsters/fusion/Vengeance%20Vanguard.md)  
+Lone Autumn Leaf  
 [Primordial Darquessence, Oblivion of Darquess](monsters/fusion/Primordial%20Darquessence.md)  
+Next-Gen A-to-Z Myriad Vanquish  
+Ninjato of the Silent Arts  
+Ninjato of the Arcane Arts  
+Ninjato of the Master Arts  
+Ninjato of the Mystical Arts
+Ninjato of the Sacred Arts  
+Ninjato of the Sealing Arts  
+Ninjato of the Shadow Arts  
+Ninjax  
+The Awakened Drakon
+[Vengeance Vanguard](monsters/fusion/Vengeance%20Vanguard.md)  
 
 ### Synchro
 [Rubic Arcsine](monsters/synchro/Rubic%20Arcsine.md)  
@@ -32,8 +57,11 @@ All the custom cards I’ve created (that have individual pages).
 [World Affinity Tyrian Pendragon](monsters/ritual/World%20Affinity%20Tyrian%20Pendragon.md)  
 
 ### Link
+Architechnician  
 [Ark-Knight Cerulean Aventurescence](monsters/link/Ark-Knight%20Cerulean%20Aventurescence.md)  
+Dancing Rain  
 [Rubic Hexangle](monsters/link/Rubic%20Hexangle.md)  
+Unspecialyzed  
 
 
 <br>
@@ -42,15 +70,35 @@ All the custom cards I’ve created (that have individual pages).
 ## Spells
 
 ### Normal
+[Final Vanquish](spells/Final%20Vanquish.md)  
 [Foolish Burial Trade](spells/Foolish%20Burial%20Trade.md)  
 [Foolish Exile](spells/Foolish%20Exile.md)  
+Rakurai  
 [Rubic Algorithm](spells/Rubic%20Algorithm.md)  
 [That Grass Looks Darker](spells/That%20Grass%20Looks%20Darker.md)  
 
 ### Quick-Play
+Divine Destiny  
+Ghostplay  
+[Hybrid Polymerization](spells/Hybrid%20Polymerization.md)  
 [Instant Draw](spells/Instant%20Draw.md)  
+Manifestation Fusion  
+Manifestation Magic  
+Myriad Manoeuvres  
+Ninja Artifice  
+Ninja Manifestation  
 [Quick Polymerization](spells/Quick%20Polymerization.md)  
 [Quickdraw Summon](spells/Quickdraw%20Summon.md)  
+Whirling Tornado Slash  
+
+### Continuous
+Spellcasters’ Sanctuary  
+
+### Field
+Ninja Dojo  
+
+### Equip
+Myriad Manifestation Umbrella  
 
 ### Ritual
 [Darquess Rising](spells/Darquess%20Rising.md)  
@@ -64,12 +112,19 @@ All the custom cards I’ve created (that have individual pages).
 ### Normal
 [Awakening the Drakon](traps/Awakening%20the%20Drakon.md)  
 [Infinite Impertinence](traps/Infinite%20Impertinence.md)  
+Manifestation Manoeuvres  
+Quick Escape  
+Quick Refresh  
+Quick Vanish  
 [Rubic Scramble](traps/Rubic%20Scramble.md)  
 [Terrorforming](traps/Terrorforming.md)  
 
 ### Continuous
 [Darkchoke](traps/Darkchoke.md)  
+Night Walker  
+Shadow Walker  
 
 ### Counter
 [Darquess Falling](traps/Darquess%20Falling.md)  
+Dragon Head Rising  
 [Victory in Vengeance](Victory%20in%20Vengeance.md)  
