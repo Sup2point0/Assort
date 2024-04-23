@@ -52,10 +52,18 @@ Rubic Cosine
 Rubic Secant  
 Rubic Sine  
 [Silent Assassin](monsters/standard/Silent%20Assassin.md)  
+Sorrowful Soul  
+Soul Demon  
+Soul Fragment  
+Soul Magician  
+Soul Shard  
+Soul Spider  
+Soul Synchron  
 Supreme Swordsman Lv7  
 Supreme Swordsman Lv9  
 Supreme Swordsman Lv11  
 Syndris, Oracle of Darquess  
+Tearful Soul  
 Tekk-Knight Aqua Vision  
 Tekk-Knight Citrine Dream  
 Tekk-Knight Neon Hope  
@@ -69,6 +77,7 @@ The Scientist
 The Technician  
 The Tinkerer  
 Vapour-Eyes Dragon  
+Vengeful Soul  
 Vyktica, Valkyrie of Darquess  
 Wizardo  
 Zaia, Evoker of Darquess  
@@ -84,6 +93,10 @@ Hi-Tekk-Knight Ultramarine Wonder
 [Laiza, Enchantress of Darquess](monsters/ritual/Laiza.md)  
 [Raiza, Sorceress of Darquess](monsters/ritual/Raiza.md)  
 Rubic Driangle  
+Shadow Assassin  
+Soul Dragon  
+Soul Elder  
+Soul Swordsman  
 [Vaiza, Empress of Darquess](monsters/ritual/Vaiza.md)  
 [World Affinity Tyrian Pendragon](monsters/ritual/World%20Affinity%20Tyrian%20Pendragon.md)  
 
@@ -116,7 +129,19 @@ Hi-Tekk-Knight Lucent Edge
 Rubic Haversine  
 Rubic Vercosine  
 Rubic Versine  
+Soul Alchemist  
+Soul Assassin  
+Soul Guardian  
+Soul Knight  
+Soul Shard Synchron  
+Soul Shard Swordsman  
+Soul Shard Dragon  
+Soul Slayer  
+Soul Snake  
+Soul Wanderer  
+Soul Warden  
 Supreme Swordsman Lv8  
+Tear Wing Synchro Dragon  
 The Neoteric  
 Vapour-Eyes Absolute Dragon  
 
@@ -184,12 +209,15 @@ Dystopian Prophecy
 [Foolish Exile](spells/Foolish%20Exile.md)  
 Forged in Lightning  
 Jokekekefrenzy  
+Pot of Souls  
 Prophecy of Darquess  
 Rakurai  
 Rites of Darquess  
 [Rubic Algorithm](spells/Rubic%20Algorithm.md)  
 Rubic Permutation  
 Rubic Solution  
+Soul Corruption  
+Soul Scripture  
 Temptation of Darquess  
 [That Grass Looks Darker](spells/That%20Grass%20Looks%20Darker.md)  
 
@@ -216,6 +244,11 @@ Rank-Down-Magic Dystopian Fall
 Rank-Down-Magic Dystopian Force  
 Rank-Up-Magic Dystopian Rise  
 Rubic Function  
+Soul Illusion  
+Soul Manifestation  
+Soul Purity  
+Soul Resurgence  
+Soul Seeker  
 Whirling Tornado Slash  
 World Affinity Ascension  
 World Affinity Destiny  
@@ -227,6 +260,8 @@ Covin of Darquess
 Dystopian Dreams  
 Rubic Construction  
 Spellcasters’ Sanctuary  
+Soul Sanctuary  
+Soul Walker  
 Spirit of the Supreme Sworsman  
 World Affinity Excursion  
 World Affinity Symphony
@@ -237,16 +272,22 @@ Lightning Fury
 Ninja Dojo  
 Realm of Darquess  
 Rubic Plane  
+Soul Chasm  
+Soul Necropolis  
 World Affinity Legacy  
 
 ### Equip
 Dystopian Weaponry  
 Myriad Manifestation Umbrella  
 Rubic Slice  
+Soul Dagger  
 
 ### Ritual
 [Darquess Rising](spells/Darquess%20Rising.md)  
 Rubic Dragonometry  
+Shadow Surge  
+Soul Prophecy  
+Soul Ritual  
 World Affinity Wishes  
 World Affinity Wonder  
 
@@ -276,7 +317,10 @@ Rubic Rotation
 Runes of Darquess  
 Seduction of Darquess  
 Soul of Darquess  
+Soul Fracture  
+Soul Rupture
 [Terrorforming](traps/Terrorforming.md)  
+Tormenting Trap Hole  
 World Affinity Adversity  
 World Affinity Clash  
 World Affinity Descension  
@@ -293,6 +337,7 @@ Nightmare of Darquess
 Night Walker  
 Rubic Destruction  
 Shadow Walker  
+Soul Virus  
 Syntax Highlighting  
 The Specialists  
 World Affinity Rivals  
@@ -304,6 +349,7 @@ Dystopian Revenge
 Revenge of Darquess  
 Rubic Inverse  
 Rubic Transverse  
+Soul Scream  
 Vapourizing Lightning  
 [Victory in Vengeance](Victory%20in%20Vengeance.md)  
 World Affinity Finality  
