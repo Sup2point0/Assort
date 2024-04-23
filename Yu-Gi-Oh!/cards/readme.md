@@ -2,7 +2,7 @@
 
 All the custom cards I’ve created.[^create] Of course, this is nowhere near complete, since tracking every single card I’ve made would take a little too much effort; nevertheless, most of the major archetypes I’ve created are here.
 
-[^create]: ‘create’ here means either that the card exists (or did exist at some point) on [DuelingBook<sup>↗</sup](https://duelingbook.com), or that I’ve either come up with the card name and envisioned some effects it would have (as is the case with most cards in the [Stranded Saga](../lore/Stranded%20Saga/))
+[^create]: ‘create’ here means either that the card exists (or did exist at some point) on [DuelingBook<sup>↗</sup](https://duelingbook.com).
 
 > [!Tip]
 > [Linked]() cards have their own individual pages.
@@ -109,6 +109,9 @@ Levaiza, Ascended of Darquess
 Lone Autumn Leaf  
 Lynuca, Silencer of Darquess  
 Next-Gen A-to-Z Myriad Vanquish  
+Next-Gen VWXYZ-Dragon Core Catapult Crusher  
+Next-Gen ABC-Assault Claw Buster  
+Next-Gen XYZ-Dragon Crush Cannon  
 Ninjato of the Arcane Arts  
 Ninjato of the Master Arts  
 Ninjato of the Mystical Arts  
@@ -119,6 +122,7 @@ Ninjato of the Silent Arts
 Ninjax  
 [Primordial Darquessence, Oblivion of Darquess](monsters/fusion/Primordial%20Darquessence.md)  
 The Awakened Drakon  
+XYZ-Gen Cyber Crush Overdragon  
 [Vengeance Vanguard](monsters/fusion/Vengeance%20Vanguard.md)  
 Vraiza, Awakened of Darquess  
 
@@ -153,6 +157,9 @@ Neo Ultimate Vapour-Eyes Arc Lightning Dragon
 Neo Ultimate Vapour-Eyes Lightning Dragon  
 Neo Vapour-Eyes Arc Lightning Dragon  
 Neo Vapour-Eyes Lightning Dragon  
+Next-Gen Firewall Dragon  
+Next-Gen Firewall Dragon Paradoxx  
+Next-Gen Processlayer Laplacian  
 Number -11: Tiny Eye
 Number -39: Dystopia  
 Number -99: Dystopian Dragon  
@@ -179,6 +186,16 @@ Architechnician
 Dancing Rain  
 Dekk-Knight Radical Trinity  
 Hi-Tekk-Knight Crystalline Lustre  
+Next-Gen Accesscode Talker  
+Next-Gen Code Talker  
+Next-Gen Crashcode Talker  
+Next-Gen Crosscode Talker  
+Next-Gen Decode Talker  
+Next-Gen Encode Talker  
+Next-Gen Endcode Talker  
+Next-Gen Recode Talker  
+Next-Gen Syncode Talker  
+Next-Gen Transcode Talker  
 Rubic Diagonal  
 [Rubic Hexangle](monsters/link/Rubic%20Hexangle.md)  
 Rubic Perpendicular  
@@ -235,6 +252,8 @@ Insta-Level-Up Supreme Slash
 Manifestation Fusion  
 Manifestation Magic  
 Myriad Manoeuvres  
+Next-Gen Devolution  
+Next-Gen Evolution  
 Ninja Artifice  
 Ninja Manifestation  
 [Quick Polymerization](spells/Quick%20Polymerization.md)  
@@ -258,6 +277,8 @@ World Affinity Miracle
 ### Continuous
 Covin of Darquess  
 Dystopian Dreams  
+Frontline Defence  
+Next-Gen Resolution  
 Rubic Construction  
 Spellcasters’ Sanctuary  
 Soul Sanctuary  
@@ -279,6 +300,9 @@ World Affinity Legacy
 ### Equip
 Dystopian Weaponry  
 Myriad Manifestation Umbrella  
+Next-Gen Cyber Claws  
+Next-Gen Cyber Vision  
+Next-Gen Cyber Wings  
 Rubic Slice  
 Soul Dagger  
 
@@ -328,16 +352,22 @@ World Affinity Tragedy
 World Affinity Vengeance  
 
 ### Continuous
+404 Error
+Access Error  
 Charged in Lightning  
+Compile Error  
 [Darkchoke](traps/Darkchoke.md)  
 Dystopian Anarchy  
+Logic Error  
 Magnificence of Darquess  
 Nightmare of Darquess  
 Night Walker  
 Perfection of Darquess  
 Rubic Destruction  
+Runtime Error  
 Shadow Walker  
 Soul Virus  
+Syntax Error  
 Syntax Highlighting  
 The Specialists  
 World Affinity Rivals  
@@ -346,6 +376,7 @@ World Affinity Rivals
 [Darquess Falling](traps/Darquess%20Falling.md)  
 Dragon Head Rising  
 Dystopian Revenge  
+Next-Gen Revolution  
 Revenge of Darquess  
 Rubic Inverse  
 Rubic Transverse  
