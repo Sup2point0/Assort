@@ -9,6 +9,11 @@ It’s getting way too difficult to keep track of all this in my mind, so I need
 ## Aspects
 
 ### Indentation
+I’ve always preferred 2-space indentation. It’s far more subtle and elegant than 4-space. That being said, it does get out of hand when the nesting gets really deep – but if that happens, maybe the code needs refactoring.
+
+The only exception (heh) is C#, which made me start using 4-space identation. I’m not entirely sure why exactly, but it just looks clearer. Maybe it’s the long lines C# tends to entail or the braces-on-their-own line structure.
+
+And of course supcode throws that all out the window with 3-space indentation ;P
 
 | language | spaces |
 | :------- | :----- |
@@ -21,7 +26,6 @@ It’s getting way too difficult to keep track of all this in my mind, so I need
 | JSON | 2 |
 | YAML | 2 |
 | supcode | 3 |
-
 
 
 <br>
@@ -132,3 +136,22 @@ class PascalCase
 | :--- | :------- | :---- |
 | `Executive` `Exec` | `GameExec` `AudioExec` | Manages a particular feature or aspect. |
 | `Spawner` `Origin` | `ParticleSpawner` | Purely handles creation of objects. Often upgraded into an `Executive`. |
+
+### supcode
+
+```
+kebab-case/
+  kebab-case.sc
+```
+
+```
+kebab-case
+
+struct Kebab-Pascal {
+   func kebab-case(par kebab-case) {
+      class kebab-case {
+         set var kebab-case
+      }
+   }
+}
+```
