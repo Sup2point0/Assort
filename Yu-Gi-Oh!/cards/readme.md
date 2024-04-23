@@ -18,10 +18,13 @@ Legendary Lightingale
 
 ### Standard
 Aiza, Invoker of Darquess  
+Alpha the Kinetic Warrior  
 Azia, Envoker of Darquess  
 Berserker Blader  
 Bloody Blossoms of the Afterlife  
+Bloody Blossoms of the Afterworld  
 Cythris, Augur of Darquess  
+Delta the Kinetic Warrior  
 Descendant of Drakon  
 Dyavin, Devoter of Darquess  
 Dystopian Core  
@@ -30,6 +33,7 @@ Dystopian Slayer
 Dystopikekeke  
 Dystopikuriboh  
 Hykarice, Sentry of Darquess  
+Iota the Kinetic Warrior  
 Kekeke Knight  
 Kekeke Magician  
 Kekeke Slacker  
@@ -81,6 +85,7 @@ Vengeful Soul
 Vyktica, Valkyrie of Darquess  
 Wizardo  
 Zaia, Evoker of Darquess  
+Zeta the Kinetic Warrior  
 
 ### Pendulum
 Arcane Battlemage  
@@ -150,6 +155,9 @@ The Neoteric
 Vapour-Eyes Absolute Dragon  
 
 ### Xyz
+Aerion the Kinetic Warrior  
+Arkyrion the Hyperkinetic Fortress  
+Arterion the Superkinetic Warrior  
 [Dark-Knight Onyx Arisen](monsters/xyz/Dark-Knight%20Onyx%20Arisen.md)  
 Dekk-Knight Saffron Resplendence  
 Hi-Tekk-Knight Shining Dawn  
@@ -225,6 +233,7 @@ Dystopian Prophecy
 [Foolish Burial Trade](spells/Foolish%20Burial%20Trade.md)  
 [Foolish Exile](spells/Foolish%20Exile.md)  
 Forged in Lightning  
+It’s In The Name  
 Jokekekefrenzy  
 Pot of Souls  
 Prophecy of Darquess  
@@ -239,6 +248,7 @@ Temptation of Darquess
 [That Grass Looks Darker](spells/That%20Grass%20Looks%20Darker.md)  
 
 ### Quick-Play
+Atrocious Fusion  
 Born in Lightning  
 Crafted in Lightning  
 Divine Destiny  
@@ -278,6 +288,7 @@ World Affinity Miracle
 Covin of Darquess  
 Dystopian Dreams  
 Frontline Defence  
+Immunicipality Central  
 Next-Gen Resolution  
 Rubic Construction  
 Spellcasters’ Sanctuary  
@@ -289,6 +300,7 @@ World Affinity Symphony
 
 ### Field
 Dystopian World  
+Immunicipality Library  
 Lightning Fury  
 Ninja Dojo  
 Realm of Darquess  
@@ -325,6 +337,10 @@ World Affinity Wonder
 Awakening of Darquess  
 [Awakening the Drakon](traps/Awakening%20the%20Drakon.md)  
 Corruption of Darquess  
+Deck Deracination Virus of Dead  
+Deck Destruction Virus of Death  
+Deck Desiccation Virus of Despair  
+Deck Devastation Virus of Doom  
 Dystopian Uprising  
 [Infinite Impertinence](traps/Infinite%20Impertinence.md)  
 Live in Lightning  
@@ -380,6 +396,7 @@ Next-Gen Revolution
 Revenge of Darquess  
 Rubic Inverse  
 Rubic Transverse  
+Solemn Silence  
 Soul Scream  
 Vapourizing Lightning  
 [Victory in Vengeance](Victory%20in%20Vengeance.md)  
