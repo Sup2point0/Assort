@@ -108,16 +108,16 @@ Hi-Tekk-Knight Radiant Spectre
 Levaiza, Ascended of Darquess  
 Lone Autumn Leaf  
 Lynuca, Silencer of Darquess  
-[Primordial Darquessence, Oblivion of Darquess](monsters/fusion/Primordial%20Darquessence.md)  
 Next-Gen A-to-Z Myriad Vanquish  
-Ninjato of the Silent Arts  
 Ninjato of the Arcane Arts  
 Ninjato of the Master Arts  
 Ninjato of the Mystical Arts  
 Ninjato of the Sacred Arts  
 Ninjato of the Sealing Arts  
 Ninjato of the Shadow Arts  
+Ninjato of the Silent Arts  
 Ninjax  
+[Primordial Darquessence, Oblivion of Darquess](monsters/fusion/Primordial%20Darquessence.md)  
 The Awakened Drakon  
 [Vengeance Vanguard](monsters/fusion/Vengeance%20Vanguard.md)  
 Vraiza, Awakened of Darquess  
@@ -133,9 +133,9 @@ Soul Alchemist
 Soul Assassin  
 Soul Guardian  
 Soul Knight  
-Soul Shard Synchron  
-Soul Shard Swordsman  
 Soul Shard Dragon  
+Soul Shard Swordsman  
+Soul Shard Synchron  
 Soul Slayer  
 Soul Snake  
 Soul Wanderer  
@@ -318,7 +318,7 @@ Runes of Darquess
 Seduction of Darquess  
 Soul of Darquess  
 Soul Fracture  
-Soul Rupture
+Soul Rupture  
 [Terrorforming](traps/Terrorforming.md)  
 Tormenting Trap Hole  
 World Affinity Adversity  
@@ -331,10 +331,10 @@ World Affinity Vengeance
 Charged in Lightning  
 [Darkchoke](traps/Darkchoke.md)  
 Dystopian Anarchy  
-Perfection of Darquess  
 Magnificence of Darquess  
 Nightmare of Darquess  
 Night Walker  
+Perfection of Darquess  
 Rubic Destruction  
 Shadow Walker  
 Soul Virus  
