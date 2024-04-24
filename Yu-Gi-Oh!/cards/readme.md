@@ -35,6 +35,7 @@ Chemikalamity Dracovalent
 Chemikalamity Hydragon  
 Cynex Trinket  
 Cythris, Augur of Darquess  
+Dead-Eyes Dragon  
 Delta the Kinetic Warrior  
 Descendant of Drakon  
 Dragmatika Adin, the Enlightened  
@@ -77,6 +78,7 @@ Next-Gen Raidraptor – Singing Lanius
 Next-Gen Raidraptor – Stray Lanius  
 Next-Gen Raidraptor – Vanishing Lanius  
 [Ninjato](monsters/standard/Ninjato.md)  
+Ophiocordyceps Unilateralis  
 Rubic Angular  
 Rubic Axis  
 Rubic Cosecant  
@@ -110,6 +112,11 @@ The Technician
 The Tinkerer  
 Vapour-Eyes Dragon  
 Vengeful Soul  
+Virus Node  
+Virus Root  
+Virus Sac  
+Virus Spore  
+Virus Strand  
 Vyktica, Valkyrie of Darquess  
 Wizardo  
 Zaia, Evoker of Darquess  
@@ -132,6 +139,8 @@ Rainbow-Eyes Pendulum Dragon
 Spellblade  
 
 ### Ritual
+Dead-Eyes Darkness Dragon  
+Dead-Eyes Despair Dragon  
 Hi-Tekk-Knight Ultramarine Wonder  
 [Laiza, Enchantress of Darquess](monsters/ritual/Laiza.md)  
 [Raiza, Sorceress of Darquess](monsters/ritual/Raiza.md)  
@@ -150,6 +159,12 @@ White Nadir of Dragmatika
 Chemikaze Carboxide Predator  
 Chemikaze Carboxylaser Vanquion  
 Chemikaze Carboxylava Cracker  
+Darkuriboh  
+Dead-Eyes Destruction Dragon  
+Dead-Eyes Devastation Dragon  
+Dead-Eyes Monstrosity  
+Dead-Eyes Rampage Dragon  
+Dead-Eyes Underworld Dragon  
 Dekk-Knight Divine Iridescence  
 Dragmatikabomination  
 Dragmatikatrocity  
@@ -214,6 +229,9 @@ Arkyrion the Hyperkinetic Fortress
 Arterion the Superkinetic Warrior  
 Chemikaze Ironflare Plasmoid  
 [Dark-Knight Onyx Arisen](monsters/xyz/Dark-Knight%20Onyx%20Arisen.md)  
+Dead-Eyes Doom Dragon  
+Dead-Eyes Doomsday Dragon  
+Dead-Eyes Revenge Dragon  
 Dekk-Knight Saffron Resplendence  
 Eternal King Dragon Dark Vengeance  
 Hi-Tekk-Knight Shining Dawn  
@@ -298,6 +316,7 @@ Unspecialyzed
 Allure of Darquess  
 Cynex Syncing  
 Cynex Wiring  
+Dead-Eyes Advent  
 Descent into Dystopia  
 Dragmatikacolyte  
 Dystopian Prophecy  
@@ -313,6 +332,8 @@ Next-Gen Raidraptor – Swoop
 Organic Synthesiss  
 Pot of Audacity  
 Pot of Souls  
+Pot of Vengeance  
+Pot of Virality  
 Prophecy of Darquess  
 Rakurai  
 Really Painful Choice  
@@ -457,7 +478,9 @@ Awakening of Darquess
 Corruption of Darquess  
 Cynex Execution  
 Cynex Patch  
-Deck Deracination Virus of Dead  
+Dead-Eyes Decay  
+Dead-Eyes Massacre  
+Deck Deracination Virus of Dread  
 Deck Destruction Virus of Death  
 Deck Desiccation Virus of Despair  
 Deck Devastation Virus of Doom  
@@ -491,6 +514,8 @@ Stranded in Dragmatika
 Sudden Reaction  
 [Terrorforming](traps/Terrorforming.md)  
 Tormenting Trap Hole  
+Viral Infection  
+Viral Seizure  
 Volatile Combustion  
 World Affinity Adversity  
 World Affinity Clash  
@@ -520,10 +545,16 @@ Shadow Walker
 Soul Virus  
 Syntax Error  
 Syntax Highlighting  
+Tendrils of Concealing Darkness  
+Viral Overload  
 World Affinity Rivals  
 
 ### Counter
 [Darquess Falling](traps/Darquess%20Falling.md)  
+Deck Eradication Virus of Agony  
+Deck Erasure Virus of Atrocity  
+Deck Excruciation Virus of Anguish  
+Deck Extinction Virus of Annihilation  
 Dragmatikacism  
 Dragon Head Rising  
 Dystopian Revenge  
