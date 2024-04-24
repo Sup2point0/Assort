@@ -20,6 +20,7 @@ You probably notice a lot of cards with similar or half-identical names to exist
 
 ### Normal
 Legendary Lightingale  
+The Ponderer  
 
 ### Standard
 Aiza, Invoker of Darquess  
@@ -146,6 +147,7 @@ Rainbow-Eyes Pendulum Dragon
 Spellblade  
 
 ### Ritual
+Aquilion, Ancient Protector  
 Dead-Eyes Darkness Dragon  
 Dead-Eyes Despair Dragon  
 Hi-Tekk-Knight Ultramarine Wonder  
@@ -213,6 +215,7 @@ Antarctron Avrax
 Antarctron Avrax Armazetton  
 Antarctron Avrax Attacker  
 Arisen of Dragmatika  
+Atalos, Legendary Protector  
 Dark Vengeance Xyz Dragon  
 Dekk-Knight Cerise Evanescence  
 Eternal King Dragon Tear Wing  
@@ -278,6 +281,7 @@ Number -V39: Dystopia Legend
 Number -X39: Dystopia Exceed  
 Number -Y39: Dystopia Rising  
 Number -Z39: Dystopia Reverie  
+Questionable Igloo  
 [Rubic Arcsecant](monsters/xyz/Rubic%20Arcsecant.md)  
 Rubic Excosecant  
 Rubic Exsecant  
@@ -291,10 +295,12 @@ Antarctron Infrare
 Antarctron Injekt  
 Antarctron Vanquish  
 Antarctron Venture  
+Aquriboh  
 Architechnician  
 [Ark-Knight Cerulean Aventurescence](monsters/link/Ark-Knight%20Cerulean%20Aventurescence.md)  
 Aversus Singularity Impact Delta Crisis Zero  
 Chemikaze Siliconductor Destroyer  
+Cryptoplankton  
 Cynex Coder  
 Dancing Rain  
 Dekk-Knight Radical Trinity  
@@ -342,17 +348,20 @@ Dead-Eyes Advent
 Descent into Dystopia  
 Dragmatikacolyte  
 Dystopian Prophecy  
+Epic Expedition  
 Eternal Desire  
 [Final Vanquish](spells/Final%20Vanquish.md)  
 [Foolish Burial Trade](spells/Foolish%20Burial%20Trade.md)  
 [Foolish Exile](spells/Foolish%20Exile.md)  
 It’s In The Name  
 Jokekekefrenzy  
+Legend of Atalon  
 Next-Gen Raidraptor – Dawn  
 Next-Gen Raidraptor – Recruit  
 Next-Gen Raidraptor – Swoop  
 Organic Synthesiss  
 Pot of Audacity  
+Pot of Solidarity  
 Pot of Souls  
 Pot of Vengeance  
 Pot of Virality  
@@ -438,6 +447,7 @@ Antarctech Geomatrix
 Antarctron Advance  
 Antarctron Adventure  
 Antarctron Unity  
+Cavern of the Ancients  
 Chain Reaction  
 Covin of Darquess  
 Cynex Source  
@@ -445,9 +455,11 @@ Displacement Reaction
 Dragmatikaltruism  
 Dragmatikatrix  
 Dystopian Dreams  
+Esperanza Citadel  
 Frontline Defence  
 Heart of the Underling  
 Immunicipality Central  
+Inga Icicle Fortress  
 Lightning Heart  
 Next-Gen Raidraptor – Emblem  
 Next-Gen Resolution  
@@ -457,7 +469,10 @@ Soul Sanctuary
 Soul Walker  
 Spirit of the Supreme Sworsman  
 Substitution Reaction  
-THe Specialists  
+The Geographic South  
+The Magnetic South  
+The Specialists  
+The True South  
 World Affinity Excursion  
 World Affinity Symphony
 
@@ -476,6 +491,7 @@ Realm of Darquess
 Rubic Plane  
 Soul Chasm  
 Soul Necropolis  
+Terra Australis Incognita  
 World Affinity Legacy  
 
 ### Equip
@@ -489,6 +505,7 @@ Rubic Slice
 Soul Dagger  
 
 ### Ritual
+Aurora Australis  
 [Darquess Rising](spells/Darquess%20Rising.md)  
 Dragmatikabre  
 Dragmatikalamity  
@@ -540,6 +557,7 @@ Rubic Rotation
 Runes of Darquess  
 Seduction of Darquess  
 Shining Mirror Force  
+Snowstorm  
 Soul of Darquess  
 Soul Fracture  
 Soul Rupture  
