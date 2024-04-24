@@ -66,6 +66,16 @@ Lightning Shrike
 Lightning Wing  
 Lyfris, Herald of Darquess  
 Next-Gen Odd-Eyes Dragon  
+Next-Gen Raidraptor – Crying Lanius  
+Next-Gen Raidraptor – Dashing Lanius  
+Next-Gen Raidraptor – Diversion Lark  
+Next-Gen Raidraptor – Scavenge Lanius  
+Next-Gen Raidraptor – Screaming Lanius  
+Next-Gen Raidraptor – Seeking Lanius  
+Next-Gen Raidraptor – Signal Lark  
+Next-Gen Raidraptor – Singing Lanius  
+Next-Gen Raidraptor – Stray Lanius  
+Next-Gen Raidraptor – Vanishing Lanius  
 [Ninjato](monsters/standard/Ninjato.md)  
 Rubic Angular  
 Rubic Axis  
@@ -196,6 +206,16 @@ Neo Ultimate Vapour-Eyes Lightning Dragon
 Neo Vapour-Eyes Arc Lightning Dragon  
 Neo Vapour-Eyes Lightning Dragon  
 Next-Gen Processlayer Laplacian  
+Next-Gen Raidraptor – Ally Falcon  
+Next-Gen Raidraptor – Covert Hawk  
+Next-Gen Raidraptor – Final Fortress Falcon
+Next-Gen Raidraptor – Intelligence Hawk  
+Next-Gen Raidraptor – Rebel Falcon  
+Next-Gen Raidraptor – Revolution Falcon  
+Next-Gen Raidraptor – Rise Falcon  
+Next-Gen Raidraptor – Valiant Falcon  
+Next-Gen Raidraptor – Vengeance Falcon  
+Next-Gen Raidraptor – Victory Falcon  
 Number -11: Tiny Eye  
 Number -39: Dystopia  
 Number -99: Dystopian Dragon  
@@ -270,6 +290,9 @@ Dystopian Prophecy
 [Foolish Exile](spells/Foolish%20Exile.md)  
 It’s In The Name  
 Jokekekefrenzy  
+Next-Gen Raidraptor – Dawn  
+Next-Gen Raidraptor – Recruit  
+Next-Gen Raidraptor – Swoop  
 Organic Synthesiss  
 Pot of Audacity  
 Pot of Souls  
@@ -319,10 +342,14 @@ Ninja Manifestation
 Rank-Down-Magic Dystopian End  
 Rank-Down-Magic Dystopian Fall  
 Rank-Down-Magic Dystopian Force  
+Rank-Up-Magic Ascent Force  
+Rank-Up-Magic Devotion Force  
 Rank-Up-Magic Dystopian Rise  
+Rank-Up-Magic Final Force  
 Rank-Up-Magic Lightning Arc Rise  
 Rank-Up-Magic Lightning Ascension  
 Rank-Up-Magic Lightning Rise  
+Rank-Up-Magic Soul Force  
 Rank-Up-Magic Vapour Rise  
 Rubic Function  
 Soul Illusion  
@@ -350,6 +377,7 @@ Frontline Defence
 Heart of the Underling  
 Immunicipality Central  
 Lightning Heart  
+Next-Gen Raidraptor – Emblem  
 Next-Gen Resolution  
 Rubic Construction  
 Spellcasters’ Sanctuary  
@@ -368,6 +396,7 @@ Dragmatikabyss
 Dystopian World  
 Immunicipality Library  
 Lightning Fury  
+Next-Gen Raidraptor – Nest  
 Ninja Dojo  
 Realm of Darquess  
 Rubic Plane  
@@ -381,6 +410,7 @@ Myriad Manifestation Umbrella
 Next-Gen Cyber Claws  
 Next-Gen Cyber Vision  
 Next-Gen Cyber Wings  
+Next-Gen Raidraptor – Rebel Wings  
 Rubic Slice  
 Soul Dagger  
 
@@ -419,6 +449,8 @@ Equilibrium Reaction
 Interdimensional Translocator  
 Live in Lightning  
 Manifestation Manoeuvres  
+Next-Gen Raidraptor – Advance  
+Next-Gen Raidraptor – Strike  
 Quick Escape  
 Quick Refresh  
 Quick Vanish  
@@ -456,6 +488,7 @@ Dragmatikagony
 Dystopian Anarchy  
 Logic Error  
 Magnificence of Darquess  
+Next-Gen Raidraptor – Resistance  
 Nightmare of Darquess  
 Night Walker  
 Perfection of Darquess  
@@ -473,6 +506,7 @@ Dragmatikacism
 Dragon Head Rising  
 Dystopian Revenge  
 Neutralization Reaction  
+Next-Gen Raidraptor – Claw  
 Next-Gen Revolution  
 Resource Leak  
 Revenge of Darquess  
