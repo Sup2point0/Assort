@@ -4,6 +4,8 @@ All the custom cards I’ve created.[^create] Of course, this is nowhere near co
 
 [^create]: ‘create’ here means either that the card exists (or did exist at some point) on [DuelingBook<sup>↗</sup](https://duelingbook.com).
 
+You probably notice a lot of cards with similar or half-identical names to existing cards – yeah that’s intentional, I really enjoy making parodies of existing cards fsr ;P
+
 > [!Tip]
 > [Linked]() cards have their own individual pages.
 
@@ -31,6 +33,7 @@ Chemicool Nitro Hawk
 Chemicool Oxy Fox  
 Chemikalamity Dracovalent  
 Chemikalamity Hydragon  
+Cynex Trinket  
 Cythris, Augur of Darquess  
 Delta the Kinetic Warrior  
 Descendant of Drakon  
@@ -177,8 +180,6 @@ Neo Ultimate Vapour-Eyes Arc Lightning Dragon
 Neo Ultimate Vapour-Eyes Lightning Dragon  
 Neo Vapour-Eyes Arc Lightning Dragon  
 Neo Vapour-Eyes Lightning Dragon  
-Next-Gen Firewall Dragon  
-Next-Gen Firewall Dragon Paradoxx  
 Next-Gen Processlayer Laplacian  
 Number -11: Tiny Eye
 Number -39: Dystopia  
@@ -205,6 +206,7 @@ Architechnician
 [Ark-Knight Cerulean Aventurescence](monsters/link/Ark-Knight%20Cerulean%20Aventurescence.md)  
 Aversus Singularity Impact Delta Crisis Zero  
 Chemikaze Siliconductor Destroyer  
+Cynex Coder  
 Dancing Rain  
 Dekk-Knight Radical Trinity  
 Hi-Tekk-Knight Crystalline Lustre  
@@ -215,6 +217,8 @@ Next-Gen Crosscode Talker
 Next-Gen Decode Talker  
 Next-Gen Encode Talker  
 Next-Gen Endcode Talker  
+Next-Gen Firewall Dragon  
+Next-Gen Firewall Dragon Paradoxx  
 Next-Gen Recode Talker  
 Next-Gen Syncode Talker  
 Next-Gen Transcode Talker  
@@ -241,6 +245,8 @@ Unspecialyzed
 
 ### Normal
 Allure of Darquess  
+Cynex Syncing  
+Cynex Wiring  
 Descent into Dystopia  
 Dystopian Prophecy  
 [Final Vanquish](spells/Final%20Vanquish.md)  
@@ -270,7 +276,11 @@ Activation Energy
 Atrocious Fusion  
 Born in Lightning  
 Chain Polymerization  
+Code Autocomplete  
 Crafted in Lightning  
+Cynex Overclock  
+Cynex Storm  
+Cynex Update  
 Divine Destiny  
 Ephemeral Lightning  
 Exceed Attack  
@@ -298,6 +308,7 @@ Soul Manifestation
 Soul Purity  
 Soul Resurgence  
 Soul Seeker  
+Storm Access  
 Whirling Tornado Slash  
 World Affinity Ascension  
 World Affinity Destiny  
@@ -307,6 +318,7 @@ World Affinity Miracle
 ### Continuous
 Chain Reaction  
 Covin of Darquess  
+Cynex Source  
 Displacement Reaction  
 Dystopian Dreams  
 Frontline Defence  
@@ -319,10 +331,13 @@ Soul Sanctuary
 Soul Walker  
 Spirit of the Supreme Sworsman  
 Substitution Reaction  
+THe Specialists  
 World Affinity Excursion  
 World Affinity Symphony
 
 ### Field
+Cynex Infrastructure  
+Cynex Universe  
 Dystopian World  
 Immunicipality Library  
 Lightning Fury  
@@ -361,6 +376,8 @@ World Affinity Wonder
 Awakening of Darquess  
 [Awakening the Drakon](traps/Awakening%20the%20Drakon.md)  
 Corruption of Darquess  
+Cynex Execution  
+Cynex Patch  
 Deck Deracination Virus of Dead  
 Deck Destruction Virus of Death  
 Deck Desiccation Virus of Despair  
@@ -401,6 +418,7 @@ World Affinity Vengeance
 Access Error  
 Charged in Lightning  
 Compile Error  
+Cynex Malware  
 [Darkchoke](traps/Darkchoke.md)  
 Dystopian Anarchy  
 Logic Error  
@@ -414,7 +432,6 @@ Shadow Walker
 Soul Virus  
 Syntax Error  
 Syntax Highlighting  
-The Specialists  
 World Affinity Rivals  
 
 ### Counter
@@ -423,6 +440,7 @@ Dragon Head Rising
 Dystopian Revenge  
 Neutralization Reaction  
 Next-Gen Revolution  
+Resource Leak  
 Revenge of Darquess  
 Rubic Inverse  
 Rubic Transverse  
