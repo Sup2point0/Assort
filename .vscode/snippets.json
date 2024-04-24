@@ -1,0 +1,60 @@
+{
+	"suptools script": {
+		"prefix": "sup.script",
+		"body": [
+			"import suptools as sup",
+			"",
+      "",
+      "def script():",
+      "  '''",
+      "  ${1:...}",
+      "  '''",
+			"",
+      "",
+      "if __name__ == \"__main__\":",
+      "  sup.run(script)",
+      "",
+		]
+	},
+  "nextcord cog": {
+    "prefix": "disc.cog",
+    "body": [
+      "'''",
+      "${1:...}",
+      "'''",
+      "",
+      "import nextcord as disc",
+      "from nextcord import Embed",
+      "from nextcord.ext import commands",
+      "",
+      "",
+      "class ${2:Cog}(commands.Cog):",
+      "  '''${3:...}'''",
+      "  ",
+      "  def __init__(self, bot):",
+      "    self.bot = bot",
+      "",
+    ]
+  },
+  "nextcord slash command": {
+    "prefix": "disc.slash",
+    "body": [
+      "@ disc.slash_command()",
+      "async def $1(self, ctx,",
+      "  ",
+      "):",
+      "  '''${2:...}'''",
+      "  ",
+      "  await ctx.send()",
+    ]
+  },
+  "nextcord slash option": {
+    "prefix": "disc.option",
+    "body": [
+      "SlashOption(",
+      "  \"${1:...}\", \"${2:...}\",",
+      "  required = ${3:False}, default = None,",
+      "),",
+    ]
+  }
+}
