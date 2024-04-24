@@ -7,6 +7,9 @@ All the custom cards I’ve created.[^create] Of course, this is nowhere near co
 > [!Tip]
 > [Linked]() cards have their own individual pages.
 
+> [!Note]
+> Most cards from the [*Stranded Saga*](../lore/Stranded%20Saga/) have not been included, since those were never created and so are subject to change.
+
 
 <br>
 
@@ -23,6 +26,11 @@ Azia, Envoker of Darquess
 Berserker Blader  
 Bloody Blossoms of the Afterlife  
 Bloody Blossoms of the Afterworld  
+Chemicool Carbo Crab  
+Chemicool Nitro Hawk  
+Chemicool Oxy Fox  
+Chemikalamity Dracovalent  
+Chemikalamity Hydragon  
 Cythris, Augur of Darquess  
 Delta the Kinetic Warrior  
 Descendant of Drakon  
@@ -106,6 +114,9 @@ Soul Swordsman
 [World Affinity Tyrian Pendragon](monsters/ritual/World%20Affinity%20Tyrian%20Pendragon.md)  
 
 ### Fusion
+Chemikaze Carboxide Predator  
+Chemikaze Carboxylaser Vanquion  
+Chemikaze Carboxylava Cracker  
 Dekk-Knight Divine Iridescence  
 Dyvarice, Corruptor of Darquess  
 Elaiza, Arisen of Darquess  
@@ -159,6 +170,7 @@ Aerion the Kinetic Warrior
 Arkyrion the Hyperkinetic Fortress  
 Arterion the Superkinetic Warrior  
 [Dark-Knight Onyx Arisen](monsters/xyz/Dark-Knight%20Onyx%20Arisen.md)  
+Chemikaze Ironflare Plasmoid  
 Dekk-Knight Saffron Resplendence  
 Hi-Tekk-Knight Shining Dawn  
 Neo Ultimate Vapour-Eyes Arc Lightning Dragon  
@@ -192,6 +204,7 @@ Vapour-Eyes Lightning Dragon
 Architechnician  
 [Ark-Knight Cerulean Aventurescence](monsters/link/Ark-Knight%20Cerulean%20Aventurescence.md)  
 Aversus Singularity Impact Delta Crisis Zero  
+Chemikaze Siliconductor Destroyer  
 Dancing Rain  
 Dekk-Knight Radical Trinity  
 Hi-Tekk-Knight Crystalline Lustre  
@@ -236,6 +249,7 @@ Dystopian Prophecy
 Forged in Lightning  
 It’s In The Name  
 Jokekekefrenzy  
+Organic Synthesiss  
 Pot of Audacity  
 Pot of Souls  
 Prophecy of Darquess  
@@ -247,12 +261,15 @@ Rubic Permutation
 Rubic Solution  
 Soul Corruption  
 Soul Scripture  
+Swing of Nostalgia  
 Temptation of Darquess  
 [That Grass Looks Darker](spells/That%20Grass%20Looks%20Darker.md)  
 
 ### Quick-Play
+Activation Energy  
 Atrocious Fusion  
 Born in Lightning  
+Chain Polymerization  
 Crafted in Lightning  
 Divine Destiny  
 Ephemeral Lightning  
@@ -288,9 +305,12 @@ World Affinity Discovery
 World Affinity Miracle  
 
 ### Continuous
+Chain Reaction  
 Covin of Darquess  
+Displacement Reaction  
 Dystopian Dreams  
 Frontline Defence  
+Heart of the Underling  
 Immunicipality Central  
 Next-Gen Resolution  
 Rubic Construction  
@@ -298,6 +318,7 @@ Spellcasters’ Sanctuary
 Soul Sanctuary  
 Soul Walker  
 Spirit of the Supreme Sworsman  
+Substitution Reaction  
 World Affinity Excursion  
 World Affinity Symphony
 
@@ -345,6 +366,7 @@ Deck Destruction Virus of Death
 Deck Desiccation Virus of Despair  
 Deck Devastation Virus of Doom  
 Dystopian Uprising  
+Equilibrium Reaction  
 [Infinite Impertinence](traps/Infinite%20Impertinence.md)  
 Interdimensional Translocator  
 Live in Lightning  
@@ -364,8 +386,10 @@ Shining Mirror Force
 Soul of Darquess  
 Soul Fracture  
 Soul Rupture  
+Sudden Reaction  
 [Terrorforming](traps/Terrorforming.md)  
 Tormenting Trap Hole  
+Volatile Combustion  
 World Affinity Adversity  
 World Affinity Clash  
 World Affinity Descension  
@@ -397,6 +421,7 @@ World Affinity Rivals
 [Darquess Falling](traps/Darquess%20Falling.md)  
 Dragon Head Rising  
 Dystopian Revenge  
+Neutralization Reaction  
 Next-Gen Revolution  
 Revenge of Darquess  
 Rubic Inverse  
