@@ -117,8 +117,18 @@ Zeta the Kinetic Warrior
 
 ### Pendulum
 Arcane Battlemage  
+Astral Stargazer Magician  
+Eternal Gate Zero  
+Eternal King Dragon Rainbow-Eyes  
+Eternal King Infinity  
+Eternal King Servant Astrograph Sorcerer  
+Eternal King Servant Darkwurm  
+Eternal King Servant Kronograph Sorcerer  
+Dimensional Duelist Z-ARC
 Faithful Cleric  
 Ghostblade  
+Primordial Timegazer Magician  
+Rainbow-Eyes Pendulum Dragon  
 Spellblade  
 
 ### Ritual
@@ -145,6 +155,8 @@ Dragmatikabomination
 Dragmatikatrocity  
 Dyvarice, Corruptor of Darquess  
 Elaiza, Arisen of Darquess  
+Eternal King Dragon Screaming Venom  
+Eternal King Z-ARC  
 Hi-Tekk-Knight Radiant Spectre  
 Levaiza, Ascended of Darquess  
 Lone Autumn Leaf  
@@ -162,6 +174,7 @@ Ninjato of the Shadow Arts
 Ninjato of the Silent Arts  
 Ninjax  
 [Primordial Darquessence, Oblivion of Darquess](monsters/fusion/Primordial%20Darquessence.md)  
+Screaming Venom Fusion Dragon  
 The Awakened Drakon  
 XYZ-Gen Cyber Crush Overdragon  
 [Vengeance Vanguard](monsters/fusion/Vengeance%20Vanguard.md)  
@@ -169,7 +182,9 @@ Vraiza, Awakened of Darquess
 
 ### Synchro
 Arisen of Dragmatika  
+Dark Vengeance Xyz Dragon  
 Dekk-Knight Cerise Evanescence  
+Eternal King Dragon Tear Wing  
 Hi-Tekk-Knight Lucent Edge  
 [Rubic Arcsine](monsters/synchro/Rubic%20Arcsine.md)  
 Rubic Haversine  
@@ -197,9 +212,10 @@ White Relic of Dragmatika
 Aerion the Kinetic Warrior  
 Arkyrion the Hyperkinetic Fortress  
 Arterion the Superkinetic Warrior  
-[Dark-Knight Onyx Arisen](monsters/xyz/Dark-Knight%20Onyx%20Arisen.md)  
 Chemikaze Ironflare Plasmoid  
+[Dark-Knight Onyx Arisen](monsters/xyz/Dark-Knight%20Onyx%20Arisen.md)  
 Dekk-Knight Saffron Resplendence  
+Eternal King Dragon Dark Vengeance  
 Hi-Tekk-Knight Shining Dawn  
 Neo Ultimate Vapour-Eyes Arc Lightning Dragon  
 Neo Ultimate Vapour-Eyes Lightning Dragon  
@@ -285,6 +301,7 @@ Cynex Wiring
 Descent into Dystopia  
 Dragmatikacolyte  
 Dystopian Prophecy  
+Eternal Desire  
 [Final Vanquish](spells/Final%20Vanquish.md)  
 [Foolish Burial Trade](spells/Foolish%20Burial%20Trade.md)  
 [Foolish Exile](spells/Foolish%20Exile.md)  
@@ -308,6 +325,7 @@ Soul Scripture
 Swing of Nostalgia  
 Temptation of Darquess  
 [That Grass Looks Darker](spells/That%20Grass%20Looks%20Darker.md)  
+Tiny World  
 Wings of Light  
 
 ### Quick-Play
@@ -322,6 +340,7 @@ Cynex Storm
 Cynex Update  
 Divine Destiny  
 Ephemeral Lightning  
+Eternal Unity  
 Exceed Attack  
 Forged in Lightning  
 Ghostplay  
@@ -394,6 +413,7 @@ Cynex Infrastructure
 Cynex Universe  
 Dragmatikabyss  
 Dystopian World  
+Eternal King’s Dynasty  
 Immunicipality Library  
 Lightning Fury  
 Next-Gen Raidraptor – Nest  
@@ -445,6 +465,7 @@ Dragmatikaturgy
 Dragmatikaxiom  
 Dystopian Uprising  
 Equilibrium Reaction  
+Eternal King’s Soul  
 [Infinite Impertinence](traps/Infinite%20Impertinence.md)  
 Interdimensional Translocator  
 Live in Lightning  
@@ -486,6 +507,7 @@ Cynex Malware
 [Darkchoke](traps/Darkchoke.md)  
 Dragmatikagony  
 Dystopian Anarchy  
+Eternal Supremacy  
 Logic Error  
 Magnificence of Darquess  
 Next-Gen Raidraptor – Resistance  
@@ -505,6 +527,7 @@ World Affinity Rivals
 Dragmatikacism  
 Dragon Head Rising  
 Dystopian Revenge  
+Eternal Vengeance  
 Neutralization Reaction  
 Next-Gen Raidraptor – Claw  
 Next-Gen Revolution  
