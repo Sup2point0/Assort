@@ -65,6 +65,12 @@ Ephemeral Solitude
 Ephemeral Sympathy  
 Ephemeral Yearning  
 Fallen of Dragmatika  
+Fractured Heart  
+Fractured in Hope  
+Fractured in Love  
+Fractured in Pain  
+Fractured in Tears  
+Fractured Mind  
 Hykarice, Sentry of Darquess  
 Iota the Kinetic Warrior  
 Kekeke Knight  
@@ -100,6 +106,12 @@ Rubic Cosecant
 Rubic Cosine  
 Rubic Secant  
 Rubic Sine  
+Shattered Heart  
+Shattered in Hope  
+Shattered in Love  
+Shattered in Pain  
+Shattered in Tears  
+Shattered Mind  
 [Silent Assassin](monsters/standard/Silent%20Assassin.md)  
 Sorrowful Soul  
 Soul Demon  
@@ -374,6 +386,7 @@ Eternal Desire
 [Final Vanquish](spells/Final%20Vanquish.md)  
 [Foolish Burial Trade](spells/Foolish%20Burial%20Trade.md)  
 [Foolish Exile](spells/Foolish%20Exile.md)  
+Fractured Aura  
 It’s In The Name  
 Jokekekefrenzy  
 Legend of Atalon  
@@ -513,12 +526,14 @@ Dragmatikabyss
 Dystopian World  
 Ephemeral Ephemerality  
 Eternal King’s Dynasty  
+Fractured Reality  
 Immunicipality Library  
 Lightning Fury  
 Next-Gen Raidraptor – Nest  
 Ninja Dojo  
 Realm of Darquess  
 Rubic Plane  
+Shattered Reality  
 Soul Chasm  
 Soul Necropolis  
 Terra Australis Incognita  
