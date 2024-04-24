@@ -191,6 +191,7 @@ Vapour-Eyes Lightning Dragon
 ### Link
 Architechnician  
 [Ark-Knight Cerulean Aventurescence](monsters/link/Ark-Knight%20Cerulean%20Aventurescence.md)  
+Aversus Singularity Impact Delta Crisis Zero  
 Dancing Rain  
 Dekk-Knight Radical Trinity  
 Hi-Tekk-Knight Crystalline Lustre  
@@ -235,9 +236,11 @@ Dystopian Prophecy
 Forged in Lightning  
 It’s In The Name  
 Jokekekefrenzy  
+Pot of Audacity  
 Pot of Souls  
 Prophecy of Darquess  
 Rakurai  
+Really Painful Choice  
 Rites of Darquess  
 [Rubic Algorithm](spells/Rubic%20Algorithm.md)  
 Rubic Permutation  
@@ -343,6 +346,7 @@ Deck Desiccation Virus of Despair
 Deck Devastation Virus of Doom  
 Dystopian Uprising  
 [Infinite Impertinence](traps/Infinite%20Impertinence.md)  
+Interdimensional Translocator  
 Live in Lightning  
 Manifestation Manoeuvres  
 Quick Escape  
@@ -356,6 +360,7 @@ Rubic Rotation
 [Rubic Scramble](traps/Rubic%20Scramble.md)  
 Runes of Darquess  
 Seduction of Darquess  
+Shining Mirror Force  
 Soul of Darquess  
 Soul Fracture  
 Soul Rupture  
