@@ -24,6 +24,13 @@ Legendary Lightingale
 ### Standard
 Aiza, Invoker of Darquess  
 Alpha the Kinetic Warrior  
+Antarctron Alpha Claw  
+Antarctron Alpha Edge  
+Antarctron Alpha One  
+Antarctron Alpha Prime  
+Antarctron Alpha Wing  
+Antarctron Alpha Zero  
+Antarctron Delta Interrupt  
 Azia, Envoker of Darquess  
 Berserker Blader  
 Bloody Blossoms of the Afterlife  
@@ -196,6 +203,15 @@ XYZ-Gen Cyber Crush Overdragon
 Vraiza, Awakened of Darquess  
 
 ### Synchro
+Antarctron Arcana  
+Antarctron Arcana ACX  
+Antarctron Ascept  
+Antarctron Aspect  
+Antarctron Aurora  
+Antarctron Aviaze  
+Antarctron Avrax  
+Antarctron Avrax Armazetton  
+Antarctron Avrax Attacker  
 Arisen of Dragmatika  
 Dark Vengeance Xyz Dragon  
 Dekk-Knight Cerise Evanescence  
@@ -242,7 +258,7 @@ Neo Vapour-Eyes Lightning Dragon
 Next-Gen Processlayer Laplacian  
 Next-Gen Raidraptor – Ally Falcon  
 Next-Gen Raidraptor – Covert Hawk  
-Next-Gen Raidraptor – Final Fortress Falcon
+Next-Gen Raidraptor – Final Fortress Falcon  
 Next-Gen Raidraptor – Intelligence Hawk  
 Next-Gen Raidraptor – Rebel Falcon  
 Next-Gen Raidraptor – Revolution Falcon  
@@ -271,6 +287,10 @@ Vapour-Eyes Arc Lightning Dragon
 Vapour-Eyes Lightning Dragon  
 
 ### Link
+Antarctron Infrare  
+Antarctron Injekt  
+Antarctron Vanquish  
+Antarctron Venture  
 Architechnician  
 [Ark-Knight Cerulean Aventurescence](monsters/link/Ark-Knight%20Cerulean%20Aventurescence.md)  
 Aversus Singularity Impact Delta Crisis Zero  
@@ -314,6 +334,8 @@ Unspecialyzed
 
 ### Normal
 Allure of Darquess  
+Antarctech Armaments  
+Antarctech Infrastructure  
 Cynex Syncing  
 Cynex Wiring  
 Dead-Eyes Advent  
@@ -351,6 +373,12 @@ Wings of Light
 
 ### Quick-Play
 Activation Energy  
+Antarctech Synthesis  
+Antarctron Arrival  
+Antarctron Acceleration  
+Antarctron Accuracy  
+Antarctron Action  
+Antarctron Ascent  
 Atrocious Fusion  
 Born in Lightning  
 Chain Polymerization  
@@ -406,6 +434,10 @@ World Affinity Discovery
 World Affinity Miracle  
 
 ### Continuous
+Antarctech Geomatrix  
+Antarctron Advance  
+Antarctron Adventure  
+Antarctron Unity  
 Chain Reaction  
 Covin of Darquess  
 Cynex Source  
@@ -430,6 +462,7 @@ World Affinity Excursion
 World Affinity Symphony
 
 ### Field
+Antarctech Geosphere  
 Cynex Infrastructure  
 Cynex Universe  
 Dragmatikabyss  
@@ -550,6 +583,10 @@ Viral Overload
 World Affinity Rivals  
 
 ### Counter
+Antarctricks  
+Antarctron Ambush  
+Antarctron Counterattack  
+Antarctron Counterstrike  
 [Darquess Falling](traps/Darquess%20Falling.md)  
 Deck Eradication Virus of Agony  
 Deck Erasure Virus of Atrocity  
