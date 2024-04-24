@@ -37,12 +37,18 @@ Cynex Trinket
 Cythris, Augur of Darquess  
 Delta the Kinetic Warrior  
 Descendant of Drakon  
+Dragmatika Adin, the Enlightened  
+Dragmatika Ashiyan, the Devoted  
+Dragmatika Ecclesia, the Virtuous  
+Dragmatika Fleurdelis, the Knighted
+Dragmatika Maximus, the Magnificent  
 Dyavin, Devoter of Darquess  
 Dystopian Core  
 Dystopian Sage  
 Dystopian Slayer  
 Dystopikekeke  
 Dystopikuriboh  
+Fallen of Dragmatika  
 Hykarice, Sentry of Darquess  
 Iota the Kinetic Warrior  
 Kekeke Knight  
@@ -114,6 +120,9 @@ Soul Dragon
 Soul Elder  
 Soul Swordsman  
 [Vaiza, Empress of Darquess](monsters/ritual/Vaiza.md)  
+White Exalted of Dragmatika  
+White Knight of Dragmatika  
+White Nadir of Dragmatika  
 [World Affinity Tyrian Pendragon](monsters/ritual/World%20Affinity%20Tyrian%20Pendragon.md)  
 
 ### Fusion
@@ -121,6 +130,8 @@ Chemikaze Carboxide Predator
 Chemikaze Carboxylaser Vanquion  
 Chemikaze Carboxylava Cracker  
 Dekk-Knight Divine Iridescence  
+Dragmatikabomination  
+Dragmatikatrocity  
 Dyvarice, Corruptor of Darquess  
 Elaiza, Arisen of Darquess  
 Hi-Tekk-Knight Radiant Spectre  
@@ -146,6 +157,7 @@ XYZ-Gen Cyber Crush Overdragon
 Vraiza, Awakened of Darquess  
 
 ### Synchro
+Arisen of Dragmatika  
 Dekk-Knight Cerise Evanescence  
 Hi-Tekk-Knight Lucent Edge  
 [Rubic Arcsine](monsters/synchro/Rubic%20Arcsine.md)  
@@ -167,6 +179,8 @@ Supreme Swordsman Lv8
 Tear Wing Synchro Dragon  
 The Neoteric  
 Vapour-Eyes Absolute Dragon  
+White Nexus of Dragmatika  
+White Relic of Dragmatika  
 
 ### Xyz
 Aerion the Kinetic Warrior  
@@ -248,6 +262,7 @@ Allure of Darquess
 Cynex Syncing  
 Cynex Wiring  
 Descent into Dystopia  
+Dragmatikacolyte  
 Dystopian Prophecy  
 [Final Vanquish](spells/Final%20Vanquish.md)  
 [Foolish Burial Trade](spells/Foolish%20Burial%20Trade.md)  
@@ -320,6 +335,8 @@ Chain Reaction
 Covin of Darquess  
 Cynex Source  
 Displacement Reaction  
+Dragmatikaltruism  
+Dragmatikatrix  
 Dystopian Dreams  
 Frontline Defence  
 Heart of the Underling  
@@ -338,6 +355,7 @@ World Affinity Symphony
 ### Field
 Cynex Infrastructure  
 Cynex Universe  
+Dragmatikabyss  
 Dystopian World  
 Immunicipality Library  
 Lightning Fury  
@@ -359,6 +377,8 @@ Soul Dagger
 
 ### Ritual
 [Darquess Rising](spells/Darquess%20Rising.md)  
+Dragmatikabre  
+Dragmatikalamity  
 Rubic Dragonometry  
 Shadow Surge  
 Soul Prophecy  
@@ -382,6 +402,8 @@ Deck Deracination Virus of Dead
 Deck Destruction Virus of Death  
 Deck Desiccation Virus of Despair  
 Deck Devastation Virus of Doom  
+Dragmatikaturgy  
+Dragmatikaxiom  
 Dystopian Uprising  
 Equilibrium Reaction  
 [Infinite Impertinence](traps/Infinite%20Impertinence.md)  
@@ -403,6 +425,7 @@ Shining Mirror Force
 Soul of Darquess  
 Soul Fracture  
 Soul Rupture  
+Stranded in Dragmatika  
 Sudden Reaction  
 [Terrorforming](traps/Terrorforming.md)  
 Tormenting Trap Hole  
@@ -420,6 +443,7 @@ Charged in Lightning
 Compile Error  
 Cynex Malware  
 [Darkchoke](traps/Darkchoke.md)  
+Dragmatikagony  
 Dystopian Anarchy  
 Logic Error  
 Magnificence of Darquess  
@@ -436,6 +460,7 @@ World Affinity Rivals
 
 ### Counter
 [Darquess Falling](traps/Darquess%20Falling.md)  
+Dragmatikacism  
 Dragon Head Rising  
 Dystopian Revenge  
 Neutralization Reaction  
