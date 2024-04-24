@@ -57,6 +57,13 @@ Dystopian Sage
 Dystopian Slayer  
 Dystopikekeke  
 Dystopikuriboh  
+Ephemeral Delusion  
+Ephemeral Melancholy  
+Ephemeral Psyche  
+Ephemeral Sadness  
+Ephemeral Solitude  
+Ephemeral Sympathy  
+Ephemeral Yearning  
 Fallen of Dragmatika  
 Hykarice, Sentry of Darquess  
 Iota the Kinetic Warrior  
@@ -101,6 +108,7 @@ Soul Magician
 Soul Shard  
 Soul Spider  
 Soul Synchron  
+Spiritual Forsaken  
 Supreme Swordsman Lv7  
 Supreme Swordsman Lv9  
 Supreme Swordsman Lv11  
@@ -150,6 +158,11 @@ Spellblade
 Aquilion, Ancient Protector  
 Dead-Eyes Darkness Dragon  
 Dead-Eyes Despair Dragon  
+Ephemeral Halo  
+Ephemeral Phantasm  
+Ephemeral Spectre  
+Ephemeral Manifest  
+Hakana, Starlight of the Spiritual Evanescence  
 Hi-Tekk-Knight Ultramarine Wonder  
 [Laiza, Enchantress of Darquess](monsters/ritual/Laiza.md)  
 [Raiza, Sorceress of Darquess](monsters/ritual/Raiza.md)  
@@ -199,6 +212,7 @@ Ninjato of the Silent Arts
 Ninjax  
 [Primordial Darquessence, Oblivion of Darquess](monsters/fusion/Primordial%20Darquessence.md)  
 Screaming Venom Fusion Dragon  
+Spiritual Hearth of Evanescence  
 The Awakened Drakon  
 XYZ-Gen Cyber Crush Overdragon  
 [Vengeance Vanguard](monsters/fusion/Vengeance%20Vanguard.md)  
@@ -218,6 +232,9 @@ Arisen of Dragmatika
 Atalos, Legendary Protector  
 Dark Vengeance Xyz Dragon  
 Dekk-Knight Cerise Evanescence  
+Ephemeral Heartache  
+Ephemeral Imagination  
+Ephemeral Lovesick  
 Eternal King Dragon Tear Wing  
 Hi-Tekk-Knight Lucent Edge  
 [Rubic Arcsine](monsters/synchro/Rubic%20Arcsine.md)  
@@ -235,6 +252,7 @@ Soul Slayer
 Soul Snake  
 Soul Wanderer  
 Soul Warden  
+Spiritual Crescent of Evanescence  
 Supreme Swordsman Lv8  
 Tear Wing Synchro Dragon  
 The Neoteric  
@@ -285,6 +303,8 @@ Questionable Igloo
 [Rubic Arcsecant](monsters/xyz/Rubic%20Arcsecant.md)  
 Rubic Excosecant  
 Rubic Exsecant  
+[Spiritual Sentry E-PHEM – Sky Vision](~)  
+Spiritual Wings of Evanescence  
 Ultimate Vapour-Eyes Arc Lightning Dragon  
 Ultimate Vapour-Eyes Lightning Dragon  
 Vapour-Eyes Arc Lightning Dragon  
@@ -323,6 +343,7 @@ Rubic Perpendicular
 Rubic Quadrangle  
 Rubic Radian  
 Rubic Vertex  
+Spiritual Altar of Evanescence  
 Tekk-Knight Azure Iris  
 The Architect  
 The Developer  
@@ -378,6 +399,7 @@ Swing of Nostalgia
 Temptation of Darquess  
 [That Grass Looks Darker](spells/That%20Grass%20Looks%20Darker.md)  
 Tiny World  
+Truth of Heart  
 Wings of Light  
 
 ### Quick-Play
@@ -397,6 +419,9 @@ Cynex Overclock
 Cynex Storm  
 Cynex Update  
 Divine Destiny  
+Ephemeral Creative  
+Ephemeral Delusions  
+Ephemeral Paralysis  
 Ephemeral Lightning  
 Eternal Unity  
 Exceed Attack  
@@ -434,6 +459,7 @@ Soul Manifestation
 Soul Purity  
 Soul Resurgence  
 Soul Seeker  
+Spiritual Awakening  
 Storm Access  
 Ultimate Evolution  
 Whirling Tornado Slash  
@@ -455,6 +481,9 @@ Displacement Reaction
 Dragmatikaltruism  
 Dragmatikatrix  
 Dystopian Dreams  
+Ephemeral Valour  
+Ephemeral Verve  
+Ephemeral Vivacity  
 Esperanza Citadel  
 Frontline Defence  
 Heart of the Underling  
@@ -482,6 +511,7 @@ Cynex Infrastructure
 Cynex Universe  
 Dragmatikabyss  
 Dystopian World  
+Ephemeral Ephemerality  
 Eternal King’s Dynasty  
 Immunicipality Library  
 Lightning Fury  
@@ -509,6 +539,7 @@ Aurora Australis
 [Darquess Rising](spells/Darquess%20Rising.md)  
 Dragmatikabre  
 Dragmatikalamity  
+Ephemeral Evanescence  
 Rubic Dragonometry  
 Shadow Surge  
 Soul Prophecy  
@@ -537,8 +568,10 @@ Deck Devastation Virus of Doom
 Dragmatikaturgy  
 Dragmatikaxiom  
 Dystopian Uprising  
+Ephemeral Transcience  
 Equilibrium Reaction  
 Eternal King’s Soul  
+Evanescent Spiritual  
 [Infinite Impertinence](traps/Infinite%20Impertinence.md)  
 Interdimensional Translocator  
 Live in Lightning  
@@ -561,10 +594,12 @@ Snowstorm
 Soul of Darquess  
 Soul Fracture  
 Soul Rupture  
+Spiritual Reawakening  
 Stranded in Dragmatika  
 Sudden Reaction  
 [Terrorforming](traps/Terrorforming.md)  
 Tormenting Trap Hole  
+Unleashed Fury  
 Viral Infection  
 Viral Seizure  
 Volatile Combustion  
@@ -583,6 +618,7 @@ Cynex Malware
 [Darkchoke](traps/Darkchoke.md)  
 Dragmatikagony  
 Dystopian Anarchy  
+Ephemeral Suffering  
 Eternal Supremacy  
 Logic Error  
 Magnificence of Darquess  
@@ -613,6 +649,9 @@ Deck Extinction Virus of Annihilation
 Dragmatikacism  
 Dragon Head Rising  
 Dystopian Revenge  
+Ephemeral Darkness  
+Ephemeral Dissonance  
+Ephemeral Shadow  
 Eternal Vengeance  
 Neutralization Reaction  
 Next-Gen Raidraptor – Claw  
