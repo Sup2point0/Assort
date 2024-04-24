@@ -40,7 +40,7 @@ Descendant of Drakon
 Dragmatika Adin, the Enlightened  
 Dragmatika Ashiyan, the Devoted  
 Dragmatika Ecclesia, the Virtuous  
-Dragmatika Fleurdelis, the Knighted
+Dragmatika Fleurdelis, the Knighted  
 Dragmatika Maximus, the Magnificent  
 Dyavin, Devoter of Darquess  
 Dystopian Core  
@@ -61,6 +61,7 @@ Lightning Claw
 Lightning Dragon  
 Lightning Lark  
 Lightning Orb  
+Lightning Punisher  
 Lightning Shrike  
 Lightning Wing  
 Lyfris, Herald of Darquess  
@@ -195,7 +196,7 @@ Neo Ultimate Vapour-Eyes Lightning Dragon
 Neo Vapour-Eyes Arc Lightning Dragon  
 Neo Vapour-Eyes Lightning Dragon  
 Next-Gen Processlayer Laplacian  
-Number -11: Tiny Eye
+Number -11: Tiny Eye  
 Number -39: Dystopia  
 Number -99: Dystopian Dragon  
 Number -D39: Dystopia Arc  
@@ -267,7 +268,6 @@ Dystopian Prophecy
 [Final Vanquish](spells/Final%20Vanquish.md)  
 [Foolish Burial Trade](spells/Foolish%20Burial%20Trade.md)  
 [Foolish Exile](spells/Foolish%20Exile.md)  
-Forged in Lightning  
 It’s In The Name  
 Jokekekefrenzy  
 Organic Synthesiss  
@@ -285,6 +285,7 @@ Soul Scripture
 Swing of Nostalgia  
 Temptation of Darquess  
 [That Grass Looks Darker](spells/That%20Grass%20Looks%20Darker.md)  
+Wings of Light  
 
 ### Quick-Play
 Activation Energy  
@@ -299,6 +300,7 @@ Cynex Update
 Divine Destiny  
 Ephemeral Lightning  
 Exceed Attack  
+Forged in Lightning  
 Ghostplay  
 [Hybrid Polymerization](spells/Hybrid%20Polymerization.md)  
 Hyper-Rank-Up-Magic Dystopian Doom  
@@ -307,6 +309,7 @@ Insta-Level-Up Supreme Slash
 Manifestation Fusion  
 Manifestation Magic  
 Myriad Manoeuvres  
+Neo Evolution  
 Next-Gen Devolution  
 Next-Gen Evolution  
 Ninja Artifice  
@@ -317,6 +320,10 @@ Rank-Down-Magic Dystopian End
 Rank-Down-Magic Dystopian Fall  
 Rank-Down-Magic Dystopian Force  
 Rank-Up-Magic Dystopian Rise  
+Rank-Up-Magic Lightning Arc Rise  
+Rank-Up-Magic Lightning Ascension  
+Rank-Up-Magic Lightning Rise  
+Rank-Up-Magic Vapour Rise  
 Rubic Function  
 Soul Illusion  
 Soul Manifestation  
@@ -324,6 +331,7 @@ Soul Purity
 Soul Resurgence  
 Soul Seeker  
 Storm Access  
+Ultimate Evolution  
 Whirling Tornado Slash  
 World Affinity Ascension  
 World Affinity Destiny  
@@ -341,6 +349,7 @@ Dystopian Dreams
 Frontline Defence  
 Heart of the Underling  
 Immunicipality Central  
+Lightning Heart  
 Next-Gen Resolution  
 Rubic Construction  
 Spellcasters’ Sanctuary  
