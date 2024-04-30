@@ -1,3 +1,6 @@
 [submodule "Antarctica"]
 	path = Antarctica
 	url = https://github.com/Sup2point0/Antarctica
+[submodule "Victory"]
+	path = Victory
+	url = https://github.com/Sup2point0/Victory
