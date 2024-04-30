@@ -1,4 +1,9 @@
 # Poetry
+<!-- #QUARK live! index!
+  EXPORT: poetry
+  STYLE: poetry
+  DUALITY: light
+-->
 
 Surprisingly, I genuinely enjoy writing poetry.
 
@@ -10,6 +15,8 @@ Oh yeah, and yeah no, I’m aware half of them don’t make any sense at all, an
 <br>
 
 
+<!-- #QUARK index~ -->
+<!-- #QUARK leave? -->
 ## Index
 
 ### 2021
@@ -32,3 +39,4 @@ Oh yeah, and yeah no, I’m aware half of them don’t make any sense at all, an
 
 ### 2024
 [Heartburn](Heartburn.md)  
+<!-- #QUARK leave. -->
