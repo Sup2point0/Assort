@@ -1,5 +1,9 @@
 /* CORE */
 html {
+  --font-head: 'Outfit', 'Montserrat', system-ui, sans-serif;
+  --font-casual: 'Nanum Pen Script', 'Sen', 'Shadows Into Light Two', 'Segoe UI', system-ui, sans-serif;
+  --font-body: 'Sen', 'Noto Sans', 'Segoe UI', system-ui, sans-serif;
+
   margin: 0;
   padding: 0;
   background-color: var(--blue-night);
@@ -16,30 +20,30 @@ body {
 }
 
 p {
-  font-family: 'Nanum Pen Script', 'Shadows Into Light Two', sans-serif;
+  font-family: var(--font-casual);
   font-size: 200%;
 }
 
 h1,h2,h3,h4 {
   margin: 0;
-  font-family: Montserrat, system-ui, sans-serif;
+  font-family: var(--font-head);
 }
 h1 {
   margin: 0;
   font-family: 'Shadows Into Light Two';
-  font-size: 600%;
+  font-size: 690%;
 }
 h2 {
-  margin-top: 4rem;
+  margin-top: 3rem;
   padding-bottom: 1rem;
   font-size: 250%;
-  font-weight: 600;
+  font-weight: 500;
   border-bottom: 3px solid var(--pink-elec);
 }
 h3 {
-  margin-top: 2rem;
+  margin: 2rem auto 0.5rem;
   font-size: 200%;
-  font-weight: 500;
+  font-weight: 300;
 }
 h4 {
   font-size: 150%;
@@ -56,12 +60,32 @@ h4 {
 
 .aside {
   width: 100%;
+  margin-top: 1rem;
   color: color-mix(in srgb, #fff 42%, transparent);
   background-color: var(--blue-accent);
   background-color: color-mix(in srgb, var(--blue-deep) 20%, transparent);
 }
+.aside p {
+  font-size: 120%;
+  font-family: 'Shadows Into Light Two';
+}
+
+.footer {
+  margin-top: 2rem;
+  padding: 2rem auto;
+  width: 100%;
+  background-color: #000;
+}
+.footer p {
+  font-size: 120%;
+  font-family: var(--font-body);
+}
 
 /* CONTAINERS */
+.explore {
+  margin: auto 3rem auto;
+}
+
 .explore-content {
   display: flex;
   flex-direction: row;
@@ -71,7 +95,9 @@ h4 {
 }
  
 .content-card {
-  width: 30em;
+  flex-grow: 0.5;
+  min-width: 15em;
+  max-width: 30em;
   margin: 1rem 1rem 1rem;
   padding: 1rem 1rem 0;
   border-radius: 1rem;
