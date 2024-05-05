@@ -1,8 +1,8 @@
 # What’s up with my Python syntax?
 <!-- #QUARK live!
-  EXPORT: python-syntax
+  EXPORT: dev/python-syntax
   STYLE: dev
-  POLARITY: dark
+  DUALITY: dark
   INDEX: writing dev
   DATE: 24 spring
 -->
@@ -15,7 +15,7 @@ I tend to hold very specific personal preferences, especially when it comes to a
 [^standard]: As to whether or not I achieve this...
 [^pep]: Please note this is only an opinion.
 
-I very much agree (from experience) that “code is read far more than it is written”.[^code] My first large-scale Python project, a [multi-purpose Discord bot^](https://github.com/Sup2point0/PENGUIN), contains some of the most (objectively) horrific code I have ever written, with utterly obfuscated names, ridiculous line breaking, and far too many one-liners.[^line] I still look back fondly on the code for sure, since it is just so *me* – but to anyone who might decide to go back and work on it,[^work] uh, you might wanna procure some spare replacement brain cells.[^brain-cells]
+I very much agree (from experience) that “code is read far more than it is written”.[^code] My first large-scale Python project, a [multi-purpose Discord bot<sup>↗</sup>](https://github.com/Sup2point0/PENGUIN), contains some of the most (objectively) horrific code I have ever written, with utterly obfuscated names, ridiculous line breaking, and far too many one-liners.[^line] I still look back fondly on the code for sure, since it is just so *me* – but to anyone who might decide to go back and work on it,[^work] uh, you might wanna procure some spare replacement brain cells.[^brain-cells]
 
 [^code]: Quote by Guido Van Rossum. I think?
 [^line]: I thought they looked cool. I mean I still do, but also it’s kinda bad for readability. They’re wonderfully efficient, but can get pretty unwieldy. Use them in moderation, I suppose.
@@ -44,43 +44,43 @@ Of course, I am only human,[^sup][^sip] so I’m not perfect, and neither is the
 To illustrate the difference, consider the following ‘standard’ Python code:
 
 ```py
-class Soup:
-    """Showing what standard Python code looks like."""
+  class Soup:
+      """Showing what standard Python code looks like."""
 
-    def __init__(self, flavour: str = 'mushroom', hot=True):
-        """Cook up some soup."""
-        self.flavour = flavour
-        self.hot = hot
-        if hot:
-            self.notes = 'warning: hot'
-        else:
-            self.notes = 'warning: delicious'
-        self.content = 1.0
+      def __init__(self, flavour: str = 'mushroom', hot=True):
+          """Cook up some soup."""
+          self.flavour = flavour
+          self.hot = hot
+          if hot:
+              self.notes = 'warning: hot'
+          else:
+              self.notes = 'warning: delicious'
+          self.content = 1.0
 
-supSoup = Soup(hot=False)
+  supSoup = Soup(hot=False)
 ```
 
 And this is how it looks nicest to me:
 
-```py
-class Soup:
-  '''Showing what my Python code looks like.'''
+```diff
+  class Soup:
++   '''Showing what my Python code looks like.'''
 
-  def __init__(self, flavour: str = 'mushroom', hot = True):
-    '''Cook up some soup.'''
++   def __init__(self, flavour: str = 'mushroom', hot = True):
++     '''Cook up some soup.'''
++
+      self.flavour = flavour
++
+      self.hot = hot
+      if hot:
++        self.notes = "warning: hot"
+      else:
++       self.notes = "warning: delicious"
++
+     self.content = 1.0
 
-    self.flavour = flavour
-
-    self.hot = hot
-    if hot:
-      self.notes = "warning: hot"
-    else:
-      self.notes = "warning: delicious"
-
-    self.content = 1.0
-
-
-sup_soup = Soup(hot = False)
++
++ sup_soup = Soup(hot = False)
 ```
 
 Which of these are ‘better’ is certainly dependent on the reader. For me at least, the latter is far nicer, consistent, and clear.
@@ -223,3 +223,6 @@ No, seriously, I wasn’t joking.
 I can be somewhat stubborn in my ways, although there have genuinely been instances where I have changed my perspectives on conventions.
 
 A notable case is the capitalisation of object names. Previously, I enjoyed having everything lowercase – variables, functions, and in particular, classes. My reasoning was that I wanted my classes to follow the same format as the inbuilt classes, like `str` and `int`, which are all simple lowercase words. Now, I’ve come to appreciate `PascalCase` when naming classes, as it very clearly separates it from other kinds of objects. As for keeping in with the inbuilt classes, I realised having user-defined classes follow a different naming format is probably better. It also lends itself more nicely to multi-word names.
+
+
+<br>
