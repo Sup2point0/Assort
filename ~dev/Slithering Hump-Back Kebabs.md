@@ -16,7 +16,9 @@ Ayo, lemme translate that for you, since that sentence looks like a mangled piec
      #QUARK only. -->
 <!-- #QUARK aside. -->
 
-Naming things is a topic for another time. Here I want to talk about casing – that is, how the parts of a name (words, generally) are capitalised.
+The exact content of the names themselves is a (long) topic for another time. Here I want to talk about casing – that is, how the parts of a name (words, generally) are delimited and capitalised. At its heart, casing provides clarity – both towards the *content* and *intent* of the name. When an identifier gets long and consists of more than one word, we need a way to separate them – visually – so that it’s easier to quickly parse what they’re saying. That’s the fundamental goal, remember: clarity.
+
+With that said, different languages and different developers all have different preferences and conventions over how identifiers should be stylised to achieve this. As someone who’s coded in a few languages that all have quite different casing conventions, and has tried to create their own language which inevitably involved considerations related to this, I thought I’d run through the different styles and elucidate my opinions on them.
 
 
 ## `informality`

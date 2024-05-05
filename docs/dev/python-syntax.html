@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<!-- Quarkdown Core v1.7.2 -->
+<!-- Quarkdown Core v1.7.5 -->
 <html>
 
 <head>
@@ -10,6 +10,7 @@
   <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/Sup2point0/Assort/origin/.assets/profiles/Purple Portal.png">
   <link rel="stylesheet" type="text/css" href="https://raw.githack.com/Sup2point0/supcode/sup/resources/Nova/Nova.css">
   <link rel="stylesheet" type="text/css" href="https://raw.githack.com/Sup2point0/Quarkdown/main/quarkdown/resources/styles/essence.css">
+  <link rel="stylesheet" type="text/css" href="https://raw.githack.com/Sup2point0/Quarkdown/main/quarkdown/resources/styles/assort.css">
   <link rel="stylesheet" type="text/css" href="https://raw.githack.com/Sup2point0/Quarkdown/main/quarkdown/resources/styles/dev.css">
 
   <!-- we use this endpoint for security -->
@@ -17,15 +18,15 @@
   <!-- <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script> -->
 </head>
 
-<body class="light">
+<body class="dark">
 
-  <nav">
+  <nav>
     <ul>
       <div class="left">
         <li id="github-icon">
-          <a href="https://github.com/Sup2point0/Assort">
+          <a href="https://github.com/Sup2point0/Assort"> <div class="nav-cell">
             <img height="42rem" src="https://raw.githubusercontent.com/Sup2point0/sup2point0.github.io/sup/.assets/icons/github-light.svg">
-          </a>
+          </div> </a>
         </li>
         <li id="assort">
           <a href="https://sup2point0.github.io/assort"> <div class="nav-cell"> Assort </div> </a>
@@ -57,46 +58,46 @@
 
       <p>If you‘ve taken a look at any of my code written in Python, you may have noticed its syntax is perhaps unconventional in many aspects – nothing that actually affects functionality, but plenty of idiosyncrasies that would immediately stick out to any seasoned Pythonista. I am well aware of this, and I apologise if this has caused any difficulty or distress (as I have been notified of – on several occasions) to anyone perusing my code.</p>
       <p>I tend to hold very specific personal preferences, especially when it comes to aesthetics. This, of course, means I pay meticulous attention to detail, and care (perhaps a little too much) about how my code looks.<sup><a href="#fn-time" id="user-content-fnref-time" data-footnote-ref="">1</a></sup> It working is just one aspect; cleaning, optimising, and refining continue for much longer. Ultimately, I endure in this because I have high standards for myself: I endeavour to write clean, clear and consistent code.<sup><a href="#fn-standard" id="user-content-fnref-standard" data-footnote-ref="">2</a></sup> I genuinely believe my style is more effective at achieving this than ‘standard’ Python code conforming to <a href="https://peps.python.org/pep-0008/" rel="nofollow">PEP 8</a>.<sup><a href="#fn-pep" id="user-content-fnref-pep" data-footnote-ref="">3</a></sup> Every instance where I deviate from convention was a justified and thought-out decision, and each has been reconsidered several times afterwards.</p>
-      <p>I very much agree (from experience) that “code is read far more than it is written”.<sup><a href="#fn-code" id="user-content-fnref-code" data-footnote-ref="">4</a></sup> My first large-scale Python project, a <a href="https://github.com/Sup2point0/PENGUIN">multi-purpose Discord bot^</a>, contains some of the most (objectively) horrific code I have ever written, with utterly obfuscated names, ridiculous line breaking, and far too many one-liners.<sup><a href="#fn-line" id="user-content-fnref-line" data-footnote-ref="">5</a></sup> I still look back fondly on the code for sure, since it is just so <em>me</em> – but to anyone who might decide to go back and work on it,<sup><a href="#fn-work" id="user-content-fnref-work" data-footnote-ref="">6</a></sup> uh, you might wanna procure some spare replacement brain cells.<sup><a href="#fn-brain-cells" id="user-content-fnref-brain-cells" data-footnote-ref="">7</a></sup></p>
+      <p>I very much agree (from experience) that “code is read far more than it is written”.<sup><a href="#fn-code" id="user-content-fnref-code" data-footnote-ref="">4</a></sup> My first large-scale Python project, a <a href="https://github.com/Sup2point0/PENGUIN">multi-purpose Discord bot<sup>↗</sup></a>, contains some of the most (objectively) horrific code I have ever written, with utterly obfuscated names, ridiculous line breaking, and far too many one-liners.<sup><a href="#fn-line" id="user-content-fnref-line" data-footnote-ref="">5</a></sup> I still look back fondly on the code for sure, since it is just so <em>me</em> – but to anyone who might decide to go back and work on it,<sup><a href="#fn-work" id="user-content-fnref-work" data-footnote-ref="">6</a></sup> uh, you might wanna procure some spare replacement brain cells.<sup><a href="#fn-brain-cells" id="user-content-fnref-brain-cells" data-footnote-ref="">7</a></sup></p>
       <p>At the time, like any programmer who has gone through the journey of development, I thought, <em>yeah, I’ll perfectly understand how all this works years on</em>. And now? Oh yeah no, I actually still pretty much get how it works,<sup><a href="#fn-get" id="user-content-fnref-get" data-footnote-ref="">8</a></sup> but that isn’t to say that continuing development wouldn’t be a nightmare. Cuz it absolutely would be. So many names to re-familiarise with. Dependencies I forgot existed. Navigating the abject mess that is PENGUIN’s 2000+ line <code>main.py</code> file.</p>
       <p>Oh, and I can still write convention-conforming Python code, I just much prefer writing it in my style, and so that’s the kind you’ll see throughout most of my projects. Some that I intend to be a little more ‘public’ (projects that are a little less ‘casual’, I suppose) will have perhaps less ‘flavourful’ code.<sup><a href="#fn-flavour" id="user-content-fnref-flavour" data-footnote-ref="">9</a></sup> Whenever I work collaboratively though, I’m perfectly happy to adjust to whichever style or standard the team is following. Even if it kills me a little inside.</p>
       <p>Of course, I am only human,<sup><a href="#fn-sup" id="user-content-fnref-sup" data-footnote-ref="">10</a></sup><sup><a href="#fn-sip" id="user-content-fnref-sip" data-footnote-ref="">11</a></sup> so I’m not perfect, and neither is the code I write.</p>
       <br>
       <div class="markdown-heading"><h2 class="heading-element">Analysis</h2><a id="user-content-analysis" class="anchor" aria-label="Permalink: Analysis" href="#analysis"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
       <p>To illustrate the difference, consider the following ‘standard’ Python code:</p>
-      <div class="highlight highlight-source-python"><pre><span class="pl-k">class</span> <span class="pl-v">Soup</span>:
-          <span class="pl-s">"""Showing what standard Python code looks like."""</span>
+      <div class="highlight highlight-source-python"><pre>  <span class="pl-k">class</span> <span class="pl-v">Soup</span>:
+            <span class="pl-s">"""Showing what standard Python code looks like."""</span>
 
-          <span class="pl-k">def</span> <span class="pl-en">__init__</span>(<span class="pl-s1">self</span>, <span class="pl-s1">flavour</span>: <span class="pl-s1">str</span> <span class="pl-c1">=</span> <span class="pl-s">'mushroom'</span>, <span class="pl-s1">hot</span><span class="pl-c1">=</span><span class="pl-c1">True</span>):
-              <span class="pl-s">"""Cook up some soup."""</span>
-              <span class="pl-s1">self</span>.<span class="pl-s1">flavour</span> <span class="pl-c1">=</span> <span class="pl-s1">flavour</span>
-              <span class="pl-s1">self</span>.<span class="pl-s1">hot</span> <span class="pl-c1">=</span> <span class="pl-s1">hot</span>
-              <span class="pl-k">if</span> <span class="pl-s1">hot</span>:
-                  <span class="pl-s1">self</span>.<span class="pl-s1">notes</span> <span class="pl-c1">=</span> <span class="pl-s">'warning: hot'</span>
-              <span class="pl-k">else</span>:
-                  <span class="pl-s1">self</span>.<span class="pl-s1">notes</span> <span class="pl-c1">=</span> <span class="pl-s">'warning: delicious'</span>
-              <span class="pl-s1">self</span>.<span class="pl-s1">content</span> <span class="pl-c1">=</span> <span class="pl-c1">1.0</span>
+            <span class="pl-k">def</span> <span class="pl-en">__init__</span>(<span class="pl-s1">self</span>, <span class="pl-s1">flavour</span>: <span class="pl-s1">str</span> <span class="pl-c1">=</span> <span class="pl-s">'mushroom'</span>, <span class="pl-s1">hot</span><span class="pl-c1">=</span><span class="pl-c1">True</span>):
+                <span class="pl-s">"""Cook up some soup."""</span>
+                <span class="pl-s1">self</span>.<span class="pl-s1">flavour</span> <span class="pl-c1">=</span> <span class="pl-s1">flavour</span>
+                <span class="pl-s1">self</span>.<span class="pl-s1">hot</span> <span class="pl-c1">=</span> <span class="pl-s1">hot</span>
+                <span class="pl-k">if</span> <span class="pl-s1">hot</span>:
+                    <span class="pl-s1">self</span>.<span class="pl-s1">notes</span> <span class="pl-c1">=</span> <span class="pl-s">'warning: hot'</span>
+                <span class="pl-k">else</span>:
+                    <span class="pl-s1">self</span>.<span class="pl-s1">notes</span> <span class="pl-c1">=</span> <span class="pl-s">'warning: delicious'</span>
+                <span class="pl-s1">self</span>.<span class="pl-s1">content</span> <span class="pl-c1">=</span> <span class="pl-c1">1.0</span>
 
-      <span class="pl-s1">supSoup</span> <span class="pl-c1">=</span> <span class="pl-v">Soup</span>(<span class="pl-s1">hot</span><span class="pl-c1">=</span><span class="pl-c1">False</span>)</pre></div>
+        <span class="pl-s1">supSoup</span> <span class="pl-c1">=</span> <span class="pl-v">Soup</span>(<span class="pl-s1">hot</span><span class="pl-c1">=</span><span class="pl-c1">False</span>)</pre></div>
       <p>And this is how it looks nicest to me:</p>
-      <div class="highlight highlight-source-python"><pre><span class="pl-k">class</span> <span class="pl-v">Soup</span>:
-        <span class="pl-s">'''Showing what my Python code looks like.'''</span>
+      <div class="highlight highlight-source-diff"><pre>  class Soup:
+      <span class="pl-mi1"><span class="pl-mi1">+</span>   '''Showing what my Python code looks like.'''</span>
 
-        <span class="pl-k">def</span> <span class="pl-en">__init__</span>(<span class="pl-s1">self</span>, <span class="pl-s1">flavour</span>: <span class="pl-s1">str</span> <span class="pl-c1">=</span> <span class="pl-s">'mushroom'</span>, <span class="pl-s1">hot</span> <span class="pl-c1">=</span> <span class="pl-c1">True</span>):
-          <span class="pl-s">'''Cook up some soup.'''</span>
+      <span class="pl-mi1"><span class="pl-mi1">+</span>   def __init__(self, flavour: str = 'mushroom', hot = True):</span>
+      <span class="pl-mi1"><span class="pl-mi1">+</span>     '''Cook up some soup.'''</span>
+      <span class="pl-mi1"><span class="pl-mi1">+</span></span>
+            self.flavour = flavour
+      <span class="pl-mi1"><span class="pl-mi1">+</span></span>
+            self.hot = hot
+            if hot:
+      <span class="pl-mi1"><span class="pl-mi1">+</span>        self.notes = "warning: hot"</span>
+            else:
+      <span class="pl-mi1"><span class="pl-mi1">+</span>       self.notes = "warning: delicious"</span>
+      <span class="pl-mi1"><span class="pl-mi1">+</span></span>
+           self.content = 1.0
 
-          <span class="pl-s1">self</span>.<span class="pl-s1">flavour</span> <span class="pl-c1">=</span> <span class="pl-s1">flavour</span>
-
-          <span class="pl-s1">self</span>.<span class="pl-s1">hot</span> <span class="pl-c1">=</span> <span class="pl-s1">hot</span>
-          <span class="pl-k">if</span> <span class="pl-s1">hot</span>:
-            <span class="pl-s1">self</span>.<span class="pl-s1">notes</span> <span class="pl-c1">=</span> <span class="pl-s">"warning: hot"</span>
-          <span class="pl-k">else</span>:
-            <span class="pl-s1">self</span>.<span class="pl-s1">notes</span> <span class="pl-c1">=</span> <span class="pl-s">"warning: delicious"</span>
-
-          <span class="pl-s1">self</span>.<span class="pl-s1">content</span> <span class="pl-c1">=</span> <span class="pl-c1">1.0</span>
-
-
-      <span class="pl-s1">sup_soup</span> <span class="pl-c1">=</span> <span class="pl-v">Soup</span>(<span class="pl-s1">hot</span> <span class="pl-c1">=</span> <span class="pl-c1">False</span>)</pre></div>
+      <span class="pl-mi1"><span class="pl-mi1">+</span></span>
+      <span class="pl-mi1"><span class="pl-mi1">+</span> sup_soup = Soup(hot = False)</span></pre></div>
       <p>Which of these are ‘better’ is certainly dependent on the reader. For me at least, the latter is far nicer, consistent, and clear.</p>
       <div class="markdown-heading"><h3 class="heading-element">Whitespace</h3><a id="user-content-whitespace" class="anchor" aria-label="Permalink: Whitespace" href="#whitespace"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
       <p>This is probably the defining characteristic of my code, and also the most difficult to justify and manage. There are several kinds of whitespace – literal space characters, line breaks, and empty lines themselves.</p>
@@ -177,6 +178,7 @@
       <div class="markdown-heading"><h2 class="heading-element">Appendix</h2><a id="user-content-appendix" class="anchor" aria-label="Permalink: Appendix" href="#appendix"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
       <p>I can be somewhat stubborn in my ways, although there have genuinely been instances where I have changed my perspectives on conventions.</p>
       <p>A notable case is the capitalisation of object names. Previously, I enjoyed having everything lowercase – variables, functions, and in particular, classes. My reasoning was that I wanted my classes to follow the same format as the inbuilt classes, like <code>str</code> and <code>int</code>, which are all simple lowercase words. Now, I’ve come to appreciate <code>PascalCase</code> when naming classes, as it very clearly separates it from other kinds of objects. As for keeping in with the inbuilt classes, I realised having user-defined classes follow a different naming format is probably better. It also lends itself more nicely to multi-word names.</p>
+      <br>
       <section data-footnotes="">
       <ol>
       <li id="user-content-fn-time">
