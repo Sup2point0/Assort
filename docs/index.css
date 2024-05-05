@@ -1,0 +1,92 @@
+@import url('https://raw.githack.com/Sup2point0/supcode/sup/resources/Nova/Nova.css');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light+Two&display=swap');
+
+/* CORE */
+html {
+  margin: 0;
+  padding: 0;
+  background-color: var(--blue-night);
+  color: #fff;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('../.assets/wallpapers/cortex-violet.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+p {
+  font-family: 'Shadows Into Light Two', sans-serif;
+  font-size: 120%;
+}
+
+h1,h2,h3,h4 {
+  margin: 0;
+  font-family: Montserrat, system-ui, sans-serif;
+}
+h1 {
+  margin: 0;
+  font-family: 'Shadows Into Light Two';
+  font-size: 600%;
+}
+h2 {
+  margin-top: 4rem;
+  padding-bottom: 1rem;
+  font-size: 250%;
+  font-weight: 600;
+  border-bottom: 3px solid var(--pink-elec);
+}
+h3 {
+  margin-top: 2rem;
+  font-size: 200%;
+  font-weight: 500;
+}
+h4 {
+  font-size: 150%;
+  font-weight: 400;
+}
+
+/* SECTIONS */
+.align-centre {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.aside {
+  width: 100%;
+  color: color-mix(in srgb, #fff 42%, transparent);
+  background-color: var(--blue-accent);
+  background-color: color-mix(in srgb, var(--blue-deep) 20%, transparent);
+}
+
+/* CONTAINERS */
+.explore-content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.content-card {
+  margin: 1rem auto 1rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: rgb(0 0 0 / 42%);
+  transition: background-color 0.2s;
+}
+.content-card:hover {
+  background-color: color-mix(in srgb, var(--pink-elec) 10%, transparent)
+}
+
+.content-card h4 {
+  color: var(--teal-elec);
+}
+.content-card .caption {
+  color: #fff;
+}
