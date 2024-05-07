@@ -35,6 +35,18 @@ That stuff’s becoming ancient history now...
 <br>
 
 
+## [Game Programming Patterns](https://gameprogrammingpatterns.com)
+
+<!-- #QUARK caption? -->
+> Spring 2024
+<!-- #QUARK caption. -->
+
+Really well written.
+
+
+<br>
+
+
 ## [The Book of Shaders](https://thebookofshaders.com)
 
 <!-- #QUARK caption? -->
@@ -42,6 +54,18 @@ That stuff’s becoming ancient history now...
 <!-- #QUARK caption. -->
 
 I can’t even remember why I stumbled upon this, but sure, it was cool.
+
+
+<br>
+
+
+## [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+<!-- #QUARK caption? -->
+> Winter 2023/2024
+<!-- #QUARK caption. -->
+
+I don’t plan on using Flask, but gaining a rough understanding was pretty cool.
 
 
 <br>
