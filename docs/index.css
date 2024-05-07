@@ -6,7 +6,7 @@ html {
 
   margin: 0;
   padding: 0;
-  background-color: var(--blue-night);
+  background-color: var(--blue-night, black);
   color: #fff;
 }
 
