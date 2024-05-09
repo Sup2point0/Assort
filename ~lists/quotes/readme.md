@@ -1,4 +1,14 @@
+# Quotes
+<!-- #QUARK live!
+  EXPORT: quotes
+  STYLE: poetry
+  DUALITY: light
+  SHARDS: lists
+-->
+
+<!-- #QUARK synopsis? -->
 Yep, I collect quotes.
+<!-- #QUARK synopsis. -->
 
 
 ## Quotes to Live By
@@ -57,7 +67,7 @@ Yep, I collect quotes.
 
 ***The problem of being faster than light is that you can only live in darkness.***
 
-***I would like to die on Mars. Just not on impact.***
+***I would like to die on Mars. Just not on impact.***  
 This one’s from Elon Musk.
 
 ***Never forget that the toes you step on today may be connected to the ass you have to kiss tomorrow.***
@@ -68,15 +78,19 @@ This one’s from Elon Musk.
 
 ## Quotes of Mine
 
-***(Almost) everything is an anthropological construct.***
+***sup sup’s sups sup sup’s sup sup sup sup’s sup sups***
+
+***(Almost) everything is an anthropological construct.***  
 Also ‘everything is a human construct’.
 
-***Everything will be alright.***
+***Everything will be alright.***  
 Also ‘everything will be fine’.
 
 ***Repetition reinforces, repeated repetition reduces.***
 
 ***There is no glass, life is a lie.***
 
-***I can, but I can't.***
+***I can, but I can't.***  
 Also ‘‹pronoun› can, but ‹pronoun› can’t’.
+
+***If a capacitative capacitor capacitatively capacitates capacitance, would a capacitively capacitive capacitator capacitate capacitatively capacitated capacitance?***
