@@ -30,6 +30,7 @@ Of course, take them with a couple grains of salt, since many are only my perspe
 - Do things one step at a time, especially when using Git.
   - For instance, if you feel like renaming a folder (which ripples changes recursively through all of its contents), commit all your current work, ideally sync it (pull, push), and *then* do it.
   - A great aspect of Git (and there are many great things, imho) is that it pressures you (or convinces you to pressure yourself) to make concrete, categorised commits.
+- Projects are never finished. If they’re not in development, they’re in maintenance, and if you come back to it after some time there’ll always be new features or improvements to add.
 
 
 <br>

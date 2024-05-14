@@ -6,8 +6,8 @@ html {
 
   margin: 0;
   padding: 0;
-  background-color: var(--blue-night);
-  color: #fff;
+  background-color: var(--blue-night, black);
+  color: white;
 }
 
 body {
@@ -50,7 +50,12 @@ h4 {
   font-weight: 400;
 }
 
-/* SECTIONS */
+/* PROPERTIES */
+::selection {
+  color: white;
+  background-color: var(--pink-nova, default);
+}
+
 .align-centre {
   display: flex;
   flex-direction: column;
@@ -58,6 +63,7 @@ h4 {
   text-align: center;
 }
 
+/* SECTIONS */
 .aside {
   width: 100%;
   margin-top: 1rem;
@@ -81,7 +87,7 @@ h4 {
   font-family: var(--font-body);
 }
 
-/* CONTAINERS */
+/* PARTS */
 .explore {
   margin: auto 3rem auto;
 }
