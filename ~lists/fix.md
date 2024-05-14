@@ -1,4 +1,4 @@
-# 37 Methods of Flawless Fail-Safe Fixing
+# 38 Methods of Flawless Fail-Safe Fixing
 <!-- #QUARK live!
   EXPORT: lists/fix
   STYLE: dev
@@ -43,6 +43,7 @@ Being a software developer is tough. So, if you’re ever in a pickle, and hopef
 1. ***Fix by open-source.*** Someone will open a pull request eventually, right?
 1. ***Fix by statistics.*** This bug is negligible at the 50% significance level, so we reject its existence.
 1. ***Proof by denial.*** Our program is perfect.
+1. ***Fix by duck-talking.*** Moan about the issue to the duck, and it’ll magically resolve itself. Trust.
 1. ***Fix by artificial intelligence.*** Have you tried adding AI to it?
 1. ***Fix by definition.*** `#PRAGMA fixed=true`
 
