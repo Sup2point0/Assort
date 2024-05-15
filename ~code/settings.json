@@ -13,7 +13,6 @@
   "editor.hover.delay": 250,
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.minimap.enabled": false,
-  "breadcrumbs.enabled": false,
 
   "window.newWindowDimensions": "maximized",
   "workbench.colorTheme": "Tomorrow Night Blue",
@@ -83,7 +82,7 @@
     "comments": "#70767c",
     "keywords": "#4090f1",
     "functions": "#ff0090",
-    "variables": "#ffffff",
+    "variables": "#fff",
     "strings": "#ffc0a9",
     "numbers": "#c0f0ff",
 
@@ -357,6 +356,18 @@
         "scope": "punctuation.terminator.statement.cs",
         "settings": {"foreground": "#145090"}
       },
+
+      // JavaScript
+      {
+        "scope": "support.other.variable",
+        "settings": {"foreground": "#fff0c0"}
+      }, {
+        "scope": "punctuation.terminator.statement.js",
+        "settings": {"foreground": "#40f190"}
+      }, {
+        "scope": "variable.language.this.js",
+        "settings": {"foreground": "#c7c7ff", "fontStyle": "italic"},
+      },
     
       // JSON
       {
@@ -385,5 +396,6 @@
         "selfParameter": {"foreground": "#c7c7ff", "fontStyle": "italic"},
       }
     }
-  }
+  },
+  "breadcrumbs.enabled": false
 }
