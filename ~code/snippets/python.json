@@ -1,0 +1,93 @@
+{
+  // core
+  "main": {
+    "prefix": ["/py.main", "if __n"],
+    "body": [
+      "if __name__ == \"__main__\":",
+      "  $1",
+    ]
+  },
+  "class": {
+    "prefix": "/py.class",
+    "body": [
+      "class $1:",
+      "  '''",
+      "  ${2:...}",
+      "  '''",
+      "  ",
+      "  def __init__(self):",
+      "    '''${3:...}'''",
+    ]
+  },
+
+  // suptools
+  "suptools script": {
+		"prefix": "/sup.script",
+    "body": [
+			"import suptools as sup",
+			"",
+      "",
+      "def script():",
+      "  '''${1:...}",
+      "  '''",
+      "",
+      "  $2",
+			"",
+      "",
+      "if __name__ == \"__main__\":",
+      "  sup.run(script)",
+      "",
+		]
+	},
+
+  // Nextcord
+  "nextcord cog": {
+    "prefix": "/disc.cog",
+    "body": [
+      "'''${1:...}",
+      "'''",
+      "",
+      "import nextcord as disc",
+      "from nextcord import Embed",
+      "from nextcord.ext import commands",
+      "",
+      "",
+      "class ${2:Cog}(commands.Cog):",
+      "  '''${3:...}'''",
+      "  ",
+      "  def __init__(self, bot):",
+      "    self.bot = bot$4",
+      "",
+    ]
+  },
+  "nextcord slash command": {
+    "prefix": "/disc.slash",
+    "body": [
+      "@ disc.slash_command()",
+      "async def $1(self, ctx,",
+      "  $3",
+      "):",
+      "  '''${2:...}'''",
+      "  ",
+      "  await ctx.send()",
+    ]
+  },
+  "nextcord slash option": {
+    "prefix": "/disc.option",
+    "body": [
+      "SlashOption(",
+      "  \"${1:...}\", \"${2:...}\",",
+      "  required = ${3:False}, default = None,",
+      "),",
+    ]
+  },
+  "nextcord slash autofill": {
+    "prefix": "/disc.fill",
+    "body": [
+      "@ $1.on_autocomplete(\"$2\"):",
+      "async def fill_$1(self, ctx, $2):",
+      "  ",
+      "  await ctx.response.send_autocomplete(out)",
+    ]
+  }
+}
