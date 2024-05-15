@@ -12,9 +12,9 @@ A collection of incredible creations, resources, sites and articles I’ve disco
      #QUARK only. -->
 <!-- #QUARK synopsis. -->
 
-<!-- #QUARK ignore? -->
+<!-- #QUARK leave? -->
 Incredible creations and resources I’ve discovered in the internet through various avenues, just like you discovering this within *Assort*.
-<!-- #QUARK ignore. -->
+<!-- #QUARK leave. -->
 
 I’ve listed them in reverse chronological order, so that the further you go, the more timeless they get!
 
@@ -31,84 +31,63 @@ That stuff’s becoming ancient history now...
      #QUARK only. -->
 <!-- #QUARK note. -->
 
+### [Refactoring and Design Patterns](https://refactoring.guru/)
+<!-- #QUARK caption? -->
+> May 2024
+<!-- #QUARK caption. -->
 
-<br>
+Oooh, isn’t this nice...
 
-
-## [Game Programming Patterns](https://gameprogrammingpatterns.com)
-
+### [Game Programming Patterns](https://gameprogrammingpatterns.com)
 <!-- #QUARK caption? -->
 > Spring 2024
 <!-- #QUARK caption. -->
 
 Really well written.
 
-
-<br>
-
-
-## [The Book of Shaders](https://thebookofshaders.com)
-
+### [The Book of Shaders](https://thebookofshaders.com)
 <!-- #QUARK caption? -->
 > Winter 2023/2024
 <!-- #QUARK caption. -->
 
 I can’t even remember why I stumbled upon this, but sure, it was cool.
 
+### [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo)
+<!-- #QUARK caption? -->
+> Winter 2023/2024
+<!-- #QUARK caption. -->
 
-<br>
+I mean damn, that is... unbelievably comprehensive. I’ve read half of it, and the maths is starting to get heavy lmao
 
-
-## [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-
+### [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 <!-- #QUARK caption? -->
 > Winter 2023/2024
 <!-- #QUARK caption. -->
 
 I don’t plan on using Flask, but gaining a rough understanding was pretty cool.
 
-
-<br>
-
-
-## [xkcd](https://xkcd.com)
-
+### [xkcd](https://xkcd.com)
 <!-- #QUARK caption? -->
 > Late Summer 2023
 <!-- #QUARK caption. -->
 
 The journey began sometime around here, and I’ve been haphazardly making my way through them one by one. I’m just taking it slow and enjoying the ride, y’know? As of April Fools’ 2024, I’m on XKCD ~.
 
-
-<br>
-
-
-## [The Codeless Code](http://thecodelesscode.com/contents)
-
+### [The Codeless Code](http://thecodelesscode.com/contents)
 <!-- #QUARK caption? -->
 > Summer 2023
 <!-- #QUARK caption. -->
 
 Truly an incredible masterpiece. I’m eternally thankful to my friend @iTechnicals for showing this to me. Binged the entirety of it over that summer. My favourite entries are collected [here](Codeless%20Code.md).
 
-
-<br>
-
-
-## [TheDailyWTF](https://thedailywtf.com/)
-
+### [TheDailyWTF](https://thedailywtf.com/)
 <!-- #QUARK caption? -->
 > Summer 2023
 <!-- #QUARK caption. -->
 
 Always down for another quick read. These are hilarious.
 
-
-<br>
-
-
-## [Why’s Poignant Guide to Ruby](https://poignant.guide)
-
+### [Why’s Poignant Guide to Ruby](https://poignant.guide)
 <!-- #QUARK caption? -->
 > Sometime Prior to Summer 2023
 <!-- #QUARK caption. -->
@@ -117,24 +96,14 @@ I never intended to learn Ruby, and I have literally no clue why I found this. B
 
 And no, I haven’t learnt Ruby, but it looked like a cool and unique language. Maybe I’ll consider it again sometime in the future.
 
-
-<br>
-
-
-## [Comma Queen](https://www.newyorker.com/culture/comma-queen)
-
+### [Comma Queen](https://www.newyorker.com/culture/comma-queen)
 <!-- #QUARK caption? -->
 > ...2021? 2022?
 <!-- #QUARK caption. -->
 
 Ah, this was when I was really into language. She had some cool articles.
 
-
-<br>
-
-
-## [A Journey to Antarctica](http://mironline.org/ice-diaries-a-journey-to-antarctica/)
-
+### [A Journey to Antarctica](http://mironline.org/ice-diaries-a-journey-to-antarctica/)
 <!-- #QUARK caption? -->
 > 2021 (I think)
 <!-- #QUARK caption. -->
