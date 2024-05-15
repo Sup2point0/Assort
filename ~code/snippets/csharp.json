@@ -1,0 +1,40 @@
+{
+	// CORE //
+  "csharp-class": {
+    "prefix": "/cs.class",
+    "body": [
+      "public class ${1}",
+      "{",
+      "    public ${2};",
+      "",
+      "    public ${1}()",
+      "    {",
+      "        ",
+      "    }",
+      "}",
+    ]
+  },
+
+  // UNITY //
+  "unity-class": {
+    "prefix": ["/unity.class", "/sup.unit"],
+    "body": [
+      "using System.Collections.Generic;",
+      "",
+      "public class ${1:Exec} : MonoBehaviour",
+      "{",
+      "    public ${2};",
+      "",
+      "    void Start()",
+      "    {",
+      "        ",
+      "    }",
+      "",
+      "    void Update()",
+      "    {",
+      "        ",
+      "    }",
+      "}",
+    ]
+  }
+}
