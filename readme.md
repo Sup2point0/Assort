@@ -1,8 +1,12 @@
+<div align="center">
+
 ![assort-title](.assets/assort.png)
 
 ---
 
-Feel free to have a look around!
+Welcome to ***Assort***, an endless wormhole where I keep everything I create. Feel free to have a look around!
+
+</div>
 
 
 <br>
