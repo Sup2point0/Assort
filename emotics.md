@@ -44,12 +44,14 @@ The quirky ones I like to use.
 | :------- | :------------------- | :------- | :------- |
 | :v    | pog | | |
 | :V    | POG | | |
-| =.    | ah | | |
-| ^v^   | yay | | |
-| ^V^   | YAY | | |
-| ^w^   | AWW | | |
-| TvT   | WAH | | |
-| TwT   | WAHAH | | |
+| =|    | | | |
+| =/    | | | |
+| =.    | ah | wait, I forgot we had a test =. | |
+| ^v^   | yay | I love you ^v^ | |
+| ^V^   | YAY | I LOVE THIS ^V^ | |
+| ^w^   | AWW | sooo cuuute ^w^ | |
+| TvT   | WAH | I can’t do this TvT | |
+| TwT   | WAHAH | what do you mean TwT | |
 | o.0   | - | | It’s April 1st o.0 | Often used in isolation. |
 | 0.o   | - | | What’s the day again 0.o | |  Used for balancing purposes. |
 | 0.0   | - | | | Something’s gone really wrong. |
