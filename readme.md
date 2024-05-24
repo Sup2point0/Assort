@@ -49,6 +49,11 @@ GitHub is absolutely perfect for this, since I can organise everything into indi
 ### What am I even supposed to do?
 Hey, first of all, thank you so much for stopping by! I don’t really create all this for others to view, but the thought of someone exploring my content with intrepid fascination fills me with an inexplicable delight. Anyway yeah, browse whatever you want – a whole lot of it is `.md` files, which GitHub will be render so that you can read, and there’ll be some images or PDF files that’ll probably be so large they exceed the size of the page. You can scroll through them, read whatever you find interesting, all up to you ^v^
 
+### How is there so much stuff?
+This is, like, everything from pretty much my entire life, so, y’know.
+
+I also want to clarify that *everything* here is organic – handwritten, hand-typed, hand-transcribed, and all – no use of AI or automation at all. The only exception would be `docs/`, but that’s just the HTML renders of other organic content in this repo (and some important pages are even manually written HTML ;)
+
 ### What do the folder prefixes indicate?
 Uppercase and lowercase are simply stylistic choices. Those with `~` are categories, while those with `.` are developmental files you don’t need to see. (ofc, if you want, you can take a look anyway ;)
 
