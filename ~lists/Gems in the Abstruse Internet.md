@@ -31,7 +31,14 @@ That stuff’s becoming ancient history now...
      #QUARK only. -->
 <!-- #QUARK note. -->
 
-### [Refactoring and Design Patterns](https://refactoring.guru/)
+### [Mazes?](https://www.astrolog.org/labyrnth/algrithm.htm)
+<!-- #QUARK caption? -->
+> May 2024
+<!-- #QUARK caption. -->
+
+Oh my days, who’s writing this much about mazes...
+
+### [Refactoring Guru](https://refactoring.guru/)
 <!-- #QUARK caption? -->
 > May 2024
 <!-- #QUARK caption. -->
