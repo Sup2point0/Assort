@@ -31,6 +31,15 @@ That stuff’s becoming ancient history now...
      #QUARK only. -->
 <!-- #QUARK note. -->
 
+### [Everyone has JavaScript, right?](https://www.kryogenix.org/code/browser/everyonehasjs.html)
+<!-- #QUARK caption? -->
+> May 2024
+<!-- #QUARK caption. -->
+
+Love this. As a regular user of an utterly outdated iPhone 5s where I’m hit with this way too often, I can relate.
+
+At the same time, just get capable devices, people, I swear it’s not that difficult.
+
 ### [Mazes?](https://www.astrolog.org/labyrnth/algrithm.htm)
 <!-- #QUARK caption? -->
 > May 2024
