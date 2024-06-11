@@ -1,4 +1,4 @@
-# 38 Methods of Flawless Fail-Safe Fixing
+# 42 Methods of Flawless Fail-Safe Fixing
 <!-- #QUARK live!
   EXPORT: lists/fix
   STYLE: dev
@@ -32,19 +32,23 @@ Being a software developer is tough. So, if you’re ever in a pickle, and hopef
 1. ***Fix by threading.*** What if we used multithreading to speed up the code?
 1. ***Fix by virus.*** If we infect the software with a virus, then they won’t be able to tell it’s broken.
 1. ***Fix by inheritance.*** This problem was inherited from another class, so it’s outside our scope.
+1. ***Fix by stack.*** Have you tried making it serverless?
 1. ***Fix by facade.*** If we just show them a video of it doing the right thing, we can avoid actually coding anything.
 1. ***Fix by fable.*** There was once a monk...
+1. ***Fix by pay2win.*** Just pay someone else to fix it for us.
 1. ***Fix by duct tape.*** There’s nothing duct tape and a screwdriver can’t solve.
 1. ***Fix by frontend.*** If the user can’t navigate this annoying UI, they won’t find any bugs.
-1. ***Fix by ‘code’ review.*** We have 69420 5-star reviews on the App Store, so it must be good!
+1. ***Fix by code review.*** We have 69420 5-star reviews on the App Store, so it must be good!
 1. ***Fix by catch.*** `except Exception: pass`
 1. ***Fix by encapsulation.*** As long as we wrap all this spaghetti code in a class with one method, we’ll be good to go.
 1. ***Fix by dogma.*** Sorry, dog ate my code.
 1. ***Fix by open-source.*** Someone will open a pull request eventually, right?
 1. ***Fix by statistics.*** This bug is negligible at the 50% significance level, so we reject its existence.
+1. ***Fix by startup.*** Hey, founding a startup sounds like a good idea!
+1. ***Fix by failure.*** Failure is the true path to success.
 1. ***Proof by denial.*** Our program is perfect.
 1. ***Fix by duck-talking.*** Moan about the issue to the duck, and it’ll magically resolve itself. Trust.
 1. ***Fix by artificial intelligence.*** Have you tried adding AI to it?
-1. ***Fix by definition.*** `#PRAGMA fixed=true`
+1. ***Fix by definition.*** `#PRAGMA fixed=true;`
 
 *Inspired by [36 Methods of Mathematical Proof](https://jwilson.coe.uga.edu/EMT668/EMAT661.F99/Challen/proof/proof.html).*
