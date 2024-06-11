@@ -39,4 +39,5 @@ Oh yeah, and yeah no, I’m aware half of them don’t make any sense at all, an
 
 ### 2024
 [Heartburn](Heartburn.md)  
+[fractal fracking](fractal%20fracking.md)  
 <!-- #QUARK leave. -->
