@@ -17,21 +17,33 @@
   "window.newWindowDimensions": "maximized",
   "workbench.colorTheme": "Tomorrow Night Blue",
   "workbench.statusBar.visible": false,
+  "workbench.tree.indent": 16,
+  "workbench.tree.renderIndentGuides": "always",
   "explorer.confirmDragAndDrop": true,
   "security.workspace.trust.untrustedFiles": "open",
   "security.workspace.trust.enabled": false,
   "remoteHub.commitDirectlyWarning": "off",
   
+  "breadcrumbs.enabled": false,
+  "redhat.telemetry.enabled": false,
+  
   "files.exclude": {
     "**/__pycache__": true
   },
+  
+  "svelte.enable-ts-plugin": true,
 
   // git
   "git.enableSmartCommit": true,
   "git.confirmSync": false,
   "git.openRepositoryInParentFolders": "never",
+  "scm.showOutgoingChanges": "always",
+  "scm.showIncomingChanges": "always",
+  "github.copilot.editor.enableAutoCompletions": true,
 
   // Python
+  // "python.defaultInterpreterPath": "C:\\Users\\Han\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+  "python.defaultInterpreterPath": "C:\\Users\\Han\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
   "python.terminal.executeInFileDir": true,
   "terminal.integrated.env.windows": {
     "PYTHONPATH": "${workspaceFolder}"
@@ -93,6 +105,9 @@
       }, {
         "scope": "constant.character",
         "settings": {"foreground": "#60c7c7"}
+      }, {
+        "scope": "string.regexp",
+        "settings": {"foreground": "#c1fff1"}
       },
 
       { // Python
@@ -368,6 +383,30 @@
         "scope": "variable.language.this.js",
         "settings": {"foreground": "#c7c7ff", "fontStyle": "italic"},
       },
+
+      // TypeScript
+      {
+        "scope": "support.type.primitive.ts",
+        "settings": {"foreground": "#9090f1"}
+      },
+
+      // Svelte
+      {
+        "scope": [
+          "punctuation.separator.key-value.svelte",
+          "punctuation.section.embedded.begin.svelte",
+          "punctuation.section.embedded.end.svelte"],
+        "settings": {"foreground": "#ff9020"}
+      },
+
+      // SCSS
+      {
+        "scope": "punctuation.terminator.rule.scss",
+        "settings": {"foreground": "#145090"}
+      }, {
+        "scope": "variable.scss",
+        "settings": {"foreground": "#fff0c0"}
+      },
     
       // JSON
       {
@@ -396,6 +435,5 @@
         "selfParameter": {"foreground": "#c7c7ff", "fontStyle": "italic"},
       }
     }
-  },
-  "breadcrumbs.enabled": false
+  }
 }
