@@ -107,8 +107,8 @@ From #f00 pixels it unashamedly taunts;
 The squiggly underline of a new bug detected:  
 “Syntax error on line 69: semicolon expected.”  
 
-<!-- #QUARKS leave? -->
+<!-- #SQUARK leave? -->
 <br>
 
 (25–27 June 2024)
-<!-- #QUARKS leave. -->
+<!-- #SQUARK leave. -->
