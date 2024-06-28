@@ -12,12 +12,12 @@ Yet now you lie, half-awake, half-dead,
 Brain-fried and bleary-eyed, you sigh in defeat,  
 Tonight there will be no leaving this seat.  
 
-Pump up the caffeine, no pain no game!  
+Pump up the caffeine, no pain no gain!  
 Get the hardcore glitch hop flowing through our veins  
 “Let’s do this!” we cry. “No time like the present!”  
 3 hours later do we realise – this bug ain’t so pleasant.  
 
-For the eigth time, you collapse on the desk in despair,  
+For the eighth time, you collapse on the desk in despair,  
 *This* close to tearing out your last strand of hair.  
 We’re on our own here bois, this is unchartered ground –  
 Not even r/learnprogramming threads were found.  
@@ -30,7 +30,7 @@ There must be some kind of typo or misuse
 It’s somewhere in this regular expression  
 Probably some kind of circular rejection  
 Wait, is that supposed to be covariance?  
-This whole archetecture just seems so precarious  
+This whole architecture just seems so precarious  
 
 Maybe a little fix here would fix that thing  
 NO EVERYTHING BROKE PANIC PANIC PANIC  
