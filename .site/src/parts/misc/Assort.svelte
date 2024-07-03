@@ -14,11 +14,25 @@ import { base } from "$app/paths";
 <style lang="scss">
 
 p {
+  @include font-ui;
   font-size: 1rem;
+}
+
+img {
+  height: 2rem;
 }
 
 .assort {
   height: 2rem;
+  max-height: 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+
+  > * {
+    display: inline-block;
+  }
 }
 
 </style>

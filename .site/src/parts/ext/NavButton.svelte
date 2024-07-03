@@ -11,6 +11,7 @@ const callbacks = {
 
 const icons = {
   open: "keyboard_double_arrow_right",
+  close: "keyboard_double_arrow_left",
 }
 
 </script>

@@ -31,10 +31,14 @@ export let button = null;
 
 a, button {
   @include font-ui;
-  width: var(--nav-width) - 1rem;
-  margin: 0.2rem 0;
-  padding: 0.5em 1em;
-  background-color: none;
+  width: calc(var(--nav-width) - 0.4em);
+  margin: 0;
+  padding: 0.2em 0 0.2em 1em;
+  font-weight: 400;
+  font-size: 100%;
+  color: $col-text-deut;
+  text-align: left;
+  background-color: transparent;
   border-radius: 0.5rem;
   @include trans-default;
 
@@ -64,7 +68,7 @@ a {
 }
 
 button {
-  outline: none;
+  border: none;
 }
 
 </style>

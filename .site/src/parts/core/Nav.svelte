@@ -24,70 +24,89 @@ function redirectRandomPage() {
   const random = Math.floor(Math.random() * pages.length);
   window.location.href = `${base}/${pages[random]}`;
 }
-  
-  
-const struct = [
-  {
-    title: "Explore",
-    links: [
-      { text: "Home",
-        link: "${base}" },
-      { text: "Frequerys",
-        link: "${base}/frequerys" },
-      { text: "Portal",
-        button: redirectRandomPage },
-    ]
-  }, {
-    title: "Categories",
-    links: [
-      { text: "music",
-        link: "${base}/sounds" },
-      { text: "writing pieces",
-        link: "${base}/writing" },
-      { text: "poetry",
-        link: "${base}/poetry" },
-      { text: "graphic design",
-        link: "${base}/graphics" },
-    ]
-  }, {
-    title: "Creations",
-    links: [
-      { text: "affine",
-        link: "${base}/affine" },
-      { text: "kenzokinetics",
-        link: "${base}/kenzokinetics" },
-      { text: "graphics",
-        link: "${base}/graphics" },
-    ]
-  }, {
-    title: "Franchises",
-    links: [
-      { text: "Yu-Gi-Oh!",
-        link: "${base}/yugioh" },
-    ]
-  }
-]
 
 </script>
 
 
 {#if $navOpen}
   <nav>
-    <section>
+    <section id="top">
       <Assort />
       <NavButton action="close" />
     </section>
 
-    {#each struct as sec}
-      <section>
-        {#each sec.links as link}
-          <NavLink {...link} />
-        {/each}
-      </section>
-    {/each}
+    <section>
+      <h2> Explore </h2>
+        <NavLink text="home" link="{base}" />
+        <NavLink text="frequerys" link="{base}/frequerys" />
+        <NavLink text="portal" button={redirectRandomPage} />
+    </section>
+
+    <section>
+      <h2> Categories </h2>
+        <NavLink text="music" link="{base}/music" />
+        <NavLink text="dev" link="{base}/dev" />
+        <NavLink text="writing pieces" link="{base}/writing" />
+        <NavLink text="poetry" link="{base}/poetry" />
+        <NavLink text="graphic design" link="{base}/graphics" />
+        <NavLink text="lists" link="{base}/lists" />
+    </section>
+
+    <section>
+      <h2> Creations </h2>
+        <NavLink text="affine" link="{base}/affine" />
+        <NavLink text="Ascense" link="{base}/ascense" />
+        <NavLink text="kenzokinetics" link="{base}/kenzokinetics" />
+        <NavLink text="xeriqui" link="{base}/xeriqui" />
+    </section>
+
+    <section>
+      <h2> Franchises </h2>
+        <NavLink text="Yu-Gi-Oh!" link="{base}/yugioh" />
+    </section>
   </nav>
 
 {:else}
   <NavButton action="open" />
 
 {/if}
+
+
+<style lang="scss">
+
+nav {
+  --nav-width: max(4rem, 10vw);
+  width: var(--nav-width);
+  min-height: 100vh;
+  padding: 0.5rem 0.25rem;
+  display: inline-block;
+  background-color: $col-back-deut;
+}
+
+section {
+  width: 100%;
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+
+  &#top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+h2 {
+  @include font-ui;
+  width: 100;
+  margin: 1rem 1rem 0.5rem;
+  padding: 0 0 0.5em;
+  font-size: 120%;
+  font-weight: 500;
+  border-bottom: 1px solid $grey-nova;
+}
+
+</style>
