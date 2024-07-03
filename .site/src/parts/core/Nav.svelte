@@ -75,8 +75,9 @@ function redirectRandomPage() {
 <style lang="scss">
 
 nav {
-  --nav-width: max(4rem, 10vw);
-  width: var(--nav-width);
+  // --nav-width: max(8rem, 10vw);
+  // width: var(--nav-width);
+  width: max(12rem, 12vw);
   min-height: 100vh;
   padding: 0.5rem 0.25rem;
   display: inline-block;
@@ -100,13 +101,17 @@ section {
 }
 
 h2 {
-  @include font-ui;
   width: 100;
-  margin: 1rem 1rem 0.5rem;
-  padding: 0 0 0.5em;
+  margin: 0.75rem 1rem;
+  padding: 0 0 0.4em;
+  display: block;;
+
+  @include font-ui;
   font-size: 120%;
-  font-weight: 500;
-  border-bottom: 1px solid $grey-nova;
+  font-weight: 420;
+  color: $col-text;
+  
+  border-bottom: 1.5px solid $col-accent;
 }
 
 </style>

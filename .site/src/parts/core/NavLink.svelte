@@ -30,14 +30,16 @@ export let button = null;
 <style lang="scss">
 
 a, button {
-  @include font-ui;
-  width: calc(var(--nav-width) - 0.4em);
+  width: 100%;
   margin: 0;
-  padding: 0.2em 0 0.2em 1em;
-  font-weight: 400;
+  padding: 0.25em 0 0.25em 1em;
+  
+  @include font-ui;
+  font-weight: 360;
   font-size: 100%;
   color: $col-text-deut;
   text-align: left;
+
   background-color: transparent;
   border-radius: 0.5rem;
   @include trans-default;
@@ -45,19 +47,19 @@ a, button {
   &:hover, &:focus {
     color: $pink-elec;
     background-color: light-dark(
-      rgba(black, 10%),
+      rgba(black, 5%),
       rgba(white, 10%),
     );
   }
 
-  &:focus {
-    outline: 2px solid rgba($pink-elec, 69%);
+  &:focus:not(:active) {
+    outline: 1.5px solid rgba($blue-sky, 69%);
   }
 
   &:active {
     color: light-dark($purp-nova, $teal-elec);
     background-color: light-dark(
-      rgba(black, 20%),
+      rgba(black, 10%),
       rgba(white, 20%),
     );
   }
