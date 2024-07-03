@@ -1,10 +1,14 @@
 {
-  "$schema": "../stranger-quarkdown/squarkdown/resources/repo-config-schema.json",
+  "$schema": "../.stranger-quarkdown/squarkdown/resources/repo-config-schema.json",
   
   "repo": "Assort",
   "dest": ".site/src/routes",
   "filename": "~content",
   "exclude": [
     ""
+  ],
+
+  "fonts": [
+    "Outfit:wght@100..900"
   ]
 }
