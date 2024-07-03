@@ -1,4 +1,9 @@
+@use './src/styles/~nova' as *;
+
+
 $col-back: light-dark(#fefefe, #090909);
   $col-back-deut: light-dark(#f0f0f0, #1c1c1c);
 $col-text: light-dark(#090909, #fefefe);
   $col-text-deut: light-dark(#797979, #979797);
+
+$col-accent: light-dark($pink-elec, $teal-elec);

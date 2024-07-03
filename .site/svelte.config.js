@@ -35,10 +35,10 @@ const config = {
     sveltePreprocess({
       scss: {
         prependData: `
-          @use './src/styles/~nova.scss' as *;
-          @use './src/styles/~variables.scss' as *;
-          @use './src/styles/mixins/~fonts.scss' as *;
-          @use './src/styles/mixins/~anim.scss' as *;
+          @use './src/styles/~nova' as *;
+          @use './src/styles/~variables' as *;
+          @use './src/styles/mixins/~fonts' as *;
+          @use './src/styles/mixins/~anim' as *;
         `,
       }
     }),
