@@ -47,6 +47,8 @@ import GitHubIcon from "#parts/misc/GitHubIcon.svelte";
 
 <style lang="scss">
 
+@use './src/styles/links' as *;
+
 p {
   margin: 0.2rem 0;
   @include font-ui;
@@ -74,10 +76,10 @@ section {
   padding: 0;
 }
 
-a {
-  #svelte { color: $orange-spirit; }
-  #svelte-kit { color: $red-nova; }
-  #squark { color: $pink-spirit; }
+a:not(:hover) {
+  &#svelte { color: $orange-spirit; }
+  &#svelte-kit { color: $red-nova; }
+  &#squark { color: $pink-spirit; }
 }
 
 #sup {
