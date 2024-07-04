@@ -95,8 +95,8 @@ function redirectRandomPage() {
 <style lang="scss">
 
 nav {
-  --nav-width: max(4rem, 10vw);
-  width: var(--nav-width);
+  // --nav-width: max(4rem, 10vw);
+  // width: var(--nav-width);
   min-height: 100vh;
   padding: 0.5rem 0.25rem;
   display: inline-block;
