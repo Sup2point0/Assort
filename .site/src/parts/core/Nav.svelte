@@ -10,16 +10,7 @@ import navOpen from "#modules/stores/nav";
 
 
 function redirectRandomPage() {
-  const pages = [
-    "sounds",
-    "writing",
-    "poetry",
-    "graphics",
-    "affine",
-    "kenzokinetics",
-    "graphics",
-    "yugioh",
-  ]
+  const pages = []
 
   const random = Math.floor(Math.random() * pages.length);
   window.location.href = `${base}/${pages[random]}`;
@@ -37,35 +28,64 @@ function redirectRandomPage() {
 
     <section>
       <h2> Explore </h2>
-        <NavLink text="home" link="{base}" />
-        <NavLink text="frequerys" link="{base}/frequerys" />
+        <NavLink text="home" intern="" />
+        <NavLink text="featured" intern="featured" />
+        <NavLink text="index" intern="index" />
         <NavLink text="portal" button={redirectRandomPage} />
-    </section>
+      </section>
+      
+      <section>
+        <h2> Categories </h2>
+        <NavLink text="music" intern="music">
+          <NavLink text="tracks" intern="music/tracks" />
+          <NavLink text="albums" intern="music/albums" />
+        </NavLink>
+        <NavLink text="dev" intern="dev" />
+        <NavLink text="writing pieces" intern="writing">
+          <NavLink text="creative" intern="writing/creative" />
+          <NavLink text="personal" intern="writing/personal" />
+          <NavLink text="thoughts" intern="writing/thoughts" />
+        </NavLink>
+        <NavLink text="poetry" intern="poetry" />
+        <NavLink text="graphic design" intern="graphics" />
+        <NavLink text="lists" intern="lists" />
+      </section>
+      
+      <section>
+        <h2> Creations </h2>
+        <NavLink text="affine" intern="affine">
+          <NavLink text="affinitys" intern="affine/affinitys" />
+          <NavLink text="spells" intern="affine/spells" />
+        </NavLink>
+        <NavLink text="Ascense" intern="ascense" />
+        <NavLink text="kenzokinetics" intern="kenzokinetics" />
+        <NavLink text="xeriqui" intern="xeriqui" />
+      </section>
+      
+      <section>
+        <h2> Franchises </h2>
+        <NavLink text="Yu-Gi-Oh!" intern="yugioh">
+          <NavLink text="archetypes" intern="yugioh/archetypes" />
+          <NavLink text="cards" intern="yugioh/cards" />
+          <NavLink text="lore" intern="yugioh/lore" />
+        </NavLink>
+        <NavLink text="Ultraman" intern="ultraman" />
+      </section>
 
-    <section>
-      <h2> Categories </h2>
-        <NavLink text="music" link="{base}/music" />
-        <NavLink text="dev" link="{base}/dev" />
-        <NavLink text="writing pieces" link="{base}/writing" />
-        <NavLink text="poetry" link="{base}/poetry" />
-        <NavLink text="graphic design" link="{base}/graphics" />
-        <NavLink text="lists" link="{base}/lists" />
-    </section>
+      <section>
+        <h2> Archives </h2>
+      </section>
 
-    <section>
-      <h2> Creations </h2>
-        <NavLink text="affine" link="{base}/affine" />
-        <NavLink text="Ascense" link="{base}/ascense" />
-        <NavLink text="kenzokinetics" link="{base}/kenzokinetics" />
-        <NavLink text="xeriqui" link="{base}/xeriqui" />
-    </section>
-
-    <section>
-      <h2> Franchises </h2>
-        <NavLink text="Yu-Gi-Oh!" link="{base}/yugioh" />
-    </section>
-  </nav>
-
+      <section>
+        <h2> Meta </h2>
+        <NavLink text="synopsis" intern="synopsis" />
+        <NavLink text="frequerys" intern="frequerys" />
+        <NavLink text="AI" intern="ai" />
+        <NavLink text="license" intern="license" />
+        <NavLink text="sup" intern="sup" />
+      </section>
+    </nav>
+    
 {:else}
   <NavButton action="open" />
 

@@ -13,3 +13,12 @@ export let link = "";
     src="{base}/icons/github.svg"
   >
 </a>
+
+
+<style lang="scss">
+
+a {
+  display: inline;
+}
+
+</style>

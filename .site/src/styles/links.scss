@@ -1,0 +1,54 @@
+@use './src/styles/~nova' as *;
+@use './src/styles/~variables' as *;
+@use './src/styles/mixins/~anim' as *;
+
+
+$link: ':where(a:not(:has(img)))';
+
+$col-link: light-dark($blue-nova, $blue-cresc);
+  $col-link-hover: light-dark($pink-elec, $pink-elec);
+$col-link-visit: light-dark($purp-nova, $lilac-cresc);
+$col-link-active: light-dark($purp-nova, $teal-elec);
+
+
+#{$link} {
+  text-decoration: none;
+  display: inline-block;
+  position: relative;
+  color: $col-link;
+  @include trans-default;
+
+  &:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 1.5px;
+    background-color: $col-link-hover;
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 0.12s ease-out;
+  }
+
+  &:hover {
+    color: $col-link-hover;
+
+    &:after {
+      transform: scaleX(1);
+      transform-origin: left;
+    }
+  }
+
+  &:active {
+    color: $col-link-active;
+
+    &:after {
+      background-color: $col-link-active
+    }
+  }
+}
+
+#{$link}:visited:not(:hover, :focus, :active) {
+  color: $col-link-visit;
+}
