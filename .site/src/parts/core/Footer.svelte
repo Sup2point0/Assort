@@ -2,8 +2,6 @@
 
 import { base } from "$app/paths";
 
-import NavButton from "#parts/ext/NavButton.svelte";
-import Assort from "#parts/misc/Assort.svelte";
 import GitHubIcon from "#parts/misc/GitHubIcon.svelte";
 
 </script>
