@@ -1,0 +1,8 @@
+<script>
+
+import Content from "../%{route}/%{file}.svx";
+
+</script>
+
+
+<Content />
