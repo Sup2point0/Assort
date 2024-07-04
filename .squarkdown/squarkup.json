@@ -2,6 +2,10 @@
   "$schema": "../.stranger-quarkdown/squarkdown/resources/repo-config-schema.json",
   
   "repo": "Assort",
+  "sources": [
+    ".squarkdown/content",
+    "~poetry/"
+  ],
   "dest": ".site/src/routes",
   "filename": "~content",
   "exclude": [
