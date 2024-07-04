@@ -4,6 +4,8 @@
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
+      "devx": "npm run prep && npm run dev",
+    "prep": "cd ../.stranger-quarkdown && rake squarkup && cd ../.site",
 		"build": "vite build",
 		"preview": "vite preview"
 	},
