@@ -3,17 +3,17 @@
   
   "repo": "Assort",
   "site": ".site",
-  "sources": [
+  "source": [
     ".squarkdown/content",
     "~poetry/"
   ],
   "dest": ".site/src/routes",
-
   "filename": "~content",
+
+  "assets": ".assets",
   "exclude": [
     ""
   ],
-
   "fonts": [
     "Outfit:wght@100..900",
     "Nanum+Pen+Script",
