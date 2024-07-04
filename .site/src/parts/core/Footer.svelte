@@ -1,5 +1,7 @@
 <script>
 
+import { base } from "$app/paths";
+
 import NavButton from "#parts/ext/NavButton.svelte";
 import Assort from "#parts/misc/Assort.svelte";
 import GitHubIcon from "#parts/misc/GitHubIcon.svelte";
@@ -10,7 +12,7 @@ import GitHubIcon from "#parts/misc/GitHubIcon.svelte";
 <footer>
   <div class="left">
     <section>
-      <Assort />
+      <img id="assort" src="{base}/assort-block.png">
       <p> An assortment of all my creations! </p>
     </section>
 
@@ -21,14 +23,17 @@ import GitHubIcon from "#parts/misc/GitHubIcon.svelte";
 
     <section>
       <GitHubIcon />
-      <p> View on <a href="https://github.com/Sup2point0/Assort">GitHub</a> </p>
+      <p style:display="inline"> View on <a href="https://github.com/Sup2point0/Assort">GitHub</a> </p>
     </section>
   </div>
 
   <div class="right">
     <section id="sup">
-      <p> Made with love by </p>
-      <p> <a target="_blank" href="https://github.com/Sup2point0">Sup#2.0</a> </p>
+      <div>
+        <p> Made with love by </p>
+        <p class="sup"> <a target="_blank" href="https://github.com/Sup2point0">Sup#2.0</a> </p>
+      </div>
+      <img src="{base}/purple-portal.png">
     </section>
 
     <section>
@@ -43,6 +48,7 @@ import GitHubIcon from "#parts/misc/GitHubIcon.svelte";
 <style lang="scss">
 
 p {
+  margin: 0.2rem 0;
   @include font-ui;
   color: $col-text-deut;
 }
@@ -50,12 +56,13 @@ p {
 footer {
   width: 100%;
   margin: 0;
-  padding: 1rem 2rem 7rem;
+  padding: 2rem 4.2rem 6.9rem;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: start;
 
+  background-color: lightgrey;
   background-color: $col-back-deut;
 
   .left { text-align: left; }
@@ -63,7 +70,7 @@ footer {
 }
 
 section {
-  margin: 0 0 1rem;
+  margin: 0 0 1.5rem;
   padding: 0;
 }
 
@@ -74,8 +81,20 @@ a {
 }
 
 #sup {
-  @include font-flavour;
-  font-size: 200%;
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+
+  .sup {
+    @include font-flavour;
+    font-size: 150%;
+  }
+
+  img {
+    margin-left: 1rem;
+    height: 4rem;
+  }
 }
 
 </style>
