@@ -2,17 +2,23 @@
 An individual link in the navigation pane.
 -->
 
-<script>
+<script lang="ts">
 
-export let text;
-export let link = null;
-export let extern = null;
+import { base } from "$app/paths";
+
+export let text: string;
+export let link: string | null = null;
+  export let intern: string | null = null;
+  export let extern: string | null = null;
 export let button = null;
 
 </script>
 
 
-{#if link}
+{#if intern}
+  <a href="{base}/{intern}"> {text} </a>
+
+{:else if link}
   <a href={link}> {text} </a>
 
 {:else if extern}
@@ -67,6 +73,10 @@ a, button {
 
 a {
   text-decoration: none;
+
+  &[href$="sup"] {
+    color: $col-back-deut;
+  }
 }
 
 button {

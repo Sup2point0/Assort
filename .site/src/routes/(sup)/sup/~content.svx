@@ -1,0 +1,44 @@
+Sup, intrepid adventurer.
+
+Oh yeah, *Assort* goes deep. I am very, very impressed – and incredibly touched – that you have found this.
+
+<!-- If you’re reading this in the raw source code, well... kekeke fair game I suppose -->
+
+I’ve always loved the thought of easter eggs. That wonder and excitement depicted in [*Ready Player One*](~) is SO real. The power and freedom to create them as I so please is almost too much, that I don’t even know how to use it.
+
+<!-- iTechnical, if you’re reading this, I love you. -->
+
+I want to say thanks.
+
+<!-- ^ he might never see that @.@ -->
+
+Thank you, for reading *Assort*.
+
+Thank you, for exploring this world of mine.
+
+Thank you, for caring.
+
+You have no idea how heartwarming it is for someone to look through stuff you’ve made. Just the thought fills me with inexplicable delight and joy.
+
+Someday I’ll stop adding to *Assort*. Someday the final commit will be made. Someday I won’t be here anymore.
+
+But while we build things in the hopes that they last, what matters is the fulfilment they bring.
+
+I love *Assort* with every fibre of my being.
+
+I hope you’ve enjoyed.
+
+o7
+
+<!-- GENERIC GOVERNANCE -->
+
+
+<script lang="scss">
+
+p {
+  @include font-hand;
+  font-size: 200%;
+  color: white;
+}
+
+</script>
