@@ -2,6 +2,10 @@
   font-family: 'Outfit', 'Segoe UI', system-ui, sans-serif;
 }
 
+@mixin font-flavour {
+  font-family: 'Nanum Pen Script', 'Segoe UI', system-ui, sans-serif;
+}
+
 @mixin font-hand {
   font-family: 'Nanum Pen Script', 'Segoe UI', system-ui, sans-serif;
 }

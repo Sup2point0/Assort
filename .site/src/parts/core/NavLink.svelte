@@ -2,14 +2,14 @@
 An individual link in the navigation pane.
 -->
 
-<script>
+<script lang="ts">
 
 import { base } from "$app/paths";
 
-export let text;
-export let link = null;
-  export let intern = null;
-  export let extern = null;
+export let text: string;
+export let link: string | null = null;
+  export let intern: string | null = null;
+  export let extern: string | null = null;
 export let button = null;
 
 </script>
