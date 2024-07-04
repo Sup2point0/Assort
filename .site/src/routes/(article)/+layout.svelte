@@ -3,7 +3,6 @@
 // import "#styles/essence.scss";
 
 import Nav from "#parts/core/Nav.svelte";
-import Article from "#parts/core/Article.svelte";
 import Footer from "#parts/core/Footer.svelte";
 
 </script>
@@ -13,7 +12,9 @@ import Footer from "#parts/core/Footer.svelte";
   <div id="page">
     <div id="nav-page-split">
       <Nav />
-      <Article />
+      <slot>
+        <p class="error"> Uh, something has gone catastrophicall, catastropically wrong! </p>
+      </slot>
     </div>
     <Footer />
   </div>

@@ -73,6 +73,11 @@ function redirectRandomPage() {
 
       <section>
         <h2> Archives </h2>
+        <NavLink text="Monkeyopolis Times" intern="monkeyopolis-times">
+          <NavLink text="editions" intern="editions" />
+          <NavLink text="articles" intern="articles" />
+          <NavLink text="ads" intern="ads" />
+        </NavLink>
       </section>
 
       <section>
