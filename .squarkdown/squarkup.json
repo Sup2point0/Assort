@@ -10,6 +10,7 @@
   "dest": ".site/src/routes/(article)",
   "file-name": "~content",
 
+  "styles": "src/styles/pages",
   "assets": ".assets",
   "exclude": [
   ],
