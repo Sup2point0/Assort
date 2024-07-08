@@ -7,4 +7,7 @@ $col-text: light-dark(#090909, #fefefe);
   $col-text-deut: light-dark($grey-storm, #979797);
   $col-text-trit: light-dark($grey-nova, #979797);
 
+$col-link: $pink-elec;
+
 $col-accent: light-dark($pink-elec, $teal-elec);
+$col-focus: light-dark($blue-sky, $blue-elec);
