@@ -55,8 +55,10 @@ a {
   display: inline-block;
 
   text-align: left;
+  text-decoration: none;
   &.right { text-align: right; }
   background-color: $col-back;
+  border-radius: 1rem;
 
   @include trans-default;
 
@@ -68,12 +70,14 @@ a {
 }
 
 h4 {
+  margin: 0;
   @include font-ui;
   font-size: 125%;
   color: var(--col, $col-link);
 }
 
 p {
+  margin: 0;
   @include font-body;
   font-size: 100%;
 }

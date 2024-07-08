@@ -52,15 +52,59 @@ import NewlyReleased from "./ExploreCards.svelte";
 
 <style lang="scss">
 
+p {
+  margin: 0;
+}
+
+h2 {
+  width: 100%;
+  margin: 0;
+  padding: 0 0 0.5rem;
+
+  @include font-head;
+  font-size: 200%;
+  color: $col-text-prot;
+  border-bottom: 2px solid $col-back-deut;
+}
+
+
+main {
+  padding: 0.5rem 0 4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .center {
+  width: 100%;
+  max-width: 800px;
+  padding: 0.5rem 2rem 0;
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
 }
 
+section {
+  width: 100%;
+  margin: 1rem 0;
+}
+
+p#assort-welcome {
+  @include font-flavour;
+  font-size: 200%;
+  color: $col-text-trit;
+}
 h1#assort {
-  font-size: 300%;
+  @include font-hand;
+  margin: -1rem;
+  font-size: 1200%;
+  color: $blue-nova;
+}
+p#assort-capt {
+  @include font-flavour;
+  font-size: 250%;
+  color: $lilac-nova;
 }
 
 </style>

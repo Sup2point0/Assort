@@ -1,8 +1,25 @@
 @use './src/styles/~variables' as *;
+@use './src/styles/mixins/~anim' as *;
 
 
 @mixin focus-outline {
   &:focus:not(:active) {
     outline: 1.5px solid $col-focus;
+  }
+}
+
+@mixin interactive($col, $values, $focus: true) {
+  @include trans-default;
+
+  &:hover {
+    background-color: rgba($col, list.nth(values, 1));
+  }
+
+  &:focus {
+    background-color: rgba($col, list.nth(values, 2));
+  }
+
+  &:active {
+    background-color: rgba($col, list.nth(values, 3));
   }
 }
