@@ -8,6 +8,8 @@
     "~poetry/"
   ],
   "dest": ".site/src/routes/(article)",
+
+  "file-source": "src/parts/page/~page.svelte",
   "file-name": "~content",
 
   "styles": "src/styles",
