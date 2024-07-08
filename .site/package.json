@@ -7,6 +7,7 @@
       "devx": "npm run prep && npm run dev",
     "prep": "cd ../.stranger-quarkdown && rake squark && cd ../.site",
       "squark": "cd ../.stranger-quarkdown && rake squarkup && cd ../.site",
+      "squarkup": "cd ../.stranger-quarkdown && rake squarksup && cd ../.site",
 		"build": "vite build",
 		"preview": "vite preview"
 	},
