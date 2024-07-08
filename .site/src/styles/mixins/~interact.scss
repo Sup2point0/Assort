@@ -1,0 +1,8 @@
+@use './src/styles/~variables' as *;
+
+
+@mixin focus-outline {
+  &:focus:not(:active) {
+    outline: 1.5px solid $col-focus;
+  }
+}
