@@ -9,7 +9,7 @@ export let link = "";
 
 <a href="https://github.com/Sup2point0/Assort/{link}">
   <img
-    alt="GitHub icon"
+    alt="GitHub"
     src="{base}/icons/github.svg"
   >
 </a>
