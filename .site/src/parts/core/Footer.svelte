@@ -31,7 +31,7 @@ import GitHubIcon from "#parts/misc/GitHubIcon.svelte";
         <p> Made with love by </p>
         <p class="sup"> <a target="_blank" href="https://github.com/Sup2point0">Sup#2.0</a> </p>
       </div>
-      <img src="{base}/purple-portal.png">
+      <img alt="Purple Portal" src="{base}/.site/purple-portal.png">
     </section>
 
     <section>

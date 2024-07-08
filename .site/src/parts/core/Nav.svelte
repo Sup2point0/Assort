@@ -27,7 +27,7 @@ function redirectRandomPage() {
 
     <section>
       <h2> Explore </h2>
-        <NavLink text="home" intern="" />
+        <NavLink text="home" link="https://sup2point0.github.io/Assort" />
         <NavLink text="featured" intern="featured" />
         <NavLink text="index" intern="index" />
         <NavLink text="portal" button={redirectRandomPage} />
