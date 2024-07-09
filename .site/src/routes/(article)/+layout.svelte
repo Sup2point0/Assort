@@ -12,9 +12,11 @@ import Footer from "#parts/core/Footer.svelte";
   <div id="page">
     <div id="nav-page-split">
       <Nav />
-      <slot>
-        <p class="error"> Uh, something has gone catastrophicall, catastropically wrong! </p>
-      </slot>
+      <main>
+        <slot>
+          <p class="error"> Uh, something has gone catastrophicall, catastropically wrong! </p>
+        </slot>
+      </main>
     </div>
     <Footer />
   </div>
@@ -23,8 +25,13 @@ import Footer from "#parts/core/Footer.svelte";
 
 <style lang="scss">
 
+main {
+  padding: 0.5rem 2rem 4rem;
+}
+
 #nav-page-split {
   width: 100%;
+  max-width: 100vw;
   display: flex;
   flex-direction: row;
   justify-content: start;

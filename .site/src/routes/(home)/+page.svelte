@@ -16,13 +16,13 @@ import NewlyReleased from "./ExploreCards.svelte";
   <div class="center">
     <FlavourStatus />
 
-    <QuickLinks />
-
     <section id="super">
       <p id="assort-welcome"> welcome to </p>
       <h1 id="assort"> ASSORT </h1>
       <p id="assort-capt"> An assortment of all my creations! </p>
     </section>
+
+    <QuickLinks />
 
     <hr>
 
