@@ -1,0 +1,61 @@
+name: 'GitHub Pages Deployment'
+
+on:
+  workflow_dispatch:
+  cron:
+    - '20 4 * * 2,6'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: './.site'
+        
+    steps:
+      - name: 'git / checkout'
+        uses: actions/checkout@v4
+
+      - name: 'Ruby / setup'
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: 'Node / install'
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+          cache-dependency-path: './.site/package-lock.json'
+
+      - name: 'npm / install'
+        run: npm install
+
+      - name: 'npm / build'
+        env:
+          BASE_PATH: '/${{ github.event.repository.name }}/site'
+        run: |
+          npm run build
+
+      - name: 'GitHub / upload artifacts'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.site/build/'
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: 'GitHub / deploy'
+        id: deployment
+        uses: actions/deploy-pages@v4
