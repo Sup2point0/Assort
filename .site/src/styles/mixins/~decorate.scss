@@ -1,0 +1,6 @@
+@use './src/styles/~variables' as *;
+
+
+@mixin underline($thickness) {
+  border-bottom: $thickness solid $col-line;
+}
