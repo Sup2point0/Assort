@@ -2,8 +2,9 @@
   "$schema": "../.stranger-quarkdown/squarkdown/resources/repo-config-schema.json",
   
   "repo": "Assort",
+
   "site": ".site",
-  "source": [
+  "sources": [
     ".squarkdown/content",
     "~poetry/"
   ],
@@ -13,7 +14,9 @@
   "file-name": "~content",
 
   "styles": "src/styles",
+  "page-styles": "src/styles/pages",
   "assets": ".assets",
+  "site-assets": ".assets/.site",
   "exclude": [
   ],
   "fonts": [
