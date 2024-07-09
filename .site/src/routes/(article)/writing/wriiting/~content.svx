@@ -1,14 +1,7 @@
+<svelte:head>
+  <title> Yet More Writing · Assort </title>
+</svelte:head>
 # Yet More Writing
-<!-- #SQUARK live!
-| dest = writing/wriiting
-| title = Yet More Writing
-| style = writing
-| duality = light
-| index = writing / meta
-| shard = #index
-| strip = #line-breaks
--->
-
 Writing clearly and concisely is really tough.
 
 It’s all too easy to fall into long, flowy sentences with multiple phrases, separated with commas, layers of meaning developing upon each other.
@@ -57,3 +50,8 @@ Hopefully that wasn’t too difficult to understand!
 
 
 <br>
+
+<style lang="scss">
+
+@use './src/styles/pages/writing' as *;
+</style>
