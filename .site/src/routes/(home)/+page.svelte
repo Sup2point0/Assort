@@ -91,7 +91,7 @@ section {
 }
 
 p#assort-welcome {
-  @include font-flavour;
+  @include font-hand;
   font-size: 200%;
   color: $col-text-trit;
 }
@@ -102,7 +102,7 @@ h1#assort {
   color: $blue-nova;
 }
 p#assort-capt {
-  @include font-flavour;
+  @include font-hand;
   font-size: 250%;
   color: $lilac-nova;
 }
