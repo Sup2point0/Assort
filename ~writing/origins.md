@@ -1,9 +1,10 @@
 # *On the Origins of Sup#2.0*
-<!-- #QUARK live!
-  EXPORT: origins
-  STYLE: auto
-  DUALITY: light
-  INDEX: writing
+<!-- #SQUARK dead!
+| dest = writing/origins
+| capt = A deep dive into the lore behind the username.
+| desc = #capt
+| index = writing / personal
+| shard = #index / long / jokes
 -->
 <!-- ↗ ↑ ↓ -->
 
@@ -13,11 +14,11 @@
 &ensp; *Assort* (origin). v2.0.0, 2024 ~ ~.  
 &ensp; ~writing/origins.md.  
 &ensp; © 2024 Sup#2.0 (<https://github.com/Sup2point0>) 
-<!-- #QUARK leave? -->
+<!-- #SQUARK leave? -->
 &ensp; ACI: `20.04.`  
 &ensp; CXUL: `SP-LR-AS-AQ`  
 &ensp; IQTS: `6x3sF7-e2kzW0.02d`  
-<!-- #QUARK leave. -->
+<!-- #SQUARK leave. -->
 
 </details>
 
@@ -85,7 +86,7 @@ Across the various sites and services of the internet, users are given the optio
 Some platforms (such as [YouTube<sup>↗</sup>](https://youtube.com) and [Discord<sup>↗</sup>](https://discord.com)) distinguish between an ‘identifying’ and ‘displayed’ username (note that these terms are unofficial). The key difference is that identifying usernames must be unique for each user, while displayed usernames can be identical to another user’s.[^unique-youtube][^unique-disc] However, from a syntactic perspective the only difference is in the restrictions placed upon their format – for the purposes of analysis their distinction can be ignored.
 
 [^unique-youtube]: YouTube Help. *Handles overview*. <https://support.google.com/youtube/answer/11585688>
-[^unique-disc]: Discord Help. *...*. <...>
+[^unique-disc]: Discord Help. *...*.
 
 
 <br>
@@ -257,7 +258,7 @@ If I recall correctly, I first heard of the word “sup” from my childhood fri
 
 And so, when it came to devising a username for myself, I settled on `Sup` (capitalisation unknown). This is, exactly, the origin of my username – a cool word I heard from my friends as an innocent child who felt mildly left out. I could not tell you if I planned on this staying with me forever, but that quiet kid who strays from mainstream, and does their own thing? He’s still here, and I hope he stays with me forever.
 
-[^slinqui]: Sup#2.0. *Assort*, Slinqui. <../slinqui.md>
+[^slinqui]: Sup#2.0. *Assort*, Slinqui. [Assort/slinqui.md](../slinqui.md)
 
 ### Encounter
 I was happy with “Sup” for a while. I cannot remember the feeling, but I know I would’ve loved the username. I can almost imagine the intense pride and sense of uniqueness I must’ve felt at the time.
@@ -285,7 +286,7 @@ Around the time of `Sup#2.0`’s conception I had briefly watched a YouTuber [*w
 
 This utterly blew the mind of my younger self, and, loving to create my own parodies of things, I imagined what my own intro with `Sup#2.0` could look like. I would have videos flying inwards, but instead of arranging into a cube, they would meld together to form the hash `#`. This did not play a part in the conception of `Sup#2.0` per se, but was certainly something that reinforced it in my mind.
 
-[^yt-intros]: ...
+[^yt-intros]: TBA...
 
 ### Conformity
 Being into .io games, especially diep.io, I would watch other people play on YouTube. There was no one I enjoyed more than [*iXPLODE*<sup>↗</sup>](https://youtube.com/@iXPLODE), who I remained a dedicated viewer of for years. He[^iX-gender] did end up, unfortunately, being corrupted by [*Fortnite*’s<sup>↗</sup>](https://www.fortnite.com) surge in popularity, and stopped making .io games content; however, his old videos can still be found on his channel.[<sup>↗</sup>](https://youtube.com/@iXPLODE/videos)

@@ -1,4 +1,10 @@
 # Rubic
+<!-- #SQUARK live!
+| dest = yugioh/archetypes/rubic
+| index = yugioh-archetypes
+| shard = #index / yugioh
+| clean = braces
+-->
 
 An archetype of DARK Cyberse Monsters, harnessing Synchro, Xyz, Link Summoning and revolving around moving cards on the field, inspired by [trigonometry](https://wikipedia.org/wiki/Trigonometry) and [Rubik’s cubes](https://wikipedia.org/wiki/Rubik%27s_Cube).
 

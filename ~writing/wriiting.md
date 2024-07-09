@@ -1,7 +1,7 @@
 # Yet More Writing
 <!-- #SQUARK live!
-| title = Yet More Writing
 | dest = writing/wriiting
+| title = Yet More Writing
 | style = writing
 | duality = light
 | index = writing / meta
