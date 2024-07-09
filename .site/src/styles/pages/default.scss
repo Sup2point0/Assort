@@ -46,6 +46,7 @@ p {
 
 
 b, strong {
+  @include font-body;
   font-weight: 120%;
 }
 
@@ -53,6 +54,10 @@ i, em {
   font-style: italic;
 }
 
+
+li {
+  @include font-body;
+}
 
 table {
   border-collapse: collapse;

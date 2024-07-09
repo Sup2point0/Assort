@@ -1,7 +1,5 @@
 <script>
 
-// import "#styles/essence.scss";
-
 import Nav from "#parts/core/Nav.svelte";
 import Footer from "#parts/core/Footer.svelte";
 
@@ -14,7 +12,7 @@ import Footer from "#parts/core/Footer.svelte";
       <Nav />
       <main>
         <slot>
-          <p class="error"> Uh, something has gone catastrophicall, catastropically wrong! </p>
+          <p class="error"> Uh, something has gone catastrophically, catastropically wrong! </p>
         </slot>
       </main>
     </div>
@@ -28,18 +26,16 @@ import Footer from "#parts/core/Footer.svelte";
 #nav-page-split {
   width: 100%;
   max-width: 100vw;
-  height: 100%;
   margin: 0;
   padding: 0;
   display: flex;
   flex-direction: row;
   justify-content: start;
-  align-items: start;
+  align-items: stretch;
 }
 
 main {
   width: 100%;
-  height: 100%;
   padding: 0.5rem 2rem 4rem;
   flex-grow: 1;
   flex-shrink: 1;
