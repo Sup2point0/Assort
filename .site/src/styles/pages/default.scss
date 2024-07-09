@@ -1,6 +1,7 @@
 @use './src/styles/~nova' as *;
 @use './src/styles/~variables' as *;
 @use './src/styles/mixins/~fonts' as *;
+@use './src/styles/mixins/~interact' as *;
 @use './src/styles/mixins/~decorate' as *;
 @use './src/styles/links' as *;
 
@@ -55,8 +56,13 @@ i, em {
 }
 
 
+ul {
+  padding-left: 1em;
+}
+
 li {
   @include font-body;
+  line-height: 150%;
 }
 
 table {
@@ -91,6 +97,22 @@ blockquote {
   padding-left: 1em;
   color: $col-text-deut;
   border-left: 2px solid $col-line;
+}
+
+details[open] {
+
+}
+
+summary {
+  max-width: 10em;
+  margin-top: 1rem;
+  padding: 0.25em 0.5em;
+  border-radius: 0.5em;
+  @include interactive;
+
+  &::marker {
+    font-size: 75%;
+  }
 }
 
 

@@ -127,10 +127,9 @@ section {
 }
 
 h2 {
-  width: 100%;
+  width: 69%;
   margin: 0.75rem 1rem;
   padding: 0 0 0.4em;
-  display: block;
 
   @include font-ui;
   font-size: 120%;

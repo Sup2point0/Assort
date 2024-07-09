@@ -18,14 +18,17 @@
   @include trans-default;
 
   &:hover {
-    background-color: $col-back-deut;
+    background-color: $col-back-hover;
+    cursor: pointer;
   }
-
+  
   &:focus {
-    background-color: $col-back-deut;
+    background-color: $col-back-hover;
+    cursor: pointer;
   }
 
   &:active {
-    background-color: $col-back-deut;
+    background-color: $col-back-active;
+    cursor: pointer;
   }
 }
