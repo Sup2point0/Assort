@@ -1,35 +1,47 @@
+@use './src/styles/~nova' as *;
 @use './src/styles/~variables' as *;
 @use './src/styles/mixins/~fonts' as *;
+@use './src/styles/mixins/~decorate' as *;
 @use './src/styles/links' as *;
 
 
-h2 {
+h2,h3,h4,h5 {
   @include font-head;
+}
+
+h2 {
+  margin-top: 1em;
+  padding: 0 0 0.25em;
+  font-weight: 400;
   font-size: 200%;
-  color: $col-text-prot;
+  color: $blue-ocean;
+  @include underline(1.5px);
+
+  // &:not(:has(p)) {
+  //   margin-bottom: 1em;
+  // }
+
+  & + p {
+    padding: 0 1em;
+    font-size: 120%;
+  }
 }
 
 h3 {
-  @include font-head;
+  margin: 1.5em 0 1em;
+  font-weight: 350;
   font-size: 150%;
-  color: $col-text-prot;
+  color: $blue-deep;
 }
 
 h4 {
-  @include font-head;
-  font-size: 125%;
-  color: $col-text-prot;
 }
 
 p {
+  margin: 1em 0;
   @include font-body;
   font-weight: 400;
-}
-
-small {
-  @include font-body;
-  font-weight: 300;
-  color: $col-text-deut;
+  line-height: 150%;
 }
 
 
@@ -42,10 +54,38 @@ i, em {
 }
 
 
-h1 + p {
-  @include font-ui;
-  font-size: 125%;
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+td, th {
+  margin: 0;
+  padding: 0.25em 0.5em;
+  border: 1.25px solid $col-line;
+}
+
+th {
+  @include font-head;
+  color: $col-text-prot;
+}
+
+td {
+  @include font-body;
+  font-weight: 400;
+}
+
+th {
+  margin: 0;
+  @include font-body;
+  font-weight: 500;
+}
+
+blockquote {
+  margin: 0;
+  padding-left: 1em;
   color: $col-text-deut;
+  border-left: 2px solid $col-line;
 }
 
 
