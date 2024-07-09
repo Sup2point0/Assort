@@ -9,7 +9,7 @@ import GitHubIcon from "#parts/misc/GitHubIcon.svelte";
 
 <footer>
   <div class="left">
-    <section>
+    <section id="footer-assort">
       <img id="assort" alt="Assort" src="{base}/assort-block.png">
       <p> An assortment of all my creations! </p>
     </section>
@@ -26,12 +26,14 @@ import GitHubIcon from "#parts/misc/GitHubIcon.svelte";
   </div>
 
   <div class="right">
-    <section id="sup">
+    <section id="footer-sup">
       <div>
         <p> Made with love by </p>
         <p class="sup"> <a target="_blank" href="https://github.com/Sup2point0">Sup#2.0</a> </p>
       </div>
-      <img alt="Purple Portal" src="{base}/.site/purple-portal.png">
+      <a target="_blank" href="https://github.com/Sup2point0">
+        <img alt="Purple Portal" src="{base}/.site/purple-portal.png">
+      </a>
     </section>
 
     <section>
@@ -80,15 +82,29 @@ a:not(:hover) {
   &#squark { color: $pink-spirit; }
 }
 
-#sup {
+
+#footer-assort {
+  p {
+    @include font-hand;
+    font-size: 150%;
+  }
+}
+
+#footer-sup {
   display: flex;
   flex-direction: row;
   justify-content: end;
   align-items: center;
 
+  p {
+    @include font-hand;
+    font-size: 125%;
+  }
+
   .sup {
-    @include font-flavour;
-    font-size: 150%;
+    margin-top: -0.2em;
+    @include font-hand;
+    font-size: 200%;
   }
 
   img {
