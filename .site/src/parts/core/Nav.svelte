@@ -102,7 +102,6 @@ nav {
   width: max(12rem, 12vw);
   min-width: max(12rem, 12vw);
   max-width: max(12rem, 12vw);
-  height: 100%;
   min-height: 100vh;
   margin: 0;
   padding: 0.5rem 0.25rem;
@@ -128,10 +127,10 @@ section {
 }
 
 h2 {
-  width: 100;
+  width: 100%;
   margin: 0.75rem 1rem;
   padding: 0 0 0.4em;
-  display: block;;
+  display: block;
 
   @include font-ui;
   font-size: 120%;
