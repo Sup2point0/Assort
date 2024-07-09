@@ -21,7 +21,7 @@ function redirectRandomPage() {
 {#if $navOpen}
   <nav>
     <section id="top">
-      <img src="{base}/assort-block.png">
+      <img alt="Assort" src="{base}/assort-block.png">
       <NavButton action="close" />
     </section>
 
@@ -100,10 +100,13 @@ function redirectRandomPage() {
 
 nav {
   width: max(12rem, 12vw);
+  min-width: max(12rem, 12vw);
+  max-width: max(12rem, 12vw);
   height: 100%;
   min-height: 100vh;
+  margin: 0;
   padding: 0.5rem 0.25rem;
-  display: block;
+
   background-color: $col-back-deut;
   resize: horizontal;
 }
