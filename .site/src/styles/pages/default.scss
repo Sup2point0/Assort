@@ -1,0 +1,54 @@
+@use './src/styles/~variables' as *;
+@use './src/styles/mixins/~fonts' as *;
+@use './src/styles/links' as *;
+
+
+h2 {
+  @include font-head;
+  font-size: 200%;
+  color: $col-text-prot;
+}
+
+h3 {
+  @include font-head;
+  font-size: 150%;
+  color: $col-text-prot;
+}
+
+h4 {
+  @include font-head;
+  font-size: 125%;
+  color: $col-text-prot;
+}
+
+p {
+  @include font-body;
+  font-weight: 400;
+}
+
+small {
+  @include font-body;
+  font-weight: 300;
+  color: $col-text-deut;
+}
+
+
+b, strong {
+  font-weight: 120%;
+}
+
+i, em {
+  // FIXME font-slant: 125%;
+}
+
+
+h1 + p {
+  @include font-ui;
+  font-size: 125%;
+  color: $col-text-deut;
+}
+
+
+.highlight {
+  color: $col-text-prot;
+}

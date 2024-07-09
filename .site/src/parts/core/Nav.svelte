@@ -100,10 +100,12 @@ function redirectRandomPage() {
 
 nav {
   width: max(12rem, 12vw);
+  height: 100%;
   min-height: 100vh;
   padding: 0.5rem 0.25rem;
-  display: inline-block;
+  display: block;
   background-color: $col-back-deut;
+  resize: horizontal;
 }
 
 section {
