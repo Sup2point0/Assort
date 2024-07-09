@@ -1,5 +1,6 @@
 # Privacy
 <!-- #SQUARK live!
+| dest = privacy
 | index = info
 -->
 
