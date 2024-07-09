@@ -3,6 +3,8 @@ import { sveltePreprocess } from "svelte-preprocess";
 
 import { mdsvex } from "mdsvex";
 
+import scssConfig from "./scss-config.js";
+
 
 const config = {
   kit: {
@@ -33,15 +35,7 @@ const config = {
       extensions: [".svelte", ".md", ".svx"],
     }),
     sveltePreprocess({
-      scss: {
-        prependData: `
-          @use './src/styles/~nova' as *;
-          @use './src/styles/~variables' as *;
-          @use './src/styles/mixins/~fonts' as *;
-          @use './src/styles/mixins/~anim' as *;
-          @use './src/styles/mixins/~interact' as *;
-        `,
-      }
+      scss: scssConfig,
     }),
   ],
   

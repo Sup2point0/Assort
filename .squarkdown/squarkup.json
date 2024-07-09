@@ -6,7 +6,9 @@
   "site": ".site",
   "sources": [
     ".squarkdown/content",
-    "~poetry/"
+    "Yu-Gi-Oh!",
+    "~poetry",
+    "~writing"
   ],
   "dest": ".site/src/routes/(article)",
 
