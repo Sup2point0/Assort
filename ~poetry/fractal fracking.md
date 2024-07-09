@@ -1,10 +1,10 @@
 # fractal fracking
-<!-- #QUARK live!
-  EXPORT: poetry/fracking
-  STYLE: poetry 
-  INDEX: poetry
-  SHARD: maths
-  DATE: 28 05 2024
+<!-- #SQUARK live!
+| dest = poetry/fracking
+| style = poetry 
+| index = poetry
+| shard = #index / maths
+| date = 2024 May 28
 -->
 
 If I were to describe maths, it would be as a fractal.  

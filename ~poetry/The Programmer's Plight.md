@@ -2,9 +2,9 @@
 <!-- #SQUARK live!
   | title = The Programmer’s Plight
   | dest = poetry/the-programmers-plight
-  | date = 2024 July 27
   | index = poetry / dev
   | shard = #index / funny
+  | date = 2024 July 27
 -->  
 
 The best thoughts come after 2 am, they said.  
