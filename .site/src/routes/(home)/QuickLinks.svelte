@@ -27,9 +27,7 @@ a {
   text-decoration: none;
   @include trans-default;
 
-  &:hover {
-    background-color: $col-back-deut;
-  }
+  @include interactive;
 }
 
 </style>

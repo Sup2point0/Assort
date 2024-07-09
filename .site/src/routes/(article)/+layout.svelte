@@ -25,17 +25,24 @@ import Footer from "#parts/core/Footer.svelte";
 
 <style lang="scss">
 
-main {
-  padding: 0.5rem 2rem 4rem;
-}
-
 #nav-page-split {
   width: 100%;
   max-width: 100vw;
+  height: 100%;
+  margin: 0;
+  padding: 0;
   display: flex;
   flex-direction: row;
   justify-content: start;
   align-items: start;
+}
+
+main {
+  width: 100%;
+  height: 100%;
+  padding: 0.5rem 2rem 4rem;
+  flex-grow: 1;
+  flex-shrink: 1;
 }
 
 </style>

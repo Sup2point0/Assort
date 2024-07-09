@@ -50,12 +50,15 @@ a, button {
   border-radius: 0.5rem;
   @include trans-default;
 
-  &:hover, &:focus {
-    color: $pink-elec;
+  &:hover {
     background-color: light-dark(
-      rgba(black, 5%),
+      rgba(black, 8%),
       rgba(white, 10%),
     );
+
+    &, &:focus {
+      color: $pink-elec;
+    }
   }
 
   &:focus:not(:active) {
@@ -65,7 +68,7 @@ a, button {
   &:active {
     color: light-dark($purp-nova, $teal-elec);
     background-color: light-dark(
-      rgba(black, 10%),
+      rgba(black, 12%),
       rgba(white, 20%),
     );
   }
