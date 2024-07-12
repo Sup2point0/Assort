@@ -1,12 +1,13 @@
 <script lang="ts">
 
-import navOpen from "#modules/stores/nav";
+import nav from "#modules/stores/nav";
 
 export let action: "open" | "close" | "top";
 
 
 const callbacks = {
-  open: () => navOpen.set(val => true),
+  open: () => nav.update(data => {data.open = true; return data}),
+  close: () => nav.update(data => {data.open = false; return data}),
 }
 
 const icons = {

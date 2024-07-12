@@ -5,7 +5,7 @@ import { base } from "$app/paths";
 import NavLink from "#parts/core/NavLink.svelte";
 import NavButton from "#parts/ext/NavButton.svelte";
 
-import navOpen from "#modules/stores/nav";
+import nav from "#modules/stores/nav";
 
 
 function redirectRandomPage() {
@@ -18,7 +18,7 @@ function redirectRandomPage() {
 </script>
 
 
-{#if $navOpen}
+{#if $nav.open}
   <nav>
     <section id="top">
       <img alt="Assort" src="{base}/assort-block.png">
