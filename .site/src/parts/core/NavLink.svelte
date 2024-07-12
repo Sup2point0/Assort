@@ -7,33 +7,38 @@ An individual link in the navigation pane.
 import { base } from "$app/paths";
 
 export let text: string;
-export let link: string | null = null;
-  export let intern: string | null = null;
-  export let extern: string | null = null;
-export let button = null;
+export let link: string | undefined = undefined;
+  export let intern: string | undefined = undefined;
+  export let extern: string | undefined = undefined;
+export let button = undefined;
+export let hover: string | undefined = undefined;
 
 </script>
 
 
 {#if intern}
   <a href="{base}/{intern}"> {text} </a>
-
 {:else if link}
   <a href={link}> {text} </a>
-
 {:else if extern}
   <a href={link} target="_blank"> {text} </a>
-
 {:else if button}
   <button on:click={button}> {text} </button>
-
 {:else}
   <a href=""> {text} </a>
+{/if}
 
+{#if hover}
+  <div class="hover">
+    <p> {hover} </p>
+  </div>
 {/if}
 
 
 <style lang="scss">
+
+@use 'sass:color';
+
 
 a, button {
   width: 100%;
@@ -84,6 +89,16 @@ a {
 
 button {
   border: none;
+}
+
+.hover {
+  display: none;
+  background-color: color.invert($col-back-deut);
+
+  p {
+    @include font-ui;
+    color: white;
+  }
 }
 
 </style>
