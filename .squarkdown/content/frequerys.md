@@ -4,7 +4,6 @@
 | title = Frequerys
 | desc = Frequent queries related to Assort
 | duality = light
-| style = #AUTO
 | index = info
 | shard = #INDEX
 -->
@@ -46,10 +45,14 @@ Ayo, archaic?
 Idk, people always manage to find new ones.
 
 
-<!-- #SQUARK style?
+<!-- #SQUARK only?
+
+<style lang="scss">
 
 h4 {
   color: $col-text-prot;
 }
 
-     #SQUARK style? -->
+</style>
+
+     #SQUARK only? -->

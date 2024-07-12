@@ -39,16 +39,16 @@ Ayo, archaic?
 Idk, people always manage to find new ones.
 
 
-<!-- #SQUARK style?
+
+<style lang="scss">
+
+@use './src/styles/pages/article' as *;
+
 
 h4 {
   color: $col-text-prot;
 }
 
-     #SQUARK style? -->
-
-<style lang="scss">
-
-@use './src/styles/pages/article' as *;
-@use './src/styles/pages/#auto' as *;
 </style>
+
+     #SQUARK only? -->

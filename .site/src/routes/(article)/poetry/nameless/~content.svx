@@ -1,13 +1,7 @@
+<svelte:head>
+  <title>  · Assort </title>
+</svelte:head>
 # Nameless
-<!-- #SQUARK live!
-| dest = poetry/nameless
-| index = poetry
-| style = poetry
-| duality = dark
-| shard = #INDXE / sad
-| date = 2023 May
--->
-
 Words are knives.  
 They mercilessly slice apart your skin  
 And deep into the flesh within  
@@ -33,6 +27,8 @@ Words are not a game.
 <br>
 
 
-<!-- #SQUARK leave? -->
-(May 2023)
-<!-- #SQUARK leave. -->
+<style lang="scss">
+
+@use './src/styles/pages/article' as *;
+@use './src/styles/pages/poetry' as *;
+</style>

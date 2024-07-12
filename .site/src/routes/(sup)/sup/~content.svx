@@ -33,7 +33,7 @@ o7
 <!-- GENERIC GOVERNANCE -->
 
 
-<script lang="scss">
+<!-- <script lang="scss">
 
 p {
   @include font-hand;
@@ -41,4 +41,4 @@ p {
   color: white;
 }
 
-</script>
+</script> -->
