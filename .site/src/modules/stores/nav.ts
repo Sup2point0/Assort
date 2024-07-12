@@ -12,5 +12,5 @@ export class NavData {
 }
 
 
-const nav = persisted("assort-nav", new NavData());
+const nav = persisted<NavData>("assort-nav", new NavData());
 export default nav;
