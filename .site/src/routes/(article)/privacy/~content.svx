@@ -14,5 +14,5 @@ Anyhow, enjoy *Assort*!
 
 <style lang="scss">
 
-@use './src/styles/pages/default' as *;
+@use './src/styles/pages/article' as *;
 </style>

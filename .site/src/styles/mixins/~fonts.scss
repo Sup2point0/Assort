@@ -13,6 +13,10 @@
   font-weight: 400;
 }
 
+@mixin font-code {
+  font-family: 'Fira Mono', 'Roboto Mono', 'SF Mono', 'Consolas', monospace;
+}
+
 @mixin font-hand {
-  font-family: 'Nanum Pen Script', 'Segoe UI', system-ui, sans-serif;
+  font-family: 'Shantell Sans', cursive;
 }

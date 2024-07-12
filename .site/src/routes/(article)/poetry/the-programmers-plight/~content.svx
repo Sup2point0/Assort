@@ -103,9 +103,16 @@ From #f00 pixels it unashamedly taunts;
 The squiggly underline of a new bug detected:  
 “Syntax error on line 69: semicolon expected.”  
 
+<br>
+
+
 
 
 <style lang="scss">
+
+@use './src/styles/pages/article' as *;
+@use './src/styles/pages/poetry' as *;
+
 
 p {
   font-family: 'Fira Sans', #SQUARK font-body;
@@ -114,7 +121,3 @@ p {
 </style>
 
      
-<style lang="scss">
-
-@use './src/styles/pages/default' as *;
-</style>

@@ -10,5 +10,6 @@ Now, not all of the content in the repo is deployed to the site (either due to t
 
 <style lang="scss">
 
-@use './src/styles/pages/default' as *;
+@use './src/styles/pages/article' as *;
+@use './src/styles/pages/#auto' as *;
 </style>

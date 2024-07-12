@@ -40,5 +40,6 @@ In the uncountable infinity of the mathematical domain.
 
 <style lang="scss">
 
+@use './src/styles/pages/article' as *;
 @use './src/styles/pages/poetry' as *;
 </style>
