@@ -93,7 +93,10 @@ button {
 
 .hover {
   display: none;
-  background-color: color.invert($col-back-deut);
+  background-color: light-dark(
+    rgba(#000, 20%),
+    rgba(#fff, 50%)
+  );
 
   p {
     @include font-ui;

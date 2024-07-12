@@ -53,5 +53,6 @@ Hopefully that wasn’t too difficult to understand!
 
 <style lang="scss">
 
+@use './src/styles/pages/article' as *;
 @use './src/styles/pages/writing' as *;
 </style>

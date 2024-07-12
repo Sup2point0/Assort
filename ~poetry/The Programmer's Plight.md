@@ -1,10 +1,11 @@
 # The Programmer’s Plight
 <!-- #SQUARK live!
-  | title = The Programmer’s Plight
-  | dest = poetry/the-programmers-plight
-  | index = poetry / dev
-  | shard = #index / funny
-  | date = 2024 July 27
+| title = The Programmer’s Plight
+| dest = poetry/the-programmers-plight
+| style = poetry
+| index = poetry / dev
+| shard = #index / funny
+| date = 2024 July 27
 -->  
 
 The best thoughts come after 2 am, they said.  
@@ -107,9 +108,10 @@ From #f00 pixels it unashamedly taunts;
 The squiggly underline of a new bug detected:  
 “Syntax error on line 69: semicolon expected.”  
 
-<!-- #SQUARK leave? -->
 <br>
 
+
+<!-- #SQUARK leave? -->
 (25–27 June 2024)
 <!-- #SQUARK leave. -->
 
