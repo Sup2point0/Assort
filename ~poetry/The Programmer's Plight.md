@@ -4,7 +4,7 @@
 | dest = poetry/the-programmers-plight
 | style = poetry
 | index = poetry / dev
-| shard = #index / funny
+| shard = #INDEX / funny
 | date = 2024 July 27
 -->  
 

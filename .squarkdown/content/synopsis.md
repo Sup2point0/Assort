@@ -4,7 +4,6 @@
 | title = Synopsis
 | desc = An assortment of all my creations!
 | duality = light
-| style = #AUTO
 | index = info
 | shard = #INDEX
 -->

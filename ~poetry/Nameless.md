@@ -1,5 +1,12 @@
 # Nameless
-<!-- #QUARK live! -->
+<!-- #SQUARK live!
+| dest = poetry/nameless
+| index = poetry
+| style = poetry
+| duality = dark
+| shard = #INDXE / sad
+| date = 2023 May
+-->
 
 Words are knives.  
 They mercilessly slice apart your skin  
@@ -26,12 +33,6 @@ Words are not a game.
 <br>
 
 
+<!-- #SQUARK leave? -->
 (May 2023)
-
-<!-- #QUARK
-EXPORT: poetry/nameless
-STYLE: poetry
-INDEX: poetry
-YEAR: 23
-DEC: 5
--->
+<!-- #SQUARK leave. -->
