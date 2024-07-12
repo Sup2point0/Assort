@@ -2,8 +2,8 @@ name: 'GitHub Pages Deployment'
 
 on:
   workflow_dispatch:
-  cron:
-    - '20 4 * * 2,6'
+  schedule:
+    - cron: '20 4 * * 2,6'
 
 jobs:
   build:
