@@ -2,7 +2,7 @@
 
 import "#styles/essence.scss";
 
-import duality from "#stores/duality";
+import { duality } from "#modules/stores";
 
 </script>
 
