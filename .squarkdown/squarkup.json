@@ -1,5 +1,5 @@
 {
-  "$schema": "../.stranger-quarkdown/squarkdown/resources/repo-config-schema.json",
+  "$schema": "../.stranger-quarkdown/squarkdown/resources/squarkup-schema.json",
   
   "repo": "Assort",
 
@@ -10,15 +10,13 @@
     "~poetry",
     "~writing"
   ],
+  "exclude": [
+  ],
   "dest": ".site/src/routes/(article)",
-
   "file-name": "~content",
   "base-page": "src/parts/base/~page.svelte",
   "base-index": "src/parts/base/~index.svelte",
-  "base-collection": "src/parts/base/~collection.svelte",
 
-  "exclude": [
-  ],
   "styles": "src/styles",
   "page-styles": "src/styles/pages",
   "assets": ".assets",
