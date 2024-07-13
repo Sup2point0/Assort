@@ -12,15 +12,17 @@
   ],
   "dest": ".site/src/routes/(article)",
 
-  "file-source": "src/parts/page/~page.svelte",
   "file-name": "~content",
+  "base-page": "src/parts/base/~page.svelte",
+  "base-index": "src/parts/base/~index.svelte",
+  "base-collection": "src/parts/base/~collection.svelte",
 
+  "exclude": [
+  ],
   "styles": "src/styles",
   "page-styles": "src/styles/pages",
   "assets": ".assets",
   "site-assets": ".assets/.site",
-  "exclude": [
-  ],
   "fonts": [
     "Outfit:wght@100..900",
     "Nanum+Pen+Script",
