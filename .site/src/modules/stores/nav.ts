@@ -1,15 +1,6 @@
 import { persisted } from "svelte-persisted-store";
 
-
-export class NavData {
-  open: boolean = true;
-  sections: object = {
-    Categories: true,
-    Creations: true,
-    Franchises: true,
-    Meta: true,
-  };
-}
+import { NavData } from "../types/nav-data";
 
 
 const nav = persisted<NavData>("assort-nav", new NavData());
