@@ -36,7 +36,7 @@ jobs:
         env:
           BASE_PATH: '/${{ github.event.repository.name }}/site'
         run: |
-          npm run build
+          npm run buildx
 
       - name: 'GitHub / upload artifacts'
         uses: actions/upload-pages-artifact@v3
