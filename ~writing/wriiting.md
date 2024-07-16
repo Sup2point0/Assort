@@ -5,8 +5,8 @@
 | style = writing
 | duality = light
 | index = writing / meta
-| shard = #index
-| strip = #line-breaks
+| shard = #INDEX
+| strip = line-breaks
 -->
 
 Writing clearly and concisely is really tough.
