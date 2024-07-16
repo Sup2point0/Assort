@@ -10,5 +10,6 @@ export default interface PageData {
   desc: string;
   index: string[];
   shard: string[];
+  date: Date;
   dateDisplay: string;
 }
