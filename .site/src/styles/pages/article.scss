@@ -70,6 +70,10 @@ li {
   @include font-body;
   line-height: 150%;
   color: $col-text;
+
+  &:has(ul) {
+    margin: 0.5em 0;
+  }
 }
 
 table {
@@ -106,7 +110,7 @@ th {
 blockquote {
   margin: 0;
   padding-left: 1em;
-  border-left: 2px solid $col-line;
+  @include leftline(2px);
 
   p {
     color: $col-text-deut;
@@ -114,13 +118,26 @@ blockquote {
 }
 
 
-details > :not(summary) {
-  opacity: 0;
-  transition: opacity 0.5s ease-out;
+img {
+  max-width: 50vw;
 }
-details[open] > :not(summary) {
-  opacity: 1;
-  transition: opacity 0.5s ease-out;
+
+
+details {
+  padding-left: 1rem;
+  @include leftline(1px);
+
+  > :not(summary) {
+    opacity: 0;
+    transition: opacity 0.5s ease-out;
+  }
+}
+
+details[open] {
+  > :not(summary) {
+    opacity: 1;
+    transition: opacity 0.5s ease-out;
+  }
 }
 
 summary {
