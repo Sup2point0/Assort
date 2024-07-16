@@ -1,8 +1,10 @@
 # Rubic
 <!-- #SQUARK live!
 | dest = yugioh/archetypes/rubic
+| capt = Yu-Gi-Oh! Archetype
+| style = yugioh
 | index = yugioh-archetypes
-| shard = #index / yugioh
+| shard = #INDEX / yugioh
 | clean = braces
 -->
 

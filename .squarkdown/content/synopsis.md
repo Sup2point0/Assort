@@ -1,6 +1,7 @@
 # Synopsis
 <!-- #SQUARK live!
 | dest = synopsis
+| capt = What is Assort?
 | title = Synopsis
 | desc = An assortment of all my creations!
 | duality = light

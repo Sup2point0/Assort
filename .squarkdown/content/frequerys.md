@@ -2,6 +2,7 @@
 <!-- #SQUARK live!
 | dest = frequerys
 | title = Frequerys
+| capt = Frequent Queries
 | desc = Frequent queries related to Assort
 | duality = light
 | index = info
@@ -55,4 +56,4 @@ h4 {
 
 </style>
 
-     #SQUARK only? -->
+     #SQUARK only. -->
