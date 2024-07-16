@@ -18,16 +18,17 @@ import Tag from "#parts/ext/Tag.svelte";
     <p id="date" class="caption"> {$page.data.dateDisplay} </p>
   {/if}
 
-  {#each $page.data.shard ?? [] as shard}
-    <Tag intern="search?shard={shard}">
-      {shard}
-    </Tag>
-  {/each}
+  <div class="shards">
+    {#each $page.data.shard ?? [] as shard}
+      <Tag intern="search?shard={shard}">
+        {shard}
+      </Tag>
+    {/each}
+  </div>
 </header>
 
 
 <style lang="scss">
-
 
 header {
   width: 100%;
@@ -36,9 +37,22 @@ header {
 }
 
 h1 {
+  margin: 1rem 0;
   @include font-head;
-  font-size: 250%;
+  font-size: 300%;
   color: $col-text;
+}
+
+p#capt {
+  margin: 0;
+  @include font-head;
+  font-weight: 350;
+  font-size: 150%;
+  color: $col-text-deut;
+}
+
+.shards {
+  margin: 1rem 0 0;
 }
 
 </style>

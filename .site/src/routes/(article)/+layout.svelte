@@ -1,6 +1,7 @@
 <script>
 
 import Nav from "#parts/core/Nav.svelte";
+import Header from "#src/parts/page/Header.svelte";
 import Footer from "#parts/core/Footer.svelte";
 
 </script>
@@ -11,6 +12,7 @@ import Footer from "#parts/core/Footer.svelte";
     <div id="nav-page-split">
       <Nav />
       <main>
+        <Header />
         <slot>
           <p class="error"> Uh, something has gone catastrophically, catastropically wrong! </p>
         </slot>
@@ -22,6 +24,10 @@ import Footer from "#parts/core/Footer.svelte";
 
 
 <style lang="scss">
+
+#page {
+  // overflow: scroll;
+}
 
 #nav-page-split {
   width: 100%;
