@@ -4,3 +4,7 @@
 @mixin underline($thickness) {
   border-bottom: $thickness solid $col-line;
 }
+
+@mixin leftline($thickness) {
+  border-left: $thickness solid $col-line;
+}
