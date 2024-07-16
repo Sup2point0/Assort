@@ -2,8 +2,8 @@
 
 import { base } from "$app/paths";
 
-export let intern: string | undefined;
-export let button: CallableFunction | undefined;
+export let intern: string | undefined = undefined;
+export let button: CallableFunction | undefined = undefined;
 export let col: string = "col-accent";
 
 </script>

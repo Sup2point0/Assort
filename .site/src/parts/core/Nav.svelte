@@ -114,7 +114,8 @@ nav {
   padding: 0.5rem 0.25rem;
 
   background-color: $col-back-deut;
-  resize: horizontal;
+  // overflow: hidden;
+  // resize: horizontal;
 }
 
 section {
