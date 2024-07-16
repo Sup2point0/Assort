@@ -2,7 +2,7 @@
 
 <script>
 
-import site from "#src/site-config";
+import site from "#src/site";
 
 import Header from "#parts/page/Header.svelte";
 import Search from "#parts/ext/Search.svelte";

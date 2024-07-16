@@ -1,6 +1,6 @@
 <script>
 
-import { flavourStatuses } from "#src/site-config";
+import { flavourStatuses } from "#src/site";
 
 
 let date = new Date();
