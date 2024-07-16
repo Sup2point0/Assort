@@ -2,7 +2,7 @@
 
 import ContentCard from "#parts/ext/ContentCard.svelte";
 
-import siteData from "#src/site-config";
+import siteData from "#src/site";
 
 import { pick } from "#modules/utils";
 

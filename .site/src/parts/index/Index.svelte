@@ -2,7 +2,7 @@
 
 import Search from "#parts/ext/Search.svelte";
 
-import siteData from "#src/site-config";
+import siteData from "#src/site";
 
 
 let options = new SearchOptions;

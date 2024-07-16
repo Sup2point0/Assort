@@ -1,6 +1,6 @@
 import { redirect } from "@sveltejs/kit";
 
-import siteConfig from "#src/site-config";
+import siteConfig from "#src/site";
 
 
 export function load() {

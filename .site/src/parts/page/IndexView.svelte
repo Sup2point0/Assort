@@ -2,7 +2,7 @@
 
 import { base } from "$app/paths";
 
-import siteData from "#src/site-config";
+import siteData from "#src/site";
 
 export let index: string[];
 
