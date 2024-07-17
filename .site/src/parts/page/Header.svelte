@@ -33,7 +33,7 @@ import Tag from "#parts/ext/Tag.svelte";
 header {
   width: 100%;
   padding: 0 0 0.5rem;
-  @include underline(1.5px);
+  @include line(1.5px);
 }
 
 h1 {
