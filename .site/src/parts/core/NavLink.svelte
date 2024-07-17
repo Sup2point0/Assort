@@ -56,6 +56,7 @@ a, button {
   @include trans-default;
 
   &:hover {
+    cursor: pointer;
     background-color: light-dark(
       rgba(black, 8%),
       rgba(white, 10%),
