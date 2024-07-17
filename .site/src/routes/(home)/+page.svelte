@@ -12,6 +12,10 @@ import NewlyReleased from "./ExploreCards.svelte";
 </script>
 
 
+<svelte:head>
+  <title> Assort </title>
+</svelte:head>
+
 <main>
   <div class="center">
     <FlavourStatus />
