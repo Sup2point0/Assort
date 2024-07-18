@@ -4,9 +4,9 @@
 
 import site from "#src/site";
 
-import Header from "#parts/page/Header.svelte";
+import Header from "#src/parts/page/header.page.svelte";
 import Search from "#parts/ext/Search.svelte";
-import LinkCard from "#parts/ext/LinkCard.svelte";
+import LinkCard from "#src/parts/ext/card.link.svelte";
 
 import { search } from "#modules/stores";
 
