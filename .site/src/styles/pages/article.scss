@@ -17,7 +17,7 @@ h2 {
   font-weight: 400;
   font-size: 200%;
   color: $blue-ocean;
-  @include underline(1.5px);
+  @include line(1.5px);
 
   // &:not(:has(p)) {
   //   margin-bottom: 1em;
@@ -110,7 +110,7 @@ th {
 blockquote {
   margin: 0;
   padding-left: 1em;
-  @include left-line(2px);
+  @include line("left", 2px);
 
   p {
     color: $col-text-deut;
@@ -125,7 +125,7 @@ img {
 
 details {
   padding-left: 1rem;
-  @include left-line(1px);
+  @include line("left", 1px);
 
   > :not(summary) {
     opacity: 0;
