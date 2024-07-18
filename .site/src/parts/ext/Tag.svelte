@@ -4,7 +4,7 @@ import { base } from "$app/paths";
 
 export let intern: string | undefined = undefined;
 export let button: CallableFunction | undefined = undefined;
-export let col: string = "col-accent";
+export let col: string;
 
 </script>
 
@@ -36,7 +36,10 @@ export let col: string = "col-accent";
 .tag {
   margin: 0;
   padding: 0.1rem 0.4rem;
-  background-color: rgba(var(--col, $col-accent), 20%);
+
+  @include font-ui;
+  text-decoration: none;
+  background-color: rgba(var(--col), 20%);
 
   @include interactive(
     var(--col, $col-accent),

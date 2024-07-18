@@ -5,6 +5,10 @@
   border-bottom: $thickness solid $col-line;
 }
 
-@mixin leftline($thickness) {
+@mixin left-line($thickness) {
   border-left: $thickness solid $col-line;
+}
+
+@mixin right-line($thickness) {
+  border-right: $thickness solid $col-line;
 }

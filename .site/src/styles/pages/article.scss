@@ -110,7 +110,7 @@ th {
 blockquote {
   margin: 0;
   padding-left: 1em;
-  @include leftline(2px);
+  @include left-line(2px);
 
   p {
     color: $col-text-deut;
@@ -125,7 +125,7 @@ img {
 
 details {
   padding-left: 1rem;
-  @include leftline(1px);
+  @include left-line(1px);
 
   > :not(summary) {
     opacity: 0;

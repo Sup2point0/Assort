@@ -20,7 +20,10 @@ import Tag from "#parts/ext/Tag.svelte";
 
   <div class="shards">
     {#each $page.data.shard ?? [] as shard}
-      <Tag intern="search?shard={shard}">
+      <Tag
+        intern="search?shard={shard}"
+        col="#ff0090"
+      >
         {shard}
       </Tag>
     {/each}
