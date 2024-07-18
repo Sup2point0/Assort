@@ -1,8 +1,8 @@
 <script>
 
-import Nav from "#parts/core/Nav.svelte";
-import Header from "#src/parts/page/Header.svelte";
-import Footer from "#parts/core/Footer.svelte";
+import Nav from "#src/parts/core/nav.svelte";
+import Header from "#src/parts/page/header.page.svelte";
+import Footer from "#src/parts/core/footer.svelte";
 
 </script>
 

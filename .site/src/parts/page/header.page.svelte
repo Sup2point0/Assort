@@ -2,7 +2,7 @@
 
 import { page } from "$app/stores";
 
-import Tag from "#parts/ext/Tag.svelte";
+import Tag from "#src/parts/ext/tag.svelte";
 
 </script>
 

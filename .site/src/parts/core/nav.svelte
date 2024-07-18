@@ -2,8 +2,8 @@
 
 import { base } from "$app/paths";
 
-import NavLink from "#parts/core/NavLink.svelte";
-import NavButton from "#parts/ext/NavButton.svelte";
+import NavLink from "#src/parts/core/nav.link.svelte";
+import Click from "#src/parts/ext/click.svelte";
 
 import nav from "#modules/stores/nav";
 
@@ -22,7 +22,7 @@ function redirectRandomPage() {
   <nav>
     <section id="top">
       <img alt="Assort" src="{base}/assort-block.png">
-      <NavButton action="close" />
+      <Click action="close" />
     </section>
 
     <section>
@@ -98,7 +98,7 @@ function redirectRandomPage() {
     </nav>
     
 {:else}
-  <NavButton action="open" />
+  <Click action="open" />
 
 {/if}
 

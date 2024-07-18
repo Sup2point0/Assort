@@ -1,6 +1,6 @@
 <script>
 
-import Footer from "#parts/core/Footer.svelte";
+import Footer from "#src/parts/core/footer.svelte";
 
 import FlavourStatus from "./FlavourStatus.svelte";
 import QuickLinks from "./QuickLinks.svelte";
