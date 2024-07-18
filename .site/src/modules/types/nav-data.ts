@@ -1,4 +1,4 @@
-export class NavData {
+export default class NavData {
   open: boolean = true;
   sections = {
     Categories: true,
