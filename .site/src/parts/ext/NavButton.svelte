@@ -30,7 +30,16 @@ const icons = {
 button {
   width: 2rem;
   height: 2rem;
-  background-color: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: none;
+  border: none;
+  @include interactive;
+
+  // &:hover {
+  //   background-color: grey;
+  // }
 }
 
 </style>

@@ -1,12 +1,14 @@
 @use './src/styles/~variables' as *;
 
 
-@mixin underline($thickness) {
-  border-bottom: $thickness solid $col-line;
-}
-
-@mixin left-line($thickness) {
-  border-left: $thickness solid $col-line;
+@mixin line($thickness, $direction: none) {
+  @if ($direction == "left") {
+    border-left: $thickness solid $col-line;
+  } @else if ($direction == "right") {
+    border-right: $thickness solid $col-line;
+  } @else {
+    border-bottom: $thickness solid $col-line;
+  }
 }
 
 @mixin right-line($thickness) {
