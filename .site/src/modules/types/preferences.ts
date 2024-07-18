@@ -3,27 +3,32 @@ import Palettes from "#styles/palettes";
 
 
 export default class Preferences {
-  nav = {
-    "show-nav": true;
-    "open-immersive": true;
-  };
+  nav = new NavOptions();
+  text = new TextOptions();
+  cols = new ColsOptions();
+  accessibility = new AccessOptions();
+};
 
-  text = {
-    size: number = 100,
-    typeface: Site.Fonts.Type = Site.Fonts.Default,
-  },
+class NavOptions {
+  "show-nav" = true;
+  "open-immersive" = true;
+}
 
-  cols = {
-    duality: "light" | "dark" | null = null,
-    palettes: {
-      light: string = Palettes.default.light,
-      dark: string = Palettes.default.dark,
-    },
-    "dual-palettes" = true,
-  };
+class TextOptions {
+  size: number = 100;
+  typeface: Site.Fonts.Type = Site.Fonts.Default;
+}
 
-  accessibility = {
-    "anim" = true,
-    "underline-links" = false,
+class ColsOptions {
+  duality: "light" | "dark" | null = null;
+  palettes = {
+    light: Palettes.default.light,
+    dark: Palettes.default.dark,
   };
+  "dual-palettes" = true;
+}
+
+class AccessOptions {
+  "anim" = true;
+  "underline-links" = false;
 }
