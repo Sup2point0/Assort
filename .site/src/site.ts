@@ -1,15 +1,15 @@
 /// Stores data of all pages in the site for global reference
 /// This file is both modified by hand and programmatically generated
 
-import type { PageData } from "/modules/types/page-data.ts";
+import type { PageData } from "#modules/types";
 
 
 /* #SQUARK inject? */
-const pages: PageData = [];
+const pages: PageData[] = [];
 /* #SQUARK inject. */
 
 
-const site = {
+const Site = {
   pages: pages,
   index: {
     poetry: {
@@ -26,10 +26,10 @@ const site = {
     }
   },
 };
-export default site;
+export default Site;
 
 
-export const flavourStatuses = [
+export const Statuses = [
   "sup sup’s sups sup sup’s sup sup sup sup’s sup sups",
   "I really do love Assort.",
   "carrots are cool.",
