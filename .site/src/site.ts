@@ -1,5 +1,6 @@
 /// Stores data of all pages in the site for global reference
 /// This file is both modified by hand and programmatically generated
+/// Last generated:
 
 import type { PageData } from "#modules/types";
 
