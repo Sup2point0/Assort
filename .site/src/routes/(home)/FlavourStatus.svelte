@@ -10,9 +10,9 @@ let index = (
   ** date.getMonth()
   * date.getDay()
   * 69
-) % flavourStatuses.length;
+) % Statuses.length;
 
-let status = flavourStatuses[index];
+let status = Statuses[index];
 
 </script>
 
