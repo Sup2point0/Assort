@@ -1,17 +1,10 @@
 /// Stores data of all pages in the site for global reference
-/// This file is both modified by hand and programmatically generated
-/// Last generated:
 
-import type { PageData } from "#modules/types";
-
-
-/* #SQUARK inject? */
-const pages: PageData[] = [];
-/* #SQUARK inject. */
+// import "./site-data.json";
 
 
 const Site = {
-  pages: pages,
+  // pages: pages,
   index: {
     poetry: {
       display: "poetry",
