@@ -24,6 +24,9 @@ jobs:
           ruby-version: '3.3'
           bundler-cache: true
 
+      - name: 'Ruby / install'
+        run: cd ../.stranger-quarkdown && bundle install
+
       - name: 'Node / install'
         uses: actions/setup-node@v4
         with:
