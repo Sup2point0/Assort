@@ -1,7 +1,110 @@
 {
-  "pages": [
-
+  "pages": {
+    ".squarkdown/content/frequerys.md": {
+  "head": "Frequerys",
+  "capt": "Frequent Queries",
+  "desc": "Frequent queries related to Assort",
+  "index": [
+    "info"
   ],
+  "shard": [
+    "info"
+  ],
+  "date": null
+},
+    ".squarkdown/content/privacy.md": {
+  "head": "Privacy",
+  "capt": null,
+  "desc": null,
+  "index": [
+    "info"
+  ],
+  "shard": [
+    "info"
+  ],
+  "date": null
+},
+    ".squarkdown/content/synopsis.md": {
+  "head": "Synopsis",
+  "capt": "What is Assort?",
+  "desc": "An assortment of all my creations!",
+  "index": [
+    "info"
+  ],
+  "shard": [
+    "info"
+  ],
+  "date": null
+},
+    "Yu-Gi-Oh!/archetypes/Rubic.md": {
+  "head": "Rubic",
+  "capt": "Yu-Gi-Oh! Archetype",
+  "desc": "Yu-Gi-Oh! Archetype",
+  "index": [
+    "yugioh-archetypes"
+  ],
+  "shard": [
+    "yugioh-archetypes",
+    "yugioh"
+  ],
+  "date": null
+},
+    "~poetry/Nameless.md": {
+  "head": "Nameless",
+  "capt": null,
+  "desc": null,
+  "index": [
+    "poetry"
+  ],
+  "shard": [
+    "#indxe",
+    "sad"
+  ],
+  "date": "2023-05-01"
+},
+    "~poetry/The Programmer's Plight.md": {
+  "head": "The Programmer’s Plight",
+  "capt": null,
+  "desc": null,
+  "index": [
+    "poetry",
+    "dev"
+  ],
+  "shard": [
+    "poetry",
+    "dev",
+    "funny"
+  ],
+  "date": "2024-07-27"
+},
+    "~poetry/fractal fracking.md": {
+  "head": "fractal fracking",
+  "capt": null,
+  "desc": null,
+  "index": [
+    "poetry"
+  ],
+  "shard": [
+    "poetry",
+    "maths"
+  ],
+  "date": "2024-05-28"
+},
+    "~writing/wriiting.md": {
+  "head": "Yet More Writing",
+  "capt": null,
+  "desc": null,
+  "index": [
+    "writing",
+    "meta"
+  ],
+  "shard": [
+    "writing",
+    "meta"
+  ],
+  "date": null
+}
+  },
   "index": [
 
   ],
