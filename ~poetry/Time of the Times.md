@@ -1,5 +1,11 @@
 # Time of the Times
-<!-- #QUARK live! -->
+<!-- #SQUARK live!
+| dest = poetry/time-of-the-times
+| style = poetry
+| index = poetry
+| shard = #INDEX / monkeyopolis-times
+| date = 2021 November
+-->
 
 A year ago, or just a little more  
 It seems like a completely different world  
@@ -21,11 +27,3 @@ Here’s to one more, let’s hope the end isn’t too near
 
 
 (November 2021)
-
-<!-- #QUARK
-EXPORT: poetry/time-of-the-times
-STYLE: poetry
-INDEX: poetry
-YEAR: 21
-DEC: 11
--->

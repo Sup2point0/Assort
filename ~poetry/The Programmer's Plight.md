@@ -1,12 +1,11 @@
 # The Programmer’s Plight
 <!-- #SQUARK live!
-| title = The Programmer’s Plight
 | dest = poetry/the-programmers-plight
 | style = poetry
 | index = poetry / dev
 | shard = #INDEX / funny
 | date = 2024 July 27
--->  
+-->
 
 The best thoughts come after 2 am, they said.  
 Yet now you lie, half-awake, half-dead,  

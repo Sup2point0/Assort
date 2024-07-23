@@ -1,5 +1,11 @@
 # Wordless
-<!-- #QUARK live! -->
+<!-- #SQUARK live!
+| dest = poetry/wordless
+| style = poetry
+| index = poetry
+| shard = #INDEX / ramblinhs
+| date = 2023 December
+-->
 
 How do we start this one?  
 Or what if this had no structure  
@@ -48,11 +54,3 @@ That ought to do the trick.
 
 
 (December 2023)
-
-<!-- #QUARK
-EXPORT: poetry/wordless
-STYLE: poetry
-INDEX: poetry
-YEAR: 23
-DEC: 12
--->

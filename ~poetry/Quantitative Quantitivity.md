@@ -1,5 +1,11 @@
 # Quantitative Quantitivity
-<!-- #QUARK live! -->
+<!-- #SQUARK live!
+| dest = poetry/quantitative-quantitivity
+| style = poetry
+| index = poetry
+| shard = #INDEX / ramblings
+| date = 2023 March
+-->
 
 Quantity is rough.  
 How do these people write so much  

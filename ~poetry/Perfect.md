@@ -1,4 +1,8 @@
 # Perfect
+<!-- #SQUARK live! woozy!
+| dest = poetry/perfect
+| style = poetry
+-->
 
 Quasi-sarcastive ironicity,  
 Lopsided eyes of shining intellect,  
@@ -14,9 +18,3 @@ Could never understand me quite like him,
 If only in some life he were a girl.  
 Why should I open up to someone new?  
 Should lower my expectations a few.  
-
-
-<!-- #QUARK
-EXPORT: poetry/perfect
-STYLE: perfect
--->

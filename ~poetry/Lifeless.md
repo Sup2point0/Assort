@@ -1,5 +1,11 @@
 # Lifeless
-<!-- #QUARK live! -->
+<!-- #SQUARK live!
+| dest = poetry/lifeless
+| style = poetry
+| index = poetry
+| shard = #INDEX / sad
+| date = 2023 April
+-->
 
 I can’t lie –  
 I feel so unproductive nowadays,  
@@ -31,11 +37,3 @@ And through my hands my life’s faded away.
 
 
 (April 2023)
-
-<!-- #QUARK
-EXPORT: lifeless
-STYLE: poetry
-INDEX: poetry
-YEAR: 23
-DEC: 4
--->

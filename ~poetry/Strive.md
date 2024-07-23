@@ -1,5 +1,11 @@
 # Strive
-<!-- #QUARK live! -->
+<!-- #SQUARK live!
+| dest = poetry/strive
+| style = poetry
+| index = poetry
+| shard = #INDEX / sad / melodramatic
+| date = 2022 June
+-->
 
 There,  
 A summer past, a summer been;  
@@ -40,11 +46,3 @@ Perhaps it was not meant to be.
 
 
 (Summer 2022)
-
-<!-- #QUARK
-EXPORT: poetry/strive
-STYLE: poetry
-INDEX: poetry
-YEAR: 22
-DEC: 6
--->

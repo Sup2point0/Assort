@@ -3,7 +3,7 @@
 | dest = poetry/fracking
 | style = poetry 
 | index = poetry
-| shard = #index / maths
+| shard = #INDEX / nerdy / maths
 | date = 2024 May 28
 -->
 

@@ -1,5 +1,11 @@
 # This
-<!-- #QUARK live! -->
+<!-- #SQUARK live!
+| dest = poetry/this
+| style = poetry
+| index = poetry
+| shard = #INDEX / fantasy
+| date = 2021 April
+-->
 
 This longstanding settlement, this harbour of peace;  
 This mystical crystal valley, this arcane world;  

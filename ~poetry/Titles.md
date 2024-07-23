@@ -1,11 +1,10 @@
 # NO-t ev:ry tiT|e Has2b3 Ide.NticalIy_G1
-
-<!-- #QUARK live!
-  EXPORT: poetry/titles
-  STYLE: poetry
-  DUALITY: light
-  INDEX: poetry
-  DATE: 23 04
+<!-- #SQUARK live!
+| dest = poetry/titles
+| style = poetry
+| index = poetry
+| shard = #INDEX / nerdy
+| date = 2023 April
 -->
 
 Let’s say that you’ve written a poem or song  

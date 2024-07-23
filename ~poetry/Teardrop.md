@@ -1,5 +1,11 @@
 # Teardrop
-<!-- #QUARK live! -->
+<!-- #SQUARK live!
+| dest = poetry/teardrop
+| style = poetry
+| index = poetry
+| shard = #INDEX / Antarctica
+| date = 2022 September
+-->
 
 Look up, a sky of gleaming stalactites  
 of ice, streaming down from heavens above;  
