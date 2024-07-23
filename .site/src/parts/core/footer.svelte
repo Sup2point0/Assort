@@ -2,7 +2,7 @@
 
 import { base } from "$app/paths";
 
-import GitHubIcon from "#src/parts/misc/github-icon.svelte";
+import GitHubIcon from "#parts/misc/github-icon.svelte";
 
 </script>
 
