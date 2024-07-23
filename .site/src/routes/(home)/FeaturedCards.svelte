@@ -1,6 +1,6 @@
 <script>
 
-import ContentCard from "#src/parts/ext/card.content.svelte";
+import ContentCard from "#parts/ext/card.content.svelte";
 
 import siteData from "#src/site";
 

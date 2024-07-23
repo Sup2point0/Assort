@@ -2,7 +2,7 @@
 
 import { prefs } from "#modules/stores";
 
-import Click from "#src/parts/ext/click.svelte";
+import Click from "#parts/ext/click.svelte";
 
 
 function exportPrefs() {

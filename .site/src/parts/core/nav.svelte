@@ -2,8 +2,8 @@
 
 import { base } from "$app/paths";
 
-import NavLink from "#src/parts/core/nav.link.svelte";
-import Click from "#src/parts/ext/click.svelte";
+import NavLink from "#parts/core/nav.link.svelte";
+import Click from "#parts/ext/click.svelte";
 
 import Site from "#src/site"
 import nav from "#modules/stores/nav";

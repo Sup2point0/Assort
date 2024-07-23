@@ -48,4 +48,11 @@ button {
   }
 }
 
+.prot {
+  background-color: $col-accent;
+}
+.deut {
+  background-color: $col-back-deut;
+}
+
 </style>
