@@ -5,6 +5,7 @@ const data = await import("./site-data.json");
 
 const Site = {
   pages: data.pages,
+  font: "Fira Sans",
   index: {
     poetry: {
       display: "poetry",
@@ -26,7 +27,6 @@ const Site = {
   },
 };
 export default Site;
-console.log(Site);
 
 
 export const Statuses = [
