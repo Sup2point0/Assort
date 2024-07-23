@@ -28,12 +28,18 @@ const collection: Object[] = index.map(
         <th>
           <a href="{base}/{index?.path}"> {index?.display ?? "..."} </a>
         </th>
-        <td class="separator"> / </td>
+        <!-- <td class="divider"> / </td> -->
 
-        <td>
+        <td class="page-list">
           {#each index?.pages ?? [] as page}
             {@const data = Site.pages[page]}
-            <a href="{base}/{data.dest}"> {data.title} </a>
+
+            <!-- very annoying hack here to avoid random spaces being injected -->
+            <a href="{base}/{data.dest}">{data.title}</a
+              
+            >{#if page != index.pages[index.pages.length -1]}
+              <p class="divider">/</p>
+            {/if}
           {/each}
         </td>
       </tr>
@@ -71,19 +77,30 @@ td, th {
 }
 
 th {
+  width: 0;
   min-width: 5rem;
-  width: 20%;
+  padding-right: 5em;
   font-weight: 500;
 }
 
 td {
   max-width: 100%;
 
-  &.separator {
-    width: 0;
-    padding-left: 0;
-    padding-right: 0;
-    color: $col-text-trit;
+  > * {
+    display: inline;
+  }
+
+  .divider {
+    margin: 0 0.5em;
+  }
+}
+
+.divider {
+  color: $col-text-trit;
+
+  .last ~ & {
+    display: none;
+    color: red;
   }
 }
 
