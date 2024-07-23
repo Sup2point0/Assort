@@ -2,11 +2,12 @@
 
 import { page } from "$app/stores";
 
-import Nav from "#src/parts/core/nav.svelte";
-import Footer from "#src/parts/core/footer.svelte";
+import Nav from "#parts/core/nav.svelte";
+import Tools from "#parts/core/tools.svelte";
+import Footer from "#parts/core/footer.svelte";
 
-import Header from "#src/parts/page/header.page.svelte";
-import IndexView from "#src/parts/page/view.index.svelte";
+import Header from "#parts/page/header.page.svelte";
+import IndexView from "#parts/page/view.index.svelte";
 import PageFooter from "#parts/page/footer.page.svelte";
 
 </script>
@@ -15,6 +16,7 @@ import PageFooter from "#parts/page/footer.page.svelte";
 <div id="page">
   <div id="nav-page-split">
     <Nav />
+
     <main>
       <Header />
 
@@ -25,6 +27,8 @@ import PageFooter from "#parts/page/footer.page.svelte";
       <IndexView />
       <!-- <PageFooter /> -->
     </main>
+
+    <Tools />
   </div>
   <Footer />
 </div>
@@ -48,7 +52,7 @@ main {
   padding: 0.5rem 2rem 4rem;
   flex-grow: 1;
   flex-shrink: 1;
-  background-color: $col-back;
+  background-color: var(--col-back);
 }
 
 </style>
