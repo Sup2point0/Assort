@@ -1,5 +1,4 @@
 import Site from "#src/site";
-import Palettes from "#styles/palettes";
 
 
 export default class Preferences {
@@ -10,20 +9,19 @@ export default class Preferences {
 };
 
 class NavOptions {
-  "show-nav" = true;
   "open-immersive" = true;
 }
 
 class TextOptions {
   size: number = 100;
-  typeface: Site.Fonts.Type = Site.Fonts.Default;
+  typeface: string = Site.font;
 }
 
 class ColsOptions {
   duality: "light" | "dark" | null = null;
   palettes = {
-    light: Palettes.default.light,
-    dark: Palettes.default.dark,
+    light: "soup",
+    dark: "souper",
   };
   "dual-palettes" = true;
 }
