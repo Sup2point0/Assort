@@ -1,8 +1,13 @@
 <script>
 
+import { page } from "$app/stores";
+
 import Nav from "#src/parts/core/nav.svelte";
-import Header from "#src/parts/page/header.page.svelte";
 import Footer from "#src/parts/core/footer.svelte";
+
+import Header from "#src/parts/page/header.page.svelte";
+import IndexView from "#parts/page/index.view.svelte";
+import PageFooter from "#parts/page/footer.page.svelte";
 
 </script>
 
@@ -13,9 +18,13 @@ import Footer from "#src/parts/core/footer.svelte";
       <Nav />
       <main>
         <Header />
+
         <slot>
           <p class="error"> Uh, something has gone catastrophically, catastropically wrong! </p>
         </slot>
+
+        <IndexView index={$page.data.index} />
+        <!-- <PageFooter /> -->
       </main>
     </div>
     <Footer />
@@ -45,6 +54,8 @@ main {
   padding: 0.5rem 2rem 4rem;
   flex-grow: 1;
   flex-shrink: 1;
+  overflow-x: scroll;
+  overflow-y: hidden;;
 }
 
 </style>

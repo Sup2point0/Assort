@@ -1,53 +1,96 @@
 <script lang="ts">
 
 import { base } from "$app/paths";
+import { page } from "$app/stores";
 
-import siteData from "#src/site";
+import type { PageData } from "#modules/types";
+import Site from "#src/site";
 
-export let index: string[];
 
+const index = $page.data.index;
 
-const collection: {string: string[]}[] = index.map(
-  each => {
-    each: siteData.filter(
-      page => page.index.include(each)
-    )
-  }
+// map each index to list of pages
+const collection: Object[] = index.map(
+  each => Site.index[each]
 );
 
 </script>
 
 
-<table>
-  {#each collection as index}
+<section id="index-view">
+  <table>
     <tr>
-      <th> {index} </th>
-
-      {#each collection[index] as page}
-        <td>
-          <a href="{base}/{page.dest}"> {page.title} </a>
-        </td>
-      {/each}
+      <th id="top" colspan="3"> Indexed </th>
     </tr>
-  {/each}
-</table>
+
+    {#each collection as index}
+      <tr>
+        <th>
+          <a href="{base}/{index.path}"> {index.display} </a>
+        </th>
+        <td class="separator"> / </td>
+
+        {#each index.pages as page}
+          <td>
+            <a href="{base}/{Site.pages[page].dest}"> {Site.pages[page].title} </a>
+          </td>
+        {/each}
+      </tr>
+    {/each}
+  </table>
+</section>
 
 
 <style lang="scss">
 
-table {
+@use './src/styles/links' as *;
+
+
+#index-view {
   width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+table {
+  width: 90%;
   @include font-body;
-  border: 2px solid $col-back-deut;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+td, th {
+  min-width: 5em;
+  margin: 0;
+  padding: 1em 0.5em;
+  @include font-body;
+  border-bottom: 1.25px solid $col-line;
 }
 
 th {
-  font-weight: 125%;
+  min-width: 5rem;
+  width: 20%;
+  font-weight: 500;
 }
 
 td {
-  padding: 0.2em;
-  border: 1px solid rgba($col-back-deut, 42%);
+  max-width: 100%;
+
+  &.separator {
+    width: min-content;
+    color: $col-text-trit;
+  }
+}
+
+#top {
+  padding: 0.25em 0;
+  @include font-ui;
+  font-size: 125%;
+  color: white;
+  text-align: center;
+  background-color: $col-accent;
+  border: none;
 }
 
 </style>
