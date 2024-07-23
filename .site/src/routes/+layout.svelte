@@ -2,12 +2,17 @@
 
 import "#styles/essence.scss";
 
-import { duality } from "#modules/stores";
+import { prefs } from "#modules/stores";
+
+$: duality = $prefs.cols.duality ?? "light";
 
 </script>
 
 
-<div class="duality" style:color-scheme={$duality}>
+<div
+  class={$prefs.cols.palettes[duality]}
+  style:color-scheme={duality}
+>
   <slot>
     <p class="error"> Uh, something went wrong! </p>
   </slot>
@@ -16,8 +21,6 @@ import { duality } from "#modules/stores";
 
 <style lang="scss">
 
-.duality {
-  background-color: $col-back;
-}
+@use '#palettes/colours' as *;
 
 </style>
