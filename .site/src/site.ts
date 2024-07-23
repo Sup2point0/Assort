@@ -1,15 +1,21 @@
-/// Stores data of all pages in the site for global reference
+/// Site data and config for global access
 
 const data = await import("./site-data.json");
 
 
 const Site = {
   pages: data.pages,
+
   font: "Fira Sans",
-  index: {
+
+  index:
+  {
+    dev: {
+      colour: ["9090f1"],
+      pages: data.dev,
+    },
     poetry: {
-      display: "poetry",
-      colour: ["f190f1", ""],
+      colour: ["f190f1"],
       pages: [],
     },
     yugioh: {
@@ -23,12 +29,9 @@ const Site = {
       pages: ["Yu-Gi-Oh!/archetypes/Rubic.md"]
     },
   },
-  shard: {
-    poetry: {
-      display: "poetry",
-      colour: ["f190f1", ""],
-      pages: [],
-    }
+
+  shard:
+  {
   },
 };
 export default Site;
@@ -36,6 +39,7 @@ export default Site;
 
 export const Statuses = [
   "sup sup’s sups sup sup’s sup sup sup sup’s sup sups",
+  "welcome to Assort.",
   "I really do love Assort.",
   "carrots are cool.",
   "spoiler: all flavour texts are equally rare :0 (in theory)",

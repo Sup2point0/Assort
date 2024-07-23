@@ -26,13 +26,14 @@ const collection: Object[] = index.map(
     {#each collection as index}
       <tr>
         <th>
-          <a href="{base}/{index.path}"> {index.display} </a>
+          <a href="{base}/{index?.path}"> {index?.display ?? "..."} </a>
         </th>
         <td class="separator"> / </td>
 
         <td>
-          {#each index.pages as page}
-            <a href="{base}/{Site.pages[page].dest}"> {Site.pages[page].title} </a>
+          {#each index?.pages ?? [] as page}
+            {@const data = Site.pages[page]}
+            <a href="{base}/{data.dest}"> {data.title} </a>
           {/each}
         </td>
       </tr>
