@@ -5,12 +5,13 @@ An individual link in the navigation pane.
 <script lang="ts">
 
 import { base } from "$app/paths";
+    import type { MouseEventHandler } from "svelte/elements";
 
 export let text: string;
 export let link: string | undefined = undefined;
   export let intern: string | undefined = undefined;
   export let extern: string | undefined = undefined;
-export let button = undefined;
+export let button: MouseEventHandler<HTMLElement> | undefined = undefined;
 export let hover: string | undefined = undefined;
 
 </script>
