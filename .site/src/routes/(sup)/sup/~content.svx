@@ -35,9 +35,13 @@ o7
 
 <style lang="scss">
 
+@use './src/styles/links' as *;
+
 p {
   @include font-hand;
-  font-size: 200%;
+  font-size: 150%;
+  font-weight: 300;
+  font-style: italic;
   color: white;
 }
 

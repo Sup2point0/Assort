@@ -9,11 +9,13 @@ import Content from "./~content.svx";
 
 
 <main>
-  <Content />
+  <div id="gg">
+    <Content />
+  </div>
 
   <hr>
 
-  <a href="https://sup2point0.github.io/Assort">
+  <a id="footnote" href="https://sup2point0.github.io/Assort">
     Head back to Assort!
   </a>
 </main>
@@ -21,19 +23,30 @@ import Content from "./~content.svx";
 
 <style lang="scss">
 
+@use './src/styles/links' as *;
+
+
 main {
   margin: 0;
-  padding: 2rem 2rem 0;
+  padding: 2rem 2rem 10rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;;
   background-color: black;
 }
 
-a {
-  color: $teal-elec;
-  text-decoration: none;
+#gg {
+  width: 80%;
+  max-width: 600px;
 }
 
 hr {
-  background-color: $teal-elec;
+  width: 80%;
+  margin: 2rem 0 1rem;
+}
+
+#footnote:not(:hover, :active) {
+  color: $teal-elec;
 }
 
 </style>

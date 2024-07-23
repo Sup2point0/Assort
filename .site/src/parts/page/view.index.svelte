@@ -30,11 +30,11 @@ const collection: Object[] = index.map(
         </th>
         <td class="separator"> / </td>
 
-        {#each index.pages as page}
-          <td>
+        <td>
+          {#each index.pages as page}
             <a href="{base}/{Site.pages[page].dest}"> {Site.pages[page].title} </a>
-          </td>
-        {/each}
+          {/each}
+        </td>
       </tr>
     {/each}
   </table>
@@ -48,6 +48,7 @@ const collection: Object[] = index.map(
 
 #index-view {
   width: 100%;
+  margin-top: 4rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -61,10 +62,10 @@ table {
 }
 
 td, th {
-  min-width: 5em;
   margin: 0;
   padding: 1em 0.5em;
   @include font-body;
+  color: $col-text;
   border-bottom: 1.25px solid $col-line;
 }
 
@@ -78,7 +79,9 @@ td {
   max-width: 100%;
 
   &.separator {
-    width: min-content;
+    width: 0;
+    padding-left: 0;
+    padding-right: 0;
     color: $col-text-trit;
   }
 }
