@@ -1,26 +1,32 @@
 /// Stores data of all pages in the site for global reference
 
-// import "./site-data.json";
+const data = await import("./site-data.json");
 
 
 const Site = {
-  // pages: pages,
+  pages: data.pages,
   index: {
     poetry: {
       display: "poetry",
       color: ["f190f1", ""],
       pages: [],
-    }
+    },
+    "yugioh-archetypes": {
+      display: "Yu-Gi-Oh! Archetypes",
+      color: ["ff0090"],
+      pages: ["Yu-Gi-Oh!/archetypes/Rubic.md"]
+    },
   },
   shard: {
     poetry: {
       display: "poetry",
       color: ["f190f1", ""],
       pages: [],
-    }
+    },
   },
 };
 export default Site;
+console.log(Site);
 
 
 export const Statuses = [
