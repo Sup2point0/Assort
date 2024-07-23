@@ -9,21 +9,26 @@ const Site = {
   index: {
     poetry: {
       display: "poetry",
-      color: ["f190f1", ""],
+      colour: ["f190f1", ""],
+      pages: [],
+    },
+    yugioh: {
+      display: "Yu-Gi-Oh!",
+      colour: ["4090f1"],
       pages: [],
     },
     "yugioh-archetypes": {
       display: "Yu-Gi-Oh! Archetypes",
-      color: ["ff0090"],
+      colour: ["ff0090"],
       pages: ["Yu-Gi-Oh!/archetypes/Rubic.md"]
     },
   },
   shard: {
     poetry: {
       display: "poetry",
-      color: ["f190f1", ""],
+      colour: ["f190f1", ""],
       pages: [],
-    },
+    }
   },
 };
 export default Site;
