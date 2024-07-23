@@ -11,7 +11,7 @@ export default class Closable {
     return this;
   }
 
-  switch(): Closable {
+  change(): Closable {
     this.shown = !this.shown;
     return this;
   }

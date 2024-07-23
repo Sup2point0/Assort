@@ -6,8 +6,8 @@ import { base } from "$app/paths";
 export let kind: "prot" | "deut" | "trit" = "prot";
 export let link: string | undefined = undefined;
   export let intern: string | undefined = undefined;
-export let button: CallableFunction | undefined = undefined;
-export let action: "open" | "close" | "switch" | undefined = undefined;
+export let button: MouseEventHandler<HTMLElement> | undefined = undefined;
+export let action: "open" | "close" | "change" | undefined = undefined;
   export let store: any = undefined;
 
 
@@ -19,9 +19,13 @@ if (action) {
       callback = () => store?.update(data => data.open());
     case "close":
       callback = () => store?.update(data => data.close());
-    case "switch":
-      callback = () => store?.update(data => data.switch());
+    case "change":
+      callback = () => store?.update(data => data.change());
   }
+} else if (button) {
+  callback = button;
+} else {
+  callback = () => { return };
 }
 
 </script>
