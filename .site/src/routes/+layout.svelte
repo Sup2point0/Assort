@@ -21,6 +21,6 @@ $: duality = $prefs.cols.duality ?? "light";
 
 <style lang="scss">
 
-@use '#palettes/colours' as *;
+@use './src/palettes/colours' as *;
 
 </style>
