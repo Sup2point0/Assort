@@ -1,6 +1,7 @@
 <script lang="ts">
   
 import type { MouseEventHandler } from "svelte/elements";
+import { base } from "$app/paths";
 
 export let kind: "prot" | "deut" | "trit" = "prot";
 export let link: string | undefined = undefined;
@@ -26,14 +27,22 @@ if (action) {
 </script>
 
 
-<button class={kind} on:click={callback}>
-  <slot />
-</button>
+{#if link || intern}
+  <a href={link || `${base}/${intern}`}>
+    <slot />
+  </a>
+
+{:else}
+  <button class={kind} on:click={callback}>
+    <slot />
+  </button>
+
+  {/if}
 
 
 <style lang="scss">
 
-button {
+a, button {
   width: 2rem;
   height: 2rem;
   display: flex;
