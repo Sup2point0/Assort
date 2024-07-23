@@ -1,5 +1,11 @@
 # Fortisan
-<!-- #QUARK live! -->
+<!-- #SQUARK live!
+| dest = poetry/fortisan
+| style = poetry
+| index = poetry
+| shard = #INDEX / melodramatic
+| date = 2021 December
+-->
 
 Look up, a skies untouched,  
 Leave nothing if for a careless blink;  
@@ -25,11 +31,3 @@ Our time is now.
 
 
 (December 2021)
-
-<!-- #QUARK
-EXPORT: poetry/fortisan
-STYLE: poetry
-INDEX: poetry
-YEAR: 21
-DEC: 12
--->

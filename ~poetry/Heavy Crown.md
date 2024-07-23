@@ -1,5 +1,11 @@
 # Heavy Crown
-<!-- #QUARK live! -->
+<!-- #SQUARK live!
+| dest = poetry/heavy-crown
+| style = poetry
+| index = poetry
+| shard = #INDEX / melodramatic
+| date = 2021 September
+-->
 
 Time, time, and time again  
 For far too many times have rulers been  
@@ -28,11 +34,3 @@ And so I ask, allow me to be king.
 
 
 (Autumn 2021)
-
-<!-- #QUARK
-EXPORT: poetry/heavy-crown
-STYLE: poetry
-INDEX: poetry
-YEAR: 21
-DEC: 9
--->
