@@ -7,12 +7,12 @@ import { page } from "$app/stores";
 
 <footer>
   <div class="left">
-    <p> LAST EDITED <span class="highlight">{$page.hist.edit}</span> </p>
-    <p> LAST DEPLOYED <span class="highlight">{$page.hist.deploy}</span> </p>
+    <p> LAST EDITED <span class="highlight">{$page.data.hist.edit}</span> </p>
+    <p> LAST DEPLOYED <span class="highlight">{$page.data.hist.deploy}</span> </p>
   </div>
 
   <div class="left">
-    <p> VIEW ON <a href={$page.source.link}>GITHUB</a> </p>
+    <p> VIEW ON <a href={$page.data.source.link}>GITHUB</a> </p>
   </div>
 </footer>
 
