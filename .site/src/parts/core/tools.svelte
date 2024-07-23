@@ -2,10 +2,16 @@
 
 import Click from "#parts/ext/click.svelte";
 
+import { prefs } from "#modules/stores";
+
 </script>
 
 
 <nav>
+  <Click kind="trit" action="open" store={prefs}>
+    #
+  </Click>
+
   <Click kind="trit">
     ^
   </Click>
@@ -19,5 +25,7 @@ nav {
   padding: 0.5rem;
   background-color: var(--col-back);
 }
+
+nav > * {}
 
 </style>

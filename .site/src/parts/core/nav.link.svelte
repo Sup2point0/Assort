@@ -83,27 +83,37 @@ a, button {
 
 a {
   text-decoration: none;
-
-  &[href$="sup"] {
-    color: $col-back-deut;
-  }
 }
 
 button {
   border: none;
 }
 
-.hover {
-  display: none;
-  background-color: light-dark(
-    rgba(#000, 20%),
-    rgba(#fff, 50%)
-  );
 
-  p {
-    @include font-ui;
-    color: white;
+a, button {
+  ~ .hover {
+    display: none;
+    opacity: 0;
   }
+
+  &:where(:hover, :focus, :active) + .hover {
+    // display: block;
+    position: absolute;
+    background-color: light-dark(
+      rgba(#000, 20%),
+      rgba(#fff, 20%)
+    );
+    opacity: 1;
+
+    p {
+      @include font-ui;
+      color: white;
+    }
+  }
+}
+
+a[href$="sup"] {
+  color: $col-back-deut;
 }
 
 </style>
