@@ -2,31 +2,36 @@
 
 import { page } from "$app/stores";
 
+import Site from "#src/site";
+
 import Tag from "#parts/ext/tag.svelte";
 
 </script>
 
 
 <header>
-  <h1> {$page.data.title} </h1>
-  
-  {#if $page.data.capt}
-    <p id="capt" class="caption"> {$page.data.capt} </p>
-  {/if}
+  <div>
+    <h1> {$page.data.title} </h1>
+    
+    {#if $page.data.capt}
+      <p id="capt" class="caption"> {$page.data.capt} </p>
+    {/if}
+  </div>
 
-  {#if $page.data.dateDisplay}
-    <p id="date" class="caption"> {$page.data.dateDisplay} </p>
-  {/if}
+  <div>
+    {#if $page.data.dateDisplay}
+      <p id="date" class="caption"> {$page.data.dateDisplay} </p>
+    {/if}
 
-  <div class="shards">
-    {#each $page.data.shard ?? [] as shard}
-      <Tag
-        intern="search?shard={shard}"
-        col="#ff0090"
-      >
-        {shard}
-      </Tag>
-    {/each}
+    <div id="shards">
+      {#each $page.data.shard ?? [] as shard}
+        {@const data = Site.shard[shard] ?? Site.index[shard]}
+
+        <Tag intern="search?shard={shard}" col={data?.colour}>
+          {data?.display}
+        </Tag>
+      {/each}
+    </div>
   </div>
 </header>
 
@@ -35,7 +40,11 @@ import Tag from "#parts/ext/tag.svelte";
 
 header {
   width: 100%;
-  padding: 0 0 0.5rem;
+  padding: 0 0 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: end;
   @include line(1.5px);
 }
 
@@ -48,13 +57,15 @@ h1 {
 
 p#capt {
   margin: 0;
+  padding: 0;
   @include font-head;
   font-weight: 350;
   font-size: 150%;
   color: $col-text-deut;
 }
 
-.shards {
+#shards {
+  max-width: 40vw;
   margin: 1rem 0 0;
 }
 

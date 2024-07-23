@@ -1,30 +1,34 @@
 <script lang="ts">
 
 import { base } from "$app/paths";
+import type { MouseEventHandler } from "svelte/elements";
 
 export let intern: string | undefined = undefined;
-export let button: CallableFunction | undefined = undefined;
-export let col: string;
+export let button: MouseEventHandler<HTMLElement> | undefined = undefined;
+export let col: string | undefined = undefined;
+
+
+const colour = "#" + col;
 
 </script>
 
 
 {#if intern}
-  <a class="tag" style:--col={col}
+  <a class="tag" style:--col={colour}
     href="{base}/{intern}"
   >
     <slot />
   </a>
 
 {:else if button}
-  <button class="tag" style:--col={col}
+  <button class="tag" style:--col={colour}
     on:click={button}
   >
     <slot />
   </button>
 
 {:else}
-  <div class="tag" style:--col={col}>
+  <div class="tag" style:--col={colour}>
     <slot />
   </div>
 
@@ -34,17 +38,15 @@ export let col: string;
 <style lang="scss">
 
 .tag {
-  margin: 0;
-  padding: 0.1rem 0.4rem;
+  margin: 0 0.25em;
+  padding: 0.4em 0.5em;
 
   @include font-ui;
+  color: white;
   text-decoration: none;
-  background-color: rgba(var(--col), 20%);
-
-  @include interactive(
-    var(--col, $col-accent),
-    (42%, 69%, 88%)
-  )
+  background-color: var(--col);
+  border-radius: 0.5em;
+  @include interactive()
 }
 
 </style>
