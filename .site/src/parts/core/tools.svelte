@@ -6,7 +6,7 @@ import Click from "#parts/ext/click.svelte";
 
 
 <nav>
-  <Click button={() => window.scroll = 0}>
+  <Click kind="trit">
     ^
   </Click>
 </nav>
@@ -15,8 +15,9 @@ import Click from "#parts/ext/click.svelte";
 <style lang="scss">
 
 nav {
-  width: 2rem;
-  background-color: white;
+  width: 3rem;
+  padding: 0.5rem;
+  background-color: var(--col-back);
 }
 
 </style>
