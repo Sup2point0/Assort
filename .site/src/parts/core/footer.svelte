@@ -20,7 +20,7 @@ import GitHubIcon from "#parts/misc/github-icon.svelte";
     </section>
 
     <section>
-      <GitHubIcon />
+      <GitHubIcon size=50 />
       <p style:display="inline"> View on <a href="https://github.com/Sup2point0/Assort">GitHub</a> </p>
     </section>
   </div>
