@@ -1,12 +1,13 @@
-<!-- @component WindowOverlay
+<!-- @component `WindowOverlay`
+
 A blurred overlay across the entire screen for displaying modals or warnings over.
 -->
 
 <script lang="ts">
 
-import type { ClosableState } from "#modules/types";
+import type { Closable } from "#modules/types";
 
-export let state: ClosableState;
+export let state: Closable;
 
 </script>
 

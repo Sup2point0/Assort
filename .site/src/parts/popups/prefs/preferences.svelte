@@ -1,12 +1,20 @@
+<!-- @component `Preferences`
+
+The overlay for configuring user preferences.
+-->
+
 <script lang="ts">
 
 import Click from "#parts/ext/click.svelte";
 
 import NavPrefs from "./nav.prefs.svelte";
-import PrefsText from "./prefs.text.svelte";
-import PrefsCols from "./prefs.cols.svelte";
+// import PrefsText from "./prefs.text.svelte";
+// import PrefsCols from "./prefs.cols.svelte";
 
-import { prefs, popups } from "#modules/stores";
+import { popups } from "#modules/stores";
+
+
+$: prefs = $popups.prefs;
 
 </script>
 
@@ -15,13 +23,13 @@ import { prefs, popups } from "#modules/stores";
   <NavPrefs />
 
   <div class="prefs">
-    <Click action="close" store={$prefsPopup}
+    <Click action="close" store={$popups.prefs}
       style:float="right" />
 
-  {#if $prefsPopup.page == "text"}
-    <PrefsText />
-  {:else if $prefsPopup.page == "cols"}
-    <PrefsCols />
+  {#if prefs.page == "text"}
+    <!-- <PrefsText /> -->
+  {:else if prefs.page == "cols"}
+    <!-- <PrefsCols /> -->
   {:else}
   {/if}
 
