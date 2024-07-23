@@ -1,11 +1,11 @@
 import { Closable } from "#modules/types";
 
 
-export default class popups {
-  prefs: Prefs = new Prefs();
+export default class PopupsState {
+  prefs = new Prefs();
 }
 
 class Prefs extends Closable {
   shown = false;
-  page: string = "nav";
+  page = "nav";
 }
