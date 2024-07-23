@@ -5,7 +5,7 @@ An individual link in the navigation pane.
 <script lang="ts">
 
 import { base } from "$app/paths";
-    import type { MouseEventHandler } from "svelte/elements";
+import type { MouseEventHandler } from "svelte/elements";
 
 export let text: string;
 export let link: string | undefined = undefined;
@@ -14,19 +14,33 @@ export let link: string | undefined = undefined;
 export let button: MouseEventHandler<HTMLElement> | undefined = undefined;
 export let hover: string | undefined = undefined;
 
+
+$: live = window.location.pathname.includes(intern);
+
 </script>
 
 
-{#if intern}
-  <a href="{base}/{intern}"> {text} </a>
-{:else if link}
-  <a href={link}> {text} </a>
+{#if intern || link}
+  <a
+    class:live={live}
+    href={link || (base + "/" + intern)}
+  > {text} </a>
+
 {:else if extern}
-  <a href={link} target="_blank"> {text} </a>
+  <a
+    class:live={live}
+    href={link} target="_blank"
+  > {text} </a>
+
 {:else if button}
   <button on:click={button}> {text} </button>
+
 {:else}
-  <a href=""> {text} </a>
+  <a
+    class:live={live}
+    href=""
+  > {text} </a>
+
 {/if}
 
 {#if hover}
@@ -78,6 +92,10 @@ a, button {
       rgba(black, 12%),
       rgba(white, 20%),
     );
+  }
+
+  &.live {
+    color: $blue-sky;
   }
 }
 
