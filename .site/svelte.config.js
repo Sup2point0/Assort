@@ -19,7 +19,7 @@ const config = {
       base: process.argv.includes("dev") ? "" : process.env.BASE_PATH
     },
     alias: {
-      "#src": "./src/",
+      "#src": "./src",
       "#parts": "./src/parts",
       "#styles": "./src/styles",
       "#modules": "./src/modules",
