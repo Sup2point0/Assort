@@ -1,6 +1,7 @@
 <script>
 
 import { page } from "$app/stores";
+import { popups } from "#modules/stores";
 
 import Nav from "#parts/core/nav.svelte";
 import Tools from "#parts/core/tools.svelte";
@@ -9,6 +10,12 @@ import Footer from "#parts/core/footer.svelte";
 import Header from "#parts/page/header.page.svelte";
 import IndexView from "#parts/page/view.index.svelte";
 import PageFooter from "#parts/page/footer.page.svelte";
+
+import WindowOverlay from "#parts/popups/window-overlay.svelte";
+import Preferences from "#parts/popups/prefs/preferences.svelte";
+
+
+$: prefs = $popups.prefs;
 
 </script>
 
@@ -32,6 +39,12 @@ import PageFooter from "#parts/page/footer.page.svelte";
   </div>
   <Footer />
 </div>
+
+{#if prefs.shown}
+  <WindowOverlay state={prefs}>
+    <Preferences />
+  </WindowOverlay>
+{/if}
 
 
 <style lang="scss">

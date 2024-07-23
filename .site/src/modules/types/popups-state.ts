@@ -7,4 +7,5 @@ export default class popups {
 
 class Prefs extends Closable {
   shown = false;
+  page: string = "nav";
 }
