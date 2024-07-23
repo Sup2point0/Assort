@@ -1,0 +1,30 @@
+.souper {
+  --col-prot: #9090f1;
+  --col-deut: #4090f1;
+
+  --col-focus: #40e0ff;
+
+  --col-text: #000;
+    --col-text-prot: "";
+    --col-text-deut: "";
+    --col-text-trit: "";
+    --col-text-bold: "";
+    --col-text-select: "";
+
+  --col-back: #fefefe;
+    --col-back-prot: "";
+    --col-back-deut: #f8fbfe;
+    --col-back-trit: #eee;
+
+  --col-line: #a9b0b8;
+    --col-line-prot: "";
+    --col-line-deut: "";
+
+  --col-link: #ff0090;
+    --col-link-hover: "";
+    --col-link-click: "";
+
+  --col-card: "";
+    --col-card-hover: "";
+    --col-card-click: ""
+}

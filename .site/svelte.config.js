@@ -23,6 +23,7 @@ const config = {
       "#parts": "./src/parts",
       "#styles": "./src/styles",
       "#modules": "./src/modules",
+      "#palettes": "./src/palettes",
     },
     prerender: {
       handleHttpError: "warn",
