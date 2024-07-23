@@ -23,7 +23,7 @@ import PageFooter from "#parts/page/footer.page.svelte";
           <p class="error"> Uh, something has gone catastrophically, catastropically wrong! </p>
         </slot>
 
-        <IndexView index={$page.data.index} />
+        <IndexView />
         <!-- <PageFooter /> -->
       </main>
     </div>
@@ -56,6 +56,7 @@ main {
   flex-shrink: 1;
   overflow-x: scroll;
   overflow-y: hidden;;
+  background-color: $col-back;
 }
 
 </style>

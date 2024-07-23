@@ -1,9 +1,13 @@
-export default class NavData {
-  open: boolean = true;
+import { Closable } from "#modules/types";
+
+
+export default class NavData extends Closable {
+  shown = true;
+
   sections = {
-    Categories: true,
-    Creations: true,
-    Franchises: true,
-    Meta: true,
+    Categories: {shown: true},
+    Creations: {shown: true},
+    Franchises: {shown: true},
+    Meta: {shown: true},
   };
 }

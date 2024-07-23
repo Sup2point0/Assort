@@ -1,27 +1,33 @@
 <script lang="ts">
+  
+import type { MouseEventHandler } from "svelte/elements";
 
-import nav from "#modules/stores/nav";
+export let kind: "prot" | "deut" | "trit" = "prot";
+export let link: string | undefined = undefined;
+  export let intern: string | undefined = undefined;
+export let button: CallableFunction | undefined = undefined;
+export let action: "open" | "close" | "switch" | undefined = undefined;
+  export let store: any = undefined;
 
-export let action: "open" | "close" | "top";
 
+let callback: MouseEventHandler<HTMLElement>;
 
-const callbacks = {
-  open: () => nav.update(data => {data.open = true; return data}),
-  close: () => nav.update(data => {data.open = false; return data}),
-}
-
-const icons = {
-  open: "keyboard_double_arrow_right",
-  close: "keyboard_double_arrow_left",
+if (action) {
+  switch (action) {
+    case "open":
+      callback = () => store?.update(data => data.open());
+    case "close":
+      callback = () => store?.update(data => data.close());
+    case "switch":
+      callback = () => store?.update(data => data.switch());
+  }
 }
 
 </script>
 
 
-<button on:click={callbacks[action]}>
-  <span class="material-symbols-outlined">
-    {icons[action]}
-  </span>
+<button class={kind} on:click={callback}>
+  <slot />
 </button>
 
 
@@ -37,9 +43,9 @@ button {
   border: none;
   @include interactive;
 
-  // &:hover {
-  //   background-color: grey;
-  // }
+  &:hover {
+    background-color: grey;
+  }
 }
 
 </style>

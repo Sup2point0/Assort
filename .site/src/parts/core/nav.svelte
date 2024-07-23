@@ -5,24 +5,30 @@ import { base } from "$app/paths";
 import NavLink from "#src/parts/core/nav.link.svelte";
 import Click from "#src/parts/ext/click.svelte";
 
+import Site from "#src/site"
 import nav from "#modules/stores/nav";
 
 
-function redirectRandomPage() {
-  const pages = []
+let d = {sup: 2.0, soup: 4.2}
 
-  const random = Math.floor(Math.random() * pages.length);
-  window.location.href = `${base}/${pages[random]}`;
+function redirectRandomPage() {
+  // TODO pick random page
+  // const random = Math.floor(Math.random() * Site.pages);
+  // window.location.href = `${base}/${pages[random]}`;
 }
 
 </script>
 
 
-{#if $nav.open}
+{#if $nav.shown}
   <nav>
     <section id="top">
       <img alt="Assort" src="{base}/assort-block.png">
-      <Click action="close" />
+      <Click action="close" store={nav}>
+        <span class="material-symbols-outlined">
+          keyboard_double_arrow_left
+        </span>
+      </Click>
     </section>
 
     <section>
@@ -98,7 +104,11 @@ function redirectRandomPage() {
     </nav>
     
 {:else}
-  <Click action="open" />
+  <Click action="open" store={nav}>
+    <span class="material-symbols-outlined">
+      keyboard_double_arrow_right
+    </span>
+  </Click>
 
 {/if}
 
@@ -113,7 +123,7 @@ nav {
   margin: 0;
   padding: 0.5rem 0.25rem;
 
-  // background-color: $col-back-deut;
+  background-color: $col-back-deut;
   @include line(1.5px, "right")
   // overflow: hidden;
   // resize: horizontal;
