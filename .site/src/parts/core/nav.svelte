@@ -9,8 +9,6 @@ import Site from "#src/site"
 import nav from "#modules/stores/nav";
 
 
-let d = {sup: 2.0, soup: 4.2}
-
 function redirectRandomPage() {
   // TODO pick random page
   // const random = Math.floor(Math.random() * Site.pages);
@@ -124,7 +122,7 @@ nav {
   padding: 0.5rem 0.25rem;
 
   background-color: $col-back-deut;
-  @include line(1.5px, "right")
+  @include line(1.5px, "right");
   // overflow: hidden;
   // resize: horizontal;
 }

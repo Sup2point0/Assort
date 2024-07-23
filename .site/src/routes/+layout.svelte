@@ -12,3 +12,12 @@ import { duality } from "#modules/stores";
     <p class="error"> Uh, something went wrong! </p>
   </slot>
 </div>
+
+
+<style lang="scss">
+
+.duality {
+  background-color: $col-back;
+}
+
+</style>
