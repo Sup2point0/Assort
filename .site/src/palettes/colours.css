@@ -1,22 +1,22 @@
 .souper {
-  --col-prot: #9090f1;
-  --col-deut: #4090f1;
+  --col-prot: #blue;
+  --col-deut: #red;
 
-  --col-focus: #40e0ff;
+  --col-focus: #cyan;
 
-  --col-text: #000;
-    --col-text-prot: "";
-    --col-text-deut: "";
-    --col-text-trit: "";
-    --col-text-bold: "";
-    --col-text-select: "";
+  --col-text: #white;
+    --col-text-prot: white;
+    --col-text-deut: white;
+    --col-text-trit: white;
+    --col-text-bold: white;
+    --col-text-select: white;
 
-  --col-back: #fefefe;
-    --col-back-prot: "";
-    --col-back-deut: #f8fbfe;
-    --col-back-trit: #eee;
+  --col-back: black;
+    --col-back-prot: grey;
+    --col-back-deut: grey;
+    --col-back-trit: grey;
 
-  --col-line: #a9b0b8;
+  --col-line: grey;
     --col-line-prot: "";
     --col-line-deut: "";
 
