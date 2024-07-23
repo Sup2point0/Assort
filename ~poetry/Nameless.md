@@ -4,7 +4,7 @@
 | index = poetry
 | style = poetry
 | duality = dark
-| shard = #INDXE / sad
+| shard = #INDEX / sad
 | date = 2023 May
 -->
 
