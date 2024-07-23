@@ -6,7 +6,7 @@ import NavPrefs from "./nav.prefs.svelte";
 import PrefsText from "./prefs.text.svelte";
 import PrefsCols from "./prefs.cols.svelte";
 
-import { prefs, prefsPopup } from "#modules/stores";
+import { prefs, popups } from "#modules/stores";
 
 </script>
 

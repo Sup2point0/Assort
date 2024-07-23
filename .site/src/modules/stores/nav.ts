@@ -1,7 +1,7 @@
 import { persisted } from "svelte-persisted-store";
 
-import { NavData } from "../types";
+import { NavState } from "#modules/types";
 
 
-const nav = persisted<NavData>("assort.nav", new NavData());
+const nav = persisted<NavState>("assort.nav", new NavState());
 export default nav;

@@ -1,7 +1,7 @@
 import { Closable } from "#modules/types";
 
 
-export default class NavData extends Closable {
+export default class NavState extends Closable {
   shown = true;
 
   sections = {
