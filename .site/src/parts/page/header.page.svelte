@@ -28,7 +28,7 @@ import Tag from "#parts/ext/tag.svelte";
         {@const data = Site.shard[shard] ?? Site.index[shard]}
 
         <Tag intern="search?shard={shard}" col={data?.colour}>
-          {data?.display}
+          {data?.display ?? shard}
         </Tag>
       {/each}
     </div>
@@ -49,14 +49,14 @@ header {
 }
 
 h1 {
-  margin: 1rem 0;
+  margin: 1rem 0 0;
   @include font-head;
   font-size: 300%;
   color: $col-text;
 }
 
 p#capt {
-  margin: 0;
+  margin: 1rem 0 0;
   padding: 0;
   @include font-head;
   font-weight: 350;

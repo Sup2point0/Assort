@@ -1,11 +1,67 @@
 {
   "exported": "2024-07-23",
-  "index": [
-
-  ],
-  "shard": [
-
-  ],
+  "index": {
+    "info": [
+      ".squarkdown/content/frequerys.md",
+      ".squarkdown/content/privacy.md",
+      ".squarkdown/content/synopsis.md"
+    ],
+    "yugioh-archetypes": [
+      "Yu-Gi-Oh!/archetypes/Rubic.md"
+    ],
+    "poetry": [
+      "~poetry/Nameless.md",
+      "~poetry/The Programmer's Plight.md",
+      "~poetry/fractal fracking.md"
+    ],
+    "dev": [
+      "~poetry/The Programmer's Plight.md"
+    ],
+    "writing": [
+      "~writing/wriiting.md"
+    ],
+    "meta": [
+      "~writing/wriiting.md"
+    ]
+  },
+  "shard": {
+    "info": [
+      ".squarkdown/content/frequerys.md",
+      ".squarkdown/content/privacy.md",
+      ".squarkdown/content/synopsis.md"
+    ],
+    "yugioh-archetypes": [
+      "Yu-Gi-Oh!/archetypes/Rubic.md"
+    ],
+    "yugioh": [
+      "Yu-Gi-Oh!/archetypes/Rubic.md"
+    ],
+    "#indxe": [
+      "~poetry/Nameless.md"
+    ],
+    "sad": [
+      "~poetry/Nameless.md"
+    ],
+    "poetry": [
+      "~poetry/The Programmer's Plight.md",
+      "~poetry/fractal fracking.md"
+    ],
+    "dev": [
+      "~poetry/The Programmer's Plight.md"
+    ],
+    "funny": [
+      "~poetry/The Programmer's Plight.md"
+    ],
+    "maths": [
+      "~poetry/fractal fracking.md"
+    ],
+    "writing": [
+      "~writing/wriiting.md"
+    ],
+    "meta": [
+      "~writing/wriiting.md"
+    ]
+  },
   "pages": {
     ".squarkdown/content/frequerys.md": {
       "dest": "frequerys",
