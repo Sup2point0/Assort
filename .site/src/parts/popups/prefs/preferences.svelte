@@ -23,8 +23,11 @@ $: prefs = $popups.prefs;
   <NavPrefs />
 
   <div class="prefs">
-    <Click action="close" store={$popups.prefs}
-      style:float="right" />
+    <div style:float="right">
+      <Click action="close" store={$popups.prefs}>
+        X
+      </Click>
+    </div>
 
   {#if prefs.page == "text"}
     <!-- <PrefsText /> -->
