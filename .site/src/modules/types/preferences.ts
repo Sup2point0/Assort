@@ -1,11 +1,7 @@
 import Site from "#src/site";
 
-import { Closable } from "#modules/types";
 
-
-export default class Preferences extends Closable {
-  shown = false;
-  
+export default class Preferences {
   nav = new NavOptions();
   text = new TextOptions();
   cols = new ColsOptions();
