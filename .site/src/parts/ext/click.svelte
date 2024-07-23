@@ -54,5 +54,9 @@ button {
 .deut {
   background-color: $col-back-deut;
 }
+.trit {
+  background: none;
+  border-radius: 100%;
+}
 
 </style>
