@@ -2,13 +2,13 @@
 
 import Click from "#parts/ext/click.svelte";
 
-import { prefs } from "#modules/stores";
+import { popups } from "#modules/stores";
 
 </script>
 
 
 <nav>
-  <Click kind="trit" action="open" store={prefs}>
+  <Click kind="trit" action="open" store={$popups.prefs}>
     #
   </Click>
 

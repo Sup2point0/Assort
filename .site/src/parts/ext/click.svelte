@@ -16,11 +16,11 @@ let callback: MouseEventHandler<HTMLElement>;
 if (action) {
   switch (action) {
     case "open":
-      callback = () => store?.update(data => data.open());
+      callback = () => store.update(data => data.open());
     case "close":
-      callback = () => store?.update(data => data.close());
-    case "change":
-      callback = () => store?.update(data => data.change());
+      callback = () => store.update(data => data.close());
+    // case "change":
+    //   callback = () => store.update(data => data.change());
   }
 } else if (button) {
   callback = button;

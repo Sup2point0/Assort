@@ -6,7 +6,7 @@ import NavLink from "#parts/core/nav.link.svelte";
 import Click from "#parts/ext/click.svelte";
 
 import Site from "#src/site"
-import nav from "#modules/stores/nav";
+import { nav } from "#modules/stores";
 
 
 function redirectRandomPage() {
