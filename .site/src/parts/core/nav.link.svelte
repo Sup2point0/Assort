@@ -71,6 +71,10 @@ a, button {
   border-radius: 0.5rem;
   @include trans-default;
 
+  &.live {
+    color: $blue-sky;
+  }
+
   &:hover {
     cursor: pointer;
     background-color: light-dark(
@@ -93,10 +97,6 @@ a, button {
       rgba(black, 12%),
       rgba(white, 20%),
     );
-  }
-
-  &.live {
-    color: $blue-sky;
   }
 }
 
