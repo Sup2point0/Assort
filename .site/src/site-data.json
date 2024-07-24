@@ -1,5 +1,5 @@
 {
-  "exported": "2024-07-23",
+  "exported": "2024-07-24",
   "index": {
     "info": [
       ".squarkdown/content/frequerys.md",
@@ -10,9 +10,23 @@
       "Yu-Gi-Oh!/archetypes/Rubic.md"
     ],
     "poetry": [
+      "~poetry/Fortisan.md",
+      "~poetry/Heartburn.md",
+      "~poetry/Heavy Crown.md",
+      "~poetry/Lifeless.md",
       "~poetry/Nameless.md",
+      "~poetry/Quantitative Quantitivity.md",
+      "~poetry/Reverie.md",
+      "~poetry/Strive.md",
+      "~poetry/Teardrop.md",
       "~poetry/The Programmer's Plight.md",
-      "~poetry/fractal fracking.md"
+      "~poetry/This.md",
+      "~poetry/Time of the Times.md",
+      "~poetry/Titles.md",
+      "~poetry/What Was This Called Again.md",
+      "~poetry/Wordless.md",
+      "~poetry/fractal fracking.md",
+      "~poetry/readme.md"
     ],
     "dev": [
       "~poetry/The Programmer's Plight.md"
@@ -36,21 +50,62 @@
     "yugioh": [
       "Yu-Gi-Oh!/archetypes/Rubic.md"
     ],
-    "#indxe": [
-      "~poetry/Nameless.md"
+    "poetry": [
+      "~poetry/Fortisan.md",
+      "~poetry/Heartburn.md",
+      "~poetry/Heavy Crown.md",
+      "~poetry/Lifeless.md",
+      "~poetry/Nameless.md",
+      "~poetry/Quantitative Quantitivity.md",
+      "~poetry/Reverie.md",
+      "~poetry/Strive.md",
+      "~poetry/Teardrop.md",
+      "~poetry/The Programmer's Plight.md",
+      "~poetry/This.md",
+      "~poetry/Time of the Times.md",
+      "~poetry/Titles.md",
+      "~poetry/What Was This Called Again.md",
+      "~poetry/Wordless.md",
+      "~poetry/fractal fracking.md",
+      "~poetry/readme.md"
+    ],
+    "melodramatic": [
+      "~poetry/Fortisan.md",
+      "~poetry/Heavy Crown.md",
+      "~poetry/Strive.md"
     ],
     "sad": [
-      "~poetry/Nameless.md"
+      "~poetry/Heartburn.md",
+      "~poetry/Lifeless.md",
+      "~poetry/Nameless.md",
+      "~poetry/Reverie.md",
+      "~poetry/Strive.md"
     ],
-    "poetry": [
-      "~poetry/The Programmer's Plight.md",
-      "~poetry/fractal fracking.md"
+    "ramblings": [
+      "~poetry/Quantitative Quantitivity.md",
+      "~poetry/What Was This Called Again.md"
+    ],
+    "antarctica": [
+      "~poetry/Teardrop.md"
     ],
     "dev": [
       "~poetry/The Programmer's Plight.md"
     ],
     "funny": [
       "~poetry/The Programmer's Plight.md"
+    ],
+    "fantasy": [
+      "~poetry/This.md"
+    ],
+    "monkeyopolis-times": [
+      "~poetry/Time of the Times.md"
+    ],
+    "nerdy": [
+      "~poetry/Titles.md",
+      "~poetry/fractal fracking.md"
+    ],
+    "ramblinhs": [
+      "~poetry/Wordless.md"
     ],
     "maths": [
       "~poetry/fractal fracking.md"
@@ -120,6 +175,66 @@
       ],
       "date": null
     },
+    "~poetry/Fortisan.md": {
+      "dest": "poetry/fortisan",
+      "head": "Fortisan",
+      "capt": null,
+      "title": "Fortisan",
+      "desc": null,
+      "index": [
+        "poetry"
+      ],
+      "shard": [
+        "poetry",
+        "melodramatic"
+      ],
+      "date": "2021-12-01"
+    },
+    "~poetry/Heartburn.md": {
+      "dest": "poetry/heartburn",
+      "head": "Heartburn",
+      "capt": null,
+      "title": "Heartburn",
+      "desc": null,
+      "index": [
+        "poetry"
+      ],
+      "shard": [
+        "poetry",
+        "sad"
+      ],
+      "date": "2024-02-01"
+    },
+    "~poetry/Heavy Crown.md": {
+      "dest": "poetry/heavy-crown",
+      "head": "Heavy Crown",
+      "capt": null,
+      "title": "Heavy Crown",
+      "desc": null,
+      "index": [
+        "poetry"
+      ],
+      "shard": [
+        "poetry",
+        "melodramatic"
+      ],
+      "date": "2021-09-01"
+    },
+    "~poetry/Lifeless.md": {
+      "dest": "poetry/lifeless",
+      "head": "Lifeless",
+      "capt": null,
+      "title": "Lifeless",
+      "desc": null,
+      "index": [
+        "poetry"
+      ],
+      "shard": [
+        "poetry",
+        "sad"
+      ],
+      "date": "2023-04-01"
+    },
     "~poetry/Nameless.md": {
       "dest": "poetry/nameless",
       "head": "Nameless",
@@ -130,10 +245,85 @@
         "poetry"
       ],
       "shard": [
-        "#indxe",
+        "poetry",
         "sad"
       ],
       "date": "2023-05-01"
+    },
+    "~poetry/Perfect.md": {
+      "dest": "poetry/perfect",
+      "head": "Perfect",
+      "capt": null,
+      "title": "Perfect",
+      "desc": null,
+      "index": [
+
+      ],
+      "shard": [
+
+      ],
+      "date": null
+    },
+    "~poetry/Quantitative Quantitivity.md": {
+      "dest": "poetry/quantitative-quantitivity",
+      "head": "Quantitative Quantitivity",
+      "capt": null,
+      "title": "Quantitative Quantitivity",
+      "desc": null,
+      "index": [
+        "poetry"
+      ],
+      "shard": [
+        "poetry",
+        "ramblings"
+      ],
+      "date": "2023-03-01"
+    },
+    "~poetry/Reverie.md": {
+      "dest": "poetry/reverie",
+      "head": "Reverie",
+      "capt": null,
+      "title": "Reverie",
+      "desc": null,
+      "index": [
+        "poetry"
+      ],
+      "shard": [
+        "poetry",
+        "sad"
+      ],
+      "date": "2021-12-01"
+    },
+    "~poetry/Strive.md": {
+      "dest": "poetry/strive",
+      "head": "Strive",
+      "capt": null,
+      "title": "Strive",
+      "desc": null,
+      "index": [
+        "poetry"
+      ],
+      "shard": [
+        "poetry",
+        "sad",
+        "melodramatic"
+      ],
+      "date": "2022-06-01"
+    },
+    "~poetry/Teardrop.md": {
+      "dest": "poetry/teardrop",
+      "head": "Teardrop",
+      "capt": null,
+      "title": "Teardrop",
+      "desc": null,
+      "index": [
+        "poetry"
+      ],
+      "shard": [
+        "poetry",
+        "antarctica"
+      ],
+      "date": "2022-09-01"
     },
     "~poetry/The Programmer's Plight.md": {
       "dest": "poetry/the-programmers-plight",
@@ -152,6 +342,81 @@
       ],
       "date": "2024-07-27"
     },
+    "~poetry/This.md": {
+      "dest": "poetry/this",
+      "head": "This",
+      "capt": null,
+      "title": "This",
+      "desc": null,
+      "index": [
+        "poetry"
+      ],
+      "shard": [
+        "poetry",
+        "fantasy"
+      ],
+      "date": "2021-04-01"
+    },
+    "~poetry/Time of the Times.md": {
+      "dest": "poetry/time-of-the-times",
+      "head": "Time of the Times",
+      "capt": null,
+      "title": "Time of the Times",
+      "desc": null,
+      "index": [
+        "poetry"
+      ],
+      "shard": [
+        "poetry",
+        "monkeyopolis-times"
+      ],
+      "date": "2021-11-01"
+    },
+    "~poetry/Titles.md": {
+      "dest": "poetry/titles",
+      "head": "NO-t ev:ry tiT|e Has2b3 Ide.NticalIy_G1",
+      "capt": null,
+      "title": "NO-t ev:ry tiT|e Has2b3 Ide.NticalIy_G1",
+      "desc": null,
+      "index": [
+        "poetry"
+      ],
+      "shard": [
+        "poetry",
+        "nerdy"
+      ],
+      "date": "2023-04-01"
+    },
+    "~poetry/What Was This Called Again.md": {
+      "dest": "poetry/what-was-this-called-again",
+      "head": "What Was This Called Again?",
+      "capt": null,
+      "title": "What Was This Called Again?",
+      "desc": null,
+      "index": [
+        "poetry"
+      ],
+      "shard": [
+        "poetry",
+        "ramblings"
+      ],
+      "date": "2023-03-01"
+    },
+    "~poetry/Wordless.md": {
+      "dest": "poetry/wordless",
+      "head": "Wordless",
+      "capt": null,
+      "title": "Wordless",
+      "desc": null,
+      "index": [
+        "poetry"
+      ],
+      "shard": [
+        "poetry",
+        "ramblinhs"
+      ],
+      "date": "2023-12-01"
+    },
     "~poetry/fractal fracking.md": {
       "dest": "poetry/fracking",
       "head": "fractal fracking",
@@ -163,9 +428,24 @@
       ],
       "shard": [
         "poetry",
+        "nerdy",
         "maths"
       ],
       "date": "2024-05-28"
+    },
+    "~poetry/readme.md": {
+      "dest": "poetry",
+      "head": "Poetry",
+      "capt": null,
+      "title": "Poetry",
+      "desc": null,
+      "index": [
+        "poetry"
+      ],
+      "shard": [
+        "poetry"
+      ],
+      "date": null
     },
     "~writing/wriiting.md": {
       "dest": "writing/wriiting",
