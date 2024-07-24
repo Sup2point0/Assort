@@ -6,6 +6,7 @@ An individual link in the navigation pane.
 
 import { base } from "$app/paths";
 import type { MouseEventHandler } from "svelte/elements";
+import { browser } from "$app/environment";
 
 export let text: string;
 export let link: string | undefined = undefined;
@@ -15,7 +16,7 @@ export let button: MouseEventHandler<HTMLElement> | undefined = undefined;
 export let hover: string | undefined = undefined;
 
 
-$: live = window.location.pathname.includes(intern);
+$: live = intern && browser && window.location.pathname.includes(intern);
 
 </script>
 
