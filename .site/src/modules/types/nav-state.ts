@@ -1,7 +1,4 @@
-import Closable from "./closable";
-
-
-export default class NavState extends Closable {
+export default class NavState {
   shown = true;
 
   sections = {
