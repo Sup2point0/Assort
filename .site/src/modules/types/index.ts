@@ -1,4 +1,3 @@
-export { default as Closable } from "./closable";
 export { default as NavState } from "./nav-state";
 export { default as Preferences } from "./preferences";
 export { default as PopupsState } from "./popups-state";
