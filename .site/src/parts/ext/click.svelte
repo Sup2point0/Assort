@@ -14,13 +14,13 @@ export let action: "open" | "close" | "change" | undefined = undefined;
 let callback: MouseEventHandler<HTMLElement>;
 
 if (action) {
-  switch (action) {
-    case "open":
-      callback = () => store.update(data => data.open());
-    case "close":
-      callback = () => store.update(data => data.close());
-    // case "change":
-    //   callback = () => store.update(data => data.change());
+  switch (action.toLowerCase()) {
+    case "show":
+      callback = () => store.update(data => data.show());
+    case "hide":
+      callback = () => store.update(data => data.hide());
+    case "change":
+      callback = () => store.update(data => data.change());
   }
 } else if (button) {
   callback = button;
