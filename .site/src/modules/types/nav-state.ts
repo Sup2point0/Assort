@@ -1,4 +1,4 @@
-import { Closable } from "#modules/types";
+import Closable from "./closable";
 
 
 export default class NavState extends Closable {

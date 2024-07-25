@@ -18,7 +18,7 @@ class TextOptions {
 }
 
 class ColsOptions {
-  duality: "light" | "dark" | null = "dark";
+  duality: "light" | "dark" | null = "light";
   palettes = {
     light: "soup",
     dark: "souper",

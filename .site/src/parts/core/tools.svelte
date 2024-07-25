@@ -12,7 +12,7 @@ import { popups } from "#modules/stores";
     #
   </Click>
 
-  <Click kind="trit">
+  <Click kind="trit" button={() => { return }}>
     ^
   </Click>
 </nav>

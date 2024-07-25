@@ -23,7 +23,7 @@ function redirectRandomPage() {
     <section id="top">
       <img alt="Assort" src="{base}/assort-block.png">
 
-      <Click kind="trit" action="close" store={nav}>
+      <Click kind="trit" action="hide" store={nav}>
         <span class="material-symbols-outlined">
           keyboard_double_arrow_left
         </span>
@@ -103,7 +103,7 @@ function redirectRandomPage() {
   </nav>
     
 {:else}
-  <Click kind="trit" action="open" store={nav}>
+  <Click kind="trit" action="show" store={nav}>
     <span class="material-symbols-outlined">
       keyboard_double_arrow_right
     </span>
