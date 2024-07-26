@@ -8,7 +8,10 @@ import { popups } from "#modules/stores";
 
 
 <nav>
-  <Click kind="trit" action="show" getStore={() => $popups.prefs}>
+  <Click kind="trit" button={() => popups.update(data => {
+    data.prefs.shown = true;
+    return data;
+  })}>
     #
   </Click>
 

@@ -14,9 +14,6 @@ import PageFooter from "#parts/page/footer.page.svelte";
 import WindowOverlay from "#parts/popups/window-overlay.svelte";
 import Preferences from "#parts/popups/prefs/preferences.svelte";
 
-
-$: prefs = $popups.prefs;
-
 </script>
 
 
@@ -40,8 +37,8 @@ $: prefs = $popups.prefs;
   <Footer />
 </div>
 
-{#if prefs.shown}
-  <WindowOverlay state={prefs}>
+{#if $popups.prefs.shown}
+  <WindowOverlay exit={() => $popups.prefs.shown = false}>
     <Preferences />
   </WindowOverlay>
 {/if}

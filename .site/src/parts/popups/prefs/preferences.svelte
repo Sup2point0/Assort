@@ -24,7 +24,7 @@ $: prefs = $popups.prefs;
 
   <div class="prefs">
     <div style:float="right">
-      <Click action="close" store={$popups.prefs}>
+      <Click button={() => prefs.shown = false}>
         X
       </Click>
     </div>
@@ -49,7 +49,7 @@ $: prefs = $popups.prefs;
   justify-content: start;
   align-items: stretch;
 
-  background-color: var(--col-back);
+  background-color: var(--col-back, white);
   border-radius: 1rem;
 }
 
