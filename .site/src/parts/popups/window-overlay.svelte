@@ -4,14 +4,18 @@ A blurred overlay across the entire screen for displaying modals or warnings ove
 -->
 
 <script lang="ts">
+  
+import type { MouseEventHandler } from "svelte/elements";
 
-import type { Closable } from "#modules/types";
+export let store: any | undefined = undefined;
+export let exit: MouseEventHandler<HTMLElement> | undefined = undefined;
 
-export let state: Closable;
+
+const callback = exit ?? (() => store.exit());
 
 </script>
 
-<div class="overlay" on:click={$state.close}>
+<div class="overlay" on:click={callback}>
   <slot>
     <p> Uh, something went wrong! Click anywhere to exit... </p>
   </slot>
@@ -20,17 +24,18 @@ export let state: Closable;
 
 <style lang="scss">
 
-.overlay-back {
+.overlay {
   width: 100vw;
   height: 100vh;
   position: fixed;
+  top: 0;
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
 
   background-color: rgba(var(--col-back), 69%);
-  backdrop-filter: blur(8px);
+  backdrop-filter: blur(4px);
 }
 
 </style>

@@ -9,7 +9,6 @@ export let link: string | undefined = undefined;
 export let button: MouseEventHandler<HTMLElement> | undefined = undefined;
 export let action: "show" | "hide" | "change" | undefined = undefined;
   export let store: any = undefined;
-  export let getStore: CallableFunction | undefined = undefined;
 
 
 let callback: MouseEventHandler<HTMLElement>;
@@ -17,19 +16,19 @@ let callback: MouseEventHandler<HTMLElement>;
 if (action) {
   switch (action.toLowerCase()) {
     case "show":
-      callback = () => (getStore ? getStore() : store).update(data => {
+      callback = () => store.update(data => {
         data.shown = true;
         return data;
       });
       break;
     case "hide":
-      callback = () => (getStore ? getStore() : store).update(data => {
+      callback = () => store.update(data => {
         data.shown = false;
         return data;
       });
       break;
     case "change":
-      callback = () => (getStore ? getStore() : store).update(data => {
+      callback = () => store.update(data => {
         data.shown = !data.shown;
         return data;
       });
