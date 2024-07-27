@@ -2,21 +2,25 @@
 
 import Click from "#parts/ext/click.svelte";
 
-import { popups } from "#modules/stores";
+import { prefs, popups } from "#modules/stores";
 
 </script>
 
 
 <nav>
-  <Click kind="trit" button={() => popups.update(data => {
-    data.prefs.shown = true;
-    return data;
-  })}>
+  <Click kind="trit" button={() => $popups.prefs.shown = true}>
     #
   </Click>
 
-  <Click kind="trit" button={() => { return }}>
+  <Click kind="trit" button={() => {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }}>
     ^
+  </Click>
+
+  <Click kind="trit" button={() => $prefs.tools.shown = false}>
+    >
   </Click>
 </nav>
 
