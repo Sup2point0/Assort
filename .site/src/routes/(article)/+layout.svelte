@@ -18,7 +18,7 @@ import Preferences from "#parts/popups/prefs/preferences.svelte";
 
 
 <div id="page" class:frozen={$popups.prefs.shown}>
-  <div id="nav-page-split">
+  <div id="page-split">
     <Nav />
 
     <main>
@@ -47,13 +47,18 @@ import Preferences from "#parts/popups/prefs/preferences.svelte";
 
 <style lang="scss">
 
-#nav-page-split {
-  width: calc(100vw - 20px);  // SCROLLBAR HIDES CONTENT AHHHH
+#page {
+  overflow-x: hidden;
+}
+
+#page-split {
+  width: calc(100vw - 16px);  // SCROLLBAR HIDES CONTENT AHHHH
   margin: 0;
   padding: 0;
   display: flex;
   justify-content: start;
   align-items: stretch;
+  overflow-x: hidden; 
 }
 
 main {
