@@ -30,6 +30,8 @@ nav {
   flex-direction: column;
   justify-content: space-between;
   align-content: start;
+  overflow: hidden;
+  background-color: green;
 }
 
 </style>

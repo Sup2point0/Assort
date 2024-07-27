@@ -56,7 +56,8 @@ $: prefs = $popups.prefs;
 .prefs {
   width: 100%;
   flex-grow: 1;
-  overflow: scroll;
+  overflow-x: hidden;
+  overflow-y: scroll;
 }
 
 </style>

@@ -23,6 +23,8 @@ export let set: string;
 button {
   background: none;
   border: none;
+
+  @include interactive;
 }
 
 </style>

@@ -25,7 +25,9 @@ import { popups } from "#modules/stores";
 
 nav {
   width: 3rem;
+  margin: 0;
   padding: 0.5rem;
+  flex-grow: 0;
   background-color: var(--col-back);
 }
 
