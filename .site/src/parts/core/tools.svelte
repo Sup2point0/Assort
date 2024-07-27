@@ -4,32 +4,22 @@ import Click from "#parts/ext/click.svelte";
 
 import { prefs, popups } from "#modules/stores";
 
-
-function scrollUp() {
-  document.body.scrollTop += -document.body.scrollTop / 4;
-  document.documentElement.scrollTop += -document.documentElement.scrollTop / 4;
-  if (document.body.scrollTop > 1 || document.documentElement.scrollTop > 1) {
-    window.requestAnimationFrame(scrollUp);
-  }
-}
-
-function scrollTop() {
-  window.requestAnimationFrame(scrollUp);
-}
-
 </script>
 
 
-{#if $prefs.tools.shown}
-  <nav>
-    <section>
+<div
+  id="tool-pane"
+  class:shown={$prefs.tools.shown}
+>
+  <nav class:shown={$prefs.tools.shown}>
+    <section style="top: 0">
       <Click kind="trit" button={() => $popups.prefs.shown = true}>
         #
       </Click>
     </section>
 
-    <section>
-      <Click kind="trit" button={scrollTop}>
+    <section style="bottom: 0">
+      <Click kind="trit" button={() => window.scrollTo({top: 0, behavior: "smooth"})}>
         ^
       </Click>
 
@@ -40,34 +30,68 @@ function scrollTop() {
       </Click>
     </section>
   </nav>
+</div>
 
-{:else}
+<div
+  id="show-tool-pane"
+  class:shown={!$prefs.tools.shown}
+>
   <Click kind="trit" button={() => $prefs.tools.shown = true}>
     <span class="material-symbols-outlined">
       keyboard_double_arrow_left
     </span>
   </Click>
-
-{/if}
+</div>
 
 
 <style lang="scss">
 
-nav {
-  width: 6rem;
+$tool-pane-width: 3rem;
+
+@mixin trans {
+  transition: all 0.2s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+
+#tool-pane, nav {
+  width: 0;
+  &.shown { width: $tool-pane-width; }
   height: 100vh;
   margin: 0;
-  padding: 0.5rem;
-  position: fixed;
-  right: 0;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  padding: 0;
   flex-grow: 0;
   background-color: var(--col-back);
   background-color: grey;
+  @include trans;
 }
 
-section {}
+nav {
+  position: fixed;
+  top: 0;
+  right: -$tool-pane-width;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  &.shown {
+    right: 0;
+  }
+}
+
+section {
+  margin: 0;
+  padding: 0.5rem;
+}
+
+#show-tool-pane {
+  position: fixed;
+  right: -$tool-pane-width;
+  bottom: 0;
+  @include trans;
+
+  &.shown {
+    right: 0;
+  }
+}
 
 </style>
