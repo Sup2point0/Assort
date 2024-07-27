@@ -33,8 +33,6 @@ const callback = exit ?? (() => store.exit());
   justify-content: center;
   align-items: center;
   text-align: center;
-
-  background-color: rgba(var(--col-back), 69%);
   backdrop-filter: blur(4px);
 }
 

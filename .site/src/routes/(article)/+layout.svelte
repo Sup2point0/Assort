@@ -52,7 +52,6 @@ import Preferences from "#parts/popups/prefs/preferences.svelte";
 }
 
 #page-split {
-  width: calc(100vw - 16px);  // SCROLLBAR HIDES CONTENT AHHHH
   margin: 0;
   padding: 0;
   display: flex;
@@ -62,6 +61,7 @@ import Preferences from "#parts/popups/prefs/preferences.svelte";
 }
 
 main {
+  width: 50%;
   padding: 0.5rem 2rem 4rem;
   flex-grow: 2;
   flex-shrink: 1;
