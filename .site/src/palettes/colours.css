@@ -1,10 +1,41 @@
+.soup {
+  --col-prot: blue;
+  --col-deut: red;
+
+  --col-focus: cyan;
+
+  --col-text: white;
+    --col-text-prot: white;
+    --col-text-deut: white;
+    --col-text-trit: white;
+    --col-text-bold: white;
+    --col-text-select: white;
+
+  --col-back: white;
+    --col-back-prot: grey;
+    --col-back-deut: grey;
+    --col-back-trit: grey;
+
+  --col-line: grey;
+    --col-line-prot: "";
+    --col-line-deut: "";
+
+  --col-link: #ff0090;
+    --col-link-hover: "";
+    --col-link-click: "";
+
+  --col-card: "";
+    --col-card-hover: "";
+    --col-card-click: ""
+}
+
 .souper {
-  --col-prot: #blue;
-  --col-deut: #red;
+  --col-prot: blue;
+  --col-deut: red;
 
-  --col-focus: #cyan;
+  --col-focus: cyan;
 
-  --col-text: #white;
+  --col-text: white;
     --col-text-prot: white;
     --col-text-deut: white;
     --col-text-trit: white;

@@ -115,17 +115,14 @@ function redirectRandomPage() {
 <style lang="scss">
 
 nav {
-  width: max(12rem, 12vw);
   min-width: max(12rem, 12vw);
-  max-width: max(12rem, 12vw);
   min-height: 100vh;
   margin: 0;
   padding: 0.5rem 0.25rem;
+  flex-grow: 0;
 
   background-color: $col-back-deut;
   @include line(1.5px, "right");
-  // overflow: hidden;
-  // resize: horizontal;
 }
 
 section {
