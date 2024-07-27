@@ -13,25 +13,22 @@ import NavPrefs from "./nav.prefs.svelte";
 
 import { popups } from "#modules/stores";
 
-
-$: prefs = $popups.prefs;
-
 </script>
 
 
-<div class="popup">
+<div class="popup" on:click={event => {event.stopPropagation()}}>
   <NavPrefs />
 
   <div class="prefs">
     <div style:float="right">
-      <Click button={() => prefs.shown = false}>
+      <Click button={() => $popups.prefs.shown = false}>
         X
       </Click>
     </div>
 
-  {#if prefs.page == "text"}
+  {#if $popups.prefs.page == "text"}
     <!-- <PrefsText /> -->
-  {:else if prefs.page == "cols"}
+  {:else if $popups.prefs.page == "cols"}
     <!-- <PrefsCols /> -->
   {:else}
   {/if}
