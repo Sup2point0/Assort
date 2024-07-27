@@ -6,7 +6,7 @@ import NavLink from "#parts/core/nav.link.svelte";
 import Click from "#parts/ext/click.svelte";
 
 import Site from "#src/site"
-import { nav } from "#modules/stores";
+import { prefs } from "#modules/stores";
 
 
 function redirectRandomPage() {
@@ -18,12 +18,12 @@ function redirectRandomPage() {
 </script>
 
 
-{#if $nav.shown}
+{#if $prefs.nav.shown}
   <nav>
     <section id="top">
       <img alt="Assort" src="{base}/assort-block.png">
 
-      <Click kind="trit" action="hide" store={nav}>
+      <Click kind="trit" button={() => $prefs.nav.shown = false}>
         <span class="material-symbols-outlined">
           keyboard_double_arrow_left
         </span>
@@ -103,7 +103,7 @@ function redirectRandomPage() {
   </nav>
     
 {:else}
-  <Click kind="trit" action="show" store={nav}>
+  <Click kind="trit" button={() => $prefs.nav.shown = true}>
     <span class="material-symbols-outlined">
       keyboard_double_arrow_right
     </span>

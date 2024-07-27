@@ -3,13 +3,19 @@ import Site from "#src/site";
 
 export default class Preferences {
   nav = new NavOptions();
+  tools = new ToolsOptions();
   text = new TextOptions();
   cols = new ColsOptions();
   accessibility = new AccessOptions();
 };
 
 class NavOptions {
+  shown = true;
   "open-immersive" = true;
+}
+
+class ToolsOptions {
+  shown = true;
 }
 
 class TextOptions {
