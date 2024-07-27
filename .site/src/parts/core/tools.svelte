@@ -24,11 +24,13 @@ import { popups } from "#modules/stores";
 <style lang="scss">
 
 nav {
-  width: 3rem;
+  width: 6rem;
+  height: 100vh;
   margin: 0;
   padding: 0.5rem;
   flex-grow: 0;
   background-color: var(--col-back);
+  background-color: grey;
 }
 
 nav > * {}
