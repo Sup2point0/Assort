@@ -51,7 +51,7 @@ import GitHubIcon from "#parts/misc/github-icon.svelte";
 p {
   margin: 0.2rem 0;
   @include font-ui;
-  color: $col-text-deut;
+  color: var(--col-text-deut);
 }
 
 footer {
@@ -64,7 +64,7 @@ footer {
   align-items: start;
 
   background-color: lightgrey;
-  background-color: $col-back-deut;
+  background-color: var(--col-back-deut);
 
   .left { text-align: left; }
   .right { text-align: right; }

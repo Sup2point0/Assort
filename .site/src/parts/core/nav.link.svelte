@@ -64,39 +64,38 @@ a, button {
   @include font-ui;
   font-weight: 360;
   font-size: 100%;
-  color: $col-text-deut;
+  color: var(--col-text-deut);
   text-align: left;
 
   background-color: transparent;
   border-radius: 0.5rem;
   @include trans-default;
 
+  @include focus-outline;
+  @include interactive(
+    light-dark(
+      rgba(black, 8%),
+      rgba(white, 10%)
+    ),
+    light-dark(
+      rgba(black, 12%),
+      rgba(white, 20%)
+    )
+  );
+
   &.live {
-    color: $blue-sky;
+    color: var(--col-deut);
   }
 
   &:hover {
     cursor: pointer;
-    background-color: light-dark(
-      rgba(black, 8%),
-      rgba(white, 10%),
-    );
-
     &, &:focus {
-      color: $pink-elec;
+      color: var(--col-link);
     }
-  }
-
-  &:focus:not(:active) {
-    outline: 1.5px solid rgba($blue-sky, 69%);
   }
 
   &:active {
     color: light-dark($purp-nova, $teal-elec);
-    background-color: light-dark(
-      rgba(black, 12%),
-      rgba(white, 20%),
-    );
   }
 }
 
@@ -132,7 +131,7 @@ a, button {
 }
 
 a[href$="sup"] {
-  color: $col-back-deut;
+  color: var(--col-back-deut);
 }
 
 </style>

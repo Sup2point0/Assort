@@ -52,7 +52,7 @@ h1 {
   margin: 1rem 0 0;
   @include font-head;
   font-size: 300%;
-  color: $col-text;
+  color: var(--col-text);
 }
 
 p#capt {
@@ -61,7 +61,7 @@ p#capt {
   @include font-head;
   font-weight: 350;
   font-size: 150%;
-  color: $col-text-deut;
+  color: var(--col-text-deut);
 }
 
 #shards {

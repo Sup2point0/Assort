@@ -5,17 +5,12 @@
 
 $link: ':where(a:not(:has(img)))';
 
-$col-link: light-dark($blue-nova, $blue-cresc);
-  $col-link-hover: light-dark($pink-elec, $pink-elec);
-$col-link-visit: light-dark($purp-nova, $lilac-cresc);
-$col-link-active: light-dark($purp-nova, $teal-elec);
-
 
 #{$link} {
   text-decoration: none;
   display: inline-block;
   position: relative;
-  color: $col-link;
+  color: var(--col-link);
   @include trans-default;
 
   &:after {
@@ -25,14 +20,14 @@ $col-link-active: light-dark($purp-nova, $teal-elec);
     left: 0;
     width: 100%;
     height: 1px;
-    background-color: $col-link-hover;
+    background-color: var(--col-link-hover);
     transform: scaleX(0);
     transform-origin: right;
     transition: transform 0.12s ease-out;
   }
 
   &:hover {
-    color: $col-link-hover;
+    color: var(--col-link-hover);
 
     &:after {
       transform: scaleX(1);
@@ -41,14 +36,14 @@ $col-link-active: light-dark($purp-nova, $teal-elec);
   }
 
   &:active {
-    color: $col-link-active;
+    color: var(--col-link-click);
 
     &:after {
-      background-color: $col-link-active
+      background-color: var(--col-link-click)
     }
   }
 }
 
 #{$link}:visited:not(:hover, :focus, :active) {
-  color: $col-link-visit;
+  color: var(--col-link-visit);
 }

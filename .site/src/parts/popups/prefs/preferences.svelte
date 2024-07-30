@@ -16,7 +16,7 @@ import { popups } from "#modules/stores";
 </script>
 
 
-<div class="popup" on:click={event => {event.stopPropagation()}}>
+<div class="popup" on:click={event => event.stopPropagation()}>
   <NavPrefs />
 
   <div class="prefs">
@@ -46,7 +46,7 @@ import { popups } from "#modules/stores";
   justify-content: start;
   align-items: stretch;
 
-  background-color: var(--col-back, white);
+  background-color: var(--col-back);
   border-radius: 1rem;
 }
 

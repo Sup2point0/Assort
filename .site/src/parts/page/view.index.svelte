@@ -72,8 +72,8 @@ td, th {
   margin: 0;
   padding: 1em 0.5em;
   @include font-body;
-  color: $col-text;
-  border-bottom: 1.25px solid $col-line;
+  color: var(--col-text);
+  border-bottom: 1.25px solid var(--col-line);
 }
 
 th {
@@ -96,7 +96,7 @@ td {
 }
 
 .divider {
-  color: $col-text-trit;
+  color: var(--col-text-trit);
 
   .last ~ & {
     display: none;
@@ -110,7 +110,7 @@ td {
   font-size: 125%;
   color: white;
   text-align: center;
-  background-color: $col-accent;
+  background-color: var(--col-prot);
   border: none;
 }
 

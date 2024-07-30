@@ -8,6 +8,11 @@
 @use './src/styles/links' as *;
 
 
+body {
+  background-color: var(--col-back);
+}
+
+
 h2,h3,h4,h5 {
   @include font-head;
 }
@@ -18,7 +23,7 @@ h2 {
   padding: 0 0 0.25em;
   font-weight: 400;
   font-size: 200%;
-  color: $blue-ocean;
+  color: var(--col-head-deut);
   @include line(1.5px);
 
   // &:not(:has(p)) {
@@ -35,14 +40,14 @@ h3 {
   margin: 1.5em 0 0.75em;
   font-weight: 350;
   font-size: 150%;
-  color: $blue-deep;
+  color: var(--col-head-trit);
 }
 
 p {
   margin: 1em 0;
   @include font-body;
   font-weight: 400;
-  color: $col-text;
+  color: var(--col-text);
   line-height: 150%;
 }
 
@@ -68,7 +73,7 @@ ul {
 li {
   @include font-body;
   line-height: 150%;
-  color: $col-text;
+  color: var(--col-text);
 
   &:has(ul) {
     margin: 0.5em 0;
@@ -85,18 +90,18 @@ td, th {
   min-width: 5em;
   margin: 0;
   padding: 0.25em 0.5em;
-  border: 1.25px solid $col-line;
+  border: 1.25px solid var(--col-line);
 }
 
 th {
   @include font-head;
-  color: $col-text-prot;
+  color: var(--col-text-prot);
 }
 
 td {
   @include font-body;
   font-weight: 400;
-  color: $col-text;
+  color: var(--col-text);
 }
 
 th {
@@ -112,7 +117,7 @@ blockquote {
   @include line("left", 2px);
 
   p {
-    color: $col-text-deut;
+    color: var(--col-text-deut);
   }
 }
 
@@ -143,10 +148,13 @@ summary {
   max-width: 10em;
   margin-top: 1rem;
   padding: 0.25em 0.5em;
-  color: $col-text;
+  color: var(--col-text);
   vertical-align: middle;
   border-radius: 0.5em;
-  @include interactive;
+  @include interactive(
+    var(--col-back-deut),
+    var(--col-back-deut)
+  );
 
   &::marker {
     margin: 0;
@@ -161,5 +169,5 @@ summary {
 
 
 .highlight {
-  color: $col-text-prot;
+  color: var(--col-text-prot);
 }

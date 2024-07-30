@@ -3,14 +3,14 @@
 
 @mixin line($thickness, $direction: none) {
   @if ($direction == "left") {
-    border-left: $thickness solid $col-line;
+    border-left: $thickness solid var(--col-line);
   } @else if ($direction == "right") {
-    border-right: $thickness solid $col-line;
+    border-right: $thickness solid var(--col-line);
   } @else {
-    border-bottom: $thickness solid $col-line;
+    border-bottom: $thickness solid var(--col-line);
   }
 }
 
 @mixin right-line($thickness) {
-  border-right: $thickness solid $col-line;
+  border-right: $thickness solid var(--col-line);
 }

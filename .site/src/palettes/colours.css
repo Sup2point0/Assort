@@ -1,5 +1,5 @@
 .soup {
-  --col-prot: blue;
+  --col-prot: #ff6900;
   --col-deut: red;
 
   --col-focus: cyan;
@@ -29,9 +29,9 @@
     --col-card-click: ""
 }
 
-.souper {
-  --col-prot: blue;
-  --col-deut: red;
+.ignite {
+  --col-prot: oklch(69.96% 0.20 44.44);
+  --col-deut: oklch(86.44% 0.177 93.53);
 
   --col-focus: cyan;
 
@@ -42,17 +42,21 @@
     --col-text-bold: white;
     --col-text-select: white;
 
-  --col-back: black;
-    --col-back-prot: grey;
-    --col-back-deut: grey;
-    --col-back-trit: grey;
+  --col-head-prot: var(--col-prot);
+    --col-head-deut: var(--col-prot);
+    --col-head-trit: var(--col-prot);
+
+  --col-back: oklch(10% 0 0);
+    --col-back-prot: oklch(10% 0 0);
+    --col-back-deut: oklch(20% 0 0);
+    --col-back-trit: oklch(30% 0 0);
 
   --col-line: grey;
     --col-line-prot: "";
     --col-line-deut: "";
 
-  --col-link: #ff0090;
-    --col-link-hover: "";
+  --col-link: oklch(86.44% 0.177 93.53);
+    --col-link-hover: oklch(75.78% 0.1634 70.24);
     --col-link-click: "";
 
   --col-card: "";

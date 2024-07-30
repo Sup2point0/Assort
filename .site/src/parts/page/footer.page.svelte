@@ -22,7 +22,7 @@ import { page } from "$app/stores";
 p {
   @include font-ui;
   font-size: 80%;
-  color: $col-text-deut;
+  color: var(--col-text-deut);
 }
 
 footer {

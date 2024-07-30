@@ -58,6 +58,9 @@ if (action) {
 
 <style lang="scss">
 
+@use 'sass:color';
+
+
 a, button {
   width: 2rem;
   height: 2rem;
@@ -66,22 +69,34 @@ a, button {
   align-items: center;
   background: none;
   border: none;
-  @include interactive;
-
-  &:hover {
-    background-color: grey;
-  }
 }
 
 .prot {
-  background-color: $col-accent;
+  background-color: var(--col-prot);
+
+  @include interactive(
+    var(--col-deut),
+    var(--col-deut)
+  );
 }
+
 .deut {
-  background-color: $col-back-deut;
+  background-color: var(--col-back-deut);
+
+  @include interactive(
+    var(--col-back-deut),
+    var(--col-back-deut)
+  );
 }
+
 .trit {
   background: none;
   border-radius: 100%;
+
+  @include interactive(
+    light-dark(rgba(black, 20%), rgba(white, 20%)),
+    light-dark(rgba(black, 30%), rgba(white, 30%))
+  );
 }
 
 </style>

@@ -37,25 +37,25 @@ a.result-card {
   @include trans-default;
 
   @include interactive(
-    $col-back-prot,
-    (42%, 69%, 88%)
+    var(--col-card),
+    var(--col-card)
   );
 }
 
 h4 {
   @include font-head;
   font-size: 150%;
-  color: $col-text-prot;
+  color: var(--col-text-prot);
 }
 
 h4 + p.caption {
   @include font-body;
   font-size: 125%;
-  color: $col-text-deut;
+  color: var(--col-text-deut);
 }
 
 p {
-  color: $col-text-deut;
+  color: var(--col-text-deut);
   font-size: 100%;
 }
 

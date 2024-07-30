@@ -6,24 +6,20 @@
 
 @mixin focus-outline {
   &:focus:not(:active) {
-    outline: 1.5px solid $col-focus;
+    outline: 1.5px solid var(--col-focus);
   }
 }
 
-@mixin interactive(
-  $col: #f2f2f2,
-  $values: (42%, 69%, 88%),
-  $focus: true
-) {
+@mixin interactive($hover, $click) {
   @include trans-default;
 
   &:hover {
-    background-color: $col-back-hover;
+    background-color: $hover;
     cursor: pointer;
   }
 
   &:active {
-    background-color: $col-back-active;
+    background-color: $click;
     cursor: pointer;
   }
 }

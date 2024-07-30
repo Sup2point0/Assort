@@ -121,7 +121,7 @@ nav {
   padding: 0.5rem 0.25rem;
   flex-grow: 0;
 
-  background-color: $col-back-deut;
+  background-color: var(--col-back-deut);
   @include line(1.5px, "right");
 }
 
@@ -149,9 +149,9 @@ h2 {
   @include font-ui;
   font-size: 120%;
   font-weight: 420;
-  color: $col-text;
+  color: var(--col-text);
   
-  border-bottom: 1.5px solid $col-accent;
+  border-bottom: 1.5px solid var(--col-prot);
 }
 
 </style>
