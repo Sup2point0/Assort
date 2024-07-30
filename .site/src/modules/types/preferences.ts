@@ -27,7 +27,7 @@ class ColsOptions {
   duality: "light" | "dark" | null = "dark";
   palettes = {
     light: "soup",
-    dark: "souper",
+    dark: "ignite",
   };
   "dual-palettes" = true;
 }

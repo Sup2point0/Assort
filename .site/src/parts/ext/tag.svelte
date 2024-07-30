@@ -46,7 +46,6 @@ const colour = "#" + col;
   text-decoration: none;
   background-color: var(--col);
   border-radius: 0.5em;
-  @include interactive()
 }
 
 </style>

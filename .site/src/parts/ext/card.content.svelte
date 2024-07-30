@@ -57,13 +57,13 @@ a {
   text-align: left;
   text-decoration: none;
   &.right { text-align: right; }
-  background-color: $col-back;
+  background-color: var(--col-card);
   border-radius: 1rem;
 
   @include trans-default;
 
   &:hover {
-    background-color: $col-back-deut;
+    background-color: var(--col-back-deut);
   }
 
   @include focus-outline;
@@ -73,7 +73,7 @@ h4 {
   margin: 0;
   @include font-ui;
   font-size: 125%;
-  color: var(--col, $col-link);
+  color: var(--col-link);
 }
 
 p {

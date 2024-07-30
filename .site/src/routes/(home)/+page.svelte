@@ -67,8 +67,8 @@ h2 {
 
   @include font-head;
   font-size: 200%;
-  color: $col-text-prot;
-  border-bottom: 2px solid $col-back-deut;
+  color: var(--col-text-prot);
+  border-bottom: 2px solid var(--col-back-deut);
 }
 
 
@@ -97,7 +97,7 @@ section {
 p#assort-welcome {
   @include font-hand;
   font-size: 200%;
-  color: $col-text-trit;
+  color: var(--col-text-trit);
 }
 h1#assort {
   @include font-hand;

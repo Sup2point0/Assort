@@ -51,7 +51,7 @@ Idk, people always manage to find new ones.
 <style lang="scss">
 
 h4 {
-  color: $col-text-prot;
+  color: var(--col-text-prot);
 }
 
 </style>

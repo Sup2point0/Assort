@@ -12,7 +12,7 @@ html, body {
   padding: 0;
   font-size: 100%;
   // overflow-x: scroll;
-  background-color: $col-back;
+  background-color: var(--col-back);
 }
 
 
@@ -27,7 +27,7 @@ p {
 
 hr {
   width: 100%;
-  color: $col-back-deut;
+  color: var(--col-back-deut);
 }
 
 

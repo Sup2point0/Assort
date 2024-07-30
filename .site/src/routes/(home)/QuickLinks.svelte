@@ -22,12 +22,14 @@ a {
   padding: 0.25em 0.5em;
 
   @include font-ui;
-  color: $col-link;
+  color: var(--col-link);
   background-color: transparent;
   text-decoration: none;
   @include trans-default;
 
-  @include interactive;
+  @include interactive(
+    var(--col-back-deut),
+  );
 }
 
 </style>

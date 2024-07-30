@@ -24,7 +24,10 @@ button {
   background: none;
   border: none;
 
-  @include interactive;
+  @include interactive(
+    var(--col-back-deut),
+    var(--col-back-deut)
+  );
 }
 
 </style>
