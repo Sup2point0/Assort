@@ -8,7 +8,7 @@ The overlay for configuring user preferences.
 import Click from "#parts/ext/click.svelte";
 
 import NavPrefs from "./nav.prefs.svelte";
-// import PrefsText from "./prefs.text.svelte";
+import PrefsText from "./prefs.text.svelte";
 // import PrefsCols from "./prefs.cols.svelte";
 
 import { popups } from "#modules/stores";
@@ -26,12 +26,14 @@ import { popups } from "#modules/stores";
       </Click>
     </div>
 
-  {#if $popups.prefs.page == "text"}
-    <!-- <PrefsText /> -->
-  {:else if $popups.prefs.page == "cols"}
-    <!-- <PrefsCols /> -->
-  {:else}
-  {/if}
+    <div class="content">
+      {#if $popups.prefs.page == "text"}
+        <PrefsText />
+      {:else if $popups.prefs.page == "cols"}
+        <!-- <PrefsCols /> -->
+      {:else}
+      {/if}
+    </div>
 
   </div>
 </div>
@@ -46,7 +48,7 @@ import { popups } from "#modules/stores";
   justify-content: start;
   align-items: stretch;
 
-  background-color: var(--col-back);
+  background-color: var(--col-back-deut);
   border-radius: 1rem;
 }
 
@@ -55,6 +57,12 @@ import { popups } from "#modules/stores";
   flex-grow: 1;
   overflow-x: hidden;
   overflow-y: scroll;
+}
+
+.content {
+  padding: 0.5rem 1rem;
+  color: var(--col-text);
+  text-align: left;
 }
 
 </style>
