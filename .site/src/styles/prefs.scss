@@ -1,6 +1,39 @@
 @use './src/styles/links' as *;
+@use './src/styles/mixins/~fonts' as *;
+@use './src/styles/mixins/~interact' as *;
 
 
 input[type="checkbox"] {
   border: 10px solid red;
+}
+
+
+select, option {
+  @include font-ui;
+  font-size: 100%;
+}
+
+select {
+  min-width: 8rem;
+  padding: 0.5em;
+  background-color: var(--col-back-trit);
+  border: none;
+  border-radius: 0.5rem;
+
+  @include focus-outline;
+  @include interactive(
+    var(--col-prot),
+    var(--col-back)
+  );
+}
+
+option {
+  margin: 1rem;
+  padding: 1rem;
+  background-color: var(--col-back-trit);
+  border: none;
+
+  &:checked {
+    background-color: red;
+  }
 }
