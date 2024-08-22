@@ -2,11 +2,12 @@ import Site from "#src/site";
 
 
 export default class Preferences {
+  _version = "2.0";
   nav = new NavOptions();
   tools = new ToolsOptions();
   text = new TextOptions();
   cols = new ColsOptions();
-  accessibility = new AccessOptions();
+  a11y = new A11yOptions();
 };
 
 class NavOptions {
@@ -32,7 +33,7 @@ class ColsOptions {
   "dual-palettes" = true;
 }
 
-class AccessOptions {
-  "anim" = true;
+class A11yOptions {
+  anim = true;
   "underline-links" = false;
 }
