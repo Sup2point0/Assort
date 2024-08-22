@@ -7,9 +7,13 @@ The overlay for configuring user preferences.
 
 import Click from "#parts/ext/click.svelte";
 
-import NavPrefs from "./nav.prefs.svelte";
-import PrefsText from "./prefs.text.svelte";
-// import PrefsCols from "./prefs.cols.svelte";
+import PrefsNav from "./nav.prefs.svelte";
+
+import NavPrefs from "./page/prefs.nav.svelte";
+import ToolsPrefs from "./page/prefs.tools.svelte";
+import TextPrefs from "./page/prefs.text.svelte";
+import ColsPrefs from "./page/prefs.cols.svelte";
+import A11yPrefs from "./page/prefs.a11y.svelte";
 
 import { popups } from "#modules/stores";
 
@@ -17,7 +21,7 @@ import { popups } from "#modules/stores";
 
 
 <div class="popup" on:click={event => event.stopPropagation()}>
-  <NavPrefs />
+  <PrefsNav />
 
   <div class="prefs">
     <div style:float="right">
@@ -27,11 +31,23 @@ import { popups } from "#modules/stores";
     </div>
 
     <div class="content">
-      {#if $popups.prefs.page == "text"}
-        <PrefsText />
+      {#if $popups.prefs.page == "nav"}
+        <h2> Navigation </h2>
+        <NavPrefs />
+      {:else if $popups.prefs.page == "tools"}
+        <h2> Tools </h2>
+        <ToolsPrefs />
+      {:else if $popups.prefs.page == "text"}
+        <h2> Text </h2>
+        <TextPrefs />
       {:else if $popups.prefs.page == "cols"}
-        <!-- <PrefsCols /> -->
+        <h2> Colours </h2>
+        <ColsPrefs />
+      {:else if $popups.prefs.page == "a11y"}
+        <h2> Accessibility </h2>
+        <A11yPrefs />
       {:else}
+        <!-- empty -->
       {/if}
     </div>
 
@@ -60,7 +76,7 @@ import { popups } from "#modules/stores";
 }
 
 .content {
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 2rem;
   color: var(--col-text);
   text-align: left;
 }
