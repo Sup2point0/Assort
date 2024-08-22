@@ -15,6 +15,7 @@ const callback = exit ?? (() => store.exit());
 
 </script>
 
+<!-- TODO add keypress handler -->
 <div class="overlay" on:click={callback}>
   <slot>
     <p> Uh, something went wrong! Click anywhere to exit... </p>
@@ -34,6 +35,16 @@ const callback = exit ?? (() => store.exit());
   align-items: center;
   text-align: center;
   backdrop-filter: blur(4px);
+  // animation: fade;
 }
+
+// @keyframes fade {
+//   from {
+//     backdrop-filter: blur(0px);
+//   }
+//   to {
+//     backdrop-filter: blur(4px);
+//   }
+// }
 
 </style>
