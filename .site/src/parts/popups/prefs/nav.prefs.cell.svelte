@@ -21,8 +21,18 @@ export let set: string;
 <style lang="scss">
 
 button {
+  width: 100%;
+  margin: 0.1rem 0;
+  padding: 0.4em 0 0.4em 1em;
+
+  @include font-ui;
+  font-weight: 360;
+  font-size: 100%;
+  color: var(--col-text);
+  text-align: left;
   background: none;
   border: none;
+  border-radius: 0.5rem;
 
   @include interactive(
     var(--col-back-deut),
