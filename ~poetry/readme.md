@@ -37,8 +37,11 @@ Oh yeah, and yeah no, I’m aware half of them don’t make any sense at all, an
 [Lifeless](Lifeless.md)  
 [Nameless](Nameless.md)  
 [Wordless](Wordless.md)  
+[NO-t ev:ry tiT|e Has2b3 Ide.NticalIy_G1](Titles.md)  
 
 ### 2024
 [Heartburn](Heartburn.md)  
 [fractal fracking](fractal%20fracking.md)  
+[The Programmer's Plight](The%20Programmer's%20Plight.md)  
+[Fractured, Shattered, Hearted](Fractured,%20Shattered,%20Hearted.md)  
 <!-- #SQUARK leave. -->
