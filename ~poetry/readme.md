@@ -44,4 +44,5 @@ Oh yeah, and yeah no, I’m aware half of them don’t make any sense at all, an
 [fractal fracking](fractal%20fracking.md)  
 [The Programmer's Plight](The%20Programmer's%20Plight.md)  
 [Fractured, Shattered, Hearted](Fractured,%20Shattered,%20Hearted.md)  
+[折磨](折磨.md)  
 <!-- #SQUARK leave. -->
