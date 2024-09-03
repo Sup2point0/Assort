@@ -11,6 +11,7 @@
     ],
     "poetry": [
       "~poetry/Fortisan.md",
+      "~poetry/Fractured, Shattered, Hearted.md",
       "~poetry/Heartburn.md",
       "~poetry/Heavy Crown.md",
       "~poetry/Lifeless.md",
@@ -26,7 +27,8 @@
       "~poetry/What Was This Called Again.md",
       "~poetry/Wordless.md",
       "~poetry/fractal fracking.md",
-      "~poetry/readme.md"
+      "~poetry/readme.md",
+      "~poetry/折磨.md"
     ],
     "dev": [
       "~poetry/The Programmer's Plight.md"
@@ -52,6 +54,7 @@
     ],
     "poetry": [
       "~poetry/Fortisan.md",
+      "~poetry/Fractured, Shattered, Hearted.md",
       "~poetry/Heartburn.md",
       "~poetry/Heavy Crown.md",
       "~poetry/Lifeless.md",
@@ -67,14 +70,17 @@
       "~poetry/What Was This Called Again.md",
       "~poetry/Wordless.md",
       "~poetry/fractal fracking.md",
-      "~poetry/readme.md"
+      "~poetry/readme.md",
+      "~poetry/折磨.md"
     ],
     "melodramatic": [
       "~poetry/Fortisan.md",
+      "~poetry/Fractured, Shattered, Hearted.md",
       "~poetry/Heavy Crown.md",
       "~poetry/Strive.md"
     ],
     "sad": [
+      "~poetry/Fractured, Shattered, Hearted.md",
       "~poetry/Heartburn.md",
       "~poetry/Lifeless.md",
       "~poetry/Nameless.md",
@@ -83,7 +89,8 @@
     ],
     "ramblings": [
       "~poetry/Quantitative Quantitivity.md",
-      "~poetry/What Was This Called Again.md"
+      "~poetry/What Was This Called Again.md",
+      "~poetry/Wordless.md"
     ],
     "antarctica": [
       "~poetry/Teardrop.md"
@@ -104,11 +111,11 @@
       "~poetry/Titles.md",
       "~poetry/fractal fracking.md"
     ],
-    "ramblinhs": [
-      "~poetry/Wordless.md"
-    ],
     "maths": [
       "~poetry/fractal fracking.md"
+    ],
+    "chinese": [
+      "~poetry/折磨.md"
     ],
     "writing": [
       "~writing/wriiting.md"
@@ -189,6 +196,22 @@
         "melodramatic"
       ],
       "date": "2021-12-01"
+    },
+    "~poetry/Fractured, Shattered, Hearted.md": {
+      "dest": "poetry/shattered-fractured-hearted",
+      "head": "Shattered, Fractured, Hearted",
+      "capt": null,
+      "title": "Shattered, Fractured, Hearted",
+      "desc": null,
+      "index": [
+        "poetry"
+      ],
+      "shard": [
+        "poetry",
+        "sad",
+        "melodramatic"
+      ],
+      "date": "2024-08-30"
     },
     "~poetry/Heartburn.md": {
       "dest": "poetry/heartburn",
@@ -413,7 +436,7 @@
       ],
       "shard": [
         "poetry",
-        "ramblinhs"
+        "ramblings"
       ],
       "date": "2023-12-01"
     },
@@ -446,6 +469,21 @@
         "poetry"
       ],
       "date": null
+    },
+    "~poetry/折磨.md": {
+      "dest": "poetry/折磨",
+      "head": "折磨",
+      "capt": null,
+      "title": "折磨",
+      "desc": null,
+      "index": [
+        "poetry"
+      ],
+      "shard": [
+        "poetry",
+        "chinese"
+      ],
+      "date": "2024-01-01"
     },
     "~writing/wriiting.md": {
       "dest": "writing/wriiting",
