@@ -7,7 +7,7 @@ const Site = {
   pages: data.pages,
 
   font: "Fira Sans",
-  fonts: ["Segoe UI", "Fira Sans"],
+  fonts: ["Segoe UI", "Noto Sans", "Fira Sans"],
 
   index:
   {
