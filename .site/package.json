@@ -9,7 +9,7 @@
       "prepx": "npm run squarkx && npm run vivid",
       "squark": "cd ../.stranger-quarkdown && rake squark[fonts,scss] && cd ../.site",
         "squarkx": "cd ../.stranger-quarkdown && rake squark[fonts,assets,scss] && cd ../.site",
-      "vivid": "python vividity/export --root=src/palettes css js",
+      "vivid": "python vividity/export --root=src/palettes --css=colours.css css js",
 		"build": "vite build",
       "buildx": "npm run prepx && npm run build",
 		"preview": "vite preview"
