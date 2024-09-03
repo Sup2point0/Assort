@@ -7,3 +7,6 @@
 [submodule ".stranger-quarkdown"]
 	path = .stranger-quarkdown
 	url = https://github.com/Sup2point0/stranger-quarkdown
+[submodule ".site/vividity"]
+	path = .site/vividity
+	url = https://github.com/Sup2point0/vividity
