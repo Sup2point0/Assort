@@ -12,7 +12,7 @@
   ],
   "exclude": [
   ],
-  "dest": ".site/src/routes/(article)",
+  "dest": ".site/src/routes/(article)/(rendered)",
   "if-no-dir": ["warn", "create"],
   
   "file-name": "~content",

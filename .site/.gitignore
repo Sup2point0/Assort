@@ -1,13 +1,13 @@
 # output
 ~content.svx
-(article)/
 
+(rendered)/
 static/
 build/
 
 # internal
-**.env**
 node_modules/
 .svelte-kit/
 
+**.env**
 vite.config.*.timestamp-*
