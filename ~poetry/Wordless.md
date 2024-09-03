@@ -3,7 +3,7 @@
 | dest = poetry/wordless
 | style = poetry
 | index = poetry
-| shard = #INDEX / ramblinhs
+| shard = #INDEX / ramblings
 | date = 2023 December
 -->
 
