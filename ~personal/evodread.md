@@ -16,11 +16,7 @@ It’s not external; your senses are fine, you aren’t numb, the world isn’t 
 
 You try thinking of an event that happened recently, or something that’s been on your mind, and you’re ...detached from it. It’s not like it happened to someone else; it still happened to *you*, but that ‘you’ and the current ‘you’ have been severed apart.
 
-<div align="center">
-
-〔~✦~〕
-
-</div>
+<p align="center">〔~✦~〕</p>
 
 Derealisation and depersonalisation almost describe it, but not quite.
 
@@ -28,11 +24,7 @@ The more I think about it, the worse it gets. Like a cold, you can’t seem to r
 
 Eventually it does. Everything returns to normal, and you can’t even imagine the feeling again.
 
-<div align="center">
-
-〔~✦~〕
-
-</div>
+<p align="center">〔~✦~〕</p>
 
 Who knows when dread comes creeping past your door again.
 
