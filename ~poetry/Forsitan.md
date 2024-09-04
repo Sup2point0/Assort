@@ -4,7 +4,7 @@
 | style = poetry
 | index = poetry
 | shard = #INDEX / melodramatic
-| date = 2021 December
+| date = 2021 December 11
 -->
 
 Look up, a skies untouched,  
@@ -30,4 +30,4 @@ Our time is now.
 <br>
 
 
-(December 2021)
+(11 December 2021)
