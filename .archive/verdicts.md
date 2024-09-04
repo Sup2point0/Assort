@@ -8,3 +8,9 @@ A perfectly balanced median between the McLaren S1 Formula and the Lamborghini D
 
 ### *Lamborghini Diamante*
 Nimble, agile, and exhilarating to drive, the Lamborghini Diamante is the ultimate multiplayer car.
+
+
+<br>
+
+
+(archived from Notes on iPhone 5s, created 4 November 2021)
