@@ -1,6 +1,6 @@
 # Skyscrapers
 
-{...}
+A collection of really awesome Skyscrapers puzzles.
 
 
 <br>

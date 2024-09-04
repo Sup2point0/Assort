@@ -1,6 +1,6 @@
 # Supnautic
 
-An archetype of WATER and EARTH Monsters with various Types.
+An archetype of WATER and EARTH Monsters with various Types, harnessing Flip, Tribute, Ritual, and Fusion Summoning. (Notably, these were the earliest Summoning techniques introduced to *Yu-Gi-Oh*.) It has a multitude of playstyles and gimmicks, including changing battle positions, Setting cards, weak swarming and more, overall focusing on reconciling traditional mechanics with modern pacing and power level.
 
 
 <br>
