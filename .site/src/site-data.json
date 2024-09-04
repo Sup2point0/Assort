@@ -1,5 +1,5 @@
 {
-  "exported": "2024-09-03",
+  "exported": "2024-09-04",
   "index": {
     "info": [
       ".squarkdown/content/frequerys.md",
@@ -10,7 +10,7 @@
       "Yu-Gi-Oh!/archetypes/Rubic.md"
     ],
     "poetry": [
-      "~poetry/Fortisan.md",
+      "~poetry/Forsitan.md",
       "~poetry/Fractured, Shattered, Hearted.md",
       "~poetry/Heartburn.md",
       "~poetry/Heavy Crown.md",
@@ -53,7 +53,7 @@
       "Yu-Gi-Oh!/archetypes/Rubic.md"
     ],
     "poetry": [
-      "~poetry/Fortisan.md",
+      "~poetry/Forsitan.md",
       "~poetry/Fractured, Shattered, Hearted.md",
       "~poetry/Heartburn.md",
       "~poetry/Heavy Crown.md",
@@ -74,7 +74,7 @@
       "~poetry/折磨.md"
     ],
     "melodramatic": [
-      "~poetry/Fortisan.md",
+      "~poetry/Forsitan.md",
       "~poetry/Fractured, Shattered, Hearted.md",
       "~poetry/Heavy Crown.md",
       "~poetry/Strive.md"
@@ -182,11 +182,11 @@
       ],
       "date": null
     },
-    "~poetry/Fortisan.md": {
-      "dest": "poetry/fortisan",
-      "head": "Fortisan",
+    "~poetry/Forsitan.md": {
+      "dest": "poetry/forsitan",
+      "head": "Forsitan",
       "capt": null,
-      "title": "Fortisan",
+      "title": "Forsitan",
       "desc": null,
       "index": [
         "poetry"
