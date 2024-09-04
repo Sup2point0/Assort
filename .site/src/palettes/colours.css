@@ -7,8 +7,8 @@
   --col-deut: oklch(86.44% 0.177 93.53);
   --col-focus: cyan;
   --col-text: white;
-  --col-text-prot: white;
-  --col-text-deut: white;
+  --col-text-prot: oklch(89.96% 0.10 60);
+  --col-text-deut: oklch(70% 0 0);
   --col-text-trit: white;
   --col-text-bold: white;
   --col-back: oklch(10% 0 0);
@@ -31,22 +31,22 @@
  * Light colours for the Assort site
  */
 .soup {
-  --col-prot: ;
-  --col-deut: ;
+  --col-prot: #4090f1;
+  --col-deut: #ff0090;
   --col-focus: ;
-  --col-text: ;
-  --col-text-prot: ;
-  --col-text-deut: ;
+  --col-text: oklch(1% 0 0);
+  --col-text-prot: #204080;
+  --col-text-deut: oklch(60% 0.0434 269.73);
   --col-text-trit: ;
   --col-text-bold: ;
-  --col-back: ;
+  --col-back: oklch(97.5% 0.006 269.73);
   --col-back-prot: ;
-  --col-back-deut: ;
+  --col-back-deut: oklch(94.5% 0.006 269.73);
   --col-back-trit: ;
-  --col-line: ;
+  --col-line: oklch(75% 0.006 269.73);
   --col-line-prot: ;
   --col-line-deut: ;
-  --col-link: ;
+  --col-link: #2070c1;
   --col-link-hover: ;
   --col-link-click: ;
   --col-card: ;
