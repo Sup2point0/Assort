@@ -1,15 +1,13 @@
-# Emotics
-<!-- #QUARK live!
-  EXPORT: emotics
-  STYLE: personal
-  DUALITY: dark
-  INDEX: personal lists
-  SHARD: auto
+# Emoticons
+<!-- #SQUARK live!
+| export = self/emoticons
+| desc = A collection of all the emoticons I use!
+| style = personal
+| index = personal / lists
+| shard = #INDEX
 -->
 
-<!-- #QUARK synopsis? -->
 I love emoticons – that’s what I’m calling these (: text faces :) – since they work on any platform (regardless of emoji support) and blend in really nicely with the text (which emojis really don’t). I like the consistency, I suppose :v
-<!-- #QUARK synopsis. -->
 
 
 <br>
@@ -21,9 +19,9 @@ My take on standard emotes.
 
 | emoticon | canonical identifier | instance | comments |
 | :------- | :------------------- | :------- | :------- |
-| =) | smiley I like it =) | | Smiley faces look way nicer with the long `=` eyes than barely-visible `:` dots. Fight me. |
+| =) | smiley | I like it =) | | Smiley faces look way nicer with the long `=` eyes than barely-visible `:` dots. Fight me. |
 | :D | happy-yay | that’s awesome dude :D | |
-| D: | actual-sadness awww man D: | | THIS IS SO SAD WHY IS IT SO SAD WAHHHHH |
+| D: | actual-sadness | awww man D: | | THIS IS SO SAD WHY IS IT SO SAD WAHHHHH |
 | ;) | winky-wink | you bet ;) | |
 | :o | shock | you can’t be saying that :o | |
 | :0 | shock-woah | no way you just said that :0 | |
@@ -52,16 +50,18 @@ The quirky ones I like to use.
 | ^w^   | AWW | sooo cuuute ^w^ | |
 | TvT   | WAH | I can’t do this TvT | |
 | TwT   | WAHAH | what do you mean TwT | |
-| o.0   | - | | It’s April 1st o.0 | Often used in isolation. |
-| 0.o   | - | | What’s the day again 0.o | |  Used for balancing purposes. |
+| o.0   | - | It’s April 1st o.0 | Often used in isolation. |
+| 0.o   | - | What’s the day again 0.o | |  Used for balancing purposes. |
 | 0.0   | - | | | Something’s gone really wrong. |
-| ~o.0~ | - | | | |
-| ~0.o~ | - | | | Rarity. |
-| 0v0   | - | | | | |
-| >.>   | - | | | | |
-| <.<   | - | | | | |
+| \~o.0~ | - | | | |
+| \~0.o~ | - | | | Rarity. |
+| 0v0   | bird | | |
+| >.>   | - | | |
+| <.<   | - | | |
 | >.<   | panic-kawaii | | |
-| ._.   | cri | | | | 
+| @.@   | woozy | I’ve got so much homework @.@ | |
+| #_#   | dazed | what even am I looking at #_# | |
+| ._.   | cri | | |
 | ;-;   | depression | | |
 | X_X   | unalive | |
 
