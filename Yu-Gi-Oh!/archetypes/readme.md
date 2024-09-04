@@ -17,10 +17,16 @@ So, here are all the archetypes of custom cards I’ve created – although this
 Antarctic  
 [Antarctron](Antarctron.md)  
 Affectis  
+Aquily  
+&emsp; Aquilyra  
+&emsp; Aquilynx  
 Arachnis  
+Aversus
+AVERTRON  
 [Battle Sheep](Battle%20Sheep.md)  
 [**Darquess**](Darquess.md)  
 [Dead-Eyes](Dead-Eyes.md)  
+Deaden  
 Dragmatika  
 [Dystopia](Dystopia.md)  
 Ephemeral  
@@ -55,6 +61,9 @@ Manifestation
 &emsp; Next-Gen Processlayer  
 &emsp; Next-Gen Raidraptor  
 [Ninjato](Ninjato.md)  
+Ominous  
+Overthink  
+Quaternion  
 Quick  
 [**Rubic**](Rubic.md)  
 [Shadow](Shadow.md)  
@@ -83,8 +92,10 @@ Spiritual
 &emsp; Walker  
 [The Specialists](The%20Specialists.md)  
 [**Vapour-Eyes**](Vapour-Eyes.md)  
+Viral  
 [Virus](Virus.md)  
 [World Affinity](World%20Affinity.md)  
+Xanadium  
 YNQ  
 &emsp; LYNQ /  
 &emsp; SYNQ /  
