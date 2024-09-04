@@ -1,6 +1,6 @@
-# Fortisan
+# Forsitan
 <!-- #SQUARK live!
-| dest = poetry/fortisan
+| dest = poetry/forsitan
 | style = poetry
 | index = poetry
 | shard = #INDEX / melodramatic
