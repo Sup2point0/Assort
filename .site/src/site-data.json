@@ -137,7 +137,8 @@
       "shard": [
         "info"
       ],
-      "date": null
+      "date": null,
+      "date_display": null
     },
     ".squarkdown/content/privacy.md": {
       "dest": "privacy",
@@ -151,7 +152,8 @@
       "shard": [
         "info"
       ],
-      "date": null
+      "date": null,
+      "date_display": null
     },
     ".squarkdown/content/synopsis.md": {
       "dest": "synopsis",
@@ -165,7 +167,8 @@
       "shard": [
         "info"
       ],
-      "date": null
+      "date": null,
+      "date_display": null
     },
     "Yu-Gi-Oh!/archetypes/Rubic.md": {
       "dest": "yugioh/archetypes/rubic",
@@ -180,7 +183,8 @@
         "yugioh-archetypes",
         "yugioh"
       ],
-      "date": null
+      "date": null,
+      "date_display": null
     },
     "~poetry/Forsitan.md": {
       "dest": "poetry/forsitan",
@@ -195,7 +199,8 @@
         "poetry",
         "melodramatic"
       ],
-      "date": "2021-12-11"
+      "date": "2021-12-11",
+      "date_display": "2021 December 11"
     },
     "~poetry/Fractured, Shattered, Hearted.md": {
       "dest": "poetry/shattered-fractured-hearted",
@@ -211,7 +216,8 @@
         "sad",
         "melodramatic"
       ],
-      "date": "2024-08-30"
+      "date": "2024-08-30",
+      "date_display": "2024 August 30"
     },
     "~poetry/Heartburn.md": {
       "dest": "poetry/heartburn",
@@ -226,7 +232,8 @@
         "poetry",
         "sad"
       ],
-      "date": "2024-02-01"
+      "date": "2024-02-01",
+      "date_display": "2024 February"
     },
     "~poetry/Heavy Crown.md": {
       "dest": "poetry/heavy-crown",
@@ -241,7 +248,8 @@
         "poetry",
         "melodramatic"
       ],
-      "date": "2021-09-01"
+      "date": "2021-09-01",
+      "date_display": "2021 September"
     },
     "~poetry/Lifeless.md": {
       "dest": "poetry/lifeless",
@@ -256,7 +264,8 @@
         "poetry",
         "sad"
       ],
-      "date": "2023-04-01"
+      "date": "2023-04-01",
+      "date_display": "2023 April"
     },
     "~poetry/Nameless.md": {
       "dest": "poetry/nameless",
@@ -271,7 +280,8 @@
         "poetry",
         "sad"
       ],
-      "date": "2023-05-01"
+      "date": "2023-05-01",
+      "date_display": "2023 May"
     },
     "~poetry/Perfect.md": {
       "dest": "poetry/perfect",
@@ -285,7 +295,8 @@
       "shard": [
 
       ],
-      "date": null
+      "date": null,
+      "date_display": null
     },
     "~poetry/Quantitative Quantitivity.md": {
       "dest": "poetry/quantitative-quantitivity",
@@ -300,7 +311,8 @@
         "poetry",
         "ramblings"
       ],
-      "date": "2023-03-01"
+      "date": "2023-03-01",
+      "date_display": "2023 March"
     },
     "~poetry/Reverie.md": {
       "dest": "poetry/reverie",
@@ -315,7 +327,8 @@
         "poetry",
         "sad"
       ],
-      "date": "2021-12-01"
+      "date": "2021-12-01",
+      "date_display": "2021 December"
     },
     "~poetry/Strive.md": {
       "dest": "poetry/strive",
@@ -331,7 +344,8 @@
         "sad",
         "melodramatic"
       ],
-      "date": "2022-06-01"
+      "date": "2022-06-01",
+      "date_display": "2022 June"
     },
     "~poetry/Teardrop.md": {
       "dest": "poetry/teardrop",
@@ -346,7 +360,8 @@
         "poetry",
         "antarctica"
       ],
-      "date": "2022-09-01"
+      "date": "2022-09-01",
+      "date_display": "2022 September"
     },
     "~poetry/The Programmer's Plight.md": {
       "dest": "poetry/the-programmers-plight",
@@ -363,7 +378,8 @@
         "dev",
         "funny"
       ],
-      "date": "2024-07-27"
+      "date": "2024-07-27",
+      "date_display": "2024 July 27"
     },
     "~poetry/This.md": {
       "dest": "poetry/this",
@@ -378,7 +394,8 @@
         "poetry",
         "fantasy"
       ],
-      "date": "2021-04-01"
+      "date": "2021-04-01",
+      "date_display": "2021 April"
     },
     "~poetry/Time of the Times.md": {
       "dest": "poetry/time-of-the-times",
@@ -393,7 +410,8 @@
         "poetry",
         "monkeyopolis-times"
       ],
-      "date": "2021-11-01"
+      "date": "2021-11-01",
+      "date_display": "2021 November"
     },
     "~poetry/Titles.md": {
       "dest": "poetry/titles",
@@ -408,7 +426,8 @@
         "poetry",
         "nerdy"
       ],
-      "date": "2023-04-01"
+      "date": "2023-04-01",
+      "date_display": "2023 April"
     },
     "~poetry/What Was This Called Again.md": {
       "dest": "poetry/what-was-this-called-again",
@@ -423,7 +442,8 @@
         "poetry",
         "ramblings"
       ],
-      "date": "2023-03-01"
+      "date": "2023-03-01",
+      "date_display": "2023 March"
     },
     "~poetry/Wordless.md": {
       "dest": "poetry/wordless",
@@ -438,7 +458,8 @@
         "poetry",
         "ramblings"
       ],
-      "date": "2023-12-01"
+      "date": "2023-12-01",
+      "date_display": "2023 December"
     },
     "~poetry/fractal fracking.md": {
       "dest": "poetry/fracking",
@@ -454,7 +475,8 @@
         "nerdy",
         "maths"
       ],
-      "date": "2024-05-28"
+      "date": "2024-05-28",
+      "date_display": "2024 May 28"
     },
     "~poetry/readme.md": {
       "dest": "poetry",
@@ -468,7 +490,8 @@
       "shard": [
         "poetry"
       ],
-      "date": null
+      "date": null,
+      "date_display": null
     },
     "~poetry/折磨.md": {
       "dest": "poetry/折磨",
@@ -483,7 +506,8 @@
         "poetry",
         "chinese"
       ],
-      "date": "2024-01-01"
+      "date": "2024-01-01",
+      "date_display": "2024 Summer"
     },
     "~writing/wriiting.md": {
       "dest": "writing/wriiting",
@@ -499,7 +523,8 @@
         "writing",
         "meta"
       ],
-      "date": null
+      "date": null,
+      "date_display": null
     }
   }
 }

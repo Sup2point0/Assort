@@ -1,6 +1,5 @@
 <script>
 
-import { page } from "$app/stores";
 import { popups } from "#modules/stores";
 
 import Nav from "#parts/core/nav.svelte";
