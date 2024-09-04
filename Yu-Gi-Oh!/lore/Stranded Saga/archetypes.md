@@ -80,7 +80,7 @@ This gives the unique mechanic of being able to activate multiple *Excursion* ca
 | :--- | :------- |
 | Endless Excursion into the Dreamscape | *Walker* |
 | Epic Excursion to the Catastropical Peaks | *Catastropical* |
-| Endless Excursion into Ancient Aeterra 
+| Endless Excursion into Ancient Aeterra | *Aetern* |
 | Epic Excursion to the Affine Lakes | *Affin* |
 | Epic Exursion to the Supnautican Depths | *Supnautic* |
 | Epic Excursion to the Ever-Shining Skies | *Delphoenix* |
@@ -102,14 +102,46 @@ An archetype of Traps and Quick-Play Spells, countering the *Excursion* archetyp
 <br>
 
 
+## Walker
+An archetype of LIGHT and DARK Monsters with various types, representing the protagonists of the storyline.
+
+<details>
+  <summary> <b> Monsters </b> </summary>
+
+Lucen the Stranded Dreamwalker  
+Lucyn the Affinitive Worldwalker  
+Lucyon the Aeternal Timewalker  
+Seyva the Stranded Starwalker  
+Xlob the Windwalker  
+Xlob, the Silent Heartwalker  
+Kyra the Stranded Nightwalker  
+
+</details>
+
+
+<br>
+
+
 ## Catastropical
 
 An archetype of elemental Monsters with various Types, representing supernatural hazards faced by the characters in the storyline.
 
 <details>
+  <summary> <b> Monsters </b> </summary>
+
+Catastropical Dryadre  
+Catastropical Fruity  
+Catastropical Furial  
+Catastropical Howler  
+Catastropical Pyrovein  
+
+</details>
+
+<details>
   <summary> <b> Spell/Traps </b> </summary>
 
 Catastropical Construction  
+Catastropical Dwellers  
 
 </details>
 
@@ -219,6 +251,16 @@ See [*Delphoenix*](../../archetypes/Delphoenix.md).
 
 
 ## Cephradica
+An archetype of DARK Illusion Monsters, harnessing Dark Synchro Summoning (where Levels are subtracted instead of added). They represent the *Delphoenix* monsters corrupted by *Avertrocious* monsters.
+
+<details>
+  <summary> <b> Monsters </b> </summary>
+
+Cephradicated Alderamin  
+Cephradicated Arrai  
+Cephradicated Alfirk  
+
+</details>
 
 
 <br>
@@ -227,6 +269,13 @@ See [*Delphoenix*](../../archetypes/Delphoenix.md).
 ## Dyverse
 
 An archetype of Cyberse Monsters with various Attributes.
+
+<details>
+  <summary> <b> Spell/Traps </b> </summary>
+
+Dyverse Polyverse  
+
+</details>
 
 
 <br>
