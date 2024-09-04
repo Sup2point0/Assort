@@ -3,7 +3,6 @@
 import { base } from "$app/paths";
 import { page } from "$app/stores";
 
-import type { PageData } from "#modules/types";
 import Site from "#src/site";
 
 
@@ -28,7 +27,6 @@ const collection: Object[] = index.map(
         <th>
           <a href="{base}/{index?.path}"> {index?.display ?? "..."} </a>
         </th>
-        <!-- <td class="divider"> / </td> -->
 
         <td class="page-list">
           {#each index?.pages ?? [] as page}
@@ -36,10 +34,10 @@ const collection: Object[] = index.map(
 
             <!-- very annoying hack here to avoid random spaces being injected -->
             <a href="{base}/{data.dest}">{data.title}</a
-              
             >{#if page != index.pages[index.pages.length -1]}
-              <p class="divider">/</p>
+              <span class="divider">/</span>
             {/if}
+
           {/each}
         </td>
       </tr>
@@ -86,23 +84,17 @@ th {
 td {
   max-width: 100%;
 
-  > * {
-    display: inline;
-  }
-
-  .divider {
-    margin: 0 0.5em;
+  &.page-list {
+    line-height: 150%;
   }
 }
+
 
 .divider {
+  margin: 0 0.5em;
   color: var(--col-text-trit);
-
-  .last ~ & {
-    display: none;
-    color: red;
-  }
 }
+
 
 #top {
   padding: 0.25em 0;

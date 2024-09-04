@@ -37,7 +37,7 @@
   --col-text: oklch(1% 0 0);
   --col-text-prot: #204080;
   --col-text-deut: oklch(60% 0.0434 269.73);
-  --col-text-trit: ;
+  --col-text-trit: oklch(80% 0.0434 269.73);
   --col-text-bold: ;
   --col-back: oklch(97.5% 0.006 269.73);
   --col-back-prot: ;
@@ -47,8 +47,9 @@
   --col-line-prot: ;
   --col-line-deut: ;
   --col-link: #2070c1;
-  --col-link-hover: ;
-  --col-link-click: ;
+  --col-link-hover: #ff0090;
+  --col-link-click: #9040f1;
+  --col-link-visit: #404090;
   --col-card: ;
   --col-card-hover: ;
   --col-card-click: ;
