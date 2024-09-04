@@ -55,13 +55,16 @@ h1 {
   color: var(--col-text);
 }
 
+p.caption {
+  color: var(--col-text-deut);
+}
+
 p#capt {
   margin: 1rem 0 0;
   padding: 0;
   @include font-head;
   font-weight: 350;
   font-size: 150%;
-  color: var(--col-text-deut);
 }
 
 #shards {
