@@ -21,7 +21,7 @@
   "index.svelte": "~index.svelte",
   "page.js": "~page.js",
 
-  "site-data": "src/site-data.json",
+  "site-data": "src/data/site.json",
   "styles": "src/styles",
   "page-styles": "src/styles/pages",
   "assets": ".assets",

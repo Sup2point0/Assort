@@ -1,6 +1,6 @@
 /// Site data and config for global access
 
-const data = await import("./site-data.json");
+const data = await import("./data/site.json");
 
 
 const Site = {
@@ -49,10 +49,6 @@ const Site = {
 export default Site;
 
 
-export const Statuses = [
-  "sup sup’s sups sup sup’s sup sup sup sup’s sup sups",
-  "welcome to Assort.",
-  "I really do love Assort.",
-  "carrots are cool.",
-  "spoiler: all flavour texts are equally rare :0 (in theory)",
-];
+export const Statuses: Array<string> = (
+  await import("./data/status.json")
+).default;
