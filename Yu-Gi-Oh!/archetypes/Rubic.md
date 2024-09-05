@@ -1,5 +1,5 @@
 # Rubic
-<!-- #SQUARK live!
+<!-- #SQUARK live! feat!
 | dest = yugioh/archetypes/rubic
 | capt = Yu-Gi-Oh! Archetype
 | style = yugioh
