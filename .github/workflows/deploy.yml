@@ -25,7 +25,7 @@ jobs:
           bundler-cache: true
 
       - name: 'Ruby / install'
-        run: cd ../.stranger-quarkdown && bundle install && cd ..
+        run: cd ../.stranger-quarkdown && bundle install
 
       - name: 'Python / setup'
         uses: actions/setup-python@v5
@@ -34,7 +34,7 @@ jobs:
 
       - name: 'Python / Vividity / install'
         run: |
-          cd .site/vividity
+          cd vividity
           python -m pip install --upgrade pip
           pip install .
 
