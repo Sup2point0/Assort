@@ -7,8 +7,8 @@
   --col-deut: oklch(86.44% 0.177 93.53);
   --col-focus: cyan;
   --col-text: white;
-  --col-text-prot: oklch(89.96% 0.10 60);
-  --col-text-deut: oklch(70% 0 0);
+  --col-text-prot: white;
+  --col-text-deut: white;
   --col-text-trit: white;
   --col-text-bold: white;
   --col-back: oklch(10% 0 0);
@@ -33,12 +33,13 @@
 .soup {
   --col-prot: #4090f1;
   --col-deut: #ff0090;
-  --col-focus: ;
+  --col-hover: rgba(0 0 0 / 8%);
+  --col-click: rgba(0 0 0 / 16%);
+  --col-focus: #40e0ff;
   --col-text: oklch(1% 0 0);
   --col-text-prot: #204080;
   --col-text-deut: oklch(60% 0.0434 269.73);
   --col-text-trit: oklch(80% 0.0434 269.73);
-  --col-text-bold: ;
   --col-back: oklch(97.5% 0.006 269.73);
   --col-back-prot: ;
   --col-back-deut: oklch(94.5% 0.006 269.73);
@@ -47,12 +48,12 @@
   --col-line-prot: ;
   --col-line-deut: ;
   --col-link: #2070c1;
+  --col-link-visit: #404090;
   --col-link-hover: #ff0090;
   --col-link-click: #9040f1;
-  --col-link-visit: #404090;
-  --col-card: ;
-  --col-card-hover: ;
-  --col-card-click: ;
+  --col-card: white;
+  --col-card-hover: grey;
+  --col-card-click: darkgrey;
 }
 
 /* souper
