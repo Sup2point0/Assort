@@ -60,7 +60,7 @@ $tool-pane-width: 3rem;
   margin: 0;
   padding: 0;
   flex-grow: 0;
-  background-color: var(--col-back);
+  // background-color: var(--col-back);
   @include trans;
 }
 
