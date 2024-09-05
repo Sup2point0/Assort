@@ -32,6 +32,10 @@ input[type="checkbox"] {
   &:checked::before {
     visibility: visible;
   }
+
+  &:hover {
+    cursor: pointer;
+  }
 }
 
 
