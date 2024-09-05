@@ -2,6 +2,8 @@ name: 'Assort'
 
 on:
   workflow_dispatch:
+  push:
+    paths: 'deploy.yml'
   schedule:
     - cron: '20 4 * * 2,6'
 
@@ -31,6 +33,16 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+
+      - name: 'Python / Vividity / install'
+        run: |
+          cd vividity
+          python -m pip install --upgrade pip
+          pip install pip-tools
+          python -m piptools compile \
+            -o requirements.txt \
+            pyproject.toml
+          pip install -r requirements.txt
 
       - name: 'Node / install'
         uses: actions/setup-node@v4
