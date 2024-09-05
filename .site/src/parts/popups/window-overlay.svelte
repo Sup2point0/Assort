@@ -34,17 +34,8 @@ const callback = exit ?? (() => store.exit());
   justify-content: center;
   align-items: center;
   text-align: center;
+  background-color: rgba(black, 20%);
   backdrop-filter: blur(4px);
-  // animation: fade;
 }
-
-// @keyframes fade {
-//   from {
-//     backdrop-filter: blur(0px);
-//   }
-//   to {
-//     backdrop-filter: blur(4px);
-//   }
-// }
 
 </style>
