@@ -37,7 +37,7 @@ nav {
   overflow: hidden;
   color: var(--col-text);
   text-align: left;
-  background-color: var(--col-back);
+  background-color: var(--col-back-deut);
 }
 
 h2 {

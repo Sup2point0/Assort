@@ -7,7 +7,7 @@ import QuickLinks from "./QuickLinks.svelte";
 import Welcome from "./Welcome.svelte";
 import FeaturedCards from "./FeaturedCards.svelte";
 import ExploreCards from "./ExploreCards.svelte";
-import NewlyReleased from "./ExploreCards.svelte";
+import NewlyReleased from "./NewlyReleased.svelte";
 
 </script>
 
@@ -36,7 +36,7 @@ import NewlyReleased from "./ExploreCards.svelte";
 
     <section id="featured">
       <h2> Featured </h2>
-      <!-- <FeaturedCards /> -->
+      <FeaturedCards />
     </section>
 
     <section id="explore">
@@ -62,7 +62,7 @@ p {
 
 h2 {
   width: 100%;
-  margin: 0;
+  margin: 0 0 1rem;
   padding: 0 0 0.5rem;
 
   @include font-head;

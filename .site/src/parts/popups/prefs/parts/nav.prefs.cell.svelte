@@ -37,10 +37,7 @@ button {
   border: none;
   border-radius: 0.5rem;
 
-  @include interactive(
-    var(--col-back-deut),
-    var(--col-back-deut)
-  );
+  @include interactive(var(--col-hover), var(--col-click));
 
   &.live {
     color: var(--col-deut);

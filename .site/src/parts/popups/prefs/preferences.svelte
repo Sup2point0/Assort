@@ -64,7 +64,7 @@ import { popups } from "#modules/stores";
   justify-content: start;
   align-items: stretch;
 
-  background-color: var(--col-back-deut);
+  background-color: var(--col-back);
   border-radius: 1rem;
 }
 
