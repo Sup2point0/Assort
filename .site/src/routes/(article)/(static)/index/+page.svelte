@@ -4,14 +4,27 @@ import { base } from "$app/paths";
 
 import Site from "#src/site";
 
+
 $: pages = Object.values(Site.pages);
+
+function execSearch() {
+  return;
+}
 
 </script>
 
 
 <p> Explore all the pages in Assort! </p>
 
-<input id="search-bar" type="search" />
+<div id="search-controls">
+  <input id="search-bar" type="search" placeholder="Search..." />
+
+  <button id="search-button"
+    on:click={execSearch}
+  >
+    <span class="material-symbols-outlined"> search </span>
+  </button>
+</div>
 
 <table>
   <tr>
@@ -54,14 +67,10 @@ $: pages = Object.values(Site.pages);
       </td>
 
       <!-- DATE -->
-      <td>
-        {page.date?.substring(0, 4) ?? ""}
-      </td>
+      <td> {page.date?.substring(0, 4) ?? ""} </td>
 
       <!-- SLOCS -->
-      <td>
-        {page.slocs ?? ""}
-      </td>
+      <td> {page.slocs ?? "?"} </td>
     </tr>
   {/each}
 
@@ -88,8 +97,51 @@ th {
 }
 
 
+#search-controls {
+  height: 5rem;
+  width: 80%;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+}
+
 #search-bar {
-  margin: 0.5rem 0 2rem;
+  appearance: none;
+  width: 75%;
+  margin-right: 0.5rem;
+  padding: 0.5em 1em;
+  
+  @include font-ui;
+  font-size: 120%;
+  background-color: var(--col-back-trit);
+  border: 1.5px solid var(--col-line-deut);
+  border-radius: 0.5em;
+
+  &:hover, &:click {
+    border-color: var(--col-prot);
+    outline: rgba(blue, 10%) solid 2px;
+  }
+
+  &:focus {
+    border-color: var(--col-prot);
+    outline: none;
+  }
+}
+
+#search-button {
+  margin: 0;
+  padding: 0.5rem 1rem;
+  color: white;
+  background-color: var(--col-prot);
+  border: none;
+  border-radius: 0.5rem;
+
+  @include interactive(
+    var(--col-deut),
+    var(--col-link-click),
+  )
 }
 
 </style>
