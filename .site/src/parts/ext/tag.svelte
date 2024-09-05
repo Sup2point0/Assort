@@ -46,6 +46,8 @@ const colour = "#" + col;
   text-decoration: none;
   background-color: var(--col);
   border-radius: 0.5em;
+
+  @include interactive(var(--col-prot), var(--col-deut));
 }
 
 </style>

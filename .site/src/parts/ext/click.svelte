@@ -93,10 +93,7 @@ a, button {
   background: none;
   border-radius: 100%;
 
-  @include interactive(
-    light-dark(rgba(black, 20%), rgba(white, 20%)),
-    light-dark(rgba(black, 30%), rgba(white, 30%))
-  );
+  @include interactive(var(--col-hover), var(--col-click));
 }
 
 </style>

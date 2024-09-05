@@ -2,17 +2,18 @@
 
 import { base } from "$app/paths";
 
+import Site from "#src/site";
+import { prefs } from "#modules/stores";
+
 import NavLink from "#parts/core/nav.link.svelte";
 import Click from "#parts/ext/click.svelte";
 
-import Site from "#src/site"
-import { prefs } from "#modules/stores";
 
+const pages = Object.values(Site.pages);
 
 function redirectRandomPage() {
-  // TODO pick random page
-  // const random = Math.floor(Math.random() * Site.pages);
-  // window.location.href = `${base}/${pages[random]}`;
+  let idx = Math.floor(Math.random() * pages.length);
+  window.location.href = `${base}/${pages[idx].dest}`;
 }
 
 </script>
@@ -129,7 +130,7 @@ nav {
   flex-grow: 0;
 
   background-color: var(--col-back-deut);
-  @include line(1.5px, "right");
+  // @include line(1.5px, "right");
 
   @include trans-default;
 }

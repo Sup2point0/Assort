@@ -26,9 +26,9 @@ export let right: boolean = false;
   >
     <h4 style:--col={col}> {title} </h4>
     {#if capt}
-      <p class="caption"> {capt }</p>
+      <p class="caption"> {capt} </p>
     {/if}
-    <p> {text} </p>
+    <p> {@html text} </p>
   </a>
 
 {:else}
@@ -39,7 +39,10 @@ export let right: boolean = false;
     style:--width="{width}rem"
   >
     <h4 style:--col={col}> {title} </h4>
-    <p> {text} </p>
+    {#if capt}
+      <p class="caption"> {capt} </p>
+    {/if}
+    <p> {@html text} </p>
   </a>
 
 {/if}
@@ -51,8 +54,9 @@ a {
   width: var(--width, auto);
   min-width: 4rem;
   margin: 0.25rem;
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 1rem 1rem;
   display: inline-block;
+  flex-shrink: 0;
 
   text-align: left;
   text-decoration: none;
@@ -60,17 +64,12 @@ a {
   background-color: var(--col-card);
   border-radius: 1rem;
 
-  @include trans-default;
-
-  &:hover {
-    background-color: var(--col-back-deut);
-  }
-
+  @include interactive(var(--col-card-hover), var(--col-card-click));
   @include focus-outline;
 }
 
 h4 {
-  margin: 0;
+  margin: 0 0 0.5em;
   @include font-ui;
   font-size: 125%;
   color: var(--col-link);

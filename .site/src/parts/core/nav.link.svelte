@@ -72,15 +72,15 @@ a, button {
   @include trans-default;
 
   @include focus-outline;
-  @include interactive(
-    light-dark(
-      rgba(black, 8%),
-      rgba(white, 10%)
-    ),
-    light-dark(
-      rgba(black, 12%),
-      rgba(white, 20%)
-    )
+  @include interactive(var(--col-hover), var(--col-click)
+    // light-dark(
+    //   rgba(black, 8%),
+    //   rgba(white, 10%)
+    // ),
+    // light-dark(
+    //   rgba(black, 12%),
+    //   rgba(white, 20%)
+    // )
   );
 
   &.live {
