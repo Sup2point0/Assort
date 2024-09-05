@@ -10,6 +10,7 @@ A collection of really awesome Skyscrapers puzzles.
 
 | date | notes |
 | :--- | :---- |
+| [[Nov 22](www.brainbashers.com/p228337)
 | [Mar 4](https://www.brainbashers.com/showskyscrapers.asp?date=0304&size=5&diff=3) | |
 | [Mar 13](https://www.brainbashers.com/showskyscrapers.asp?date=0313&size=5&diff=3) | |
 | [Mar 14](https://www.brainbashers.com/showskyscrapers.asp?date=0314&size=5&diff=3) | |
