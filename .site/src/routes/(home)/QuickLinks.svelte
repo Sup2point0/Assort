@@ -25,9 +25,9 @@ a {
   color: var(--col-link);
   background-color: transparent;
   text-decoration: none;
-  @include trans-default;
 
   @include interactive(
+    var(--col-back-deut),
     var(--col-back-deut),
   );
 }

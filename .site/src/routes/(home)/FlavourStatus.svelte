@@ -6,11 +6,12 @@ import { Statuses } from "#src/site";
 let date = new Date();
 
 let index = (
-    date.getFullYear()
-  ** date.getMonth()
-  * date.getDay()
-  * 69
-) % Statuses.length;
+  //   date.getFullYear()
+  // ** date.getMonth()
+  // * date.getDay()
+  // * 69
+// ) % Statuses.length;
+Math.floor(Math.random() * Statuses.length));
 
 let status = Statuses[index];
 
