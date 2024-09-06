@@ -1,6 +1,6 @@
 # *decoded*
 <!-- #SQUARK live!
-| export = dev/decoded
+| dest = dev/decoded
 | style = dev
 | duality = dark
 | index = dev / notes

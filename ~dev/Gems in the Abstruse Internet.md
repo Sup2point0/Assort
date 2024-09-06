@@ -1,6 +1,6 @@
 # Gems in the Abstruse Internet
 <!-- #SQUARK live!
-| export = dev/internet-gems
+| dest = dev/internet-gems
 | desc = A collection of incredible creations, resources, sites and articles I’ve discovered in the internet
 | style = dev
 | duality = dark

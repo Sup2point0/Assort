@@ -1,6 +1,6 @@
 # Emoticons
 <!-- #SQUARK live!
-| export = self/emoticons
+| dest = self/emoticons
 | desc = A collection of all the emoticons I use!
 | style = personal
 | index = personal / lists
