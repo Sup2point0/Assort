@@ -33,6 +33,7 @@ function execSearch() {
     <th> Tags </th>
     <th> Date </th>
     <th> Slocs </th>
+    <th> Chars </th>
   </tr>
 
   {#each pages as page}
@@ -71,6 +72,9 @@ function execSearch() {
 
       <!-- SLOCS -->
       <td> {page.slocs ?? "?"} </td>
+
+      <!-- CHARS -->
+      <td> {page.chars ?? "?"} </td>
     </tr>
   {/each}
 
