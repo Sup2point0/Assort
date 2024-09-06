@@ -6,9 +6,11 @@
   "site": ".site",
   "sources": [
     ".squarkdown/content",
-    "Yu-Gi-Oh!",
+    "~dev",
+    "~lists",
     "~poetry",
-    "~writing"
+    "~writing",
+    "Yu-Gi-Oh!"
   ],
   "exclude": [
   ],

@@ -1,5 +1,5 @@
 {
-  "exported": "2024-09-05",
+  "exported": "2024-09-06",
   "index": {
     "info": [
       ".squarkdown/content/frequerys.md",
@@ -127,6 +127,7 @@
   "pages": {
     ".squarkdown/content/frequerys.md": {
       "slocs": 59,
+      "chars": 2091,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "frequerys",
@@ -140,10 +141,12 @@
       "shard": [
         "info"
       ],
-      "date": null
+      "date": null,
+      "date_display": null
     },
     ".squarkdown/content/privacy.md": {
       "slocs": 15,
+      "chars": 583,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "privacy",
@@ -157,10 +160,12 @@
       "shard": [
         "info"
       ],
-      "date": null
+      "date": null,
+      "date_display": null
     },
     ".squarkdown/content/synopsis.md": {
       "slocs": 16,
+      "chars": 680,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "synopsis",
@@ -174,10 +179,12 @@
       "shard": [
         "info"
       ],
-      "date": null
+      "date": null,
+      "date_display": null
     },
     "Yu-Gi-Oh!/archetypes/Rubic.md": {
       "slocs": 855,
+      "chars": 66054,
       "isFeatured": true,
       "isWoozy": false,
       "dest": "yugioh/archetypes/rubic",
@@ -192,10 +199,12 @@
         "yugioh-archetypes",
         "yugioh"
       ],
-      "date": null
+      "date": null,
+      "date_display": null
     },
     "~poetry/Forsitan.md": {
       "slocs": 33,
+      "chars": 614,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/forsitan",
@@ -210,10 +219,12 @@
         "poetry",
         "melodramatic"
       ],
-      "date": "2021-12-11"
+      "date": "2021-12-11",
+      "date_display": "2021 December 11"
     },
     "~poetry/Fractured, Shattered, Hearted.md": {
       "slocs": 59,
+      "chars": 1596,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/shattered-fractured-hearted",
@@ -229,10 +240,12 @@
         "sad",
         "melodramatic"
       ],
-      "date": "2024-08-30"
+      "date": "2024-08-30",
+      "date_display": "2024 August 30"
     },
     "~poetry/Heartburn.md": {
       "slocs": 42,
+      "chars": 1271,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/heartburn",
@@ -247,10 +260,12 @@
         "poetry",
         "sad"
       ],
-      "date": "2024-02-01"
+      "date": "2024-02-01",
+      "date_display": "2024 February"
     },
     "~poetry/Heavy Crown.md": {
       "slocs": 36,
+      "chars": 838,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/heavy-crown",
@@ -265,10 +280,12 @@
         "poetry",
         "melodramatic"
       ],
-      "date": "2021-09-01"
+      "date": "2021-09-01",
+      "date_display": "2021 September"
     },
     "~poetry/Lifeless.md": {
       "slocs": 39,
+      "chars": 855,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/lifeless",
@@ -283,10 +300,12 @@
         "poetry",
         "sad"
       ],
-      "date": "2023-04-01"
+      "date": "2023-04-01",
+      "date_display": "2023 April"
     },
     "~poetry/Nameless.md": {
       "slocs": 38,
+      "chars": 798,
       "isFeatured": true,
       "isWoozy": false,
       "dest": "poetry/nameless",
@@ -301,10 +320,12 @@
         "poetry",
         "sad"
       ],
-      "date": "2023-05-01"
+      "date": "2023-05-01",
+      "date_display": "2023 May"
     },
     "~poetry/Perfect.md": {
       "slocs": 20,
+      "chars": 644,
       "isFeatured": false,
       "isWoozy": true,
       "dest": "poetry/perfect",
@@ -318,10 +339,12 @@
       "shard": [
 
       ],
-      "date": null
+      "date": null,
+      "date_display": null
     },
     "~poetry/Quantitative Quantitivity.md": {
       "slocs": 62,
+      "chars": 1328,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/quantitative-quantitivity",
@@ -336,10 +359,12 @@
         "poetry",
         "ramblings"
       ],
-      "date": "2023-03-01"
+      "date": "2023-03-01",
+      "date_display": "2023 March"
     },
     "~poetry/Reverie.md": {
       "slocs": 41,
+      "chars": 1072,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/reverie",
@@ -354,10 +379,12 @@
         "poetry",
         "sad"
       ],
-      "date": "2021-12-01"
+      "date": "2021-12-01",
+      "date_display": "2021 December"
     },
     "~poetry/Strive.md": {
       "slocs": 48,
+      "chars": 945,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/strive",
@@ -373,10 +400,12 @@
         "sad",
         "melodramatic"
       ],
-      "date": "2022-06-01"
+      "date": "2022-06-01",
+      "date_display": "2022 June"
     },
     "~poetry/Teardrop.md": {
       "slocs": 37,
+      "chars": 866,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/teardrop",
@@ -391,10 +420,12 @@
         "poetry",
         "antarctica"
       ],
-      "date": "2022-09-01"
+      "date": "2022-09-01",
+      "date_display": "2022 September"
     },
     "~poetry/The Programmer's Plight.md": {
       "slocs": 128,
+      "chars": 4102,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/the-programmers-plight",
@@ -411,10 +442,12 @@
         "dev",
         "funny"
       ],
-      "date": "2024-07-27"
+      "date": "2024-07-27",
+      "date_display": "2024 July 27"
     },
     "~poetry/This.md": {
       "slocs": 34,
+      "chars": 839,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/this",
@@ -429,10 +462,12 @@
         "poetry",
         "fantasy"
       ],
-      "date": "2021-04-01"
+      "date": "2021-04-01",
+      "date_display": "2021 April"
     },
     "~poetry/Time of the Times.md": {
       "slocs": 29,
+      "chars": 786,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/time-of-the-times",
@@ -447,10 +482,12 @@
         "poetry",
         "monkeyopolis-times"
       ],
-      "date": "2021-11-01"
+      "date": "2021-11-01",
+      "date_display": "2021 November"
     },
     "~poetry/Titles.md": {
       "slocs": 49,
+      "chars": 1306,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/titles",
@@ -465,10 +502,12 @@
         "poetry",
         "nerdy"
       ],
-      "date": "2023-04-01"
+      "date": "2023-04-01",
+      "date_display": "2023 April"
     },
     "~poetry/What Was This Called Again.md": {
       "slocs": 26,
+      "chars": 560,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/what-was-this-called-again",
@@ -483,10 +522,12 @@
         "poetry",
         "ramblings"
       ],
-      "date": "2023-03-01"
+      "date": "2023-03-01",
+      "date_display": "2023 March"
     },
     "~poetry/Wordless.md": {
       "slocs": 56,
+      "chars": 1365,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/wordless",
@@ -501,10 +542,12 @@
         "poetry",
         "ramblings"
       ],
-      "date": "2023-12-01"
+      "date": "2023-12-01",
+      "date_display": "2023 December"
     },
     "~poetry/fractal fracking.md": {
       "slocs": 44,
+      "chars": 1397,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/fracking",
@@ -520,10 +563,12 @@
         "nerdy",
         "maths"
       ],
-      "date": "2024-05-28"
+      "date": "2024-05-28",
+      "date_display": "2024 May 28"
     },
     "~poetry/readme.md": {
       "slocs": 48,
+      "chars": 1242,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry",
@@ -537,10 +582,12 @@
       "shard": [
         "poetry"
       ],
-      "date": null
+      "date": null,
+      "date_display": null
     },
     "~poetry/折磨.md": {
       "slocs": 58,
+      "chars": 508,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/折磨",
@@ -555,10 +602,12 @@
         "poetry",
         "chinese"
       ],
-      "date": "2024-01-01"
+      "date": "2024-01-01",
+      "date_display": "2024 Summer"
     },
     "~writing/wriiting.md": {
       "slocs": 59,
+      "chars": 3411,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "writing/wriiting",
@@ -574,7 +623,8 @@
         "writing",
         "meta"
       ],
-      "date": null
+      "date": null,
+      "date_display": null
     }
   }
 }
