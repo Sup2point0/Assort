@@ -4,7 +4,11 @@
 
 ---
 
-Welcome to ***Assort***, an endless wormhole where I keep everything I create. Feel free to have a look around!
+### Welcome to ***Assort***, an endless wormhole where I keep everything I create!
+
+Here you’ll find all my interests, thoughts, writing, time-wasting, and maybe secrets...
+
+---
 
 </div>
 
@@ -14,7 +18,8 @@ Welcome to ***Assort***, an endless wormhole where I keep everything I create. F
 
 ## Portal
 
-Unsure where to start?
+> [!Tip]
+> New here? Consider starting out on the [site](https://sup2point0.github.io/Assort) for a much nicer browsing experience!
 
 ### Folders
 📁 [affine](affine)  
@@ -61,79 +66,19 @@ Uppercase and lowercase are simply stylistic choices. Those with `~` are categor
 <br>
 
 
-## Tiers
+## License
 
-The tiers used in [favourites](~lists/favourites).
+This is all my own content, so I do claim ownership over it. I’m also aware I have absolutely no means of stopping you from copying it. I think if you’re reading this you probably (maybe) have the integrity to give credit if you do ^v^
 
-<table>
-  <tr>
-    <th align="left"> xeniqive </th>
-    <td> <a href="">Xeniqive</a> meaning ‘heavenly’. Saved for only the best. </td>
-  </tr>
-  <tr>
-    <th align="left"> legendary </th>
-    <td> – </td>
-  </tr>
-  <tr>
-    <th align="left"> incredible </th>
-    <td> – </td>
-  </tr>
-  <tr>
-    <th align="left"> awesome </th>
-    <td> – </td>
-  </tr>
-  <tr>
-    <th align="left"> cool </th>
-    <td> No negativity here, even the lowest stuff is cool. </td>
-  </tr>
-</table>
+I’ve licensed Assort under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) tho, just like [Wikipedia](https://wikipedia.org/wiki/Wikipedia:Copyrights), [Fandom](https://www.fandom.com/licensing) and other wikis – so as long you give credit and redistribute under the same license, you’re good to go.
 
 
 <br>
 
 
-## Spectrus
+## Generative AI
 
-The scale of magnitude used throughout varical sections.
-
-<table>
-  <tr>
-    <th align="left"> especially high </th>
-    <td> <img src=".assets/spectrus/spectrus.blue.high.spec.png" width="360px"> </td>
-  </tr>
-  <tr>
-    <th align="left"> very high </th>
-    <td> <img src=".assets/spectrus/spectrus.blue.high.very.png" width="360px"> </td>
-  </tr>
-  <tr>
-    <th align="left"> high </th>
-    <td> <img src=".assets/spectrus/spectrus.blue.high.png" width="360px"> </td>
-  </tr>
-  <tr>
-    <th align="left"> moderative </th>
-    <td> <img src=".assets/spectrus/spectrus.blue.moderate.png" width="360px"> </td>
-  </tr>
-  <tr>
-    <th align="left"> standard </th>
-    <td> <img src=".assets/spectrus/spectrus.blue.standard.png" width="360px"> </td>
-  </tr>
-  <tr>
-    <th align="left"> mediocre </th>
-    <td> <img src=".assets/spectrus/spectrus.blue.mediocre.png" width="360px"> </td>
-  </tr>
-  <tr>
-    <th align="left"> low </th>
-    <td> <img src=".assets/spectrus/spectrus.blue.low.png" width="360px"> </td>
-  </tr>
-  <tr>
-    <th align="left"> very low </th>
-    <td> <img src=".assets/spectrus/spectrus.blue.low.very.png" width="360px"> </td>
-  </tr>
-  <tr>
-    <th align="left"> especially low </th>
-    <td> <img src=".assets/spectrus/spectrus.blue.low.spec.png" width="360px"> </td>
-  </tr>
-</table>
+See [AI](AI.md).
 
 
 <br>
@@ -141,4 +86,4 @@ The scale of magnitude used throughout varical sections.
 
 ---
 
-> yo, still here?
+yo, still here?
