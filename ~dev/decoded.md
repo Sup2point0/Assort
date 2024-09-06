@@ -1,19 +1,22 @@
 # *decoded*
-<!-- #QUARK live!
-  EXPORT: dev/decoded
-  STYLE: dev
-  DUALITY: dark
-  INDEX: dev notes
-  DATE: 24 4
+<!-- #SQUARK live!
+| export = dev/decoded
+| style = dev
+| duality = dark
+| index = dev / notes
+| date = 24 Apr
 -->
 
-<!-- #QUARK synopsis? -->
+<section class="synopsis">
+
 In many of my projects[^old] you’ll find an `edu.md` file where I record the lessons learnt, difficulties encountered and challenges overcome while working on that particular project. Here I cover general things which I’ve picked up over the course of many years of software development, many projects of varying scope and complexity, and above all, many, many mistakes ;)
 
 [^old]: (probably not the older ones, since I only started doing this fairly recently)
 
 Of course, take them with a couple grains of salt, since many are only my perspective – not to mention that my ‘years’ might not compare to others’ ‘years’ at all. And after all, there are no absolutes. Not all are of equal value, and some may be really niche or specific. Either way, enjoy~
-<!-- #QUARK synopsis. -->
+
+</section>
+
 
 ---
 
@@ -33,6 +36,8 @@ Of course, take them with a couple grains of salt, since many are only my perspe
 - Projects are never finished. If they’re not in development, they’re in maintenance, and if you come back to it after some time there’ll always be new features or improvements to add.
 - It is extraordinarily rare that something works *exactly* right first try.
   - Hold on, how do builders do it??
+- Leave for a couple weeks, and it really does feel like you forget years of experience.
+  - Getting back into the flow of things isn’t too tough tho =)
 
 
 <br>
