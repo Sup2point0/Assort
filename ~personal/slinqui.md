@@ -1,6 +1,6 @@
 # Slinqui
 <!-- #SQUARK live!
-| export = self/slinqui
+| dest = self/slinqui
 | style = personal
 | index = personal / lists
 | shard = #INDEX

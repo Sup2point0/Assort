@@ -1,5 +1,6 @@
 # evodread
 <!-- #SQUARK live!
+| dest = self/evodread
 | title = Evodread
 | capt = Dying inside.
 | desc = A peculiar psychological afflication that comes and goes.

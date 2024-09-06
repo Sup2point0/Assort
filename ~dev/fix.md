@@ -1,6 +1,6 @@
 # 42 Methods of Flawless Fail-Safe Fixing
 <!-- #SQUARK live!
-| export = dev/fix
+| dest = dev/fix
 | style = dev
 | duality = dark
 | index = lists / dev

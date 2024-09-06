@@ -6,8 +6,27 @@
       ".squarkdown/content/privacy.md",
       ".squarkdown/content/synopsis.md"
     ],
-    "yugioh-archetypes": [
-      "Yu-Gi-Oh!/archetypes/Rubic.md"
+    "dev": [
+      "~dev/Gems in the Abstruse Internet.md",
+      "~dev/In Perfection/ruby.md",
+      "~dev/decoded.md",
+      "~dev/fix.md",
+      "~poetry/The Programmer's Plight.md"
+    ],
+    "lists": [
+      "~dev/Gems in the Abstruse Internet.md",
+      "~dev/In Perfection/ruby.md",
+      "~dev/fix.md",
+      "~personal/emoticons.md",
+      "~personal/slinqui.md"
+    ],
+    "notes": [
+      "~dev/decoded.md"
+    ],
+    "personal": [
+      "~personal/emoticons.md",
+      "~personal/evodread.md",
+      "~personal/slinqui.md"
     ],
     "poetry": [
       "~poetry/Forsitan.md",
@@ -30,14 +49,14 @@
       "~poetry/readme.md",
       "~poetry/折磨.md"
     ],
-    "dev": [
-      "~poetry/The Programmer's Plight.md"
-    ],
     "writing": [
       "~writing/wriiting.md"
     ],
     "meta": [
       "~writing/wriiting.md"
+    ],
+    "yugioh-archetypes": [
+      "Yu-Gi-Oh!/archetypes/Rubic.md"
     ]
   },
   "shard": {
@@ -46,11 +65,35 @@
       ".squarkdown/content/privacy.md",
       ".squarkdown/content/synopsis.md"
     ],
-    "yugioh-archetypes": [
-      "Yu-Gi-Oh!/archetypes/Rubic.md"
+    "dev": [
+      "~dev/Gems in the Abstruse Internet.md",
+      "~dev/In Perfection/ruby.md",
+      "~dev/decoded.md",
+      "~poetry/The Programmer's Plight.md"
     ],
-    "yugioh": [
-      "Yu-Gi-Oh!/archetypes/Rubic.md"
+    "lists": [
+      "~dev/Gems in the Abstruse Internet.md",
+      "~dev/In Perfection/ruby.md",
+      "~personal/emoticons.md",
+      "~personal/slinqui.md"
+    ],
+    "opinion": [
+      "~dev/In Perfection/ruby.md"
+    ],
+    "notes": [
+      "~dev/decoded.md"
+    ],
+    "#auto": [
+      "~dev/fix.md"
+    ],
+    "funny": [
+      "~dev/fix.md",
+      "~poetry/The Programmer's Plight.md"
+    ],
+    "personal": [
+      "~personal/emoticons.md",
+      "~personal/evodread.md",
+      "~personal/slinqui.md"
     ],
     "poetry": [
       "~poetry/Forsitan.md",
@@ -95,12 +138,6 @@
     "antarctica": [
       "~poetry/Teardrop.md"
     ],
-    "dev": [
-      "~poetry/The Programmer's Plight.md"
-    ],
-    "funny": [
-      "~poetry/The Programmer's Plight.md"
-    ],
     "fantasy": [
       "~poetry/This.md"
     ],
@@ -122,6 +159,12 @@
     ],
     "meta": [
       "~writing/wriiting.md"
+    ],
+    "yugioh-archetypes": [
+      "Yu-Gi-Oh!/archetypes/Rubic.md"
+    ],
+    "yugioh": [
+      "Yu-Gi-Oh!/archetypes/Rubic.md"
     ]
   },
   "pages": {
@@ -182,22 +225,167 @@
       "date": null,
       "date_display": null
     },
-    "Yu-Gi-Oh!/archetypes/Rubic.md": {
-      "slocs": 855,
-      "chars": 66054,
-      "isFeatured": true,
+    "~dev/Gems in the Abstruse Internet.md": {
+      "slocs": 129,
+      "chars": 4925,
+      "isFeatured": false,
       "isWoozy": false,
-      "dest": "yugioh/archetypes/rubic",
-      "head": "Rubic",
-      "capt": "Yu-Gi-Oh! Archetype",
-      "title": "Rubic",
-      "desc": "Yu-Gi-Oh! Archetype",
+      "dest": "dev/internet-gems",
+      "head": "Gems in the Abstruse Internet",
+      "capt": null,
+      "title": "Gems in the Abstruse Internet",
+      "desc": "A collection of incredible creations, resources, sites and articles I’ve discovered in the internet",
       "index": [
-        "yugioh-archetypes"
+        "dev",
+        "lists"
       ],
       "shard": [
-        "yugioh-archetypes",
-        "yugioh"
+        "dev",
+        "lists"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "~dev/In Perfection/ruby.md": {
+      "slocs": 111,
+      "chars": 2917,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "dev/in-perfection/ruby",
+      "head": "In Perfection – Ruby",
+      "capt": null,
+      "title": "Ruby",
+      "desc": "Everything I love and dislove about the Ruby programming language",
+      "index": [
+        "lists",
+        "dev"
+      ],
+      "shard": [
+        "lists",
+        "dev",
+        "opinion"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "~dev/decoded.md": {
+      "slocs": 43,
+      "chars": 3131,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "dev/decoded",
+      "head": "*decoded*",
+      "capt": null,
+      "title": "*decoded*",
+      "desc": null,
+      "index": [
+        "dev",
+        "notes"
+      ],
+      "shard": [
+        "dev",
+        "notes"
+      ],
+      "date": "0024-04-01",
+      "date_display": "24 Apr"
+    },
+    "~dev/fix.md": {
+      "slocs": 56,
+      "chars": 3765,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "dev/fix",
+      "head": "42 Methods of Flawless Fail-Safe Fixing",
+      "capt": null,
+      "title": "42 Methods of Flawless Fail-Safe Fixing",
+      "desc": null,
+      "index": [
+        "lists",
+        "dev"
+      ],
+      "shard": [
+        "#auto",
+        "funny"
+      ],
+      "date": "2024-05-01",
+      "date_display": "2024 May"
+    },
+    "~lists/grateful.md": {
+      "slocs": 13,
+      "chars": 394,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "lists/gratefulness",
+      "head": "Things I’m Grateful For",
+      "capt": null,
+      "title": "Things I’m Grateful For",
+      "desc": "All the wonderful things in life that I’m grateful for.",
+      "index": [
+
+      ],
+      "shard": [
+
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "~personal/emoticons.md": {
+      "slocs": 78,
+      "chars": 2555,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "self/emoticons",
+      "head": "Emoticons",
+      "capt": null,
+      "title": "Emoticons",
+      "desc": "A collection of all the emoticons I use!",
+      "index": [
+        "personal",
+        "lists"
+      ],
+      "shard": [
+        "personal",
+        "lists"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "~personal/evodread.md": {
+      "slocs": 34,
+      "chars": 1591,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "self/evodread",
+      "head": "evodread",
+      "capt": "Dying inside.",
+      "title": "Evodread",
+      "desc": "A peculiar psychological afflication that comes and goes.",
+      "index": [
+        "personal"
+      ],
+      "shard": [
+        "personal"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "~personal/slinqui.md": {
+      "slocs": 26,
+      "chars": 2136,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "self/slinqui",
+      "head": "Slinqui",
+      "capt": null,
+      "title": "Slinqui",
+      "desc": null,
+      "index": [
+        "personal",
+        "lists"
+      ],
+      "shard": [
+        "personal",
+        "lists"
       ],
       "date": null,
       "date_display": null
@@ -622,6 +810,26 @@
       "shard": [
         "writing",
         "meta"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "Yu-Gi-Oh!/archetypes/Rubic.md": {
+      "slocs": 855,
+      "chars": 66054,
+      "isFeatured": true,
+      "isWoozy": false,
+      "dest": "yugioh/archetypes/rubic",
+      "head": "Rubic",
+      "capt": "Yu-Gi-Oh! Archetype",
+      "title": "Rubic",
+      "desc": "Yu-Gi-Oh! Archetype",
+      "index": [
+        "yugioh-archetypes"
+      ],
+      "shard": [
+        "yugioh-archetypes",
+        "yugioh"
       ],
       "date": null,
       "date_display": null
