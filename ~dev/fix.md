@@ -1,9 +1,11 @@
 # 42 Methods of Flawless Fail-Safe Fixing
-<!-- #QUARK live!
-  EXPORT: lists/fix
-  STYLE: dev
-  DUALITY: dark
-  INDEX: lists dev
+<!-- #SQUARK live!
+| export = dev/fix
+| style = dev
+| duality = dark
+| index = lists / dev
+| shard = #AUTO / funny
+| date = 2024 May
 -->
 
 Being a software developer is tough. So, if you’re ever in a pickle, and hopefully not one to do with pickling, here are some suggestions to help you fix the issue.
