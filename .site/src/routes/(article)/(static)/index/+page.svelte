@@ -1,14 +1,55 @@
-<script>
+<script lang="ts">
+
+import { ratio } from "fuzzball";
 
 import { base } from "$app/paths";
+import { onMount } from "svelte";
 
 import Site from "#src/site";
 
 
-$: pages = Object.values(Site.pages);
+const pages = Object.values(Site.pages);
+let pageSelection = [];
 
-function execSearch() {
-  return;
+onMount(() => {
+  pageSelection = searchFilter(pages);
+})
+
+
+let searchData = {
+  query: "",
+  field: null,
+  reverse: false,
+}
+
+function searchFilter<T>(pages: Array<T>): Array<T> {
+  let source = [...pages];
+
+  if (searchData.field) {
+    source = source.filter(
+      page => ratio(page.title, searchData.query) > 50
+    )
+    source.sort((prot, deut) => {
+      (deut[field] - prot[field]) * (searchData.reverse ? -1 : 1)
+    });
+  }
+  else {
+    if (searchData.query && searchData.query != "") {
+      source.sort((prot, deut) => (
+        (
+          (
+            ratio(deut.title, searchData.query)
+          // + 100 * deut.title.toString().include(searchData.query)
+          ) - (
+            ratio(prot.title, searchData.query)
+          // + 100 * prot.title.toString().include(searchData.query)
+          )
+        ) * (searchData.reverse ? -1 : 1)
+      ));
+    }
+  }
+
+  return source;
 }
 
 </script>
@@ -17,11 +58,14 @@ function execSearch() {
 <p> Explore all the pages in Assort! </p>
 
 <div id="search-controls">
-  <input id="search-bar" type="search" placeholder="Search..." />
+  <input id="search-bar" type="search"
+    placeholder="Search..."
+    bind:value={searchData.query}
+  />
 
-  <button id="search-button"
-    on:click={execSearch}
-  >
+  <button id="search-button" on:click={() => {
+    pageSelection = searchFilter(pages);
+  }}>
     <span class="material-symbols-outlined"> search </span>
   </button>
 </div>
@@ -36,7 +80,7 @@ function execSearch() {
     <th> Chars </th>
   </tr>
 
-  {#each pages as page}
+  {#each pageSelection as page}
     {@const indexed = page.index.map(each => Site.index[each])}
     {@const shards = page.shard.map(each => Site.shard[each])}
 
