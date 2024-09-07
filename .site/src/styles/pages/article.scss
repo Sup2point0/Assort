@@ -43,6 +43,11 @@ h3 {
   color: var(--col-head-trit);
 }
 
+h4 {
+  margin: 1em 0 0.5em;
+  font-size: 120%;
+}
+
 p {
   margin: 1em 0;
   @include font-body;

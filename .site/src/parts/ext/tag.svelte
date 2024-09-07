@@ -8,7 +8,7 @@ export let button: MouseEventHandler<HTMLElement> | undefined = undefined;
 export let col: string | string[] | undefined = undefined;
 
 
-const colour = "#" + col;
+const colour = "#" + col ?? "777777";
 
 </script>
 
