@@ -7,6 +7,8 @@ import { onMount } from "svelte";
 
 import Site from "#src/site";
 
+import type { PageData } from "#modules/types";
+
 
 const pages = Object.values(Site.pages);
 let pageSelection = [];
@@ -22,7 +24,7 @@ let searchData = {
   reverse: false,
 }
 
-function searchFilter<T>(pages: Array<T>): Array<T> {
+function searchFilter(pages: Array<PageData>): Array<PageData> {
   let source = [...pages];
 
   if (searchData.field) {
@@ -39,10 +41,10 @@ function searchFilter<T>(pages: Array<T>): Array<T> {
         (
           (
             ratio(deut.title, searchData.query)
-          // + 100 * deut.title.toString().include(searchData.query)
+          + (deut.title.toLowerCase().includes(searchData.query.toLowerCase()) ? 100 : 0)
           ) - (
             ratio(prot.title, searchData.query)
-          // + 100 * prot.title.toString().include(searchData.query)
+          + (prot.title.toLowerCase().includes(searchData.query.toLowerCase()) ? 100 : 0)
           )
         ) * (searchData.reverse ? -1 : 1)
       ));
