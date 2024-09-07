@@ -3,7 +3,7 @@ name: 'Assort'
 on:
   workflow_dispatch:
   push:
-    paths: 'deploy.yml'
+    paths: '*.yml'
   schedule:
     - cron: '20 4 * * 2,6'
 
