@@ -71,10 +71,10 @@ function execSearch() {
       <td> {page.date?.substring(0, 4) ?? ""} </td>
 
       <!-- SLOCS -->
-      <td> {page.slocs ?? "?"} </td>
+      <td class="deut"> {page.slocs ?? "?"} </td>
 
       <!-- CHARS -->
-      <td> {page.chars ?? "?"} </td>
+      <td class="deut"> {page.chars ?? "?"} </td>
     </tr>
   {/each}
 
@@ -92,6 +92,12 @@ td, th {
 
 th {
   text-align: left;
+}
+
+td {
+  &.deut {
+    color: var(--col-text-deut);
+  }
 }
 
 

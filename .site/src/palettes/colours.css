@@ -46,7 +46,7 @@
   --col-back-trit: ;
   --col-line: oklch(75% 0.006 269.73);
   --col-line-prot: ;
-  --col-line-deut: ;
+  --col-line-deut: oklch(85% 0.006 269.73);
   --col-link: #2070c1;
   --col-link-visit: #404090;
   --col-link-hover: #ff0090;
