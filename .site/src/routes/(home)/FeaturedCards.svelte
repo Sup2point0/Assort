@@ -8,7 +8,6 @@ import { pick } from "#modules/utils";
 
 
 const featuredSelection = pick(6, Object.values(Site.pages).filter(page => page.isFeatured));
-console.log("featuredSelection", featuredSelection);
 
 </script>
 

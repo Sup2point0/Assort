@@ -1,5 +1,7 @@
 <script lang="ts">
 
+import { page } from "$app/stores";
+
 import { prefs } from "#modules/stores";
 
 export let size: number;
@@ -7,7 +9,21 @@ export let link = "";
 export let duality: "light" | "dark" | undefined = undefined;
 
 
-const col = (duality ?? $prefs.cols.duality == "light") ? "#000" : "#fff";
+const col = (
+  (
+    // either duality is set statically
+    duality ?? (
+      // or the user has a preference
+      $prefs.cols.duality ? ($prefs.cols.duality == "light")
+      // or the page has a preference
+      : (
+        $page.data.duality ? $page.data.duality == "light"
+        // or no preference is found and we default to light
+        : true
+      )
+    )
+  ) ? "#000" : "#fff"
+);
 
 </script>
 

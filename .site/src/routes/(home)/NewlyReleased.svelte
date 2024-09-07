@@ -7,11 +7,15 @@ import ContentCard from "#parts/ext/card.content.svelte";
 import { pick } from "#modules/utils";
 
 
-const pages = [...Object.values(Site.pages)];
-pages.sort((prot, deut) => {
-  return new Date(deut.date) - new Date(prot.date);
-});
-const newSelection = pick(6, pages).slice(0, 6);
+let pages = (
+  [...Object.values(Site.pages)]
+  .sort((prot, deut) => {
+    return new Date(deut.date) - new Date(prot.date);
+  })
+  .slice(0, 12)
+);
+
+const newSelection = pick(6, pages);
 
 </script>
 
