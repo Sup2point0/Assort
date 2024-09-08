@@ -26,18 +26,20 @@ let status = Statuses[index];
 <style lang="scss">
 
 .flavour-status {
-  width: 100%;
-  margin-bottom: 2rem;
+  min-width: 20rem;
+  // margin-bottom: 2rem;
   padding: 0.5rem 0;
   text-align: center;
-  background-color: $lilac-cresc;
+  background-color: light-dark(white, black);
+  border-radius: 1rem;
+  filter: drop-shadow(0 2px 3px rgba(black, 40%))
 }
 
 p {
-  margin: 0;
+  margin: 0 1.5em;
   @include font-hand;
-  color: $purp-nova;
-  font-size: 200%;
+  color: var(--col-prot);
+  font-size: 120%;
 }
 
 </style>
