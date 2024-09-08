@@ -71,7 +71,7 @@ td, th {
   padding: 1em 0.5em;
   @include font-body;
   color: var(--col-text);
-  border-bottom: 1.25px solid var(--col-line);
+  border-bottom: 1.25px solid var(--col-line-deut);
 }
 
 th {

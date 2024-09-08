@@ -4,7 +4,7 @@
 | style = dev
 | duality = dark
 | index = dev / notes
-| date = 24 Apr
+| date = 2024 Apr
 -->
 
 <section class="synopsis">

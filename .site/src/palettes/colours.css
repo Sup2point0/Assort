@@ -51,9 +51,9 @@
   --col-link-visit: #404090;
   --col-link-hover: #ff0090;
   --col-link-click: #9040f1;
-  --col-card: white;
-  --col-card-hover: grey;
-  --col-card-click: darkgrey;
+  --col-card: oklch(99% 0.003 269.73);
+  --col-card-hover: oklch(95% 0.005 269.73);
+  --col-card-click: oklch(85% 0.005 269.73);
 }
 
 /* souper
