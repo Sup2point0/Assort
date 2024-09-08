@@ -27,12 +27,12 @@ let status = Statuses[index];
 
 .flavour-status {
   min-width: 20rem;
-  // margin-bottom: 2rem;
+  margin: 1rem 0 2rem;
   padding: 0.5rem 0;
   text-align: center;
   background-color: light-dark(white, black);
   border-radius: 1rem;
-  filter: drop-shadow(0 2px 3px rgba(black, 40%))
+  filter: drop-shadow(0 2px 3px rgba(black, 20%))
 }
 
 p {

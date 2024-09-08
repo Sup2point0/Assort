@@ -17,7 +17,7 @@ const featuredSelection = pick(6, Object.values(Site.pages).filter(page => page.
     {#each featuredSelection as article}
       <ContentCard width={20}
         title={article.title}
-        text={article.desc ?? "..."}
+        capt={article.capt ?? "..."}
         intern={article.dest}
       />
     {/each}

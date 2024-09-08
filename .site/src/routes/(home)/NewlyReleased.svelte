@@ -25,7 +25,7 @@ const newSelection = pick(6, pages);
     {#each newSelection as article}
       <ContentCard width={20}
         title={article.title}
-        text={article.desc ?? "..."}
+        capt={article.capt ?? "..."}
         intern={article.dest}
       />
     {/each}

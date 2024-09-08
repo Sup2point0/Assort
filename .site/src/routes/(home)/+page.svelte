@@ -107,6 +107,7 @@ section {
   margin-bottom: 2rem;
 }
 
+
 p#assort-welcome {
   @include font-hand;
   font-size: 200%;
@@ -115,12 +116,12 @@ p#assort-welcome {
 h1#assort {
   @include font-hand;
   margin: -1rem;
-  font-size: 1200%;
+  font-size: 1000%;
   color: $blue-nova;
 }
 p#assort-capt {
   @include font-hand;
-  font-size: 250%;
+  font-size: 200%;
   color: $lilac-nova;
 }
 

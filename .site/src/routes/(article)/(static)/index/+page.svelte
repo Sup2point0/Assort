@@ -27,15 +27,22 @@ let searchData = {
 function searchFilter(pages: Array<PageData>): Array<PageData> {
   let source = [...pages];
 
-  if (searchData.field) {
+  let querying = (searchData.query && searchData.query);
+
+  // check sufficient relevance first
+  if (querying) {
     source = source.filter(
-      page => ratio(page.title, searchData.query) > 50
+      page => ratio(page.title, searchData.query) > 10
     )
+  }
+
+  if (searchData.field) {
+    // sort by field relevance
     source.sort((prot, deut) => {
       (deut[field] - prot[field]) * (searchData.reverse ? -1 : 1)
     });
-  }
-  else {
+  } else {
+    // sort by query relevance
     if (searchData.query && searchData.query != "") {
       source.sort((prot, deut) => (
         (
@@ -114,13 +121,13 @@ function searchFilter(pages: Array<PageData>): Array<PageData> {
       </td>
 
       <!-- DATE -->
-      <td> {page.date?.substring(0, 4) ?? ""} </td>
+      <td class="deut"> {page.date?.substring(0, 4) ?? ""} </td>
 
       <!-- SLOCS -->
-      <td class="deut"> {page.slocs ?? "?"} </td>
+      <td class="trit"> {page.slocs ?? "?"} </td>
 
       <!-- CHARS -->
-      <td class="deut"> {page.chars ?? "?"} </td>
+      <td class="trit"> {page.chars ?? "?"} </td>
     </tr>
   {/each}
 
@@ -141,9 +148,8 @@ th {
 }
 
 td {
-  &.deut {
-    color: var(--col-text-deut);
-  }
+  &.deut { color: var(--col-text-deut); }
+  &.trit { color: var(--col-text-trit); }
 }
 
 

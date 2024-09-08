@@ -10,7 +10,3 @@
     border-bottom: $thickness solid var(--col-line);
   }
 }
-
-@mixin right-line($thickness) {
-  border-right: $thickness solid var(--col-line);
-}
