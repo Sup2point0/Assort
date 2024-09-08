@@ -7,12 +7,19 @@ import { page } from "$app/stores";
 
 <footer>
   <div class="left">
-    <p> LAST EDITED <span class="highlight">{$page.data.hist.edit}</span> </p>
-    <p> LAST DEPLOYED <span class="highlight">{$page.data.hist.deploy}</span> </p>
+    <p> LAST EDITED <span class="highlight">{
+      $page.data.hist?.edit ?? "?"
+    }</span> </p>
+
+    <p> LAST DEPLOYED <span class="highlight">{
+      $page.data.hist?.deploy ?? "?"
+    }</span> </p>
   </div>
 
-  <div class="left">
-    <p> VIEW ON <a href={$page.data.source.link}>GITHUB</a> </p>
+  <div class="right">
+    {#if $page.data.path}
+      <p> VIEW ON <a href={`https://github.com/Sup2point0/Assort/blob/origin/${page.data.path}`}>GITHUB</a> </p>
+    {/if}
   </div>
 </footer>
 

@@ -6,7 +6,9 @@ import { base } from "$app/paths";
 
 
 <nav>
-  <a href="{base}/frequerys"> frequeries </a>
+  <a href="{base}/synopsis"> synopsis </a>
+  <a href="{base}/frequerys"> frequerys </a>
+  <a href="{base}/index"> index </a>
   <a href="{base}/portal"> portal </a>
 </nav>
 
@@ -14,12 +16,12 @@ import { base } from "$app/paths";
 <style lang="scss">
 
 nav {
-  margin: 1rem;
+  margin: 0.5rem;
 }
 
 a {
   margin: 0;
-  padding: 0.25em 0.5em;
+  padding: 0.5em 0.75em;
 
   @include font-ui;
   color: var(--col-link);
@@ -27,8 +29,8 @@ a {
   text-decoration: none;
 
   @include interactive(
-    var(--col-back-deut),
-    var(--col-back-deut),
+    var(--col-hover),
+    var(--col-click),
   );
 }
 

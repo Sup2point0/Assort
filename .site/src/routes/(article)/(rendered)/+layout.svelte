@@ -8,4 +8,4 @@ import PageFooter from "#parts/page/footer.page.svelte";
 <slot />
 
 <IndexView />
-<!-- <PageFooter /> -->
+<PageFooter />
