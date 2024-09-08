@@ -1,5 +1,9 @@
 <script>
 
+import { onMount } from "svelte";
+
+import { visited } from "#modules/stores";
+
 import Footer from "#parts/core/footer.svelte";
 
 import FlavourStatus from "./FlavourStatus.svelte";
@@ -8,6 +12,13 @@ import Welcome from "./Welcome.svelte";
 import FeaturedCards from "./FeaturedCards.svelte";
 import ExploreCards from "./ExploreCards.svelte";
 import NewlyReleased from "./NewlyReleased.svelte";
+
+
+onMount(() => {
+  if (!$visited) {
+    $visited = true;
+  }
+});
 
 </script>
 
@@ -18,21 +29,23 @@ import NewlyReleased from "./NewlyReleased.svelte";
 
 <main>
   <div class="center">
-    <FlavourStatus />
-
     <section id="super">
       <p id="assort-welcome"> welcome to </p>
       <h1 id="assort"> ASSORT </h1>
       <p id="assort-capt"> An assortment of all my creations! </p>
     </section>
-
+    
     <QuickLinks />
 
     <hr>
 
-    <section id="welcome">
-      <Welcome />
-    </section>
+    {#if $visited}
+      <FlavourStatus />
+    {:else}
+      <section id="welcome">
+        <Welcome />
+      </section>
+    {/if}
 
     <section id="featured">
       <h2> Featured </h2>
@@ -91,7 +104,7 @@ main {
 
 section {
   width: 100%;
-  margin: 1rem 0;
+  margin-bottom: 2rem;
 }
 
 p#assort-welcome {
