@@ -57,6 +57,13 @@ import { popups } from "#modules/stores";
 
 <style lang="scss">
 
+h2 {
+  margin: 0.25em 0 1em;
+  @include font-head;
+  font-size: 150%;
+}
+
+
 .popup {
   width: min(80vw, 1600px);
   height: min(80vh, 900px);
@@ -76,7 +83,7 @@ import { popups } from "#modules/stores";
 }
 
 .content {
-  padding: 0.5rem 2rem;
+  padding: 0.75rem 2rem;
   color: var(--col-text);
   text-align: left;
 }

@@ -9,28 +9,11 @@ input[type="checkbox"] {
   height: 1.5em;
   position: relative;
   border: 2px solid var(--col-line);
-  border-radius: 0.25rem;
+  border-radius: 0.75rem;
   color: white;
 
-  &::before {
-    content: "#";
-    position: absolute;
-    top: 1px;
-    left: 4px;
-    font-size: 1em;
-    visibility: hidden;
-  }
-
   &:checked {
-    background: var(--col-prot);
-
-    &::before {
-      visibility: visible;
-    }
-  }
-  
-  &:checked::before {
-    visibility: visible;
+    background: var(--col-deut);
   }
 
   &:hover {

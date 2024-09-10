@@ -8,9 +8,9 @@ A card in the colours view for selecting colour palettes.
 import { prefs } from "#modules/stores";
 
 export let palette;
-export let duality: "light" | "dark";
+// export let duality: "light" | "dark";
 
-$: selected = ($prefs.cols.palettes[duality] == palette);
+$: selected = ($prefs.cols.palettes[palette.duality] == palette);
 
 </script>
 

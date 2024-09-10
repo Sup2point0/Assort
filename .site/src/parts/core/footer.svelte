@@ -10,7 +10,7 @@ import GitHubIcon from "#parts/misc/github-icon.svelte";
 <footer>
   <div class="left">
     <section id="footer-assort">
-      <img id="assort" alt="Assort" src="{base}/assort-block.png">
+      <!-- <img id="assort" alt="Assort" src="{base}/assort-block.png"> -->
       <p> An assortment of all my creations! </p>
     </section>
 

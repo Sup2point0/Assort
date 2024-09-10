@@ -23,7 +23,7 @@ function redirectRandomPage() {
   {#if $prefs.nav.shown}
     <div class="content">
       <section id="top">
-        <img alt="Assort" src="{base}/assort-block.png">
+        <!-- <img alt="Assort" src="{base}/assort-block.png"> -->
 
         <Click kind="trit" button={() => $prefs.nav.shown = false}>
           <span class="material-symbols-outlined">
