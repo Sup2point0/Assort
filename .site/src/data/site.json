@@ -1,5 +1,5 @@
 {
-  "exported": "2024-09-08",
+  "exported": "2024-09-10",
   "index": {
     "info": [
       ".squarkdown/content/frequerys.md",
@@ -8,6 +8,7 @@
     ],
     "dev": [
       "~dev/Gems in the Abstruse Internet.md",
+      "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
       "~dev/decoded.md",
       "~dev/fix.md",
@@ -15,6 +16,7 @@
     ],
     "lists": [
       "~dev/Gems in the Abstruse Internet.md",
+      "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
       "~dev/fix.md",
       "~personal/emoticons.md",
@@ -67,17 +69,20 @@
     ],
     "dev": [
       "~dev/Gems in the Abstruse Internet.md",
+      "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
       "~dev/decoded.md",
       "~poetry/The Programmer's Plight.md"
     ],
     "lists": [
       "~dev/Gems in the Abstruse Internet.md",
+      "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
       "~personal/emoticons.md",
       "~personal/slinqui.md"
     ],
     "opinion": [
+      "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md"
     ],
     "notes": [
@@ -246,6 +251,28 @@
       "date": null,
       "date_display": null
     },
+    "~dev/In Perfection/python.md": {
+      "slocs": 108,
+      "chars": 3728,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "dev/in-perfection/python",
+      "head": "In Perfection – Python",
+      "capt": null,
+      "title": "Python",
+      "desc": "Everything I love and dislove about the Python programming language",
+      "index": [
+        "lists",
+        "dev"
+      ],
+      "shard": [
+        "lists",
+        "dev",
+        "opinion"
+      ],
+      "date": null,
+      "date_display": null
+    },
     "~dev/In Perfection/ruby.md": {
       "slocs": 111,
       "chars": 2917,
@@ -270,7 +297,7 @@
     },
     "~dev/decoded.md": {
       "slocs": 43,
-      "chars": 3131,
+      "chars": 3133,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "dev/decoded",
@@ -286,8 +313,8 @@
         "dev",
         "notes"
       ],
-      "date": "0024-04-01",
-      "date_display": "24 Apr"
+      "date": "2024-04-01",
+      "date_display": "2024 Apr"
     },
     "~dev/fix.md": {
       "slocs": 56,

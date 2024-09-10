@@ -1,10 +1,13 @@
 /// Site data and config for global access
 
 const data = await import("./data/site.json");
+const palettes = await import("./palettes/palettes.json");
 
 
 const Site = {
   pages: data.pages,
+
+  palettes: Object.values(palettes),
 
   font: "Fira Sans",
   fonts: ["Segoe UI", "Noto Sans", "Fira Sans"],

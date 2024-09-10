@@ -1,8 +1,10 @@
 <script>
 
-import PrefsCell from "../parts/prefs.cell.svelte";
-
+import Site from "#src/site";
 import { prefs } from "#modules/stores";
+
+import PrefsCell from "../parts/prefs.cell.svelte";
+import PaletteCard from "../parts/card.palette.svelte";
 
 </script>
 
@@ -20,6 +22,12 @@ import { prefs } from "#modules/stores";
 <PrefsCell name="Colour Palette"
   desc="Choose how you want <em>Assort</em> to look!"
 />
+
+<section id="palette-cards">
+  {#each Site.palettes as palette}
+    <PaletteCard palette={palette} />
+  {/each}
+</section>
 
 
 <style lang="scss">
