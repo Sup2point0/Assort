@@ -9,11 +9,11 @@ import Click from "#parts/ext/click.svelte";
 
 import PrefsNav from "./nav.prefs.svelte";
 
-import NavPrefs from "./page/prefs.nav.svelte";
-import ToolsPrefs from "./page/prefs.tools.svelte";
-import TextPrefs from "./page/prefs.text.svelte";
-import ColsPrefs from "./page/prefs.cols.svelte";
-import A11yPrefs from "./page/prefs.a11y.svelte";
+import NavPrefs from "./views/prefs.nav.svelte";
+import ToolsPrefs from "./views/prefs.tools.svelte";
+import TextPrefs from "./views/prefs.text.svelte";
+import ColsPrefs from "./views/prefs.cols.svelte";
+import A11yPrefs from "./views/prefs.a11y.svelte";
 
 import { popups } from "#modules/stores";
 
