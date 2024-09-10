@@ -36,4 +36,5 @@ class ColsOptions {
 class A11yOptions {
   anim = true;
   "underline-links" = false;
+  "visited-links" = true;
 }
