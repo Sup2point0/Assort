@@ -1,22 +1,31 @@
 # Filler Text
+<!-- #SQUARK live!
+| dest = filltext
+| desc = Multi-purpose filler text that’s more fun than Lorem Ipsum
+| index = misc
+-->
 
 Yes, I spent my time on this.
+
+<br>
 
 ### Soon, everything would change.
 They could feel it, slithering through the undergrowth, dangling from the quivering branches, glinting in the pale moonlight. It was as if an invisible mist was descending upon them. An eerie uncertainty lay hanging in the air. It was too silent.
 
 <br>
 
-### A dark premonition of the future.
+### “Yap” – it’s an art.
+Indeed, concisely articulating one’s thoughts and perspectives is a challenge that requires skill, practice and time; what often goes underappreciated is the converse, the unapologetic predisposition to ‘yap’. It is simple and trivial to produce large, impressive words (or phrases) such as ‘isomorphic conjugacy’ or ‘asynchronous resolution’. More difficult, and very much more humorous, is stringing said words together in a seemingly coherent sentence of extraordinary density.
 
 <br>
 
 ### A profound sentence here indeed.
-When considering which filler text to utilize, there are a couple of important factors to consider, that will affect the effectiveness of the demonstration. This includes whether or not the text includes less common letters, a variety of words, both in spelling, length and semantics; these are all important to properly demonstrating a typeface, involving both its appearance and utility. The total length of the entire text should reflect the use of the font, such as with longer paragraphs having smaller font size.
+The effectiveness of filler text is dependent on a number of factors, some more important than others. This includes the letters (as well as numbers and punctuation) that appear within, the variety and lengths of the words, and the overall structure and semantics of the text. Above all, the aim is to present an accurate portrayal of the typeface’s usage in its intended environment – hence artificially maximising the different circumstances covered by one paragraph is vital.
 
 <br>
 
 ### It was as if the skies had shattered.
+Coruscating arcs of light streaked across the endless expanse, only to flash out of existence in an instant.
 
 <br>
 
