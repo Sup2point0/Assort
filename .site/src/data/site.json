@@ -12,6 +12,7 @@
       "~dev/In Perfection/ruby.md",
       "~dev/decoded.md",
       "~dev/fix.md",
+      "~dev/git.md",
       "~poetry/The Programmer's Plight.md"
     ],
     "lists": [
@@ -19,6 +20,7 @@
       "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
       "~dev/fix.md",
+      "~dev/git.md",
       "~personal/emoticons.md",
       "~personal/slinqui.md"
     ],
@@ -71,19 +73,27 @@
       "~dev/Gems in the Abstruse Internet.md",
       "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
+      "~dev/Python Syntax.md",
       "~dev/decoded.md",
+      "~dev/git.md",
       "~poetry/The Programmer's Plight.md"
     ],
     "lists": [
       "~dev/Gems in the Abstruse Internet.md",
       "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
+      "~dev/git.md",
       "~personal/emoticons.md",
       "~personal/slinqui.md"
     ],
     "opinion": [
       "~dev/In Perfection/python.md",
-      "~dev/In Perfection/ruby.md"
+      "~dev/In Perfection/ruby.md",
+      "~dev/Python Syntax.md"
+    ],
+    "writing": [
+      "~dev/Python Syntax.md",
+      "~writing/wriiting.md"
     ],
     "notes": [
       "~dev/decoded.md"
@@ -158,9 +168,6 @@
     ],
     "chinese": [
       "~poetry/折磨.md"
-    ],
-    "writing": [
-      "~writing/wriiting.md"
     ],
     "meta": [
       "~writing/wriiting.md"
@@ -295,10 +302,31 @@
       "date": null,
       "date_display": null
     },
+    "~dev/Python Syntax.md": {
+      "slocs": 231,
+      "chars": 12035,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "dev/python-syntax",
+      "head": "What’s up with my Python syntax?",
+      "capt": null,
+      "title": "What’s up with my Python syntax?",
+      "desc": "A deep dive into my Python syntax preferences and conventions.",
+      "index": [
+
+      ],
+      "shard": [
+        "dev",
+        "writing",
+        "opinion"
+      ],
+      "date": "2024-01-01",
+      "date_display": "2024 spring"
+    },
     "~dev/decoded.md": {
       "slocs": 43,
-      "chars": 3133,
-      "isFeatured": false,
+      "chars": 3139,
+      "isFeatured": true,
       "isWoozy": false,
       "dest": "dev/decoded",
       "head": "*decoded*",
@@ -318,8 +346,8 @@
     },
     "~dev/fix.md": {
       "slocs": 56,
-      "chars": 3765,
-      "isFeatured": false,
+      "chars": 3771,
+      "isFeatured": true,
       "isWoozy": false,
       "dest": "dev/fix",
       "head": "42 Methods of Flawless Fail-Safe Fixing",
@@ -336,6 +364,27 @@
       ],
       "date": "2024-05-01",
       "date_display": "2024 May"
+    },
+    "~dev/git.md": {
+      "slocs": 78,
+      "chars": 1407,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "dev/git",
+      "head": "`git checkout future-reference`",
+      "capt": null,
+      "title": "Git Gud",
+      "desc": "Really important Git commands to remember.",
+      "index": [
+        "dev",
+        "lists"
+      ],
+      "shard": [
+        "dev",
+        "lists"
+      ],
+      "date": null,
+      "date_display": null
     },
     "~lists/grateful.md": {
       "slocs": 13,
