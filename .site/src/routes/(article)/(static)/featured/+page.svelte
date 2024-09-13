@@ -5,13 +5,13 @@ import Site from "#src/site";
 import type { PageData } from "#modules/types";
 import SearchOptions from "#modules/types";
 
-import Search from "#parts/ext/Search.svelte";
+import Search from "#parts/ext/search.svelte";
 
 
 const featured = Site.featured;
-let searchOptions = new SearchOptions();
+let searchOptions = new SearchOptions<PageData>();
 
-$: let featuredPages = searchOptions.apply(featured);
+$: featuredPages = searchOptions.apply(featured);
 
 </script>
 
