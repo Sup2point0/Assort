@@ -8,8 +8,9 @@ A search input bar and button.
 import { createEventDispatcher } from "svelte";
 
 import { SearchOptions } from "#modules/types";
+import type { PageData } from "#modules/types";
 
-export let options: SearchOptions = new SearchOptions();
+export let options: SearchOptions<PageData> = new SearchOptions();
 
 
 const dispatch = createEventDispatcher();
@@ -34,13 +35,23 @@ const dispatch = createEventDispatcher();
 <style lang="scss">
 
 search {
-
+  width: 100%;
+  height: 3rem;
+  min-width: 20rem;
+  max-width: 80rem;
+  margin: 1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
 }
 
 input {
   appearance: none;
-  margin-right: 0.5rem;
-  padding: 0.5em 1em;
+  width: 100%;
+  height: 100%;
+  margin: 0 0.5rem 0 0;
+  padding-left: 1em;
   
   @include font-ui;
   font-size: 120%;
@@ -60,6 +71,7 @@ input {
 }
 
 button {
+  height: 100%;
   margin: 0;
   padding: 0.5rem 1rem;
   color: white;
