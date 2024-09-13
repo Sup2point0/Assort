@@ -7,18 +7,18 @@ import Site from "#src/site";
 import { pick } from "#modules/utils";
 
 
-const featuredSelection = pick(6, Object.values(Site.pages).filter(page => page.isFeatured));
+const featuredPages = pick(6, Site.featured);
 
 </script>
 
 
 <section>
   <div>
-    {#each featuredSelection as article}
+    {#each featuredPages as page}
       <ContentCard width={20}
-        title={article.title}
-        capt={article.capt ?? "..."}
-        intern={article.dest}
+        title={page.title}
+        capt={page.capt ?? "..."}
+        intern={page.dest}
       />
     {/each}
   </div>

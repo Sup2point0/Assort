@@ -1,4 +1,4 @@
-export function pick<T>(
+export default function pick<T>(
   n: number,
   source: Array<T>
 ): Array<T>

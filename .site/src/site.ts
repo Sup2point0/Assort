@@ -6,7 +6,7 @@ const data = await import("./data/site.json");
 const Site = {
   pages: data.pages,
   
-  featured: data.pages.filter(
+  featured: Object.values(data.pages).filter(
     page => page.isFeatured
   ),
 

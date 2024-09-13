@@ -3,7 +3,7 @@
 A search input bar and button.
 -->
 
-<script>
+<script lang="ts">
 
 import { createEventDispatcher } from "svelte";
 
@@ -14,16 +14,16 @@ export let options: SearchOptions = new SearchOptions();
 
 const dispatch = createEventDispatcher();
 
-</search>
+</script>
 
 
 <search>
   <input type="search"
     placeholder="Search"
-    bind:value={options.value}
+    bind:value={options.queryValue}
   />
 
-  <button on:click={dispatch("search")}>
+  <button on:click={() => dispatch("search")}>
     <span class="material-symbols-outlined">
       search
     </span>

@@ -1,11 +1,11 @@
-import { searchRatio } from "../utils/search-ratio";
+import searchRatio from "../utils/search-ratio";
 
 
 export default class SearchOptions<T>
 {
   queryValue: string = "";
-  queryWith: (T => string) = (data => data.title);
-  sortWith: (T => any) | null = null;
+  queryWith: ((source: T) => string) = (data => data.title);
+  sortWith: ((source: T) => any) | null = null;
   sortOrder: "ascend" | "descend" = "descend";
 
   apply(source: T[]): T[]
@@ -14,13 +14,16 @@ export default class SearchOptions<T>
 
     if (this.sortWith) {
       data.sort(
-        (prot, deut) => this.sortWith(prot) - this.sortWith(deut)
+        (prot, deut) => this.sortWith!(prot) - this.sortWith!(deut)
       );
     }
     else {
       if (this.queryValue) {
         data = data.sort(
-          (prot, deut) => searchRatio(prot) - searchRatio(deut)
+          (prot, deut) => (
+            searchRatio(this.queryValue, this.queryWith(prot))
+          - searchRatio(this.queryValue, this.queryWith(deut))
+          )
         );
       }
     }
