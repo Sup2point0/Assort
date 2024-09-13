@@ -6,6 +6,10 @@ const palettes = await import("./palettes/palettes.json");
 
 const Site = {
   pages: data.pages,
+  
+  featured: Object.values(data.pages).filter(
+    page => page.isFeatured
+  ),
 
   palettes: Object.values(palettes),
 

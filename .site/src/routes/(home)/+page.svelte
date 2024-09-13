@@ -117,12 +117,12 @@ h1#assort {
   @include font-hand;
   margin: -1rem;
   font-size: 1000%;
-  color: $blue-nova;
+  color: var(--col-prot);
 }
 p#assort-capt {
   @include font-hand;
   font-size: 200%;
-  color: $lilac-nova;
+  color: var(--col-flavour);
 }
 
 </style>

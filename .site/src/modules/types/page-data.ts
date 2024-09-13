@@ -4,9 +4,10 @@ export default interface PageData {
   isFeatured: boolean;
   isWoozy: boolean;
 
+  dest: string;
   title: string;
-  head: string;
   capt: string;
+  head: string;
   desc: string;
   index: string[];
   shard: string[];

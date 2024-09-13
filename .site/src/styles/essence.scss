@@ -1,5 +1,3 @@
-@use './src/styles/~nova' as *;
-@use './src/styles/~variables' as *;
 @use './src/styles/mixins/~fonts' as *;
 
 
@@ -40,7 +38,7 @@ hr {
 
 ::selection {
   color: white !important;
-  background-color: $pink-elec !important;
+  background-color: var(--col-select) !important;
 }
 
 
