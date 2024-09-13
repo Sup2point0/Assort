@@ -24,6 +24,9 @@ Arachnis
 Aversus
 AVERTRON  
 [Battle Sheep](Battle%20Sheep.md)  
+Cryptron  
+&emsp; Decryptron  
+&emsp; Encryptron  
 [**Darquess**](Darquess.md)  
 [Dead-Eyes](Dead-Eyes.md)  
 Deaden  
