@@ -31,8 +31,9 @@
  * Light colours for the Assort site
  */
 .soup {
-  --col-prot: #4090f1;
+  --col-prot: oklch(65.12% 0.18 262.62);
   --col-deut: #ff0090;
+  --col-flavour: #9090f1;
   --col-hover: rgba(0 0 0 / 8%);
   --col-click: rgba(0 0 0 / 16%);
   --col-focus: #40e0ff;
