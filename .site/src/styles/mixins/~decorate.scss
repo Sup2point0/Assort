@@ -1,6 +1,3 @@
-@use './src/styles/~variables' as *;
-
-
 @mixin line($thickness, $direction: none) {
   @if ($direction == "left") {
     border-left: $thickness solid var(--col-line);

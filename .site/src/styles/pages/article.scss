@@ -1,5 +1,3 @@
-@use './src/styles/~nova' as *;
-@use './src/styles/~variables' as *;
 @use './src/styles/mixins/~fonts' as *;
 @use './src/styles/mixins/~anim' as *;
 @use './src/styles/mixins/~interact' as *;
@@ -119,7 +117,7 @@ th {
 blockquote {
   margin: 0;
   padding-left: 1em;
-  @include line("left", 2px);
+  border-left: 2px solid var(--col-flavour);
 
   p {
     color: var(--col-text-deut);
@@ -157,7 +155,7 @@ summary {
   vertical-align: middle;
   border-radius: 0.5em;
   @include interactive(
-    var(--col-back-deut),
+    var(--col-back-trit),
     var(--col-back-deut)
   );
 
