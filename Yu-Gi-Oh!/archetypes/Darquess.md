@@ -1,4 +1,13 @@
 # Darquess
+<!-- #SQUARK live! feat!
+| dest = yugioh/archetypes/rubic
+| capt = Yu-Gi-Oh! Archetype
+| desc = An archetype of DARK and primarily Spellcaster Monsters revolving around banishing cards and dealing damage to the player themselves.
+| style = yugioh
+| index = yugioh-archetypes
+| shard = #INDEX / yugioh / degen
+| clean = braces
+-->
 
 An archetype of DARK and primarily Spellcaster Monsters, harnessing Ritual and Fusion Summoning through the unique Ritual and Fusion Spell [Darquess Rising](../cards/spells/ritual/Darquess%20Rising.md), revolving around banishing cards and dealing damage to the player themselves.
 

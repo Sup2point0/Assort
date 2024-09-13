@@ -1,5 +1,5 @@
 # fractal fracking
-<!-- #SQUARK live!
+<!-- #SQUARK live! feat!
 | dest = poetry/fracking
 | style = poetry 
 | index = poetry

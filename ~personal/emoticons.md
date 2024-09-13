@@ -1,5 +1,5 @@
 # Emoticons
-<!-- #SQUARK live!
+<!-- #SQUARK dead!
 | dest = self/emoticons
 | desc = A collection of all the emoticons I use!
 | style = personal
