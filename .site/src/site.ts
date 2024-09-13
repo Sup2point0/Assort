@@ -5,6 +5,10 @@ const data = await import("./data/site.json");
 
 const Site = {
   pages: data.pages,
+  
+  featured: data.pages.filter(
+    page => page.isFeatured
+  ),
 
   font: "Fira Sans",
   fonts: ["Segoe UI", "Noto Sans", "Fira Sans"],
