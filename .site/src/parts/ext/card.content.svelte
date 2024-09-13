@@ -3,13 +3,11 @@
 import { base } from "$app/paths";
 
 export let title: string;
-  export let col: string | undefined = undefined;
 export let capt: string | undefined = undefined;
 export let link: string | null = null;
   export let intern: string | null = null;
   export let extern: string | null = null;
 
-export let width: number | undefined = undefined;
 export let right: boolean = false;
 
 </script>
@@ -21,9 +19,8 @@ export let right: boolean = false;
     class:right
     href={link}
     target="_blank"
-    style:--width="{width}rem"
   >
-    <h4 style:--col={col}> {title} </h4>
+    <h4> {title} </h4>
     {#if capt}
       <p class="caption"> {capt} </p>
     {/if}
@@ -35,9 +32,8 @@ export let right: boolean = false;
     class="no-link-style"
     class:right
     href="{intern ? base + "/" : ""}{intern ?? link}"
-    style:--width="{width}rem"
   >
-    <h4 style:--col={col}> {title} </h4>
+    <h4> {title} </h4>
     {#if capt}
       <p class="caption"> {capt} </p>
     {/if}
@@ -71,7 +67,7 @@ h4 {
   margin: 0 0 0.5em;
   @include font-ui;
   font-size: 125%;
-  color: var(--col-link);
+  color: var(--col, --col-link);
 }
 
 p {

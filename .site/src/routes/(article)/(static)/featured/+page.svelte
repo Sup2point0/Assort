@@ -38,6 +38,8 @@ $: featuredPages = searchOptions.apply(featured);
 <style lang="scss">
 
 ul {
+  margin-top: 2rem;
+  padding: 0;
   display: grid;
 }
 
