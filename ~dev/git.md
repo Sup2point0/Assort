@@ -1,4 +1,11 @@
 # `git checkout future-reference`
+<!-- #SQUARK live!
+| dest = dev/git
+| title = Git Gud
+| desc = Really important Git commands to remember.
+| style = dev
+| index = dev / lists
+-->
 
 Unfortunately command line commands take a pretty significant amount of repetition and regular usage to sink in. I mean, I somehow managed to forget `mkdir` creates a folder, so... probably better to note down the really important ones here rather than have to dig up an old Stack Overflow post every time :v
 

@@ -1,10 +1,13 @@
 # What’s up with my Python syntax?
-<!-- #QUARK live!
-  EXPORT: dev/python-syntax
-  STYLE: dev
-  DUALITY: dark
-  INDEX: writing dev
-  DATE: 24 spring
+<!-- #SQUARK live!
+| dest = dev/python-syntax
+| desc = A deep dive into my Python syntax preferences and conventions.
+| style = dev
+| duality = dark
+| index = dev / writing
+| shard = #INDEX / opinion
+| date = 2024 spring
+| index = 
 -->
 
 If you‘ve taken a look at any of my code written in Python, you may have noticed its syntax is perhaps unconventional in many aspects – nothing that actually affects functionality, but plenty of idiosyncrasies that would immediately stick out to any seasoned Pythonista. I am well aware of this, and I apologise if this has caused any difficulty or distress (as I have been notified of – on several occasions) to anyone perusing my code.
