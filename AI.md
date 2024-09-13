@@ -1,10 +1,8 @@
 # Generative AI
-<!-- #QUARK live!
-  EXPORT: ai
-  STYLE: dev
-  INDEX: writing
-  SHARD: AI
-  DATE: June 2024
+<!-- #SQUARK live!
+| dest = ai
+| index = info / writing
+| date = 2024 June
 -->
 
 In an age of proliferating generative AI, human content is increasingly difficult to find.

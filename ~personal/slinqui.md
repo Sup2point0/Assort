@@ -1,5 +1,5 @@
 # Slinqui
-<!-- #SQUARK live!
+<!-- #SQUARK live! feat!
 | dest = self/slinqui
 | style = personal
 | index = personal / lists

@@ -1,5 +1,5 @@
 # The Programmer’s Plight
-<!-- #SQUARK live!
+<!-- #SQUARK live! feat!
 | dest = poetry/the-programmers-plight
 | style = poetry
 | index = poetry / dev
