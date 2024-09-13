@@ -33,11 +33,11 @@
 .soup {
   --col-prot: oklch(65.12% 0.18 262.62);
   --col-deut: #ff0090;
-  --col-select: #ff0090;
   --col-flavour: oklch(81.45% 0.096 301.79);
   --col-hover: rgba(0 0 0 / 8%);
   --col-click: rgba(0 0 0 / 16%);
   --col-focus: oklch(75.8% 0.1336 243.03);
+  --col-select: #ff0090;
   --col-text: oklch(1% 0 0);
   --col-text-prot: #204080;
   --col-text-deut: oklch(60% 0.0434 269.73);
@@ -47,7 +47,7 @@
   --col-back-deut: oklch(94.5% 0.009 269.73);
   --col-back-trit: oklch(96% 0.009 269.73);
   --col-line: oklch(75% 0.006 269.73);
-  --col-line-prot: ;
+  --col-line-prot: red;
   --col-line-deut: oklch(85% 0.006 269.73);
   --col-link: oklch(44% 0.16 260);
   --col-link-visit: #404090;

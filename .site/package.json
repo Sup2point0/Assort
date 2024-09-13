@@ -1,17 +1,17 @@
 {
-	"name": "site",
-	"version": "0.0.1",
+	"name": "assort",
+	"version": "1.4.0",
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
-		"devx": "npm run prep && npm run dev",
+      "devx": "npm run prep && npm run dev",
 		"prep": "npm run squark",
-		"prepx": "npm run squarkx && npm run vivid",
+      "prepx": "npm run squarkx && npm run vivid",
 		"squark": "cd ../.stranger-quarkdown && rake squark[fonts,scss] && cd ../.site",
-		"squarkx": "cd ../.stranger-quarkdown && rake squark[fonts,assets,scss] && cd ../.site",
+      "squarkx": "cd ../.stranger-quarkdown && rake squark[fonts,assets,scss] && cd ../.site",
 		"vivid": "python vividity/export --root=src/palettes --css=colours.css css json",
 		"build": "vite build",
-		"buildx": "npm run prepx && npm run build",
+      "buildx": "npm run prepx && npm run build",
 		"preview": "vite preview"
 	},
 	"devDependencies": {

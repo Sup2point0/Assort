@@ -1,7 +1,6 @@
 <script>
 
 import "#styles/essence.scss";
-// import "#styles/links.scss";
 
 import Content from "./~content.svx";
 
@@ -46,7 +45,7 @@ hr {
 }
 
 #footnote:not(:hover, :active) {
-  color: $teal-elec;
+  color: #40f190;
 }
 
 </style>
