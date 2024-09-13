@@ -123,7 +123,7 @@ Ah, this was when I was really into language. She had some cool articles.
 > 2021 (I think)
 <!-- #SQUARK caption. -->
 
-A journal of a trip to Antarctica. Isn’t that insane. I always wnated to read it. Just never found the time, and interest died away. Maybe I’ll read it sometime.
+A journal of a trip to Antarctica. Isn’t that insane. I always wanted to read it. Just never found the time, and interest died away. Maybe I’ll read it sometime.
 
 
 <br>
