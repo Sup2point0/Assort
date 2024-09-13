@@ -1,5 +1,5 @@
 {
-  "exported": "2024-09-08",
+  "exported": "2024-09-13",
   "index": {
     "info": [
       ".squarkdown/content/frequerys.md",
@@ -8,6 +8,7 @@
     ],
     "dev": [
       "~dev/Gems in the Abstruse Internet.md",
+      "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
       "~dev/decoded.md",
       "~dev/fix.md",
@@ -15,6 +16,7 @@
     ],
     "lists": [
       "~dev/Gems in the Abstruse Internet.md",
+      "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
       "~dev/fix.md",
       "~personal/emoticons.md",
@@ -67,17 +69,20 @@
     ],
     "dev": [
       "~dev/Gems in the Abstruse Internet.md",
+      "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
       "~dev/decoded.md",
       "~poetry/The Programmer's Plight.md"
     ],
     "lists": [
       "~dev/Gems in the Abstruse Internet.md",
+      "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
       "~personal/emoticons.md",
       "~personal/slinqui.md"
     ],
     "opinion": [
+      "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md"
     ],
     "notes": [
@@ -227,7 +232,7 @@
     },
     "~dev/Gems in the Abstruse Internet.md": {
       "slocs": 129,
-      "chars": 4925,
+      "chars": 5054,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "dev/internet-gems",
@@ -242,6 +247,28 @@
       "shard": [
         "dev",
         "lists"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "~dev/In Perfection/python.md": {
+      "slocs": 108,
+      "chars": 3728,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "dev/in-perfection/python",
+      "head": "In Perfection – Python",
+      "capt": null,
+      "title": "Python",
+      "desc": "Everything I love and dislove about the Python programming language",
+      "index": [
+        "lists",
+        "dev"
+      ],
+      "shard": [
+        "lists",
+        "dev",
+        "opinion"
       ],
       "date": null,
       "date_display": null
@@ -270,7 +297,7 @@
     },
     "~dev/decoded.md": {
       "slocs": 43,
-      "chars": 3131,
+      "chars": 3176,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "dev/decoded",
@@ -286,8 +313,8 @@
         "dev",
         "notes"
       ],
-      "date": "0024-04-01",
-      "date_display": "24 Apr"
+      "date": "2024-04-01",
+      "date_display": "2024 Apr"
     },
     "~dev/fix.md": {
       "slocs": 56,
@@ -453,7 +480,7 @@
     },
     "~poetry/Heavy Crown.md": {
       "slocs": 36,
-      "chars": 838,
+      "chars": 874,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/heavy-crown",
@@ -473,7 +500,7 @@
     },
     "~poetry/Lifeless.md": {
       "slocs": 39,
-      "chars": 855,
+      "chars": 894,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/lifeless",
@@ -532,7 +559,7 @@
     },
     "~poetry/Quantitative Quantitivity.md": {
       "slocs": 62,
-      "chars": 1328,
+      "chars": 1390,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/quantitative-quantitivity",
@@ -552,7 +579,7 @@
     },
     "~poetry/Reverie.md": {
       "slocs": 41,
-      "chars": 1072,
+      "chars": 1113,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/reverie",
@@ -593,7 +620,7 @@
     },
     "~poetry/Teardrop.md": {
       "slocs": 37,
-      "chars": 866,
+      "chars": 903,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/teardrop",
@@ -613,7 +640,7 @@
     },
     "~poetry/The Programmer's Plight.md": {
       "slocs": 128,
-      "chars": 4102,
+      "chars": 4230,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/the-programmers-plight",
@@ -635,7 +662,7 @@
     },
     "~poetry/This.md": {
       "slocs": 34,
-      "chars": 839,
+      "chars": 873,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/this",
@@ -655,7 +682,7 @@
     },
     "~poetry/Time of the Times.md": {
       "slocs": 29,
-      "chars": 786,
+      "chars": 815,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/time-of-the-times",
@@ -695,7 +722,7 @@
     },
     "~poetry/What Was This Called Again.md": {
       "slocs": 26,
-      "chars": 560,
+      "chars": 586,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/what-was-this-called-again",
@@ -756,7 +783,7 @@
     },
     "~poetry/readme.md": {
       "slocs": 48,
-      "chars": 1242,
+      "chars": 1290,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry",
@@ -815,15 +842,15 @@
       "date_display": null
     },
     "Yu-Gi-Oh!/archetypes/Rubic.md": {
-      "slocs": 855,
-      "chars": 66054,
+      "slocs": 856,
+      "chars": 67001,
       "isFeatured": true,
       "isWoozy": false,
       "dest": "yugioh/archetypes/rubic",
       "head": "Rubic",
       "capt": "Yu-Gi-Oh! Archetype",
       "title": "Rubic",
-      "desc": "Yu-Gi-Oh! Archetype",
+      "desc": "An archetype of DARK Cyberse Monsters inspired by trigonometry and Rubik’s cubes.",
       "index": [
         "yugioh-archetypes"
       ],

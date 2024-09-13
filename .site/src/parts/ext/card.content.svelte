@@ -5,7 +5,6 @@ import { base } from "$app/paths";
 export let title: string;
   export let col: string | undefined = undefined;
 export let capt: string | undefined = undefined;
-export let text: string = "";
 export let link: string | null = null;
   export let intern: string | null = null;
   export let extern: string | null = null;
@@ -28,7 +27,7 @@ export let right: boolean = false;
     {#if capt}
       <p class="caption"> {capt} </p>
     {/if}
-    <p> {@html text} </p>
+    <slot />
   </a>
 
 {:else}
@@ -42,7 +41,7 @@ export let right: boolean = false;
     {#if capt}
       <p class="caption"> {capt} </p>
     {/if}
-    <p> {@html text} </p>
+    <slot />
   </a>
 
 {/if}

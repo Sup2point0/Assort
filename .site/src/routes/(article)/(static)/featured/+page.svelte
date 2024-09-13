@@ -3,9 +3,10 @@
 import Site from "#src/site";
 
 import type { PageData } from "#modules/types";
-import SearchOptions from "#modules/types";
+import { SearchOptions } from "#modules/types";
 
 import Search from "#parts/ext/search.svelte";
+import ContentCard from "#parts/ext/card.content.svelte";
 
 
 const featured = Site.featured;
@@ -16,15 +17,20 @@ $: featuredPages = searchOptions.apply(featured);
 </script>
 
 
-<Search bind:options={searchOptions} />
+<Search
+  bind:options={searchOptions}
+  on:message={e => console.log(e.detail)}
+/>
 
 <ul>
   {#each featuredPages as page}
     <ContentCard
       title={page.title}
       capt={page.capt}
-      desc={page.desc}
-    />
+      intern={page.dest}
+    >
+      <p> {page.desc} </p>
+    </ContentCard>
   {/each}
 </ul>
 
