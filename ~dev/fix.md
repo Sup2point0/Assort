@@ -1,5 +1,5 @@
 # 42 Methods of Flawless Fail-Safe Fixing
-<!-- #SQUARK live!
+<!-- #SQUARK live! feat!
 | dest = dev/fix
 | style = dev
 | duality = dark

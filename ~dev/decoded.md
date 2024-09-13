@@ -1,5 +1,5 @@
 # *decoded*
-<!-- #SQUARK live!
+<!-- #SQUARK live! feat!
 | dest = dev/decoded
 | style = dev
 | duality = dark
