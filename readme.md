@@ -19,7 +19,7 @@ Here you’ll find all my interests, thoughts, writing, time-wasting, and maybe 
 ## Portal
 
 > [!Tip]
-> New here? Consider starting out on the [site](https://sup2point0.github.io/Assort) for a much nicer browsing experience!
+> New here? Consider starting out on the [site<sup>↗</sup>](https://sup2point0.github.io/Assort) for a much nicer browsing experience!
 
 ### Folders
 📁 [affine](affine)  
@@ -58,6 +58,9 @@ Hey, first of all, thank you so much for stopping by! I don’t really create al
 This is, like, everything from pretty much my entire life, so, y’know.
 
 I also want to clarify that *everything* here is organic – handwritten, hand-typed, hand-transcribed, and all – no use of AI or automation at all. The only exception would be `docs/`, but that’s just the HTML renders of other organic content in this repo (and some important pages are even manually written HTML ;)
+
+### Woah, I found something empty!
+Yeah, that happens. There are probably corners of *Assort* which I haven’t touched in years, and lie forgotten... maybe one day I’ll finish what I intended to start :P
 
 ### What do the folder prefixes indicate?
 Uppercase and lowercase are simply stylistic choices. Those with `~` are categories, while those with `.` are developmental files you don’t need to see. (ofc, if you want, you can take a look anyway ;)
