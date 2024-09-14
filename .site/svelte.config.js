@@ -41,6 +41,13 @@ const config = {
   ],
   
   extensions: [".svelte", ".md", ".svx"],
+
+  onwarn: (warning, handler) => {
+    if (warning.code === "css-unused-selector") {
+      return;
+    }
+    handler(warning);
+  },
 };
 
 export default config;
