@@ -10,8 +10,8 @@ A collection of really awesome Skyscrapers puzzles.
 
 | date | notes |
 | :--- | :---- |
-| [ending collapse!](www.brainbashers.com/p637037) | ending collapse! |
-| [Nov 22](www.brainbashers.com/p228337)
+| [April 22](https://www.brainbashers.com/p637037) | ending collapse! |
+| [Nov 22](https://www.brainbashers.com/p228337)
 | [Mar 4](https://www.brainbashers.com/showskyscrapers.asp?date=0304&size=5&diff=3) | |
 | [Mar 13](https://www.brainbashers.com/showskyscrapers.asp?date=0313&size=5&diff=3) | |
 | [Mar 14](https://www.brainbashers.com/showskyscrapers.asp?date=0314&size=5&diff=3) | |
@@ -25,7 +25,7 @@ A collection of really awesome Skyscrapers puzzles.
 
 | date | notes |
 | :--- | :---- |
-| [2024 September 14](www.brainbashers.com/p330726) | terrifying at first, but absolutely doable |
+| [2024 September 14](https://www.brainbashers.com/p330726) | terrifying at first, but absolutely doable |
 | [Jan 31](https://www.brainbashers.com/showskyscrapers.asp?date=0131&size=6&diff=3) | |
 | [Feb 7](https://www.brainbashers.com/showskyscrapers.asp?date=0207&size=6&diff=3) | |
 | [Mar 12](https://www.brainbashers.com/showskyscrapers.asp?date=0312&size=6&diff=3) | |
