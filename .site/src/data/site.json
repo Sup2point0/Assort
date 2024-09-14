@@ -1,5 +1,5 @@
 {
-  "exported": "2024-09-13",
+  "exported": "2024-09-14",
   "index": {
     "info": [
       ".squarkdown/content/frequerys.md",
@@ -13,7 +13,8 @@
       "~dev/decoded.md",
       "~dev/fix.md",
       "~dev/git.md",
-      "~poetry/The Programmer's Plight.md"
+      "~poetry/The Programmer's Plight.md",
+      "~writing/roots.md"
     ],
     "lists": [
       "~dev/Gems in the Abstruse Internet.md",
@@ -52,7 +53,10 @@
       "~poetry/折磨.md"
     ],
     "writing": [
-      "~writing/wriiting.md"
+      "~writing/commit.md",
+      "~writing/roots.md",
+      "~writing/wriiting.md",
+      "~writing/writing.md"
     ],
     "meta": [
       "~writing/wriiting.md"
@@ -74,13 +78,16 @@
       "~dev/In Perfection/ruby.md",
       "~dev/Python Syntax.md",
       "~dev/decoded.md",
+      "~dev/fix.md",
       "~dev/git.md",
-      "~poetry/The Programmer's Plight.md"
+      "~poetry/The Programmer's Plight.md",
+      "~writing/roots.md"
     ],
     "lists": [
       "~dev/Gems in the Abstruse Internet.md",
       "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
+      "~dev/fix.md",
       "~dev/git.md",
       "~personal/slinqui.md"
     ],
@@ -91,13 +98,13 @@
     ],
     "writing": [
       "~dev/Python Syntax.md",
-      "~writing/wriiting.md"
+      "~writing/commit.md",
+      "~writing/roots.md",
+      "~writing/wriiting.md",
+      "~writing/writing.md"
     ],
     "notes": [
       "~dev/decoded.md"
-    ],
-    "#auto": [
-      "~dev/fix.md"
     ],
     "funny": [
       "~dev/fix.md",
@@ -166,8 +173,14 @@
     "chinese": [
       "~poetry/折磨.md"
     ],
+    "wack": [
+      "~writing/commit.md"
+    ],
     "meta": [
       "~writing/wriiting.md"
+    ],
+    "rambling": [
+      "~writing/writing.md"
     ],
     "yugioh-archetypes": [
       "Yu-Gi-Oh!/archetypes/Darquess.md",
@@ -348,7 +361,7 @@
     },
     "~dev/fix.md": {
       "slocs": 56,
-      "chars": 3771,
+      "chars": 3772,
       "isFeatured": true,
       "isWoozy": false,
       "dest": "dev/fix",
@@ -361,7 +374,8 @@
         "dev"
       ],
       "shard": [
-        "#auto",
+        "lists",
+        "dev",
         "funny"
       ],
       "date": "2024-05-01",
@@ -850,6 +864,47 @@
       "date": "2024-01-01",
       "date_display": "2024 Summer"
     },
+    "~writing/commit.md": {
+      "slocs": 16,
+      "chars": 237,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "writing/commit",
+      "head": "2 September 2024",
+      "capt": null,
+      "title": "2 September 2024",
+      "desc": null,
+      "index": [
+        "writing"
+      ],
+      "shard": [
+        "writing",
+        "wack"
+      ],
+      "date": "2024-09-02",
+      "date_display": "2024 September 2"
+    },
+    "~writing/roots.md": {
+      "slocs": 29,
+      "chars": 1028,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "dev/roots",
+      "head": null,
+      "capt": null,
+      "title": "Roots",
+      "desc": null,
+      "index": [
+        "writing",
+        "dev"
+      ],
+      "shard": [
+        "writing",
+        "dev"
+      ],
+      "date": null,
+      "date_display": null
+    },
     "~writing/wriiting.md": {
       "slocs": 59,
       "chars": 3411,
@@ -870,6 +925,26 @@
       ],
       "date": null,
       "date_display": null
+    },
+    "~writing/writing.md": {
+      "slocs": 61,
+      "chars": 4267,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "writing/writing",
+      "head": "writing.",
+      "capt": null,
+      "title": "writing.",
+      "desc": "Why do we write?",
+      "index": [
+        "writing"
+      ],
+      "shard": [
+        "writing",
+        "rambling"
+      ],
+      "date": "2023-01-01",
+      "date_display": "2023 summer"
     },
     "Yu-Gi-Oh!/archetypes/Darquess.md": {
       "slocs": 562,
