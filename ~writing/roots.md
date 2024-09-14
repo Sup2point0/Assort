@@ -1,3 +1,9 @@
+<!-- #SQUARK live!
+| dest = dev/roots
+| title = Roots
+| head = 
+| index = writing / dev
+-->
 When Java master Olst was young, he was especially fond of paths and roads.
 
 One day, Java master Zuki sent young Olst on a journey crossing a large grass plain.
@@ -15,3 +21,9 @@ Master Zuki stroked his chin and tapped the young Olst on his head.
 ‘In truth, there are no paths, only routes taken by others. Who says where grass ends and path begins?’
 
 And so young Olst was enlightened.
+
+
+<br>
+
+
+*Inspired by [The Codeless Code](http://thecodelesscode.com/case/234).*
