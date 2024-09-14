@@ -21,14 +21,12 @@
       "~dev/In Perfection/ruby.md",
       "~dev/fix.md",
       "~dev/git.md",
-      "~personal/emoticons.md",
       "~personal/slinqui.md"
     ],
     "notes": [
       "~dev/decoded.md"
     ],
     "personal": [
-      "~personal/emoticons.md",
       "~personal/evodread.md",
       "~personal/slinqui.md"
     ],
@@ -60,6 +58,7 @@
       "~writing/wriiting.md"
     ],
     "yugioh-archetypes": [
+      "Yu-Gi-Oh!/archetypes/Darquess.md",
       "Yu-Gi-Oh!/archetypes/Rubic.md"
     ]
   },
@@ -83,7 +82,6 @@
       "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
       "~dev/git.md",
-      "~personal/emoticons.md",
       "~personal/slinqui.md"
     ],
     "opinion": [
@@ -106,7 +104,6 @@
       "~poetry/The Programmer's Plight.md"
     ],
     "personal": [
-      "~personal/emoticons.md",
       "~personal/evodread.md",
       "~personal/slinqui.md"
     ],
@@ -173,10 +170,15 @@
       "~writing/wriiting.md"
     ],
     "yugioh-archetypes": [
+      "Yu-Gi-Oh!/archetypes/Darquess.md",
       "Yu-Gi-Oh!/archetypes/Rubic.md"
     ],
     "yugioh": [
+      "Yu-Gi-Oh!/archetypes/Darquess.md",
       "Yu-Gi-Oh!/archetypes/Rubic.md"
+    ],
+    "degen": [
+      "Yu-Gi-Oh!/archetypes/Darquess.md"
     ]
   },
   "pages": {
@@ -405,27 +407,6 @@
       "date": null,
       "date_display": null
     },
-    "~personal/emoticons.md": {
-      "slocs": 78,
-      "chars": 2555,
-      "isFeatured": false,
-      "isWoozy": false,
-      "dest": "self/emoticons",
-      "head": "Emoticons",
-      "capt": null,
-      "title": "Emoticons",
-      "desc": "A collection of all the emoticons I use!",
-      "index": [
-        "personal",
-        "lists"
-      ],
-      "shard": [
-        "personal",
-        "lists"
-      ],
-      "date": null,
-      "date_display": null
-    },
     "~personal/evodread.md": {
       "slocs": 34,
       "chars": 1591,
@@ -447,8 +428,8 @@
     },
     "~personal/slinqui.md": {
       "slocs": 26,
-      "chars": 2136,
-      "isFeatured": false,
+      "chars": 2142,
+      "isFeatured": true,
       "isWoozy": false,
       "dest": "self/slinqui",
       "head": "Slinqui",
@@ -689,8 +670,8 @@
     },
     "~poetry/The Programmer's Plight.md": {
       "slocs": 128,
-      "chars": 4102,
-      "isFeatured": false,
+      "chars": 4108,
+      "isFeatured": true,
       "isWoozy": false,
       "dest": "poetry/the-programmers-plight",
       "head": "The Programmer’s Plight",
@@ -811,8 +792,8 @@
     },
     "~poetry/fractal fracking.md": {
       "slocs": 44,
-      "chars": 1397,
-      "isFeatured": false,
+      "chars": 1403,
+      "isFeatured": true,
       "isWoozy": false,
       "dest": "poetry/fracking",
       "head": "fractal fracking",
@@ -886,6 +867,27 @@
       "shard": [
         "writing",
         "meta"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "Yu-Gi-Oh!/archetypes/Darquess.md": {
+      "slocs": 562,
+      "chars": 46792,
+      "isFeatured": true,
+      "isWoozy": false,
+      "dest": "yugioh/archetypes/rubic",
+      "head": "Darquess",
+      "capt": "Yu-Gi-Oh! Archetype",
+      "title": "Darquess",
+      "desc": "An archetype of DARK and primarily Spellcaster Monsters revolving around banishing cards and dealing damage to the player themselves.",
+      "index": [
+        "yugioh-archetypes"
+      ],
+      "shard": [
+        "yugioh-archetypes",
+        "yugioh",
+        "degen"
       ],
       "date": null,
       "date_display": null
