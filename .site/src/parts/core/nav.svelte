@@ -35,6 +35,10 @@ function redirectRandomPage() {
       <section>
         <h2> Explore </h2>
         <NavLink text="home" link="https://sup2point0.github.io/Assort" />
+        <NavLink text="synopsis" intern="synopsis"
+          hover="what is Assort?" />
+        <NavLink text="frequerys" intern="frequerys"
+          hover="fervently anticipated questions" />
         <NavLink text="featured" intern="featured"
           hover="explore featured pages" />
         <NavLink text="contents" intern="contents"
@@ -92,10 +96,6 @@ function redirectRandomPage() {
 
       <section>
         <h2> Meta </h2>
-        <NavLink text="synopsis" intern="synopsis"
-          hover="what is Assort?" />
-        <NavLink text="frequerys" intern="frequerys"
-          hover="fervently anticipated questions" />
         <NavLink text="AI" intern="ai"
           hover="generative AI statement" />
         <NavLink text="license" intern="license"
