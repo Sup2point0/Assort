@@ -4,7 +4,7 @@
 | style = dev
 | duality = dark
 | index = lists / dev
-| shard = #AUTO / funny
+| shard = #INDEX / funny
 | date = 2024 May
 -->
 
