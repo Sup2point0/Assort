@@ -37,7 +37,7 @@ function redirectRandomPage() {
         <NavLink text="home" link="https://sup2point0.github.io/Assort" />
         <NavLink text="featured" intern="featured"
           hover="explore featured pages" />
-        <NavLink text="index" intern="index"
+        <NavLink text="contents" intern="contents"
           hover="explore all pages" />
         <NavLink text="portal" button={redirectRandomPage}
           hover="take me somewhere cool!" />

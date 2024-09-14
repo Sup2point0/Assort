@@ -8,7 +8,7 @@ import { base } from "$app/paths";
 <nav>
   <a href="{base}/synopsis"> synopsis </a>
   <a href="{base}/frequerys"> frequerys </a>
-  <a href="{base}/index"> index </a>
+  <a href="{base}/contents"> contents </a>
   <!-- <a href="{base}/portal"> portal </a> -->
 </nav>
 

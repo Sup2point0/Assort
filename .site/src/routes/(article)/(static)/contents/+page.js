@@ -1,7 +1,8 @@
 export async function load() {
   return {
-    title: "Index",
+    title: "Contents",
     capt: "Special Page",
+    desc: "Index of all the pages in Assort",
     index: [],
   };
 }
