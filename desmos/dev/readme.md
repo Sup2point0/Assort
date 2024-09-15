@@ -4,6 +4,7 @@
 | index = desmos / dev / writing
 | shard = #INDEX
 | date = 2024 autumn
+| clean = braces
 -->
 
 Did you know you can develop games in Desmos?
