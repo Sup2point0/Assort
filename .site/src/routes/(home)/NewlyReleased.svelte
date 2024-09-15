@@ -23,8 +23,8 @@ const newSelection = pick(6, pages);
 <section>
   <div>
     {#each newSelection as article}
-      <ContentCard width={20}
-        title={article.title}
+      <ContentCard style="--width: 20rem"
+        title={article.title ?? "..."}
         capt={article.capt ?? "..."}
         intern={article.dest}
       />

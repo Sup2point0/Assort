@@ -15,8 +15,8 @@ const featuredPages = pick(6, Site.featured);
 <section>
   <div>
     {#each featuredPages as page}
-      <ContentCard width={20}
-        title={page.title}
+      <ContentCard style="--width: 20rem"
+        title={page.title ?? "..."}
         capt={page.capt ?? "..."}
         intern={page.dest}
       />

@@ -7,32 +7,32 @@ import ContentCard from "#parts/ext/card.content.svelte";
 
 <section>
   <div>
-    <ContentCard width={20}
+    <ContentCard style="--width: 20rem"
       title="music"
       capt="Adventures in software development"
       intern="dev"
     />
-    <ContentCard width={20}
+    <ContentCard style="--width: 20rem"
       title="dev"
       capt="adventures in software development"
       intern="dev"
     />
-    <ContentCard width={20}
+    <ContentCard style="--width: 20rem"
       title="writing"
       capt="writing of all sorts"
       intern="dev"
     />
-    <ContentCard width={20}
+    <ContentCard style="--width: 20rem"
       title="poetry"
       capt="overly melodramatic poetic waffle"
       intern="dev"
     />
-    <ContentCard width={20}
+    <ContentCard style="--width: 20rem"
       title="graphic design"
       capt="freshly made in PowerPoint 2016!"
       intern="dev"
     />
-    <ContentCard width={20}
+    <ContentCard style="--width: 20rem"
       title="lists"
       capt="lists of everything"
       intern="dev"

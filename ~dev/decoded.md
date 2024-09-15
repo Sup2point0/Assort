@@ -1,6 +1,7 @@
 # *decoded*
 <!-- #SQUARK live! feat!
 | dest = dev/decoded
+| title = decoded
 | style = dev
 | duality = dark
 | index = dev / notes
