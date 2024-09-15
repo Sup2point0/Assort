@@ -1,0 +1,130 @@
+# Interests Index
+<!-- #SQUARK live!
+| dest = self/interests
+| desc = All my loves, interests, and hobbies.
+| index = personal / lists
+-->
+
+I love a lot of things. Like, maybe a bit too many.
+
+If you spot any you love too (try ctrl+f and see what you get), hit me up on Discord `@sup2.0`!
+
+
+* Anime
+    * *Kanojo Okarishimasu* (*Rent-a-Girlfriend*)
+    * *Oshi no Ko*
+    * *Suzume no Tojimaru*
+    * *Yosuga no Sora*
+* Applications
+    * Microsoft PowerPoint
+    * Chemdraw
+* Bloons
+    * BTD5
+    * Bloons Super Monkey 2
+    * BTD6
+    * Bloons Pop!
+* Books
+    * Harry Potter
+    * Legend
+    * Red Queen
+    * The Hunger Games
+* Cars
+    * Asphalt 8: Airborne
+    * Asphalt 9: Legends
+* Chemistry
+    * Organic chemistry
+* Fanfiction
+    * Harry Potter
+* Films / movies
+    * Avatar
+    * Dune
+* Graphic design
+    * Colour theory
+    * Typography (fonts)
+* Greek mythology
+    * Percy Jackson
+* Linguistics
+    * Fictional languages
+        * Na'vi
+* Marvel
+    * Spider-man
+* Maths
+    * Calculus
+        * Differentiation
+        * Integration
+    * Complex numbers
+        * Quaternions
+    * Geometry
+    * Graph sketching
+        * Desmos
+* Minecraft
+* Music
+    * Instruments
+        * Piano
+        * Drums
+    * Genres
+        * Artcore
+        * Drum N’ Bass
+        * Electronic
+        * Neurofunk
+    * Artists
+        * Camellia
+        * Elektronomia
+        * Hinkik
+        * MYUKKE.
+        * Silentroom
+        * tn-shi
+    * Music production
+        * GarageBand
+        * MuseScore
+* Physics
+    * Particle physics
+* Pokémon
+    * Pokémon XY and XYZ
+    * Pokémon TCG
+* Programming
+    * Game development
+        * Scratch
+        * Unity
+    * Machine learning
+        * Neural networks
+    * Web development
+        * Svelte (SvelteKit)
+* Puzzles
+    * Skyscrapers
+    * Sudoku
+* Reading
+    * Dystopian fantasy future fiction
+    * Romance
+* Rhythm games
+    * Phigros
+    * osu!
+* SHMUPs
+    * AirAttack
+    * AirAttack 2
+* Technology
+    * Devices
+        *   Laptops
+        *   Phones
+    * Nomenclature
+* Tennis
+* Ultraman
+    * Ultraman Mebius
+    * Ultraman Zero
+* Webtoons
+* Writing
+    * Creative writing
+    * Poetry
+* Yu-Gi-Oh!
+    * Anime
+        * Battle City
+        * ZEXAL
+        * ARC-V
+        * VRAINS
+    * Custom cards
+* .io Gamez
+    * arras.io
+    * diep.io
+    * fightz.io
+    * littlebigsnake.io
+    * zombs.io
