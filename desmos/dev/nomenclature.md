@@ -1,6 +1,7 @@
 # Nomenclature
 <!-- #SQUARK live!
 | dest = desmos/dev/nomenclature
+| clean = braces
 -->
 
 Unfortunately, we can’t name functions we define in Desmos with more than 1 letter like $\text{random}()$ or $\text{length}()$. It’s gotta be like $f(x)$ or $g(x)$. This is evidently not ideal, as we’ll run out of letters eventually, and we need to represent a lot of things when developing a program.

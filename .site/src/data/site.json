@@ -6,7 +6,6 @@
     ],
     "writing": [
       "AI.md",
-      "desmos/dev/readme.md",
       "~writing/commit.md",
       "~writing/roots.md",
       "~writing/wriiting.md",
@@ -22,11 +21,7 @@
       "Yu-Gi-Oh!/archetypes/Rubic.md",
       "Yu-Gi-Oh!/archetypes/Soul.md"
     ],
-    "desmos": [
-      "desmos/dev/readme.md"
-    ],
     "dev": [
-      "desmos/dev/readme.md",
       "~dev/Gems in the Abstruse Internet.md",
       "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
@@ -42,6 +37,7 @@
       "~dev/In Perfection/ruby.md",
       "~dev/fix.md",
       "~dev/git.md",
+      "~personal/interests.md",
       "~personal/slinqui.md"
     ],
     "notes": [
@@ -52,6 +48,7 @@
     ],
     "personal": [
       "~personal/evodread.md",
+      "~personal/interests.md",
       "~personal/slinqui.md"
     ],
     "poetry": [
@@ -85,7 +82,6 @@
     ],
     "writing": [
       "AI.md",
-      "desmos/dev/readme.md",
       "~dev/Python Syntax.md",
       "~writing/commit.md",
       "~writing/roots.md",
@@ -109,11 +105,7 @@
       "Yu-Gi-Oh!/archetypes/Rubic.md",
       "~poetry/fractal fracking.md"
     ],
-    "desmos": [
-      "desmos/dev/readme.md"
-    ],
     "dev": [
-      "desmos/dev/readme.md",
       "~dev/Gems in the Abstruse Internet.md",
       "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
@@ -130,6 +122,7 @@
       "~dev/In Perfection/ruby.md",
       "~dev/fix.md",
       "~dev/git.md",
+      "~personal/interests.md",
       "~personal/slinqui.md"
     ],
     "opinion": [
@@ -149,6 +142,7 @@
     ],
     "personal": [
       "~personal/evodread.md",
+      "~personal/interests.md",
       "~personal/slinqui.md"
     ],
     "poetry": [
@@ -314,8 +308,8 @@
     },
     "desmos/dev/functions.md": {
       "path": "desmos/dev/functions.md",
-      "slocs": 49,
-      "chars": 652,
+      "slocs": 50,
+      "chars": 669,
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
@@ -335,8 +329,8 @@
     },
     "desmos/dev/nomenclature.md": {
       "path": "desmos/dev/nomenclature.md",
-      "slocs": 60,
-      "chars": 3049,
+      "slocs": 61,
+      "chars": 3066,
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
@@ -353,31 +347,6 @@
       ],
       "date": null,
       "date_display": null
-    },
-    "desmos/dev/readme.md": {
-      "path": "desmos/dev/readme.md",
-      "slocs": 62,
-      "chars": 2202,
-      "isIndex": false,
-      "isFeatured": false,
-      "isWoozy": false,
-      "dest": "desmos/dev",
-      "title": "A Primer to Programming in Desmos",
-      "head": "A Primer to Programming in Desmos",
-      "capt": null,
-      "desc": null,
-      "index": [
-        "desmos",
-        "dev",
-        "writing"
-      ],
-      "shard": [
-        "desmos",
-        "dev",
-        "writing"
-      ],
-      "date": "2024-01-01",
-      "date_display": "2024 autumn"
     },
     "~dev/Gems in the Abstruse Internet.md": {
       "path": "~dev/Gems in the Abstruse Internet.md",
@@ -602,6 +571,29 @@
       ],
       "shard": [
         "personal"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "~personal/interests.md": {
+      "path": "~personal/interests.md",
+      "slocs": 130,
+      "chars": 2147,
+      "isIndex": false,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "self/interests",
+      "title": "Interests Index",
+      "head": "Interests Index",
+      "capt": null,
+      "desc": "All my loves, interests, and hobbies.",
+      "index": [
+        "personal",
+        "lists"
+      ],
+      "shard": [
+        "personal",
+        "lists"
       ],
       "date": null,
       "date_display": null
