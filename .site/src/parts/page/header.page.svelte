@@ -19,8 +19,8 @@ import Tag from "#parts/ext/tag.svelte";
   </div>
 
   <div>
-    {#if $page.data.dateDisplay}
-      <p id="date" class="caption"> {$page.data.dateDisplay} </p>
+    {#if $page.data.date_display}
+      <p id="date" class="caption"> {$page.data.date_display} </p>
     {/if}
 
     <div id="shards">

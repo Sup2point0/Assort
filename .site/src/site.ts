@@ -1,17 +1,22 @@
 /// Site data and config for global access
 
+import type { PageData } from "./modules/types";
+
+
 const data = await import("./data/site.json");
 const palettes = await import("./palettes/palettes.json");
+console.log("palettes =");
+console.log(palettes);
 
 
-const Site = {
+const Site: SiteData = {
   pages: data.pages,
   
   featured: Object.values(data.pages).filter(
     page => page.isFeatured
   ),
 
-  palettes: Object.values(palettes),
+  palettes: palettes.default,
 
   font: "Fira Sans",
   fonts: ["Segoe UI", "Noto Sans", "Fira Sans"],
@@ -48,6 +53,20 @@ const Site = {
   },
 };
 export default Site;
+
+interface SiteData {
+  pages: PagesData;
+  featured: PageData[];
+  palettes: object[];
+  font: string;
+  fonts: string[];
+  index: object;
+  shard: object;
+}
+
+interface PagesData {
+  [index: string]: PageData;
+}
 
 
 export const Statuses: Array<string> = (

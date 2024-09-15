@@ -1,4 +1,13 @@
 # Soul
+<!-- #SQUARK live!
+| dest = yugioh/archetypes/soul
+| capt = Yu-Gi-Oh! Archetype
+| desc = An archetype of DARK Monsters of various Types, revolving around Ritual and Synchro Summoning, with Grave effects and non-targeting soft removal.
+| style = yugioh
+| index = yugioh / yugioh-archetypes
+| shard = #INDEX
+| clean = braces
+-->
 
 An archetype of DARK Monsters of various Types, revolving around Ritual and Synchro Summoning, with Grave effects and non-targeting soft removal.
 
