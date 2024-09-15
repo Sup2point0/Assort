@@ -20,21 +20,21 @@ jobs:
         with:
           submodules: recursive
 
-      - name: 'Ruby / setup'
+      - name: 'ruby / setup'
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
           bundler-cache: true
 
-      - name: 'Ruby / install'
+      - name: 'ruby / squarkdown / install'
         run: cd ../.stranger-quarkdown && bundle install
 
-      - name: 'Python / setup'
+      - name: 'python / setup'
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      - name: 'Python / Vividity / install'
+      - name: 'python / vividity / install'
         run: |
           cd vividity
           pip install jsonschema
@@ -42,23 +42,23 @@ jobs:
         # pip install pip-tools
         # FIXME
 
-      - name: 'Node / install'
+      - name: 'node / setup'
         uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: 'npm'
           cache-dependency-path: './.site/package-lock.json'
 
-      - name: 'npm / install'
+      - name: 'svelte / install'
         run: npm install
 
-      - name: 'npm / build'
+      - name: 'svelte / build'
         env:
           BASE_PATH: '/${{ github.event.repository.name }}/site'
         run: |
           npm run buildx
 
-      - name: 'GitHub / upload artifacts'
+      - name: 'github / upload artifacts'
         uses: actions/upload-pages-artifact@v3
         with:
           path: '.site/build/'
