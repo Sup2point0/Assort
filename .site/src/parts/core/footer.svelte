@@ -57,7 +57,7 @@ p {
 footer {
   width: 100%;
   margin: 0;
-  padding: 2rem 4.2rem 6.9rem;
+  padding: 2rem 4rem 5rem;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
