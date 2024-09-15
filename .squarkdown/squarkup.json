@@ -5,15 +5,17 @@
 
   "site": ".site",
   "sources": [
-    ".squarkdown/content",
-    "~dev",
-    "~lists",
-    "~personal",
-    "~poetry",
-    "~writing",
-    "Yu-Gi-Oh!"
+    ""
   ],
   "exclude": [
+    ".github/workflows",
+    ".site",
+    ".squarkdown",
+    "stranger-quarkdown",
+    "Antarctica",
+    "Victory",
+    "~code",
+    "~graphics"
   ],
   "dest": ".site/src/routes/(article)/(rendered)",
   "if-no-dir": ["warn", "create"],
