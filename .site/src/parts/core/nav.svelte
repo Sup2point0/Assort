@@ -1,20 +1,10 @@
 <script>
 
-import { base } from "$app/paths";
-
-import Site from "#src/site";
 import { prefs } from "#modules/stores";
+import { portal } from "#modules/utils";
 
 import NavLink from "#parts/core/nav.link.svelte";
 import Click from "#parts/ext/click.svelte";
-
-
-const pages = Object.values(Site.pages);
-
-function redirectRandomPage() {
-  let idx = Math.floor(Math.random() * pages.length);
-  window.location.href = `${base}/${pages[idx].dest}`;
-}
 
 </script>
 
@@ -43,7 +33,7 @@ function redirectRandomPage() {
           hover="explore featured pages" />
         <NavLink text="contents" intern="contents"
           hover="explore all pages" />
-        <NavLink text="portal" button={redirectRandomPage}
+        <NavLink text="portal" button={() => { window.location.href = portal(); }}
           hover="take me somewhere cool!" />
       </section>
       
