@@ -14,7 +14,7 @@ export let right: boolean = false;
 
 
 {#if extern}
-  <a
+  <a style={$$restProps.style} style:color="var(--col-link)"
     class="no-link-style"
     class:right
     href={link}
@@ -28,7 +28,7 @@ export let right: boolean = false;
   </a>
 
 {:else}
-  <a
+  <a style={$$restProps.style} style:color="var(--col-link)"
     class="no-link-style"
     class:right
     href="{intern ? base + "/" : ""}{intern ?? link}"
