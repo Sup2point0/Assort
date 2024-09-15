@@ -1,5 +1,5 @@
 {
-  "exported": "2024-09-14",
+  "exported": "2024-09-15",
   "index": {
     "info": [
       ".squarkdown/content/frequerys.md",
@@ -61,9 +61,15 @@
     "meta": [
       "~writing/wriiting.md"
     ],
+    "yugioh": [
+      "Yu-Gi-Oh!/archetypes/Darquess.md",
+      "Yu-Gi-Oh!/archetypes/Rubic.md",
+      "Yu-Gi-Oh!/archetypes/Soul.md"
+    ],
     "yugioh-archetypes": [
       "Yu-Gi-Oh!/archetypes/Darquess.md",
-      "Yu-Gi-Oh!/archetypes/Rubic.md"
+      "Yu-Gi-Oh!/archetypes/Rubic.md",
+      "Yu-Gi-Oh!/archetypes/Soul.md"
     ]
   },
   "shard": {
@@ -168,7 +174,8 @@
       "~poetry/fractal fracking.md"
     ],
     "maths": [
-      "~poetry/fractal fracking.md"
+      "~poetry/fractal fracking.md",
+      "Yu-Gi-Oh!/archetypes/Rubic.md"
     ],
     "chinese": [
       "~poetry/折磨.md"
@@ -182,13 +189,15 @@
     "rambling": [
       "~writing/writing.md"
     ],
-    "yugioh-archetypes": [
-      "Yu-Gi-Oh!/archetypes/Darquess.md",
-      "Yu-Gi-Oh!/archetypes/Rubic.md"
-    ],
     "yugioh": [
       "Yu-Gi-Oh!/archetypes/Darquess.md",
-      "Yu-Gi-Oh!/archetypes/Rubic.md"
+      "Yu-Gi-Oh!/archetypes/Rubic.md",
+      "Yu-Gi-Oh!/archetypes/Soul.md"
+    ],
+    "yugioh-archetypes": [
+      "Yu-Gi-Oh!/archetypes/Darquess.md",
+      "Yu-Gi-Oh!/archetypes/Rubic.md",
+      "Yu-Gi-Oh!/archetypes/Soul.md"
     ],
     "degen": [
       "Yu-Gi-Oh!/archetypes/Darquess.md"
@@ -196,14 +205,16 @@
   },
   "pages": {
     ".squarkdown/content/frequerys.md": {
+      "path": ".squarkdown/content/frequerys.md",
       "slocs": 59,
       "chars": 2091,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "frequerys",
+      "title": "Frequerys",
       "head": "Frequerys",
       "capt": "Frequent Queries",
-      "title": "Frequerys",
       "desc": "Frequent queries related to Assort",
       "index": [
         "info"
@@ -215,14 +226,16 @@
       "date_display": null
     },
     ".squarkdown/content/privacy.md": {
+      "path": ".squarkdown/content/privacy.md",
       "slocs": 15,
       "chars": 583,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "privacy",
+      "title": "Privacy",
       "head": "Privacy",
       "capt": null,
-      "title": "Privacy",
       "desc": null,
       "index": [
         "info"
@@ -234,14 +247,16 @@
       "date_display": null
     },
     ".squarkdown/content/synopsis.md": {
+      "path": ".squarkdown/content/synopsis.md",
       "slocs": 16,
       "chars": 680,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "synopsis",
+      "title": "Synopsis",
       "head": "Synopsis",
       "capt": "What is Assort?",
-      "title": "Synopsis",
       "desc": "An assortment of all my creations!",
       "index": [
         "info"
@@ -253,14 +268,16 @@
       "date_display": null
     },
     "~dev/Gems in the Abstruse Internet.md": {
+      "path": "~dev/Gems in the Abstruse Internet.md",
       "slocs": 129,
       "chars": 4925,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "dev/internet-gems",
+      "title": "Gems in the Abstruse Internet",
       "head": "Gems in the Abstruse Internet",
       "capt": null,
-      "title": "Gems in the Abstruse Internet",
       "desc": "A collection of incredible creations, resources, sites and articles I’ve discovered in the internet",
       "index": [
         "dev",
@@ -274,14 +291,16 @@
       "date_display": null
     },
     "~dev/In Perfection/python.md": {
+      "path": "~dev/In Perfection/python.md",
       "slocs": 108,
       "chars": 3728,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "dev/in-perfection/python",
+      "title": "Python",
       "head": "In Perfection – Python",
       "capt": null,
-      "title": "Python",
       "desc": "Everything I love and dislove about the Python programming language",
       "index": [
         "lists",
@@ -296,14 +315,16 @@
       "date_display": null
     },
     "~dev/In Perfection/ruby.md": {
+      "path": "~dev/In Perfection/ruby.md",
       "slocs": 111,
       "chars": 2917,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "dev/in-perfection/ruby",
+      "title": "Ruby",
       "head": "In Perfection – Ruby",
       "capt": null,
-      "title": "Ruby",
       "desc": "Everything I love and dislove about the Ruby programming language",
       "index": [
         "lists",
@@ -318,14 +339,16 @@
       "date_display": null
     },
     "~dev/Python Syntax.md": {
+      "path": "~dev/Python Syntax.md",
       "slocs": 231,
       "chars": 12035,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "dev/python-syntax",
+      "title": "What’s up with my Python syntax?",
       "head": "What’s up with my Python syntax?",
       "capt": null,
-      "title": "What’s up with my Python syntax?",
       "desc": "A deep dive into my Python syntax preferences and conventions.",
       "index": [
 
@@ -339,14 +362,16 @@
       "date_display": "2024 spring"
     },
     "~dev/decoded.md": {
+      "path": "~dev/decoded.md",
       "slocs": 43,
       "chars": 3139,
+      "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
       "dest": "dev/decoded",
+      "title": "*decoded*",
       "head": "*decoded*",
       "capt": null,
-      "title": "*decoded*",
       "desc": null,
       "index": [
         "dev",
@@ -360,14 +385,16 @@
       "date_display": "2024 Apr"
     },
     "~dev/fix.md": {
+      "path": "~dev/fix.md",
       "slocs": 56,
       "chars": 3772,
+      "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
       "dest": "dev/fix",
+      "title": "42 Methods of Flawless Fail-Safe Fixing",
       "head": "42 Methods of Flawless Fail-Safe Fixing",
       "capt": null,
-      "title": "42 Methods of Flawless Fail-Safe Fixing",
       "desc": null,
       "index": [
         "lists",
@@ -382,14 +409,16 @@
       "date_display": "2024 May"
     },
     "~dev/git.md": {
+      "path": "~dev/git.md",
       "slocs": 78,
       "chars": 1407,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "dev/git",
+      "title": "Git Gud",
       "head": "`git checkout future-reference`",
       "capt": null,
-      "title": "Git Gud",
       "desc": "Really important Git commands to remember.",
       "index": [
         "dev",
@@ -403,14 +432,16 @@
       "date_display": null
     },
     "~lists/grateful.md": {
+      "path": "~lists/grateful.md",
       "slocs": 13,
       "chars": 394,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "lists/gratefulness",
+      "title": "Things I’m Grateful For",
       "head": "Things I’m Grateful For",
       "capt": null,
-      "title": "Things I’m Grateful For",
       "desc": "All the wonderful things in life that I’m grateful for.",
       "index": [
 
@@ -422,14 +453,16 @@
       "date_display": null
     },
     "~personal/evodread.md": {
+      "path": "~personal/evodread.md",
       "slocs": 34,
       "chars": 1591,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "self/evodread",
+      "title": "Evodread",
       "head": "evodread",
       "capt": "Dying inside.",
-      "title": "Evodread",
       "desc": "A peculiar psychological afflication that comes and goes.",
       "index": [
         "personal"
@@ -441,14 +474,16 @@
       "date_display": null
     },
     "~personal/slinqui.md": {
+      "path": "~personal/slinqui.md",
       "slocs": 26,
       "chars": 2142,
+      "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
       "dest": "self/slinqui",
+      "title": "Slinqui",
       "head": "Slinqui",
       "capt": null,
-      "title": "Slinqui",
       "desc": null,
       "index": [
         "personal",
@@ -462,14 +497,16 @@
       "date_display": null
     },
     "~poetry/Forsitan.md": {
+      "path": "~poetry/Forsitan.md",
       "slocs": 33,
       "chars": 614,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/forsitan",
+      "title": "Forsitan",
       "head": "Forsitan",
       "capt": null,
-      "title": "Forsitan",
       "desc": null,
       "index": [
         "poetry"
@@ -482,14 +519,16 @@
       "date_display": "2021 December 11"
     },
     "~poetry/Fractured, Shattered, Hearted.md": {
+      "path": "~poetry/Fractured, Shattered, Hearted.md",
       "slocs": 59,
       "chars": 1596,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/shattered-fractured-hearted",
+      "title": "Shattered, Fractured, Hearted",
       "head": "Shattered, Fractured, Hearted",
       "capt": null,
-      "title": "Shattered, Fractured, Hearted",
       "desc": null,
       "index": [
         "poetry"
@@ -503,14 +542,16 @@
       "date_display": "2024 August 30"
     },
     "~poetry/Heartburn.md": {
+      "path": "~poetry/Heartburn.md",
       "slocs": 42,
       "chars": 1271,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/heartburn",
+      "title": "Heartburn",
       "head": "Heartburn",
       "capt": null,
-      "title": "Heartburn",
       "desc": null,
       "index": [
         "poetry"
@@ -523,14 +564,16 @@
       "date_display": "2024 February"
     },
     "~poetry/Heavy Crown.md": {
+      "path": "~poetry/Heavy Crown.md",
       "slocs": 36,
       "chars": 838,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/heavy-crown",
+      "title": "Heavy Crown",
       "head": "Heavy Crown",
       "capt": null,
-      "title": "Heavy Crown",
       "desc": null,
       "index": [
         "poetry"
@@ -543,14 +586,16 @@
       "date_display": "2021 September"
     },
     "~poetry/Lifeless.md": {
+      "path": "~poetry/Lifeless.md",
       "slocs": 39,
       "chars": 855,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/lifeless",
+      "title": "Lifeless",
       "head": "Lifeless",
       "capt": null,
-      "title": "Lifeless",
       "desc": null,
       "index": [
         "poetry"
@@ -563,14 +608,16 @@
       "date_display": "2023 April"
     },
     "~poetry/Nameless.md": {
+      "path": "~poetry/Nameless.md",
       "slocs": 38,
       "chars": 798,
+      "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
       "dest": "poetry/nameless",
+      "title": "Nameless",
       "head": "Nameless",
       "capt": null,
-      "title": "Nameless",
       "desc": null,
       "index": [
         "poetry"
@@ -583,14 +630,16 @@
       "date_display": "2023 May"
     },
     "~poetry/Perfect.md": {
+      "path": "~poetry/Perfect.md",
       "slocs": 20,
       "chars": 644,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": true,
       "dest": "poetry/perfect",
+      "title": "Perfect",
       "head": "Perfect",
       "capt": null,
-      "title": "Perfect",
       "desc": null,
       "index": [
 
@@ -602,14 +651,16 @@
       "date_display": null
     },
     "~poetry/Quantitative Quantitivity.md": {
+      "path": "~poetry/Quantitative Quantitivity.md",
       "slocs": 62,
       "chars": 1328,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/quantitative-quantitivity",
+      "title": "Quantitative Quantitivity",
       "head": "Quantitative Quantitivity",
       "capt": null,
-      "title": "Quantitative Quantitivity",
       "desc": null,
       "index": [
         "poetry"
@@ -622,14 +673,16 @@
       "date_display": "2023 March"
     },
     "~poetry/Reverie.md": {
+      "path": "~poetry/Reverie.md",
       "slocs": 41,
       "chars": 1072,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/reverie",
+      "title": "Reverie",
       "head": "Reverie",
       "capt": null,
-      "title": "Reverie",
       "desc": null,
       "index": [
         "poetry"
@@ -642,14 +695,16 @@
       "date_display": "2021 December"
     },
     "~poetry/Strive.md": {
+      "path": "~poetry/Strive.md",
       "slocs": 48,
       "chars": 945,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/strive",
+      "title": "Strive",
       "head": "Strive",
       "capt": null,
-      "title": "Strive",
       "desc": null,
       "index": [
         "poetry"
@@ -663,14 +718,16 @@
       "date_display": "2022 June"
     },
     "~poetry/Teardrop.md": {
+      "path": "~poetry/Teardrop.md",
       "slocs": 37,
       "chars": 866,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/teardrop",
+      "title": "Teardrop",
       "head": "Teardrop",
       "capt": null,
-      "title": "Teardrop",
       "desc": null,
       "index": [
         "poetry"
@@ -683,14 +740,16 @@
       "date_display": "2022 September"
     },
     "~poetry/The Programmer's Plight.md": {
+      "path": "~poetry/The Programmer's Plight.md",
       "slocs": 128,
       "chars": 4108,
+      "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
       "dest": "poetry/the-programmers-plight",
+      "title": "The Programmer’s Plight",
       "head": "The Programmer’s Plight",
       "capt": null,
-      "title": "The Programmer’s Plight",
       "desc": null,
       "index": [
         "poetry",
@@ -705,14 +764,16 @@
       "date_display": "2024 July 27"
     },
     "~poetry/This.md": {
+      "path": "~poetry/This.md",
       "slocs": 34,
       "chars": 839,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/this",
+      "title": "This",
       "head": "This",
       "capt": null,
-      "title": "This",
       "desc": null,
       "index": [
         "poetry"
@@ -725,14 +786,16 @@
       "date_display": "2021 April"
     },
     "~poetry/Time of the Times.md": {
+      "path": "~poetry/Time of the Times.md",
       "slocs": 29,
       "chars": 786,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/time-of-the-times",
+      "title": "Time of the Times",
       "head": "Time of the Times",
       "capt": null,
-      "title": "Time of the Times",
       "desc": null,
       "index": [
         "poetry"
@@ -745,14 +808,16 @@
       "date_display": "2021 November"
     },
     "~poetry/Titles.md": {
+      "path": "~poetry/Titles.md",
       "slocs": 49,
       "chars": 1306,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/titles",
+      "title": "NO-t ev:ry tiT|e Has2b3 Ide.NticalIy_G1",
       "head": "NO-t ev:ry tiT|e Has2b3 Ide.NticalIy_G1",
       "capt": null,
-      "title": "NO-t ev:ry tiT|e Has2b3 Ide.NticalIy_G1",
       "desc": null,
       "index": [
         "poetry"
@@ -765,14 +830,16 @@
       "date_display": "2023 April"
     },
     "~poetry/What Was This Called Again.md": {
+      "path": "~poetry/What Was This Called Again.md",
       "slocs": 26,
       "chars": 560,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/what-was-this-called-again",
+      "title": "What Was This Called Again?",
       "head": "What Was This Called Again?",
       "capt": null,
-      "title": "What Was This Called Again?",
       "desc": null,
       "index": [
         "poetry"
@@ -785,14 +852,16 @@
       "date_display": "2023 March"
     },
     "~poetry/Wordless.md": {
+      "path": "~poetry/Wordless.md",
       "slocs": 56,
       "chars": 1365,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/wordless",
+      "title": "Wordless",
       "head": "Wordless",
       "capt": null,
-      "title": "Wordless",
       "desc": null,
       "index": [
         "poetry"
@@ -805,14 +874,16 @@
       "date_display": "2023 December"
     },
     "~poetry/fractal fracking.md": {
+      "path": "~poetry/fractal fracking.md",
       "slocs": 44,
       "chars": 1403,
+      "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
       "dest": "poetry/fracking",
+      "title": "fractal fracking",
       "head": "fractal fracking",
       "capt": null,
-      "title": "fractal fracking",
       "desc": null,
       "index": [
         "poetry"
@@ -826,14 +897,16 @@
       "date_display": "2024 May 28"
     },
     "~poetry/readme.md": {
+      "path": "~poetry/readme.md",
       "slocs": 48,
       "chars": 1242,
+      "isIndex": true,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry",
+      "title": "Poetry",
       "head": "Poetry",
       "capt": null,
-      "title": "Poetry",
       "desc": null,
       "index": [
         "poetry"
@@ -845,14 +918,16 @@
       "date_display": null
     },
     "~poetry/折磨.md": {
+      "path": "~poetry/折磨.md",
       "slocs": 58,
       "chars": 508,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/折磨",
+      "title": "折磨",
       "head": "折磨",
       "capt": null,
-      "title": "折磨",
       "desc": null,
       "index": [
         "poetry"
@@ -865,14 +940,16 @@
       "date_display": "2024 Summer"
     },
     "~writing/commit.md": {
+      "path": "~writing/commit.md",
       "slocs": 16,
       "chars": 237,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "writing/commit",
+      "title": "2 September 2024",
       "head": "2 September 2024",
       "capt": null,
-      "title": "2 September 2024",
       "desc": null,
       "index": [
         "writing"
@@ -885,14 +962,16 @@
       "date_display": "2024 September 2"
     },
     "~writing/roots.md": {
+      "path": "~writing/roots.md",
       "slocs": 29,
       "chars": 1028,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "dev/roots",
+      "title": "Roots",
       "head": null,
       "capt": null,
-      "title": "Roots",
       "desc": null,
       "index": [
         "writing",
@@ -906,14 +985,16 @@
       "date_display": null
     },
     "~writing/wriiting.md": {
+      "path": "~writing/wriiting.md",
       "slocs": 59,
       "chars": 3411,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "writing/wriiting",
+      "title": "Yet More Writing",
       "head": "Yet More Writing",
       "capt": null,
-      "title": "Yet More Writing",
       "desc": null,
       "index": [
         "writing",
@@ -927,14 +1008,16 @@
       "date_display": null
     },
     "~writing/writing.md": {
+      "path": "~writing/writing.md",
       "slocs": 61,
       "chars": 4267,
+      "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
       "dest": "writing/writing",
+      "title": "writing.",
       "head": "writing.",
       "capt": null,
-      "title": "writing.",
       "desc": "Why do we write?",
       "index": [
         "writing"
@@ -947,42 +1030,72 @@
       "date_display": "2023 summer"
     },
     "Yu-Gi-Oh!/archetypes/Darquess.md": {
+      "path": "Yu-Gi-Oh!/archetypes/Darquess.md",
       "slocs": 562,
-      "chars": 46792,
+      "chars": 46795,
+      "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
-      "dest": "yugioh/archetypes/rubic",
+      "dest": "yugioh/archetypes/darquess",
+      "title": "Darquess",
       "head": "Darquess",
       "capt": "Yu-Gi-Oh! Archetype",
-      "title": "Darquess",
       "desc": "An archetype of DARK and primarily Spellcaster Monsters revolving around banishing cards and dealing damage to the player themselves.",
       "index": [
+        "yugioh",
         "yugioh-archetypes"
       ],
       "shard": [
-        "yugioh-archetypes",
         "yugioh",
+        "yugioh-archetypes",
         "degen"
       ],
       "date": null,
       "date_display": null
     },
     "Yu-Gi-Oh!/archetypes/Rubic.md": {
+      "path": "Yu-Gi-Oh!/archetypes/Rubic.md",
       "slocs": 856,
-      "chars": 66145,
+      "chars": 66153,
+      "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
       "dest": "yugioh/archetypes/rubic",
+      "title": "Rubic",
       "head": "Rubic",
       "capt": "Yu-Gi-Oh! Archetype",
-      "title": "Rubic",
       "desc": "An archetype of DARK Cyberse Monsters inspired by trigonometry and Rubik’s cubes.",
       "index": [
+        "yugioh",
         "yugioh-archetypes"
       ],
       "shard": [
+        "yugioh",
         "yugioh-archetypes",
-        "yugioh"
+        "maths"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "Yu-Gi-Oh!/archetypes/Soul.md": {
+      "path": "Yu-Gi-Oh!/archetypes/Soul.md",
+      "slocs": 773,
+      "chars": 69633,
+      "isIndex": false,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "yugioh/archetypes/soul",
+      "title": "Soul",
+      "head": "Soul",
+      "capt": "Yu-Gi-Oh! Archetype",
+      "desc": "An archetype of DARK Monsters of various Types, revolving around Ritual and Synchro Summoning, with Grave effects and non-targeting soft removal.",
+      "index": [
+        "yugioh",
+        "yugioh-archetypes"
+      ],
+      "shard": [
+        "yugioh",
+        "yugioh-archetypes"
       ],
       "date": null,
       "date_display": null

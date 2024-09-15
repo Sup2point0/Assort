@@ -5,12 +5,12 @@ export default interface PageData {
   isWoozy: boolean;
 
   dest: string;
-  title: string;
-  capt: string;
-  head: string;
-  desc: string;
-  index: string[];
-  shard: string[];
-  date: Date;
-  dateDisplay: string;
+  title?: string | null;
+  capt?: string | null;
+  head?: string | null;
+  desc?: string | null;
+  index?: string[] | null;
+  shard?: string[] | null;
+  date?: string | null;
+  date_display?: string | null;
 }
