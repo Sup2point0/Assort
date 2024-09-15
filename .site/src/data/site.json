@@ -2,11 +2,31 @@
   "exported": "2024-09-15",
   "index": {
     "info": [
-      ".squarkdown/content/frequerys.md",
-      ".squarkdown/content/privacy.md",
-      ".squarkdown/content/synopsis.md"
+      "AI.md"
+    ],
+    "writing": [
+      "AI.md",
+      "desmos/dev/readme.md",
+      "~writing/commit.md",
+      "~writing/roots.md",
+      "~writing/wriiting.md",
+      "~writing/writing.md"
+    ],
+    "yugioh": [
+      "Yu-Gi-Oh!/archetypes/Darquess.md",
+      "Yu-Gi-Oh!/archetypes/Rubic.md",
+      "Yu-Gi-Oh!/archetypes/Soul.md"
+    ],
+    "yugioh-archetypes": [
+      "Yu-Gi-Oh!/archetypes/Darquess.md",
+      "Yu-Gi-Oh!/archetypes/Rubic.md",
+      "Yu-Gi-Oh!/archetypes/Soul.md"
+    ],
+    "desmos": [
+      "desmos/dev/readme.md"
     ],
     "dev": [
+      "desmos/dev/readme.md",
       "~dev/Gems in the Abstruse Internet.md",
       "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
@@ -26,6 +46,9 @@
     ],
     "notes": [
       "~dev/decoded.md"
+    ],
+    "misc": [
+      "~misc/filltext.md"
     ],
     "personal": [
       "~personal/evodread.md",
@@ -52,14 +75,22 @@
       "~poetry/readme.md",
       "~poetry/折磨.md"
     ],
+    "meta": [
+      "~writing/wriiting.md"
+    ]
+  },
+  "shard": {
+    "info": [
+      "AI.md"
+    ],
     "writing": [
+      "AI.md",
+      "desmos/dev/readme.md",
+      "~dev/Python Syntax.md",
       "~writing/commit.md",
       "~writing/roots.md",
       "~writing/wriiting.md",
       "~writing/writing.md"
-    ],
-    "meta": [
-      "~writing/wriiting.md"
     ],
     "yugioh": [
       "Yu-Gi-Oh!/archetypes/Darquess.md",
@@ -70,15 +101,19 @@
       "Yu-Gi-Oh!/archetypes/Darquess.md",
       "Yu-Gi-Oh!/archetypes/Rubic.md",
       "Yu-Gi-Oh!/archetypes/Soul.md"
-    ]
-  },
-  "shard": {
-    "info": [
-      ".squarkdown/content/frequerys.md",
-      ".squarkdown/content/privacy.md",
-      ".squarkdown/content/synopsis.md"
+    ],
+    "degen": [
+      "Yu-Gi-Oh!/archetypes/Darquess.md"
+    ],
+    "maths": [
+      "Yu-Gi-Oh!/archetypes/Rubic.md",
+      "~poetry/fractal fracking.md"
+    ],
+    "desmos": [
+      "desmos/dev/readme.md"
     ],
     "dev": [
+      "desmos/dev/readme.md",
       "~dev/Gems in the Abstruse Internet.md",
       "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
@@ -102,19 +137,15 @@
       "~dev/In Perfection/ruby.md",
       "~dev/Python Syntax.md"
     ],
-    "writing": [
-      "~dev/Python Syntax.md",
-      "~writing/commit.md",
-      "~writing/roots.md",
-      "~writing/wriiting.md",
-      "~writing/writing.md"
-    ],
     "notes": [
       "~dev/decoded.md"
     ],
     "funny": [
       "~dev/fix.md",
       "~poetry/The Programmer's Plight.md"
+    ],
+    "misc": [
+      "~misc/filltext.md"
     ],
     "personal": [
       "~personal/evodread.md",
@@ -173,10 +204,6 @@
       "~poetry/Titles.md",
       "~poetry/fractal fracking.md"
     ],
-    "maths": [
-      "~poetry/fractal fracking.md",
-      "Yu-Gi-Oh!/archetypes/Rubic.md"
-    ],
     "chinese": [
       "~poetry/折磨.md"
     ],
@@ -188,84 +215,169 @@
     ],
     "rambling": [
       "~writing/writing.md"
-    ],
-    "yugioh": [
-      "Yu-Gi-Oh!/archetypes/Darquess.md",
-      "Yu-Gi-Oh!/archetypes/Rubic.md",
-      "Yu-Gi-Oh!/archetypes/Soul.md"
-    ],
-    "yugioh-archetypes": [
-      "Yu-Gi-Oh!/archetypes/Darquess.md",
-      "Yu-Gi-Oh!/archetypes/Rubic.md",
-      "Yu-Gi-Oh!/archetypes/Soul.md"
-    ],
-    "degen": [
-      "Yu-Gi-Oh!/archetypes/Darquess.md"
     ]
   },
   "pages": {
-    ".squarkdown/content/frequerys.md": {
-      "path": ".squarkdown/content/frequerys.md",
-      "slocs": 59,
-      "chars": 2091,
+    "AI.md": {
+      "path": "AI.md",
+      "slocs": 50,
+      "chars": 3078,
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
-      "dest": "frequerys",
-      "title": "Frequerys",
-      "head": "Frequerys",
-      "capt": "Frequent Queries",
-      "desc": "Frequent queries related to Assort",
-      "index": [
-        "info"
-      ],
-      "shard": [
-        "info"
-      ],
-      "date": null,
-      "date_display": null
-    },
-    ".squarkdown/content/privacy.md": {
-      "path": ".squarkdown/content/privacy.md",
-      "slocs": 15,
-      "chars": 583,
-      "isIndex": false,
-      "isFeatured": false,
-      "isWoozy": false,
-      "dest": "privacy",
-      "title": "Privacy",
-      "head": "Privacy",
+      "dest": "ai",
+      "title": "Generative AI",
+      "head": "Generative AI",
       "capt": null,
       "desc": null,
       "index": [
-        "info"
+        "info",
+        "writing"
       ],
       "shard": [
-        "info"
+        "info",
+        "writing"
+      ],
+      "date": "2024-06-01",
+      "date_display": "2024 June"
+    },
+    "Yu-Gi-Oh!/archetypes/Darquess.md": {
+      "path": "Yu-Gi-Oh!/archetypes/Darquess.md",
+      "slocs": 562,
+      "chars": 46795,
+      "isIndex": false,
+      "isFeatured": true,
+      "isWoozy": false,
+      "dest": "yugioh/archetypes/darquess",
+      "title": "Darquess",
+      "head": "Darquess",
+      "capt": "Yu-Gi-Oh! Archetype",
+      "desc": "An archetype of DARK and primarily Spellcaster Monsters revolving around banishing cards and dealing damage to the player themselves.",
+      "index": [
+        "yugioh",
+        "yugioh-archetypes"
+      ],
+      "shard": [
+        "yugioh",
+        "yugioh-archetypes",
+        "degen"
       ],
       "date": null,
       "date_display": null
     },
-    ".squarkdown/content/synopsis.md": {
-      "path": ".squarkdown/content/synopsis.md",
-      "slocs": 16,
-      "chars": 680,
+    "Yu-Gi-Oh!/archetypes/Rubic.md": {
+      "path": "Yu-Gi-Oh!/archetypes/Rubic.md",
+      "slocs": 856,
+      "chars": 66153,
       "isIndex": false,
-      "isFeatured": false,
+      "isFeatured": true,
       "isWoozy": false,
-      "dest": "synopsis",
-      "title": "Synopsis",
-      "head": "Synopsis",
-      "capt": "What is Assort?",
-      "desc": "An assortment of all my creations!",
+      "dest": "yugioh/archetypes/rubic",
+      "title": "Rubic",
+      "head": "Rubic",
+      "capt": "Yu-Gi-Oh! Archetype",
+      "desc": "An archetype of DARK Cyberse Monsters inspired by trigonometry and Rubik’s cubes.",
       "index": [
-        "info"
+        "yugioh",
+        "yugioh-archetypes"
       ],
       "shard": [
-        "info"
+        "yugioh",
+        "yugioh-archetypes",
+        "maths"
       ],
       "date": null,
       "date_display": null
+    },
+    "Yu-Gi-Oh!/archetypes/Soul.md": {
+      "path": "Yu-Gi-Oh!/archetypes/Soul.md",
+      "slocs": 773,
+      "chars": 69633,
+      "isIndex": false,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "yugioh/archetypes/soul",
+      "title": "Soul",
+      "head": "Soul",
+      "capt": "Yu-Gi-Oh! Archetype",
+      "desc": "An archetype of DARK Monsters of various Types, revolving around Ritual and Synchro Summoning, with Grave effects and non-targeting soft removal.",
+      "index": [
+        "yugioh",
+        "yugioh-archetypes"
+      ],
+      "shard": [
+        "yugioh",
+        "yugioh-archetypes"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "desmos/dev/functions.md": {
+      "path": "desmos/dev/functions.md",
+      "slocs": 49,
+      "chars": 652,
+      "isIndex": false,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "desmos/dev/functions",
+      "title": "Standard Utility Functions",
+      "head": "Standard Utility Functions",
+      "capt": null,
+      "desc": null,
+      "index": [
+
+      ],
+      "shard": [
+
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "desmos/dev/nomenclature.md": {
+      "path": "desmos/dev/nomenclature.md",
+      "slocs": 60,
+      "chars": 3049,
+      "isIndex": false,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "desmos/dev/nomenclature",
+      "title": "Nomenclature",
+      "head": "Nomenclature",
+      "capt": null,
+      "desc": null,
+      "index": [
+
+      ],
+      "shard": [
+
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "desmos/dev/readme.md": {
+      "path": "desmos/dev/readme.md",
+      "slocs": 62,
+      "chars": 2202,
+      "isIndex": false,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "desmos/dev",
+      "title": "A Primer to Programming in Desmos",
+      "head": "A Primer to Programming in Desmos",
+      "capt": null,
+      "desc": null,
+      "index": [
+        "desmos",
+        "dev",
+        "writing"
+      ],
+      "shard": [
+        "desmos",
+        "dev",
+        "writing"
+      ],
+      "date": "2024-01-01",
+      "date_display": "2024 autumn"
     },
     "~dev/Gems in the Abstruse Internet.md": {
       "path": "~dev/Gems in the Abstruse Internet.md",
@@ -363,13 +475,13 @@
     },
     "~dev/decoded.md": {
       "path": "~dev/decoded.md",
-      "slocs": 43,
-      "chars": 3139,
+      "slocs": 44,
+      "chars": 3157,
       "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
       "dest": "dev/decoded",
-      "title": "*decoded*",
+      "title": "decoded",
       "head": "*decoded*",
       "capt": null,
       "desc": null,
@@ -448,6 +560,27 @@
       ],
       "shard": [
 
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "~misc/filltext.md": {
+      "path": "~misc/filltext.md",
+      "slocs": 41,
+      "chars": 3923,
+      "isIndex": false,
+      "isFeatured": true,
+      "isWoozy": false,
+      "dest": "filltext",
+      "title": "Filler Text",
+      "head": "Filler Text",
+      "capt": null,
+      "desc": "Multi-purpose filler text that’s more fun than Lorem Ipsum",
+      "index": [
+        "misc"
+      ],
+      "shard": [
+        "misc"
       ],
       "date": null,
       "date_display": null
@@ -1028,77 +1161,6 @@
       ],
       "date": "2023-01-01",
       "date_display": "2023 summer"
-    },
-    "Yu-Gi-Oh!/archetypes/Darquess.md": {
-      "path": "Yu-Gi-Oh!/archetypes/Darquess.md",
-      "slocs": 562,
-      "chars": 46795,
-      "isIndex": false,
-      "isFeatured": true,
-      "isWoozy": false,
-      "dest": "yugioh/archetypes/darquess",
-      "title": "Darquess",
-      "head": "Darquess",
-      "capt": "Yu-Gi-Oh! Archetype",
-      "desc": "An archetype of DARK and primarily Spellcaster Monsters revolving around banishing cards and dealing damage to the player themselves.",
-      "index": [
-        "yugioh",
-        "yugioh-archetypes"
-      ],
-      "shard": [
-        "yugioh",
-        "yugioh-archetypes",
-        "degen"
-      ],
-      "date": null,
-      "date_display": null
-    },
-    "Yu-Gi-Oh!/archetypes/Rubic.md": {
-      "path": "Yu-Gi-Oh!/archetypes/Rubic.md",
-      "slocs": 856,
-      "chars": 66153,
-      "isIndex": false,
-      "isFeatured": true,
-      "isWoozy": false,
-      "dest": "yugioh/archetypes/rubic",
-      "title": "Rubic",
-      "head": "Rubic",
-      "capt": "Yu-Gi-Oh! Archetype",
-      "desc": "An archetype of DARK Cyberse Monsters inspired by trigonometry and Rubik’s cubes.",
-      "index": [
-        "yugioh",
-        "yugioh-archetypes"
-      ],
-      "shard": [
-        "yugioh",
-        "yugioh-archetypes",
-        "maths"
-      ],
-      "date": null,
-      "date_display": null
-    },
-    "Yu-Gi-Oh!/archetypes/Soul.md": {
-      "path": "Yu-Gi-Oh!/archetypes/Soul.md",
-      "slocs": 773,
-      "chars": 69633,
-      "isIndex": false,
-      "isFeatured": false,
-      "isWoozy": false,
-      "dest": "yugioh/archetypes/soul",
-      "title": "Soul",
-      "head": "Soul",
-      "capt": "Yu-Gi-Oh! Archetype",
-      "desc": "An archetype of DARK Monsters of various Types, revolving around Ritual and Synchro Summoning, with Grave effects and non-targeting soft removal.",
-      "index": [
-        "yugioh",
-        "yugioh-archetypes"
-      ],
-      "shard": [
-        "yugioh",
-        "yugioh-archetypes"
-      ],
-      "date": null,
-      "date_display": null
     }
   }
 }
