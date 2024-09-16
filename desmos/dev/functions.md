@@ -127,7 +127,7 @@ Generate a list of integers corresponding to chunks of a list.
 For instance, to iterate over every 3 items:
 
 $$
-L = [1 \, ... \, 9] \quad \text{(9 element list)}
+L = [1 \text{...} 9] \quad \text{(9 element list)}
 $$
 
 $$
@@ -161,7 +161,24 @@ $$
 
 ### Regular Polygon
 $$
-d_\text{polygon}
+d_\text{polygon} \left(
+  n,
+  p_c,
+  r,
+  d
+\right) =
+\left[
+  \left(
+    p_c\text{.}x + r \cos{\theta},
+    p_c\text{.}y + r \sin{\theta}
+  \right)
+  \space \text{for} \space
+  \theta = f_\text{nrange}\left(
+    d,
+    d + 2\pi,
+    n
+  \right)
+\right]
 $$
 
 ### Grid
