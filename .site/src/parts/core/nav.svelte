@@ -5,6 +5,7 @@ import { portal } from "#modules/utils";
 
 import NavLink from "#parts/core/nav.link.svelte";
 import Click from "#parts/ext/click.svelte";
+import AssortIcon from "#parts/misc/assort-icon.svelte";
 
 </script>
 
@@ -14,6 +15,7 @@ import Click from "#parts/ext/click.svelte";
     <div class="content">
       <section id="top">
         <!-- <img alt="Assort" src="{base}/assort-block.png"> -->
+        <AssortIcon size={50} col="#ff0090" />
 
         <Click kind="trit" button={() => $prefs.nav.shown = false}>
           <span class="material-symbols-outlined">
