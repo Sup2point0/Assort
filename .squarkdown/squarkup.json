@@ -17,7 +17,7 @@
     "~code",
     "~graphics"
   ],
-  "dest": ".site/src/routes/(article)/(rendered)",
+  "dest": "src/routes/(article)/(rendered)",
   "if-no-dir": ["warn", "create"],
   
   "file-name": "~content",
