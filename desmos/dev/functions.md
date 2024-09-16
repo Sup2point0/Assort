@@ -5,15 +5,18 @@
 -->
 
 
+<br>
+
+
 ## Ranges
 
 ### Step-Wise Range
 
 $$
 f_\text{srange} \left(
-  p_\text{start},
-  p_\text{stop},
-  p_\text{step}
+  s_\text{start},
+  s_\text{stop},
+  s_\text{step}
 \right) =
 \left[
   \left(\right)
@@ -21,7 +24,7 @@ f_\text{srange} \left(
   i = \left[
     0 \, ... \,
     \text{floor}\left(
-      \frac{p_\text{stop}}{p_\text{step}}
+      \frac{s_\text{stop}}{s_\text{step}}
     \right)
   \right]
 \right]
@@ -30,16 +33,32 @@ $$
 Generate a list of numbers from $s_\text{start}$ up to (and including) $s_\text{stop}$ with difference $s_\text{step}$.
 
 ### Step-Wise Exclusive Range
-$f_\text{sxrange}$
+$$
+f_\text{sxrange}
+$$
+
+Generate a list of numbers from $s_\text{start}$ up to (but excluding) $s_\text{stop}$ with difference $s_\text{step}$.
 
 ### Linearly Spaced Ranged
 $f_\text{nrange}$
 
 ### Linearly Spaced Exclusive Range
-$f_\text{nxrange}$
+$$
+f_\text{nxrange}
+$$
+
+Generate a list of $n$ numbers evenly spaced apart between $s_start$ and $s_stop$ (inclusive).
+
+$$
+f_\text{nrange}(1, 10, 10) = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] \space \text{(10 element list)}
+$$
 
 ### List Range
-$f_\text{lrange}$
+$$
+f_\text{lrange}
+$$
+
+Generate a list of integers corresponding to the indices of a list.
 
 ### Step-Wise List Range
 $$
@@ -68,12 +87,35 @@ $$
 
 ## Rendering
 
-### $d_\text{line}$
-### $d_\text{circle}$
-### $d_\text{rect}$
-### $d_\text{polygon}$
-### $d_\text{grid}$
-### $d_\text{spike}$
+### Line
+$$
+d_\text{line}
+$$
+
+### Circle
+$$
+d_\text{circle}
+$$
+
+### Rectangle
+$$
+d_\text{rect}
+$$
+
+### Regular Polygon
+$$
+d_\text{polygon}
+$$
+
+### Grid
+$$
+d_\text{grid}
+$$
+
+### Spike
+$$
+d_\text{spike}
+$$
 
 
 <br>
