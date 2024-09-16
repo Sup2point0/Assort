@@ -1,5 +1,5 @@
 {
-  "exported": "2024-09-15",
+  "exported": "2024-09-16",
   "index": {
     "info": [
       "AI.md"
@@ -182,6 +182,7 @@
     ],
     "ramblings": [
       "~poetry/Quantitative Quantitivity.md",
+      "~poetry/Titles.md",
       "~poetry/What Was This Called Again.md",
       "~poetry/Wordless.md"
     ],
@@ -189,6 +190,7 @@
       "~poetry/Teardrop.md"
     ],
     "fantasy": [
+      "~poetry/Teardrop.md",
       "~poetry/This.md"
     ],
     "monkeyopolis-times": [
@@ -308,8 +310,8 @@
     },
     "desmos/dev/functions.md": {
       "path": "desmos/dev/functions.md",
-      "slocs": 50,
-      "chars": 669,
+      "slocs": 195,
+      "chars": 2851,
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
@@ -845,7 +847,7 @@
     "~poetry/Teardrop.md": {
       "path": "~poetry/Teardrop.md",
       "slocs": 37,
-      "chars": 866,
+      "chars": 876,
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
@@ -859,7 +861,8 @@
       ],
       "shard": [
         "poetry",
-        "antarctica"
+        "antarctica",
+        "fantasy"
       ],
       "date": "2022-09-01",
       "date_display": "2022 September"
@@ -935,7 +938,7 @@
     "~poetry/Titles.md": {
       "path": "~poetry/Titles.md",
       "slocs": 49,
-      "chars": 1306,
+      "chars": 1318,
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
@@ -949,7 +952,8 @@
       ],
       "shard": [
         "poetry",
-        "nerdy"
+        "nerdy",
+        "ramblings"
       ],
       "date": "2023-04-01",
       "date_display": "2023 April"
@@ -1001,9 +1005,9 @@
     "~poetry/fractal fracking.md": {
       "path": "~poetry/fractal fracking.md",
       "slocs": 44,
-      "chars": 1403,
+      "chars": 1397,
       "isIndex": false,
-      "isFeatured": true,
+      "isFeatured": false,
       "isWoozy": false,
       "dest": "poetry/fracking",
       "title": "fractal fracking",
@@ -1045,11 +1049,11 @@
     "~poetry/折磨.md": {
       "path": "~poetry/折磨.md",
       "slocs": 58,
-      "chars": 508,
+      "chars": 512,
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
-      "dest": "poetry/折磨",
+      "dest": "poetry/zhe-mo",
       "title": "折磨",
       "head": "折磨",
       "capt": null,
