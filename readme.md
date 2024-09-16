@@ -1,6 +1,6 @@
 <div align="center">
 
-![assort-title](.assets/assort.png)
+![Welcome to Assort](.assets/assort-title.png)
 
 ---
 
