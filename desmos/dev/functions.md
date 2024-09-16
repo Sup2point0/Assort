@@ -22,7 +22,7 @@ f_\text{srange} \left(
   \left(\right)
   \space \text{for} \space
   i = \left[
-    0 \, \text{...} \,
+    0 \text{...}
     \text{floor}\left(
       \frac{s_\text{stop}}{s_\text{step}}
     \right)
@@ -34,7 +34,8 @@ Generate a list of numbers from $s_\text{start}$ up to (and including) $s_\text{
 
 ### Step-Wise Exclusive Range
 $$
-f_\text{sxrange}
+f_\text{sxrange} \left(
+\right)
 $$
 
 Generate a list of numbers from $s_\text{start}$ up to (but excluding) $s_\text{stop}$ with difference $s_\text{step}$.
@@ -56,7 +57,7 @@ f_\text{nrange} \left(
   \right)
   \space \text{for} \space
   i = \left[
-    0 \, \text{...} \, n
+    0 \text{...} n
   \right]
 \right]
 $$
@@ -78,7 +79,7 @@ f_\text{nxrange} \left(
   \right)
   \space \text{for} \space
   i = \left[
-    0 \, \text{...} \, n-1
+    0 \text{...} n-1
   \right]
 \right]
 $$
@@ -95,7 +96,7 @@ f_\text{lrange} \left(
   l
 \right) =
 \left[
-  1 \, ... \, \text{length}(l)
+  1 \text{...} \text{length}(l)
 \right]
 $$
 
@@ -103,7 +104,22 @@ Generate a list of integers corresponding to the indices of a list.
 
 ### Step-Wise List Range
 $$
-f_\text{lsrange}
+f_\text{lsrange} \left(
+  l,
+  s_\text{period},
+  s_\text{offset}
+\right) =
+\left[
+  \left(
+    s_\text{offset} + (i-1) \cdot s_\text{period}
+  \right)
+  \space \text{for} \space
+  i = \left[
+    1 \text{...} \frac
+      {\text{length}(l)}
+      {s_\text{period}}
+  \right]
+\right]
 $$
 
 Generate a list of integers corresponding to chunks of a list.
@@ -119,7 +135,7 @@ I = f_\text{lsrange}(L, 3, 1) = [1, 4, 7] \quad \text{(3 element list)}
 $$
 
 $$
-[L[i] for i = I] = [1, 4, 7] \quad \text{(3 element list)}
+[L[i] \space \text{for} \space i = I] = [1, 4, 7] \quad \text{(3 element list)}
 $$
 
 
