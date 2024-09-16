@@ -3,7 +3,7 @@
 | dest = poetry/titles
 | style = poetry
 | index = poetry
-| shard = #INDEX / nerdy
+| shard = #INDEX / nerdy / ramblings
 | date = 2023 April
 -->
 
