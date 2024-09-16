@@ -3,7 +3,7 @@
 | dest = poetry/teardrop
 | style = poetry
 | index = poetry
-| shard = #INDEX / Antarctica
+| shard = #INDEX / antarctica / fantasy
 | date = 2022 September
 -->
 
