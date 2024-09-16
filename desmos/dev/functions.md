@@ -7,7 +7,7 @@
 
 ## Ranges
 
-### $f_\text{srange}$
+### Step-Wise Range
 
 $$
 f_\text{srange} \left(
@@ -27,11 +27,40 @@ f_\text{srange} \left(
 \right]
 $$
 
-### $f_\text{sxrange}$
-### $f_\text{nrange}$
-### $f_\text{nxrange}$
-### $f_\text{lrange}$
-### $f_\text{lsrange}$
+Generate a list of numbers from $s_\text{start}$ up to (and including) $s_\text{stop}$ with difference $s_\text{step}$.
+
+### Step-Wise Exclusive Range
+$f_\text{sxrange}$
+
+### Linearly Spaced Ranged
+$f_\text{nrange}$
+
+### Linearly Spaced Exclusive Range
+$f_\text{nxrange}$
+
+### List Range
+$f_\text{lrange}$
+
+### Step-Wise List Range
+$$
+f_\text{lsrange}
+$$
+
+Generate a list of integers corresponding to chunks of a list.
+
+For instance, to iterate over every 3 items:
+
+$$
+L = [1 \, ... \, 9] \quad \text{(9 element list)}
+$$
+
+$$
+I = f_\text{lsrange}(L, 3, 1) = [1, 4, 7] \quad \text{(3 element list)}
+$$
+
+$$
+[L[i] for i = I] = [1, 4, 7] \quad \text{(3 element list)}
+$$
 
 
 <br>
