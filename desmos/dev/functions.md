@@ -22,7 +22,7 @@ f_\text{srange} \left(
   \left(\right)
   \space \text{for} \space
   i = \left[
-    0 \, ... \,
+    0 \, \text{...} \,
     \text{floor}\left(
       \frac{s_\text{stop}}{s_\text{step}}
     \right)
@@ -40,11 +40,47 @@ $$
 Generate a list of numbers from $s_\text{start}$ up to (but excluding) $s_\text{stop}$ with difference $s_\text{step}$.
 
 ### Linearly Spaced Ranged
-$f_\text{nrange}$
+$$
+f_\text{nrange} \left(
+  s_\text{start},
+  s_\text{stop},
+  n
+\right) =
+\left[
+  \left(
+    s_\text{start} + i \left(
+      \frac
+        {s_\text{stop} - s_\text{start}}
+        {n}
+    \right)
+  \right)
+  \space \text{for} \space
+  i = \left[
+    0 \, \text{...} \, n
+  \right]
+\right]
+$$
 
 ### Linearly Spaced Exclusive Range
 $$
-f_\text{nxrange}
+f_\text{nxrange} \left(
+  s_\text{start},
+  s_\text{stop},
+  n
+\right) =
+\left[
+  \left(
+    s_\text{start} + i \left(
+      \frac
+        {s_\text{stop} - s_\text{start}}
+        {n}
+    \right)
+  \right)
+  \space \text{for} \space
+  i = \left[
+    0 \, \text{...} \, n-1
+  \right]
+\right]
 $$
 
 Generate a list of $n$ numbers evenly spaced apart between $s_start$ and $s_stop$ (inclusive).
@@ -55,7 +91,12 @@ $$
 
 ### List Range
 $$
-f_\text{lrange}
+f_\text{lrange} \left(
+  l
+\right) =
+\left[
+  1 \, ... \, \text{length}(l)
+\right]
 $$
 
 Generate a list of integers corresponding to the indices of a list.
