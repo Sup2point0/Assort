@@ -25,12 +25,12 @@ onMount(() => {
 
 
 <svelte:head>
-  <title> Assort </title>
+  <title> Assort · An assortment of all my creations </title>
 </svelte:head>
 
 <main>
   <div class="center">
-    <section id="super">
+    <section id="super" style:margin="2rem">
       <p id="assort-welcome"> welcome to </p>
       <h1 id="assort"> ASSORT </h1>
       <p id="assort-capt"> An assortment of all my creations! </p>
@@ -110,7 +110,7 @@ main {
 
 section {
   width: 100%;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 }
 
 
