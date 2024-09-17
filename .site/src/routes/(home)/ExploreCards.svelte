@@ -10,33 +10,33 @@ import ContentCard from "#parts/ext/card.content.svelte";
 <section>
   <div>
     <ContentCard style="--width: 20rem"
-      title="music"
-      capt="Adventures in software development"
-      intern="music"
-    />
-    <ContentCard style="--width: 20rem"
       title="dev"
       capt="adventures in software development"
       intern="dev"
     />
     <ContentCard style="--width: 20rem"
       title="writing"
-      capt="writing of all sorts"
+      capt="writing from throughout my life"
       intern="writing"
     />
     <ContentCard style="--width: 20rem"
-      title="poetry"
-      capt="overly melodramatic poetic waffle"
-      intern="poetry"
+      title="music"
+      capt="vibing in GarageBand for iPadOS"
+      intern="music"
     />
     <ContentCard style="--width: 20rem"
       title="graphic design"
-      capt="freshly made in PowerPoint 2016!"
+      capt="pushing the limits of graphic design in PowerPoint"
       intern="graphics"
     />
     <ContentCard style="--width: 20rem"
+      title="poetry"
+      capt="yeah, I write poetry too."
+      intern="poetry"
+    />
+    <ContentCard style="--width: 20rem"
       title="lists"
-      capt="lists of everything"
+      capt="just lists, lists of everything"
       intern="lists"
     />
   </div>
