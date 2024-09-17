@@ -1,3 +1,5 @@
+<!-- @component ExploreCards -->
+
 <script>
 
 import ContentCard from "#parts/ext/card.content.svelte";
@@ -10,7 +12,7 @@ import ContentCard from "#parts/ext/card.content.svelte";
     <ContentCard style="--width: 20rem"
       title="music"
       capt="Adventures in software development"
-      intern="dev"
+      intern="music"
     />
     <ContentCard style="--width: 20rem"
       title="dev"
@@ -20,22 +22,22 @@ import ContentCard from "#parts/ext/card.content.svelte";
     <ContentCard style="--width: 20rem"
       title="writing"
       capt="writing of all sorts"
-      intern="dev"
+      intern="writing"
     />
     <ContentCard style="--width: 20rem"
       title="poetry"
       capt="overly melodramatic poetic waffle"
-      intern="dev"
+      intern="poetry"
     />
     <ContentCard style="--width: 20rem"
       title="graphic design"
       capt="freshly made in PowerPoint 2016!"
-      intern="dev"
+      intern="graphics"
     />
     <ContentCard style="--width: 20rem"
       title="lists"
       capt="lists of everything"
-      intern="dev"
+      intern="lists"
     />
   </div>
 </section>
