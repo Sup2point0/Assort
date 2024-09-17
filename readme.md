@@ -19,7 +19,7 @@ Here you’ll find all my interests, thoughts, writing, time-wasting, and maybe 
 ## Portal
 
 > [!Tip]
-> New here? Consider starting out on the [site<sup>↗</sup>](https://sup2point0.github.io/Assort) for a much nicer browsing experience!
+> New here? Consider starting out on the <a target="_blank" href="https://sup2point0.github.io/Assort">site<sup>↗</sup></a> for a much nicer browsing experience!
 
 ### Folders
 📁 [affine](affine)  
