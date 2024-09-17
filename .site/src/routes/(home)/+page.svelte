@@ -11,6 +11,7 @@ import QuickLinks from "./QuickLinks.svelte";
 import Welcome from "./Welcome.svelte";
 import FeaturedCards from "./FeaturedCards.svelte";
 import ExploreCards from "./ExploreCards.svelte";
+import FranchiseCards from "./cards.franchise.svelte";
 import NewlyReleased from "./NewlyReleased.svelte";
 
 
@@ -55,6 +56,11 @@ onMount(() => {
     <section id="explore">
       <h2> Explore </h2>
       <ExploreCards />
+    </section>
+
+    <section id="franchises">
+      <h2> Franchises </h2>
+      <FranchiseCards />
     </section>
 
     <section id="releases">
