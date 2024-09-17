@@ -2,10 +2,10 @@
   "exported": "2024-09-17",
   "index": {
     "info": [
-      "AI.md",
       ".squarkdown/content/frequerys.md",
       ".squarkdown/content/privacy.md",
-      ".squarkdown/content/synopsis.md"
+      ".squarkdown/content/synopsis.md",
+      "AI.md"
     ],
     "writing": [
       "AI.md",
@@ -81,10 +81,10 @@
   },
   "shard": {
     "info": [
-      "AI.md",
       ".squarkdown/content/frequerys.md",
       ".squarkdown/content/privacy.md",
-      ".squarkdown/content/synopsis.md"
+      ".squarkdown/content/synopsis.md",
+      "AI.md"
     ],
     "writing": [
       "AI.md",
@@ -220,6 +220,69 @@
     ]
   },
   "pages": {
+    ".squarkdown/content/frequerys.md": {
+      "path": ".squarkdown/content/frequerys.md",
+      "slocs": 59,
+      "chars": 2091,
+      "isIndex": false,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "frequerys",
+      "title": "Frequerys",
+      "head": "Frequerys",
+      "capt": "Frequent Queries",
+      "desc": "Frequent queries related to Assort",
+      "index": [
+        "info"
+      ],
+      "shard": [
+        "info"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    ".squarkdown/content/privacy.md": {
+      "path": ".squarkdown/content/privacy.md",
+      "slocs": 15,
+      "chars": 583,
+      "isIndex": false,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "privacy",
+      "title": "Privacy",
+      "head": "Privacy",
+      "capt": null,
+      "desc": null,
+      "index": [
+        "info"
+      ],
+      "shard": [
+        "info"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    ".squarkdown/content/synopsis.md": {
+      "path": ".squarkdown/content/synopsis.md",
+      "slocs": 16,
+      "chars": 680,
+      "isIndex": false,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "synopsis",
+      "title": "Synopsis",
+      "head": "Synopsis",
+      "capt": "What is Assort?",
+      "desc": "An assortment of all my creations!",
+      "index": [
+        "info"
+      ],
+      "shard": [
+        "info"
+      ],
+      "date": null,
+      "date_display": null
+    },
     "AI.md": {
       "path": "AI.md",
       "slocs": 50,
@@ -1163,69 +1226,6 @@
       ],
       "date": "2023-01-01",
       "date_display": "2023 summer"
-    },
-    ".squarkdown/content/frequerys.md": {
-      "path": ".squarkdown/content/frequerys.md",
-      "slocs": 59,
-      "chars": 2091,
-      "isIndex": false,
-      "isFeatured": false,
-      "isWoozy": false,
-      "dest": "frequerys",
-      "title": "Frequerys",
-      "head": "Frequerys",
-      "capt": "Frequent Queries",
-      "desc": "Frequent queries related to Assort",
-      "index": [
-        "info"
-      ],
-      "shard": [
-        "info"
-      ],
-      "date": null,
-      "date_display": null
-    },
-    ".squarkdown/content/privacy.md": {
-      "path": ".squarkdown/content/privacy.md",
-      "slocs": 15,
-      "chars": 583,
-      "isIndex": false,
-      "isFeatured": false,
-      "isWoozy": false,
-      "dest": "privacy",
-      "title": "Privacy",
-      "head": "Privacy",
-      "capt": null,
-      "desc": null,
-      "index": [
-        "info"
-      ],
-      "shard": [
-        "info"
-      ],
-      "date": null,
-      "date_display": null
-    },
-    ".squarkdown/content/synopsis.md": {
-      "path": ".squarkdown/content/synopsis.md",
-      "slocs": 16,
-      "chars": 680,
-      "isIndex": false,
-      "isFeatured": false,
-      "isWoozy": false,
-      "dest": "synopsis",
-      "title": "Synopsis",
-      "head": "Synopsis",
-      "capt": "What is Assort?",
-      "desc": "An assortment of all my creations!",
-      "index": [
-        "info"
-      ],
-      "shard": [
-        "info"
-      ],
-      "date": null,
-      "date_display": null
     }
   }
 }

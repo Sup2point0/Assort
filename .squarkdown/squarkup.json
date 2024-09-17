@@ -5,12 +5,12 @@
 
   "site": ".site",
   "sources": [
-    "",
-    ".squarkdown/content"
   ],
   "exclude": [
-    ".github/workflows",
-    ".site",
+    "\\.archive",
+    "\\.assets",
+    "\\.github",
+    "\\.site",
     "stranger-quarkdown",
     "Antarctica",
     "Victory",
