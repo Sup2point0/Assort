@@ -5,8 +5,6 @@ import type { PageData } from "./modules/types";
 
 const data = await import("./data/site.json");
 const palettes = await import("./palettes/palettes.json");
-console.log("palettes =");
-console.log(palettes);
 
 
 const Site: SiteData = {

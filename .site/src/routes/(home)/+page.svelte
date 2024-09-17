@@ -6,13 +6,13 @@ import { visited } from "#modules/stores";
 
 import Footer from "#parts/core/footer.svelte";
 
-import FlavourStatus from "./FlavourStatus.svelte";
-import QuickLinks from "./QuickLinks.svelte";
-import Welcome from "./Welcome.svelte";
-import FeaturedCards from "./FeaturedCards.svelte";
-import ExploreCards from "./ExploreCards.svelte";
-import FranchiseCards from "./cards.franchise.svelte";
-import NewlyReleased from "./NewlyReleased.svelte";
+import FlavourStatus from "./flavour-status.svelte";
+import QuickLinks from "./quick-links.svelte";
+import Welcome from "./assort-welcome.svelte";
+import FeaturedCards from "./cards.featured.svelte";
+import ExploreCards from "./cards.explore.svelte";
+import FranchiseCards from "./cards.franchises.svelte";
+import NewlyReleased from "./newly-released.svelte";
 
 
 onMount(() => {
