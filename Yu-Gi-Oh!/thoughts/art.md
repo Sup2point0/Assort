@@ -93,7 +93,7 @@ The child inside is freaking out rn.
 <table>
   <tr>
     <td rowspan="2">
-      <img width="200px" src="https://images.ygoprodeck.com/images/cards/64276752.jpg">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/64276752.jpg">
     </td>
     <th align="left">
       <a href="https://yugipedia.com/wiki/"> Arc Rebellion Xyz Dragon </a>
@@ -233,11 +233,63 @@ The child inside is freaking out rn.
 
 かわいい!!
 
-Exosister Mikailis
-Harmonizing Magician
-Sky Striker Ace - Shizuku
-Tearlaments Perlegia
-Xiangsheng Magician
+<table>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/42741437.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Exosister Mikailis </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/73941492.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Harmonizing Magician </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/90673288.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Sky Striker Ace - Shizuku </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/34225426.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Tearlaments Perlegia </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/17086528.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Xiangsheng Magician </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+</table>
 
 
 <br>
@@ -247,16 +299,118 @@ Xiangsheng Magician
 
 I’m losing my eyes in them #.#
 
-Blood Blossoms from Afterlife
-Centur-Ipn Trudea
-Dragonpulse Magician
-Drytron Fafnir
-Exosisters Magnifica
-I:P Masquerena
-Lady Labrynth of the Silver Castle
-Mikanko Water Arabesque
-Visas Amritara
-White Relic of Dogmatika
+<table>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/71521025.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Blood Blossoms from Afterlife </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/42493140.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Centur-Ion Trudea </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/15146890.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Dragonpulse Magician </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/58793369.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Drytron Fafnir </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/59242457.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Exosisters Magnifica </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/65741787.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> I:P Masquerena </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/81497285.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Lady Labrynth of the Silver Castle </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/43527730.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Mikanko Water Arabesque </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/821049.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Visas Amritara </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/48654323.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> White Relic of Dogmatika </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+</table>
 
 
 <br>
@@ -266,10 +420,52 @@ White Relic of Dogmatika
 
 These are truly special.
 
-Ghostrick Festival
-Light of the Branded
-Solemn Warning
-The Virtuous Vestals
+<table>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/35871958.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Ghostrick Festival </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/72554664.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Light of the Branded </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/84749824.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Solemn Warning </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> The Virtuous Vestals </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+</table>
 
 
 <br>
@@ -278,6 +474,20 @@ The Virtuous Vestals
 ## Sick
 
 I don’t even know what to say anymore. Such a feast for the eyes. The detail in these is unreal. They’re so far above and beyond, I seriously want 4000x4000 ultra-high-res versions.
+
+<table>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/">  </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+</table>
 
 Amorphactor Pain, the Imagination Dracoverlord
 Despian Luluwalilith
@@ -293,6 +503,20 @@ White Knight of Dogmatika
 
 
 ## Unique
+
+<table>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/">  </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+</table>
 
 Dual Assembwurm
 Hi-Speedroid Clear Wing Rider
