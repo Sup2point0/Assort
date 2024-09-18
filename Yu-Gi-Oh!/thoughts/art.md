@@ -478,25 +478,93 @@ I don’t even know what to say anymore. Such a feast for the eyes. The detail i
 <table>
   <tr>
     <td rowspan="2">
-      <img width="200px" src="">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/98287529.jpg">
     </td>
     <th align="left">
-      <a href="https://yugipedia.com/wiki/">  </a>
+      <a href="https://yugipedia.com/wiki/"> Amorphactor Pain, the Imagination Dracoverlord </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/53971455.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Despian Luluwalilith </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://ygoprodeck.com/card/despian-quaeritis-12163">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Despian Quaeritis </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/51522296.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Dogmatika Alba Zoa </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/60465049.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Psychic End Punisher </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/85698115.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Terrors of the Afterroot </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/11110218.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Terrors of the Underroot </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/40352445.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> White Knight of Dogmatika </a>
     </th>
   </tr>
   <tr>
     <td> </td>
   </tr>
 </table>
-
-Amorphactor Pain, the Imagination Dracoverlord
-Despian Luluwalilith
-Despian Quaeritis
-Dogmatika Alba Zoa
-Psychic End Punisher
-Terrors of the Afterroot
-Terrors of the Underroot
-White Knight of Dogmatika
 
 
 <br>
@@ -507,26 +575,104 @@ White Knight of Dogmatika
 <table>
   <tr>
     <td rowspan="2">
-      <img width="200px" src="">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/7445307.jpg">
     </td>
     <th align="left">
-      <a href="https://yugipedia.com/wiki/">  </a>
+      <a href="https://yugipedia.com/wiki/"> Dual Assembwurm </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/86154370.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Hi-Speedroid Clear Wing Rider </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/10158145.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Knightmare Corruptor Iblee </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/98427577.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Scrap-Iron Scarecrow </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/27381364.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Spright Elf </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/39915560.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Starving Venom Predapower Fusion Dragon </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/66403530.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Topologic Zeroboros </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/44708154.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Ukiyoe-P.U.N.K. Amazing Dragon </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/14391625.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Visas Samsara </a>
     </th>
   </tr>
   <tr>
     <td> </td>
   </tr>
 </table>
-
-Dual Assembwurm
-Hi-Speedroid Clear Wing Rider
-Knightmare Corruptor Iblee
-Scrap-Iron Scarecrow
-Spright Jet
-Starving Venom Predapower Fusion Dragon
-Topologic Zeroboros
-Ukiyoe-P.U.N.K. Amazing Dragon
-Visas Samsara
 
 
 <br>
