@@ -19,7 +19,7 @@ As I’ve discovered the rest of the archetype though, and most importantly delv
 
 [^bliss-feel]: I’m sure you know the feeling. When something is fresh and unfamiliar and you’re navigating it for the first time. Everyone longs to have it back afterwards.
 [^uncharged]: As in, kinda neutral, not really charged with any intense feeling.
-[^branded-duel]: I’m lookin’ at you, Drytron <3
+[^branded-duel]: I’m lookin’ at you, Drytron &lt;3
 
 
 <br>
