@@ -20,7 +20,7 @@ The child inside is freaking out rn.
     <td rowspan="2">
       <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/98502114.jpg">
     </td>
-    <th>
+    <th align="left">
       <a href="https://yugipedia.com/wiki/Dark_Paladin"> Dark Paladin </a>
     </th>
   </tr>
@@ -31,7 +31,7 @@ The child inside is freaking out rn.
     <td rowspan="2">
       <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/48626373.jpg">
     </td>
-    <th>
+    <th align="left">
       <a href="https://yugipedia.com/wiki/"> Kashtira Arise-Heart </a>
     </th>
   </tr>
@@ -42,7 +42,7 @@ The child inside is freaking out rn.
     <td rowspan="2">
       <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/21887175.jpg">
     </td>
-    <th>
+    <th align="left">
       <a href="https://yugipedia.com/wiki/"> Mekk-Knight Crusadia Avramax </a>
     </th>
   </tr>
@@ -53,7 +53,7 @@ The child inside is freaking out rn.
     <td rowspan="2">
       <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/22398665.jpg">
     </td>
-    <th>
+    <th align="left">
       <a href="https://yugipedia.com/wiki/"> Meteonis Drytron </a>
     </th>
   </tr>
@@ -64,7 +64,7 @@ The child inside is freaking out rn.
     <td rowspan="2">
       <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/88021907.jpg">
     </td>
-    <th>
+    <th align="left">
       <a href="https://yugipedia.com/wiki/"> Primathmech Laplacian </a>
     </th>
   </tr>
@@ -75,7 +75,7 @@ The child inside is freaking out rn.
     <td rowspan="2">
       <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/71222868.jpg">
     </td>
-    <th>
+    <th align="left">
       <a href="https://yugipedia.com/wiki/"> Raidraptor - Rising Rebellion Falcon </a>
     </th>
   </tr>
@@ -90,19 +90,140 @@ The child inside is freaking out rn.
 
 ## Cool
 
-Arc Rebellion Xyz Dragon
-Branded Retribution
-Centur-Ion Legatia
-Clear Wing Synchro Dragon
-Dark Magician
-Dinomorphia Kentregina
-Infinite Impermanence
-Infinitrack Fortress Megaclops
-Mekk-Knight Avram
-Salamangreat Rising Phoenix
-Sky Striker Ace - Hayate
-Super Slayer TY-PHON - Sky Crisis
-Supreme King Dragon Clear Wing
+<table>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards/64276752.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Arc Rebellion Xyz Dragon </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/17751597.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Branded Retribution </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/15982593.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Centur-Ion Legatia </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/82044279.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Clear Wing Synchro Dragon </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/46986415.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Dark Magician </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/48832775.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Dinomorphia Kentregina </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/10045474.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Infinite Impermanence </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/69073023.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Infinitrack Fortress Megaclops </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/84754430.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Mekk-Knight Avram </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/57134592.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Salamangreat Raging Phoenix </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/8491308.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Sky Striker Ace - Hayate </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/70771599.jpg">
+    </td>
+    <th align="left">
+      <a href="https://yugipedia.com/wiki/"> Supreme King Dragon Clear Wing </a>
+    </th>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+</table>
 
 
 <br>
