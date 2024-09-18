@@ -500,7 +500,7 @@ I don’t even know what to say anymore. Such a feast for the eyes. The detail i
   </tr>
   <tr>
     <td rowspan="2">
-      <img width="200px" src="https://ygoprodeck.com/card/despian-quaeritis-12163">
+      <img width="200px" src="https://images.ygoprodeck.com/images/cards_cropped/72272462.jpg">
     </td>
     <th align="left">
       <a href="https://yugipedia.com/wiki/"> Despian Quaeritis </a>
