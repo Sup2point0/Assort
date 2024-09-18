@@ -49,4 +49,4 @@ There’s a lot of things to like in Yu-Gi-Oh, so deciding on favourites isn’t
     <td> Fleurdelis </td>
     <td> </td>
   </tr>
-  
+</table>

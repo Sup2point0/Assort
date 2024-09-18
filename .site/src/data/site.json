@@ -1,5 +1,5 @@
 {
-  "exported": "2024-09-17",
+  "exported": "2024-09-18",
   "index": {
     "info": [
       ".squarkdown/content/frequerys.md",
@@ -24,6 +24,19 @@
       "Yu-Gi-Oh!/archetypes/Rubic.md",
       "Yu-Gi-Oh!/archetypes/Soul.md"
     ],
+    "lists": [
+      "Yu-Gi-Oh!/thoughts/favourites.md",
+      "~dev/Gems in the Abstruse Internet.md",
+      "~dev/In Perfection/python.md",
+      "~dev/In Perfection/ruby.md",
+      "~dev/fix.md",
+      "~dev/git.md",
+      "~personal/interests.md",
+      "~personal/slinqui.md"
+    ],
+    "fav": [
+      "Yu-Gi-Oh!/thoughts/favourites.md"
+    ],
     "dev": [
       "~dev/Gems in the Abstruse Internet.md",
       "~dev/In Perfection/python.md",
@@ -33,15 +46,6 @@
       "~dev/git.md",
       "~poetry/The Programmer's Plight.md",
       "~writing/roots.md"
-    ],
-    "lists": [
-      "~dev/Gems in the Abstruse Internet.md",
-      "~dev/In Perfection/python.md",
-      "~dev/In Perfection/ruby.md",
-      "~dev/fix.md",
-      "~dev/git.md",
-      "~personal/interests.md",
-      "~personal/slinqui.md"
     ],
     "notes": [
       "~dev/decoded.md"
@@ -88,6 +92,8 @@
     ],
     "writing": [
       "AI.md",
+      "Yu-Gi-Oh!/Creating Custom Cards.md",
+      "Yu-Gi-Oh!/thoughts/archetypes.md",
       "~dev/Python Syntax.md",
       "~writing/commit.md",
       "~writing/roots.md",
@@ -95,9 +101,21 @@
       "~writing/writing.md"
     ],
     "yugioh": [
+      "Yu-Gi-Oh!/Creating Custom Cards.md",
       "Yu-Gi-Oh!/archetypes/Darquess.md",
       "Yu-Gi-Oh!/archetypes/Rubic.md",
-      "Yu-Gi-Oh!/archetypes/Soul.md"
+      "Yu-Gi-Oh!/archetypes/Soul.md",
+      "Yu-Gi-Oh!/thoughts/archetypes.md",
+      "Yu-Gi-Oh!/thoughts/art.md",
+      "Yu-Gi-Oh!/thoughts/favourites.md",
+      "Yu-Gi-Oh!/thoughts/names.md",
+      "Yu-Gi-Oh!/thoughts/showerthoughts.md"
+    ],
+    "opinions": [
+      "Yu-Gi-Oh!/Creating Custom Cards.md",
+      "Yu-Gi-Oh!/thoughts/archetypes.md",
+      "Yu-Gi-Oh!/thoughts/art.md",
+      "Yu-Gi-Oh!/thoughts/names.md"
     ],
     "yugioh-archetypes": [
       "Yu-Gi-Oh!/archetypes/Darquess.md",
@@ -111,6 +129,28 @@
       "Yu-Gi-Oh!/archetypes/Rubic.md",
       "~poetry/fractal fracking.md"
     ],
+    "lists": [
+      "Yu-Gi-Oh!/thoughts/art.md",
+      "Yu-Gi-Oh!/thoughts/favourites.md",
+      "Yu-Gi-Oh!/thoughts/names.md",
+      "Yu-Gi-Oh!/thoughts/showerthoughts.md",
+      "~dev/Gems in the Abstruse Internet.md",
+      "~dev/In Perfection/python.md",
+      "~dev/In Perfection/ruby.md",
+      "~dev/fix.md",
+      "~dev/git.md",
+      "~personal/interests.md",
+      "~personal/slinqui.md"
+    ],
+    "fav": [
+      "Yu-Gi-Oh!/thoughts/favourites.md"
+    ],
+    "opinion": [
+      "Yu-Gi-Oh!/thoughts/favourites.md",
+      "~dev/In Perfection/python.md",
+      "~dev/In Perfection/ruby.md",
+      "~dev/Python Syntax.md"
+    ],
     "dev": [
       "~dev/Gems in the Abstruse Internet.md",
       "~dev/In Perfection/python.md",
@@ -121,20 +161,6 @@
       "~dev/git.md",
       "~poetry/The Programmer's Plight.md",
       "~writing/roots.md"
-    ],
-    "lists": [
-      "~dev/Gems in the Abstruse Internet.md",
-      "~dev/In Perfection/python.md",
-      "~dev/In Perfection/ruby.md",
-      "~dev/fix.md",
-      "~dev/git.md",
-      "~personal/interests.md",
-      "~personal/slinqui.md"
-    ],
-    "opinion": [
-      "~dev/In Perfection/python.md",
-      "~dev/In Perfection/ruby.md",
-      "~dev/Python Syntax.md"
     ],
     "notes": [
       "~dev/decoded.md"
@@ -306,6 +332,29 @@
       "date": "2024-06-01",
       "date_display": "2024 June"
     },
+    "Yu-Gi-Oh!/Creating Custom Cards.md": {
+      "path": "Yu-Gi-Oh!/Creating Custom Cards.md",
+      "slocs": 116,
+      "chars": 6545,
+      "isIndex": false,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "yugioh/creating-custom-cards",
+      "title": "What Makes a Good Custom Archetype?",
+      "head": "What Makes a Good Custom Archetype?",
+      "capt": "Exploring what goes into creating custom Yu-Gi-Oh cards",
+      "desc": "My thoughts on what goes into a good custom Yu-Gi-Oh archetype, after creating countless myself.",
+      "index": [
+
+      ],
+      "shard": [
+        "yugioh",
+        "writing",
+        "opinions"
+      ],
+      "date": "0024-01-01",
+      "date_display": "24 / Sep"
+    },
     "Yu-Gi-Oh!/archetypes/Darquess.md": {
       "path": "Yu-Gi-Oh!/archetypes/Darquess.md",
       "slocs": 562,
@@ -373,6 +422,122 @@
       "shard": [
         "yugioh",
         "yugioh-archetypes"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "Yu-Gi-Oh!/thoughts/archetypes.md": {
+      "path": "Yu-Gi-Oh!/thoughts/archetypes.md",
+      "slocs": 51,
+      "chars": 3031,
+      "isIndex": false,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "yugioh/thoughts-on-archetypes",
+      "title": "Thoughts on Archetypes",
+      "head": "Thoughts on Archetypes",
+      "capt": null,
+      "desc": null,
+      "index": [
+
+      ],
+      "shard": [
+        "yugioh",
+        "writing",
+        "opinions"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "Yu-Gi-Oh!/thoughts/art.md": {
+      "path": "Yu-Gi-Oh!/thoughts/art.md",
+      "slocs": 678,
+      "chars": 15828,
+      "isIndex": false,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "yugioh/art",
+      "title": "A Selection of Yu-Gi-Oh’s Finest Card Art",
+      "head": "A Selection of Yu-Gi-Oh’s Finest Card Art",
+      "capt": null,
+      "desc": null,
+      "index": [
+
+      ],
+      "shard": [
+        "lists",
+        "yugioh",
+        "opinions"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "Yu-Gi-Oh!/thoughts/favourites.md": {
+      "path": "Yu-Gi-Oh!/thoughts/favourites.md",
+      "slocs": 52,
+      "chars": 1606,
+      "isIndex": false,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "yugioh/favourites",
+      "title": "Favourites / Yu-Gi-Oh!",
+      "head": "Favourites / Yu-Gi-Oh!",
+      "capt": null,
+      "desc": "My favourites in Yu-Gi-Oh!",
+      "index": [
+        "lists",
+        "fav"
+      ],
+      "shard": [
+        "lists",
+        "fav",
+        "yugioh",
+        "opinion"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "Yu-Gi-Oh!/thoughts/names.md": {
+      "path": "Yu-Gi-Oh!/thoughts/names.md",
+      "slocs": 105,
+      "chars": 2607,
+      "isIndex": false,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "yugioh/names",
+      "title": "A Selection of Yu-Gi-Oh’s Finest Card Names",
+      "head": "A Selection of Yu-Gi-Oh’s Finest Card Names",
+      "capt": null,
+      "desc": null,
+      "index": [
+
+      ],
+      "shard": [
+        "lists",
+        "yugioh",
+        "opinions"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "Yu-Gi-Oh!/thoughts/showerthoughts.md": {
+      "path": "Yu-Gi-Oh!/thoughts/showerthoughts.md",
+      "slocs": 37,
+      "chars": 710,
+      "isIndex": false,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "yugioh/showerthoughts",
+      "title": "Yu-Gi-Oh! Showerthoughts",
+      "head": "Yu-Gi-Oh! Showerthoughts",
+      "capt": null,
+      "desc": null,
+      "index": [
+
+      ],
+      "shard": [
+        "yugioh",
+        "lists"
       ],
       "date": null,
       "date_display": null
