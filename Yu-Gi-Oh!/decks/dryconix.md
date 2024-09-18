@@ -1,4 +1,4 @@
-> [!Note]
+> [!Warning]
 > This article is slightly out of date. Maybe I’ll update it at some point.
 
 # Dryconix
