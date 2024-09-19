@@ -1,5 +1,5 @@
 {
-  "exported": "2024-09-18",
+  "exported": "2024-09-19",
   "index": {
     "info": [
       ".squarkdown/content/frequerys.md",
@@ -428,8 +428,8 @@
     },
     "Yu-Gi-Oh!/thoughts/archetypes.md": {
       "path": "Yu-Gi-Oh!/thoughts/archetypes.md",
-      "slocs": 51,
-      "chars": 3031,
+      "slocs": 52,
+      "chars": 3045,
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
