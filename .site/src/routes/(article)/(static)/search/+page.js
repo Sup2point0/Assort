@@ -2,7 +2,7 @@ export function load() {
   return {
     title: "Search",
     capt: "Explore",
-    desc: "",  // TODO
+    desc: "...",  // TODO
     index: ["special"],
   }
 }

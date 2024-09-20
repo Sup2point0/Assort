@@ -6,14 +6,14 @@ export function searchRatio(
   query: string,
 ): number
 {
-  let sources = source.split(" ");
-  let queries = query.split(" ");
+  let sources = source?.split(" ") ?? [""];
+  let queries = query?.split(" ") ?? [""];
 
   let ratio: number;
   let apexRatio = 0;
 
-  for (let query in queries) {
-    for (let part in sources) {
+  for (let query of queries) {
+    for (let part of sources) {
       ratio = fuzzyRatio(query, part);
       if (ratio > apexRatio) {
         apexRatio = ratio;
@@ -21,5 +21,5 @@ export function searchRatio(
     }
   }
 
-  return ratio;
+  return apexRatio;
 }
