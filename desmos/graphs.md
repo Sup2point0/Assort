@@ -6,8 +6,69 @@ Desmos!!
 <br>
 
 
+## clover!
 
-## Wavy!
+$$
+x^2 + y^2-\sqrt{|xy|} = k
+\quad
+\left\{ k \in \mathbb{Z}, -1 \leq k \leq 1 \right\}
+$$
+
+![pict](../../.assets/desmos/graphs/)
+
+
+## Rrn
+
+$$
+x \operatorname{lcm}(x, y) - y \operatorname{gcd}(x, y) = 0
+$$
+
+![pict](../../.assets/desmos/graphs/)
+
+
+## agitation
+
+$$
+\operatorname{lcm}(x, y) = x^2 y^2
+$$
+
+![pict](../../.assets/desmos/graphs/)
+
+
+## jagged shapes
+
+$$
+\operatorname{gcd}(x + y, x - y, y - x) = |x|
+$$
+
+![pict](../../.assets/desmos/graphs/)
+
+$$
+\operatorname{gcd}(x, y) = \operatorname{round}(\sin{xy})
+$$
+
+![pict](../../.assets/desmos/graphs/)
+
+
+## sharp!
+
+$$
+\frac{1}{x^2} - y^2 = \sin{xy}
+$$
+
+![pict](../../.assets/desmos/graphs/)
+
+
+## fancy cross
+
+$$
+xy = y \space \sin{x}
+$$
+
+![pict](../../.assets/desmos/graphs/)
+
+
+## wavy!
 
 $$
 \sin{y} = \frac{1}{\tan{x}}
@@ -16,7 +77,7 @@ $$
 ![pict](../../.assets/desmos/graphs/)
 
 
-## Wavier!
+## wavier!
 
 $$
 y \space \sin{x} = x \space \cos{y}
@@ -26,30 +87,6 @@ $$
 
 $$
 x \space \sin{y} = y \space \cos{x}
-$$
-
-![pict](../../.assets/desmos/graphs/)
-
-
-<br>
-
-
-## Fancy Cross
-
-$$
-xy = y \space \sin{x}
-$$
-
-![pict](../../.assets/desmos/graphs/)
-
-
-<br>
-
-
-## Sharp!
-
-$$
-\frac{1}{x^2} - y^2 = \sin{xy}
 $$
 
 ![pict](../../.assets/desmos/graphs/)
