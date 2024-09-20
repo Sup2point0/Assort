@@ -32,9 +32,10 @@
   "assets": ".assets",
   "site-assets": ".assets/.site",
   "fonts": [
-    "Outfit:wght@100..900",
+    "Fira+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700",
+    "Fira+Mono:wght@400;500;700",
     "Nanum+Pen+Script",
-    "Shantell+Sans:ital,wght,BNCE@0,300..800,-100..100;1,300..800,-100..100",
-    "Fira+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700"
+    "Outfit:wght@100..900",
+    "Shantell+Sans:ital,wght,INFM@0,300..800,0..100;1,300..800,0..100"
   ]
 }

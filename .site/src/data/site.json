@@ -24,6 +24,9 @@
       "Yu-Gi-Oh!/archetypes/Rubic.md",
       "Yu-Gi-Oh!/archetypes/Soul.md"
     ],
+    "stranded-saga": [
+      "Yu-Gi-Oh!/lore/Stranded Saga/The Stranded Saga.md"
+    ],
     "lists": [
       "Yu-Gi-Oh!/thoughts/favourites.md",
       "~dev/Gems in the Abstruse Internet.md",
@@ -93,6 +96,7 @@
     "writing": [
       "AI.md",
       "Yu-Gi-Oh!/Creating Custom Cards.md",
+      "Yu-Gi-Oh!/lore/Stranded Saga/The Stranded Saga.md",
       "Yu-Gi-Oh!/thoughts/archetypes.md",
       "~dev/Python Syntax.md",
       "~writing/commit.md",
@@ -105,6 +109,7 @@
       "Yu-Gi-Oh!/archetypes/Darquess.md",
       "Yu-Gi-Oh!/archetypes/Rubic.md",
       "Yu-Gi-Oh!/archetypes/Soul.md",
+      "Yu-Gi-Oh!/lore/Stranded Saga/The Stranded Saga.md",
       "Yu-Gi-Oh!/thoughts/archetypes.md",
       "Yu-Gi-Oh!/thoughts/art.md",
       "Yu-Gi-Oh!/thoughts/favourites.md",
@@ -128,6 +133,9 @@
     "maths": [
       "Yu-Gi-Oh!/archetypes/Rubic.md",
       "~poetry/fractal fracking.md"
+    ],
+    "stranded-saga": [
+      "Yu-Gi-Oh!/lore/Stranded Saga/The Stranded Saga.md"
     ],
     "lists": [
       "Yu-Gi-Oh!/thoughts/art.md",
@@ -422,6 +430,29 @@
       "shard": [
         "yugioh",
         "yugioh-archetypes"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "Yu-Gi-Oh!/lore/Stranded Saga/The Stranded Saga.md": {
+      "path": "Yu-Gi-Oh!/lore/Stranded Saga/The Stranded Saga.md",
+      "slocs": 175,
+      "chars": 9904,
+      "isIndex": false,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "yugioh/lore/stranded-saga/the-stranded-saga",
+      "title": null,
+      "head": null,
+      "capt": null,
+      "desc": null,
+      "index": [
+        "stranded-saga"
+      ],
+      "shard": [
+        "stranded-saga",
+        "yugioh",
+        "writing"
       ],
       "date": null,
       "date_display": null

@@ -22,7 +22,7 @@ p {
 div {
   margin-top: 2rem;
   padding: 1rem 2rem;
-  background-color: var(--col-back);
+  background-color: var(--col-card);
   border-radius: 1.5rem;
   filter: drop-shadow(0 2px 3px rgba(black, 20%))
 }
