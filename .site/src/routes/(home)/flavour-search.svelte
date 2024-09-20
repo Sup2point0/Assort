@@ -15,7 +15,7 @@ import Search from "#parts/ext/search.svelte";
   }}
 />
 
-<p class="flavour-status">
+<p>
   {flavourStatus()}
 </p>
 
@@ -26,8 +26,6 @@ import Search from "#parts/ext/search.svelte";
   // min-width: 20rem;
   // margin: 1rem 0 3rem;
   // padding: 0.5rem 0;
-  text-align: center;
-  filter: drop-shadow(0 2px 3px rgba(black, 20%))
 }
 
 p {
@@ -35,6 +33,8 @@ p {
   @include font-hand;
   color: var(--col-prot);
   font-size: 80%;
+  text-align: center;
+  filter: drop-shadow(0 2px 3px rgba(black, 20%));
 }
 
 </style>
