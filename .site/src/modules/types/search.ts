@@ -1,4 +1,4 @@
-import searchRatio from "../utils/search-ratio";
+import { searchRatio } from "../utils/search-ratio";
 
 
 export default class SearchOptions<T>
