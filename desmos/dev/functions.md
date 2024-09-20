@@ -87,7 +87,7 @@ $$
 Generate a list of $n$ numbers evenly spaced apart between $s_start$ and $s_stop$ (inclusive).
 
 $$
-f_\text{nrange}(1, 10, 10) = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] \space \text{(10 element list)}
+f_\text{nrange}(1, 10, 10) = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] \quad \text{(10 element list)}
 $$
 
 ### List Range
