@@ -1,4 +1,9 @@
 <h1 align="center"> The Stranded Saga </h1>
+<!-- #SQUARK live!
+| dest = yugioh/lore/stranded-saga/the-stranded-saga
+| index = stranded-saga
+| shard = #INDEX / yugioh / writing
+-->
 
 An abridged localisation of *The Stranded Saga*, a recovered transcription of the original chronicle as told by Veya. The names, genders and speech of the involved beings and characters have been normalised to those standard on this Earth, so as to avoid unnecessarily disrupting understanding.
 

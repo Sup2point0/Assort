@@ -37,7 +37,7 @@
   --col-hover: rgba(0 0 0 / 8%);
   --col-click: rgba(0 0 0 / 16%);
   --col-focus: oklch(75.8% 0.1336 243.03);
-  --col-select: #ff0090;
+  --col-select: rgba(205 180 247 / 80%);
   --col-text: oklch(1% 0 0);
   --col-text-prot: #204080;
   --col-text-deut: oklch(60% 0.0434 269.73);

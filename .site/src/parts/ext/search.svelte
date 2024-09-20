@@ -11,6 +11,7 @@ import { SearchOptions } from "#modules/types";
 import type { PageData } from "#modules/types";
 
 export let options: SearchOptions<PageData> = new SearchOptions();
+export let placeholder: string = "Search";
 
 
 const dispatch = createEventDispatcher();
@@ -20,11 +21,13 @@ const dispatch = createEventDispatcher();
 
 <search>
   <input type="search"
-    placeholder="Search"
+    {placeholder}
     bind:value={options.queryValue}
   />
 
-  <button on:click={() => dispatch("search")}>
+  <button on:click={() => {
+    dispatch("search", { queryValue: options.queryValue});
+  }}>
     <span class="material-symbols-outlined">
       search
     </span>

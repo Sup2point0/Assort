@@ -19,7 +19,7 @@ $: featuredPages = searchOptions.apply(featured);
 
 <Search
   bind:options={searchOptions}
-  on:message={e => console.log(e.detail)}
+  on:search={e => console.log(e.detail)}
 />
 
 <ul>

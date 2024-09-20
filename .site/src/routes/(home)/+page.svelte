@@ -1,12 +1,14 @@
 <script>
 
+import { base } from "$app/paths";
 import { onMount } from "svelte";
 
 import { visited } from "#modules/stores";
+import { flavourStatus } from "#modules/utils";
 
 import Footer from "#parts/core/footer.svelte";
 
-import FlavourStatus from "./flavour-status.svelte";
+import FlavourSearch from "./flavour-search.svelte";
 import QuickLinks from "./quick-links.svelte";
 import Welcome from "./assort-welcome.svelte";
 import FeaturedCards from "./cards.featured.svelte";
@@ -40,13 +42,11 @@ onMount(() => {
 
     <hr>
 
-    {#if $visited}
-      <FlavourStatus />
-    {:else}
-      <section id="welcome">
-        <Welcome />
-      </section>
-    {/if}
+    <FlavourSearch />
+
+    <section id="welcome">
+      <Welcome />
+    </section>
 
     <section id="featured">
       <h2> Featured </h2>
