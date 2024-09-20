@@ -1,5 +1,5 @@
 {
-  "exported": "2024-09-19",
+  "exported": "2024-09-20",
   "index": {
     "info": [
       ".squarkdown/content/frequerys.md",
@@ -545,7 +545,7 @@
     "desmos/dev/functions.md": {
       "path": "desmos/dev/functions.md",
       "slocs": 195,
-      "chars": 2851,
+      "chars": 2850,
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,

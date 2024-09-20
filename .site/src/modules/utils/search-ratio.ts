@@ -1,7 +1,7 @@
 import { ratio as fuzzyRatio } from "fuzzball";
 
 
-export default function searchRatio(
+export function searchRatio(
   source: string,
   query: string,
 ): number
