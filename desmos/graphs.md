@@ -20,7 +20,7 @@ $$
 ## Rrn
 
 $$
-x \operatorname{lcm}(x, y) - y \operatorname{gcd}(x, y) = 0
+x \text{lcm}(x, y) - y \text{gcd}(x, y) = 0
 $$
 
 ![pict](../../.assets/desmos/graphs/)
@@ -29,7 +29,7 @@ $$
 ## agitation
 
 $$
-\operatorname{lcm}(x, y) = x^2 y^2
+\text{lcm}(x, y) = x^2 y^2
 $$
 
 ![pict](../../.assets/desmos/graphs/)
@@ -38,13 +38,13 @@ $$
 ## jagged shapes
 
 $$
-\operatorname{gcd}(x + y, x - y, y - x) = |x|
+\text{gcd}(x + y, x - y, y - x) = |x|
 $$
 
 ![pict](../../.assets/desmos/graphs/)
 
 $$
-\operatorname{gcd}(x, y) = \operatorname{round}(\sin{xy})
+\text{gcd}(x, y) = \text{round}(\sin{xy})
 $$
 
 ![pict](../../.assets/desmos/graphs/)
