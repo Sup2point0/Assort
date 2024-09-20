@@ -18,11 +18,11 @@ export default class SearchOptions<T>
       );
     }
     else {
-      if (this.queryValue) {
+      if (this.queryValue && this.queryValue !== "") {
         data = data.sort(
           (prot, deut) => (
-            searchRatio(this.queryValue, this.queryWith(prot))
-          - searchRatio(this.queryValue, this.queryWith(deut))
+            searchRatio(this.queryWith(deut), this.queryValue)
+          - searchRatio(this.queryWith(prot), this.queryValue)
           )
         );
       }
