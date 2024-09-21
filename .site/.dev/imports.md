@@ -6,13 +6,14 @@ import "style.scss";
 import Site from "#src/site";
 
 import { Module } from "#modules/";
+import type { Type } from "#modules/types";
 
 import GenericPart from "#parts/";
 
 import SpecialPart from "part.svelte";
 
-import { base }
-import { page }
+import { base } from "$app/paths";
+import { page } from "$app/stores";
 
 import { onMount } from "svelte";
 ```
