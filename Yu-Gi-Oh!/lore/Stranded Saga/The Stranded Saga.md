@@ -60,7 +60,7 @@ Among the affinitics were the few Elders who inherited the greatest – and inde
   <tr>
     <td>
       <img alt="Nerra, Affine Vitakinetic" title="Nerra, Affine Vitakinetic" height="240px"
-        src="../../../.assets/.png">
+        src="../../../.assets/yugioh/stranded-saga/nerra.png">
     </td>
     <td> Nerra held the very power of life and death in her hands: in an instant, she could breathe ‘life’ into any entity, and then suck it away the next. Much misuse in her younger years has taught her to use this affinity sparingly. </td>
   </tr>
@@ -71,7 +71,7 @@ Among the affinitics were the few Elders who inherited the greatest – and inde
   <tr>
     <td>
       <img alt="Topo Tychis, Affine Felixus" title="Topo Tychis, Affine Felixus" height="240px"
-        src="../../../.assets/.png">
+        src="../../../.assets/yugioh/stranded-saga/topo-tychis.png">
     </td>
     <td> Blessed with the occasionally infuriating power of ‘luck’, Topo was well-known for being the youngest and least serious Elder – which still put his age at several hundred Earth years. </td>
   </tr>
@@ -82,7 +82,7 @@ Among the affinitics were the few Elders who inherited the greatest – and inde
   <tr>
     <td>
       <img alt="Xeros, Affine Superior" title="Xeros, Affine Superior" height="240px"
-        src="../../../.assets/.png">
+        src="../../../.assets/yugioh/stranded-saga/xeros.png">
     </td>
     <td> An explorer at heart with the ability to learn anyone else’s affinity. He has made it his life’s purpose to discover and study magical abilities in other worlds. </td>
   </tr>
@@ -93,7 +93,7 @@ Among the affinitics were the few Elders who inherited the greatest – and inde
   <tr>
     <td>
       <img alt="Vinita Arkhelm, Affine Legend" title="Vinita Arkhelm, Affine Legend" height="240px"
-        src="../../../.assets/.png">
+        src="../../../.assets/yugioh/stranded-saga/vinita-arkhelm.png">
     </td>
     <td> Though the Elders were all considered equal, Vinita was the oldest of them all, and held the greatest affinity – the ability to grant any other entity any affinity. However, after so long, he is tired, and seeks a successor. </td>
   </tr>
