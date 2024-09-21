@@ -59,7 +59,7 @@ Among the affinitics were the few Elders who inherited the greatest – and inde
   </tr>
   <tr>
     <td>
-      <img alt="Nerra, Affine Vitakinetic" title="Nerra, Affine Vitakinetic" height=240px"
+      <img alt="Nerra, Affine Vitakinetic" title="Nerra, Affine Vitakinetic" height="240px"
         src="../../../.assets/.png">
     </td>
     <td> Nerra held the very power of life and death in her hands: in an instant, she could breathe ‘life’ into any entity, and then suck it away the next. Much misuse in her younger years has taught her to use this affinity sparingly. </td>
