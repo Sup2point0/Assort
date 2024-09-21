@@ -31,6 +31,7 @@
  * Light colours for the Assort site
  */
 .soup {
+  --col-version: 1.6.1;
   --col-prot: oklch(65.12% 0.18 262.62);
   --col-deut: #ff0090;
   --col-flavour: oklch(81.45% 0.096 301.79);

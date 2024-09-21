@@ -1,5 +1,5 @@
 {
-  "exported": "2024-09-20",
+  "exported": "2024-09-21",
   "index": {
     "info": [
       ".squarkdown/content/frequerys.md",
@@ -62,6 +62,7 @@
       "~personal/slinqui.md"
     ],
     "poetry": [
+      "~poetry/Assort.md",
       "~poetry/Forsitan.md",
       "~poetry/Fractured, Shattered, Hearted.md",
       "~poetry/Heartburn.md",
@@ -186,6 +187,7 @@
       "~personal/slinqui.md"
     ],
     "poetry": [
+      "~poetry/Assort.md",
       "~poetry/Forsitan.md",
       "~poetry/Fractured, Shattered, Hearted.md",
       "~poetry/Heartburn.md",
@@ -205,6 +207,10 @@
       "~poetry/fractal fracking.md",
       "~poetry/readme.md",
       "~poetry/折磨.md"
+    ],
+    "meta": [
+      "~poetry/Assort.md",
+      "~writing/wriiting.md"
     ],
     "melodramatic": [
       "~poetry/Forsitan.md",
@@ -245,9 +251,6 @@
     ],
     "wack": [
       "~writing/commit.md"
-    ],
-    "meta": [
-      "~writing/wriiting.md"
     ],
     "rambling": [
       "~writing/writing.md"
@@ -437,7 +440,7 @@
     "Yu-Gi-Oh!/lore/Stranded Saga/The Stranded Saga.md": {
       "path": "Yu-Gi-Oh!/lore/Stranded Saga/The Stranded Saga.md",
       "slocs": 175,
-      "chars": 9904,
+      "chars": 10024,
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
@@ -887,6 +890,28 @@
       ],
       "date": null,
       "date_display": null
+    },
+    "~poetry/Assort.md": {
+      "path": "~poetry/Assort.md",
+      "slocs": 35,
+      "chars": 809,
+      "isIndex": false,
+      "isFeatured": true,
+      "isWoozy": false,
+      "dest": "assort",
+      "title": "Assorted Assortments",
+      "head": "Assorted Assortments",
+      "capt": null,
+      "desc": "A poem to Assort.",
+      "index": [
+        "poetry"
+      ],
+      "shard": [
+        "poetry",
+        "meta"
+      ],
+      "date": "2024-09-01",
+      "date_display": "2024 September"
     },
     "~poetry/Forsitan.md": {
       "path": "~poetry/Forsitan.md",
