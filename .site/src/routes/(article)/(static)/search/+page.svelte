@@ -2,16 +2,22 @@
 
 import Site from "#src/site";
   
+import { SearchOptions } from "#modules/types";
 import type { PageData } from "#modules/types";
-import { SearchOptions } from "#src/modules/types";
 
 import Search from "#parts/ext/search.svelte";
 import ContentCard from "#parts/ext/card.content.svelte";
 
+import { page } from "$app/stores";
+
 
 const pages = Object.values(Site.pages);
+const params = $page.url.searchParams;
 
-let searchOptions = new SearchOptions<PageData>();
+let searchOptions = new SearchOptions<PageData>({
+  queryValue: params.get("query"),
+  sortOrder: params.get("order"),
+});
 
 </script>
 
