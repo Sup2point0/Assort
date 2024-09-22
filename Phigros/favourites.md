@@ -96,7 +96,7 @@ Maximum Phigros!!
       <a target="_blank"
         href="">
         <img width="200px"
-          src="">
+          src="https://static.wikia.nocookie.net/phigros/images/9/9a/%CE%A0%CE%BF%CF%83%CE%B5%CE%B9%CE%B4%CF%8E%CE%BD_jacket.png/revision/latest">
       </a>
     </td>
   </tr>
@@ -107,7 +107,7 @@ Maximum Phigros!!
   <tr>
     <td colspan="2" align="center">
       <a target="_blank"
-        href="https://www.youtube.com/watch?v=jU8twFO2PRQ">
+        href="https://youtube.com/watch?v=jU8twFO2PRQ">
         <img width="200px"
           src="">
       </a>
@@ -144,7 +144,7 @@ Perfectly Phigros.
   <tr>
     <td colspan="2" align="center">
       <a target="_blank"
-        href="">
+        href="https://youtube.com/watch?v=6RotHDpCaAE">
         <img width="200px"
           src="">
       </a>
@@ -159,7 +159,7 @@ Perfectly Phigros.
       <a target="_blank"
         href="">
         <img width="200px"
-          src="">
+          src="https://static.wikia.nocookie.net/phigros/images/b/bb/Luminescence_jacket.png/revision/latest">
       </a>
     </td>
   </tr>
@@ -172,7 +172,7 @@ Perfectly Phigros.
       <a target="_blank"
         href="">
         <img width="200px"
-          src="">
+          src="https://static.wikia.nocookie.net/phigros/images/1/17/Realms_jacket.png/revision/latest">
       </a>
     </td>
   </tr>
@@ -183,7 +183,7 @@ Perfectly Phigros.
   <tr>
     <td colspan="2" align="center">
       <a target="_blank"
-        href="">
+        href="https://youtube.com/watch?v=zItXRlc_CKg">
         <img width="200px"
           src="">
       </a>
@@ -198,7 +198,7 @@ Perfectly Phigros.
       <a target="_blank"
         href="">
         <img width="200px"
-          src="">
+          src="https://static.wikia.nocookie.net/phigros/images/b/b7/After_Dawn_jacket.png/revision/latest">
       </a>
     </td>
   </tr>
@@ -283,9 +283,9 @@ Perfectly Phigros.
   <tr>
     <td colspan="2" align="center">
       <a target="_blank"
-        href="https://www.youtube.com/watch?v=IE05qv0qeyw">
+        href="https://youtube.com/watch?v=IE05qv0qeyw">
         <img width="200px"
-          src="">
+          src="https://static.wikia.nocookie.net/phigros/images/0/00/Retribution_jacket.png/revision/latest">
       </a>
     </td>
   </tr>
@@ -298,7 +298,7 @@ Perfectly Phigros.
       <a target="_blank"
         href="">
         <img width="200px"
-          src="">
+          src="https://static.wikia.nocookie.net/phigros/images/c/c6/The_Chariot_~REVIIVAL~_jacket.png/revision/latest">
       </a>
     </td>
   </tr>
@@ -333,9 +333,9 @@ When the charters *really* don’t hold back.
   <tr>
     <td colspan="2" align="center">
       <a target="_blank"
-        href="">
+        href="https://youtube.com/watch?v=ptb0AOzUjIE">
         <img width="200px"
-          src="">
+          src="https://static.wikia.nocookie.net/phigros/images/4/46/996_jacket.png/revision/latest">
       </a>
     </td>
   </tr>
@@ -346,7 +346,7 @@ When the charters *really* don’t hold back.
   <tr>
     <td colspan="2" align="center">
       <a target="_blank"
-        href="">
+        href="https://youtube.com/watch?v=NqsAl_31BkI">
         <img width="200px"
           src="">
       </a>
@@ -372,7 +372,7 @@ When the charters *really* don’t hold back.
   <tr>
     <td colspan="2" align="center">
       <a target="_blank"
-        href="">
+        href="https://youtube.com/watch?v=Vq_e1RXbrI8">
         <img width="200px"
           src="">
       </a>
@@ -385,7 +385,7 @@ When the charters *really* don’t hold back.
   <tr>
     <td colspan="2" align="center">
       <a target="_blank"
-        href="https://www.youtube.com/watch?v=X7VqCynzCrM">
+        href="https://youtube.com/watch?v=X7VqCynzCrM">
         <img width="200px"
           src="">
       </a>
