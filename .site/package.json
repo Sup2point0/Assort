@@ -5,9 +5,9 @@
 	"scripts": {
 		"dev": "vite dev",
       "devx": "npm run prep && vite dev",
-		"prep": "npm run squark",
+		"prep": "cd ../.stranger-quarkdown && rake squark[fonts,scss] && cd ../.site",
       "prepx": "npm run squarkx && npm run vivid",
-		"squark": "cd ../.stranger-quarkdown && rake squark[fonts,scss] && cd ../.site",
+		"squark": "cd ../.stranger-quarkdown && rake squark && cd ../.site",
       "squarkx": "cd ../.stranger-quarkdown && rake squark[fonts,assets,scss] && cd ../.site",
 		"vivid": "python vividity/export --root=src/palettes --css=colours.css css json",
 		"build": "vite build",

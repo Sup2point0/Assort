@@ -1,18 +1,18 @@
-<!-- @component
+<!--
 Base for an index page.
 -->
 
 <script>
 
-import Index from "#parts/page/Index.svelte";
+import Content from "./%{file}.svx";
 
-import Content from "./Content.svx";
+import Search from "../ext/Search.svelte";
 
 </script>
 
 
 <Content>
   <svelte:fragment slot="index">
-    <Index />
+    <Search />
   </svelte:fragment>
 </Content>
