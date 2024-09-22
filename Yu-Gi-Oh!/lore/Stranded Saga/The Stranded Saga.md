@@ -1,5 +1,5 @@
 <h1 align="center"> The Stranded Saga </h1>
-<!-- #SQUARK live!
+<!-- #SQUARK live! feat!
 | dest = yugioh/lore/stranded-saga/the-stranded-saga
 | index = stranded-saga
 | shard = #INDEX / yugioh / writing
@@ -47,6 +47,9 @@ Many have spoken of the *dreamscape*, a place visited in dreams. In it lie an en
 <h3 align="center"> Catastropical Crisis </h3>
 
 <h3 align="center"> Inadvertent Destiny </h3>
+
+> [!Note]
+> *There is nothing restricting affinical powers to only humanoids. Any entity, animate or inanimate, corporeal or abstract, is capable of being infused with or itself harnessing affine. Hence, the term ‘being’ is used here to inclusively refer to any ‘affinityzable’ entity.*
 
 In the world of affine, beings are bestowed a great power in their life – what is known as an ‘affinity’. It is, certainly, not an uncommon phenomenon, occuring in plenty of other worlds under the name of ‘magic’.
 
@@ -116,6 +119,8 @@ Among the affinitics were the few Elders who inherited the greatest – and inde
 <h3 align="center"> Inversion from the Void </h3>
 
 <h3 align="center"> Paradox Falls </h3>
+
+From the stellar heart of *Delphoenix Aestivale*, powered by the advanced technology of the Dyverse, *Aeternity Catastropical Supnauticator, the Affine Dyverse Construct* was born. Uniting the powers of time, nature and affine, it engaged Arkyrios in a devastating battle. Their world-shaking clash resounded throughout the dreamscape.
 
 
 <br>
