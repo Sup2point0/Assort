@@ -46,7 +46,7 @@ Here you’ll find all my interests, thoughts, writing, time-wasting, and maybe 
 ## [Frequerys<sup>↗</sup>](https://github.com/Sup2point0/Antarctica/blob/home/readme.md#what-does-frequerys-even-mean 'frequent queries')
 
 ### What’s all this for?
-I absolutely *love* creating things, and over the years I’ve created so much stuff that it’s all dispersed across multiple mediums – paper, phones, tablets, laptops, wikis – which is slightly a logistical nightmare. So, this is a repository to collect, store and archive (almost) everything I create. What exactly does that include? Well, content of any kind – documenting my ideas for games, graphic design and creative writing, lists, phenomena, worldbuilding and all. And also the fictional nation of [Antarctica<sup>↗</sup>](https://github.com/Sup2point0/Antarctica), but that’s so extensive that it’s in its own repo.
+I absolutely *love* creating things, and over the years I’ve created so much stuff that it’s all dispersed across multiple mediums – paper, phones, tablets, laptops, wikis – which is slightly a logistical nightmare. So, this is a repository to collect, store and archive (almost) everything I create. What exactly does that include? Well, content of any kind – documenting my ideas for games, graphic design and creative writing, lists, phenomena, worldbuilding and all. And also the fictional nation of [Antarctica](https://github.com/Sup2point0/Antarctica), but that’s so extensive that it’s in its own repo.
 
 ### Why use GitHub?
 GitHub is absolutely perfect for this, since I can organise everything into individual folders with infinite hierarchy, and even be able to access and share it from anywhere. Y’know, say I’ve got a piece of writing I want to show a friend, I can just send them a link like [https://github.com/Sup2point0/Assort/blob/origin/~writing/creative/Expanse.md](~writing/creative/Expanse.md), and done!
@@ -73,7 +73,7 @@ Uppercase and lowercase are simply stylistic choices. Those with `~` are categor
 
 This is all my own content, so I do claim ownership over it. I’m also aware I have absolutely no means of stopping you from copying it. I think if you’re reading this you probably (maybe) have the integrity to give credit if you do ^v^
 
-I’ve licensed Assort under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) tho, just like [Wikipedia](https://wikipedia.org/wiki/Wikipedia:Copyrights), [Fandom](https://www.fandom.com/licensing) and other wikis – so as long you give credit and redistribute under the same license, you’re good to go.
+I’ve licensed Assort under [CC BY-SA<sup>↗</sup>](https://creativecommons.org/licenses/by-sa/4.0/deed.en) tho, just like [Wikipedia<sup>↗</sup>](https://wikipedia.org/wiki/Wikipedia:Copyrights), [Fandom<sup>↗</sup>](https://www.fandom.com/licensing) and other wikis – so as long you give credit and redistribute under the same license, you’re good to go.
 
 
 <br>
@@ -81,7 +81,7 @@ I’ve licensed Assort under [CC BY-SA](https://creativecommons.org/licenses/by-
 
 ## Generative AI
 
-See [AI](AI.md).
+See [AI](AI.md)~
 
 
 <br>
