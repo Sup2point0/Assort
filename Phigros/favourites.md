@@ -1,70 +1,10 @@
 # Favourite Charts
 <!-- #SQUARK live!
-  <tr>
-    <td colspan="2" align="center">
-      <a target="_blank"
-        href="">
-        <img width="200px"
-          src="">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td> dest = </td>
-    <td>higros/favourites </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a target="_blank"
-        href="">
-        <img width="200px"
-          src="">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td> style = </td>
-    <td>higros </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a target="_blank"
-        href="">
-        <img width="200px"
-          src="">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td> duality = </td>
-    <td>ark </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a target="_blank"
-        href="">
-        <img width="200px"
-          src="">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td> index = </td>
-    <td>higros </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a target="_blank"
-        href="">
-        <img width="200px"
-          src="">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td> shard = </td>
-    <td>INDEX </td>
-  </tr>
+| dest = higros/favourites
+| style = higros
+| duality = dark
+| index = phigros
+| shard = #INDEX
 -->
 
 Deciding on a single favourite chart would be impossible, so of course, we’ll list a bunch!
@@ -83,7 +23,7 @@ Maximum Phigros!!
       <a target="_blank"
         href="">
         <img width="200px"
-          src="">
+          src="https://static.wikia.nocookie.net/phigros/images/1/1b/Inferior_.jpg/revision/latest">
       </a>
     </td>
   </tr>
@@ -109,7 +49,7 @@ Maximum Phigros!!
       <a target="_blank"
         href="https://youtube.com/watch?v=jU8twFO2PRQ">
         <img width="200px"
-          src="">
+          src="https://static.wikia.nocookie.net/phigros/images/0/0d/Trojan_jacket.png/revision/latest">
       </a>
     </td>
   </tr>
@@ -146,7 +86,7 @@ Perfectly Phigros.
       <a target="_blank"
         href="https://youtube.com/watch?v=6RotHDpCaAE">
         <img width="200px"
-          src="">
+          src="https://static.wikia.nocookie.net/phigros/images/5/58/%E7%9B%8F%E8%8C%97_jacket.png/revision/latest">
       </a>
     </td>
   </tr>
@@ -185,7 +125,7 @@ Perfectly Phigros.
       <a target="_blank"
         href="https://youtube.com/watch?v=zItXRlc_CKg">
         <img width="200px"
-          src="">
+          src="https://static.wikia.nocookie.net/phigros/images/0/06/%E9%9D%92%E8%8A%BD_jacket.png/revision/latest">
       </a>
     </td>
   </tr>
@@ -211,7 +151,7 @@ Perfectly Phigros.
       <a target="_blank"
         href="">
         <img width="200px"
-          src="">
+          src="https://static.wikia.nocookie.net/phigros/images/e/ed/Dance_with_Silence_jacket.png/revision/latest">
       </a>
     </td>
   </tr>
@@ -224,7 +164,7 @@ Perfectly Phigros.
       <a target="_blank"
         href="">
         <img width="200px"
-          src="">
+          src="https://static.wikia.nocookie.net/phigros/images/c/c6/Feast%E8%BF%9C%E4%B8%9C%E4%B9%8B%E5%AE%B4_jacket.png/revision/latest">
       </a>
     </td>
   </tr>
@@ -250,7 +190,7 @@ Perfectly Phigros.
       <a target="_blank"
         href="">
         <img width="200px"
-          src="">
+          src="https://static.wikia.nocookie.net/phigros/images/6/6d/Indelible_Scar_jacket.png/revision/latest">
       </a>
     </td>
   </tr>
@@ -348,13 +288,13 @@ When the charters *really* don’t hold back.
       <a target="_blank"
         href="https://youtube.com/watch?v=NqsAl_31BkI">
         <img width="200px"
-          src="">
+          src="https://static.wikia.nocookie.net/phigros/images/1/13/CROSS%E2%80%A0SOUL_jacket.png/revision/latest">
       </a>
     </td>
   </tr>
   <tr>
     <td> IN 15 </td>
-    <td> [Cross+Soul] </td>
+    <td> CROSS†SOUL </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
@@ -374,7 +314,7 @@ When the charters *really* don’t hold back.
       <a target="_blank"
         href="https://youtube.com/watch?v=Vq_e1RXbrI8">
         <img width="200px"
-          src="">
+          src="https://static.wikia.nocookie.net/phigros/images/8/86/Shadow_jacket.png/revision/latest">
       </a>
     </td>
   </tr>
@@ -387,7 +327,7 @@ When the charters *really* don’t hold back.
       <a target="_blank"
         href="https://youtube.com/watch?v=X7VqCynzCrM">
         <img width="200px"
-          src="">
+          src="https://static.wikia.nocookie.net/phigros/images/0/0e/%2BERABY%2BE_CONNEC%2B10N_jacket.png/revision/latest">
       </a>
     </td>
   </tr>
@@ -400,7 +340,7 @@ When the charters *really* don’t hold back.
       <a target="_blank"
         href="">
         <img width="200px"
-          src="">
+          src="https://static.wikia.nocookie.net/phigros/images/b/b5/%E7%A5%88_-%E6%88%91%E3%82%89%E7%A5%9E%E7%A5%96%E3%81%A8%E5%85%B1%E3%81%AB%E6%AD%A9%E3%82%80%E8%80%85%E3%81%AA%E3%82%8A-_jacket.png/revision/latest">
       </a>
     </td>
   </tr>
