@@ -188,7 +188,7 @@ Perfectly Phigros.
   <tr>
     <td colspan="2" align="center">
       <a target="_blank"
-        href="">
+        href="https://youtube.com/watch?v=O3PpdS4x40Q">
         <img width="500px"
           src="https://static.wikia.nocookie.net/phigros/images/6/6d/Indelible_Scar_jacket.png/revision/latest">
       </a>
@@ -338,7 +338,7 @@ When the charters *really* don’t hold back.
   <tr>
     <td colspan="2" align="center">
       <a target="_blank"
-        href="">
+        href="https://youtube.com/watch?v=s9v3RXPV1P0">
         <img width="500px"
           src="https://static.wikia.nocookie.net/phigros/images/b/b5/%E7%A5%88_-%E6%88%91%E3%82%89%E7%A5%9E%E7%A5%96%E3%81%A8%E5%85%B1%E3%81%AB%E6%AD%A9%E3%82%80%E8%80%85%E3%81%AA%E3%82%8A-_jacket.png/revision/latest">
       </a>
