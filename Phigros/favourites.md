@@ -1,10 +1,70 @@
 # Favourite Charts
 <!-- #SQUARK live!
-| dest = phigros/favourites
-| style = phigros
-| duality = dark
-| index = phigros
-| shard = #INDEX
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> dest = </td>
+    <td>higros/favourites </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> style = </td>
+    <td>higros </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> duality = </td>
+    <td>ark </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> index = </td>
+    <td>higros </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> shard = </td>
+    <td>INDEX </td>
+  </tr>
 -->
 
 Deciding on a single favourite chart would be impossible, so of course, we’ll list a bunch!
@@ -19,28 +79,52 @@ Maximum Phigros!!
 
 <table>
   <tr>
-    <video src="">
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
   </tr>
   <tr>
     <td> HD 7  </td>
     <td> inferior </td>
   </tr>
   <tr>
-    <video src="">
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
   </tr>
   <tr>
     <td> IN 12 </td>
-    <td> [poseidon] </td>
+    <td> Ποσειδών </td>
   </tr>
   <tr>
-    <video src="">
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="https://www.youtube.com/watch?v=jU8twFO2PRQ">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
   </tr>
   <tr>
     <td> IN 14 </td>
     <td> Trojan </td>
   </tr>
   <tr>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/QTEHsYsBLLU?si=2Dcpa8KZxWTmUEoq" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="https://youtube.com/watch?v=QTEHsYsBLLU">
+        <img width="200px"
+          src="https://static.wikia.nocookie.net/phigros/images/2/29/PRAGMATISM_-RESURRECTION-_jacket.png/revision/latest/">
+      </a>
+    </td>
   </tr>
   <tr>
     <td> AT 16 </td>
@@ -56,15 +140,125 @@ Maximum Phigros!!
 
 Perfectly Phigros.
 
-| IN 13 | 盏茗
-| IN 14 | Luminescence
-| IN 14 | Realms
-| IN 14 | 青芽
-| IN 15 | After Dawn
-| IN 15 | Dance with Silence
-| IN 15 | [Feast]
-| IN 15 | 聖夜讃歌
-| AT 16 | Indelible Scar
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> IN 13 </td>
+    <td> 盏茗 </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> IN 14 </td>
+    <td> Luminescence </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> IN 14 </td>
+    <td> Realms </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> IN 14 </td>
+    <td> 青芽 </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> IN 15 </td>
+    <td> After Dawn </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> IN 15 </td>
+    <td> Dance with Silence </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> IN 15 </td>
+    <td> Feast远东之宴 </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="https://static.wikia.nocookie.net/phigros/images/9/92/%E8%81%96%E5%A4%9C%E8%AE%83%E6%AD%8C_jacket.png/revision/latest">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> IN 15 </td>
+    <td> 聖夜讃歌 </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> AT 16 </td>
+    <td> Indelible Scar </td>
+  </tr>
+</table>
 
 
 <br>
@@ -72,10 +266,60 @@ Perfectly Phigros.
 
 ## Fun
 
-| IN 15 | [REANIMATE]
-| IN 15 | Retribution
-| IN 15 | The Chariot ~revival~
-| AT 14 | Break Over
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="https://static.wikia.nocookie.net/phigros/images/1/1f/%E6%9A%97%E5%A4%9C%E8%8B%8F%E9%86%92_%28REANIMATE%29_jacket.png/revision/latest">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> IN 15 </td>
+    <td> 暗夜苏醒 (REANIMATE) </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="https://www.youtube.com/watch?v=IE05qv0qeyw">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> IN 15 </td>
+    <td> Retribution </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> IN 15 </td>
+    <td> The Chariot ~REVIIVAL~ </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> AT 14 </td>
+    <td> Break Over </td>
+  </tr>
+</table>
 
 
 <br>
@@ -85,9 +329,83 @@ Perfectly Phigros.
 
 When the charters *really* don’t hold back.
 
-| IN 14 | 996
-| IN 15 | [Cross+Soul]
-| IN 15 | papipupipupipa
-| AT 15 | Shadow
-| AT 16 | +ERABY+E CONNEC+10N
-| AT 16 | [chunithm] Inori
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> IN 14 </td>
+    <td> 996 </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> IN 15 </td>
+    <td> [Cross+Soul] </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="https://static.wikia.nocookie.net/phigros/images/e/e0/%E3%81%B1%E3%81%B4%E3%81%B7%E3%81%B4%E3%81%B7%E3%81%B4%E3%81%B1_jacket.png/revision/latest">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> IN 15 </td>
+    <td> ぱぴぷぴぷぴぱ </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> AT 15 </td>
+    <td> Shadow </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="https://www.youtube.com/watch?v=X7VqCynzCrM">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> AT 16 </td>
+    <td> +ERABY+E CONNEC+10N </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a target="_blank"
+        href="">
+        <img width="200px"
+          src="">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td> AT 16 </td>
+    <td> 祈 -我ら神祖と共に歩む者なり- </td>
+  </tr>
+</table>
