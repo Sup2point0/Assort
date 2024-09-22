@@ -1,5 +1,8 @@
 # *Yu-Gi-Oh!*
-<!-- #QUARK live! -->
+<!-- #SQUARK live!
+| dest = yugioh
+| shard = yugioh
+-->
 
 I’ve played *Yu-Gi-Oh!* ever since I was a child, with a fairly long interlude during the *VRAINS* era. Not too long ago, I fell in love with it once more, being utterly blown away when I discovered I could create *and play with* my own custom cards on *DuelingBook*. That then led me to try the actual game again, and I crafted a *Raidraptor* deck (since I loved [Kurosaki<sup>↗</sup>](https://yugipedia.com/wiki/Shay_Obsidian) from *ARC-V*) on [*DuelingNexus*<sup>↗</sup>](https://duelingnexus.com), picking up (surprisingly quickly, I must say) what modern Yu-Gi-Oh feels like.
 
