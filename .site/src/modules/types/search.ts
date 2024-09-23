@@ -17,7 +17,7 @@ export default class SearchOptions<T>
   sortWith: ((source: T) => any) | null;
   sortOrder: "ascend" | "descend";
 
-  constructor(options: ISearchOptions<T>)
+  constructor(options: ISearchOptions<T> = {})
   {
     this.queryValue = options.queryValue ?? "";
     this.queryWith = options.queryWith ?? (data => data.title);
