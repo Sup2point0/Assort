@@ -14,7 +14,9 @@ import { page } from "$app/stores";
 const params = $page.url.searchParams;
 
 let searchOptions = new SearchOptions<PageData>({
-  queryValue: params.get("query"),
+  query: params.get("query"),
+  queryWith: params.get("in") ? (data => data[params.get("in")!]) : null,
+  sortWith: params.get("sort") ? (data => data[params.get("sort")!]) : null,
   sortOrder: params.get("order"),
 });
 

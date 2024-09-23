@@ -2,12 +2,16 @@
 
 -->
 
+
 <script lang="ts">
 
 import { SearchOptions } from "#modules/types";
 import type { PageData } from "#modules/types";
 
 import ContentCard from "#parts/ext/card.content.svelte";
+import Shard from "#parts/ext/tag.shard.svelte";
+
+import { page } from "$app/stores";
 
 export let pages: PageData[];
 export let options: SearchOptions<PageData>;
@@ -24,6 +28,10 @@ export let options: SearchOptions<PageData>;
       intern={page.dest}
     >
       <p> {page.desc} </p>
+      
+      {#each page.shard ?? [] as shard}
+        <Shard shard={shard} />
+      {/each}
     </ContentCard>
   {/each}
 </ul>
