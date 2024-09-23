@@ -16,9 +16,10 @@ Just laying out my thoughts on all the archetypes in *Yu-Gi-Oh* I’ve faced, wa
 
 I remember when I first saw these cards all over *Master Duel* – this was just about when I was getting back into the game, so they were totally unfamiliar to me – and thinking, *’damn, cool names, cool art, cool cards’*. It was a wonderful kind of blissful ignorance.[^bliss-feel] While I thought the cards were cool, I really didn’t like how the deck functioned at first. A very linear and efficient combo, just felt kinda scummy for such low effort.
 
+[^bliss-feel]: I’m sure you know the feeling – when something is fresh and unfamiliar, and you’re navigating it for the first time. Everyone longs to have it back afterwards.
+
 As I’ve discovered the rest of the archetype though, and most importantly delved into its rich lore (courtesy of [Golden Nova Yu-Gi-Oh<sup>↗</sup>](https://youtube.com/@GoldenNovaYugioh)), I unknowingly came to love it. I still don’t play it, and don’t plan on playing it, but I absolutely adore the characters and art and the magnificent inter-weaving story. Can’t wait for part 2. I kinda hold an uncharged[^uncharged] respect for its efficiency and resiliency (for me at least, it’s one of the quintessential modern decks), and I do like that its combos have become more diverse and non-linear with the addition of all the new cards. Also, Branded is a blast to duel against.[^duel]
 
-[^bliss-feel]: I’m sure you know the feeling. When something is fresh and unfamiliar and you’re navigating it for the first time. Everyone longs to have it back afterwards.
 [^uncharged]: As in, kinda neutral, not really charged with any intense feeling.
 [^branded-duel]: I’m lookin’ at you, Drytron <3
 
@@ -26,7 +27,22 @@ As I’ve discovered the rest of the archetype though, and most importantly delv
 <br>
 
 
+## Dinomorphia
+
+> we like to live dangerously
+
+I really love the concept of this archetype, and it’s executed so well. The engine is small but efficient,[^dinomorphia-small] and there aren’t even that many different cards, yet it manages to pose a formidable threat. And it does that all while living life on the line, obstinately refusing to die. It’s such an anime deck, honestly.[^dinomorphia-anime]
+
+[^dinomorphia-small]: 2 Main Deck Monsters is lowkey mad.
+[^dinomorphia-anime]: Anime decks are MY FAVOURITE!!
+
+
+<br>
+
+
 ## Kashtira
+
+> I will sacrifice my soul to steal yours
 
 Never have I ever hated an archetype as much as this, I don’t think. Purely from a design perspective, it’s way. too. overtuned. – and while that may not directly translate into power, it certainly makes the cards appear frustratingly unfair (at least to me).
 
@@ -40,6 +56,48 @@ Arise-Heart literally reads like a custom card.[^arise-heart]
 <br>
 
 
+## Sky Striker
+
+> engage all targets!
+
+My first experience of this was against a modified parody someone had created on DuelingBook, which is probably not the best first impression. But it’s grown on me for sure, much like [Branded](#Branded). I love the whole gimmick around having 1 ace monster that changes forms, helped by an arsenal of special moves.[^sky-striker-ace] Yes, some of the cards are a little broken ([Engage](~) and [Multirole](~) o.0), but the archetype as a whole works quite nicely – while annoying, it’s still chock-full of weaknesses.
+
+[^sky-striker-ace]: MAXIMUM ANIME!!!
+
+Sky Striker art is definitely some of my favourite in the game,[^sky-striker-art] and it’s even got a whole series of manga lore which I *will* read eventually.
+
+[^sky-striker-art]: Ok, and Raye’s a little waifu, but come on.
+
+
+<br>
+
+
+## Spright
+
+> wicked art for a soulless archetype
+
+I’m gonna be real, Spright is a pretty boring and uncreative archetype. Like, love the name and art, but its playstyle is just... ass. Free Special Summons. From the Grave too, and during the opponent’s turn. Search cards. Negates. Boost ATK if needed.
+
+I think the main problem with the archetype is that it doesn’t have any kind of boss monster at all ([Gigantic Spright](~) may be the ace, but it’s nowhere near a boss), which makes it heavily reliant on generic bosses and negates. If you analyse its design it’s just designed purely to win, not even have fun or do cool stuff. Which is one of the things I have the most.
+
+
+<br>
+
+
+## Swordsoul
+
+> powercreep the wyrms
+
+I’ve always disliked how nastily efficient the engine is – from the 1 card Synchro Summons to [Mo Ye](~) replacing itself – it just feels so heartless. And while I get making it xenophobic would weaken the archetype substantially, generic Synchros[^swordsoul-generic] are just so scummy. istx, if I see Mo Ye - Chixiao - Baronne 1 more time...
+
+All that being said, Chengying and Qixing Longyuan are pretty sick ace monsters. They have a perfect ‘boss’ vibe to them, and are pretty creative effects-wise in a rather lowkey way – nothing extraordinary, but not just a negate. Their art is also kinda fire, as are the Chinese names xD. Oh yeah, and it’s part of the Branded storyline, which makes it instantly cooler.
+
+[^swordsoul-generic]: It is *always* [Baronne de Fleur](~).
+
+
+<br>
+
+
 ## Tearlaments
 
 Firstly, I really love the art. Genuinely some of the most aesthetically brilliant Yu-Gi-Oh cards to ever exist.[^tear-art] The colour palette is stunning. Also, the name is incredible. Triple pun, just... perfection.
@@ -47,6 +105,18 @@ Firstly, I really love the art. Genuinely some of the most aesthetically brillia
 [^tear-art]: Also waifu material, ofc :v
 
 With that out the way... hot take here, I actually really like the way the archetype is designed, with the exception of a few cards.
+
+
+<br>
+
+
+## Visas
+
+> what in the world?!
+
+I’m gonna use this to cover the hybrid decks built from [Visas](~),  [Scare-Claw](~), [Mannadium](~), and occasionally [Kashtira](~), which are all part of the [Visas Starfrost](~) storyline.
+
+I'm not a fan of the ridiculous searching from a card design point of view, but holy hell is this mesmerising to watch. It's insane how it just keeps on going, churning out monster after monster. As a custom card creator one of the hardest things you could ever do is design 2 archetypes that synergise almost perfectly while still retaining their own gimmicks and character – which makes it so unbelievably cool how Visas manages to meld 3 archetypes (or more, depending how you count it!). I mean come on, they’re running 4 Field Spells for xenique’s sake! What is this!?
 
 
 <br>
