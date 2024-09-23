@@ -9,11 +9,11 @@ if __name__ == "__main__":
   route = SITE / "src" / "data" / "status.json"
 
   with open(route, "r", encoding = "utf-8") as source:
-    status = json.load(source)
+    data = json.load(source)
 
-  status.sort()
+  data["standard"].sort()
 
   with open(route, "w", encoding = "utf-8") as dest:
-    json.dump(status, dest, indent = 2, ensure_ascii = False)
+    json.dump(data, dest, indent = 2, ensure_ascii = False)
 
   print(">> done!")
