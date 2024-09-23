@@ -65,8 +65,3 @@ interface SiteData {
 interface PagesData {
   [index: string]: PageData;
 }
-
-
-export const Statuses: Array<string> = (
-  await import("./data/status.json")
-).default;
