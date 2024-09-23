@@ -11,7 +11,7 @@ import Search from "#parts/ext/search.svelte";
 
 <Search
   on:search={e => {
-    window.location.href = `${base}/search?query=${e.detail.queryValue}`;
+    window.location.href = `${base}/search?query=${e.detail.query}`;
   }}
 />
 

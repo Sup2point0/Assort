@@ -22,11 +22,11 @@ const dispatch = createEventDispatcher();
 <search>
   <input type="search"
     {placeholder}
-    bind:value={options.queryValue}
+    bind:value={options.query}
   />
 
   <button on:click={() => {
-    dispatch("search", { queryValue: options.queryValue});
+    dispatch("search", { query: options.query});
   }}>
     <span class="material-symbols-outlined">
       search

@@ -1,27 +1,22 @@
 import { searchRatio } from "../utils/search-ratio";
 
 
-// the duplication here hurts a little, but oh well.
-interface ISearchOptions<T> {
-  queryValue?: string | null;
-  queryWith?: ((source: T) => string);
-  sortWith?: ((source: T) => any) | null;
-  sortOrder?: "ascend" | "descend" | null;
-}
-
-
 export default class SearchOptions<T>
 {
-  queryValue: string;
-  queryWith: ((source: T) => string);
-  sortWith: ((source: T) => any) | null;
+  query: string;
+  queryWith: ((data: T) => string);
+  sortWith: ((data: T) => any) | null;
   sortOrder: "ascend" | "descend";
 
-  constructor(options: ISearchOptions<T> = {})
+  constructor(options = {})
   {
-    this.queryValue = options.queryValue ?? "";
+    /* @ts-ignore */
+    this.query = options.query ?? "";
+    /* @ts-ignore */
     this.queryWith = options.queryWith ?? (data => data.title);
+    /* @ts-ignore */
     this.sortWith = options.sortWith ?? null;
+    /* @ts-ignore */
     this.sortOrder = options.sortOrder ?? "descend";
   }
 
@@ -35,11 +30,11 @@ export default class SearchOptions<T>
       );
     }
     else {
-      if (this.queryValue && this.queryValue !== "") {
+      if (this.query && this.query !== "") {
         data = data.sort(
           (prot, deut) => (
-            searchRatio(this.queryWith(deut), this.queryValue)
-          - searchRatio(this.queryWith(prot), this.queryValue)
+            searchRatio(this.queryWith(deut), this.query)
+          - searchRatio(this.queryWith(prot), this.query)
           )
         );
       }

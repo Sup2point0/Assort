@@ -4,7 +4,7 @@ import { page } from "$app/stores";
 
 import Site from "#src/site";
 
-import Tag from "#parts/ext/tag.svelte";
+import Shard from "#parts/ext/tag.shard.svelte";
 
 </script>
 
@@ -25,11 +25,7 @@ import Tag from "#parts/ext/tag.svelte";
 
     <div id="shards">
       {#each $page.data.shard ?? [] as shard}
-        {@const data = Site.shard[shard] ?? Site.index[shard]}
-
-        <Tag intern="search?shard={shard}" col={data?.colour}>
-          {data?.display ?? shard}
-        </Tag>
+        <Shard shard={shard} />
       {/each}
     </div>
   </div>
