@@ -1,0 +1,129 @@
+<script>
+   <body>
+      <Prog.link()_id = "Extermination 
+      Protocol">
+      <startcalculate:import.func[sin, 
+      cos, tan, *sintan, *cossin]
+      _Ac.
+      {{
+      StartProtocol
+      console.log('Nervous System 
+      Shutdown Initiated')
+         {
+            <init>
+         [/In_bar: Prog (log) sin(N^3) | \]
+            </init>
+            <\>
+         }
+      [Action|'pr'];
+      console.log('Immune System 
+      Lockdown Process Initiated')
+      <var>
+         {
+               Target Lockdown_note
+         :t84610 id_
+         Search for;
+            import * <div:search>
+            All \available "Immune 
+            System" cat. g
+               Log. [x, y, z]
+            <clearLog/var.no>
+            </div>
+         }
+         </end>
+      </var>
+      console.pause
+      Sleep(4.0)
+      Targ.imm
+         divcalc[]_Num:'randint(1,10)'
+      Log.()
+      Sleep()
+         <import from Python>
+            For i in range (true)
+               Set =+ complete? #
+               Sleep(0.00)
+            </end>
+      Int.Protocol |
+         {
+            Calc.5
+            <divLink/'Termination of 
+            White Blood \Cells'>
+            Prog.%#100/100^%
+               <\>
+            Fin_whendone? id.KILL —()—
+            <del>
+         }
+      console.move(5)
+         _Spread() +Virus+
+         <\>
+      <html>
+            [[https://www.extermination 
+            protocol.net/Virus%]]
+      </html>
+       DestroyCode
+         #GetX
+      {{Ind.   console/type="2"
+      |   Var i# * <\> 1001011010101011
+      |      Def \Destroy ()
+      |         :Find(com:Cell)  〈10
+      |         #GetX #GetY #GetZ
+      |      <end/corp.destroy()>
+      | </end> }}
+   </body>
+   <log^10>
+      <divtype:import from Python | 
+      2018 CD42 Mod. >
+         {
+            For i in range (cond)
+                   Def \cond;
+                         <4
+                         Num_Int#
+                         Change~ 
+                         [ insert:Virus ]
+               Kill_(order): G0110101001
+               <sense:left>
+                  console.interp('terminate 
+                  cellular structure')
+               console.log(math.conv 
+               {Num_%}(left))
+                  <Get:div orig left>
+                  <continue>
+            }
+            </script>
+            <html>
+               {{Temp.box
+                  Size = 400 x 260
+                  Col = ctr cont.
+                     Grad_12031
+                     Sat_18692
+                     Brig_19945
+                     <\gradient>
+                  Out: 1
+                        Let (black)
+                     console.interp()
+                  ProgressBar (%)
+                  <divs>
+                     <cons>
+                        Col_blue dark
+                  }}
+                        <update>
+            </html>
+            <script>
+               </div>
+               math.func()
+               console.load{#i * DIV}
+               func.lot
+               VIR
+                  <div offset:1>
+                  <sensing %: out -1>
+                  {
+                     Del.im
+                     X
+                  }
+                  <\>
+               <ccs>
+            </script>
+         </div>
+      </body>
+   </end>
+<\>
