@@ -29,8 +29,24 @@ Standalone soundtracks, sorted into (unofficially named) categories for clarity.
 
 ## Series
 
+### Cortex
+
+<a href="Cortex/Voxel.wav">
+  <img alt="Cortex" title="Cortex" height="240px"
+    src="../../../.assets/covers/Cortex">
+</a>
+
 ### Elysion
 Experimental and diverse rhythm-game-style soundtracks.
+
+<a href="Elysion/Aphenia.wav">
+  <img alt="Aphenia" title="Aphenia" height="240px"
+    src="../../../.assets/covers/Aphenia.png">
+</a>
+<a href="Elysion/Ceruleus.wav">
+  <img alt="Ceruleus" title="Ceruleus" height="240px"
+    src="../../../.assets/covers/Ceruleus.png">
+</a>
 
 ### Algorhythm Origins
 Original soundtracks created for *Algorhythm*.
