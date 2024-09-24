@@ -80,6 +80,12 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
   src="https://images.ygoprodeck.com/images/cards/94187078.jpg">
 <img alt="Drytron Nova" height="120px"
   src="https://images.ygoprodeck.com/images/cards/94187078.jpg">
+<img alt="Cyber Emergency" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/60600126.jpg">
+<img alt="Cyber Emergency" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/60600126.jpg">
+<img alt="Cyber Emergency" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/60600126.jpg">
 <img alt="Drytron Fafnir" height="120px"
   src="https://images.ygoprodeck.com/images/cards/58793369.jpg">
 <img alt="Drytron Fafnir" height="120px"
@@ -88,18 +94,48 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
   src="https://images.ygoprodeck.com/images/cards/58793369.jpg">
 <img alt="Drytron Meteor Shower" height="120px"
   src="https://images.ygoprodeck.com/images/cards/84965420.jpg">
-<img alt="Nadir Servant" height="120px"
-  src="https://images.ygoprodeck.com/images/cards/1984618.jpg">
 <img alt="Dogmatikabre" height="120px"
   src="https://images.ygoprodeck.com/images/cards/60921537.jpg">
+<img alt="Nadir Servant" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/1984618.jpg">
 <img alt="Dogmatikatrix" height="120px"
   src="https://images.ygoprodeck.com/images/cards/35569555.jpg">
 <img alt="Dogmatikatrix" height="120px"
   src="https://images.ygoprodeck.com/images/cards/35569555.jpg">
+<img alt="Where Arf Thou?" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/51405049.jpg">
+<img alt="Preparation of Rites" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/96729612.jpg">
+<img alt="Pre-Preparation of Rites" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/13048472.jpg">
+
+
+<img alt="Ash Blossom & Joyous Spring" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/14558128.jpg">
+<img alt="Droll & Lock Bird" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/94145022.jpg">
+<img alt="Lava Golem" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/102380.jpg">
+<img alt="Nibiru, the Primal Being" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/27204311.jpg">
+<img alt="Called by the Grave" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/24224830.jpg">
+<img alt="Crossout Designator" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/65681983.jpg">
+<img alt="Forbidden Droplet" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/24299458.jpg">
+<img alt="Super Polymerization" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/48130397.jpg">
+<img alt="Ultimate Slayer" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/2263869.jpg">
+<img alt="Triple Tactics Talent" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/25311006.jpg">
+<img alt="Infinite Impermanence" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/10045474.jpg">
+<img alt="Evenly Matched" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/15693423.jpg">
 <img alt="Waking the Dragon" height="120px"
   src="https://images.ygoprodeck.com/images/cards/10813327.jpg">
-<img alt="" height="120px"
-  src="">
 
 </details>
 
