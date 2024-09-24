@@ -1,3 +1,8 @@
+---
+archived: Notes on iPhone 5s
+created: 2020 April 9
+---
+
 # Problems/Bugs/Issues with Scratch
 
 1. If you broadcast the same message in a single tick/frame, it will only count as being broadcast once
@@ -20,6 +25,3 @@
 
 
 <br>
-
-
-(archived from Notes on iPhone 5s, created 9 April 2020)
