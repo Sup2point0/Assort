@@ -25,6 +25,10 @@ export function searchRatio(
 
   for (let query of queries) {
     for (let part of sources) {
+      if (!query || !part) {
+        continue;
+      }
+
       ratio = fuzzyRatio(query, part);
       if (ratio > apexRatio) {
         apexRatio = ratio;
