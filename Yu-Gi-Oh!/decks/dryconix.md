@@ -115,19 +115,27 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
 <img alt="Herald of Mirage Lights" height="120px"
   src="https://images.ygoprodeck.com/images/cards/46935289.jpg">
 <img alt="Clear Wing Synchro Dragon" height="120px"
-  src="https://images.ygoprodeck.com/images/cards/82044280.jpg">
+  src="https://images.ygoprodeck.com/images/cards/82044279.jpg">
+<img alt="Wind Pegasus @Ignister" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/98506199.jpg">
 <img alt="Herald of the Arc Light" height="120px"
   src="https://images.ygoprodeck.com/images/cards/79606837.jpg">
 <img alt="Herald of the Arc Light" height="120px"
   src="https://images.ygoprodeck.com/images/cards/79606837.jpg">
 <img alt="Herald of the Arc Light" height="120px"
   src="https://images.ygoprodeck.com/images/cards/79606837.jpg">
+<img alt="Elder Entity N'tss" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/80532587.jpg">
+<img alt="Garura, Wings of Resonant Life" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/11765832.jpg">
+<img alt="Lyrilusc - Assembled Nightingale" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/48608796.jpg">
 <img alt="Raidraptor - Rising Rebellion Falcon" height="120px"
   src="https://images.ygoprodeck.com/images/cards/71222868.jpg">
 <img alt="Infinitrack Fortress Megaclops" height="120px"
   src="https://images.ygoprodeck.com/images/cards/69073023.jpg">
-<img alt="" height="120px"
-  src="">
+<img alt="Relinquished Anima" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/94259633.jpg">
 
 </details>
 
