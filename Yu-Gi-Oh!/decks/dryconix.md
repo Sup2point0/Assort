@@ -18,123 +18,123 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
 <details open>
   <summary> <b> Main Deck </b> </summary> <br>
 
-<img alt="Drytron Alpha Thuban" height="120px"
+<img alt="Drytron Alpha Thuban" height="160px"
   src="https://images.ygoprodeck.com/images/cards/97148796.jpg">
-<img alt="Drytron Alpha Thuban" height="120px"
+<img alt="Drytron Alpha Thuban" height="160px"
   src="https://images.ygoprodeck.com/images/cards/97148796.jpg">
-<img alt="Drytron Alpha Thuban" height="120px"
+<img alt="Drytron Alpha Thuban" height="160px"
   src="https://images.ygoprodeck.com/images/cards/97148796.jpg">
-<img alt="Drytron Zeta Aldibah" height="120px"
+<img alt="Drytron Zeta Aldibah" height="160px"
   src="https://images.ygoprodeck.com/images/cards/96026108.jpg">
-<img alt="Drytron Zeta Aldibah" height="120px"
+<img alt="Drytron Zeta Aldibah" height="160px"
   src="https://images.ygoprodeck.com/images/cards/96026108.jpg">
-<img alt="Drytron Delta Altais" height="120px"
+<img alt="Drytron Delta Altais" height="160px"
   src="https://images.ygoprodeck.com/images/cards/22420202.jpg">
-<img alt="Drytron Delta Altais" height="120px"
+<img alt="Drytron Delta Altais" height="160px"
   src="https://images.ygoprodeck.com/images/cards/22420202.jpg">
-<img alt="Drytron Gamma Eltanin" height="120px"
+<img alt="Drytron Gamma Eltanin" height="160px"
   src="https://images.ygoprodeck.com/images/cards/60037599.jpg">
-<img alt="Drytron Gamma Eltanin" height="120px"
+<img alt="Drytron Gamma Eltanin" height="160px"
   src="https://images.ygoprodeck.com/images/cards/60037599.jpg">
-<img alt="Drytron Beta Rastaban" height="120px"
+<img alt="Drytron Beta Rastaban" height="160px"
   src="https://images.ygoprodeck.com/images/cards/33543890.jpg">
-<img alt="Ultimate Bright Knight Alpha Ursatron" height="120px"
+<img alt="Ultimate Bright Knight Alpha Ursatron" height="160px"
   src="https://images.ygoprodeck.com/images/cards/14959144.jpg">
-<img alt="Ultimate Bright Knight Alpha Ursatron" height="120px"
+<img alt="Ultimate Bright Knight Alpha Ursatron" height="160px"
   src="https://images.ygoprodeck.com/images/cards/14959144.jpg">
-<img alt="Drytron Meteonis Draconids" height="120px"
+<img alt="Drytron Meteonis Draconids" height="160px"
   src="https://images.ygoprodeck.com/images/cards/69815951.jpg">
-<img alt="Drytron Meteonis Quadrantids" height="120px"
+<img alt="Drytron Meteonis Quadrantids" height="160px"
   src="https://images.ygoprodeck.com/images/cards/95209656.jpg">
-<img alt="Amorphactor Pain, the Imagination Dracoverlord" height="120px"
+<img alt="Amorphactor Pain, the Imagination Dracoverlord" height="160px"
   src="https://images.ygoprodeck.com/images/cards/98287529.jpg">
-<img alt="Odd-Eyes Gravity Dragon" height="120px"
+<img alt="Odd-Eyes Gravity Dragon" height="160px"
   src="https://images.ygoprodeck.com/images/cards/23851033.jpg">
-<img alt="Blue-Eyes Chaos MAX Dragon" height="120px"
+<img alt="Blue-Eyes Chaos MAX Dragon" height="160px"
   src="https://images.ygoprodeck.com/images/cards/55410871.jpg">
-<img alt="Shinobaron Peacock" height="120px"
+<img alt="Shinobaron Peacock" height="160px"
   src="https://images.ygoprodeck.com/images/cards/52900000.jpg">
-<img alt="White Knight of Dogmatika" height="120px"
+<img alt="White Knight of Dogmatika" height="160px"
   src="https://images.ygoprodeck.com/images/cards/40352445.jpg">
-<img alt="White Knight of Dogmatika" height="120px"
+<img alt="White Knight of Dogmatika" height="160px"
   src="https://images.ygoprodeck.com/images/cards/48654323.jpg">
-<img alt="Dogmatika Alba Zoa" height="120px"
+<img alt="Dogmatika Alba Zoa" height="160px"
   src="https://images.ygoprodeck.com/images/cards/51522296.jpg">
-<img alt="" height="120px"
+<img alt="" height="160px"
   src="">
-<img alt="Diviner of the Herald" height="120px"
+<img alt="Diviner of the Herald" height="160px"
   src="https://images.ygoprodeck.com/images/cards/92919429.jpg">
-<img alt="Diviner of the Herald" height="120px"
+<img alt="Diviner of the Herald" height="160px"
   src="https://images.ygoprodeck.com/images/cards/92919429.jpg">
-<img alt="Diviner of the Herald" height="120px"
+<img alt="Diviner of the Herald" height="160px"
   src="https://images.ygoprodeck.com/images/cards/92919429.jpg">
 
 
-<img alt="Meteonis Drytron" height="120px"
+<img alt="Meteonis Drytron" height="160px"
   src="https://images.ygoprodeck.com/images/cards/22398665.jpg">
-<img alt="Meteonis Drytron" height="120px"
+<img alt="Meteonis Drytron" height="160px"
   src="https://images.ygoprodeck.com/images/cards/22398665.jpg">
-<img alt="Drytron Nova" height="120px"
+<img alt="Drytron Nova" height="160px"
   src="https://images.ygoprodeck.com/images/cards/94187078.jpg">
-<img alt="Drytron Nova" height="120px"
+<img alt="Drytron Nova" height="160px"
   src="https://images.ygoprodeck.com/images/cards/94187078.jpg">
-<img alt="Drytron Nova" height="120px"
+<img alt="Drytron Nova" height="160px"
   src="https://images.ygoprodeck.com/images/cards/94187078.jpg">
-<img alt="Cyber Emergency" height="120px"
+<img alt="Cyber Emergency" height="160px"
   src="https://images.ygoprodeck.com/images/cards/60600126.jpg">
-<img alt="Cyber Emergency" height="120px"
+<img alt="Cyber Emergency" height="160px"
   src="https://images.ygoprodeck.com/images/cards/60600126.jpg">
-<img alt="Cyber Emergency" height="120px"
+<img alt="Cyber Emergency" height="160px"
   src="https://images.ygoprodeck.com/images/cards/60600126.jpg">
-<img alt="Drytron Fafnir" height="120px"
+<img alt="Drytron Fafnir" height="160px"
   src="https://images.ygoprodeck.com/images/cards/58793369.jpg">
-<img alt="Drytron Fafnir" height="120px"
+<img alt="Drytron Fafnir" height="160px"
   src="https://images.ygoprodeck.com/images/cards/58793369.jpg">
-<img alt="Drytron Fafnir" height="120px"
+<img alt="Drytron Fafnir" height="160px"
   src="https://images.ygoprodeck.com/images/cards/58793369.jpg">
-<img alt="Drytron Meteor Shower" height="120px"
+<img alt="Drytron Meteor Shower" height="160px"
   src="https://images.ygoprodeck.com/images/cards/84965420.jpg">
-<img alt="Dogmatikabre" height="120px"
+<img alt="Dogmatikabre" height="160px"
   src="https://images.ygoprodeck.com/images/cards/60921537.jpg">
-<img alt="Nadir Servant" height="120px"
+<img alt="Nadir Servant" height="160px"
   src="https://images.ygoprodeck.com/images/cards/1984618.jpg">
-<img alt="Dogmatikatrix" height="120px"
+<img alt="Dogmatikatrix" height="160px"
   src="https://images.ygoprodeck.com/images/cards/35569555.jpg">
-<img alt="Dogmatikatrix" height="120px"
+<img alt="Dogmatikatrix" height="160px"
   src="https://images.ygoprodeck.com/images/cards/35569555.jpg">
-<img alt="Where Arf Thou?" height="120px"
+<img alt="Where Arf Thou?" height="160px"
   src="https://images.ygoprodeck.com/images/cards/51405049.jpg">
-<img alt="Preparation of Rites" height="120px"
+<img alt="Preparation of Rites" height="160px"
   src="https://images.ygoprodeck.com/images/cards/96729612.jpg">
-<img alt="Pre-Preparation of Rites" height="120px"
+<img alt="Pre-Preparation of Rites" height="160px"
   src="https://images.ygoprodeck.com/images/cards/13048472.jpg">
 
 
-<img alt="Ash Blossom & Joyous Spring" height="120px"
+<img alt="Ash Blossom & Joyous Spring" height="160px"
   src="https://images.ygoprodeck.com/images/cards/14558128.jpg">
-<img alt="Droll & Lock Bird" height="120px"
+<img alt="Droll & Lock Bird" height="160px"
   src="https://images.ygoprodeck.com/images/cards/94145022.jpg">
-<img alt="Lava Golem" height="120px"
+<img alt="Lava Golem" height="160px"
   src="https://images.ygoprodeck.com/images/cards/102380.jpg">
-<img alt="Nibiru, the Primal Being" height="120px"
+<img alt="Nibiru, the Primal Being" height="160px"
   src="https://images.ygoprodeck.com/images/cards/27204311.jpg">
-<img alt="Called by the Grave" height="120px"
+<img alt="Called by the Grave" height="160px"
   src="https://images.ygoprodeck.com/images/cards/24224830.jpg">
-<img alt="Crossout Designator" height="120px"
+<img alt="Crossout Designator" height="160px"
   src="https://images.ygoprodeck.com/images/cards/65681983.jpg">
-<img alt="Forbidden Droplet" height="120px"
+<img alt="Forbidden Droplet" height="160px"
   src="https://images.ygoprodeck.com/images/cards/24299458.jpg">
-<img alt="Super Polymerization" height="120px"
+<img alt="Super Polymerization" height="160px"
   src="https://images.ygoprodeck.com/images/cards/48130397.jpg">
-<img alt="Ultimate Slayer" height="120px"
+<img alt="Ultimate Slayer" height="160px"
   src="https://images.ygoprodeck.com/images/cards/2263869.jpg">
-<img alt="Triple Tactics Talent" height="120px"
+<img alt="Triple Tactics Talent" height="160px"
   src="https://images.ygoprodeck.com/images/cards/25311006.jpg">
-<img alt="Infinite Impermanence" height="120px"
+<img alt="Infinite Impermanence" height="160px"
   src="https://images.ygoprodeck.com/images/cards/10045474.jpg">
-<img alt="Evenly Matched" height="120px"
+<img alt="Evenly Matched" height="160px"
   src="https://images.ygoprodeck.com/images/cards/15693423.jpg">
-<img alt="Waking the Dragon" height="120px"
+<img alt="Waking the Dragon" height="160px"
   src="https://images.ygoprodeck.com/images/cards/10813327.jpg">
 
 </details>
@@ -142,35 +142,35 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
 <details open>
   <summary> <b> Extra Deck </b> </summary> <br>
 
-<img alt="Drytron Mu Beta Fafnir" height="120px"
+<img alt="Drytron Mu Beta Fafnir" height="160px"
   src="https://images.ygoprodeck.com/images/cards/1174075.jpg">
-<img alt="Drytron Mu Beta Fafnir" height="120px"
+<img alt="Drytron Mu Beta Fafnir" height="160px"
   src="https://images.ygoprodeck.com/images/cards/1174075.jpg">
-<img alt="Linkuriboh" height="120px"
+<img alt="Linkuriboh" height="160px"
   src="https://images.ygoprodeck.com/images/cards/41999284.jpg">
-<img alt="Herald of Mirage Lights" height="120px"
+<img alt="Herald of Mirage Lights" height="160px"
   src="https://images.ygoprodeck.com/images/cards/46935289.jpg">
-<img alt="Clear Wing Synchro Dragon" height="120px"
+<img alt="Clear Wing Synchro Dragon" height="160px"
   src="https://images.ygoprodeck.com/images/cards/82044279.jpg">
-<img alt="Wind Pegasus @Ignister" height="120px"
+<img alt="Wind Pegasus @Ignister" height="160px"
   src="https://images.ygoprodeck.com/images/cards/98506199.jpg">
-<img alt="Herald of the Arc Light" height="120px"
+<img alt="Herald of the Arc Light" height="160px"
   src="https://images.ygoprodeck.com/images/cards/79606837.jpg">
-<img alt="Herald of the Arc Light" height="120px"
+<img alt="Herald of the Arc Light" height="160px"
   src="https://images.ygoprodeck.com/images/cards/79606837.jpg">
-<img alt="Herald of the Arc Light" height="120px"
+<img alt="Herald of the Arc Light" height="160px"
   src="https://images.ygoprodeck.com/images/cards/79606837.jpg">
-<img alt="Elder Entity N'tss" height="120px"
+<img alt="Elder Entity N'tss" height="160px"
   src="https://images.ygoprodeck.com/images/cards/80532587.jpg">
-<img alt="Garura, Wings of Resonant Life" height="120px"
+<img alt="Garura, Wings of Resonant Life" height="160px"
   src="https://images.ygoprodeck.com/images/cards/11765832.jpg">
-<img alt="Lyrilusc - Assembled Nightingale" height="120px"
+<img alt="Lyrilusc - Assembled Nightingale" height="160px"
   src="https://images.ygoprodeck.com/images/cards/48608796.jpg">
-<img alt="Raidraptor - Rising Rebellion Falcon" height="120px"
+<img alt="Raidraptor - Rising Rebellion Falcon" height="160px"
   src="https://images.ygoprodeck.com/images/cards/71222868.jpg">
-<img alt="Infinitrack Fortress Megaclops" height="120px"
+<img alt="Infinitrack Fortress Megaclops" height="160px"
   src="https://images.ygoprodeck.com/images/cards/69073023.jpg">
-<img alt="Relinquished Anima" height="120px"
+<img alt="Relinquished Anima" height="160px"
   src="https://images.ygoprodeck.com/images/cards/94259633.jpg">
 
 </details>
