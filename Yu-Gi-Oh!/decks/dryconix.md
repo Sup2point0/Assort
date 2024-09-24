@@ -300,6 +300,8 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
 | [Evenly Matched](https://yugipedia.com/wiki/Evenly_Matched) | x1 | Actually cracked. |
 | [Waking the Dragon](https://yugipedia.com/wiki/Waking_the_Dragon) | x1 | Not a staple, I know. Yet the amount of times this has worked and saved me by bringing out Ultimate Falcon or Infinitrack Megaclops is *staggering*. |
 
+</details>
+
 ### History
 
 <details open>
