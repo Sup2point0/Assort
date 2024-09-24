@@ -1,0 +1,615 @@
+[
+| archived from Notes on iPhone 5s
+| created 2019 April 28
+]
+
+Mars M410/R&D
+
+
+
+July 2nd - July 5th Start
+13 days to complete
+40 tests
+8/10/5/13/4/7 Tests
+
+R&D Upgrade Kit Box: awards 5 cards used by the Mars M410
+
+For each test the main goal must be completed as well as a few side goals:
+
+Lab 001.   1 side goal
+Lab 002.   2
+Lab 003.   2
+Lab 004.   3
+Lab 005.   N/A
+Lab 006.   0
+
+Lab 002 unlocks one day after Lab 001.
+Lab 003 unlocks when Lab 002 is complete.
+Lab 004 unlocks when Lab 003 is complete.
+Lab 005 unlocks 2 days after Lab 004 is unlocked.
+Lab 006 unlocks when Lab 005 is complete.
+
+For a lab to be completed, all labs before it must be completed. If you have not finished Lab 004, you can still play Lab 005 tests, but you will not be able to play the last one.
+
+
+
+Lab 001
+
+
+Test .001.
+Neon Takeon - Classic
+1 lap, 8 Racers
+   Main Goal: Finish THIRD or better
+-Perform 4 Standard Stunts
+-No Wrecks
+-Knockdown 3 Racers
+-Drift 500 yd
+///Welcome to the Mars M410's R&D. Have you got what it takes to win this legendary beast?///
+   Rewards: 3000 C   R&D Upgrade Kit Box
+   All goals completed: +2000 C
+Acceleration and Top Speed can now be upgraded
+
+Test .002.
+Rocky Ledge - Elimination
+6 Racers
+   Main Goal: Survive 4 Eliminations
+-No Wrecks
+-Perform 4 Perfect Nitros
+-Perform 2 Flat Spins in One Jump
+-Perform an Overdrive
+///We've been warned that a lot of people are not worthy of the M410. Show us your true skill!///
+   Rewards: 6000 C   Nitro Tank
+   All goals completed: +1500 C
+Nitro and Overdrive can now be upgraded
+
+Test .003.
+Chinatown Reverse - Classic
+2 laps, 6 Racers
+   Main Goal: Finish SECOND or better
+-Score 6.00 s of Air Time
+-Perform a Special Knockdown
+-Perform a Reverse Knockdown
+-Drift 500 yd
+///The Mars M410's drifting is perfect. So you should pass this test with ease!///
+   Rewards: 5000 C   Free Stat Upgrade for Mars M410
+   All goals completed: +10 A
+Mars M410 can now level up to level 3
+
+Test .004.
+City Run - Classic
+1 lap, 8 Racers
+   Main Goal: Finish FIRST
+-Perform 5 Barrel Rolls
+-No Nitro
+-Drift no more than 400 yd
+-Finish with a full fuel meter
+///Traffic is just another obstacle in your way. Smash it down!///
+   Rewards: 4500 C   Generator
+   All goals completed: +3000 C
+Handling can now be upgraded
+
+Test .005.
+Skyscraper - Knockdown
+2:30
+   Main Goal: Knockdown 12 Racers
+-Knockdown 15 Racers
+-Knockdown 20 Racers
+-Knockdown 20 Racers
+-Perform a Special Knockdown
+///Violence is good for Dirty Showtime. Show 'em what a Mars can do!///
+   Rewards: 8000 C   Level 3 Engine x2   Lv4 Tech x2
+   All goals completed: +2000 C   +20 A
+Mars M410 can now level up to level 4
+
+Test .006.
+Spring Tide - Classic
+2 laps, 8 Racers
+   Main Goal: Finish FIRST 
+-Knockdown 3 Racers
+-Perform 4 Perfect Runs
+-Perform a Perfect Knockdown
+-Perform 4 Flat Spins
+///Another test for you. We recommend drifting through those sharp turns.///
+   Rewards: 10000 C   20 A
+   All goals completed: +30 A
+Mars M410 can now level up to level 5
+
+Test .007.
+Photon Test - Infection
+1 lap, 6 Racers, 10.00 s
+   Main Goal: Finish FIRST
+-No Wrecks
+-Drift 650 yd
+-Knockdown 4 Infected Racers
+-Get Infected no more than 3 times
+///Can you escape the infected racers with the Mars M410's powerful nitro?///
+   Rewards: 45 A   R&D Upgrade Kit Box
+   All goals completed: +5 A   Rocket
+Mars M410 can now level up to level 6
+
+Test .008.
+Digital Overload - Mastery
+2 laps, 6 Racers
+   Main Goal: Finish FIRST, NO WRECKS
+-No Wrecks
+-Perform 5 Perfect Runs
+-Perform an Advanced Stunt
+-Perform 2 Overdrives
+///Here it is... the final test of Lab 1. You're good. But this is only a part of what we need. Only worthy racers can own the Mars M410!///
+   Rewards: 12000 C   R&D Upgrade Kit Box   Free Stat Upgrade for Mars M410
+   All goals completed: +3000 C   +50 A
+Mars M410 can now level up to level 7
+
+
+
+Lab 002
+
+
+Test .009.
+Haunted House - Classic
+2 laps, 6 Racers
+   Main Goal: Finish SECOND or better
+-Perform 3 Flat Spins in One Jump
+-Perform 4 Knockdowns with No Wreck
+-Drift 300 yd
+-Score 15.00 s of Air Time
+///Maintenance is being performed on the Mars M410. Complete this test for us, so we can improve the car.///
+   Rewards: 9000 C   Level 4 Engine
+   All goals completed: +1000 C   Armour x2
+
+Test .010.
+Spring Tide Reverse - Classic
+1 lap, 6 Racers
+   Main Goal: Finish FIRST
+-No Wrecks
+-Drift no more than 500 yd
+-Perform 2 Standard Stunts
+-Perform 3 Overdrives
+///This test focuses on speed. We've tuned your opponents to max speed, so see if you can beat them.///
+   Rewards: 13500 C
+   All goals completed: +1500 C   R&D Upgrade Kit Box
+
+Test .011.
+Firework Arch - Takedown
+3:30
+   Main Goal: Knockdown All Racers
+-Perform 4 Perfect Nitros
+-Perform 5 Barrel Rolls
+-Score 20.00 s of Air Time
+-Perform 6 Perfect Runs
+///Be brutal and complete the test. We need to check the armour of this car.///
+   Rewards: 5000 C   15 A
+   All goals completed: +5000 C   +10 A
+
+Test .012.
+Mount Everest Reverse - Elimination
+8 Racers
+   Main Goal: Finish FIRST
+-Lead for 3 Eliminations
+-Finish 2.00 s before the last racer
+-Perform 3 Flat Spins
+-Perform 3 Flat Spins in One Jump
+///<code: validation|Mars_M410> {{Test-TRUE-011. |pass|}}Validation"R&D = 410///
+   Rewards: 20 A   R&D Upgrade Kit Box
+   All goals completed: +30 A
+
+Test .013.
+City Run - Classic
+3 laps, 10 Racers
+   Main Goal: Finish FIRST 
+-Knockdown 5 Racers
+-Perform 4 Knockdowns with No Wreck
+-Drift 200 yd in one go
+-Perform 10 Perfect Nitros
+///Here's a long test for the M410's endurance.///
+   Rewards: Mid-Tech x3   10 A
+   All goals completed: +15 A
+
+Test .014.
+Neon Showdown - Boosted
+5 laps, 10 Racers
+   Main Goal: Finish FIRST
+-Perform 5 Overdrives
+-Perform 12 Perfect Nitros
+-Drift 800 yd
+-Perform 5 Backflips
+///The Mars M410 has sharp drifting. Drift-punching is completely unnecessary!///
+   Rewards: 2500 C   R&D Upgrade Kit x2
+   All goals completed: +7500 C
+
+Test .015.
+Snow Forest - Classic
+1 lap, 6 Racers
+   Main Goal: Finish FIRST 
+-Perform 2 Barrel Rolls in One Jump
+-Perform 6 Standard Stunts
+-Knockdown 2 Racers with No Wreck
+-Drift no more than 450 yd
+///Show us you deserve the Mars M410. Complete this test.///
+   Rewards: 25 A
+   All goals completed: +25 A
+
+Test .016.
+Snow Forest Reverse - Classic
+2 laps, 6 Racers
+   Main Goal: Finish FIRST 
+-No Wrecks
+-Perform 10 Standard Stunts
+-Score 21.00 s of Air Time
+-Drift 750 yd
+///Feel this car's power. Really feel it.///
+   Rewards: 10000 C   Free Stat Upgrade for Mars M410
+   All goals completed: +5000 C
+
+Test .017.
+Caves Reverse - Endless
+2:00
+   Main Goal: Drift 2000 yd
+-Drift 2500 yd
+-Drift 2500 yd
+-No Wrecks
+-Perform 4 Flat Spins
+///How do you drift?///
+   Rewards: 6000 C   10 A
+   All goals completed: +4000 C   +10 A
+
+Test .018.
+Caves - Classic
+2 laps, 8 Racers
+   Main Goal: Finish FIRST 
+-No Wrecks
+-Perform 8 Standard Stunts
+-Drift 500 yd
+-Perform a Multi Knockdown
+///The end of our meeting. You've proved to be a skilled and ambitious driver. We hope you succeed.///
+   Rewards: 9000 C   15 A
+   All goals completed: +3500 C   +10 A
+
+
+
+Lab 003
+
+
+Test .019.
+Traffic Smash - Mastery
+1 lap, 8 Racers
+   Main Goal: Finish FIRST, NO WRECKS
+-Perform 2 Perfect Knockdowns
+-Perform 2 Overdrives
+-Perform 2 Barrel Rolls
+-Perform 2 Flat Spins in One Jump
+///Perfection is possible. All it takes is practice.///
+   Rewards: 12000 C   Mars M410 BP x2
+   All goals completed: +3000 C   Uncommon parts x4
+
+Test .020.
+Tunnel Torque - Mastery
+1 lap, 8 Racers
+   Main Goal: Finish FIRST, NO WRECKS
+-No Wrecks
+-Perform 8 Standard Stunts
+-Drift 800 yd
+-Score 10.00 s of Air Time
+///Our scientists are currently working on a special formula to improve the car. We need validation!///
+   Rewards: 14000 C   15 A   Mars M410 BP x2
+   All goals completed: +1000 C   +10 A
+
+Test .021.
+Chinatown - Mastery Unplugged
+1 lap, 8 Racers
+   Main Goal: Finish FIRST, NO WRECKS
+-Perform 3 Advanced Stunts
+-Drift 750 yd
+-Score 24.00 s of Air Time
+-Perform a Multi Knockdown
+///Prove you deserve it. Win even with no fuel.///
+   Rewards: 15000 C   15 A   Mars M410 BP x2
+   All goals completed: +5000 C   +10 A
+
+Test .022.
+Nano:bit - Mastery
+1 lap, 8 Racers
+   Main Goal: Finish FIRST, NO WRECKS
+-Perform 8 Flat Spins
+-Drift no more than 600 yd
+-Score 25.00 s of Air Time
+-Knockdown 4 Racers
+///We use the best machines to make these cars!///
+   Rewards: 12000 C   R&D Upgrade Kit Box
+   All goals completed: +8000 C   Mars M410 BP x3
+
+Test .023.
+Caves - Mastery Unplugged
+1 lap, 8 Racers
+   Main Goal: Finish FIRST, NO WRECKS
+-Finish in 1:34.00
+-Finish in 1:31.00
+-Perform 5 Standard Stunts
+-Drift no more than 200 yd
+///The last challenge...   you're pretty good at not denting the M410 too much.///
+   Rewards: 2000 C   25 A
+   All goals completed: +8000 C   Mars M410 BP x3
+
+
+
+Lab 004
+
+
+Test .024.
+Dirt Manor - Takedown
+4:00
+   Main Goal: Knockdown All Racers
+-Perform a Perfect Knockdown
+-Perform 4 Overdrives
+-No Wrecks
+-Drift no more than 500 yd
+///We've installed a new drivetrain for this car. Complete this test so we can see how much better you do.///
+   Rewards: 15000 C   15 A
+   All goals completed: +5000 C   +10 A   R&D Upgrade Kit Box
+
+Test .025.
+Stonehenge - Classic
+2 laps, 6 Racers
+   Main Goal: Finish FIRST 
+-No Wrecks
+-Perform 3 Barrel Rolls in One Jump
+-Drift 800 yd
+-Perform 6 Overdrives
+///Great Work. Don't stop now!///
+   Rewards: 20000 C   Lv4 Tech x2
+   All goals completed: +5000 C   +10 A
+
+Test .026.
+Sector 10 - Infection
+2 laps, 10 Racers, 12.00 s
+   Main Goal: Finish FIRST
+-Perform 6 Perfect Runs
+-Drift no more than 500 yd
+-Perform 8 Knockdowns
+-Score 15.00 s of Air Time
+///Let's see how fast this car can go. Try and rocket forward!///
+   Rewards: 14000 C   30 A
+   All goals completed: +6000 C   R&D Upgrade Kit Box
+
+Test .027.
+Micro:bit - Classic
+1 lap, 8 Racers
+   Main Goal: Finish FIRST
+-Perform 4 Barrel Rolls
+-Perform 6 Overdrives
+-Drift no more than 300 yd
+-Near-Miss 6 Vehicles
+///Your handling should be top-notch. Try this technical track!///
+   Rewards: 20000 C   20 A
+   All goals completed: Rocket x2   +5 A
+
+Test .028.
+Cliff Climb - Classic
+2 laps, 8 Racers
+   Main Goal: Finish FIRST
+-Drift 1000 yd
+-Knockdown 8 Racers
+-Perform 2 Backflips
+-Perform 10 Perfect Nitros
+///With a new part we've added, you shouldn't struggle at all with this test!///
+   Rewards: 19000 C   R&D Upgrade Kit Box
+   All goals completed: +6000 C   Armour x2
+
+Test .029.
+Roadblock Run - Endless
+4:00, 8 Racers
+   Main Goal: Perform 20 Standard Stunts
+-Perform 15 Standard Stunts
+-Perform 3 Advanced Stunts
+-Score 30.00 s of Air Time
+-Near-Miss 6 Vehicles
+///We're trying to improve the M410's handling even further. Show them how many stunts you can do!///
+   Rewards: Free Upgrade for Mars M410   45 A
+   All goals completed: +15 A   Nitro Tank x2
+
+Test .030.
+Dragon Lair - Classic
+3 laps, 8 Racers
+   Main Goal: Finish FIRST
+-No Wrecks
+-Drift 1200 yd
+-Perform 8 Perfect Nitros
+-Perform 5 Perfect Runs
+///The M410's upgraded tires should make driving even smoother!///
+   Rewards: 20000 C   20 A
+   All goals completed: +5000 C   +30 A
+
+Test .031.
+Skyscraper - Elimination
+10 Racers
+   Main Goal: Finish FIRST
+-Lead for 4 Eliminations
+-Lead for 8 Eliminations
+-No Wrecks
+-Perform 5 Standard Stunts
+///If you're strong enough, you'll survive this elimination!///
+   Rewards: 20000 C   25 A
+   All goals completed: +10000 C   +25 A
+
+Test .032.
+Neon Showdown - Knockdown
+3:00
+   Main Goal: Knockdown 20 Racers
+-Knockdown 12 Racers
+-Knockdown 18 Racers
+-Knockdown 24 Racers
+-Knockdown 30 Racers
+///You're driving a car wanted by thousands. Relish the experience.///
+   Rewards: 25000 C   50 A
+   All goals completed: +5000 C   R&D Upgrade Kit Box
+
+Test .033.
+Mount Everest - Classic
+3 laps, 6 Racers
+   Main Goal: Finish FIRST
+-Drift no more than 300 yd
+-Perform 3 Advanced Stunts
+-Perform 4 Barrel Rolls
+-Knockdown 4 Racers
+///This car's stunning horsepower means it should speed ahead on long roads.///
+   Rewards: 21000 C   R&D Upgrade Kit Box
+   All goals completed: +9000 C
+
+Test .034.
+Sector 10 Reverse - Classic
+2 laps, 8 Racers
+   Main Goal: Finish FIRST
+-Perform 4 Perfect Runs
+-No Wrecks
+-Drift 1200 yd
+-Perform 10 Standard Stunts
+///We're noticing a few dents on this car. Are you driving well?///
+   Rewards: 40 A   Mid-Tech x4
+   All goals completed: +35 A
+
+Test .035.
+Spring Tide - Classic
+1 lap, 8 Racers
+   Main Goal: Finish FIRST
+-Finish Third
+-No Wrecks
+-Score 20.00 s of Air Time
+-Perform 2 Backflips
+///It's suffering from inactivity. Get out there so we can hear the purr of its engine once again!///
+   Rewards: 25000 C   50 A
+   All goals completed: +5000 C   +25 A
+
+Test .036.
+Ghostly Lair - Elimination
+10 Racers
+   Main Goal: Finish FIRST
+-Lead for 5 Eliminations
+-Lead for all Eliminations
+-No Wrecks
+-Knockdown 4 Racers with No Wreck
+///You've done amazing. You've validated and helped us develop the car. All you need to do now is show you can beat our AI.///
+   Rewards: 25000 C   R&D Upgrade Kit Box x2
+   All goals completed: +100 A
+
+
+
+Lab 005
+
+
+Test .037.
+Heavy Metal - Ultimate AI Challenge
+3 laps, Ultimate AI
+   Beat the Ultimate AI
+///You've helped us improve the car, so now beat our AI!///
+   Rewards: 25000 C   50 A
+
+
+Test .038.
+Iron Ramp - Ultimate AI Challenge
+3 laps, Ultimate AI
+   Beat the Ultimate AI
+///The M410 has infinite potential. Only you can unlock it!///
+   Rewards: 25000 C   50 A
+
+
+Test .039.
+Steel Racetrack - Ultimate AI Challenge
+3 laps, Ultimate AI
+   Beat the Ultimate AI
+///Our Advanced AI Drivers have no mercy. Show 'em what you're made of!///
+   Rewards: 25000 C   50 A
+
+
+Test .040.
+Aluminium Awesomeness - Ultimate AI Challenge
+3 laps, Ultimate AI
+   Beat the Ultimate AI
+///This is the final test. If you show you can really excel in the Mars M410, we'll give it to you.///
+   Rewards: 25000 C   50 A
+
+
+Complete all tests to obtain the Mars M410
+
+ALL UPGRADES KEPT
+
+
+
+Lab 006
+
+
+Test .101.
+Landslide - Classic
+2 laps, 10 Racers
+   Main Goal: Finish FIRST
+-No Wrecks
+-Perform 5 Overdrives
+-Drift no more than 200 yd
+///Now you've acquired the car, complete these challenges and we'll offer you free upgrades!///
+   Rewards: Free Stat Upgrade for Mars M410
+   All goals completed: +10000 C
+
+Test .102.
+Waterfall Valley - Classic
+2 laps, 10 Racers
+   Main Goal: Finish FIRST
+-Perform 8 Perfect Nitros
+-Perform 8 Standard Stunts
+-No Wrecks
+///This is a super car very few people own. You're amazing.///
+   Rewards: Free Stat Upgrade for Mars M410
+   All goals completed: +10000 C
+
+Test .103.
+Caves - Classic
+2 laps, 10 Racers
+   Main Goal: Finish FIRST
+-Perform 4 Perfect Knockdowns
+-Drift 1500 yd
+-Score 18.00 s of Air Time
+///Blast a bit of nitro to get up to speed!///
+   Rewards: Free Stat Upgrade for Mars M410
+   All goals completed: +10000 C
+
+Test .104.
+Spring Tide Reverse - Classic
+2 laps, 10 Racers
+   Main Goal: Finish FIRST
+-No Wrecks
+-Perform 2 Advanced Stunts
+-Knockdown 5 Racers
+///Well done.///
+   Rewards: Free Stat Upgrade for Mars M410
+   All goals completed: +10000 C
+
+Test .105.
+Chinatown - Classic
+2 laps, 10 Racers
+   Main Goal: Finish FIRST
+-Drift no more than 150 yd
+-Perform 10 Stunts
+-Perform 3 Barrel Rolls in One Jump
+///Fly High into the air!///
+   Rewards: Free Stat Upgrade for Mars M410
+   All goals completed: +10000 C
+
+Test .106.
+Falling Stones - Classic
+2 laps, 10 Racers
+   Main Goal: Finish FIRST
+-Perform 6 Overdrives
+-No Wrecks
+-Score 30.00 s of Air Time
+///Very few people have made it this far. We'll reward you greatly.///
+   Rewards: Free Stat Upgrade for Mars M410
+   All goals completed: +10000 C
+
+Test .107.
+Level 12 Leap - Classic
+2 laps, 10 Racers
+   Main Goal: Finish FIRST
+-No Wrecks
+-Drift no more than 100 yd
+-Perform 10 Perfect Runs
+///This is where we say goodbye. You've done a fantastic job testing and validating the Mars M410. Now take it away, and shine!///
+   Rewards: Free Stat Upgrade for Mars M410 x2
+   All goals completed: +20000 C
