@@ -36,20 +36,38 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
   src="https://images.ygoprodeck.com/images/cards/60037599.jpg">
 <img alt="Drytron Gamma Eltanin" height="120px"
   src="https://images.ygoprodeck.com/images/cards/60037599.jpg">
+<img alt="Drytron Beta Rastaban" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/33543890.jpg">
 <img alt="Ultimate Bright Knight Alpha Ursatron" height="120px"
   src="https://images.ygoprodeck.com/images/cards/14959144.jpg">
 <img alt="Ultimate Bright Knight Alpha Ursatron" height="120px"
   src="https://images.ygoprodeck.com/images/cards/14959144.jpg">
+<img alt="Drytron Meteonis Draconids" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/69815951.jpg">
+<img alt="Drytron Meteonis Quadrantids" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/95209656.jpg">
 <img alt="Drytron" height="120px"
   src="">
 
 
+<img alt="Meteonis Drytron" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/22398665.jpg">
+<img alt="Meteonis Drytron" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/22398665.jpg">
+<img alt="Drytron Nova" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/94187078.jpg">
+<img alt="Drytron Nova" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/94187078.jpg">
+<img alt="Drytron Nova" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/94187078.jpg">
 <img alt="Drytron Fafnir" height="120px"
   src="https://images.ygoprodeck.com/images/cards/58793369.jpg">
 <img alt="Drytron Fafnir" height="120px"
   src="https://images.ygoprodeck.com/images/cards/58793369.jpg">
 <img alt="Drytron Fafnir" height="120px"
   src="https://images.ygoprodeck.com/images/cards/58793369.jpg">
+<img alt="Drytron Meteor Shower" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/84965420.jpg">
 <img alt="Drytron" height="120px"
   src="">
 
