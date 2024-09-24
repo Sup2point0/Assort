@@ -1,0 +1,705 @@
+[
+| archived from Notes on iPhone 5s
+| created 2019 May 14
+]
+
+Oasis Drive ALX Racing Series/R&D
+
+
+
+November 13th - November 15th Start
+16 days to complete
+49 tests
+9/13/5/18/4/7
+
+R&D ALX Kit Box: awards either a blueprint for the Oasis Drive ALX Racing Series or 2 parts used by it. This is also purchasable from the store for 50 A.
+
+For each test the main goal must be completed as well as a few side goals:
+
+Lab 001.   1 side goal
+Lab 002.   2
+Lab 003.   3
+Lab 004.   3
+Lab 005.   N/A
+Lab 006.   0
+
+Lab 002 unlocks 2 days after Lab 001.
+Lab 003 unlocks when Lab 002 is complete.
+Lab 004 unlocks when Lab 003 is complete.
+Lab 005 unlocks 5 days after Lab 004 is unlocked.
+Lab 006 unlocks when Lab 005 is complete.
+
+For a lab to be completed, all labs before it must be completed. If you have not finished Lab 004, you can still play Lab 005 tests, but you will not be able to play the last one.
+
+
+
+Lab 001
+
+
+Test .001.
+Snow Forest - Classic
+1 lap, 6 Racers
+   Main Goal: Finish THIRD or better
+-Drift no more than 800 yd
+-Perform a Front Flip
+-Knockdown 2 Racers
+-Perform 3 Perfect Nitros
+///You're taking part in a challenging tournament to prove you deserve the most wanted car in the world. Just chill, and try your best.///
+   Rewards: 1200 C   5 A
+   All goals completed: +5 A
+Acceleration and Nitro can now be upgraded
+
+Test .002.
+Photon Test - Classic
+1 lap, 8 Racers
+   Main Goal: Finish FIRST
+-Perform 3 Standard Stunts
+-Perform 3 Perfect Runs
+-Score 12.00 s of Air Time
+-No Wrecks
+///We're testing this car's speed. Go on and show us what it can do!///
+   Rewards: 1350 C
+   All goals completed: R&D ALX Kit Box
+Oasis Drive ALX Racing Series can now level up to level 4
+
+Test .003.
+Cliff Climb - Knockdown
+2:00
+   Main Goal: Knockdown 8 Racers
+-Knockdown 10 Racers
+-Knockdown 14 Racers
+-Knockdown 18 Racers
+-Perform a Reverse Knockdown
+///This car is lacking in brutality. Try and knockdown as many racers as you can, yeah?///
+   Rewards: 1550 C   5 A
+   All goals completed: +1450 C
+Top Speed can now be upgraded
+
+Test .004.
+City Run - Classic
+1 lap, 8 Racers
+   Main Goal: Finish FIRST
+-Finish Third
+-Knockdown 4 Racers
+-Drift 600 yd
+-Perform 5 Flat Spins
+///We've installed a new hydrocarbon suspension to help you win this race.///
+   Rewards: 1750 C   10 A
+   All goals completed: +1750 C   Nitro Tank
+Handling and Overdrive can now be upgraded
+
+Test .005.
+Stonehenge - Classic
+2 laps, 6 Racers
+   Main Goal: Finish FIRST
+-Drift 800 yd
+-Perform 15 Perfect Nitros
+-Perform 2 Perfect Knockdowns
+-No Wrecks
+///This car's hard plates make it quite solid. But don't dent it!///
+   Rewards: 1950 C   10 A
+   All goals completed: Mid-Tech x10
+Oasis Drive ALX Racing Series can now level up to level 5
+
+Test .006.
+Mount Everest - Infection
+1 lap, 6 Racers, 15.00 s
+   Main Goal: Finish FIRST
+-Knockdown 3 Infected Racers
+-Drift no more than 400 yd
+-Perform 7 Standard Stunts
+-Perform 4 Perfect Runs
+///Are you a hoax? Prove to us how good you are.///
+   Rewards: 2200 C   10 A
+   All goals completed: R&D ALX Kit Box   +5 A
+Oasis Drive ALX Racing Series can now level up to level 6
+
+Test .007.
+Spring Tide - Elimination
+8 Racers
+   Main Goal: Finish FIRST
+-Lead for 3 Eliminations
+-Perform 5 Perfect Nitros
+-Perform a Backflip
+-Perform a Special Knockdown
+///Control these tires and you'll feel the thrill of smooth success.///
+   Rewards: 2480 C
+   All goals completed: +1520 C   +10 A
+Oasis Drive ALX Racing Series can now level up to level 7
+
+Test .008.
+Skyscraper - Classic
+1 lap, 8 Racers
+   Main Goal: Finish FIRST
+-Drift 400 yd
+-Perform 3 Perfect Knockdowns
+-Perform 4 Standard Stunts
+-Score 6.00 s of Air Time
+///We've added a smoother axis to the car. Get out there and test it for us!///
+   Rewards: 2850 C   R&D ALX Kit Box
+   All goals completed: +1650 C
+Oasis Drive ALX Racing Series Mastery Unlocked (even though you don't own the car)
+
+Test .009.
+Dirt Manor - Classic
+2 laps, 10 Racers
+   Main Goal: Finish FIRST
+-Knockdown 3 Racers
+-Drift no more than 300 yd
+-Perform 2 Advanced Stunts
+-Perform 5 Overdrives
+///This car's upgraded acceleration should let you speed ahead!///
+   Rewards: 3440 C   15 A
+   All goals completed: +1560 C   +5 A
+
+
+
+Lab 002
+
+
+Test .010.
+Chinatown - Classic
+1 lap, 6 Racers
+   Main Goal: Finish FIRST
+-Destroy 10 Obstacles on the track
+-Perform 6 Perfect Nitros
+-Perform 4 Flat Spins
+-Knockdown 3 Racers with No Wreck
+///In order to conquer this challenge, you'll need to have top-notch acceleration!///
+   Rewards: 3670 C   10 A
+   All goals completed: +10 A
+
+Test .011.
+Landslide - Classic
+8 Racers
+   Main Goal: Finish FIRST
+-Finish in 0:38.00
+-Perform 2 Perfect Runs
+-Perform 2 Barrel Rolls in One Jump
+-Drift 500 yd
+///Show is what this hyper engine can do!///
+   Rewards: 3920 C
+   All goals completed: +2480   +5 A
+
+Test .012.
+Micro:bit - Classic
+2 laps, 8 Racers
+   Main Goal: Finish FIRST
+-Perform 6 Standard Stunts
+-Perform 6 Perfect Knockdowns
+-Drift 800 yd
+-No Wrecks
+///An upgraded nitro tank has been installed, so now you can fire nitro for longer!///
+   Rewards: 3980 C   10 A
+   All goals completed: +2020 C
+
+Test .013.
+Nano:bit - Escape
+Part lap, 7 Rogue Racers, 1:04.00
+   Main Goal: Escape in 1:04.00
+-Knockdown a Rogue Racer
+-Perform 2 Overdrives
+-Perform 3 Barrel Rolls in One Jump
+-Drift no more than 400 yd
+///We've developed this car's drifting capabilities. Go out and escape round those corners!///
+   Rewards: 4320 C   R&D ALX Kit Box
+   All goals completed: +2180 C
+
+Test .014.
+Roadblock Run - Elimination
+10 Racers
+   Main Goal: Finish FIRST
+-Perform 2 Font Flips
+-Perform 4 Flat Spins in One Jump
+-No Wrecks
+-Knockdown 5 Racers with No Wreck
+///This car starts becoming hard to control at 208 mph. Upgrade the handling!///
+   Rewards: 4440 C   10 A
+   All goals completed: +1560 C   +10 A
+
+Test .015.
+Dragon Lair - Classic
+2 laps, 12 Racers
+   Main Goal: Finish FIRST
+-Perform 3 Advanced Stunts
+-Perform 3 Barrel Rolls
+-Drift no more than 300 yd
+-No Wrecks
+///Heard of Time Travel? Well, this car makes it possible by breaking through the fabric of time with its high speed.///
+   Rewards: 4760 C   15 A
+   All goals completed: +10 A
+
+Test .016.
+Spring Tide Reverse - Takedown
+3:00
+   Main Goal: Knockdown all Racers
+-Perform a Drifting Knockdown
+-Perform a Perfect Knockdown
+-Drift no more than 250 yd
+-Score 6.00 s of Air Time
+///Hey, try see how good this car's aerodynamics are for us, yeah?///
+   Rewards: 4900 C
+   All goals completed: +2100 C
+
+Test .017.
+Tunnel Torque - Classic
+3 laps, 8 Racers
+   Main Goal: Finish FIRST
+-Perform 2 Backflips
+-Perform a Double Advanced Stunt
+-Drift 800 yd
+-Knockdown 3 Racers with No Wreck
+///We've made the top slimmer and smoother. Don't be afraid of ramps!///
+   Rewards: 5210 C   5 A
+   All goals completed: +1790 C
+
+Test .018.
+Iron Ramp - Classic
+1 lap, 8 Racers
+   Main Goal: Finish FIRST
+-Perform 5 Flat Spins
+-Perform 3 Stunts
+-No Wrecks
+-Perform 3 Overdrives
+///You can give us the blueprints for this car and we'll upgrade it!///
+   Rewards: 5560 C   15 A
+   All goals completed: +10 A
+
+Test .019.
+Falling Stones - Boosted
+4 laps, 12 Racers
+   Main Goal: Finish FIRST
+-Knockdown 6 Racers
+-Perform 10 Stunts
+-Drift 1200 yd
+-Perform 16 Perfect Runs
+///In order to pass this test you'll have to really pump up the nitro.///
+   Rewards: 5700 C   20 A
+   All goals completed: +1300 C   R&D ALX Kit Box
+
+Test .020.
+Sector 10 - Classic
+2 laps, 6 Racers
+   Main Goal: Finish FIRST
+-Finish in 2:18.00
+-Finish in 2:02.00
+-Perform 15 Perfect Nitros
+-No Wrecks
+///This car is starting to shine. You must be feeling pretty excited, eh?///
+   Rewards: 6160 C
+   All goals completed: Free Stat Upgrade for Oasis Drive ALX Racing Series
+
+Test .021.
+Route 8:Bit - Classic
+1 lap, 6 Racers
+   Main Goal: Finish FIRST
+-Perform 2 Barrel Rolls in One Jump
+-Perform 3 Barrel Rolls
+-Drift 250 yd in One Go
+-No Wrecks
+///Don't stop now - you have to complete this challenge!///
+   Rewards: 6650 C   10 A
+   All goals completed: +350 C   +15 A
+
+Test .022.
+Caves Reverse - Infected
+2 laps, 8 Racers
+   Main Goal: Finish FIRST
+-Perform a Double Advanced Stunt
+-Drift 900 yd
+-Perform 3 Perfect Runs
+-Knockdown 3 Racers
+///This final test will challenge your skill in Infected - don't get poisoned!///
+   Rewards: 6970 C   R&D ALX Kit Box
+   All goals completed: +1130 C   BP for Oasis Drive ALX Racing Series
+
+
+
+Lab 003
+
+
+Test .023.
+Wild Disco - Mastery
+1 lap, 8 Racers
+   Main Goal: Finish FIRST, NO WRECKS
+-Destroy 25 Obstacles
+-Score 16.00 s of Air Time
+-Perform 3 Barrel Rolls
+-Perform 3 Perfect Knockdowns
+///The next few tests will help us improve this car's toughness. Try not to wreck!///
+   Rewards: BP for Oasis Drive ALX Racing Series
+   All goals completed: 2x BP for Oasis Drive ALX Racing Series
+
+Test .024.
+Sector 10 Reverse - Mastery
+1 lap, 8 Racers
+   Main Goal: Finish FIRST, NO WRECKS
+-Perform 3 Front Flips
+-No Wrecks
+-Knockdown 5 Racers
+-Drift 600 yd
+///Polish up your driving skills!///
+   Rewards: BP for Oasis Drive ALX Racing Series
+   All goals completed: 2x BP for Oasis Drive ALX Racing Series
+
+Test .025.
+Steel Racetrack - Mastery
+1 lap, 8 Racers
+   Main Goal: Finish FIRST, NO WRECKS
+-Perform 8 Perfect Nitros
+-Perform 4 Overdrives
+-Knockdown 2 Racers with No Wreck
+-Finish in 1:29.00
+///It doesn't matter what stands in your way, you gotta win.///
+   Rewards: BP for Oasis Drive ALX Racing Series
+   All goals completed: 2x BP for Oasis Drive ALX Racing Series
+
+Test .026.
+Neon Showdown - Mastery Unplugged
+1 lap, 8 Racers
+   Main Goal: Finish FIRST, NO WRECKS
+-Perform 3 Special Knockdowns
+-Drift no more than 300 yd
+-Perform 2 Perfect Runs
+-Score 10.00 s of Air Time
+///The showdown beckons you forward. Show us what you can do!///
+   Rewards: BP for Oasis Drive ALX Racing Series
+   All goals completed: 2x BP for Oasis Drive ALX Racing Series
+
+Test .027.
+Caves - Mastery Unplugged
+1 lap, 8 Racers
+   Main Goal: Finish FIRST, NO WRECKS
+-Drift 600 yd
+-Perform 2 Barrel Rolls
+-Score 5.00 s of Air Time in One Jump
+-Perform a Reverse Knockdown
+///There's no fuel, but this car will survive. Just drive well.///
+   Rewards: BP for Oasis Drive ALX Racing Series
+   All goals completed: 2x BP for Oasis Drive ALX Racing Series
+
+
+Lab 004
+
+
+Test .028.
+Voices in the Walls - Classic
+6 Racers
+   Main Goal: Finish FIRST
+-Finish in 0:40.00
+-Knockdown 2 Racers
+-Score 7.00 s of Air Time
+-Perform an Overdrive
+///Don't be freaked out - ignore the voices in the walls.///
+   Rewards: 7120 C   15 A
+   All goals completed: +3880 C   +10 A
+
+Test .029.
+Wild Disco - Escape
+2 + part lap, 8 Rogue Racers, 1:32.00
+   Main Goal: Escape in 1:32.00
+-Perform 4 Perfect Runs
+-Knockdown a Rogue Racer
+-Perform 3 Stunts
+-Perform 2 Barrel Rolls
+///Don't let the bright lights and neon posters distract you.///
+   Rewards: 20 A
+   All goals completed: +30 A
+
+Test .030.
+Lightning Trial - Elimination
+1 + part lap, 12 Racers
+   Main Goal: Finish SECOND or Better
+-Finish First
+-Lead for 6 Eliminations
+-No Wrecks
+-Knockdown 3 Racers with No Wreck
+///Push this car to its limits. Never let up.///
+   Rewards: 7340 C   Nitro Tank
+   All goals completed: Free Stat Upgrade for Oasis Drive ALX Racing Series
+
+Test .031.
+Traffic Smash - Classic
+3 laps, 12 Racers
+   Main Goal: Finish FIRST
+-No Wrecks
+-Knockdown 6 Racers with No Wreck
+-Perform 5 Flat Spins
+-Perform 3 Overdrives
+///You're cool. But cool's not enough. You gotta get out there and really up the heat!///
+   Rewards: 7500 C   10 A
+   All goals completed: +2500 C   Free Stat Upgrade for Oasis Drive ALX Racing Series
+
+Test .032.
+Iron Ramp - Classic
+2 laps, 8 Racers
+   Main Goal: Finish FIRST
+-Drift 1000 yd
+-Knockdown 3 Racers with No Wreck
+-Perform 4 Flat Spins in One Jump
+-Perform 6 Perfect Nitros in Under 12.00 s
+///Bring it on, Racer. Show those cowards what skill looks like.///
+   Rewards: 7500 C   R&D ALX Kit Box
+   All goals completed: +7500 C
+
+Test .033.
+War Zone - Takedown
+3:00
+   Main Goal: Knockdown All Racers
+-Perform a Spinning Knockdown
+-Perform 2 Perfect Knockdowns
+-Perform 8 Flat Spins
+-No Wrecks
+///No excuses. Finish First.///
+   Rewards: 8000 C
+   All goals completed: Uncommon parts x4   Free Stat Upgrade for Oasis Drive ALX Racing Series
+
+Test .034.
+Disco Night Reverse - Classic
+1 lap, 6 Racers
+   Main Goal: Finish FIRST
+-Perform 5 Barrel Rolls
+-Score 7.50 s of Air Time
+-Drift no more than 350 yd
+-Finish in 1:24.00
+///I like watching you go fast.///
+   Rewards: 8500 C   20 A
+   All goals completed: +4000 C   +5 A
+
+Test .035.
+Level 12 Leap - Endless
+8 Racers
+   Main Goal: Perform 12 Stunts
+-Perform 8 Barrel Rolls
+-Perform a Double Advanced Stunt
+-Perform a Double Advanced Stunt with No Wreck
+-Score 15.00 s of Air Time
+///Alright, let's get Airborne.///
+   Rewards: 9000 C
+   All goals completed: +6000 C
+
+Test .036.
+Aerial Ascent - Infected
+2 laps, 10 Racers
+   Main Goal: Finish FIRST
+-Don't get Infected
+-No Wrecks
+-Drift 650 yd
+-Perform 4 Perfect Runs
+///You better hurry up if you want to escape those nasty viruses!///
+   Rewards: 9500 C   25 A
+   All goals completed: R&D ALX Kit Box   +3500 C   +25 A
+
+Test .037.
+Sky City - Classic
+1 lap, 6 Racers
+   Main Goal: Finish FIRST
+-Knockdown 4 Racers
+-Perform 12 Perfect Nitros
+-Perform 2 Advanced Stunts
+-No Wrecks
+///This car can withstand all conditions. Fear not, for the Sky City!///
+   Rewards: 10000 C
+   All goals completed: 10 A
+
+Test .038.
+The Future - Classic
+2 laps, 8 Racers
+   Main Goal: Finish FIRST
+-Perform 3 Barrel Rolls
+-Perform 3 Barrel Rolls in One Jump
+-Perform a Special Knockdown
+-Destroy 30 Obstacles
+///You're Racing in one of our new locations: a city set in the future. Don't let those superficial gadgets sidetrack you though; merely admire them.///
+   Rewards: 10000 C   45 A
+   All goals completed: +15 A   Armour
+
+Test .039.
+Walled In - Elimination
+Almost 3 laps, 10 Racers
+   Main Goal: Finish FIRST
+-Lead for 5 Eliminations
+-Knockdown 3 Racers with No Wreck
+-Drift no more than 300 yd
+-Perform 4 Perfect Runs
+///You're walled in. Unlock this car's potential and smash through the obstacle.///
+   Rewards: 10000 C   50 A
+   All goals completed: R&D ALX Kit Box x2
+
+Test .040.
+Mount Everest Reverse - Knockdown
+4:00
+   Main Goal: Knockdown 12 Racers
+-Knockdown 8 Racers
+-Knockdown 15 Racers
+-Knockdown 16 Racers
+-Knockdown 20 Racers
+///We've added a better brake so you can lose less speed when turning. See how it works out.///
+   Rewards: 10000 C   50 A
+   All goals completed: +50 A
+
+Test .041.
+Firework Arch - Classic
+2 laps, 8 Racers
+   Main Goal: Finish FIRST
+-Knockdown 5 Racers
+-Perform 5 Standard Stunts
+-Score 12.50 s of Air Time
+-Perform 4 Overdrives
+///Come on, come on! Don't stop now; those losers ain't gonna know what hit them!///
+   Rewards: 10000 C   60 A
+   All goals completed: +5000 C   +15 A
+
+Test .042.
+Mini:bit - Classic
+3 laps, 16 Racers
+   Main Goal: Finish FIRST
+-Destroy 50 Obstacles
+-Knockdown 3 Racers with No Wreck
+-No Overdrives
+-Perform 6 Flat Spins
+///Go test this car in extreme conditions. Go on, don't be shy.///
+   Rewards: 10000 C
+   All goals completed: R&D ALX Kit Box   +25 A
+
+Test .043.
+Haunted House - Escape
+2 + part lap, 8 Rogue Racers, 2:30.00
+   Main Goal: Escape in 2:30.00
+-No Wrecks
+-Drift no more than 150 yd
+-Perform 5 Flat Spins in One Jump
+-Score 15.00 s of Air Time
+///No joke, you gotta win.///
+   Rewards: 10000 C   75 A
+   All goals completed: +25 A
+
+Test .044.
+Heavy Metal - Classic
+1 lap, 8 Racers
+   Main Goal: Finish FIRST
+-Finish in 1:23.00
+-Finish in 1:18.00
+-Perform 3 Barrel Rolls in One Jump
+-Perform a Special Knockdown
+///Test 44 beckons you. Just don't skid when you reach the metal airship.///
+   Rewards: 10000 C   75 A
+   All goals completed: +5000 C   R&D ALX Kit Box
+
+Test .045.
+Portal Magic - Classic
+2 lap, 12 Racers
+   Main Goal: Finish FIRST
+-Perform 2 Advanced Stunts
+-Perform a Backflip
+-Drift 1000 yd
+-No Wrecks
+///The final validation test is ready, and after this, try to beat our AI Racer to prove you're better than a mere robot!///
+   Rewards: 10000 C   80 A
+   All goals completed: +10000 C   +20 A
+
+
+
+Lab 005
+
+
+Test .046.
+Military Camp - Ultimate AI Challenge
+3 laps, Ultimate AI
+   Beat the Ultimate AI
+///We've crafted a skilled AI Robot to automatically complete tests. Prove to us that you're better, and not replaceable.///
+   Rewards: R&D ALX Kit Box x2
+
+
+Test .046.
+Army Spot - Ultimate AI Challenge
+3 laps, Ultimate AI
+   Beat the Ultimate AI
+///These AI Racers know all the tricks. It will take all your knowledge to beat them!///
+   Rewards: R&D ALX Kit Box x2
+
+
+Test .046.
+Wild Disco - Ultimate AI Challenge
+3 laps, Ultimate AI
+   Beat the Ultimate AI
+///AI is Flawless. Show us you are too.///
+   Rewards: R&D ALX Kit Box x3
+
+
+Test .046.
+Late Night Crowd - Ultimate AI Challenge
+3 laps, Ultimate AI
+   Beat the Ultimate AI
+///This is the final test, to obtain this speedy supercar. Don't mess up.///
+   Rewards: 25x BP for Oasis Drive ALX Racing Series
+
+
+Oasis Drive ALX Racing Series is not guaranteed, as it requires Blueprints. Test 046 will probably unlock it though.
+
+ALL UPGRADES KEPT
+
+
+
+Lab 006
+
+
+Test .101.
+Rocky Ledge - Classic
+2 laps, 8 Racers
+   Main Goal: Finish THIRD or better
+-Perform 3 Advanced Stunts
+-Score 12.00 s of Air Time
+-Drift 750 yd
+-Knockdown 4 Racers
+///At the end of a long day, smooth easy races always help you calm down.///
+   Rewards: Free Stat Upgrade for Oasis Drive ALX Racing Series
+   All goals completed: R&D ALX Kit Box
+
+Test .102.
+Neon Takeon - Classic
+1 lap, 6 Racers
+   Main Goal: Finish THIRD or better
+-Perform 2 Flat Spins in One Jump
+-Perform 7 Flat Spins
+-Perform 3 Perfect Runs
+-No Overdrives
+///Patience, Racer. Upgrading vehicles take time.///
+   Rewards: Lv7 Rare parts x5
+   All goals completed: R&D ALX Kit Box x2
+
+Test .103.
+Party Time! - Classic
+2 laps, 12 Racers
+   Main Goal: Finish THIRD or better
+-Knockdown 6 Racers
+-Perform 4 Perfect Knockdowns
+-Perform 12 Perfect Nitros
+-No Wrecks
+///Willing to get to know the Oasis? Well, try it when you're in a crazy party of lights and streamers.///
+   Rewards: Free Stat Upgrade for Oasis Drive ALX Racing Series
+   All goals completed: Rare Box   R&D ALX Kit Box
+
+Test .104.
+Aluminium Awesomeness - Classic
+3 laps, 8 Racers
+   Main Goal: Finish SECOND or better
+-Finish First
+-Destroy 25 Obstacles
+-Perform 3 Advanced Stunts
+-Drift 900 yd
+//////
+   Rewards: R&D ALX Kit Box x2
+   All goals completed: 100 A
+
+Test .105.
+Netherworld - Elimination
+2 + part lap, 8 Racers
+   Main Goal: Pead for at least 4 Eliminations
+-Lead for 6 Eliminations
+-Finish First
+-Perform 2 Barrel Rolls in One Jump Twice
+-No Wrecks
+//////
+   Rewards: Rare Box
+   All goals completed: R&D ALX Kit Box
