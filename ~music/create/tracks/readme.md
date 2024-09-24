@@ -14,8 +14,14 @@ Many of the tracks here were created for my rhythm game [*Algorhythm*](https://g
 ## Singles
 Standalone soundtracks, sorted into (unofficially named) categories for clarity.
 
-<img alt="Sunset" title="Sunset" height="240px"
-  src="../../../.assets/covers/Sunset.PNG" href="/Sunset.wav">
+<a href="Rejuvenate.wav">
+  <img alt="Rejuvenate" title="Rejuvenate" height="240px"
+    src="../../../.assets/covers/Rejuvenate.PNG">
+</a>
+<a href="Sunset.wav">
+  <img alt="Sunset" title="Sunset" height="240px"
+    src="../../../.assets/covers/Sunset.PNG">
+</a>
 
 ### Memories
 <img alt="Base Memories" title="Base Memories" height="240px"
@@ -28,6 +34,10 @@ Standalone soundtracks, sorted into (unofficially named) categories for clarity.
 
 
 ## Series
+
+### Fidelity
+
+### Integrated
 
 ### Cortex
 
