@@ -1,5 +1,5 @@
 {
-  "exported": "2024-09-23",
+  "exported": "2024-09-24",
   "index": {
     "info": [
       ".squarkdown/content/frequerys.md",
@@ -52,6 +52,7 @@
       "~dev/Gems in the Abstruse Internet.md",
       "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
+      "~dev/buttons.md",
       "~dev/decoded.md",
       "~dev/fix.md",
       "~dev/git.md",
@@ -108,6 +109,7 @@
       "Yu-Gi-Oh!/thoughts/archetypes.md",
       "desmos/dev/readme.md",
       "~dev/Python Syntax.md",
+      "~dev/buttons.md",
       "~writing/commit.md",
       "~writing/roots.md",
       "~writing/wriiting.md",
@@ -121,6 +123,7 @@
       "Yu-Gi-Oh!/archetypes/Darquess.md",
       "Yu-Gi-Oh!/archetypes/Rubic.md",
       "Yu-Gi-Oh!/archetypes/Soul.md",
+      "Yu-Gi-Oh!/decks/dryconix.md",
       "Yu-Gi-Oh!/lore/Stranded Saga/The Stranded Saga.md",
       "Yu-Gi-Oh!/readme.md",
       "Yu-Gi-Oh!/thoughts/archetypes.md",
@@ -181,6 +184,7 @@
       "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
       "~dev/Python Syntax.md",
+      "~dev/buttons.md",
       "~dev/decoded.md",
       "~dev/fix.md",
       "~dev/git.md",
@@ -361,11 +365,11 @@
     "Phigros/favourites.md": {
       "path": "Phigros/favourites.md",
       "slocs": 351,
-      "chars": 8436,
+      "chars": 8438,
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
-      "dest": "higros/favourites",
+      "dest": "phigros/favourites",
       "title": "Favourite Charts",
       "head": "Favourite Charts",
       "capt": null,
@@ -473,6 +477,27 @@
       "date": null,
       "date_display": null
     },
+    "Yu-Gi-Oh!/decks/dryconix.md": {
+      "path": "Yu-Gi-Oh!/decks/dryconix.md",
+      "slocs": 493,
+      "chars": 38490,
+      "isIndex": false,
+      "isFeatured": true,
+      "isWoozy": false,
+      "dest": "yugioh/decks/dryconix",
+      "title": "Dryconix",
+      "head": "Dryconix",
+      "capt": null,
+      "desc": "My 60-card Dogmatika Drytron Ritual tech deck.",
+      "index": [
+
+      ],
+      "shard": [
+        "yugioh"
+      ],
+      "date": null,
+      "date_display": null
+    },
     "Yu-Gi-Oh!/lore/Stranded Saga/The Stranded Saga.md": {
       "path": "Yu-Gi-Oh!/lore/Stranded Saga/The Stranded Saga.md",
       "slocs": 180,
@@ -519,8 +544,8 @@
     },
     "Yu-Gi-Oh!/thoughts/archetypes.md": {
       "path": "Yu-Gi-Oh!/thoughts/archetypes.md",
-      "slocs": 122,
-      "chars": 6766,
+      "slocs": 174,
+      "chars": 9821,
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
@@ -565,8 +590,8 @@
     },
     "Yu-Gi-Oh!/thoughts/favourites.md": {
       "path": "Yu-Gi-Oh!/thoughts/favourites.md",
-      "slocs": 52,
-      "chars": 1606,
+      "slocs": 142,
+      "chars": 3628,
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
@@ -793,6 +818,28 @@
       ],
       "date": "2024-01-01",
       "date_display": "2024 spring"
+    },
+    "~dev/buttons.md": {
+      "path": "~dev/buttons.md",
+      "slocs": 29,
+      "chars": 2147,
+      "isIndex": false,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "dev/buttons",
+      "title": "Buttons: More Complicated Than They Look",
+      "head": "Buttons: More Complicated Than They Look",
+      "capt": null,
+      "desc": null,
+      "index": [
+        "dev"
+      ],
+      "shard": [
+        "dev",
+        "writing"
+      ],
+      "date": null,
+      "date_display": null
     },
     "~dev/decoded.md": {
       "path": "~dev/decoded.md",

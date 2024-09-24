@@ -13,7 +13,7 @@ export default class SearchOptions<T>
     /* @ts-ignore */
     this.query = options.query ?? "";
     /* @ts-ignore */
-    this.queryWith = options.queryWith ?? (data => data.title);
+    this.queryWith = options.queryWith ?? (data => data.title ?? "");
     /* @ts-ignore */
     this.sortWith = options.sortWith ?? null;
     /* @ts-ignore */
