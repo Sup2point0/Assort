@@ -52,7 +52,7 @@ import AssortIcon from "#parts/misc/assort-icon.svelte";
           <NavLink text="thoughts" intern="writing/thoughts" />
         </NavLink>
         <NavLink text="poetry" intern="poetry" />
-        <NavLink text="graphic design" intern="graphics" />
+        <NavLink text="graphics" intern="graphics" />
         <NavLink text="lists" intern="lists" />
       </section>
       
@@ -75,6 +75,8 @@ import AssortIcon from "#parts/misc/assort-icon.svelte";
           <NavLink text="lore" intern="yugioh/lore" />
         </NavLink>
         <NavLink text="Ultraman" intern="ultraman" />
+        <NavLink text="Phigros" intern="phigros" />
+        <NavLink text="desmos" intern="desmos" />
       </section>
 
       <section>
