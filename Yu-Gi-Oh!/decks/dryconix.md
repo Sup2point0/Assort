@@ -42,6 +42,12 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
   src="https://images.ygoprodeck.com/images/cards/14959144.jpg">
 <img alt="Ultimate Bright Knight Alpha Ursatron" height="160px"
   src="https://images.ygoprodeck.com/images/cards/14959144.jpg">
+<img alt="Diviner of the Herald" height="160px"
+  src="https://images.ygoprodeck.com/images/cards/92919429.jpg">
+<img alt="Diviner of the Herald" height="160px"
+  src="https://images.ygoprodeck.com/images/cards/92919429.jpg">
+<img alt="Diviner of the Herald" height="160px"
+  src="https://images.ygoprodeck.com/images/cards/92919429.jpg">
 <img alt="Drytron Meteonis Draconids" height="160px"
   src="https://images.ygoprodeck.com/images/cards/69815951.jpg">
 <img alt="Drytron Meteonis Quadrantids" height="160px"
@@ -54,44 +60,38 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
   src="https://images.ygoprodeck.com/images/cards/55410871.jpg">
 <img alt="Shinobaron Peacock" height="160px"
   src="https://images.ygoprodeck.com/images/cards/52900000.jpg">
+<img alt="White Relic of Dogmatika" height="160px"
+  src="https://images.ygoprodeck.com/images/cards/48654323.jpg">
 <img alt="White Knight of Dogmatika" height="160px"
   src="https://images.ygoprodeck.com/images/cards/40352445.jpg">
-<img alt="White Knight of Dogmatika" height="160px"
-  src="https://images.ygoprodeck.com/images/cards/48654323.jpg">
 <img alt="Dogmatika Alba Zoa" height="160px"
   src="https://images.ygoprodeck.com/images/cards/51522296.jpg">
 <img alt="" height="160px"
   src="">
-<img alt="Diviner of the Herald" height="160px"
-  src="https://images.ygoprodeck.com/images/cards/92919429.jpg">
-<img alt="Diviner of the Herald" height="160px"
-  src="https://images.ygoprodeck.com/images/cards/92919429.jpg">
-<img alt="Diviner of the Herald" height="160px"
-  src="https://images.ygoprodeck.com/images/cards/92919429.jpg">
 
 
 <img alt="Meteonis Drytron" height="160px"
   src="https://images.ygoprodeck.com/images/cards/22398665.jpg">
 <img alt="Meteonis Drytron" height="160px"
   src="https://images.ygoprodeck.com/images/cards/22398665.jpg">
-<img alt="Drytron Nova" height="160px"
-  src="https://images.ygoprodeck.com/images/cards/94187078.jpg">
-<img alt="Drytron Nova" height="160px"
-  src="https://images.ygoprodeck.com/images/cards/94187078.jpg">
-<img alt="Drytron Nova" height="160px"
-  src="https://images.ygoprodeck.com/images/cards/94187078.jpg">
-<img alt="Cyber Emergency" height="160px"
-  src="https://images.ygoprodeck.com/images/cards/60600126.jpg">
-<img alt="Cyber Emergency" height="160px"
-  src="https://images.ygoprodeck.com/images/cards/60600126.jpg">
-<img alt="Cyber Emergency" height="160px"
-  src="https://images.ygoprodeck.com/images/cards/60600126.jpg">
 <img alt="Drytron Fafnir" height="160px"
   src="https://images.ygoprodeck.com/images/cards/58793369.jpg">
 <img alt="Drytron Fafnir" height="160px"
   src="https://images.ygoprodeck.com/images/cards/58793369.jpg">
 <img alt="Drytron Fafnir" height="160px"
   src="https://images.ygoprodeck.com/images/cards/58793369.jpg">
+<img alt="Cyber Emergency" height="160px"
+  src="https://images.ygoprodeck.com/images/cards/60600126.jpg">
+<img alt="Cyber Emergency" height="160px"
+  src="https://images.ygoprodeck.com/images/cards/60600126.jpg">
+<img alt="Cyber Emergency" height="160px"
+  src="https://images.ygoprodeck.com/images/cards/60600126.jpg">
+<img alt="Drytron Nova" height="160px"
+  src="https://images.ygoprodeck.com/images/cards/94187078.jpg">
+<img alt="Drytron Nova" height="160px"
+  src="https://images.ygoprodeck.com/images/cards/94187078.jpg">
+<img alt="Drytron Nova" height="160px"
+  src="https://images.ygoprodeck.com/images/cards/94187078.jpg">
 <img alt="Drytron Meteor Shower" height="160px"
   src="https://images.ygoprodeck.com/images/cards/84965420.jpg">
 <img alt="Dogmatikabre" height="160px"
@@ -102,6 +102,8 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
   src="https://images.ygoprodeck.com/images/cards/35569555.jpg">
 <img alt="Dogmatikatrix" height="160px"
   src="https://images.ygoprodeck.com/images/cards/35569555.jpg">
+<img alt="Raigeki" height="160px"
+  src="https://images.ygoprodeck.com/images/cards/81439173.jpg">
 <img alt="Where Arf Thou?" height="160px"
   src="https://images.ygoprodeck.com/images/cards/51405049.jpg">
 <img alt="Preparation of Rites" height="160px"
@@ -118,6 +120,10 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
   src="https://images.ygoprodeck.com/images/cards/102380.jpg">
 <img alt="Nibiru, the Primal Being" height="160px"
   src="https://images.ygoprodeck.com/images/cards/27204311.jpg">
+<img alt="Raigeki" height="160px"
+  src="https://images.ygoprodeck.com/images/cards/12580477.jpg">
+<img alt="Harpie's Feather Duster" height="160px"
+  src="https://images.ygoprodeck.com/images/cards/18144507.jpg">
 <img alt="Called by the Grave" height="160px"
   src="https://images.ygoprodeck.com/images/cards/24224830.jpg">
 <img alt="Crossout Designator" height="160px"
