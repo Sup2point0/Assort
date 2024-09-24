@@ -46,6 +46,14 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
   src="https://images.ygoprodeck.com/images/cards/69815951.jpg">
 <img alt="Drytron Meteonis Quadrantids" height="120px"
   src="https://images.ygoprodeck.com/images/cards/95209656.jpg">
+<img alt="Amorphactor Pain, the Imagination Dracoverlord" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/98287529.jpg">
+<img alt="Odd-Eyes Gravity Dragon" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/23851033.jpg">
+<img alt="Blue-Eyes Chaos MAX Dragon" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/55410871.jpg">
+<img alt="Shinobaron Peacock" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/52900000.jpg">
 <img alt="White Knight of Dogmatika" height="120px"
   src="https://images.ygoprodeck.com/images/cards/40352445.jpg">
 <img alt="White Knight of Dogmatika" height="120px"
@@ -54,6 +62,12 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
   src="https://images.ygoprodeck.com/images/cards/51522296.jpg">
 <img alt="" height="120px"
   src="">
+<img alt="Diviner of the Herald" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/92919429.jpg">
+<img alt="Diviner of the Herald" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/92919429.jpg">
+<img alt="Diviner of the Herald" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/92919429.jpg">
 
 
 <img alt="Meteonis Drytron" height="120px"
@@ -82,6 +96,8 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
   src="https://images.ygoprodeck.com/images/cards/35569555.jpg">
 <img alt="Dogmatikatrix" height="120px"
   src="https://images.ygoprodeck.com/images/cards/35569555.jpg">
+<img alt="Waking the Dragon" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/10813327.jpg">
 <img alt="" height="120px"
   src="">
 
@@ -90,11 +106,27 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
 <details open>
   <summary> <b> Extra Deck </b> </summary> <br>
 
-<img alt="Drytron" height="120px"
+<img alt="Drytron Mu Beta Fafnir" height="120px"
   src="https://images.ygoprodeck.com/images/cards/1174075.jpg">
-<img alt="Drytron" height="120px"
+<img alt="Drytron Mu Beta Fafnir" height="120px"
   src="https://images.ygoprodeck.com/images/cards/1174075.jpg">
-<img alt="Drytron" height="120px"
+<img alt="Linkuriboh" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/41999284.jpg">
+<img alt="Herald of Mirage Lights" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/46935289.jpg">
+<img alt="Clear Wing Synchro Dragon" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/82044280.jpg">
+<img alt="Herald of the Arc Light" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/79606837.jpg">
+<img alt="Herald of the Arc Light" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/79606837.jpg">
+<img alt="Herald of the Arc Light" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/79606837.jpg">
+<img alt="Raidraptor - Rising Rebellion Falcon" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/71222868.jpg">
+<img alt="Infinitrack Fortress Megaclops" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/69073023.jpg">
+<img alt="" height="120px"
   src="">
 
 </details>
