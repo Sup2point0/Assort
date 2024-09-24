@@ -1,7 +1,7 @@
 # Favourite Charts
 <!-- #SQUARK live!
-| dest = higros/favourites
-| style = higros
+| dest = phigros/favourites
+| style = phigros
 | duality = dark
 | index = phigros
 | shard = #INDEX
