@@ -67,7 +67,7 @@ Even more planned soundtracks for *Algorhythm*.
 > The Algorithm  
 
 ### Stranded
-Soundtracks for [*The Stranded Saga*](../Yu-Gi-Oh!/lore/Stranded%20Saga).
+Soundtracks for [*The Stranded Saga*](../Yu-Gi-Oh/lore/Stranded%20Saga).
 
 > Stranded  
 > Catastropical  
