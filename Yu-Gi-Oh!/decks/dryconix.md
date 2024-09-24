@@ -46,7 +46,13 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
   src="https://images.ygoprodeck.com/images/cards/69815951.jpg">
 <img alt="Drytron Meteonis Quadrantids" height="120px"
   src="https://images.ygoprodeck.com/images/cards/95209656.jpg">
-<img alt="Drytron" height="120px"
+<img alt="White Knight of Dogmatika" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/40352445.jpg">
+<img alt="White Knight of Dogmatika" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/48654323.jpg">
+<img alt="Dogmatika Alba Zoa" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/51522296.jpg">
+<img alt="" height="120px"
   src="">
 
 
@@ -68,7 +74,15 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
   src="https://images.ygoprodeck.com/images/cards/58793369.jpg">
 <img alt="Drytron Meteor Shower" height="120px"
   src="https://images.ygoprodeck.com/images/cards/84965420.jpg">
-<img alt="Drytron" height="120px"
+<img alt="Nadir Servant" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/1984618.jpg">
+<img alt="Dogmatikabre" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/60921537.jpg">
+<img alt="Dogmatikatrix" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/35569555.jpg">
+<img alt="Dogmatikatrix" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/35569555.jpg">
+<img alt="" height="120px"
   src="">
 
 </details>
