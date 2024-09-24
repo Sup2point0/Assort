@@ -1,9 +1,13 @@
-> [!Warning]
-> This article is slightly out of date. Maybe I’ll update it at some point.
-
 # Dryconix
- 
-My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single copies of staples, and ~~nearing~~ 60 cards, it’s still surprisingly consistent, insanely versatile, and can definitely hold its own.
+<!-- #SQUARK live! feat!
+| dest = yugioh/decks/dryconix
+| desc = My 60-card Dogmatika Drytron Ritual tech deck.
+| style = yugioh
+| duality = dark
+| shard = yugioh
+-->
+
+This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters, single copies of staples, and ~~nearing~~ 60 cards, it’s still surprisingly consistent, insanely versatile, and can definitely hold its own.
 
 
 <br>
@@ -13,15 +17,15 @@ My absolute favourite deck of all time. Despite having 9 Ritual Monsters, single
 
 <table>
   <tr>
-    <td> archetypes </td>
+    <th align="left"> archetypes </th>
     <td> <a href="https://yugipedia.com/wiki/Drytron">Drytron</a>, <a href="https://yugipedia.com/wiki/Dogmatika">Dogmatika</a> <br> <a href="">Herald</a> </td>
   </tr>
   <tr>
-    <td> cards </td>
+    <th align="left"> cards </th>
     <td> 60 </td>
   </tr>
   <tr>
-    <td> list </td>
+    <th align="left"> decklist </th>
     <td> <a href="https://duelingbook.com/deck?id=12203999">DuelingBook</a>, <a href="https://duelingnexus.com/editor/34f29fc593559c6edcfe979561d59a06">DuelingNexus</a> </td>
   </tr>
 </table>
@@ -163,7 +167,7 @@ What hurts most, though, is that it’s vulnerable to almost every form of inter
 <br>
 
 
-## Rivals
+## Matchups
 
 <details open>
   <summary> <b> display </b> </summary> <br>
