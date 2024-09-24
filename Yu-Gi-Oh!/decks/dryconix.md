@@ -13,6 +13,64 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
 <br>
 
 
+## Preview
+
+<details open>
+  <summary> <b> Main Deck </b> </summary> <br>
+
+<img alt="Drytron Alpha Thuban" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/97148796.jpg">
+<img alt="Drytron Alpha Thuban" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/97148796.jpg">
+<img alt="Drytron Alpha Thuban" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/97148796.jpg">
+<img alt="Drytron Zeta Aldibah" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/96026108.jpg">
+<img alt="Drytron Zeta Aldibah" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/96026108.jpg">
+<img alt="Drytron Delta Altais" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/22420202.jpg">
+<img alt="Drytron Delta Altais" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/22420202.jpg">
+<img alt="Drytron Gamma Eltanin" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/60037599.jpg">
+<img alt="Drytron Gamma Eltanin" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/60037599.jpg">
+<img alt="Ultimate Bright Knight Alpha Ursatron" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/14959144.jpg">
+<img alt="Ultimate Bright Knight Alpha Ursatron" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/14959144.jpg">
+<img alt="Drytron" height="120px"
+  src="">
+
+
+<img alt="Drytron Fafnir" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/58793369.jpg">
+<img alt="Drytron Fafnir" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/58793369.jpg">
+<img alt="Drytron Fafnir" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/58793369.jpg">
+<img alt="Drytron" height="120px"
+  src="">
+
+</details>
+
+<details open>
+  <summary> <b> Extra Deck </b> </summary> <br>
+
+<img alt="Drytron" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/1174075.jpg">
+<img alt="Drytron" height="120px"
+  src="https://images.ygoprodeck.com/images/cards/1174075.jpg">
+<img alt="Drytron" height="120px"
+  src="">
+
+</details>
+
+
+<br>
+
+
 ## Cards
 
 <table>
