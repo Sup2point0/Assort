@@ -1,12 +1,13 @@
-<!-- @component
+<!-- @component NavLink
+
 An individual link in the navigation pane.
 -->
 
 <script lang="ts">
 
 import { base } from "$app/paths";
-import type { MouseEventHandler } from "svelte/elements";
 import { browser } from "$app/environment";
+import type { MouseEventHandler } from "svelte/elements";
 
 export let text: string;
 export let link: string | undefined = undefined;
