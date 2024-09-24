@@ -27,6 +27,30 @@ As I’ve discovered the rest of the archetype though, and most importantly delv
 <br>
 
 
+## Code Talker
+
+> *Rinku Shokan!*
+
+Love the concept – the names!! The portmanteaus with *-code* are sooo amazing, it’s actually a custom card creator’s dream. And coming up with new parodies like *Endcode Talker* and *Recode Talker* is just so fun.[^code-talker-names] The artstyle as a whole works so well as the Cyberse bosses. [Accesscode’s](~) pretty lit.
+
+[^code-talker-names]: What’d’y’know, this is an archetype I’ve remade into custom cards before 0.o
+
+It’s a shame that most Code Talkers have pretty useless effects, and while make decent plot tools for the anime, can’t really see much usage irl. I get they existed for symmetry in the Attributes (+ enabling Extra Link), but then [Heatsoul](~) came along and messed it all up =|
+
+
+<br>
+
+
+## D/D/D
+
+> power polyphony!
+
+Power name, power concept, power archetype. Akaba Reiji with this was so basass in the anime, it was unreal. For sure one of the scariest antagonist decks. Names are a little wack, but the references to corporate positions is brilliant. [Dark Contract](~) is a flawless fit. I haven’t seen it much in actual Yu-Gi-Oh, but it’s definitely a Deck that takes a lot of brain juice.
+
+
+<br>
+
+
 ## Dinomorphia
 
 > we like to live dangerously
@@ -51,6 +75,20 @@ The 3 Main Deck Monsters can all easily Special Summon themselves (materials –
 Arise-Heart literally reads like a custom card.[^arise-heart]
 
 [^arise-heart]: Can confirm.
+
+
+<br>
+
+
+## Labrynth
+
+> perfectly evil
+
+I really respect Labrynth’s design. It’s an archetype that achieves exactly what it wants to without being unfair or broken (imho). Dangerous? Yep. Resilient? Very. Annoying as hell? You know it. But the difficulty in dealing with it makes for some really fun duels with loads of back-and-forth, just like with [Branded](#Branded) and [Dinomorphia](#Dinomorphia).
+
+It’s brutal, don’t get me wrong, but it takes skill to play well and has loads of creative interaction. A lot of its power definitely manifests through the non-archetypal traps they use, which I think is very understandable for a literal Trap deck. I also like that it’s a very focused archetype, with 2 clear bosses that synergise to control the game.
+
+The handtraps, Quick Effects, and insta-activates are all necessary evils for keeping the Traps up to speed with the modern game. I don’t really like the fact Arianna can both draw you a card and straight up whip out a Level 8 ace tho, I think they stepped the line a bit with that one.
 
 
 <br>
@@ -117,6 +155,20 @@ With that out the way... hot take here, I actually really like the way the arche
 I’m gonna use this to cover the hybrid decks built from [Visas](~),  [Scare-Claw](~), [Mannadium](~), and occasionally [Kashtira](~), which are all part of the [Visas Starfrost](~) storyline.
 
 I'm not a fan of the ridiculous searching from a card design point of view, but holy hell is this mesmerising to watch. It's insane how it just keeps on going, churning out monster after monster. As a custom card creator one of the hardest things you could ever do is design 2 archetypes that synergise almost perfectly while still retaining their own gimmicks and character – which makes it so unbelievably cool how Visas manages to meld 3 archetypes (or more, depending how you count it!). I mean come on, they’re running 4 Field Spells for xenique’s sake! What is this!?
+
+
+<br>
+
+
+## Ursarctic
+
+> learn from our failures
+
+Man, I was so excited when I find out [Drytron](#Drytron) had sister archetype. Even more so when it broke its Summoning mechanic too, by using [Dark Synchro Summoning<sup>↗</sup>](~) to Synchro Summon a Level 1 Monster!
+
+But yeah, this archetype just doesn’t work, does it? Mediocre boss monsters, a crappy engine, and effects that don’t do its art justice. Its critical weaknesses is that it loses hand advantage so damn quickly – if it just did the same thing as Drytron and allowed Special Summoning from the Grave, or had more effects to recycle Monsters from the Grave, it’d be *that* much better.
+
+I wanted to try using the crossover with Drytron, but yeah, [Ultimate Flagship Ursatron<sup>↗</sup>](~) does literally nothing. Such a shame because it has a wicked name. Come on, Konami!
 
 
 <br>
