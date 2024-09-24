@@ -29,6 +29,9 @@ Standalone soundtracks, sorted into (unofficially named) categories for clarity.
 
 ## Series
 
+### Elysion
+Experimental and diverse rhythm-game-style soundtracks.
+
 ### Algorhythm Origins
 Original soundtracks created for *Algorhythm*.
 
@@ -41,7 +44,7 @@ Original soundtracks created for *Algorhythm*.
 <img alt="Night" title="Night" height="240px"
   src="../../../.assets/covers/Night.PNG" href="Algorhythm Origins/~.wav">
 <img alt="Tomorrow" title="Tomorrow" height="240px"
-src="../../../.assets/covers/Tomorrow.jpg" href="Algorhythm Origins/~.wav">
+src="../../../.assets/covers/Tomorrow.PNG" href="Algorhythm Origins/~.wav">
 <img alt="Dusk" title="Dusk" height="240px"
   src="../../../.assets/covers/~.PNG" href="Algorhythm Origins/~.wav">
 <img alt="Time" title="Time" height="240px"
