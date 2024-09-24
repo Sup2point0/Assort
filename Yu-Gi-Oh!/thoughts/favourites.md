@@ -18,7 +18,16 @@ There’s a lot of things to like in Yu-Gi-Oh, so deciding on favourites isn’t
     <th> since </th>
   </tr>
   <tr>
-    <td rowspan="5"> Monster </td>
+    <td rowspan="8"> Monster </td>
+    <td rowspan="2"> Attribute </td>
+    <td> WATER </td>
+    <td> I don’t play any WATER decks, and there aren’t even that many I like, but WATER just calls to me fsr. </td>
+  </tr>
+  <tr>
+    <td> WIND </td>
+    <td> Now there *are* WIND archetypes I like – [Clear Wing](~) – and it calls to me too. Just not as strongly as WATER. idek. </td>
+  </tr>
+  <tr>
     <td rowspan="2"> Type </td>
     <td> Dragon </td>
     <td> </td>
@@ -40,6 +49,84 @@ There’s a lot of things to like in Yu-Gi-Oh, so deciding on favourites isn’t
   <tr>
     <td> Ritual </td>
     <td> </td>
+  </tr>
+  <tr>
+    <td> link arrow formation </td>
+    <td> L/DL/DR/R (<a href="">Avramax</a>) </td>
+    <td> It’s just got such a ‘power’ look – idk, like wings or jet thrusters or something. So heroic. </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> Spell/Trap </td>
+    <td> Spell Property </td>
+    <td> Ritual </td>
+  </tr>
+  <tr>
+    <td> Trap Property </td>
+    <td> Counter </td>
+  </tr>
+  <tr>
+    <td rowspan="14"> anime </td>
+    <td rowspan="2"> season </td>
+    <td> <a href="">ARC-V</a> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> <a href="">Battle City</a> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> protagonist </td>
+    <td> Yusaku </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> antagonist </td>
+    <td> Akaba Reiji </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> Ryoken Kogami </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> character </td>
+    <td> Kurosaki Shun </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> Ruri </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> ace Monster </td>
+    <td> Raidraptor - Rise Falcon </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="3"> duel </td>
+    <td> Kurosaki Shun vs Sora </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> Yami Yugi vs Yugi Mutou </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> Sakaki Yuya vs Akaba Reiji </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> moment </td>
+    <td> ARC-V, Kurosaki triple OTKs with Raidraptor - Rise Falcon </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> Battle City, Yugi defeats Kaiba </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> Summon </td>
+    <td> Odd-Eyes Rebellion Dragon </td>
   </tr>
   <tr>
     <td rowspan="2"> lore </td>
