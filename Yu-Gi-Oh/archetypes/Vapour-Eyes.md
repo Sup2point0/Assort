@@ -67,7 +67,7 @@ Since these correspond to the Monsters’ actual attacks, this prevents them fro
 
 > This card cannot attack directly during the turn you use this effect.
 
-As they rank up, their effects becomes increasingly devastyzing.
+As they rank up, their effects becomes increasingly devastating.
 
 <table>
   <tr>
@@ -112,9 +112,9 @@ The 4 ‘Vapour-Eyes Arc Lightning Dragon’ Xyz Monsters are DARK counterparts,
 
 > Once per turn, during your Main or Battle Phase: You can detach 1 Material, then [...]; Destroy all other [...] on the field, also this card gains [...] ATK for each destroyed until the end of this turn.
 
-However, keeping in anime spirit, these effects can only be activated and resoLevel en while the player’s LP are lower than 4000. Unlike the LIGHT Xyz Monsters, the DARK Xyz Monsters *can* attack directly in the same turn, to deal critical damage with their charged ATK.
+However, keeping in anime spirit, these effects can only be activated and resolved while the player’s LP are lower than 4000. Unlike the LIGHT Xyz Monsters, the DARK Xyz Monsters *can* attack directly in the same turn, to deal critical damage with their charged ATK.
 
-> You must have [...] or less LP to activate and resoLevel e this effect.
+> You must have [...] or less LP to activate and resolve this effect.
 
 <table>
   <tr>
@@ -175,7 +175,7 @@ There are 6 rankup cards, each proving useful in different situations. The Rank-
 - [Vapour Rise](#Spells) ranks up from the Grave, attaches itself as extra Material, and can even further revive an Xyz Monster to kickstart a comeback.
 - [Lightning Ascension](#Spells) is excellent for OTKs, ranking up by 2 Ranks to access more powerful effects and higher ATK. It can even rankup into *any* LIGHT Xyz Monster, although there aren’t any great non-archetypal options right now. Losing the rankup at the end of the turn can be prevented by just ranking up the Monster again, ending with a +3 rankup in one turn.
 - [Lightning Arc Rise](#Spells) facilitate the DARK Xyz Monster’s effects by lowering your LP, but is otherwise inferior to Vapour Rise. The critical difference lies in Lightning Arc Rise preventing responses, which can make all the difference in a comeback.
-- [Neo Evolution](#Spells) has a Monster to rankup into for any Rank, but can be difficult to use properly. It does provide nifty targeting immunity to the ranken up Monster, but this importantly prevents further rankups (since Rank-Up cards always target).
+- [Neo Evolution](#Spells) has a Monster to rankup into for any Rank, but can be difficult to use properly. It does provide nifty targeting immunity to the ranked up Monster, but this importantly prevents further rankups (since Rank-Up cards always target).
 - [Ultimate Evolution](#Spells) is the most powerful rankup card, totally preventing responses and having flexible rankup options. As such, it also has the harshest restrictions – requiring you to only control 1 Xyz Monster, and locking other Summons from the Extra Deck for the rest of the turn.
 
 <table>
@@ -244,14 +244,14 @@ Again, the Counter Trap is not strictly part of the archetype, but very closely 
 
 ## Strategics
 
-Since the Xyz Monsters cannot use their effects during the opponent’s turn, the focus of the deck is to protect them until your turn, when they can utterly dismantle the opponent’s board. The [rankup cards](#Rank-Up) are vital for protecting the ace from targeting effects, by ranking them up before the effect resoLevel es.
+Since the Xyz Monsters cannot use their effects during the opponent’s turn, the focus of the deck is to protect them until your turn, when they can utterly dismantle the opponent’s board. The [rankup cards](#Rank-Up) are vital for protecting the ace from targeting effects, by ranking them up before the effect resolves.
 
 ### Weaknesses
 However, since with activated effects the deck can only protect from targeting effects, any form of non-targeting removal or crippling is deadly. Removing the Xyz Monsters from the field without sending them to the Graveyard prevents rankup cards that revive from the Grave from being used to make a comeback; banishing in particular is very problematic, as the archetype has few ways to recover them.
 
 To allow the Xyz Monsters of every Rank to be included, Extra Deck space is highly limited – 3 each of the base [Vapour-Eyes Lightning Dragon](#Lightning) and supportive [Vapour-Eyes Absolute Dragon](#Level-9-Dragons) already leaves only 9 slots, and with the 7 other Ranks of Lightning Dragons, only 2 free for other duplicates or tech picks. This can leave the deck rather fragile, as rankup chains could be broken.
 
-For instance, if a Vapour-Eyes Lightning Dragon is Summoned, and then ranken up into a Rank 10 Lightning Dragon, but that Monster is banished, and we have no other Rank 10 Lightning Dragons in the Extra Deck (due to lack of duplicates), rankup cards that rankup by +1 would not be able to rankup from Vapour-Eyes Lightning Dragon.
+For instance, if a Vapour-Eyes Lightning Dragon is Summoned, and then ranked up into a Rank 10 Lightning Dragon, but that Monster is banished, and we have no other Rank 10 Lightning Dragons in the Extra Deck (due to lack of duplicates), rankup cards that rankup by +1 would not be able to rankup from Vapour-Eyes Lightning Dragon.
 
 
 <br>
@@ -267,6 +267,6 @@ For instance, if a Vapour-Eyes Lightning Dragon is Summoned, and then ranken up 
   - Vapour Rise and Lightning Arc Rise both rankup from the Grave.
   - Lightning Ascension and Ultimate Evolution both rankup by 2 Ranks.
   - Lightning Arc Rise and Ultimate Evolution both prevent responses.
-- This archetype was created really only to satisfy my childish love for cryzing totally overpowered cards, as well as giving them ridiculously long and awesome names.
-  - This is reflected in their highly inflacen stats and Ranks (especially the Rank 13 [Neo Ultimate Vapour-Eyes Arc Lightning Dragon](#Arc-Lightning)).
+- This archetype was created really only to satisfy my childish love for creating totally overpowered cards, as well as giving them ridiculously long and awesome names.
+  - This is reflected in their highly inflated stats and Ranks (especially the Rank 13 [Neo Ultimate Vapour-Eyes Arc Lightning Dragon](#Arc-Lightning)).
   - The effects *seem* very powerful, and can be very powerful, but are easily played around – despite its high consistency, the deck has plenty of other weaknesses.
