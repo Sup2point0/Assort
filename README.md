@@ -22,19 +22,19 @@ Here you’ll find all my interests, thoughts, writing, time-wasting, and maybe 
 > New here? Consider starting out on the <a target="_blank" href="https://sup2point0.github.io/Assort">site<sup>↗</sup></a> for a much nicer browsing experience!
 
 ### Folders
-📁 [affine](affine)  
-📁 [Yu-Gi-Oh!](Yu-Gi-Oh!)  
-📁 [kenzokinetics](kenzokinetics)  
-📁 [xeriqui](xeriqui)  
+📁 [affine](affine/)  
+📁 [Yu-Gi-Oh!](Yu-Gi-Oh/)  
+📁 [kenzokinetics](kenzokinetics/)  
+📁 [xeriqui](xeriqui/)  
 
-📁 [graphic design](~graphics)  
-📁 [writing pieces](~writing)  
-📁 [music](~music)  
-📁 [poetry](~poetry)  
+📁 [graphic design](~graphics/)  
+📁 [writing pieces](~writing.)  
+📁 [music](~music/)  
+📁 [poetry](~poetry/)  
 
 ### Files
 📂 [*On the Origins on Sup#2.0*](~writing/origins.md) – the lore behind Sup#2.0  
-📂 [Rubic](Yu-Gi-Oh!/archetypes/Rubic.md) – a custom *Yu-Gi-Oh!* archetype  
+📂 [Rubic](Yu-Gi-Oh/archetypes/Rubic.md) – a custom *Yu-Gi-Oh!* archetype  
 📂 [koniokinetis](affine/affinitys/koniokinetis.md) – a fictional affinity  
 📂 [Ultraman Infinity](Ultraman/Ultraman%20Infinity.md) – a fictional Ultraman  
 📂 [fictional elements](Ascense/elements.md) – a list of invented elements  
@@ -43,7 +43,7 @@ Here you’ll find all my interests, thoughts, writing, time-wasting, and maybe 
 <br>
 
 
-## [Frequerys<sup>↗</sup>](https://github.com/Sup2point0/Antarctica/blob/home/readme.md#what-does-frequerys-even-mean 'frequent queries')
+## [Frequerys](https://github.com/Sup2point0/Antarctica/blob/home/readme.md#what-does-frequerys-even-mean 'frequent queries')
 
 ### What’s all this for?
 I absolutely *love* creating things, and over the years I’ve created so much stuff that it’s all dispersed across multiple mediums – paper, phones, tablets, laptops, wikis – which is slightly a logistical nightmare. So, this is a repository to collect, store and archive (almost) everything I create. What exactly does that include? Well, content of any kind – documenting my ideas for games, graphic design and creative writing, lists, phenomena, worldbuilding and all. And also the fictional nation of [Antarctica](https://github.com/Sup2point0/Antarctica), but that’s so extensive that it’s in its own repo.
