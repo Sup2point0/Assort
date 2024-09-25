@@ -202,8 +202,8 @@ See [Archetypes](archetypes.md).
 
 ## Trivia
 
-- The storyline draws inspiration from the existing cross-archetypal storylines in *Yu-Gi-Oh!*, in particular [*Branded*](https://yugipedia.com/wiki/Branded) and [*World Legacy*](https://yugipedia.com/wiki/World_Legacy).
-  - It also forms part of the larger lore of [Xeriqui](../../../xeriqui).
+- The storyline draws inspiration from the existing cross-archetypal storylines in *Yu-Gi-Oh!*, in particular [*Branded*<sup>↗</sup>](https://yugipedia.com/wiki/Branded) and [*World Legacy*<sup>↗</sup>](https://yugipedia.com/wiki/World_Legacy).
+  - It also forms part of the larger lore of [*Xeriqui*](../../../xeriqui).
 - Supnauticans do not use fire.
 
 ### Inspiration
@@ -211,13 +211,13 @@ The names of many archetypes in this storyline are inspired by, or are parodies 
 
 | archetype | origin | etymology |
 | :-------- | :----- | :-------- |
-| *Stranded* | [*Branded*](https://yugipedia.com/wiki/Branded) | |
+| *Stranded* | [*Branded*<sup>↗</sup>](https://yugipedia.com/wiki/Branded) | |
 | *Aeternal*, *Aeternity* | | ‘æ’ + *eternal*, *eternity* |
 | *Avertrocious*, *Avertrocity* | | *averse* + *atrocious*, *atrocity* |
 | *Catastropical* | | *catastrophe* + *tropical* |
-| *Cephradicated*, *Cephradicator* | | [*Cepheus*](https://wikipedia.org/wiki/Cepheus_(constellation)) (constellation) + *eradicated*, *eradicator* |
-| *Construct* | [*World Legacy*](https://yugipedia.com/wiki/World_Legacy) | back-derived from *World Construct* |
-| *Delphoenix* | | [*Delphinus*](https://wikipedia.org/wiki/Delphinus) (constellation) + *phoenix* |
-| *Dyverse* | [Cyberse](https://yugipedia.com/wiki/Cyberse) | *Cyberse* + *diverse* |
+| *Cephradicated*, *Cephradicator* | | [*Cepheus*<sup>↗</sup>](https://wikipedia.org/wiki/Cepheus_(constellation)) (constellation) + *eradicated*, *eradicator* |
+| *Construct* | [*World Legacy*<sup>↗</sup>](https://yugipedia.com/wiki/World_Legacy) | back-derived from *World Construct* |
+| *Delphoenix* | [*Drytron*<sup>↗</sup>](https://yugipedia.com/wiki/Drytron) | [*Delphinus*<sup>↗</sup>](https://wikipedia.org/wiki/Delphinus) (constellation) + *phoenix* |
+| *Dyverse* | [Cyberse<sup>↗</sup>](https://yugipedia.com/wiki/Cyberse) | *Cyberse* + *diverse* |
 | *Dyvoid* | | *Dyverse* + *void* |
-| *Supnautica* | [*Subnautica*](https://wikipedia.org/wiki/Subnautica) (game) | *sup* + *nautica* |
+| *Supnautica* | [*Subnautica*<sup>↗</sup>](https://wikipedia.org/wiki/Subnautica) (game) | *sup* + *nautica* |
