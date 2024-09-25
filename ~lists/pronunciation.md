@@ -1,7 +1,7 @@
-Some words I first encountered through only text, and so devyzed my own pronunciations. I know they’re technically incorrect, but I’ll never change.
+# Words I Obstinately Refuse to Pronounce Correctly
 
+Some words I first encountered through only text, and so devised my own pronunciations. I know they’re technically incorrect, but like... I’ll never change :P
 
-## Words I Obstinately Refuse to Pronounce Correctly
 
 ### crystalline
 
