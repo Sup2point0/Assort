@@ -17,6 +17,7 @@ So, here are all the archetypes of custom cards I’ve created – although this
 Antarctic  
 [Antarctron](Antarctron.md)  
 Affectis  
+Apocalyptus  
 Aquily  
 &emsp; Aquilyra  
 &emsp; Aquilynx  
@@ -107,7 +108,7 @@ YNQ
 <br>
 
 
-## [Frequerys](https://github.com/Sup2point0/Antarctica/blob/home/readme.md#what-does-frequerys-even-mean 'frequent queries')
+## FAQ
 
 ### How did you create the cards?
 All of my custom cards were created on [DuelingBook](https://duelingbook.com), using the custom cards feature!
