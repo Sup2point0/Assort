@@ -1,7 +1,7 @@
+# When Science is Stupid
+
 There are some things that I find *incredibly*, *abjectly* dumb in science, that make absolutely no sense whatsoever.
 
-
-## When Science is Stupid
 
 ### This convention of separating quantity and units with a slash
 I never understand why this is the preferred notation, when slash so definitively represents division. In no way are you *dividing* the quantity by the unit, so why slash? A pipe sign, backslash or even colon would be so much better. Or, just be normal, and use brackets!
