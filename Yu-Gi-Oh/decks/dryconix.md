@@ -293,7 +293,7 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
 | [Drytron Meteonis Draconids](https://yugipedia.com/wiki/Drytron_Meteonis_Draconids) | x1 | Very strong against certain archetypes, and epic for OTKs. |
 | [Drytron Meteonis Quadrantids](https://yugipedia.com/wiki/Drytron_Meteonis_Quadrantids) | x1 | Ruins backrow. |
 | [Amorphactor Pain, the Imagination Dracoverlord](https://yugipedia.com/wiki/) | x1 | My favourite Ritual Monster after White Zoa. Being able to actually play it is so wonderful. |
-| [Odd-Eyes Gravity Dragon](https://yugipedia.com/wiki/) | x1 | Great to leave on an endboard, and clearing threatening backrow before my opponent realyzes what’s going on. |
+| [Odd-Eyes Gravity Dragon](https://yugipedia.com/wiki/) | x1 | Great to leave on an endboard, and clearing threatening backrow before my opponent realises what’s going on. |
 | [Blue-Eyes Chaos MAX Dragon](https://yugipedia.com/wiki/) | x1 | Often underestimated, but super versatile against decks that just can’t handle both targeting and destruction immunity *and* high ATK – Labrynth, Runick, even Tearlaments and Kashtira. |
 | [Shinobaron Peacock](https://yugipedia.com/wiki/) | x1 | Insane removal, especially against Avramax, Mirrorjade or HEROs. |
 | [White Relic of Dogmatika](https://yugipedia.com/wiki/White_Relic_of_Dogmatika) | x1 | Surprisingly good for OTKs, and an easy out to an Accesscode Talker if didn’t manage to strike for game. |
@@ -312,7 +312,7 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
 | [Linkuriboh](https://yugipedia.com/wiki/Linkuriboh) | x1 | Pivotal for optilical combo sequencing. Clutch when you need it. |
 | [Relinquished Anima](https://yugipedia.com/wiki/Relinquished_Anima) | x1 | Hilarious when it works, perfect for plucking back a Lava Golem too. |
 | [Herald of Mirage Lights](https://yugipedia.com/wiki/Herald_of_Mirage_Lights) | x1 | This, *this*, is the missing piece I spent so long looking for – too often do I end with extra bodies (especially if I’ve used Gamma) which don’t do anything, and I can’t clean up for anything else (IP Masquerena would take even more Extra Deck space for other staples, which I refuse to resort to) – but what would really help is a recovery option. That’s exactly what Herald of Mirage Lights does, grabbing back not 1, but *2* Ritual cards – how awesome is that! No longer do I need to rest on the Heart of the Cards every time my opponent dismantles my board and I have no more Rituals left in hand. |
-| [Clear Wing Synchro Dragon](https://yugipedia.com/wiki/Clear_Wing_Synchro_Dragon) | x1 | This is my favourite Synchro Monster, so naturally I was delighted when I realyzed I could throw it in Drytron. A stellar option if we don’t have enough to bring out a double-Tribute Ritual Monster. |
+| [Clear Wing Synchro Dragon](https://yugipedia.com/wiki/Clear_Wing_Synchro_Dragon) | x1 | This is my favourite Synchro Monster, so naturally I was delighted when I realised I could throw it in Drytron. A stellar option if we don’t have enough to bring out a double-Tribute Ritual Monster. |
 | [Wind Pegasus @Ignister](https://yugipedia.com/wiki/Wind_Pegasus_@Ignister) | x1 | Works under Amorphactor Pain and in the Grave, even has Spell/Trap removal for followup. |
 | [Herald of the Arc Light](https://yugipedia.com/wiki/Herald_of_the_Arc_Light) | x3 | Of course, the perfect Monster to bury from our Extra Deck. And with Drytron, the more Rituals in hand, the better. We can even Synchro Summon it with Ash Blossom (Lv3 Tuner) and a Drytron (Lv1), which is better than keeping Ash in hand, since this can negate any card or effect – with a search right after too! Aside from working under Amorphactor Pain (since it Tributes itself as cost, so its effect won’t be negated), it even blocks Droplet by preventing anyone from sending cards to the Grave as cost. Just insane value. |
 | [Elder Entity N'tss](https://yugipedia.com/wiki/https://yugipedia.com/wiki/Elder_Entity_N'%27'tss) | x1 | One’s enough, just for the situations where we really need it. |
@@ -350,7 +350,7 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
 
 | card | copies | notes |
 | :--- | :----- | :---- |
-| [Drytron Meteor Shower](https://yugipedia.com/wiki/Drytron_Meteor_Shower) | x1 | It’s hilarious how few people actually know Drytron even has a Counter Trap, but it’s not bad at all, despite having no Grave effects like those of so many other archetypes. Hitting a Summon can often be just as devastyzing as negating an effect, undoing all the work put into bringing out a duel closer. |
+| [Drytron Meteor Shower](https://yugipedia.com/wiki/Drytron_Meteor_Shower) | x1 | It’s hilarious how few people actually know Drytron even has a Counter Trap, but it’s not bad at all, despite having no Grave effects like those of so many other archetypes. Hitting a Summon can often be just as devastating as negating an effect, undoing all the work put into bringing out a duel closer. |
 
 </details>
 
@@ -371,7 +371,7 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
 | [Super Polymerization](https://yugipedia.com/wiki/Super_Polymerization) | x1 | A wonderful boardbreaker, if a bit toxic. |
 | [Ultimate Slayer](https://yugipedia.com/wiki/Ultimate_Slayer) | x1 | People should give this more recognition honestly. Perfect against Synchro decks to send a Herald of the Arc Light for an extra search, or against Fusion decks to send a N'tss for a free pop. Nicely avoids Mirrorjade and Chengying’s effects. |
 | [Triple Tactics Talent](https://yugipedia.com/wiki/Triple_Tactics_Talent) | x1 | Quality response and all too easy to trigger. |
-| [Infinite Impermanence](https://yugipedia.com/wiki/Infinite_Impermanence) | x1 | Why only 1, I know. I don’t really play it as interruption (unless it’s Aluber or Chixiao), but rather an opener when going second to neutralyze a threat or draw out a negate. |
+| [Infinite Impermanence](https://yugipedia.com/wiki/Infinite_Impermanence) | x1 | Why only 1, I know. I don’t really play it as interruption (unless it’s Aluber or Chixiao), but rather an opener when going second to neutralise a threat or draw out a negate. |
 | [Evenly Matched](https://yugipedia.com/wiki/Evenly_Matched) | x1 | Actually cracked. |
 | [Waking the Dragon](https://yugipedia.com/wiki/Waking_the_Dragon) | x1 | Not a staple, I know. Yet the amount of times this has worked and saved me by bringing out Ultimate Falcon or Infinitrack Megaclops is *staggering*. |
 
@@ -398,7 +398,7 @@ This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters
 ### End Board
 The dream endboard consists of White Zoa, Amorphactor Pain, Odd-Eyes Gravity Dragon, Elder Entity.
 
-White Zoa needs 3 cards to Ritual Summon – itself, Dogmatikabre, and a Draconids or Quadrantids in Hand to Tribute (or we could have a Lv8 Ritual and banish an Arc Light from the Grave, that works too). Regardless, it’s quite a lot to ask, and while it has stellar protection and a devastyzing effect, it’s probably not enough to hold up on its own – which means we can’t just abandon the Drytron side of things. So, I’ll only bring it out if I can still Ritual Summon other Ritual Monsters with Meteonis Drytron.
+White Zoa needs 3 cards to Ritual Summon – itself, Dogmatikabre, and a Draconids or Quadrantids in Hand to Tribute (or we could have a Lv8 Ritual and banish an Arc Light from the Grave, that works too). Regardless, it’s quite a lot to ask, and while it has stellar protection and a devastating effect, it’s probably not enough to hold up on its own – which means we can’t just abandon the Drytron side of things. So, I’ll only bring it out if I can still Ritual Summon other Ritual Monsters with Meteonis Drytron.
 
 Luckily, Drytron’s got... wouldn’t say plenty, but definitely enough cards to search out all the Ritual Spells and Monsters we need. Nadir Servant is great for searching any missing piece we need, and if we go second Dogmatikatrix can grab both White Zoa and Dogmatikabre all in one go, or even another copy of itself if we’ve already got one of those.
 
@@ -455,7 +455,7 @@ What hurts most, though, is that it’s vulnerable to almost every form of inter
 Blue-Eyes Jet Dragon is such a pain. Luckily, Draconids can’t be targeted by it, and has excellent removal in case the opponent has a higher ATK Monster. Ironically, the best weapon against them is their own ace Monster – Blue-Eyes Chaos MAX Dragon.
 
 ### Branded Despia
-This is actually so fun to play against, even if I do end up losing most of the time. Since its speciality is removal and doesn’t have negates at all, it presents a far more interesting challenge to overcome – many of my most exhilaryzing and memorable duels have been against Branded Despia. I love playing against duelists who really *know* the deck and don’t just play it cuz meta. Especially those who take it further and stretch its capabilitys, like Fusion Summoning twice in one Chain Link with Lubellion and Branded in Red.
+This is actually so fun to play against, even if I do end up losing most of the time. Since its speciality is removal and doesn’t have negates at all, it presents a far more interesting challenge to overcome – many of my most exhilarating and memorable duels have been against Branded Despia. I love playing against duelists who really *know* the deck and don’t just play it cuz meta. Especially those who take it further and stretch its capabilitys, like Fusion Summoning twice in one Chain Link with Lubellion and Branded in Red.
 
 Amorphactor Pain is my greatest weapon against them, but even then they can easily battle over it, and if I want to dismantle their board, Mirrorjade presents a difficult challenge to remove.
 
@@ -465,7 +465,7 @@ Well, I’ma head out.
 Yeah no, Bystial totally kills Drytron.
 
 ### Dark Magician
-Its only real interruption is the banish from Dark Magical Circle, which could be critical if we’ve got a weak hand, but is usually easy to overcome. Quadrantids is lethal against Dark Magician, since they can’t recover their Spell/Traps, and if they’ve activyzen Eternal Soul then they just end up nuking their own field.
+Its only real interruption is the banish from Dark Magical Circle, which could be critical if we’ve got a weak hand, but is usually easy to overcome. Quadrantids is lethal against Dark Magician, since they can’t recover their Spell/Traps, and if they’ve activated Eternal Soul then they just end up nuking their own field.
 
 ### Dinomorphia
 Dinomorphia’s pretty powerful at control, which Drytron tends to struggle against. Luckily while [Rexterm](https://yugipedia.com/wiki/Dinomorphia_Rexterm)’s ATK-modifying effect neutralises our Battle Phase, which will be our main way to deal with their Monsters, it doesn’t stop our modules from activating their effects since they don’t activate on the field. If we manage to get Odd-Eyes Gravity Dragon on the field, they’re royally screwed. If we get an Amorphactor Pain with that too? Yeah, that’s gonna be rough. The only issue is stopping the opponent from just running over them.
@@ -491,12 +491,12 @@ Alternatively, they trigger Waking the Dragon and we drop Ultimate Falcon on the
 This shouldn’t be that hard to beat, but it is. Y’know what, returning to the original Ritual Monsters works wonderfully – Draconids and Quadrantids keep pressure on them by clearing their Spell/Traps each turn, and Odd-Eyes Gravity Dragon really hurts since they combo so much.
 
 ### Mathmech
-I also play Mathmech myself, so I’m really familiar with how it works. And it can be really dangerous if we’re uncareful. Luckily skipping their Main Phase 1 with Amorphactor Pain neutralyzes the threat of an OTK, and if they don’t read and overlay into Alembertian or Laplacian while it’s on the field then things will be much more difficult for them.
+I also play Mathmech myself, so I’m really familiar with how it works. And it can be really dangerous if we’re uncareful. Luckily skipping their Main Phase 1 with Amorphactor Pain neutralises the threat of an OTK, and if they don’t read and overlay into Alembertian or Laplacian while it’s on the field then things will be much more difficult for them.
 
 If they go first and drop Superfactorial early, then counterplay is really quite difficult with the resource rip and negate. Draconids is probably the most effective here, to remove materials before they can Synchro into Final Sigma or Link into Accesscode.
 
 ### Pendulum Magician
-Never did I think I would hate such a cool deck (since I absolutely loved Yuya’s deck in Arc-V), but the endboards it cryzes are really, really toxic, and literally none of the cards are actually archetypical. Apollousa is enough to kill Drytron, but a Baronne de Fleur, Hope Harbinger, Borreload Savage Dragon, *and* Time Pendulumgraph too? Even if I draw Forbidden Droplet, it’ll cripple my Hand, and I don’t run Dark Ruler No More anymore.
+Never did I think I would hate such a cool deck (since I absolutely loved Yuya’s deck in Arc-V), but the endboards it creates are really, really toxic, and literally none of the cards are actually archetypical. Apollousa is enough to kill Drytron, but a Baronne de Fleur, Hope Harbinger, Borreload Savage Dragon, *and* Time Pendulumgraph too? Even if I draw Forbidden Droplet, it’ll cripple my Hand, and I don’t run Dark Ruler No More anymore.
 
 ### Runick
 Honestly makes me want to crawl up and die. Whenever I face this, the race is on to grab Chaos MAX Dragon before they banish it, since just like with Labrynth, it’s an insta-win. It feels *soo* good crashing into a Hugin to deal perfectly 8000 damage. Unless they have Skill Drain... and they probably do. In which case, Quadrantids is our only good option, since whenever they destroy it it’ll bring back more Drytrons, hopefully to attack directly. Unless they have There Can Be Only One. Oh my days. What an absolute pain. And Dimensional Fissure. ALL the floodgates.
@@ -505,11 +505,11 @@ Honestly makes me want to crawl up and die. Whenever I face this, the race is on
 It’s beyond me how this deck even manages to put up a fight – maybe they just always catch me on a subpar hand.
 
 ### Spright
-Well, this is really tough to beat. Since everything in Drytron is an activyzen effect, negates really hurt, and Spright is full of them. Amorphactor Pain can’t keep them at bay, and Chaos MAX Dragon falls to Spright Double Cross or a boosted Gigantic Spright.
+Well, this is really tough to beat. Since everything in Drytron is an activated effect, negates really hurt, and Spright is full of them. Amorphactor Pain can’t keep them at bay, and Chaos MAX Dragon falls to Spright Double Cross or a boosted Gigantic Spright.
 
 If I want to win, I have to play as viciously as I can, which means not letting Spright play at all. Currently the best strategic I’ve found is to clear their field, which means they can’t use their innate Special Summons. Hitting their Normal Summon with Meteor Shower or Draconids kills them entirely, unless they have Starter. If they start with Starter we’re basically screwed, unless they Summon Gigantic with nothing else on the field, in which case hitting that with Draconids clears their field.
 
-If it’s Runick Spright, then there’s very little hope, what with the insane advantage Fountain generyzes and the free Lv2 Special Summons that we just can’t stop.
+If it’s Runick Spright, then there’s very little hope, what with the insane advantage Fountain generates and the free Lv2 Special Summons that we just can’t stop.
 
 ### Swordsoul
 Swordsoul and Swordsoul Tenyi, unlike Branded Despia, are such a pain to play against. Which is weird, since both decks feature single-card opening combos and tech in other Monsters of their Summoning tecnique – and I even find Synchro Monsters cooler than Fusion Monsters. I suppose it’s because Swordsoul is so braindead to play, and provides such easy access to high-Level Synchro Monsters that would otherwise be much more difficult to Summon.
