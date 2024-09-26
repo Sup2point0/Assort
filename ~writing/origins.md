@@ -9,12 +9,12 @@
 <!-- ↗ ↑ ↓ -->
 
 <details>
-  <summary> <b> </b> </summary>
+  <summary> <b> details </b> </summary>
 
-&ensp; *Assort* (origin). v2.0.0, 2024 ~ ~.  
-&ensp; ~writing/origins.md.  
+&ensp; *Assort* (origin). v2.0.0, 2024 ~ ~. ~writing/origins.md.  
 &ensp; © 2024 Sup#2.0 (<https://github.com/Sup2point0>) 
 <!-- #SQUARK leave? -->
+&ensp; Alt: *Origins of Sup*  
 &ensp; ACI: `20.04.`  
 &ensp; CXUL: `SP-LR-AS-AQ`  
 &ensp; IQTS: `6x3sF7-e2kzW0.02d`  
@@ -65,7 +65,7 @@
 
 ## ABSTRACT
 
-Many a times in the past have people, both those I have met online and those I know in real life, inquired into the origins behind my username `Sup#2.0`. However, for years the answer has been “oh, there’s *so* much lore behind it” [sic], or I have resorted to giving a quick (and often inconsistently incomplete) rundown, which leaves much to be desired, if only on my end. This will seek to remedy that. We will take a deep dive into the lore, reasoning and rationale behind the username of Sup#2.0 and its derivatives, analyse its evolution, structure and aptness, and finally consider various potential alternatives.
+There may be no facet amidst the internet which upholds quite the same degree of identity and permanency as the *username*. Many a times in the past have my acquaintances inquired into the origins behind `Sup#2.0`. Indeed, it would appear to emanate a pronounced sense of individuality and uniqueness. Alas, the answer has perennially persisted: “oh, there’s *so* much lore behind it” [sic], or I have, somewhat regrettably, resorted to giving a brief (and often inconsistently incomplete) rundown, leaving much to be desired – if only on my end. This will seek to remedy that. We will take a deep dive into the lore, reasoning and rationale behind the username of `Sup#2.0` and its derivatives, analyse its evolution, structure and aptness, and finally consider various potential alternatives that may have seen light in a different universe.
 
 
 <br>
@@ -237,6 +237,15 @@ Capitalisation is one of the core factors affecting the feeling of a username. W
 | upper | `SOUP`, `SOUPYSOUP` | All letters are uppercase. | Loud, bold. Dependent on word length and choice. (Compare `ASH` and `HYPEREXPLOSION`) |
 | dynamic | `sOUP`, `sOuP`, `SoupYsouP` | Varying capitalisation, though may follow a pattern. |
 
+### Decorations
+Appearing very commonly in the usernames of players in online games and communities are decorative symbols [^decorative-empirical]. This can be taken to refer to any non-alphanumeric character, although there is nothing stopping users from using letters or numbers to fulfil the same purpose.
+
+[^decorative-empirical]: ...
+
+If used suitably, decorators can add flavour and character to a username not possible through using only alphanumerical characters. Most commonly, they are used for visual distinction, especially to look ‘cool’ among other usernames. Unfortunately, the overuse of certain formats has rendered them becoming ‘cringey’, or even outright memes – a prime example being 2 or 3 `x`s (with varying capitalisation) surrounding a username [^xx-meme], giving specimens like `xXxSoupSlayerxXx`.
+
+[^xx-meme]: https://reddit.com/r/memes/comments/dei29u/dont_put_xx_in_your_name
+
 
 <br>
 
@@ -325,6 +334,8 @@ Through a hybrid technique of introspective neural reactivation and psychochrono
 
 
 <h2 name="Derivatives"> A LOOK AT DERIVATIVES </h2>
+
+`Sup#2.0` is perfect for derivatives, being so modular and having so many parts that can be changed.
 
 ### Sup2.0
 Due to aforementioned character restrictions,[<sup>↑</sup>](#Usernames) more often than not `Sup#2.0` cannot be used as a username. (The `#` tends to be especially problematic.) This is unfortunate, but it is a reality I have come to accept.
@@ -422,8 +433,17 @@ As it happens, I did proceed to devise a list of potential usernames (for myself
 | `Synchra` | `SynchraNaut`, `synchraNaut` |
 <!-- I lied, actually. There is 1 alternative username that has been put into use – which is exactly why it’s not here. -->
 
+### Avidity
+As of time of writing, this is the top contender.
+
+### Dawn
+While I personally find *Dawn* filled with personality and possibility, it is also fairly generic, definitely not unique, and a real name. Of all the alternatives, however, this is the one I have envisioned being known by the most, and in all honesty, going by ‘Dawn’ would be pretty cool.
+
 ### LiterallyAwesome
 Every option here encapsulates different ...
+
+### SuperVescence
+Pretty obviously, this one derives closely from ‘sup’. The only things it’s got going for it are that it’s original, sounds powerful, and initialises to `SV`. Otherwise, it‘s not especially the vibe or look I would want to have permanently.
 
 ### Synchra
 I find this filled with intrigue and character. It derives from ‘Synchro’ monsters in [*Yu-Gi-Oh!*<sup>↗</sup>](https://yugipedia.com).[^synchro]
@@ -431,9 +451,6 @@ I find this filled with intrigue and character. It derives from ‘Synchro’ mo
 `SynchraNaut` / `synchraNaut` is even more intriguing, and initialises nicely to `SN` / `sN`.
 
 [^synchro]: A Monster Type in the *Yu-Gi-Oh* trading card game. <https://yugipedia.com/wiki/Synchro_Monster>
-
-### Dawn
-While I personally find *Dawn* filled with personality and possibility, it is also fairly generic, definitely not unique, and a real name. Of all the alternatives, however, this is the one I have envisioned being known by the most, and in all honesty, going by ‘Dawn’ would be pretty cool.
 
 ### Thoughts
 Every option here holds its own character, and I love each and every one of them. Yet while I would be happy using them, none of them are entirely perfect – of course, neither is `Sup`, but `Sup#2.0` strays quite close. Really, I’m looking for something to capture the character in all of them within a single username, which is understandably nigh on impossible.
@@ -496,6 +513,10 @@ While on the topic of Silentroom, one of his most renowned tracks is [*Nhelv*<su
 
 [^polycube]: ...
 
+### ThatMumboJumbo
+
+### LEMMiNO
+
 
 <br>
 
@@ -543,8 +564,9 @@ I would like to extend my gratitude towards the following:
 `2023/12/05` Why not just look at other people’s usernames while we’re at. Just for fun.  
 `2023/12/06` Yooo, Markdown referencing is awesome!  
 `2023/12/07` And so the appendices appear... I wonder how many we’ll have?  
-`2023/12/15` We’ve gotta keep going with this. Ikuze!  
+`2023/12/15` We’ve gotta keep going with this. 行くぜ!  
 `2024/02/22` Ok, nvm, we’ll continue this at some later date...  
+`2024/09/04` Damn, we did not keep going with this.  
 
 
 <br>
