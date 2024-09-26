@@ -2,8 +2,25 @@
 
 | artist | track | vibes |
 | :----- | :---- | :---- |
-| Alan Walker | End of Time | electronic / house / nostalgic |
+| Alan Walker | Alone | electronic / house / nostalgic |
+|             | Darkside | electronic / melodramatic / sad |
+|             | Different World | electronic / sad / deep / rich |
+|             | Faded | electronic / house / sad |
+|             | Faded (restrung) | orchestral / sad |
+|             | Force | electronic / house |
+|             | Lost Control | electronic / sad |
+|             | Sing Me To Sleep | electronic / house / sad |
+|             | The Spectre | electronic / house / nostalgic |
+| Lay | Sheep (Alan Walker Relift) | electronic / rap / edgy |
+| Alan Walker, Alex Skrindo | Sky | electronic / bop |
+| Alan Walker, David Whistle | Routine | electronic / bop |
+| Alan Walker, K-391, Ahrix | End of Time | electronic / house / nostalgic |
+| Alan Walker, K-391, Emelie Hollow | Lily | electronic / house / melodramatic / bop |
+| Alan Walker, K-391, Julie Bergan, Seungri | Ignite | electronic / house / sad |
+| Alan Wlker, Tungevaag, Mangoo | PLAY | electronic / house / melodramatic |
+| Alan Walker, Noah Cyrus, Digital Farm Animals | All Falls Down | electronic / house / melodramatic |
 | Anamanaguchi | Miku | electronic / vocaloid / bop |
+| Approaching Nirvana | Deep Dark Blue (instrumental) | electronic / rhythm / drum N' bass |
 | Attoclef | The Chariot ~REVIIVAL~ | electronic / rhythm / bop |
 | Au5 | Awaken | electronic / rhythm / bass / dubstep / complextro |
 | Avril Lavigne | Breakaway | pop / nostalgic |
@@ -42,18 +59,34 @@
 |          | Tera I/O | electronic / rhythm / complextro / bop |
 |          | THE WORLD REVOLVING | electronic / rhythm / hardcore |
 |          | δ: for the DELTA | electronic / rhythm |
+| DEAF KEV | Invincible | electronic / glitch hop |
+| Distrion, Alex Skrindo | Lightning | electronic / house |
+| Distrion, Electro-Light | Rubik | electronic / house |
+| Electro-Light | Symbolism | electronic / house / nostalgic |
+|               | Throwback | electronic / house / arcade / upbeat |
 | Elektronomia | United | electronic / house / nostalgic |
+|              | Vitality | electronic / house / nostalgic |
 | Eminem | Venom | rap / clever |
+| Ezza Wan | Reverie | electronic / house / sad |
 | Fountains of Wayne | Stacy's Mom | pop / upbeat / funny |
 | GEMN | Fatal | J-pop / rap / anime / edgy |
 | heiakim | nana. | electronic / bop / quirky |
 | Hinkik, A Himitsu | Realms | electronic / rhythm |
+| Jim Yosef | Link | electronic / house |
+| Jim Yosef, Anna Yvette | Linked | electronic / house |
+| K-391, Victor Crone | Lonely World | electronic / house / sad |
 | Kry.exe, nm-y | Retribution | electronic / rhythm / hardcore / bass / melodramatic |
 | Laur | PRAGMATISM -RESSURECTION- | electronic / rhythm / artcore / bass |
+| LFZ | Popsicle | electronic / house / bop |
 | manbo-p | Proof Geometric Construction Can Solve All Love Affairs | electronic / J-pop / rock / rhythm / vocaloid / clever |
 | MYUKKE. | NO ONE YES MAN | electronic / rhythm / kawaii |
 | Normal1zer, Broken Nerdz | DESTRUCTION 3,2,1 | electronic / piano / rhythm / hardcore / sound |
 | Owl City | Fireflies | pop / nostalgic / bop |
+| PIKASONIC | Lockdown | electronic / rhythm / kawaii bass / hardcore |
+|           | Miss You | electronic / rhythm / kawaii bass |
+|           | New Start | electronic / rhythm / kawaii bass |
+|           | Shizuku | electronic / rhythm / kawaii bass / hardcore |
+|           | Skydive | electronic / rhythm / kawaii bass |
 | Puru | Grimheart | electronic / piano / chill / atmos |
 | QUEEN BEE | Mephisto | J-pop / orchestral / anime / bop / edgy |
 | RADWIMPS | KANATAHARUKA | J-pop / orchestral / melodramatic |
@@ -79,6 +112,7 @@
 |        | INVERSION | electronic / rhythm / rich |
 |        | Party in PSPACE | electronic / rhythm |
 |        | Synthesis | electronic / rhythm / arcade / rich |
+| Tomska, Schmoyoho | THE MUFFIN SONG | electronic / quirky / bop |
 | Tokyo Machine | SLASH | electronic / rhythm / sound |
 | Vexento | Banana Breeze | electronic / chill / bop |
 |         | Masked Heroes | electronic / bop |
@@ -91,3 +125,4 @@
 |              | Idols | pop / quirky |
 | YOASOBI | IDOL | J-pop / rap / electronic / anime / edgy |
 |         | Tabun ("Probably") | J-pop / jazz / lofi / chill |
+| Jim Yosef, Electro-Light, Anna Yvette, Deaf Kev, Tobu | Destiny | electronic / house / melodramatic |
