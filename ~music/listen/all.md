@@ -77,10 +77,12 @@
 | DJ Raisei | Fractured Angel | electronic / rhythm / sound |
 | Dua Lipa | Levitating | pop |
 | EBIMAYO | GOODTEK | electronic / rhythm / arcade |
+| Ed Sheeran | The A Team | alt pop / sad / deep |
 | Electro-Light | Symbolism | electronic / house / nostalgic |
 |               | Throwback | electronic / house / arcade / upbeat |
 | Elektronomia | Breeze | electronic / house / upbeat |
 |              | Butterfly | electronic / house / nostalgic |
+|              | Close To You | electronic / house / dubstep |
 |              | Flashback | electronic / house / sad |
 |              | Ibiza | electronic / house / nostalgic |
 |              | Limitless | electronic / house |
@@ -88,6 +90,7 @@
 |              | United | electronic / house / nostalgic |
 |              | Vitality | electronic / house / nostalgic |
 | Elektronomia, Alex Skrindo | Ascension | electronic / house |
+| Elektronomia, stahl! | Journey | electronic / house |
 | Elton John, Dua Lipa | Cold Heart | pop / nostalgic |
 | Eminem | Venom | rap / clever |
 | ETIA., Jenga | On And On!! | electronic / rhythm / J-pop / hardcore / flavour |
@@ -116,10 +119,12 @@
 | LandRoot | Crave Wave | electronic / rhythm / chill |
 | Laur | PRAGMATISM -RESSURECTION- | electronic / rhythm / artcore / bass |
 | LeaF | Aleph-Zero | electronic / rhythm / anxiety / music |
-| League of Legends | Warriors | electronic / orchestral / epic |
+| League of Legends | Phoenix | electronic / orchestral / epic |
+|                   | Warriors | electronic / orchestral / epic |
 | LFZ | Popsicle | electronic / house / bop |
 | Lime | Chronomia | electronic / rhythm / artcore / anime |
 |      | Final Step! | electronic / rhythm |
+| Ludwig Göransson | Can You Hear The Music | orchestral / film / rich |
 | Mafumafu | I wanna be a girl | electronic / J-pop / rhythm / bop |
 | manbo-p | Proof Geometric Construction Can Solve All Love Affairs | electronic / J-pop / rock / rhythm / vocaloid / clever |
 | Maozon | Stasis | electronic / rhythm / artcore |
@@ -132,6 +137,7 @@
 | Noah | Indelible Scar | electronic / rhythm / orchestral |
 |      | Revolt from the Abyss | electronic / rhythm / orchestral / melodramatic |
 | Normal1zer, Broken Nerdz | DESTRUCTION 3,2,1 | electronic / piano / rhythm / hardcore / sound |
+| Olivia Rodrigo | Can't Catch Me Now | alt pop / film |
 | Owl City | Fireflies | pop / nostalgic / bop |
 | PIKASONIC | Lockdown | electronic / rhythm / kawaii bass / hardcore |
 |           | Miss You | electronic / rhythm / kawaii bass |
@@ -166,8 +172,10 @@
 | SYNTHETIC | Diamond Eyes | electronic / rhythm / chill / bop |
 | t+pazolite | Tempestissimo | electronic / rhythm / piano / artcore |
 | Tatsh | Xenolith | electronic / rhythm |
-| Taylor Swift | Antihero | pop / lofi / nostalgic |
+| Taylor Swift | Anti-Hero | pop / lofi / nostalgic |
+|              | Blank Space | pop |
 | Team Grimoire | Rrhar'il | electronic / orchestral / rhythm / hardcore / gothic |
+| The Axis of Awesome | Four Chords | pop / mashup |
 | tiasu | Raw | electronic / rhythm / arcade |
 | tn-shi | Contradiction | electronic / rhythm |
 |        | Cyberfantastia | electronic / rhythm / rich |
@@ -177,6 +185,7 @@
 | Tomska, Schmoyoho | THE MUFFIN SONG | electronic / quirky / bop |
 | Tokyo Machine | SLASH | electronic / rhythm / sound |
 | Vexento | Banana Breeze | electronic / chill / bop |
+|         | Home | electronic / chill / nostalgic |
 |         | Masked Heroes | electronic / bop |
 |         | No Turning Back | electronic / chill / nostalgic |
 |         | Northern Lights | electronic / chill / vibe |
@@ -184,7 +193,7 @@
 |         | Where We Belong | electronic / chill / bop |
 | Vexento, Dexento | Anesthesia | electronic / chill / bop |
 | Virtual Riot | I heard you like polyrhythms | electronic / rich |
-|              | Idols | pop / quirky |
+|              | Idols | pop / mashup |
 | YOASOBI | IDOL | J-pop / rap / electronic / anime / edgy |
 |         | Tabun ("Probably") | J-pop / jazz / lofi / chill |
 | Warak | 暗夜苏醒 (REANIMATE) | electronic / rhythm / bop |
