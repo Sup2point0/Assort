@@ -127,7 +127,7 @@
 | Silentroom, Frums | Aegleseeker | electronic / rhythm / quirky / sad |
 | Silentroom, Shun | Rainshower | electronic / rhythm / neurofunk |
 | Silis, Finite Limit | Bounded Quietude | electronic / rhythm / anime |
-| Street | Sakura Fubiki | electronic / rhythm / flavour / chill |
+| Street | Sakura Fubiki | electronic / rhythm / breakdown / chill |
 | S9RYNE | AFTER DAWN | electronic / rhythm / dubstep |
 | Taylor Swift | Antihero | pop / lofi / nostalgic |
 | Team Grimoire | Rrhar'il | electronic / orchestral / rhythm / hardcore / gothic |
@@ -151,5 +151,11 @@
 | YOASOBI | IDOL | J-pop / rap / electronic / anime / edgy |
 |         | Tabun ("Probably") | J-pop / jazz / lofi / chill |
 | Warak | 暗夜苏醒 (REANIMATE) | electronic / rhythm / bop |
+| 茶鸣拾贰律 | Feast远东之宴 | electronic / rhythm / oriental |
+|          | The Day We Become Family | electronic / rhythm / breakdown |
+|          | 茶影戏 | rhythm / oriental / chill |
+|          | 乐园之上 | electronic / rhythm |
+|          | 青芽 | electronic / rhythm / oriental / breakdown |
+|          | 盏茗 | electronic / rhythm / oriental / bop |
 | 影虎。 | Reimei | rhythm / electronic / oriental |
 | Jim Yosef, Electro-Light, Anna Yvette, Deaf Kev, Tobu | Destiny | electronic / house / melodramatic |
