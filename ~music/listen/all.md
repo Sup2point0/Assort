@@ -43,22 +43,23 @@
 |            | Welcome to the Internt | electronic / funny / clever |
 |            | words, words, words. | rap / clever |
 | Cam Kelley | Sketch Plane | pop / rap / sad |
-| Camellia | +ERABY+E CONNEC+10N | electronic / rhythm / hardcore / rich / sound |
-|          | #1f1e33 | electronic / orchestral / rhythm |
+| Camellia | +ERABY+E CONNEC+10N | electronic / rhythm / hardcore / rich / flavour |
+|          | #1f1e33 | electronic / rhythm/ orchestral |
 |          | 1nput This 2 Y0ur Spine | electronic / rhythm / metal |
-|          | Dance with Silence | electronic / rhythm / complextro |
-|          | epitaxy | electronic / rhythm / chill |
+|          | Dance with Silence | electronic / rhythm / complextro / melodic |
+|          | epitaxy | electronic / rhythm / chill / atmos |
 |          | Exit This Earth's Atomosphere | electronic / rhythm / vibrant |
 |          | Flamewall | electronic / rhythm / metal / orchestral |
-|          | Fly Wit Me | electronic / rhythm / chill |
-|          | Labyrinth in Kowloon: Walled World | electronic / rhythm / oriental |
-|          | MEGALOVANIA (Camellia Remix) | electronic / power |
+|          | Fly Wit Me | electronic / rhythm / chill / flavour |
+|          | Labyrinth in Kowloon: Walled World | electronic / rhythm / oriental / flavour |
+|          | MEGALOVANIA (Camellia Remix) | electronic / hardcore / power |
 |          | Nacreous Snowmelt | electronic / rhythm / atmos |
-|          | Spin Eternally | electronic / rhythm / hardcore / metal / sound |
-|          | TEMPO KATANA | electronic / rhythm / hardcore |
-|          | Tera I/O | electronic / rhythm / complextro / bop |
-|          | THE WORLD REVOLVING | electronic / rhythm / hardcore |
-|          | δ: for the DELTA | electronic / rhythm |
+|          | Spin Eternally | electronic / rhythm / hardcore / metal / flavour |
+|          | TEMPO KATANA | electronic / rhythm / hardcore / oriental / flavour |
+|          | Tera I/O | electronic / rhythm / complextro / flavour / bop |
+|          | THE WORLD REVOLVING | electronic / rhythm / hardcore / gothic |
+|          | δ: for the DELTA | electronic / rhythm / flavour |
+|          | ΩΩPARTS | electronic / rhythm / full flavour / hardcore / rich |
 | DEAF KEV | Invincible | electronic / glitch hop |
 | Distrion, Alex Skrindo | Lightning | electronic / house |
 | Distrion, Electro-Light | Rubik | electronic / house |
