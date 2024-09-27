@@ -48,6 +48,7 @@
 | Camellia | +ERABY+E CONNEC+10N | electronic / rhythm / hardcore / rich / flavour |
 |          | #1f1e33 | electronic / rhythm/ orchestral |
 |          | 1nput This 2 Y0ur Spine | electronic / rhythm / metal |
+|          | Compute It With Some Devilish Alcholic Steampunk Engines | electronic / rhythm / oriental |
 |          | Dance with Silence | electronic / rhythm / complextro / melodic |
 |          | epitaxy | electronic / rhythm / chill / atmos |
 |          | Exit This Earth's Atomosphere | electronic / rhythm / vibrant |
@@ -72,11 +73,18 @@
 | Elektronomia | United | electronic / house / nostalgic |
 |              | Vitality | electronic / house / nostalgic |
 | Eminem | Venom | rap / clever |
+| ETIA., Jenga | On And On!! | electronic / rhythm / J-pop / hardcore / flavour |
 | Ezza Wan | Reverie | electronic / house / sad |
+| Feryquitous, Laur | Arghena | electronic / rhythm / flavour |
 | Fountains of Wayne | Stacy's Mom | pop / upbeat / funny |
+| Frums | Credits | music |
 | GEMN | Fatal | J-pop / rap / anime / edgy |
+| Giga | Beyond the Way | electronic / rhythm / vocaloid / edgy / hop |
+| ginkiha | XING | electronic / rhythm / arcade |
+| Halv | Khronostasis Katharsis | electronic / rhythm / artcore |
 | heiakim | nana. | electronic / bop / quirky |
 | Hinkik, A Himitsu | Realms | electronic / rhythm |
+| HyuN, KLYDIX, Lee Yu Jin | Time To Night Sky | electronic / rhythm / jazz |
 | Jim Yosef | Link | electronic / house |
 | Jim Yosef, Anna Yvette | Linked | electronic / house |
 | K-391, Victor Crone | Lonely World | electronic / house / sad |
@@ -85,8 +93,10 @@
 | Laur | PRAGMATISM -RESSURECTION- | electronic / rhythm / artcore / bass |
 | LeaF | Aleph-Zero | electronic / rhythm / music |
 | LFZ | Popsicle | electronic / house / bop |
+| Lime | Final Step! | electronic / rhythm |
 | manbo-p | Proof Geometric Construction Can Solve All Love Affairs | electronic / J-pop / rock / rhythm / vocaloid / clever |
-| MYUKKE. | NO ONE YES MAN | electronic / rhythm / kawaii |
+| MYUKKE. | NO ONE YES MAN | electronic / rhythm / arcade |
+|         | TTTTTONE | electronic / rhythm / arcade |
 | Normal1zer, Broken Nerdz | DESTRUCTION 3,2,1 | electronic / piano / rhythm / hardcore / sound |
 | Owl City | Fireflies | pop / nostalgic / bop |
 | PIKASONIC | Lockdown | electronic / rhythm / kawaii bass / hardcore |
@@ -101,6 +111,7 @@
 | RADWIMPS, Toaka | Suzume | J-pop / orchestral / nostalgic |
 | Rick Astley | Never Gonna Give You Up | pop |
 | rN | opia | electronic / rhythm / neurofunk |
+| s-don | Upshift | electronic / rhythm |
 | Sakuzyo | Distorted Fate | electronic / rhythm / artcore / hardcore / quirky / rich |
 | Se-U-Ra | Igallta | electronic / rhythm / arcade |
 | shadow_blink | Crush BETA | electronic / rhythm / arcade |
@@ -112,6 +123,7 @@
 |            | X7124 | electronic / rhythm / arcade |
 | Silentroom, Frums | Aegleseeker | electronic / rhythm / quirky / sad |
 | Silentroom, Shun | Rainshower | electronic / rhythm / neurofunk |
+| Street | Sakura Fubiki | electronic / rhythm / flavour / chill |
 | S9RYNE | AFTER DAWN | electronic / rhythm / dubstep |
 | Taylor Swift | Antihero | pop / lofi / nostalgic |
 | Team Grimoire | Rrhar'il | electronic / orchestral / rhythm / hardcore / gothic |
