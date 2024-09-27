@@ -63,6 +63,7 @@
 |          | THE WORLD REVOLVING | electronic / rhythm / hardcore / gothic |
 |          | δ: for the DELTA | electronic / rhythm / flavour |
 |          | ΩΩPARTS | electronic / rhythm / full flavour / hardcore / rich |
+| Daison | Luminescent | electronic / rhythm |
 | DarTokki | Speed Up! | electronic / rhythm |
 | DEAF KEV | Invincible | electronic / glitch hop |
 | Distrion, Alex Skrindo | Lightning | electronic / house |
@@ -78,6 +79,7 @@
 | Feryquitous, Laur | Arghena | electronic / rhythm / flavour |
 | Fountains of Wayne | Stacy's Mom | pop / upbeat / funny |
 | Frums | Credits | music |
+| Function Phantom | Algebra | electronic / rhythm / flavour / atmos |
 | GEMN | Fatal | J-pop / rap / anime / edgy |
 | Giga | Beyond the Way | electronic / rhythm / vocaloid / edgy / hop |
 | ginkiha | XING | electronic / rhythm / arcade |
@@ -97,6 +99,7 @@
 | manbo-p | Proof Geometric Construction Can Solve All Love Affairs | electronic / J-pop / rock / rhythm / vocaloid / clever |
 | MYUKKE. | NO ONE YES MAN | electronic / rhythm / arcade |
 |         | TTTTTONE | electronic / rhythm / arcade |
+| Noah | Revolt from the Abyss | electronic / rhythm / orchestral / melodramatic |
 | Normal1zer, Broken Nerdz | DESTRUCTION 3,2,1 | electronic / piano / rhythm / hardcore / sound |
 | Owl City | Fireflies | pop / nostalgic / bop |
 | PIKASONIC | Lockdown | electronic / rhythm / kawaii bass / hardcore |
@@ -123,6 +126,7 @@
 |            | X7124 | electronic / rhythm / arcade |
 | Silentroom, Frums | Aegleseeker | electronic / rhythm / quirky / sad |
 | Silentroom, Shun | Rainshower | electronic / rhythm / neurofunk |
+| Silis, Finite Limit | Bounded Quietude | electronic / rhythm / anime |
 | Street | Sakura Fubiki | electronic / rhythm / flavour / chill |
 | S9RYNE | AFTER DAWN | electronic / rhythm / dubstep |
 | Taylor Swift | Antihero | pop / lofi / nostalgic |
@@ -132,7 +136,7 @@
 |        | Cyberfantastia | electronic / rhythm / rich |
 |        | INVERSION | electronic / rhythm / rich |
 |        | Party in PSPACE | electronic / rhythm |
-|        | Synthesis | electronic / rhythm / arcade / rich |
+|        | Synthesis. | electronic / rhythm / arcade / rich |
 | Tomska, Schmoyoho | THE MUFFIN SONG | electronic / quirky / bop |
 | Tokyo Machine | SLASH | electronic / rhythm / sound |
 | Vexento | Banana Breeze | electronic / chill / bop |
