@@ -2,6 +2,8 @@
 
 | artist | track | vibes |
 | :----- | :---- | :---- |
+| Abyss Idols | Eternal Snow | electronic / rhythm / J-pop / girly |
+|             | Rainy Season | electronic / J-pop / anime |
 | Alan Walker | Alone | electronic / house / nostalgic |
 |             | Darkside | electronic / melodramatic / sad |
 |             | Different World | electronic / sad / deep / rich |
@@ -60,9 +62,11 @@
 |          | THE WORLD REVOLVING | electronic / rhythm / hardcore / gothic |
 |          | δ: for the DELTA | electronic / rhythm / flavour |
 |          | ΩΩPARTS | electronic / rhythm / full flavour / hardcore / rich |
+| DarTokki | Speed Up! | electronic / rhythm |
 | DEAF KEV | Invincible | electronic / glitch hop |
 | Distrion, Alex Skrindo | Lightning | electronic / house |
 | Distrion, Electro-Light | Rubik | electronic / house |
+| EBIMAYO | GOODTEK | electronic / rhythm / arcade |
 | Electro-Light | Symbolism | electronic / house / nostalgic |
 |               | Throwback | electronic / house / arcade / upbeat |
 | Elektronomia | United | electronic / house / nostalgic |
@@ -77,7 +81,9 @@
 | Jim Yosef, Anna Yvette | Linked | electronic / house |
 | K-391, Victor Crone | Lonely World | electronic / house / sad |
 | Kry.exe, nm-y | Retribution | electronic / rhythm / hardcore / bass / melodramatic |
+| LandRoot | Crave Wave | electronic / rhythm / chill |
 | Laur | PRAGMATISM -RESSURECTION- | electronic / rhythm / artcore / bass |
+| LeaF | Aleph-Zero | electronic / rhythm / music |
 | LFZ | Popsicle | electronic / house / bop |
 | manbo-p | Proof Geometric Construction Can Solve All Love Affairs | electronic / J-pop / rock / rhythm / vocaloid / clever |
 | MYUKKE. | NO ONE YES MAN | electronic / rhythm / kawaii |
@@ -88,11 +94,13 @@
 |           | New Start | electronic / rhythm / kawaii bass |
 |           | Shizuku | electronic / rhythm / kawaii bass / hardcore |
 |           | Skydive | electronic / rhythm / kawaii bass |
+| PRASTIC DANCEFLOOR | TECHNOPOLIS 2085 | electronic / rhythm / arcade / quirky |
 | Puru | Grimheart | electronic / piano / chill / atmos |
 | QUEEN BEE | Mephisto | J-pop / orchestral / anime / bop / edgy |
 | RADWIMPS | KANATAHARUKA | J-pop / orchestral / melodramatic |
 | RADWIMPS, Toaka | Suzume | J-pop / orchestral / nostalgic |
 | Rick Astley | Never Gonna Give You Up | pop |
+| rN | opia | electronic / rhythm / neurofunk |
 | Sakuzyo | Distorted Fate | electronic / rhythm / artcore / hardcore / quirky / rich |
 | Se-U-Ra | Igallta | electronic / rhythm / arcade |
 | shadow_blink | Crush BETA | electronic / rhythm / arcade |
@@ -126,4 +134,6 @@
 |              | Idols | pop / quirky |
 | YOASOBI | IDOL | J-pop / rap / electronic / anime / edgy |
 |         | Tabun ("Probably") | J-pop / jazz / lofi / chill |
+| Warak | 暗夜苏醒 (REANIMATE) | electronic / rhythm / bop |
+| 影虎。 | Reimei | rhythm / electronic / oriental |
 | Jim Yosef, Electro-Light, Anna Yvette, Deaf Kev, Tobu | Destiny | electronic / house / melodramatic |
