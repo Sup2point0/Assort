@@ -171,6 +171,7 @@
 | SunsetRay | Chronos Collapse - La Campanella | electronic / rhythm / anxiety |
 | SYNTHETIC | Diamond Eyes | electronic / rhythm / chill / bop |
 | t+pazolite | Tempestissimo | electronic / rhythm / piano / artcore |
+|            | You are the Miserable | electronic / rhythm / artcore |
 | Tatsh | Xenolith | electronic / rhythm |
 | Taylor Swift | Anti-Hero | pop / lofi / nostalgic |
 |              | Blank Space | pop |
