@@ -26,6 +26,7 @@
 | Attoclef | The Chariot ~REVIIVAL~ | electronic / rhythm / bop |
 | Au5 | Awaken | electronic / rhythm / bass / dubstep / complextro |
 | Avril Lavigne | Breakaway | pop / nostalgic |
+|               | Complicated | pop / rock |
 |               | sk8ter boi | pop / rock / upbeat |
 |               | When You're Gone | pop / sad |
 | Beach House | Take Care | alt pop / sad |
@@ -68,21 +69,32 @@
 |          | δ: for the DELTA | electronic / rhythm / flavour |
 |          | ΩΩPARTS | electronic / rhythm / full flavour / hardcore / rich |
 | Daison | Luminescent | electronic / rhythm |
+| Daniel Thrasher | The Accidental Office | piano |
 | DarTokki | Speed Up! | electronic / rhythm |
 | DEAF KEV | Invincible | electronic / glitch hop |
 | Distrion, Alex Skrindo | Lightning | electronic / house |
 | Distrion, Electro-Light | Rubik | electronic / house |
 | DJ Raisei | Fractured Angel | electronic / rhythm / sound |
+| Dua Lipa | Levitating | pop |
 | EBIMAYO | GOODTEK | electronic / rhythm / arcade |
 | Electro-Light | Symbolism | electronic / house / nostalgic |
 |               | Throwback | electronic / house / arcade / upbeat |
-| Elektronomia | United | electronic / house / nostalgic |
+| Elektronomia | Breeze | electronic / house / upbeat |
+|              | Butterfly | electronic / house / nostalgic |
+|              | Flashback | electronic / house / sad |
+|              | Ibiza | electronic / house / nostalgic |
+|              | Limitless | electronic / house |
+|              | Spirit | electronic / house / rich |
+|              | United | electronic / house / nostalgic |
 |              | Vitality | electronic / house / nostalgic |
+| Elektronomia, Alex Skrindo | Ascension | electronic / house |
+| Elton John, Dua Lipa | Cold Heart | pop / nostalgic |
 | Eminem | Venom | rap / clever |
 | ETIA., Jenga | On And On!! | electronic / rhythm / J-pop / hardcore / flavour |
 | Ezza Wan | Reverie | electronic / house / sad |
 | Feryquitous, Laur | Arghena | electronic / rhythm / flavour |
 | Fountains of Wayne | Stacy's Mom | pop / upbeat / funny |
+| Friends with Animals | Turning Tide | electronic / nostalgic |
 | Frums | Credits | music |
 | Function Phantom | Algebra | electronic / rhythm / flavour / atmos |
 | GEMN | Fatal | J-pop / rap / anime / edgy |
@@ -97,21 +109,26 @@
 | Jim Yosef, Anna Yvette | Linked | electronic / house |
 | K-391, Victor Crone | Lonely World | electronic / house / sad |
 | K-forest | Break Over | electronic / rhythm / breakcore |
+| KANAN | BRAVING! | J-pop / melodramatic |
+| Kimeru | Calling | J-pop / melodramatic |
 | Kry.exe | SIGMA | electronic / rhythm / arcade |
 | Kry.exe, nm-y | Retribution | electronic / rhythm / hardcore / bass / melodramatic |
 | LandRoot | Crave Wave | electronic / rhythm / chill |
 | Laur | PRAGMATISM -RESSURECTION- | electronic / rhythm / artcore / bass |
 | LeaF | Aleph-Zero | electronic / rhythm / anxiety / music |
+| League of Legends | Warriors | electronic / orchestral / epic |
 | LFZ | Popsicle | electronic / house / bop |
 | Lime | Chronomia | electronic / rhythm / artcore / anime |
 |      | Final Step! | electronic / rhythm |
 | Mafumafu | I wanna be a girl | electronic / J-pop / rhythm / bop |
 | manbo-p | Proof Geometric Construction Can Solve All Love Affairs | electronic / J-pop / rock / rhythm / vocaloid / clever |
 | Maozon | Stasis | electronic / rhythm / artcore |
+| mihimaru | Masterpiece | J-pop / rhythm / quirky |
 | MYUKKE. | FULi AUTO BUSTER | electronic / rhythm / arcade |
 |         | FULi AUTO SHOOTER | electronic / rhythm / arcade |
 |         | NO ONE YES MAN | electronic / rhythm / arcade |
 |         | TTTTTONE | electronic / rhythm / arcade |
+| Naomi Scott | Speechless | musical / orchestral |
 | Noah | Indelible Scar | electronic / rhythm / orchestral |
 |      | Revolt from the Abyss | electronic / rhythm / orchestral / melodramatic |
 | Normal1zer, Broken Nerdz | DESTRUCTION 3,2,1 | electronic / piano / rhythm / hardcore / sound |
