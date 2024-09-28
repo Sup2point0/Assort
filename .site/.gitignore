@@ -2,7 +2,7 @@
 ~content.svx
 
 (rendered)/
-# static/
+static/
 build/
 
 # internal

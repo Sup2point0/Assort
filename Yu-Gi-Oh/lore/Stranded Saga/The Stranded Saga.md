@@ -181,3 +181,16 @@ Disturbance leads to corruption, and what ensues is a chain reaction of corrupti
 Corruption is expected. Corruption can be contained. If minor enough, it can be contained within the xerique. But at the scale of entire xeriques?
 
 The *Xen Constructs*, xeniqive ‘structures’, were created. They enclose corrupted xeriques, preventing the corruption from ever escaping. The worlds inside live on, degenerating further and morphing unrecognisably. To enter a Xen Construct would be beyond nightmarish. As it is, they are a necessary evil holding Xistence together. Not a perfect solution, but the one that works.
+
+
+<!-- #SQUARK only?
+
+<style>
+
+h2 {
+  width: 100%;
+}
+
+</style>
+
+     #SQUARK only. -->
