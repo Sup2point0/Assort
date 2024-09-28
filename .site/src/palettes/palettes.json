@@ -36,9 +36,9 @@
     "ver": "1.0",
     "duality": "light",
     "cols": {
-      "version": "1.6.1",
+      "version": "2.0.0",
       "prot": "oklch(65.12% 0.18 262.62)",
-      "deut": "#ff0090",
+      "deut": "#ff055f",
       "flavour": "oklch(81.45% 0.096 301.79)",
       "hover": "rgba(0 0 0 / 8%)",
       "click": "rgba(0 0 0 / 16%)",
