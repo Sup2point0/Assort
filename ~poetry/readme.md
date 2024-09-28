@@ -1,6 +1,8 @@
 # Poetry
 <!-- #SQUARK live! index!
 | dest = poetry
+| desc = yeah, I write poetry.
+| capt = Index Page
 | duality = light
 | index = poetry
 -->

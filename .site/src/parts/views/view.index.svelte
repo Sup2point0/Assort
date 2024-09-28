@@ -18,7 +18,7 @@ import { page } from "$app/stores";
 
 
 const indexedRoutes = Site.index[$page.data.index[0]].pages;
-const indexedPages = indexedRoutes.map(route => Site.pages[route]);
+const indexedPages = indexedRoutes?.map(route => Site.pages[route]) ?? [];
 let searchOptions = new SearchOptions<PageData>();
 
 </script>
