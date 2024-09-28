@@ -1,9 +1,9 @@
 <script lang="ts">
 
+import Site from "#src/site";
+
 import { base } from "$app/paths";
 import { page } from "$app/stores";
-
-import Site from "#src/site";
 
 
 const index = $page.data.index;

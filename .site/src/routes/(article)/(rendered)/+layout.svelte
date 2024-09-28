@@ -2,7 +2,7 @@
 
 import { page } from "$app/stores";
 
-import IndexView from "#parts/page/view.index.svelte";
+import IndexTable from "#src/parts/page/table.index.svelte";
 import PageFooter from "#parts/page/footer.page.svelte";
 
 </script>
@@ -14,5 +14,5 @@ import PageFooter from "#parts/page/footer.page.svelte";
 
 <slot />
 
-<IndexView />
+<IndexTable />
 <PageFooter />
