@@ -26,6 +26,7 @@
   "page.svelte": "~page.svelte",
   "index.svelte": "~index.svelte",
   "page.js": "~page.js",
+  "index-view": "#parts/page/view.index.svelte",
 
   "site-data": "src/data/site.json",
   "styles": "src/styles",
