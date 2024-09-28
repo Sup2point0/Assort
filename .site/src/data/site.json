@@ -329,6 +329,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "frequerys",
       "title": "Frequerys",
       "head": "Frequerys",
@@ -350,6 +353,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "privacy",
       "title": "Privacy",
       "head": "Privacy",
@@ -371,6 +377,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "synopsis",
       "title": "Synopsis",
       "head": "Synopsis",
@@ -392,6 +401,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "ai",
       "title": "Generative AI",
       "head": "Generative AI",
@@ -415,6 +427,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "phigros/favourites",
       "title": "Favourite Charts",
       "head": "Favourite Charts",
@@ -436,6 +451,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "yugioh/creating-custom-cards",
       "title": "What Makes a Good Custom Archetype?",
       "head": "What Makes a Good Custom Archetype?",
@@ -459,6 +477,10 @@
       "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
+      "flags": [
+        "live",
+        "feat"
+      ],
       "dest": "yugioh/archetypes/darquess",
       "title": "Darquess",
       "head": "Darquess",
@@ -483,6 +505,10 @@
       "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
+      "flags": [
+        "live",
+        "feat"
+      ],
       "dest": "yugioh/archetypes/rubic",
       "title": "Rubic",
       "head": "Rubic",
@@ -507,6 +533,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "yugioh/archetypes/soul",
       "title": "Soul",
       "head": "Soul",
@@ -530,6 +559,10 @@
       "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
+      "flags": [
+        "live",
+        "feat"
+      ],
       "dest": "yugioh/decks/dryconix",
       "title": "Dryconix",
       "head": "Dryconix",
@@ -551,6 +584,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "yugioh/decks/vraptor",
       "title": "*Vraptor*",
       "head": "*Vraptor*",
@@ -572,6 +608,10 @@
       "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
+      "flags": [
+        "live",
+        "feat"
+      ],
       "dest": "yugioh/lore/stranded-saga/the-stranded-saga",
       "title": null,
       "head": null,
@@ -595,6 +635,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "yugioh",
       "title": "*Yu-Gi-Oh!*",
       "head": "*Yu-Gi-Oh!*",
@@ -616,6 +659,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "yugioh/thoughts-on-archetypes",
       "title": "Thoughts on Archetypes",
       "head": "Thoughts on Archetypes",
@@ -639,6 +685,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "yugioh/art",
       "title": "A Selection of Yu-Gi-Oh’s Finest Card Art",
       "head": "A Selection of Yu-Gi-Oh’s Finest Card Art",
@@ -662,6 +711,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "yugioh/favourites",
       "title": "Favourites / Yu-Gi-Oh!",
       "head": "Favourites / Yu-Gi-Oh!",
@@ -687,6 +739,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "yugioh/names",
       "title": "A Selection of Yu-Gi-Oh’s Finest Card Names",
       "head": "A Selection of Yu-Gi-Oh’s Finest Card Names",
@@ -710,6 +765,10 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live",
+        "dev"
+      ],
       "dest": "yugioh/showerthoughts",
       "title": "Yu-Gi-Oh! Showerthoughts",
       "head": "Yu-Gi-Oh! Showerthoughts",
@@ -732,6 +791,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "desmos/dev/functions",
       "title": "Standard Utility Functions",
       "head": "Standard Utility Functions",
@@ -753,6 +815,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "desmos/dev/nomenclature",
       "title": "Nomenclature",
       "head": "Nomenclature",
@@ -774,6 +839,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "desmos/dev",
       "title": "A Primer to Programming in Desmos",
       "head": "A Primer to Programming in Desmos",
@@ -799,6 +867,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "dev/internet-gems",
       "title": "Gems in the Abstruse Internet",
       "head": "Gems in the Abstruse Internet",
@@ -822,6 +893,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "dev/in-perfection/python",
       "title": "Python",
       "head": "In Perfection – Python",
@@ -846,6 +920,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "dev/in-perfection/ruby",
       "title": "Ruby",
       "head": "In Perfection – Ruby",
@@ -870,6 +947,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "dev/python-syntax",
       "title": "What’s up with my Python syntax?",
       "head": "What’s up with my Python syntax?",
@@ -893,6 +973,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "dev/buttons",
       "title": "Buttons: More Complicated Than They Look",
       "head": "Buttons: More Complicated Than They Look",
@@ -915,6 +998,10 @@
       "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
+      "flags": [
+        "live",
+        "feat"
+      ],
       "dest": "dev/decoded",
       "title": "decoded",
       "head": "*decoded*",
@@ -938,6 +1025,10 @@
       "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
+      "flags": [
+        "live",
+        "feat"
+      ],
       "dest": "dev/fix",
       "title": "42 Methods of Flawless Fail-Safe Fixing",
       "head": "42 Methods of Flawless Fail-Safe Fixing",
@@ -962,6 +1053,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "dev/git",
       "title": "Git Gud",
       "head": "`git checkout future-reference`",
@@ -985,6 +1079,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "lists/gratefulness",
       "title": "Things I’m Grateful For",
       "head": "Things I’m Grateful For",
@@ -1006,6 +1103,10 @@
       "isIndex": true,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live",
+        "index"
+      ],
       "dest": "lists",
       "title": "Lists",
       "head": null,
@@ -1027,6 +1128,10 @@
       "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
+      "flags": [
+        "live",
+        "feat"
+      ],
       "dest": "filltext",
       "title": "Filler Text",
       "head": "Filler Text",
@@ -1048,6 +1153,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "self/evodread",
       "title": "Evodread",
       "head": "evodread",
@@ -1069,6 +1177,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "self/interests",
       "title": "Interests Index",
       "head": "Interests Index",
@@ -1092,6 +1203,10 @@
       "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
+      "flags": [
+        "live",
+        "feat"
+      ],
       "dest": "self/slinqui",
       "title": "Slinqui",
       "head": "Slinqui",
@@ -1115,6 +1230,10 @@
       "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
+      "flags": [
+        "live",
+        "feat"
+      ],
       "dest": "assort",
       "title": "Assorted Assortments",
       "head": "Assorted Assortments",
@@ -1137,6 +1256,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "poetry/forsitan",
       "title": "Forsitan",
       "head": "Forsitan",
@@ -1159,6 +1281,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "poetry/shattered-fractured-hearted",
       "title": "Shattered, Fractured, Hearted",
       "head": "Shattered, Fractured, Hearted",
@@ -1182,6 +1307,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "poetry/heartburn",
       "title": "Heartburn",
       "head": "Heartburn",
@@ -1204,6 +1332,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "poetry/heavy-crown",
       "title": "Heavy Crown",
       "head": "Heavy Crown",
@@ -1226,6 +1357,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "poetry/lifeless",
       "title": "Lifeless",
       "head": "Lifeless",
@@ -1248,6 +1382,10 @@
       "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
+      "flags": [
+        "live",
+        "feat"
+      ],
       "dest": "poetry/nameless",
       "title": "Nameless",
       "head": "Nameless",
@@ -1270,6 +1408,10 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": true,
+      "flags": [
+        "live",
+        "woozy"
+      ],
       "dest": "poetry/perfect",
       "title": "Perfect",
       "head": "Perfect",
@@ -1291,6 +1433,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "poetry/quantitative-quantitivity",
       "title": "Quantitative Quantitivity",
       "head": "Quantitative Quantitivity",
@@ -1313,6 +1458,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "poetry/reverie",
       "title": "Reverie",
       "head": "Reverie",
@@ -1335,6 +1483,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "poetry/strive",
       "title": "Strive",
       "head": "Strive",
@@ -1358,6 +1509,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "poetry/teardrop",
       "title": "Teardrop",
       "head": "Teardrop",
@@ -1381,6 +1535,10 @@
       "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
+      "flags": [
+        "live",
+        "feat"
+      ],
       "dest": "poetry/the-programmers-plight",
       "title": "The Programmer’s Plight",
       "head": "The Programmer’s Plight",
@@ -1405,6 +1563,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "poetry/this",
       "title": "This",
       "head": "This",
@@ -1427,6 +1588,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "poetry/time-of-the-times",
       "title": "Time of the Times",
       "head": "Time of the Times",
@@ -1449,6 +1613,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "poetry/titles",
       "title": "NO-t ev:ry tiT|e Has2b3 Ide.NticalIy_G1",
       "head": "NO-t ev:ry tiT|e Has2b3 Ide.NticalIy_G1",
@@ -1472,6 +1639,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "poetry/what-was-this-called-again",
       "title": "What Was This Called Again?",
       "head": "What Was This Called Again?",
@@ -1494,6 +1664,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "poetry/wordless",
       "title": "Wordless",
       "head": "Wordless",
@@ -1516,6 +1689,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "poetry/fracking",
       "title": "fractal fracking",
       "head": "fractal fracking",
@@ -1539,6 +1715,10 @@
       "isIndex": true,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live",
+        "index"
+      ],
       "dest": "poetry",
       "title": "Poetry",
       "head": "Poetry",
@@ -1560,6 +1740,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "poetry/zhe-mo",
       "title": "折磨",
       "head": "折磨",
@@ -1582,6 +1765,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "writing/commit",
       "title": "2 September 2024",
       "head": "2 September 2024",
@@ -1604,6 +1790,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "dev/roots",
       "title": "Roots",
       "head": null,
@@ -1627,6 +1816,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "writing/wriiting",
       "title": "Yet More Writing",
       "head": "Yet More Writing",
@@ -1650,6 +1842,9 @@
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
+      "flags": [
+        "live"
+      ],
       "dest": "writing/writing",
       "title": "writing.",
       "head": "writing.",

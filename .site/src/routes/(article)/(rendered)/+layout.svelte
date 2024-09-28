@@ -1,9 +1,12 @@
 <script>
 
-import { page } from "$app/stores";
-
 import IndexTable from "#src/parts/page/table.index.svelte";
 import PageFooter from "#parts/page/footer.page.svelte";
+
+import { page } from "$app/stores";
+
+
+const special = $page.data.flags.includes("index");
 
 </script>
 
@@ -14,5 +17,8 @@ import PageFooter from "#parts/page/footer.page.svelte";
 
 <slot />
 
-<IndexTable />
+{#if !special}
+  <IndexTable />
+{/if}
+
 <PageFooter />

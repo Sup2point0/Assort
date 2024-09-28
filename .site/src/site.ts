@@ -22,24 +22,29 @@ const Site: SiteData = {
   index:
   {
     dev: {
+      route: data.index.dev.route,
       display: "dev", colour: ["9090f1"],
-      pages: data.index.dev
+      pages: data.index.dev.pages,
     },
     writing: {
+      route: data.index.writing.route,
       display: "writing", colour: ["4090f1"],
-      pages: data.index.writing
+      pages: data.index.writing.pages,
     },
     poetry: {
+      route: data.index.poetry.route,
       display: "poetry", colour: ["f190f1"],
-      pages: data.index.poetry
+      pages: data.index.poetry.pages,
     },
     yugioh: {
+      route: data.index.yugioh.route,
       display: "Yu-Gi-Oh!", colour: ["4090f1"],
-      pages: data.index.yugioh
+      pages: data.index.yugioh.pages,
     },
     "yugioh-archetypes": {
+      route: data.index["yugioh-archetypes"].route,
       display: "Yu-Gi-Oh! Archetypes", colour: ["ff0090"],
-      pages: data.index["yugioh-archetypes"]
+      pages: data.index["yugioh-archetypes"].pages,
     },
   },
 
