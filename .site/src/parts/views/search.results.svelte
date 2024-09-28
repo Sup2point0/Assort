@@ -11,8 +11,6 @@ import type { PageData } from "#modules/types";
 import ContentCard from "#parts/ext/card.content.svelte";
 import Shard from "#parts/ext/tag.shard.svelte";
 
-import { page } from "$app/stores";
-
 export let pages: PageData[];
 export let options: SearchOptions<PageData>;
 

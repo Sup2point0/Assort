@@ -1,5 +1,7 @@
 <!-- #SQUARK live! index!
 | dest = lists
+| title = Lists
+| head = Lists
 | index = lists
 -->
 
