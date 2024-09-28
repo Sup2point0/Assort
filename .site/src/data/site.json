@@ -603,8 +603,8 @@
     },
     "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md": {
       "path": "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md",
-      "slocs": 180,
-      "chars": 10655,
+      "slocs": 183,
+      "chars": 10727,
       "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
@@ -613,7 +613,7 @@
         "feat"
       ],
       "dest": "yugioh/lore/stranded-saga/the-stranded-saga",
-      "title": null,
+      "title": "The Stranded Saga",
       "head": null,
       "capt": null,
       "desc": null,
@@ -1710,8 +1710,8 @@
     },
     "~poetry/readme.md": {
       "path": "~poetry/readme.md",
-      "slocs": 48,
-      "chars": 1242,
+      "slocs": 50,
+      "chars": 1293,
       "isIndex": true,
       "isFeatured": false,
       "isWoozy": false,
@@ -1722,8 +1722,8 @@
       "dest": "poetry",
       "title": "Poetry",
       "head": "Poetry",
-      "capt": null,
-      "desc": null,
+      "capt": "Index Page",
+      "desc": "yeah, I write poetry.",
       "index": [
         "poetry"
       ],
