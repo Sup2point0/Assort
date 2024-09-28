@@ -1,99 +1,144 @@
 {
-  "exported": "2024-09-24",
+  "exported": "2024-09-28",
   "index": {
-    "info": [
-      ".squarkdown/content/frequerys.md",
-      ".squarkdown/content/privacy.md",
-      ".squarkdown/content/synopsis.md",
-      "AI.md"
-    ],
-    "writing": [
-      "AI.md",
-      "desmos/dev/readme.md",
-      "~writing/commit.md",
-      "~writing/roots.md",
-      "~writing/wriiting.md",
-      "~writing/writing.md"
-    ],
-    "phigros": [
-      "Phigros/favourites.md"
-    ],
-    "yugioh": [
-      "Yu-Gi-Oh!/archetypes/Darquess.md",
-      "Yu-Gi-Oh!/archetypes/Rubic.md",
-      "Yu-Gi-Oh!/archetypes/Soul.md"
-    ],
-    "yugioh-archetypes": [
-      "Yu-Gi-Oh!/archetypes/Darquess.md",
-      "Yu-Gi-Oh!/archetypes/Rubic.md",
-      "Yu-Gi-Oh!/archetypes/Soul.md"
-    ],
-    "stranded-saga": [
-      "Yu-Gi-Oh!/lore/Stranded Saga/The Stranded Saga.md"
-    ],
-    "lists": [
-      "Yu-Gi-Oh!/thoughts/favourites.md",
-      "~dev/Gems in the Abstruse Internet.md",
-      "~dev/In Perfection/python.md",
-      "~dev/In Perfection/ruby.md",
-      "~dev/fix.md",
-      "~dev/git.md",
-      "~personal/interests.md",
-      "~personal/slinqui.md"
-    ],
-    "fav": [
-      "Yu-Gi-Oh!/thoughts/favourites.md"
-    ],
-    "desmos": [
-      "desmos/dev/readme.md"
-    ],
-    "dev": [
-      "desmos/dev/readme.md",
-      "~dev/Gems in the Abstruse Internet.md",
-      "~dev/In Perfection/python.md",
-      "~dev/In Perfection/ruby.md",
-      "~dev/buttons.md",
-      "~dev/decoded.md",
-      "~dev/fix.md",
-      "~dev/git.md",
-      "~poetry/The Programmer's Plight.md",
-      "~writing/roots.md"
-    ],
-    "notes": [
-      "~dev/decoded.md"
-    ],
-    "misc": [
-      "~misc/filltext.md"
-    ],
-    "personal": [
-      "~personal/evodread.md",
-      "~personal/interests.md",
-      "~personal/slinqui.md"
-    ],
-    "poetry": [
-      "~poetry/Assort.md",
-      "~poetry/Forsitan.md",
-      "~poetry/Fractured, Shattered, Hearted.md",
-      "~poetry/Heartburn.md",
-      "~poetry/Heavy Crown.md",
-      "~poetry/Lifeless.md",
-      "~poetry/Nameless.md",
-      "~poetry/Quantitative Quantitivity.md",
-      "~poetry/Reverie.md",
-      "~poetry/Strive.md",
-      "~poetry/Teardrop.md",
-      "~poetry/The Programmer's Plight.md",
-      "~poetry/This.md",
-      "~poetry/Time of the Times.md",
-      "~poetry/Titles.md",
-      "~poetry/What Was This Called Again.md",
-      "~poetry/Wordless.md",
-      "~poetry/fractal fracking.md",
-      "~poetry/折磨.md"
-    ],
-    "meta": [
-      "~writing/wriiting.md"
-    ]
+    "info": {
+      "route": null,
+      "pages": [
+        ".squarkdown/content/frequerys.md",
+        ".squarkdown/content/privacy.md",
+        ".squarkdown/content/synopsis.md",
+        "AI.md"
+      ]
+    },
+    "writing": {
+      "route": null,
+      "pages": [
+        "AI.md",
+        "desmos/dev/readme.md",
+        "~writing/commit.md",
+        "~writing/roots.md",
+        "~writing/wriiting.md",
+        "~writing/writing.md"
+      ]
+    },
+    "phigros": {
+      "route": null,
+      "pages": [
+        "Phigros/favourites.md"
+      ]
+    },
+    "yugioh": {
+      "route": null,
+      "pages": [
+        "Yu-Gi-Oh/archetypes/Darquess.md",
+        "Yu-Gi-Oh/archetypes/Rubic.md",
+        "Yu-Gi-Oh/archetypes/Soul.md"
+      ]
+    },
+    "yugioh-archetypes": {
+      "route": null,
+      "pages": [
+        "Yu-Gi-Oh/archetypes/Darquess.md",
+        "Yu-Gi-Oh/archetypes/Rubic.md",
+        "Yu-Gi-Oh/archetypes/Soul.md"
+      ]
+    },
+    "stranded-saga": {
+      "route": null,
+      "pages": [
+        "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md"
+      ]
+    },
+    "lists": {
+      "route": "~lists/readme.md",
+      "pages": [
+        "Yu-Gi-Oh/thoughts/favourites.md",
+        "~dev/Gems in the Abstruse Internet.md",
+        "~dev/In Perfection/python.md",
+        "~dev/In Perfection/ruby.md",
+        "~dev/fix.md",
+        "~dev/git.md",
+        "~personal/interests.md",
+        "~personal/slinqui.md"
+      ]
+    },
+    "fav": {
+      "route": null,
+      "pages": [
+        "Yu-Gi-Oh/thoughts/favourites.md"
+      ]
+    },
+    "desmos": {
+      "route": null,
+      "pages": [
+        "desmos/dev/readme.md"
+      ]
+    },
+    "dev": {
+      "route": null,
+      "pages": [
+        "desmos/dev/readme.md",
+        "~dev/Gems in the Abstruse Internet.md",
+        "~dev/In Perfection/python.md",
+        "~dev/In Perfection/ruby.md",
+        "~dev/buttons.md",
+        "~dev/decoded.md",
+        "~dev/fix.md",
+        "~dev/git.md",
+        "~poetry/The Programmer's Plight.md",
+        "~writing/roots.md"
+      ]
+    },
+    "notes": {
+      "route": null,
+      "pages": [
+        "~dev/decoded.md"
+      ]
+    },
+    "misc": {
+      "route": null,
+      "pages": [
+        "~misc/filltext.md"
+      ]
+    },
+    "personal": {
+      "route": null,
+      "pages": [
+        "~personal/evodread.md",
+        "~personal/interests.md",
+        "~personal/slinqui.md"
+      ]
+    },
+    "poetry": {
+      "route": "~poetry/readme.md",
+      "pages": [
+        "~poetry/Assort.md",
+        "~poetry/Forsitan.md",
+        "~poetry/Fractured, Shattered, Hearted.md",
+        "~poetry/Heartburn.md",
+        "~poetry/Heavy Crown.md",
+        "~poetry/Lifeless.md",
+        "~poetry/Nameless.md",
+        "~poetry/Quantitative Quantitivity.md",
+        "~poetry/Reverie.md",
+        "~poetry/Strive.md",
+        "~poetry/Teardrop.md",
+        "~poetry/The Programmer's Plight.md",
+        "~poetry/This.md",
+        "~poetry/Time of the Times.md",
+        "~poetry/Titles.md",
+        "~poetry/What Was This Called Again.md",
+        "~poetry/Wordless.md",
+        "~poetry/fractal fracking.md",
+        "~poetry/折磨.md"
+      ]
+    },
+    "meta": {
+      "route": null,
+      "pages": [
+        "~writing/wriiting.md"
+      ]
+    }
   },
   "shard": {
     "info": [
@@ -104,9 +149,9 @@
     ],
     "writing": [
       "AI.md",
-      "Yu-Gi-Oh!/Creating Custom Cards.md",
-      "Yu-Gi-Oh!/lore/Stranded Saga/The Stranded Saga.md",
-      "Yu-Gi-Oh!/thoughts/archetypes.md",
+      "Yu-Gi-Oh/Creating Custom Cards.md",
+      "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md",
+      "Yu-Gi-Oh/thoughts/archetypes.md",
       "desmos/dev/readme.md",
       "~dev/Python Syntax.md",
       "~dev/buttons.md",
@@ -119,45 +164,46 @@
       "Phigros/favourites.md"
     ],
     "yugioh": [
-      "Yu-Gi-Oh!/Creating Custom Cards.md",
-      "Yu-Gi-Oh!/archetypes/Darquess.md",
-      "Yu-Gi-Oh!/archetypes/Rubic.md",
-      "Yu-Gi-Oh!/archetypes/Soul.md",
-      "Yu-Gi-Oh!/decks/dryconix.md",
-      "Yu-Gi-Oh!/lore/Stranded Saga/The Stranded Saga.md",
-      "Yu-Gi-Oh!/readme.md",
-      "Yu-Gi-Oh!/thoughts/archetypes.md",
-      "Yu-Gi-Oh!/thoughts/art.md",
-      "Yu-Gi-Oh!/thoughts/favourites.md",
-      "Yu-Gi-Oh!/thoughts/names.md",
-      "Yu-Gi-Oh!/thoughts/showerthoughts.md"
+      "Yu-Gi-Oh/Creating Custom Cards.md",
+      "Yu-Gi-Oh/archetypes/Darquess.md",
+      "Yu-Gi-Oh/archetypes/Rubic.md",
+      "Yu-Gi-Oh/archetypes/Soul.md",
+      "Yu-Gi-Oh/decks/dryconix.md",
+      "Yu-Gi-Oh/decks/vraptor.md",
+      "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md",
+      "Yu-Gi-Oh/readme.md",
+      "Yu-Gi-Oh/thoughts/archetypes.md",
+      "Yu-Gi-Oh/thoughts/art.md",
+      "Yu-Gi-Oh/thoughts/favourites.md",
+      "Yu-Gi-Oh/thoughts/names.md",
+      "Yu-Gi-Oh/thoughts/showerthoughts.md"
     ],
     "opinions": [
-      "Yu-Gi-Oh!/Creating Custom Cards.md",
-      "Yu-Gi-Oh!/thoughts/archetypes.md",
-      "Yu-Gi-Oh!/thoughts/art.md",
-      "Yu-Gi-Oh!/thoughts/names.md"
+      "Yu-Gi-Oh/Creating Custom Cards.md",
+      "Yu-Gi-Oh/thoughts/archetypes.md",
+      "Yu-Gi-Oh/thoughts/art.md",
+      "Yu-Gi-Oh/thoughts/names.md"
     ],
     "yugioh-archetypes": [
-      "Yu-Gi-Oh!/archetypes/Darquess.md",
-      "Yu-Gi-Oh!/archetypes/Rubic.md",
-      "Yu-Gi-Oh!/archetypes/Soul.md"
+      "Yu-Gi-Oh/archetypes/Darquess.md",
+      "Yu-Gi-Oh/archetypes/Rubic.md",
+      "Yu-Gi-Oh/archetypes/Soul.md"
     ],
     "degen": [
-      "Yu-Gi-Oh!/archetypes/Darquess.md"
+      "Yu-Gi-Oh/archetypes/Darquess.md"
     ],
     "maths": [
-      "Yu-Gi-Oh!/archetypes/Rubic.md",
+      "Yu-Gi-Oh/archetypes/Rubic.md",
       "~poetry/fractal fracking.md"
     ],
     "stranded-saga": [
-      "Yu-Gi-Oh!/lore/Stranded Saga/The Stranded Saga.md"
+      "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md"
     ],
     "lists": [
-      "Yu-Gi-Oh!/thoughts/art.md",
-      "Yu-Gi-Oh!/thoughts/favourites.md",
-      "Yu-Gi-Oh!/thoughts/names.md",
-      "Yu-Gi-Oh!/thoughts/showerthoughts.md",
+      "Yu-Gi-Oh/thoughts/art.md",
+      "Yu-Gi-Oh/thoughts/favourites.md",
+      "Yu-Gi-Oh/thoughts/names.md",
+      "Yu-Gi-Oh/thoughts/showerthoughts.md",
       "~dev/Gems in the Abstruse Internet.md",
       "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
@@ -167,10 +213,10 @@
       "~personal/slinqui.md"
     ],
     "fav": [
-      "Yu-Gi-Oh!/thoughts/favourites.md"
+      "Yu-Gi-Oh/thoughts/favourites.md"
     ],
     "opinion": [
-      "Yu-Gi-Oh!/thoughts/favourites.md",
+      "Yu-Gi-Oh/thoughts/favourites.md",
       "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
       "~dev/Python Syntax.md"
@@ -364,8 +410,8 @@
     },
     "Phigros/favourites.md": {
       "path": "Phigros/favourites.md",
-      "slocs": 351,
-      "chars": 8438,
+      "slocs": 466,
+      "chars": 10046,
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
@@ -383,8 +429,8 @@
       "date": null,
       "date_display": null
     },
-    "Yu-Gi-Oh!/Creating Custom Cards.md": {
-      "path": "Yu-Gi-Oh!/Creating Custom Cards.md",
+    "Yu-Gi-Oh/Creating Custom Cards.md": {
+      "path": "Yu-Gi-Oh/Creating Custom Cards.md",
       "slocs": 116,
       "chars": 6545,
       "isIndex": false,
@@ -406,8 +452,8 @@
       "date": "0024-01-01",
       "date_display": "24 / Sep"
     },
-    "Yu-Gi-Oh!/archetypes/Darquess.md": {
-      "path": "Yu-Gi-Oh!/archetypes/Darquess.md",
+    "Yu-Gi-Oh/archetypes/Darquess.md": {
+      "path": "Yu-Gi-Oh/archetypes/Darquess.md",
       "slocs": 562,
       "chars": 46795,
       "isIndex": false,
@@ -430,8 +476,8 @@
       "date": null,
       "date_display": null
     },
-    "Yu-Gi-Oh!/archetypes/Rubic.md": {
-      "path": "Yu-Gi-Oh!/archetypes/Rubic.md",
+    "Yu-Gi-Oh/archetypes/Rubic.md": {
+      "path": "Yu-Gi-Oh/archetypes/Rubic.md",
       "slocs": 856,
       "chars": 66268,
       "isIndex": false,
@@ -454,8 +500,8 @@
       "date": null,
       "date_display": null
     },
-    "Yu-Gi-Oh!/archetypes/Soul.md": {
-      "path": "Yu-Gi-Oh!/archetypes/Soul.md",
+    "Yu-Gi-Oh/archetypes/Soul.md": {
+      "path": "Yu-Gi-Oh/archetypes/Soul.md",
       "slocs": 773,
       "chars": 69633,
       "isIndex": false,
@@ -477,10 +523,10 @@
       "date": null,
       "date_display": null
     },
-    "Yu-Gi-Oh!/decks/dryconix.md": {
-      "path": "Yu-Gi-Oh!/decks/dryconix.md",
-      "slocs": 495,
-      "chars": 38502,
+    "Yu-Gi-Oh/decks/dryconix.md": {
+      "path": "Yu-Gi-Oh/decks/dryconix.md",
+      "slocs": 570,
+      "chars": 40823,
       "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
@@ -498,8 +544,29 @@
       "date": null,
       "date_display": null
     },
-    "Yu-Gi-Oh!/lore/Stranded Saga/The Stranded Saga.md": {
-      "path": "Yu-Gi-Oh!/lore/Stranded Saga/The Stranded Saga.md",
+    "Yu-Gi-Oh/decks/vraptor.md": {
+      "path": "Yu-Gi-Oh/decks/vraptor.md",
+      "slocs": 81,
+      "chars": 1052,
+      "isIndex": false,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "yugioh/decks/vraptor",
+      "title": "*Vraptor*",
+      "head": "*Vraptor*",
+      "capt": null,
+      "desc": "A mostly pure Raidraptor deck, the first modern deck I built.",
+      "index": [
+
+      ],
+      "shard": [
+        "yugioh"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md": {
+      "path": "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md",
       "slocs": 180,
       "chars": 10655,
       "isIndex": false,
@@ -521,8 +588,8 @@
       "date": null,
       "date_display": null
     },
-    "Yu-Gi-Oh!/readme.md": {
-      "path": "Yu-Gi-Oh!/readme.md",
+    "Yu-Gi-Oh/readme.md": {
+      "path": "Yu-Gi-Oh/readme.md",
       "slocs": 103,
       "chars": 9319,
       "isIndex": false,
@@ -542,8 +609,8 @@
       "date": null,
       "date_display": null
     },
-    "Yu-Gi-Oh!/thoughts/archetypes.md": {
-      "path": "Yu-Gi-Oh!/thoughts/archetypes.md",
+    "Yu-Gi-Oh/thoughts/archetypes.md": {
+      "path": "Yu-Gi-Oh/thoughts/archetypes.md",
       "slocs": 174,
       "chars": 9821,
       "isIndex": false,
@@ -565,8 +632,8 @@
       "date": null,
       "date_display": null
     },
-    "Yu-Gi-Oh!/thoughts/art.md": {
-      "path": "Yu-Gi-Oh!/thoughts/art.md",
+    "Yu-Gi-Oh/thoughts/art.md": {
+      "path": "Yu-Gi-Oh/thoughts/art.md",
       "slocs": 678,
       "chars": 15828,
       "isIndex": false,
@@ -588,8 +655,8 @@
       "date": null,
       "date_display": null
     },
-    "Yu-Gi-Oh!/thoughts/favourites.md": {
-      "path": "Yu-Gi-Oh!/thoughts/favourites.md",
+    "Yu-Gi-Oh/thoughts/favourites.md": {
+      "path": "Yu-Gi-Oh/thoughts/favourites.md",
       "slocs": 142,
       "chars": 3628,
       "isIndex": false,
@@ -613,8 +680,8 @@
       "date": null,
       "date_display": null
     },
-    "Yu-Gi-Oh!/thoughts/names.md": {
-      "path": "Yu-Gi-Oh!/thoughts/names.md",
+    "Yu-Gi-Oh/thoughts/names.md": {
+      "path": "Yu-Gi-Oh/thoughts/names.md",
       "slocs": 105,
       "chars": 2607,
       "isIndex": false,
@@ -636,8 +703,8 @@
       "date": null,
       "date_display": null
     },
-    "Yu-Gi-Oh!/thoughts/showerthoughts.md": {
-      "path": "Yu-Gi-Oh!/thoughts/showerthoughts.md",
+    "Yu-Gi-Oh/thoughts/showerthoughts.md": {
+      "path": "Yu-Gi-Oh/thoughts/showerthoughts.md",
       "slocs": 37,
       "chars": 710,
       "isIndex": false,
@@ -928,6 +995,27 @@
       ],
       "shard": [
 
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "~lists/readme.md": {
+      "path": "~lists/readme.md",
+      "slocs": 17,
+      "chars": 367,
+      "isIndex": true,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "lists",
+      "title": null,
+      "head": null,
+      "capt": null,
+      "desc": null,
+      "index": [
+        "lists"
+      ],
+      "shard": [
+        "lists"
       ],
       "date": null,
       "date_display": null
@@ -1443,6 +1531,27 @@
       ],
       "date": "2024-05-28",
       "date_display": "2024 May 28"
+    },
+    "~poetry/readme.md": {
+      "path": "~poetry/readme.md",
+      "slocs": 48,
+      "chars": 1242,
+      "isIndex": true,
+      "isFeatured": false,
+      "isWoozy": false,
+      "dest": "poetry",
+      "title": "Poetry",
+      "head": "Poetry",
+      "capt": null,
+      "desc": null,
+      "index": [
+        "poetry"
+      ],
+      "shard": [
+        "poetry"
+      ],
+      "date": null,
+      "date_display": null
     },
     "~poetry/折磨.md": {
       "path": "~poetry/折磨.md",
