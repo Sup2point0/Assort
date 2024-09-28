@@ -110,6 +110,34 @@
 | Iris | Journey with You | electronic / rhythm / breakdown |
 | Jim Yosef | Link | electronic / house |
 | Jim Yosef, Anna Yvette | Linked | electronic / house |
+| Johannes Bornlöf | Adventure Awaits | orchestral / heroic |
+|                  | Beat to Quarters | orchestral / heroic / war |
+|                  | Checkpoint 76 | orchestral / war |
+|                  | Clash | orchestral / heroic |
+|                  | Eleven Thousand Feet | orchestral / cute / chill |
+|                  | For the Weary | orchestral / folk / mood |
+|                  | Forest Trekking | cute / chill |
+|                  | Globetrotter | cute / chill |
+|                  | Heavy Duty | orchestral / war |
+|                  | Highland Hymn | orchestral / folk |
+|                  | In the Brume | orchestral / war |
+|                  | It's Almost Spring Back Home | orchestral |
+|                  | Knight's Templar | orchestral / traditional |
+|                  | Magnificent March | orchestral / heroic |
+|                  | Maximilian | orchestral / war |
+|                  | Mighty Rush | orchestral / heroic |
+|                  | Monuments | orchestral / film / melodramatic |
+|                  | Mural Legends | orchestral / pirate |
+|                  | Only the Brave | orchestral / heroic / sad |
+|                  | Phoenix Rising | orchestral / epic |
+|                  | Ropes Away | orchestral / pirate |
+|                  | Sea Adventures | orchestral / heroic / nostalgic |
+|                  | The Expedition | orchestral / cute / happy |
+|                  | The Night Attack | orchestral / heroic |
+|                  | To Pirate Cove | orchestral / pirate / happy |
+|                  | Under the Falling Sun | orchestral / dramatic |
+|                  | Up in the Hills | orchestral / nostalgic |
+|                  | Where the Thistle Grows | orchestral / folk / chill |
 | K-391, Victor Crone | Lonely World | electronic / house / sad |
 | K-forest | Break Over | electronic / rhythm / breakcore |
 | KANAN | BRAVING! | J-pop / melodramatic |
