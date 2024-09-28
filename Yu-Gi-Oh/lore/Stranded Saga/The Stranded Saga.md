@@ -1,5 +1,5 @@
 <h1 align="center"> The Stranded Saga </h1>
-<!-- #SQUARK live! feat!
+<!-- #SQUARK live! deep! feat!
 | dest = yugioh/lore/stranded-saga/the-stranded-saga
 | title = The Stranded Saga
 | head = The Stranded Saga

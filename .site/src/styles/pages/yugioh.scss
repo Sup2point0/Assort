@@ -1,5 +1,8 @@
+@use './src/styles/font-faces' as *;
+
+h1,h2,h3,h4,
 p {
-  font-family: "Matrix Book", "Noto Serif", serif;
+  font-family: "Matrix Book", "Noto Serif", "Segoe UI", serif;
 }
 
 img {
