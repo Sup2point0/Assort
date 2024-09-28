@@ -1,8 +1,10 @@
 <script>
 
+import "#styles/font-faces.scss";
 import "#styles/essence.scss";
 
 import { prefs } from "#modules/stores";
+
 
 $: duality = $prefs.cols.duality ?? "light";
 

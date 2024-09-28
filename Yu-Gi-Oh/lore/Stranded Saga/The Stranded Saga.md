@@ -1,6 +1,9 @@
 <h1 align="center"> The Stranded Saga </h1>
 <!-- #SQUARK live! feat!
 | dest = yugioh/lore/stranded-saga/the-stranded-saga
+| title = The Stranded Saga
+| head = The Stranded Saga
+| style = yugioh
 | index = stranded-saga
 | shard = #INDEX / yugioh / writing
 -->
