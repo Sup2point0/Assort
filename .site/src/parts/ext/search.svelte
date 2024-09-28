@@ -28,7 +28,7 @@ const dispatch = createEventDispatcher();
   <button on:click={() => {
     dispatch("search", { query: options.query});
   }}>
-    <span class="material-symbols-outlined">
+    <span class="material-symbols-rounded">
       search
     </span>
   </button>
