@@ -18,8 +18,8 @@ import AssortIcon from "#parts/misc/assort-icon.svelte";
         <AssortIcon size={50} col="#ff0090" />
 
         <Click kind="trit" button={() => $prefs.nav.shown = false}>
-          <span class="material-symbols-outlined">
-            keyboard_double_arrow_left
+          <span class="material-symbols-rounded">
+            keyboard_arrow_left
           </span>
         </Click>
       </section>
@@ -100,8 +100,8 @@ import AssortIcon from "#parts/misc/assort-icon.svelte";
     
   {:else}
     <Click kind="trit" button={() => $prefs.nav.shown = true}>
-      <span class="material-symbols-outlined">
-        keyboard_double_arrow_right
+      <span class="material-symbols-rounded">
+        keyboard_arrow_right
       </span>
     </Click>
 

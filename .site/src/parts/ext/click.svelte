@@ -59,7 +59,7 @@ if (action) {
     <slot />
   </button>
 
-  {/if}
+{/if}
 
 
 <style lang="scss">
@@ -70,6 +70,8 @@ if (action) {
 a, button {
   width: 2rem;
   height: 2rem;
+  margin: 0;
+  padding: 0;
   display: flex;
   justify-content: center;
   align-items: center;

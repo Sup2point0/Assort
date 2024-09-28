@@ -5,17 +5,16 @@ The overlay for configuring user preferences.
 
 <script lang="ts">
 
+import { popups } from "#modules/stores";
+
 import Click from "#parts/ext/click.svelte";
 
 import PrefsNav from "./nav.prefs.svelte";
-
 import NavPrefs from "./views/prefs.nav.svelte";
 import ToolsPrefs from "./views/prefs.tools.svelte";
 import TextPrefs from "./views/prefs.text.svelte";
 import ColsPrefs from "./views/prefs.cols.svelte";
 import A11yPrefs from "./views/prefs.a11y.svelte";
-
-import { popups } from "#modules/stores";
 
 </script>
 
@@ -26,7 +25,9 @@ import { popups } from "#modules/stores";
   <div class="prefs">
     <div style:float="right">
       <Click button={() => $popups.prefs.shown = false}>
-        X
+        <span class="material-symbols-rounded">
+          close
+        </span>
       </Click>
     </div>
 
