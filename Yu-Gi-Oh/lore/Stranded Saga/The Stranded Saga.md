@@ -186,6 +186,101 @@ Among the affinitics were the few Elders who inherited the greatest – and inde
   </tr>
 </table>
 
+<p align="center">〔~✦~〕</p>
+
+The pyrocane had brought Luce to the outskirts of *Arkhelm*, the high land of the affinitics. Before him was a breathtaking city of immense complexity, glimmering vividly in a haze of colour. Moments later, he found himself captured by the high guard, and brought to Xeros for questioning. However, upon seeing the state the poor boy was in, and sensing that he had no ill intentions, Xeros decided to take no action.
+
+With nowhere to go, Luce told Xeros of his journey and begged him for help. Xeros hesitated. He could tell that Luce was not of this world, but it was not in his nature to refuse. He called for Hyakil.
+
+<table>
+  <tr>
+    <th> Hyakil Khratos </th>
+    <td> Chronosynchronic </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Hyakil Khratos, Affine Eye" title="Hyakil Khratos, Affine Eye" height="240px"
+        src="../../../.assets/yugioh/stranded-saga/hyakil-khratos.png">
+    </td>
+    <td> A quiet but respected eye, who often kept his thoughts to himself. His studies allowed him to greatly sharpen his vision of the future, though he was ever careful to divulge what he saw. </td>
+  </tr>
+</table>
+
+“Fly with me,” Xeros said, as he lifted off the ground. Luce stared back, confused, until Xeros tilted his arm at him and he, too, floated up. The two left the building and soared above the city. Xeros told Luce of Arkhelm’s history, and explained how their affine powers came to be.
+
+“Affine flows through everything. It is in everything, you can feel it in everything – but it is not everything.”
+
+Luce had only dreamt of this. “I want to learn...” he exhaled.
+
+This brought a smile to Xeros’s face. “Then stay, and we shall teach you.”
+
+<table>
+  <tr>
+    <td rowspan="2">
+      <img alt="Enyx Tower"
+        src="../../../.assets/yugioh/stranded-saga/enyx-tower.png">
+    </td>
+    <th> Enyx Tower </th>
+  </tr>
+  <tr>
+    <td> A striking landmark in Arkhelm, the Enyx Tower was an isolated structure hanging upside-down from below the High Windfalls. </td>
+  </tr>
+</table>
+
+When they reached the Enyx Tower, Hyakil rushed into the room, wearing a cold expression on his face. He was flanked by Topo Tychis, who though excited to meet the newcomer, was uncharacteristically solemn.
+
+“I sense a dark presence,” Hyakil explained, “and there is every chance it has to do with your arrival, Luce.”
+
+“That could be good, could be bad,” Topo added.
+
+Taken aback, Luce wondered how they knew his name.
+
+“As an eye, I have already seen the futures where Xeros tells me your name. There is no need for introductions.” Hyakil said with a small smile.
+
+Luce could only scratch his head in understanding.
+
+“Xeros, the peace has persisted for too long. While our lives have never been better, I fear our complacency may be our undoing.”
+
+Xeros nodded gravely. “Topo, take him.” He nodded at Luce. “He shall learn our ways with you and Avier. Prepare him for what is to come.”
+
+“What is to come??” Luce repeated.
+
+“We must go.” Hyakil looked at Xeros.
+
+“Very well.”
+
+With that Xeros and Hyakil vanished into air, and Topo led a dazed Luce away to the Arkhelm Academy.
+
+<p align="center">〔~✦~〕</p>
+
+<table>
+  <tr>
+    <th> Avier Accelis </th>
+    <td> Swift </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Avier Accelis, Affine Swift" title="Avier Accelis, Affine Swift" height="240px"
+        src="../../../.assets/yugioh/stranded-saga/avier-accelis.png">
+    </td>
+    <td> Light as the wind, Avier could move faster than the eye could see. </td>
+  </tr>
+</table>
+
+Avier was as much a character as Topo, and together the two were a formidable team. In time, Luce became great friends with them, and happily settled into his new lifestyle. But as much as he tried, he could still not remember where he came from.
+
+One night, Luce was out for a stroll at twilight, when all of a sudden a searing pain rushed down his arm. He looked down to find a dark blob writhing on his arm. “Xlob, what?!” he cried out, trying to shake it off. The dark split, one slither falling to the ground, still twisting unnaturally. It was not Xlob.
+
+The pain worsened. Luce collapsed onto the ground and bit back a scream. In that moment, the blob on the ground was engulfed in a luminous glow, before vanishing into nothing. He raised his arm to find those on his arm gone as well.
+
+As it turned out, Luce had *affinityzen* – unknowingly, he had manifested his affinity. When he told Xeros, the elder’s eyes widened.
+
+“I have not seen this affinity before, yet I have theorised about it.”
+
+Luce rubbed his arm. “So what is it?”
+
+“*Xeriportalis*,” Xeros said. “The ability to travel between worlds.”
+
 
 <h3 align="center"> A Quest Across Time </h3>
 
