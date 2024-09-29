@@ -65,7 +65,7 @@ $tool-pane-padding: 0.5rem;
   margin: 0;
   padding: 0;
   flex-grow: 0;
-  // background-color: var(--col-back);
+  background-color: var(--col-back-deut);
   @include trans;
 }
 

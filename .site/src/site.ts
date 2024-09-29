@@ -53,6 +53,11 @@ const Site: SiteData = {
     sad: {
       display: "sad", colour: "#a9b0b8"
     },
+    yugioh: {
+      route: data.shard.yugioh.route,
+      display: "Yu-Gi-Oh!", colour: ["ff0090"],
+      pages: data.shard.yugioh.pages,
+    },
   },
 };
 export default Site;
