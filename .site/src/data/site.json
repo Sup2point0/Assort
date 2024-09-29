@@ -1,5 +1,5 @@
 {
-  "exported": "2024-09-28",
+  "exported": "2024-09-29",
   "index": {
     "info": {
       "route": null,
@@ -195,6 +195,9 @@
     "maths": [
       "Yu-Gi-Oh/archetypes/Rubic.md",
       "~poetry/fractal fracking.md"
+    ],
+    "long": [
+      "Yu-Gi-Oh/decks/dryconix.md"
     ],
     "stranded-saga": [
       "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md"
@@ -555,13 +558,14 @@
     "Yu-Gi-Oh/decks/dryconix.md": {
       "path": "Yu-Gi-Oh/decks/dryconix.md",
       "slocs": 570,
-      "chars": 40823,
+      "chars": 40835,
       "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
       "flags": [
         "live",
-        "feat"
+        "feat",
+        "dev"
       ],
       "dest": "yugioh/decks/dryconix",
       "title": "Dryconix",
@@ -572,7 +576,8 @@
 
       ],
       "shard": [
-        "yugioh"
+        "yugioh",
+        "long"
       ],
       "date": null,
       "date_display": null
@@ -603,13 +608,14 @@
     },
     "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md": {
       "path": "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md",
-      "slocs": 196,
-      "chars": 10814,
+      "slocs": 383,
+      "chars": 18728,
       "isIndex": false,
       "isFeatured": true,
       "isWoozy": false,
       "flags": [
         "live",
+        "deep",
         "feat"
       ],
       "dest": "yugioh/lore/stranded-saga/the-stranded-saga",
@@ -654,8 +660,8 @@
     },
     "Yu-Gi-Oh/thoughts/archetypes.md": {
       "path": "Yu-Gi-Oh/thoughts/archetypes.md",
-      "slocs": 174,
-      "chars": 9821,
+      "slocs": 212,
+      "chars": 11572,
       "isIndex": false,
       "isFeatured": false,
       "isWoozy": false,
