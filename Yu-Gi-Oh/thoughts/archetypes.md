@@ -64,6 +64,26 @@ I really love the concept of this archetype, and it’s executed so well. The en
 <br>
 
 
+## Floowandereeze
+
+Get out.
+
+Damn, I realise I get pretty emotive when it comes to Yu-Gi-Oh. Floowandereeze is on the same Level as Spright – terribly boring, disgustingly efficient and a right pain in the neck. Its Normal Summons, to be clear, are not normal. They’re special Summons that aren’t called Special Summons. And they can do it during your turn, which plenty of Decks that Special Summon can’t even do!
+
+Empen is a really oppressive and difficult-to-deal-with floodgate, exacerbated by the Deck’s horrific fixation on banishing which makes removal powerless.
+
+
+<br>
+
+
+## Gunkan
+
+One of the archetypes I respect the most from a conceptual perspective. *This* is what Yu-Gi-Oh is about, get in! The flavour packed into this archetype is off the charts, what with DEF representing cost and [Catch-of-the-Day<sup>↗</sup>](https://yugipedia.com/wiki/Gunkan_Suship_Catch-of-the-Day) simulating a frickin restaurant order \*collapsing in laughter*. Unfortunately it can’t do that much as an archetype, at least from what I’ve seen.
+
+
+<br>
+
+
 ## Kashtira
 
 > I will sacrifice my soul to steal yours
@@ -80,6 +100,16 @@ Arise-Heart literally reads like a custom card.[^arise-heart]
 <br>
 
 
+## Knightmare
+
+As someone who doesn’t like generic Extra Deck Monsters, this whole archetype is just a relic from a stupid rule change ([MR5<sup>↗</sup>](~)), and really shouldn’t exist. The fact any deck can easily access Trigger Effect-speed removal with barely any work is ludicrous, and it’s a massive reason for Yu-Gi-Oh’s crazy powercreep.
+
+That being said, *Knightmare* is a great pun, and the concept behind them being corruped *Mekk-Knight*s is wicked.
+
+
+<br>
+
+
 ## Labrynth
 
 > perfectly evil
@@ -89,6 +119,14 @@ I really respect Labrynth’s design. It’s an archetype that achieves exactly 
 It’s brutal, don’t get me wrong, but it takes skill to play well and has loads of creative interaction. A lot of its power definitely manifests through the non-archetypal traps they use, which I think is very understandable for a literal Trap deck. I also like that it’s a very focused archetype, with 2 clear bosses that synergise to control the game.
 
 The handtraps, Quick Effects, and insta-activates are all necessary evils for keeping the Traps up to speed with the modern game. I don’t really like the fact Arianna can both draw you a card and straight up whip out a Level 8 ace tho, I think they stepped the line a bit with that one.
+
+
+<br>
+
+
+## Pendulum Magician
+
+Damn, they really love their combos. It’s pretty cool to watch, but it’s pretty much carried by [Heavymetalfoes Electrumite<sup>↗</sup>](~), and just ends on a bunch of negates, which makes it less fun.
 
 
 <br>
