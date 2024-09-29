@@ -17,7 +17,8 @@ const special = $page.data.flags.includes("index");
 </title>
 
 {#if $page.data.flags.includes("dev")}
-  <Notice title="Under development!"
+  <Notice icon="purple-portal.png"
+    title="Under development!"
     desc="This article is currently unfinished. If I haven’t modified it in a while, I must’ve forgotten about it!"
   />
 {/if}
