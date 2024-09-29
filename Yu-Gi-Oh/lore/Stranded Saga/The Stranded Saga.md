@@ -49,6 +49,87 @@ Many have spoken of the *dreamscape*, a place visited in dreams. In it lie an en
 
 <h3 align="center"> Catastropical Crisis </h3>
 
+Cold. Death-cold, on the tip of his tongue.
+
+Luce floundered up, choking on liquid. His eyes were blurred with tears. He felt heavy, like he had awoken from a long dream. As he ran a hand through his hair to wring out the water, he squinted open his eyes to take in his surroundings.
+
+“Woah, what is this place?”
+
+He could barely hear himself. The sound was muffled, like it was being swallowed as soon as it left his mouth.
+
+“I–“
+
+All he could see was endless grey in all directions. The same, still ocean, with a blanket of mist obscuring the air. He tried moving his leg, and watched the ripples vanish as quickly as they appeared.
+
+Shivers raced down his spine. It was freezing.
+
+<p align="center">〔~✦~〕</p>
+
+The *Catastropical Lands*, as they came to be known, were the remnants of a planet that once faced a world-ending calamity. Torn apart yet not destroyed, a devastated labyrinthine mess was left behind. Mutated creatures, natural disasters and supernatural phenomena ravaged the surface, in precarious equilibrium with the little life that survived. Curiosity drew some to study the chaotic ecosystem; few ever survived to make it out.
+
+<table>
+  <tr>
+    <th> Dryadre </th>
+    <td> WATER </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Catastropical Dryadre" title="Catastropical Dryadre" height="240px"
+        src="../../../.assets/yugioh/stranded-saga/dryadre.png">
+    </td>
+    <td> “Life” is an intriguing concept in the Catastropical Lands. Indeed, many “beings” possessed the ability to move and act in ways that would appear of their own volition; yet everything was unpredictably chaotic, seemingly governed by randomness rather than will. </td>
+  </tr>
+  <tr>
+    <th> Fruity </th>
+    <td> EARTH </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Catastropical Fruity" title="Catastropical Fruity" height="240px"
+        src="../../../.assets/yugioh/stranded-saga/fruity.png">
+    </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <th> Furial </th>
+    <td> FIRE </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Catastropical Furial" title="Catastropical Furial" height="240px"
+        src="../../../.assets/yugioh/stranded-saga/furial.png">
+    </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <th> Howler </th>
+    <td> WIND </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Catastropical Howler" title="Catastropical Howler" height="240px"
+        src="../../../.assets/yugioh/stranded-saga/howler">
+    </td>
+    <td> Wind that cuts, piercing through the landscape itself. Mountains have been torn down by its force. </td>
+  </tr>
+  <tr>
+    <th> Pyrovein </th>
+    <td> FIRE </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Catastropical Pyrovein" title="Catastropical Pyrovein" height="240px"
+        src="../../../.assets/yugioh/stranded-saga/pryovein.png">
+    </td>
+    <td> “Hurricanes” of fire would spontaneously emerge in dry regions of the surface, rapidly scorching everything in the vicinity. The flames seemed to have a mind of their own, curling to devour whatever they could find. </td>
+  </tr>
+</table>
+
+<p align="center">〔~✦~〕</p>
+
+After who knew how long wandering in the water, Luce approached the edge of a deserted island – no, a desert island. In place of the water was sand, a muted sickly pale colour under the faded sky. Trudging through it dragged at his skin.
+
+
 <h3 align="center"> Inadvertent Destiny </h3>
 
 > [!Note]
@@ -105,7 +186,9 @@ Among the affinitics were the few Elders who inherited the greatest – and inde
   </tr>
 </table>
 
+
 <h3 align="center"> A Quest Across Time </h3>
+
 
 <h3 align="center"> Shrouded in the Arcane Lands </h3>
 
@@ -115,11 +198,15 @@ Among the affinitics were the few Elders who inherited the greatest – and inde
 
 <h2 align="center" name="Arc-II"> ARC II – Requital </h2>
 
+
 <h3 align="center"> To Make a Hero </h3>
+
 
 <h3 align="center"> The Truth Amidst the Ever-Shining Stars </h3>
 
+
 <h3 align="center"> Inversion from the Void </h3>
+
 
 <h3 align="center"> Paradox Falls </h3>
 
@@ -131,14 +218,15 @@ From the stellar heart of *Delphoenix Aestivale*, powered by the advanced techno
 
 <h2 align="center" name="Envoi"> ENVOI </h2>
 
+
 <h3 align="center"> Everlasting Tragedy </h3>
-...
 
 
 <br>
 
 
 <h2 align="center" name="Extracts"> EXTRACTS </h2>
+
 
 <h3 align="center"> Wisps of Creation </h3>
 
@@ -148,7 +236,9 @@ He couldn’t remember when she started appearing. It was a while before he star
 
 The closer he tried to approach, the further she appeared. And so, in time, he ceased trying, instead accepting her silent presence. It stayed like that, until she had vanished without him noticing.
 
+
 <h3 align="center"> Lone Wanderer </h3>
+
 In the deep night below a starry sky, a lone girl gazed up with the heavens glistening in her eyes. Her hair danced behind her, ethereal in the starlight. In her hands, she clasped a tiny locket, tinted lilac. It seemed as if she was searching for something. What did she see in that shining darkness?
 
 The cold was bitter and unforgiving, but against her, it held back. She made her way onwards, never tiring, even as the night dragged on endlessly. The grass tickled at her frosted skin, but the feeling didn’t reach her head. It was only as the clouds closed in and she could no longer see the starlight that she finally collapsed on the ground, shivering in silence.
@@ -161,6 +251,7 @@ His name was Souk. Tall, hunch-backed, with skin like the bark of wood and cut l
 
 She never asked why. She never knew much about him at all. But he was there, always watching over her as she grew. Soon she ventured into the depths of Supnautica, and learnt their language, learnt to swim, learnt to breathe. And each day, she would return to their home, where Souk would open the door with his crooked smile, wrapping her in a rustled embrace. He never talked, but his eyes lit up her world.
 
+
 <h3 align="center"> Infinite Possibility </h3>
 
 > *Gwob?*  
@@ -169,6 +260,7 @@ She never asked why. She never knew much about him at all. But he was there, alw
 > *Awgo!*  
 
 Who knew who had conceived the idea? It was, after all, an incredibly obscure thought... a world within a world, confined into the tiny space of a small blob. Somehow, this blob was alive, whatever you might mean by ‘alive’, and it would occasionally swallow something into its infinite depths, or spit something out.
+
 
 <h3 align="center"> The Xen Constructs </h3>
 
