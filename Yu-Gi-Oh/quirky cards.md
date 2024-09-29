@@ -36,8 +36,13 @@ Night’s End Sorcerer
 Anotherverse Gluttonia  
 Night Assailant  
 Varudras, the Final Bringer of the End Times  
+Vouiburial, the Dragon Undertaker  
+Jungle Dweller  
+Pyrite Knight  
 
 Protecting Spirit Loagaeth  
 Gorgon, Empress of the Evil Eyed  
 Adularia of the June Moon  
 Cupid Serve  
+Aiza the Dragoness of Deranged Devotion  
+Krishnerd Witch  
