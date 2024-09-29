@@ -35,6 +35,7 @@ Forbidden Apocrypha
 Night’s End Sorcerer  
 Anotherverse Gluttonia  
 Night Assailant  
+Varudras, the Final Bringer of the End Times  
 
 Protecting Spirit Loagaeth  
 Gorgon, Empress of the Evil Eyed  
