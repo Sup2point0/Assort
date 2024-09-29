@@ -288,7 +288,8 @@ An archetype of DARK Cyborg and Machine Monsters. They represent the primary ant
 <details>
   <summary> <b> Monsters </b> </summary>
 
-Dyvoid Acpocalyptron Tanalysis  
+Dyvoid Apocalyptron Tantalysis  
+The Dyvoid World-Killer  
 
 </details>
 
