@@ -4,6 +4,7 @@
 | title = Python
 | desc = Everything I love and dislove about the Python programming language
 | style = dev
+| duality = dark
 | series = In Perfection
 | index = lists / dev
 | shard = #INDEX / opinion
