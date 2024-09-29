@@ -75,7 +75,7 @@
       ]
     },
     "dev": {
-      "route": null,
+      "route": "~dev/readme.md",
       "pages": [
         "desmos/dev/readme.md",
         "~dev/Gems in the Abstruse Internet.md",
@@ -331,7 +331,6 @@
       "chars": 2091,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -355,7 +354,6 @@
       "chars": 583,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -379,7 +377,6 @@
       "chars": 680,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -403,7 +400,6 @@
       "chars": 3078,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -429,7 +425,6 @@
       "chars": 10046,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -453,7 +448,6 @@
       "chars": 6545,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -479,7 +473,6 @@
       "chars": 46795,
       "isIndex": false,
       "isFeatured": true,
-      "isWoozy": false,
       "flags": [
         "live",
         "feat"
@@ -507,7 +500,6 @@
       "chars": 66268,
       "isIndex": false,
       "isFeatured": true,
-      "isWoozy": false,
       "flags": [
         "live",
         "feat"
@@ -535,7 +527,6 @@
       "chars": 69633,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -561,7 +552,6 @@
       "chars": 40835,
       "isIndex": false,
       "isFeatured": true,
-      "isWoozy": false,
       "flags": [
         "live",
         "feat",
@@ -588,7 +578,6 @@
       "chars": 1052,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -612,7 +601,6 @@
       "chars": 18728,
       "isIndex": false,
       "isFeatured": true,
-      "isWoozy": false,
       "flags": [
         "live",
         "deep",
@@ -620,7 +608,7 @@
       ],
       "dest": "yugioh/lore/stranded-saga/the-stranded-saga",
       "title": "The Stranded Saga",
-      "head": null,
+      "head": "The Stranded Saga",
       "capt": null,
       "desc": null,
       "index": [
@@ -640,7 +628,6 @@
       "chars": 9319,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -664,7 +651,6 @@
       "chars": 11572,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -690,7 +676,6 @@
       "chars": 15828,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -716,13 +701,12 @@
       "chars": 3628,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
       "dest": "yugioh/favourites",
       "title": "Favourites / Yu-Gi-Oh!",
-      "head": "Favourites / Yu-Gi-Oh!",
+      "head": "Yu-Gi-Oh! Favourites",
       "capt": null,
       "desc": "My favourites in Yu-Gi-Oh!",
       "index": [
@@ -744,7 +728,6 @@
       "chars": 2607,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -770,7 +753,6 @@
       "chars": 710,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live",
         "dev"
@@ -796,7 +778,6 @@
       "chars": 2850,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -820,7 +801,6 @@
       "chars": 3066,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -844,7 +824,6 @@
       "chars": 2219,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -872,7 +851,6 @@
       "chars": 4925,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -894,11 +872,10 @@
     },
     "~dev/In Perfection/python.md": {
       "path": "~dev/In Perfection/python.md",
-      "slocs": 108,
-      "chars": 3728,
+      "slocs": 109,
+      "chars": 3745,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -921,11 +898,10 @@
     },
     "~dev/In Perfection/ruby.md": {
       "path": "~dev/In Perfection/ruby.md",
-      "slocs": 111,
-      "chars": 2917,
+      "slocs": 112,
+      "chars": 2934,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -952,7 +928,6 @@
       "chars": 12035,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -978,7 +953,6 @@
       "chars": 2147,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1003,7 +977,6 @@
       "chars": 3157,
       "isIndex": false,
       "isFeatured": true,
-      "isWoozy": false,
       "flags": [
         "live",
         "feat"
@@ -1030,7 +1003,6 @@
       "chars": 3772,
       "isIndex": false,
       "isFeatured": true,
-      "isWoozy": false,
       "flags": [
         "live",
         "feat"
@@ -1058,7 +1030,6 @@
       "chars": 1407,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1078,13 +1049,36 @@
       "date": null,
       "date_display": null
     },
+    "~dev/readme.md": {
+      "path": "~dev/readme.md",
+      "slocs": 14,
+      "chars": 372,
+      "isIndex": true,
+      "isFeatured": false,
+      "flags": [
+        "live",
+        "index"
+      ],
+      "dest": "dev",
+      "title": "Index: dev",
+      "head": "dev",
+      "capt": "Index Page",
+      "desc": "Adventures in software development",
+      "index": [
+        "dev"
+      ],
+      "shard": [
+        "index"
+      ],
+      "date": null,
+      "date_display": null
+    },
     "~lists/grateful.md": {
       "path": "~lists/grateful.md",
       "slocs": 13,
       "chars": 394,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1108,14 +1102,13 @@
       "chars": 398,
       "isIndex": true,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live",
         "index"
       ],
       "dest": "lists",
       "title": "Lists",
-      "head": null,
+      "head": "Lists",
       "capt": null,
       "desc": null,
       "index": [
@@ -1133,7 +1126,6 @@
       "chars": 3923,
       "isIndex": false,
       "isFeatured": true,
-      "isWoozy": false,
       "flags": [
         "live",
         "feat"
@@ -1158,7 +1150,6 @@
       "chars": 1591,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1182,7 +1173,6 @@
       "chars": 2147,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1208,7 +1198,6 @@
       "chars": 2142,
       "isIndex": false,
       "isFeatured": true,
-      "isWoozy": false,
       "flags": [
         "live",
         "feat"
@@ -1235,14 +1224,13 @@
       "chars": 809,
       "isIndex": false,
       "isFeatured": true,
-      "isWoozy": false,
       "flags": [
         "live",
         "feat"
       ],
       "dest": "assort",
       "title": "Assorted Assortments",
-      "head": "Assorted Assortments",
+      "head": "Assort",
       "capt": null,
       "desc": "A poem to Assort.",
       "index": [
@@ -1261,7 +1249,6 @@
       "chars": 614,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1286,7 +1273,6 @@
       "chars": 1596,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1312,7 +1298,6 @@
       "chars": 1271,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1337,7 +1322,6 @@
       "chars": 838,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1362,7 +1346,6 @@
       "chars": 855,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1387,7 +1370,6 @@
       "chars": 798,
       "isIndex": false,
       "isFeatured": true,
-      "isWoozy": false,
       "flags": [
         "live",
         "feat"
@@ -1413,7 +1395,6 @@
       "chars": 644,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": true,
       "flags": [
         "live",
         "woozy"
@@ -1438,7 +1419,6 @@
       "chars": 1328,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1463,7 +1443,6 @@
       "chars": 1072,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1488,7 +1467,6 @@
       "chars": 945,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1514,7 +1492,6 @@
       "chars": 876,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1540,7 +1517,6 @@
       "chars": 4108,
       "isIndex": false,
       "isFeatured": true,
-      "isWoozy": false,
       "flags": [
         "live",
         "feat"
@@ -1568,7 +1544,6 @@
       "chars": 839,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1593,7 +1568,6 @@
       "chars": 786,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1618,7 +1592,6 @@
       "chars": 1318,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1644,7 +1617,6 @@
       "chars": 560,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1669,7 +1641,6 @@
       "chars": 1365,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1694,7 +1665,6 @@
       "chars": 1397,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1720,7 +1690,6 @@
       "chars": 1293,
       "isIndex": true,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live",
         "index"
@@ -1745,7 +1714,6 @@
       "chars": 512,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1770,7 +1738,6 @@
       "chars": 237,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1795,13 +1762,12 @@
       "chars": 1028,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
       "dest": "dev/roots",
       "title": "Roots",
-      "head": null,
+      "head": "",
       "capt": null,
       "desc": null,
       "index": [
@@ -1821,7 +1787,6 @@
       "chars": 3411,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],
@@ -1847,7 +1812,6 @@
       "chars": 4267,
       "isIndex": false,
       "isFeatured": false,
-      "isWoozy": false,
       "flags": [
         "live"
       ],

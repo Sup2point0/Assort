@@ -39,14 +39,14 @@
   --col-click: rgba(0 0 0 / 16%);
   --col-focus: oklch(75.8% 0.1336 243.03);
   --col-select: rgba(205 180 247 / 80%);
-  --col-text: oklch(5% 0 0);
+  --col-text: oklch(1% 0 0);
   --col-text-prot: #204080;
   --col-text-deut: oklch(60% 0.0434 269.73);
   --col-text-trit: oklch(80% 0.0434 269.73);
-  --col-back: oklch(99% 0.002 269.73);
-  --col-back-prot: oklch(95% 0.010 269.73);
-  --col-back-deut: oklch(97% 0.004 269.73);
-  --col-back-trit: oklch(98% 0.003 269.73);
+  --col-back: oklch(97.5% 0.006 269.73);
+  --col-back-prot: ;
+  --col-back-deut: oklch(94.5% 0.009 269.73);
+  --col-back-trit: oklch(96% 0.009 269.73);
   --col-line: oklch(75% 0.006 269.73);
   --col-line-prot: red;
   --col-line-deut: oklch(85% 0.006 269.73);
@@ -54,7 +54,7 @@
   --col-link-visit: #404090;
   --col-link-hover: #ff0090;
   --col-link-click: #9040f1;
-  --col-card: oklch(97% 0.008 269.73);
+  --col-card: oklch(99% 0.003 269.73);
   --col-card-hover: oklch(95% 0.005 269.73);
   --col-card-click: oklch(85% 0.005 269.73);
 }
