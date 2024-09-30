@@ -2,11 +2,12 @@ import Site from "#src/site";
 
 
 export default class Preferences {
-  _version = "2.0";
+  _version = "2.1.0";
   nav = new NavOptions();
   tools = new ToolsOptions();
   text = new TextOptions();
   cols = new ColsOptions();
+  search = new SearchOptions();
   a11y = new A11yOptions();
 };
 
@@ -33,8 +34,13 @@ class ColsOptions {
   "dual-palettes" = true;
 }
 
+class SearchOptions {
+  immediate = true;
+}
+
 class A11yOptions {
   anim = true;
   "underline-links" = false;
   "visited-links" = true;
+  "contrast-buttons" = false;
 }
