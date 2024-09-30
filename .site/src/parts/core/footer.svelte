@@ -16,7 +16,7 @@ import GitHubIcon from "#parts/misc/github-icon.svelte";
 
     <section>
       <p> Creative Commons Attribution-ShareAlike </p>
-      <p> <a target="_blank" href="~">CC BY-SA 4.0</a> </p>
+      <p> <a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a> </p>
     </section>
 
     <section>
@@ -32,13 +32,13 @@ import GitHubIcon from "#parts/misc/github-icon.svelte";
         <p class="sup"> <a target="_blank" href="https://github.com/Sup2point0">Sup#2.0</a> </p>
       </div>
       <a target="_blank" href="https://github.com/Sup2point0">
-        <img alt="Purple Portal" src="{base}/.site/purple-portal.png">
+        <img alt="Purple Portal" src="{base}/purple-portal.png">
       </a>
     </section>
 
     <section>
-      <p> Built with <a id="svelte" target="_blank" href="https://svelte.dev">Svelte</a>/<a id="svelte-kit" target="_blank" href="https://kit.svelte.dev">Kit</a> + <a id="squarkdown" target="_blank" href="https://github.com/Sup2point0/stranger-quarkdown">Squarkdown</a> </p>
-      <p> Hosted on <a target="_blank" href="~">GitHub Pages</a> </p>
+      <p> Built with <a id="svelte" target="_blank" href="https://svelte.dev">Svelte</a>/<a id="svelte-kit" target="_blank" href="https://kit.svelte.dev">Kit</a>, <a id="squarkdown" target="_blank" href="https://github.com/Sup2point0/stranger-quarkdown">Squarkdown</a>, <a id="vividity" target="_blank" href="https://github.com/Sup2point0/vividitu">Vividity</a> </p>
+      <p> Hosted on <a target="_blank" href="https://pages.github.com">GitHub Pages</a> </p>
     </section>
   </div>
 </footer>
@@ -79,6 +79,7 @@ a:not(:hover) {
   &#svelte { color: #ff3e00; }
   &#svelte-kit { color: #8d8d93; }
   &#squarkdown { color: #f190f1; }
+  &#vividity { color: #9060f1; }
 }
 
 
