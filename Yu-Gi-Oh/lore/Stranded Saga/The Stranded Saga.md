@@ -350,7 +350,7 @@ Then did she notice he had given her something on the tip of his finger: a tiny 
 
 Far away, Luce and Xlob were keeping the world – her world – alive.
 
-<p align="center"> *finix.* </p>
+<p align="center"> <em> finix. </em> </p>
 
 
 <br>
