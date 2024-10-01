@@ -37,7 +37,8 @@ import GitHubIcon from "#parts/misc/github-icon.svelte";
     </section>
 
     <section>
-      <p> Built with <a id="svelte" target="_blank" href="https://svelte.dev">Svelte</a>/<a id="svelte-kit" target="_blank" href="https://kit.svelte.dev">Kit</a>, <a id="squarkdown" target="_blank" href="https://github.com/Sup2point0/stranger-quarkdown">Squarkdown</a>, <a id="vividity" target="_blank" href="https://github.com/Sup2point0/vividitu">Vividity</a> </p>
+      <p> Built with <a id="svelte" target="_blank" href="https://svelte.dev">Svelte</a>/<a id="svelte-kit" target="_blank" href="https://kit.svelte.dev">Kit</a> </p>
+      <p> Rendered with <a id="squarkdown" target="_blank" href="https://github.com/Sup2point0/stranger-quarkdown">Squarkdown</a> + <a id="vividity" target="_blank" href="https://github.com/Sup2point0/vividitu">Vividity</a> </p>
       <p> Hosted on <a target="_blank" href="https://pages.github.com">GitHub Pages</a> </p>
     </section>
   </div>
@@ -77,7 +78,7 @@ section {
 
 a:not(:hover) {
   &#svelte { color: #ff3e00; }
-  &#svelte-kit { color: #8d8d93; }
+  &#svelte-kit { color: #2d2d3f; }
   &#squarkdown { color: #f190f1; }
   &#vividity { color: #9060f1; }
 }

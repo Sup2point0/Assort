@@ -1,10 +1,6 @@
 <script>
 
-import { base } from "$app/paths";
-import { onMount } from "svelte";
-
 import { visited } from "#modules/stores";
-import { flavourStatus } from "#modules/utils";
 
 import Footer from "#parts/core/footer.svelte";
 
@@ -15,6 +11,8 @@ import FeaturedCards from "./cards.featured.svelte";
 import ExploreCards from "./cards.explore.svelte";
 import FranchiseCards from "./cards.franchises.svelte";
 import NewlyReleased from "./newly-released.svelte";
+
+import { onMount } from "svelte";
 
 
 onMount(() => {
@@ -116,7 +114,7 @@ section {
 
 p#assort-welcome {
   @include font-hand;
-  font-size: 200%;
+  font-size: 150%;
   color: var(--col-text-trit);
 }
 h1#assort {

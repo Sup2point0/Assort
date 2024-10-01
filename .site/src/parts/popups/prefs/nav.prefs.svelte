@@ -14,6 +14,7 @@ import NavCell from "./parts/nav.prefs.cell.svelte";
     <NavCell text="Tools" set="tools" />
     <NavCell text="Text" set="text" />
     <NavCell text="Colours" set="cols" />
+    <NavCell text="Search" set="search" />
     <NavCell text="Accessibility" set="a11y" />
   </section>
 

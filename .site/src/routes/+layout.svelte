@@ -12,6 +12,7 @@ $: duality = $prefs.cols.duality ?? "light";
 
 
 <div
+  id="content"
   class={$prefs.cols.palettes[duality]}
   style:color-scheme={duality}
 >
@@ -24,5 +25,10 @@ $: duality = $prefs.cols.duality ?? "light";
 <style lang="scss">
 
 @use './src/palettes/colours' as *;
+
+
+#content {
+  background-color: var(--col-back);
+}
 
 </style>
