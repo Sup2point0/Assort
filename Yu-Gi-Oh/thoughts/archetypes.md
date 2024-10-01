@@ -94,6 +94,22 @@ Not really very opinionated on this, moreso [Borrel + Rokket](#Borrel-Rokket). L
 <br>
 
 
+## Exosister
+
+> かわいい power!!
+
+Having built this deck for my sister irl, I do ofc have some more attachment to it. I think the art is lovely, beyond the obvious waifu. You’ll see [Mikailis](art.md#Cute) and [Magnifica](art.md#Pretty) listed in my [favourite card arts](art.md). The naming scheme is also really elegant and unique – maybe it’s just due to how they’re translated, but the way “Mikailis” *kiiinda* incorporates *Elis*, “Asophiel” *Sophia*, “Kaspitell” *Stella*, and “Gibrine” *Irene* – oh my days, I wasn’t even planning on listing them all, but they’re actually all so well-done xD It’s subtle and ingenious, I love it so much.
+
+The Deck feels a little like *Raidraptor* (pre-support-boom) to play, in that it’s rather heavily reliant on having the correct cards in hand, struggles to gather material, and ain’t great at recovery after everything goes wrong. It definitely has some powerful cards and effects, but a lot are somewhat situational, especially the Grave ones which depend on matchup. And while it can fairly reliably set up [Magnifica<sup>↗</sup>](~) turn 1, that combo line is easily choked by any handtrap.
+
+What it lacks in strength, tho, it makes up for in flavour. *Exosister* is an archetype with *focus* – it knows exactly what it wants to do, and goes all out for it. Mikailis and Magnifica are really well-designed Ace Monsters, imho. Magnifica in particular has the perfect level of power, memorable effects and room for skilful plays, and it makes Exosister duels a lot more interesting than they otherwise would be. Unfortunately not utilising the Grave at all makes the deck a little rough to play in today’s world, especially since it easily runs out of resources easily.
+
+Regardless, it’s a fun archetype, can do cool stuff – and was a great deck for introducing my sister to modern Yu-Gi-Oh ;D
+
+
+<br>
+
+
 ## Floowandereeze
 
 Get out.
