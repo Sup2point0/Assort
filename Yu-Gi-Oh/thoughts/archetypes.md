@@ -18,7 +18,7 @@ I remember when I first saw these cards all over *Master Duel* – this was just
 
 [^bliss-feel]: I’m sure you know the feeling – when something is fresh and unfamiliar, and you’re navigating it for the first time. Everyone longs to have it back afterwards.
 
-As I’ve discovered the rest of the archetype though, and most importantly delved into its rich lore (courtesy of [Golden Nova Yu-Gi-Oh<sup>↗</sup>](https://youtube.com/@GoldenNovaYugioh)), I unknowingly came to love it. I still don’t play it, and don’t plan on playing it, but I absolutely adore the characters and art and the magnificent inter-weaving story. Can’t wait for part 2. I kinda hold an uncharged[^uncharged] respect for its efficiency and resiliency (for me at least, it’s one of the quintessential modern decks), and I do like that its combos have become more diverse and non-linear with the addition of all the new cards. Also, Branded is a blast to duel against.[^duel]
+As I’ve discovered the rest of the archetype though, and most importantly delved into its rich lore (courtesy of [GoldenNovaYugioh<sup>↗</sup>](https://youtube.com/@GoldenNovaYugioh)), I unknowingly came to love it. I still don’t play it, and don’t plan on playing it, but I absolutely adore the characters and art and the magnificent inter-weaving story. Can’t wait for part 2. I kinda hold an uncharged[^uncharged] respect for its efficiency and resiliency (for me at least, it’s one of the quintessential modern decks), and I do like that its combos have become more diverse and non-linear with the addition of all the new cards. Also, Branded is a blast to duel against.[^duel]
 
 [^uncharged]: As in, kinda neutral, not really charged with any intense feeling.
 [^branded-duel]: I’m lookin’ at you, Drytron <3
@@ -31,11 +31,11 @@ As I’ve discovered the rest of the archetype though, and most importantly delv
 
 > *Rinku Shokan!*
 
-Love the concept – the names!! The portmanteaus with *-code* are sooo amazing, it’s actually a custom card creator’s dream. And coming up with new parodies like *Endcode Talker* and *Recode Talker* is just so fun.[^code-talker-names] The artstyle as a whole works so well as the Cyberse bosses. [Accesscode’s](~) pretty lit.
+Love the concept – the names!! The portmanteaus with *-code* are sooo amazing, it’s actually a custom card creator’s dream. And coming up with new parodies like *Endcode Talker* and *Recode Talker* is just so fun.[^code-talker-names] The artstyle as a whole works so well as the Cyberse bosses. [Accesscode’s<sup>↗</sup>](https://yugipedia.com/wiki/Accesscode_Talker) pretty lit.
 
 [^code-talker-names]: What’d’y’know, this is an archetype I’ve remade into custom cards before 0.o
 
-It’s a shame that most Code Talkers have pretty useless effects, and while make decent plot tools for the anime, can’t really see much usage irl. I get they existed for symmetry in the Attributes (+ enabling Extra Link), but then [Heatsoul](~) came along and messed it all up =|
+It’s a shame that most Code Talkers have pretty useless effects, and while make decent plot tools for the anime, can’t really see much usage irl. I get they existed for symmetry in the Attributes (+ enabling Extra Link), but then [Heatsoul<sup>↗</sup>](https://yugipedia.com/wiki/Decode_Talker_Heatsoul) came along and messed it all up =|
 
 
 <br>
@@ -45,7 +45,7 @@ It’s a shame that most Code Talkers have pretty useless effects, and while mak
 
 > power polyphony!
 
-Power name, power concept, power archetype. Akaba Reiji with this was so basass in the anime, it was unreal. For sure one of the scariest antagonist decks. Names are a little wack, but the references to corporate positions is brilliant. [Dark Contract](~) is a flawless fit. I haven’t seen it much in actual Yu-Gi-Oh, but it’s definitely a Deck that takes a lot of brain juice.
+Power name, power concept, power archetype. Akaba Reiji with this was so basass in the anime, it was unreal. For sure one of the scariest antagonist decks. Names are a little wack, but the references to corporate positions is brilliant. [Dark Contract<sup>↗</sup>](https://yugipedia.com/wiki/Dark_Contract) is a flawless fit. I haven’t seen it much in actual Yu-Gi-Oh, but it’s definitely a Deck that takes a lot of brain juice.
 
 
 <br>
@@ -126,7 +126,7 @@ The handtraps, Quick Effects, and insta-activates are all necessary evils for ke
 
 ## Pendulum Magician
 
-Damn, they really love their combos. It’s pretty cool to watch, but it’s pretty much carried by [Heavymetalfoes Electrumite<sup>↗</sup>](~), and just ends on a bunch of negates, which makes it less fun.
+Damn, they really love their combos. It’s pretty cool to watch, but it’s pretty much carried by [Heavymetalfoes Electrumite<sup>↗</sup>](https://yugipedia.com/wiki/Heavymetalfoes_Electrumite), and just ends on a bunch of negates, which makes it less fun.
 
 
 <br>
@@ -136,7 +136,7 @@ Damn, they really love their combos. It’s pretty cool to watch, but it’s pre
 
 > engage all targets!
 
-My first experience of this was against a modified parody someone had created on DuelingBook, which is probably not the best first impression. But it’s grown on me for sure, much like [Branded](#Branded). I love the whole gimmick around having 1 ace monster that changes forms, helped by an arsenal of special moves.[^sky-striker-ace] Yes, some of the cards are a little broken ([Engage](~) and [Multirole](~) o.0), but the archetype as a whole works quite nicely – while annoying, it’s still chock-full of weaknesses.
+My first experience of this was against a modified parody someone had created on DuelingBook, which is probably not the best first impression. But it’s grown on me for sure, much like [Branded](#Branded). I love the whole gimmick around having 1 ace monster that changes forms, helped by an arsenal of special moves.[^sky-striker-ace] Yes, some of the cards are a little broken ([Engage<sup>↗</sup>](https://yugipedia.com/wiki/Sky_Striker_Mobilize_-_Engage!) and [Multirole<sup>↗</sup>](https://yugipedia.com/wiki/Sky_Striker_Mecha_Modules_-_Multirole) o.0), but the archetype as a whole works quite nicely – while annoying, it’s still chock-full of weaknesses.
 
 [^sky-striker-ace]: MAXIMUM ANIME!!!
 
@@ -154,7 +154,7 @@ Sky Striker art is definitely some of my favourite in the game,[^sky-striker-art
 
 I’m gonna be real, Spright is a pretty boring and uncreative archetype. Like, love the name and art, but its playstyle is just... ass. Free Special Summons. From the Grave too, and during the opponent’s turn. Search cards. Negates. Boost ATK if needed.
 
-I think the main problem with the archetype is that it doesn’t have any kind of boss monster at all ([Gigantic Spright](~) may be the ace, but it’s nowhere near a boss), which makes it heavily reliant on generic bosses and negates. If you analyse its design it’s just designed purely to win, not even have fun or do cool stuff. Which is one of the things I have the most.
+I think the main problem with the archetype is that it doesn’t have any kind of boss monster at all ([Gigantic Spright<sup>↗</sup>](https://yugipedia.com/wiki/Gigantic_Spright) may be the ace, but it’s nowhere near a boss), which makes it heavily reliant on generic bosses and negates. If you analyse its design it’s just designed purely to win, not even have fun or do cool stuff. Which is one of the things I have the most.
 
 
 <br>
