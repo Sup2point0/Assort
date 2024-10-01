@@ -14,6 +14,7 @@ import NavPrefs from "./views/prefs.nav.svelte";
 import ToolsPrefs from "./views/prefs.tools.svelte";
 import TextPrefs from "./views/prefs.text.svelte";
 import ColsPrefs from "./views/prefs.cols.svelte";
+import SearchPrefs from "./views/prefs.search.svelte";
 import A11yPrefs from "./views/prefs.a11y.svelte";
 
 </script>
@@ -24,7 +25,7 @@ import A11yPrefs from "./views/prefs.a11y.svelte";
 
   <div class="prefs">
     <div style:float="right">
-      <Click button={() => $popups.prefs.shown = false}>
+      <Click kind="trit" button={() => $popups.prefs.shown = false}>
         <span class="material-symbols-rounded">
           close
         </span>
@@ -44,6 +45,9 @@ import A11yPrefs from "./views/prefs.a11y.svelte";
       {:else if $popups.prefs.page == "cols"}
         <h2> Colours </h2>
         <ColsPrefs />
+      {:else if $popups.prefs.page == "search"}
+        <h2> Search </h2>
+        <SearchPrefs />
       {:else if $popups.prefs.page == "a11y"}
         <h2> Accessibility </h2>
         <A11yPrefs />
