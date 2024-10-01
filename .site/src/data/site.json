@@ -1,5 +1,5 @@
 {
-  "exported": "2024-09-29",
+  "exported": "2024-10-01",
   "index": {
     "info": {
       "route": null,
@@ -180,7 +180,6 @@
     ],
     "opinions": [
       "Yu-Gi-Oh/Creating Custom Cards.md",
-      "Yu-Gi-Oh/thoughts/archetypes.md",
       "Yu-Gi-Oh/thoughts/art.md",
       "Yu-Gi-Oh/thoughts/names.md"
     ],
@@ -202,6 +201,13 @@
     "stranded-saga": [
       "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md"
     ],
+    "opinion": [
+      "Yu-Gi-Oh/thoughts/archetypes.md",
+      "Yu-Gi-Oh/thoughts/favourites.md",
+      "~dev/In Perfection/python.md",
+      "~dev/In Perfection/ruby.md",
+      "~dev/Python Syntax.md"
+    ],
     "lists": [
       "Yu-Gi-Oh/thoughts/art.md",
       "Yu-Gi-Oh/thoughts/favourites.md",
@@ -217,12 +223,6 @@
     ],
     "fav": [
       "Yu-Gi-Oh/thoughts/favourites.md"
-    ],
-    "opinion": [
-      "Yu-Gi-Oh/thoughts/favourites.md",
-      "~dev/In Perfection/python.md",
-      "~dev/In Perfection/ruby.md",
-      "~dev/Python Syntax.md"
     ],
     "desmos": [
       "desmos/dev/readme.md"
@@ -328,7 +328,7 @@
     ".squarkdown/content/frequerys.md": {
       "path": ".squarkdown/content/frequerys.md",
       "slocs": 59,
-      "chars": 2091,
+      "chars": 2249,
       "isIndex": false,
       "isFeatured": false,
       "flags": [
@@ -597,8 +597,8 @@
     },
     "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md": {
       "path": "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md",
-      "slocs": 383,
-      "chars": 18728,
+      "slocs": 419,
+      "chars": 20472,
       "isIndex": false,
       "isFeatured": true,
       "flags": [
@@ -647,8 +647,8 @@
     },
     "Yu-Gi-Oh/thoughts/archetypes.md": {
       "path": "Yu-Gi-Oh/thoughts/archetypes.md",
-      "slocs": 212,
-      "chars": 11572,
+      "slocs": 258,
+      "chars": 16960,
       "isIndex": false,
       "isFeatured": false,
       "flags": [
@@ -665,7 +665,7 @@
       "shard": [
         "yugioh",
         "writing",
-        "opinions"
+        "opinion"
       ],
       "date": null,
       "date_display": null
