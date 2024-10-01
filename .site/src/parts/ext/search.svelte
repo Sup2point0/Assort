@@ -47,6 +47,7 @@ search {
   flex-direction: row;
   justify-content: start;
   align-items: center;
+  color: red;
 }
 
 input {
