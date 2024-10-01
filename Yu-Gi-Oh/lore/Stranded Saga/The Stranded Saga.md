@@ -316,6 +316,42 @@ From the stellar heart of *Delphoenix Aestivale*, powered by the advanced techno
 
 <h3 align="center"> Everlasting Tragedy </h3>
 
+Past the gateway, Luce and Seya came before the Primordial Construct. The hole had unravelled, spiralling outwards into a raging maelstrom of colour.
+
+“It’s breaking,” Luce said.
+
+“It would be the end,” Seya added.
+
+Luce didn’t look at her. “We need to close it.”
+
+Seya asked how.
+
+“A new construct is needed,” Luce breathed. In that moment, a single tear traced its way down his cheek.
+
+He turned to Seya, who looked tragically beautiful under the glow of the Primordial Construct.
+
+“Luce?”
+
+He stepped forward, raised his hand, and placed a finger on Seya’s heart. He smiled at her.
+
+“Until we meet again,” he whispered, and pushed her away.
+
+Then, he stepped back, closing his eyes with a soft smile, and fell back. Seya could only watch in silence as Luce dissolved before her eyes, swirling into a dark storm of essence that was swallowed by the Primordial Construct. With a blinding spark of light, he vanished, leaving not a trace that anything had happened.
+
+<p align="center">〔~✦~〕</p>
+
+Luce split through the Primordial Construct to become the *Aeternity Construct*, a Xen Construct that would keep the fabric of Xistence intact.
+
+<p align="center">〔~✦~〕</p>
+
+Despair turned to sadness, and sadness to cold acceptance. After a while, she picked herself up, and turned away from the Primordial Construct. One day she may return, but now he was a gatekeeper to destruction, holding the chaos at bay.
+
+Then did she notice he had given her something on the tip of his finger: a tiny speck of stardust-surfaced fluid. A remnant of Xlob. Though it could not move or say anything, she could feel a gentle throbbing from inside.
+
+Far away, Luce and Xlob were keeping the world – her world – alive.
+
+<p align="center"> *finix.* </p>
+
 
 <br>
 
