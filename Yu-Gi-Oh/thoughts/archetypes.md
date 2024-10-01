@@ -78,7 +78,7 @@ Then we have to talk about the gimmick, which I really, really enjoy. I think th
 
 [^dogmatika-receive]: Unless you’re [Dogmatika Drytron](../decks/dryconid.md)!!
 
-[Alba Zoa<sup>↗</sup>](~) was THE MOST *insane* boss monster I had ever anticipated. When I first saw it appear in a [GoldenNovaYugioh<sup>↗</sup>](~) [Albaz lore video<sup>↗</sup>](~), I– well, let’s not get too explicit. But DAMN. That art is out of this world. The effect is *ridiculous*, ridiculously cool. We could not have gotten a more fitting final boss for the Dogmatika archetype. Tho I still think “White Zoa of Dogmatika” should’ve been kept as the name :V
+[Alba Zoa<sup>↗</sup>](https://yugipedia.com/wiki/Dogmatika_Alba_Zoa) was THE MOST *insane* boss monster I had ever anticipated. When I first saw it appear in a [GoldenNovaYugioh<sup>↗</sup>](~) [Albaz lore video<sup>↗</sup>](~), I– well, let’s not get too explicit. But DAMN. That art is out of this world. The effect is *ridiculous*, ridiculously cool. We could not have gotten a more fitting final boss for the Dogmatika archetype. Tho I still think “White Zoa of Dogmatika” should’ve been kept as the name :V
 
 
 <br>
@@ -88,7 +88,7 @@ Then we have to talk about the gimmick, which I really, really enjoy. I think th
 
 > wombo combo!
 
-Not really very opinionated on this, moreso [Borrel + Rokket](#Borrel-Rokket). Like [Pendulum Magician](#Pendulum-Magician), its combos are really something, especially at full power when the banlist allows for it. Sometimes it even feels like their moves lose advantage, like when destroying monsters on field simply to recover a [Rokket Synchron<sup>↗</sup>](~)?!
+Not really very opinionated on this, moreso [Borrel + Rokket](#Borrel-Rokket). Like [Pendulum Magician](#Pendulum-Magician), its combos are really something, especially at full power when the banlist allows for it. Sometimes it even feels like their moves lose advantage, like when destroying monsters on field simply to recover a [Rokket Synchron<sup>↗</sup>](https://yugipedia.com/wiki/Rokket_Tracer)?!
 
 
 <br>
@@ -100,7 +100,7 @@ Not really very opinionated on this, moreso [Borrel + Rokket](#Borrel-Rokket). L
 
 Having built this deck for my sister irl, I do ofc have some more attachment to it. I think the art is lovely, beyond the obvious waifu. You’ll see [Mikailis](art.md#Cute) and [Magnifica](art.md#Pretty) listed in my [favourite card arts](art.md). The naming scheme is also really elegant and unique – maybe it’s just due to how they’re translated, but the way “Mikailis” *kiiinda* incorporates *Elis*, “Asophiel” *Sophia*, “Kaspitell” *Stella*, and “Gibrine” *Irene* – oh my days, I wasn’t even planning on listing them all, but they’re actually all so well-done xD It’s subtle and ingenious, I love it so much.
 
-The Deck feels a little like *Raidraptor* (pre-support-boom) to play, in that it’s rather heavily reliant on having the correct cards in hand, struggles to gather material, and ain’t great at recovery after everything goes wrong. It definitely has some powerful cards and effects, but a lot are somewhat situational, especially the Grave ones which depend on matchup. And while it can fairly reliably set up [Magnifica<sup>↗</sup>](~) turn 1, that combo line is easily choked by any handtrap.
+The Deck feels a little like *Raidraptor* (pre-support-boom) to play, in that it’s rather heavily reliant on having the correct cards in hand, struggles to gather material, and ain’t great at recovery after everything goes wrong. It definitely has some powerful cards and effects, but a lot are somewhat situational, especially the Grave ones which depend on matchup. And while it can fairly reliably set up [Magnifica<sup>↗</sup>](https://yugipedia.com/wiki/Exosisters_Magnifica) turn 1, that combo line is easily choked by any handtrap.
 
 What it lacks in strength, tho, it makes up for in flavour. *Exosister* is an archetype with *focus* – it knows exactly what it wants to do, and goes all out for it. Mikailis and Magnifica are really well-designed Ace Monsters, imho. Magnifica in particular has the perfect level of power, memorable effects and room for skilful plays, and it makes Exosister duels a lot more interesting than they otherwise would be. Unfortunately not utilising the Grave at all makes the deck a little rough to play in today’s world, especially since it easily runs out of resources easily.
 
@@ -138,7 +138,7 @@ Never have I ever hated an archetype as much as this, I don’t think. Purely fr
 
 The 3 Main Deck Monsters can all easily Special Summon themselves (materials – check), search a card (consistency – check), and act as interaction (disruption – check). None of those individual effects are problematic, but all 3 on a single card? Across 3 monsters!?
 
-Arise-Heart literally reads like a custom card.[^arise-heart]
+[Arise-Heart<sup>↗</sup>](https://yugipedia.com/wiki/Kashtira_Arise-Heart) literally reads like a custom card.[^arise-heart]
 
 [^arise-heart]: Can confirm.
 
@@ -148,7 +148,7 @@ Arise-Heart literally reads like a custom card.[^arise-heart]
 
 ## Knightmare
 
-As someone who doesn’t like generic Extra Deck Monsters, this whole archetype is just a relic from a stupid rule change ([MR5<sup>↗</sup>](~)), and really shouldn’t exist. The fact any deck can easily access Trigger Effect-speed removal with barely any work is ludicrous, and it’s a massive reason for Yu-Gi-Oh’s crazy powercreep.
+As someone who doesn’t like generic Extra Deck Monsters, this whole archetype is just a relic from a stupid rule change ([MR5<sup>↗</sup>](https://yugipedia.com/wiki/Master_Rule)), and really shouldn’t exist. The fact any deck can easily access Trigger Effect-speed removal with barely any work is ludicrous, and it’s a massive reason for Yu-Gi-Oh’s crazy powercreep.
 
 That being said, *Knightmare* is a great pun, and the concept behind them being corruped *Mekk-Knight*s is wicked.
 
@@ -210,11 +210,11 @@ I think the main problem with the archetype is that it doesn’t have any kind o
 
 > powercreep the wyrms
 
-I’ve always disliked how nastily efficient the engine is – from the 1 card Synchro Summons to [Mo Ye](~) replacing itself – it just feels so heartless. And while I get making it xenophobic would weaken the archetype substantially, generic Synchros[^swordsoul-generic] are just so scummy. istx, if I see Mo Ye - Chixiao - Baronne 1 more time...
+I’ve always disliked how nastily efficient the engine is – from the 1 card Synchro Summons to [Mo Ye<sup>↗</sup>](https://yugipedia.com/wiki/Swordsoul_of_Mo_Ye) replacing itself – it just feels so heartless. And while I get making it xenophobic would weaken the archetype substantially, generic Synchros[^swordsoul-generic] are just so scummy. istx, if I see Mo Ye - Chixiao - Baronne 1 more time...
 
 All that being said, Chengying and Qixing Longyuan are pretty sick ace monsters. They have a perfect ‘boss’ vibe to them, and are pretty creative effects-wise in a rather lowkey way – nothing extraordinary, but not just a negate. Their art is also kinda fire, as are the Chinese names xD. Oh yeah, and it’s part of the Branded storyline, which makes it instantly cooler.
 
-[^swordsoul-generic]: It is *always* [Baronne de Fleur](~).
+[^swordsoul-generic]: It is *always* [Baronne de Fleur<sup>↗</sup>](https://yugipedia.com/wiki/Baronne_de_Fleur).
 
 
 <br>
@@ -236,7 +236,7 @@ With that out the way... hot take here, I actually really like the way the arche
 
 > what in the world?!
 
-I’m gonna use this to cover the hybrid decks built from [Visas](~),  [Scare-Claw](~), [Mannadium](~), and occasionally [Kashtira](~), which are all part of the [Visas Starfrost](~) storyline.
+I’m gonna use this to cover the hybrid decks built from [Visas<sup>↗</sup>](https://yugipedia.com/wiki/Visas),  [Scareclaw<sup>↗</sup>](https://yugipedia.com/wiki/Scareclaw), [Mannadium<sup>↗</sup>](https://yugipedia.com/wiki/Mannadium), and occasionally [Kashtira<sup>↗</sup>](https://yugipedia.com/wiki/Kashtira), which are all part of the [Visas Starfrost<sup>↗</sup>](https://yugipedia.com/wiki/The_Valuable_Book_EX_3_card_storylines#No._02:_The_New_Broken_Worlds) storyline.
 
 I'm not a fan of the ridiculous searching from a card design point of view, but holy hell is this mesmerising to watch. It's insane how it just keeps on going, churning out monster after monster. As a custom card creator one of the hardest things you could ever do is design 2 archetypes that synergise almost perfectly while still retaining their own gimmicks and character – which makes it so unbelievably cool how Visas manages to meld 3 archetypes (or more, depending how you count it!). I mean come on, they’re running 4 Field Spells for xenique’s sake! What is this!?
 
@@ -248,11 +248,11 @@ I'm not a fan of the ridiculous searching from a card design point of view, but 
 
 > learn from our failures
 
-Man, I was so excited when I find out [Drytron](#Drytron) had sister archetype. Even more so when it broke its Summoning mechanic too, by using [Dark Synchro Summoning<sup>↗</sup>](~) to Synchro Summon a Level 1 Monster!
+Man, I was so excited when I find out [Drytron](#Drytron) had sister archetype. Even more so when it broke its Summoning mechanic too, by using [Dark Synchro Summoning<sup>↗</sup>](https://yugipedia.com/wiki/Dark_Synchro_Summon) to Synchro Summon a Level 1 Monster!
 
 But yeah, this archetype just doesn’t work, does it? Mediocre boss monsters, a crappy engine, and effects that don’t do its art justice. Its critical weaknesses is that it loses hand advantage so damn quickly – if it just did the same thing as Drytron and allowed Special Summoning from the Grave, or had more effects to recycle Monsters from the Grave, it’d be *that* much better.
 
-I wanted to try using the crossover with Drytron, but yeah, [Ultimate Flagship Ursatron<sup>↗</sup>](~) does literally nothing. Such a shame because it has a wicked name. Come on, Konami!
+I wanted to try using the crossover with Drytron, but yeah, [Ultimate Flagship Ursatron<sup>↗</sup>](https://yugipedia.com/wiki/Ultimate_Flagship_Ursatron) does literally nothing. Such a shame because it has a wicked name. Come on, Konami!
 
 
 <br>
