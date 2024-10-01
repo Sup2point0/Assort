@@ -2,7 +2,7 @@
 <!-- #SQUARK live!
 | dest = yugioh/thoughts-on-archetypes
 | style = yugioh
-| shard = yugioh / writing / opinions
+| shard = yugioh / writing / opinion
 | clean = angles
 -->
 
@@ -59,6 +59,36 @@ I really love the concept of this archetype, and it’s executed so well. The en
 
 [^dinomorphia-small]: 2 Main Deck Monsters is lowkey mad.
 [^dinomorphia-anime]: Anime decks are MY FAVOURITE!!
+
+
+<br>
+
+
+## Dogmatika
+
+> beautiful sacrilege~
+
+The highest form of praise (from me) is remaking an archetype.[^remake-archetype] It means I love the archetype so much, and I’m so inspired by it, that I want to make my own version or parody. In the case of Dogmatika that’s [*Dragmatika*](../archetypes/dragmatika.md), which fixes (imho) a lot of the issues (including the name :P) and weaknesses of the archetype while toning down the ridiculous searching.
+
+[^remake-archetype]: I’m joking, but I’m also not joking.
+
+But talking about Dogmatika here, damn, what an archetype. Brimming with flavour, you can literally feel the lore churning within. We’ll start with the art, which is truly some of the most incredible in all of Yu-Gi-Oh. The Ritual Monsters are all feasts for the eyes, and many of the Main Deck Monsters are stunningly elegant. Art is often what draws me to archetypes, and it made me fall in love with Dogmatika.
+
+Then we have to talk about the gimmick, which I really, really enjoy. I think this is just a me thing where I vibe with anything unconventional or against the meta – and rejecting the Extra Deck is perfectly that. Sure, being on the receiving end isn’t that fun,[^dogmatika-receive] but you gotta hand it to them, this is an awesomely funny mechanic. My only complaint is that this becomes sort of the only thing the Deck does, to the point where it sucks at a lot of other stuff – like actually putting up a defence.
+
+[^dogmatika-receive]: Unless you’re [Dogmatika Drytron](../decks/dryconid.md)!!
+
+[Alba Zoa<sup>↗</sup>](~) was THE MOST *insane* boss monster I had ever anticipated. When I first saw it appear in a [GoldenNovaYugioh<sup>↗</sup>](~) [Albaz lore video<sup>↗</sup>](~), I– well, let’s not get too explicit. But DAMN. That art is out of this world. The effect is *ridiculous*, ridiculously cool. We could not have gotten a more fitting final boss for the Dogmatika archetype. Tho I still think “White Zoa of Dogmatika” should’ve been kept as the name :V
+
+
+<br>
+
+
+## Dragon Link
+
+> wombo combo!
+
+Not really very opinionated on this, moreso [Borrel + Rokket](#Borrel-Rokket). Like [Pendulum Magician](#Pendulum-Magician), its combos are really something, especially at full power when the banlist allows for it. Sometimes it even feels like their moves lose advantage, like when destroying monsters on field simply to recover a [Rokket Synchron<sup>↗</sup>](~)?!
 
 
 <br>
