@@ -1,11 +1,13 @@
 <h1 align="center"> The Stranded Saga </h1>
-<!-- #SQUARK live! deep! feat!
+<!-- #SQUARK live! deep! feat! dev!
 | dest = yugioh/lore/stranded-saga/the-stranded-saga
 | title = The Stranded Saga
+| desc = An epic saga of dreams and tragedy
 | head = The Stranded Saga
+| capt = Yu-Gi-Oh! Storyline
 | style = yugioh
 | index = stranded-saga
-| shard = #INDEX / yugioh / writing
+| shard = #INDEX / yugioh / writing / long
 -->
 
 An abridged localisation of *The Stranded Saga*, a recovered transcription of the original chronicle as told by Veya. The names, genders and speech of the involved beings and characters have been normalised to those standard on this Earth, so as to avoid unnecessarily disrupting understanding.
@@ -128,6 +130,26 @@ The *Catastropical Lands*, as they came to be known, were the remnants of a plan
 <p align="center">〔~✦~〕</p>
 
 After who knew how long wandering in the water, Luce approached the edge of a deserted island – no, a desert island. In place of the water was sand, a muted sickly pale colour under the faded sky. Trudging through it dragged at his skin.
+
+<p align="center">〔~✦~〕</p>
+
+Hacking his way through, Luce suddenly froze. He had come to a small clearing. A purple-tinted lake lay before him, with barely visible tendrils of ash-coloured mist drifting above. Thin, burnt roots twisted their way out of the water into crumpled trees at the edges of the lake. It looked almost spider-like, with long hunched branches that obscured the sky.
+
+Luce‘s foot stepped into the water, and in that moment, the tree started moving. The movement shook Luce to the floor. He gazed up as the canopy collapsed, melding into a humanoid face that was staring down at him. A single, pointed branch stretched out from beside him and edged closer to his face.
+
+This really wasn’t a nice place, he thought.
+
+But then the branch retracted, and the face appeared to look away. Luce followed its gaze to find it looking at something that had risen out of the water. It had a goopy, glinting surface, almost like melted glass, and was blob-shaped. A horrific groan resonated through the ground, and Luce looked back to see the branches bending backwards. In an instant the face had vanished, the water became still, and the trees looked as they did before.
+
+*splosh*. The blob came bounding towards Luce. He backed up nervously. It landed on a rock, and paused. Then 2 dark spots popped into existence. Eyes!
+
+“Hey...” Luce began.
+
+The dots tilted. He could see the whole blob jiggling as it moved.
+
+“I don’t know what you are, but I think you might’ve just saved me from whatever that was.”
+
+Luce put out his hand. To his surprise, the blob rolled onto it without hesitation, and stayed firmly in place. As he got himself off the ground, the blob felt weightless in his hand. It was the strangest sensation, like he wasn’t even holding anything at all.
 
 
 <h3 align="center"> Inadvertent Destiny </h3>
