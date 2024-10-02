@@ -27,6 +27,16 @@ As I’ve discovered the rest of the archetype though, and most importantly delv
 <br>
 
 
+## Bystial
+
+Personally, I don’t think this archetype should exist, like [Knightmare](#Knightmare) – then again, I am a little impartial since I play LIGHT and DARK decks... but in all seriousness, I don’t find their power healthy for the game. They’re a bit too much for handtraps, especially since they all have bonus effects on top of it all. [Magnamhut<sup>↗</sup>](https://yugipedia.com/wiki/Bystial_Magnamhut) being able to search itself for free fodder or reusage feels as broken as [Kashtira Fenrir<sup>↗</sup>](~) searching itself.
+
+[Lubellion<sup>↗</sup>](~) is pretty powerful, but I think having one card like that is fine – it’d just be nice if the whole archetype wasn’t that jacked too. [Dis Pater<sup>↗</sup>](~) is quite a unique boss monster. Naturally, as a custom card creator I really appreciate when they make bosses more interesting than just protection and negates.
+
+
+<br>
+
+
 ## Code Talker
 
 > *Rinku Shokan!*
@@ -178,6 +188,18 @@ Damn, they really love their combos. It’s pretty cool to watch, but it’s pre
 <br>
 
 
+## P.U.N.K.
+
+> full combo!
+
+Really like the aesthetic. It’s a super quirky archetype with loads of flavour, but isn’t broken in any way – in fact, reading some of the effects, I used to wonder how these cards were even playable. After using it in my [Centur-Ion](../decks/sentrion.md) deck tho, I’ve come to appreciate how useful just having a stray Lv3 Tuner on board can be.
+
+[Amazing Dragon<sup>↗</sup>](~) is actually a really cool ace, and it’s a bit of a shame people don’t play it more. Got better things to do with P.U.N.K., I suppose TvT
+
+
+<br>
+
+
 ## Sky Striker
 
 > engage all targets!
@@ -253,6 +275,22 @@ Man, I was so excited when I find out [Drytron](#Drytron) had sister archetype. 
 But yeah, this archetype just doesn’t work, does it? Mediocre boss monsters, a crappy engine, and effects that don’t do its art justice. Its critical weaknesses is that it loses hand advantage so damn quickly – if it just did the same thing as Drytron and allowed Special Summoning from the Grave, or had more effects to recycle Monsters from the Grave, it’d be *that* much better.
 
 I wanted to try using the crossover with Drytron, but yeah, [Ultimate Flagship Ursatron<sup>↗</sup>](https://yugipedia.com/wiki/Ultimate_Flagship_Ursatron) does literally nothing. Such a shame because it has a wicked name. Come on, Konami!
+
+
+<br>
+
+
+## [Valyantz](https://yugipedia.com/wiki/Vaylantz)
+
+> hold on, what game were we playing again?
+
+*Vaylantz*. Right, not “Valyzantz”. `/'veilants/`.
+
+I was so bewildered when I first faced this archetype, watching helplessly as my Draconids got thrown into the backrow.[^vaylantz-encounter] What strange sorcery was unfurling before my eyes?? From the Field Spells alone, I knew stuff was getting crazy.
+
+[^vaylantz-encounter]: I think I was bricking as well, so I had a basically empty hand and field 💀
+
+Crazy, crazy archetype. Top creativity. It’s not executed in the most perfect way, but it’s awesome either way. I love the little nods to other board games, like how the monsters spawn from the Pendulum Zones.
 
 
 <br>
