@@ -11,7 +11,7 @@ const Site: SiteData = {
   pages: data.pages,
   
   featured: Object.values(data.pages).filter(
-    page => page.isFeatured
+    page => page.flags.includes("feat")
   ),
 
   palettes: palettes.default,

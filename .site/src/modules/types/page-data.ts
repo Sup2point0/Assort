@@ -1,8 +1,7 @@
 export default interface PageData {
   path: string;
+  last_deploy: string;
   isIndex: boolean;
-  isFeatured: boolean;
-  isWoozy: boolean;
 
   dest: string;
   title?: string | null;
