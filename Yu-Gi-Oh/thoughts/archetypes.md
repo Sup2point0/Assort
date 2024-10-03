@@ -1,6 +1,7 @@
 # Thoughts on Archetypes
 <!-- #SQUARK live!
 | dest = yugioh/thoughts-on-archetypes
+| desc = My thoughts on all the Yu-Gi-Oh archetypes I’ve watched, researched, or played against
 | style = yugioh
 | shard = yugioh / writing / opinion
 | clean = angles
