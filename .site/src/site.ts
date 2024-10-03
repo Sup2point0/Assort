@@ -1,11 +1,25 @@
 /// Site site data and config for global access
 
 import type { PageData } from "./modules/types";
-import Data from "./parts/popups/prefs/parts/data.export.svelte";
 
 
 const site_data = await import("./data/site.json");
-const palettes = await import("./palettes/palettes.json");
+const palettes_data = await import("./palettes/palettes.json");
+
+
+interface SiteData {
+  pages: PagesData;
+  featured: PageData[];
+  palettes: object[];
+  font: string;
+  fonts: string[];
+  index: object;
+  shard: object;
+}
+
+interface PagesData {
+  [index: string]: PageData;
+}
 
 
 const Site: SiteData = {
@@ -15,32 +29,65 @@ const Site: SiteData = {
     page => page.flags.includes("feat")
   ),
 
-  palettes: palettes.default,
+  palettes: palettes_data.default,
 
   font: "Fira Sans",
-  fonts: ["Segoe UI", "Noto Sans", "Fira Sans"],
+  fonts: [
+    "Fira Sans", "Segoe UI", "Noto Sans",
+    "Lora", "Noto Serif",
+  ],
 
   index:
   {
+    desmos: {
+      display: "Desmos",
+    },
     dev: {
       display: "dev",
-      colour: ["9090f1"],
+      colour: "#9090f1",
     },
-    writing: {
-      display: "writing",
-      colour: ["4090f1"],
+    fav: {
+      display: "Favourites",
+    },
+    games: {
+      display: "games",
+    },
+    info: {
+      display: "Info",
+    },
+    lists: {
+      display: "lists",
+    },
+    misc: {
+      display: "miscellaneous",
+    },
+    notes: {
+      display: "notes",
+    },
+    personal: {
+      display: "personal",
+    },
+    phigros: {
+      display: "Phigros",
     },
     poetry: {
       display: "poetry",
-      colour: ["f190f1"],
+      colour: "#f190f1",
+    },
+    "stranded-saga": {
+      display: "Stranded Saga",
     },
     yugioh: {
       display: "Yu-Gi-Oh!",
-      colour: ["4090f1"],
+      colour: "#f190f1",
     },
     "yugioh-archetypes": {
       display: "Yu-Gi-Oh! Archetypes",
-      colour: ["ff0090"],
+      colour: "ff0090",
+    },
+    writing: {
+      display: "writing",
+      colour: "#4090f1",
     },
   },
 
@@ -48,11 +95,15 @@ const Site: SiteData = {
   {
     sad: {
       display: "sad",
-      colour: "#a9b0b8"
+    },
+    "stranded-saga": {
+      display: "Stranded Saga",
     },
     yugioh: {
       display: "Yu-Gi-Oh!",
-      colour: ["ff0090"],
+    },
+    "yugioh-archetypes": {
+      display: "Yu-Gi-Oh! Archetypes",
     },
   },
 };
@@ -69,18 +120,3 @@ for (let [index, data] of Object.entries(site_data.index)) {
 console.log(Site);
 
 export default Site;
-
-
-interface SiteData {
-  pages: PagesData;
-  featured: PageData[];
-  palettes: object[];
-  font: string;
-  fonts: string[];
-  index: object;
-  shard: object;
-}
-
-interface PagesData {
-  [index: string]: PageData;
-}
