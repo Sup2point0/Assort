@@ -31,7 +31,7 @@ nav {
   flex-direction: column;
   justify-content: space-between;
   align-content: start;
-  overflow: hidden;
+  overflow-y: scroll;
   color: var(--col-text);
   text-align: left;
   background-color: var(--col-back-deut);

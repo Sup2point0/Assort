@@ -1,6 +1,7 @@
 <script>
 
 import Site from "#src/site";
+
 import { prefs } from "#modules/stores";
 
 import PrefsCell from "../parts/prefs.cell.svelte";
@@ -24,9 +25,17 @@ import PaletteCard from "../parts/card.palette.svelte";
 />
 
 <section id="palette-cards">
-  {#each Site.palettes as palette}
-    <PaletteCard palette={palette} />
-  {/each}
+  <section id="palettes-light">
+    {#each Site.palettes.light as palette}
+      <PaletteCard palette={palette} />
+    {/each}
+  </section>
+  
+  <section id="palettes-dark">
+    {#each Site.palettes.dark as palette}
+      <PaletteCard palette={palette} />
+    {/each}
+  </section>
 </section>
 
 
