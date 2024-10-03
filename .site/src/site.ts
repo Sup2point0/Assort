@@ -10,7 +10,7 @@ const palettes_data = await import("./palettes/palettes.json");
 interface SiteData {
   pages: PagesData;
   featured: PageData[];
-  palettes: object[];
+  palettes: PalettesData[];
   font: string;
   fonts: string[];
   index: object;
@@ -21,6 +21,11 @@ interface PagesData {
   [index: string]: PageData;
 }
 
+interface PalettesData {
+  light: object[];
+  dark: object[];
+}
+
 
 const Site: SiteData = {
   pages: site_data.pages,
@@ -29,7 +34,10 @@ const Site: SiteData = {
     page => page.flags.includes("feat")
   ),
 
-  palettes: palettes_data.default,
+  palettes: {
+    light: palettes_data.default.filter(palette => palette.duality == "light"),
+    dark: palettes_data.default.filter(palette => palette.duality == "dark"),
+  },
 
   font: "Fira Sans",
   fonts: [
@@ -116,7 +124,5 @@ for (let [index, data] of Object.entries(site_data.index)) {
   Site.index[index].route = data.route;
   Site.index[index].pages = data.pages;
 }
-
-console.log(Site);
 
 export default Site;
