@@ -1,8 +1,9 @@
 # A Selection of Yu-Gi-Oh’s Finest Card Art
-<!-- #SQUARK live!
+<!-- #SQUARK live! dev!
 | dest = yugioh/art
+| desc = My favourite Yu-Gi-Oh card arts
 | style = yugioh
-| shard = lists / yugioh / opinions
+| shard = yugioh / lists / opinion
 -->
 
 Yu-Gi-Oh’s card art is one-of-a-kind. It’s one of the things I love most about the game, and what first drew me in. I could spend hours just admiring the intricacies and love put into all of them. So, that’s exactly what we’re gonna do here.
