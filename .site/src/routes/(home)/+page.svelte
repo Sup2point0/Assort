@@ -43,7 +43,9 @@ onMount(() => {
     <FlavourSearch />
 
     <section id="welcome">
-      <Welcome />
+      {#if !$visited}
+        <Welcome />
+      {/if}
     </section>
 
     <section id="featured">

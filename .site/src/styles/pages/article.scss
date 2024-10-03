@@ -21,7 +21,7 @@ h2 {
   padding: 0 0 0.25em;
   font-weight: 400;
   font-size: 200%;
-  color: var(--col-head-deut);
+  // color: var(--col-head-deut);
   @include line(1.5px);
 
   // &:not(:has(p)) {
@@ -38,7 +38,7 @@ h3 {
   margin: 1.5em 0 0.75em;
   font-weight: 350;
   font-size: 150%;
-  color: var(--col-head-trit);
+  // color: var(--col-head-trit);
 }
 
 h4 {
