@@ -1,14 +1,14 @@
 {
   // core
   "main": {
-    "prefix": ["/py.main", "if __n"],
+    "prefix": ["/py~main", "if __n"],
     "body": [
       "if __name__ == \"__main__\":",
       "  $1",
     ]
   },
   "class": {
-    "prefix": "/py.class",
+    "prefix": "/py~class",
     "body": [
       "class $1:",
       "  '''",
@@ -22,7 +22,7 @@
 
   // suptools
   "suptools script": {
-		"prefix": "/sup.script",
+		"prefix": "/py~script",
     "body": [
 			"import suptools as sup",
 			"",
@@ -42,7 +42,7 @@
 
   // Nextcord
   "nextcord cog": {
-    "prefix": "/disc.cog",
+    "prefix": "/disc~cog",
     "body": [
       "'''${1:...}",
       "'''",
@@ -61,7 +61,7 @@
     ]
   },
   "nextcord slash command": {
-    "prefix": "/disc.slash",
+    "prefix": "/disc~slash",
     "body": [
       "@ disc.slash_command()",
       "async def $1(self, ctx,",
@@ -73,7 +73,7 @@
     ]
   },
   "nextcord slash option": {
-    "prefix": "/disc.option",
+    "prefix": "/disc~option",
     "body": [
       "SlashOption(",
       "  \"${1:...}\", \"${2:...}\",",
@@ -82,7 +82,7 @@
     ]
   },
   "nextcord slash autofill": {
-    "prefix": "/disc.fill",
+    "prefix": "/disc~fill",
     "body": [
       "@ $1.on_autocomplete(\"$2\"):",
       "async def fill_$1(self, ctx, $2):",

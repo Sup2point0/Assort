@@ -1,0 +1,8 @@
+{
+	"script": {
+    "prefix": ["/js~script", "/sup~js"],
+    "body": [
+      "<script type=\"module\" defer src=\"${1}\"> </script>",
+    ]
+  }
+}
