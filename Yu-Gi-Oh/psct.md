@@ -1,4 +1,11 @@
 # Programming Style Cipher Text
+<!-- #SQUARK live!
+| dest = yugioh/psct
+| desc = An esoteric reimagining of Yu-Gi-Oh card text for programmers.
+| style = dev
+| shard = yugioh / dev
+| clean = braces
+-->
 
 Ah, don’t we all love [PSCT<sup>↗</sup>](https://yugipedia.com/wiki/Problem-Solving_Card_Text) – ~~Problem-Solving Card Text~~ *Programming Style Cipher Text*, ofc.
 
