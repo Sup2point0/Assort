@@ -1,16 +1,17 @@
-/// Site data and config for global access
+/// Site site data and config for global access
 
 import type { PageData } from "./modules/types";
+import Data from "./parts/popups/prefs/parts/data.export.svelte";
 
 
-const data = await import("./data/site.json");
+const site_data = await import("./data/site.json");
 const palettes = await import("./palettes/palettes.json");
 
 
 const Site: SiteData = {
-  pages: data.pages,
+  pages: site_data.pages,
   
-  featured: Object.values(data.pages).filter(
+  featured: Object.values(site_data.pages).filter(
     page => page.flags.includes("feat")
   ),
 
@@ -22,45 +23,53 @@ const Site: SiteData = {
   index:
   {
     dev: {
-      route: data.index.dev.route,
-      display: "dev", colour: ["9090f1"],
-      pages: data.index.dev.pages,
+      display: "dev",
+      colour: ["9090f1"],
     },
     writing: {
-      route: data.index.writing.route,
-      display: "writing", colour: ["4090f1"],
-      pages: data.index.writing.pages,
+      display: "writing",
+      colour: ["4090f1"],
     },
     poetry: {
-      route: data.index.poetry.route,
-      display: "poetry", colour: ["f190f1"],
-      pages: data.index.poetry.pages,
+      display: "poetry",
+      colour: ["f190f1"],
     },
     yugioh: {
-      route: data.index.yugioh.route,
-      display: "Yu-Gi-Oh!", colour: ["4090f1"],
-      pages: data.index.yugioh.pages,
+      display: "Yu-Gi-Oh!",
+      colour: ["4090f1"],
     },
     "yugioh-archetypes": {
-      route: data.index["yugioh-archetypes"].route,
-      display: "Yu-Gi-Oh! Archetypes", colour: ["ff0090"],
-      pages: data.index["yugioh-archetypes"].pages,
+      display: "Yu-Gi-Oh! Archetypes",
+      colour: ["ff0090"],
     },
   },
 
   shard:
   {
     sad: {
-      display: "sad", colour: "#a9b0b8"
+      display: "sad",
+      colour: "#a9b0b8"
     },
     yugioh: {
-      route: data.shard.yugioh.route,
-      display: "Yu-Gi-Oh!", colour: ["ff0090"],
-      pages: data.shard.yugioh.pages,
+      display: "Yu-Gi-Oh!",
+      colour: ["ff0090"],
     },
   },
 };
+
+for (let [index, data] of Object.entries(site_data.index)) {
+  if (!Site.index[index]) {
+    Site.index[index] = {};
+  }
+
+  Site.index[index].route = data.route;
+  Site.index[index].pages = data.pages;
+}
+
+console.log(Site);
+
 export default Site;
+
 
 interface SiteData {
   pages: PagesData;
