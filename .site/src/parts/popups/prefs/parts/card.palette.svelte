@@ -51,15 +51,15 @@ button {
   border: none;
   border-radius: 1rem;
 
-  filter: drop-shadow(0 0 2px light-dark(rgba(black, 20%), rgba(white, 20%)));
+  filter: drop-shadow(0 0 2px var(--col-prot));
 
   &.selected:not(:hover) {
     outline: 2px solid light-dark(black, white);
   }
 
   &:hover {
-    outline: var(--col-flavour) solid 2px;
-    filter: drop-shadow(0 0 8px light-dark(rgba(black, 20%), rgba(white, 20%)));
+    outline: var(--col-prot) solid 2px;
+    filter: drop-shadow(0 0 4px var(--col-prot));
   }
 }
 

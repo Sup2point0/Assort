@@ -95,6 +95,8 @@ h2 {
   padding: 0.75rem 2rem;
   color: var(--col-text);
   text-align: left;
+  // overflow-x: hidden;
+  // overflow-y: scroll;
 }
 
 </style>
