@@ -1,6 +1,7 @@
 ## Todo
 
 ### Tweaks
+- tags
 - fix import orders
 - fix links during squarkup
 - render GitHub special blockquotes properly
