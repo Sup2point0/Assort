@@ -1,8 +1,9 @@
 # A Selection of Yu-Gi-Oh’s Finest Card Names
 <!-- #SQUARK live!
 | dest = yugioh/names
+| desc = My favourite Yu-Gi-Oh card names
 | style = yugioh
-| shard = lists / yugioh / opinions
+| shard = lists / yugioh / opinion
 -->
 
 Yu-Gi-Oh has [incredible art](art.md), but what goes less appreciated is all the ingenuity behind card names – especially Japanese for anyone who reads the “Trivia” on [Yugipedia<sup>↗</sup>](https://yugipedia.com).
