@@ -5,10 +5,7 @@ import type { MouseEventHandler } from "svelte/elements";
 
 export let intern: string | undefined = undefined;
 export let button: MouseEventHandler<HTMLElement> | undefined = undefined;
-export let col: string | string[] | undefined = undefined;
-
-
-const colour = "#" + (col ?? "777777");
+export let col: string | undefined = undefined;
 
 </script>
 
