@@ -11,3 +11,4 @@
 - expand/collapse navpane sections
 - select palettes in preferences
 - page footers
+- different font styles based on preferences
