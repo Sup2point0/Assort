@@ -10,7 +10,7 @@ import Welcome from "./assort-welcome.svelte";
 import FeaturedCards from "./cards.featured.svelte";
 import ExploreCards from "./cards.explore.svelte";
 import FranchiseCards from "./cards.franchises.svelte";
-import NewlyReleased from "./newly-released.svelte";
+import NewlyReleased from "./cards.new.svelte";
 
 import { onMount } from "svelte";
 
