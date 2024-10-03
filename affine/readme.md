@@ -1,6 +1,16 @@
 # Affine
+<!-- #SQUARK live! index! depr!
+| dest = affine
+| desc = magic, the way I envision it
+| style = affine
+| index = affine
+| shard = #INDEX / index
+-->
 
+> [!Note]
 > Everything in this folder is written in [Antarctican English](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/readme.md). Most words are recognyzable, but those that may be ambiguous will have a [link](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/dict.md 'watch out for these!') you can hover over, to view its standard English equivalent.
+>
+> I’m currently in the process of undoing this, so bear with me...
 
 *Affine* – magic or supernaturalism – is a phenomenon present in certain [xeriques](../xeriqui/readme.md), in particular the [Supxerique](../xeriqui/xeriques.md#supxerique).
 
@@ -36,20 +46,20 @@ Throughout different xeriques and in different contexts, affinitys and affinitic
 
 ## Types
 
-### Matter Manipulyzacion
+### Matter Manipulation
 
-### Self Manipulyzacion
+### Self Manipulation
 
-### Essence Manipulyzacion
+### Essence Manipulation
 
 
 <br>
 
 
-## Abilitys
+## Abilities
 
 ### Kinetis
-Control and manipulyzacion of existing things.
+Control and Manipulation of existing things.
 
 ### Genetis
 Cryzing something out of void.
@@ -132,7 +142,7 @@ Affinitys that work at close range, very similar to haptive. These usually chann
 
 Affinitys controled by sight.
 
-The target *must* be visible for the affinity to be effective; even if its presence is known, without visual contact manipulyzacion is impossible. At high levels of mastery direct focus is not so much required – a fleeting glance suffices – but during training, intense focus helps affinitics channel their power more easily.
+The target *must* be visible for the affinity to be effective; even if its presence is known, without visual contact Manipulation is impossible. At high levels of mastery direct focus is not so much required – a fleeting glance suffices – but during training, intense focus helps affinitics channel their power more easily.
 
 ### Innate
 
@@ -188,9 +198,9 @@ Affinitys that retain their effect while no longer being controled.
 The topic of the various **aspects** of affinitys.
 
 The aspects are generally dictated into 3 classes:
-- applyzacion » *attack*, *defence*, *support*, *utility*
+- applyzation » *attack*, *defence*, *support*, *utility*
 - harnession » *affine*, *power*, *control*, *endurance*, *precision*, *range*
-- utilyzacion » *harmony*, *synchrony*, *versatility*, *competency*, *mastery*
+- utilyzation » *harmony*, *synchrony*, *versatility*, *competency*, *mastery*
 
 For all aspects, the higher the better, except for the final 2 – competency and mastery – which are neutral.
 
@@ -258,6 +268,6 @@ How difficult it is to properly master.
 <br>
 
 
-## Evolucion
+## Evolution
 
-Most affinitys are entirely unique, spontaneously emerging. Some deryve from others through evolucion, changing or specialyzing the way in which the affinity is harnessed. The *prime* affinitys are the primordial fundamental superpowers bestowed upon the first affinitics, and indeed remain the most common.
+Most affinitys are entirely unique, spontaneously emerging. Some deryve from others through evolution, changing or specialising the way in which the affinity is harnessed. The *prime* affinitys are the primordial fundamental superpowers bestowed upon the first affinitics, and indeed remain the most common.
