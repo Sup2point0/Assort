@@ -1,4 +1,11 @@
 # Coding Conventions
+<!-- #SQUARK live!
+| dest = dev/coding-conventions
+| desc = My unconventional coding conventions
+| style = dev
+| index = dev
+| shard = #INDEX / opinion
+-->
 
 It’s getting way too difficult to keep track of all this in my mind, so I need somewhere to standardardise it for consistency.
 
