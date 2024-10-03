@@ -1,0 +1,27 @@
+{
+	"core": {
+    "prefix": ["/svelte~core", "/sup~svelte"],
+    "body": [
+      "<!-- @component ${1}",
+      "",
+      "-->",
+      "",
+      "<script lang=\"ts\">",
+      "",
+      "import ${2} from \"${2}.svelte\";",
+      "",
+      "</script>",
+      "",
+      "",
+      "${3}",
+      "",
+      "",
+      "<style lang=\"scss\">",
+      "",
+      "",
+      "",
+      "</style>",
+      ""
+    ]
+  }
+}
