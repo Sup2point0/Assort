@@ -1,11 +1,11 @@
 # What Makes a Good Custom Archetype?
-<!-- #SQUARK live!
+<!-- #SQUARK live! dev!
 | dest = yugioh/creating-custom-cards
 | capt = Exploring what goes into creating custom Yu-Gi-Oh cards
 | desc = My thoughts on what goes into a good custom Yu-Gi-Oh archetype, after creating countless myself.
 | style = yugioh
-| shard = yugioh / writing / opinions
-| date = 24 / Sep
+| shard = yugioh / writing / opinion
+| date = 2024 / September
 -->
 
 Creating custom Yu-Gi-Oh cards is an art. 
