@@ -29,7 +29,7 @@ onMount(() => {
   <title> Assort · An assortment of all my creations </title>
 </svelte:head>
 
-<div style="position: absolute; top: 0.5rem; right: 0.5rem;">
+<div style="position: fixed; top: 0.5rem; right: 0.5rem;">
   <Click kind="trit" button={() => $popups.prefs.shown = true}>
     <span class="material-symbols-rounded">
       page_info
