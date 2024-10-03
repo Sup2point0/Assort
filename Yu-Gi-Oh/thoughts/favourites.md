@@ -25,7 +25,7 @@ There’s a lot of things to like in Yu-Gi-Oh, so deciding on favourites isn’t
   </tr>
   <tr>
     <td> WIND </td>
-    <td> Now there *are* WIND archetypes I like – [Clear Wing](~) – and it calls to me too. Just not as strongly as WATER. idek. </td>
+    <td> Now there *are* WIND archetypes I like – <a target="_blank" href="https://yugipedia.com/wiki/Clear_Wing">Clear Wing</a> – and it calls to me too. Just not as strongly as WATER. idek. </td>
   </tr>
   <tr>
     <td rowspan="2"> Type </td>
