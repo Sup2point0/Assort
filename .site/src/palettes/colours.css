@@ -141,16 +141,21 @@
 .tomorrow-night-blue {
   --col-prot: #d1f1a9;
   --col-deut: #ff9da4;
+  --col-flavour: #ffc58f;
   --col-hover: rgba(255 255 255 / 5%);
+  --col-select: #003f8e;
   --col-text: white;
   --col-text-prot: #ff9da4;
   --col-text-deut: #7285b7;
+  --col-text-trit: #7285b7;
   --col-back: #001c40;
   --col-back-prot: #002451;
   --col-back-deut: #001733;
   --col-line: #7285b7;
+  --col-line-deut: #7285b7;
   --col-link: #99ffff;
   --col-link-visit: #ebbbff;
-  --col-link-hover: red;
-  --col-card: #7285b7;
+  --col-link-hover: #d1f1a9;
+  --col-card: #002451;
+  --col-card-hover: #00346e;
 }
