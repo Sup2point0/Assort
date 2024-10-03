@@ -1,4 +1,5 @@
 # Cool Stuff Saved for the Future
+<!-- #SQUARK dead! -->
 
 
 <br>
@@ -45,7 +46,12 @@ A Silent Voice
 
 ## Webtoon
 
-The Apocethary Diaries  
+A Good Day To Be a Dog  
+Refund High School  
+Super Secret  
+Oh! Holy  
+The Story of Those Around Me  
+The Apothecary Diaries  
 
 
 <br>
