@@ -19,6 +19,6 @@ function exportPrefs() {
 </script>
 
 
-<Click button={exportPrefs}>
+<Click kind="prot" radius={0.5} button={exportPrefs}>
   Export JSON
 </Click>
