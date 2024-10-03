@@ -16,6 +16,7 @@ import TextPrefs from "./views/prefs.text.svelte";
 import ColsPrefs from "./views/prefs.cols.svelte";
 import SearchPrefs from "./views/prefs.search.svelte";
 import A11yPrefs from "./views/prefs.a11y.svelte";
+import DataPrefs from "./views/prefs.data.svelte";
 
 </script>
 
@@ -51,6 +52,9 @@ import A11yPrefs from "./views/prefs.a11y.svelte";
       {:else if $popups.prefs.page == "a11y"}
         <h2> Accessibility </h2>
         <A11yPrefs />
+      {:else if $popups.prefs.page == "data"}
+        <h2> Data </h2>
+        <DataPrefs />
       {:else}
         <p> Uh, no page selected? </p>
       {/if}

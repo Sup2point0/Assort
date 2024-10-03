@@ -68,7 +68,7 @@ if (action) {
 
 
 a, button {
-  width: 2rem;
+  min-width: 2rem;
   height: 2rem;
   margin: 0;
   padding: 0;

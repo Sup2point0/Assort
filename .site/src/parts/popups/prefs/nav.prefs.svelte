@@ -1,8 +1,6 @@
 <script lang="ts">
 
 import NavCell from "./parts/nav.prefs.cell.svelte";
-// import ExportPrefs from "./data.export.svelte";
-// import ImportPrefs from "./data.import.svelte";
 
 </script>
 
@@ -19,9 +17,7 @@ import NavCell from "./parts/nav.prefs.cell.svelte";
   </section>
 
   <section id="data">
-    <p style="font-size: 75%;"> Preferences are saved to local storage. </p>
-    <!-- <ExportPrefs />
-    <ImportPrefs /> -->
+    <NavCell text="Data" set="data" />
   </section>
 </nav>
 
