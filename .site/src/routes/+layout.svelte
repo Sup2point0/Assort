@@ -3,7 +3,10 @@
 import "#styles/font-faces.scss";
 import "#styles/essence.scss";
 
-import { prefs } from "#modules/stores";
+import { prefs, popups } from "#modules/stores";
+
+import WindowOverlay from "#parts/popups/window-overlay.svelte";
+import Preferences from "#parts/popups/prefs/preferences.svelte";
 
 
 $: duality = $prefs.cols.duality ?? "light";
@@ -12,13 +15,20 @@ $: duality = $prefs.cols.duality ?? "light";
 
 
 <div
-  id="content"
+  id="page"
   class={$prefs.cols.palettes[duality]}
+  class:frozen={$popups.prefs.shown}
   style:color-scheme={duality}
 >
   <slot>
     <p class="error"> Uh, something went wrong! </p>
   </slot>
+
+  {#if $popups.prefs.shown}
+    <WindowOverlay exit={() => $popups.prefs.shown = false}>
+      <Preferences />
+    </WindowOverlay>
+  {/if}
 </div>
 
 
@@ -27,8 +37,12 @@ $: duality = $prefs.cols.duality ?? "light";
 @use './src/palettes/colours' as *;
 
 
-#content {
+#page {
   background-color: var(--col-back);
+}
+
+.frozen {
+  overflow: hidden;
 }
 
 </style>

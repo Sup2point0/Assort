@@ -1,8 +1,9 @@
 <script>
 
-import { visited } from "#modules/stores";
+import { visited, popups } from "#modules/stores";
 
 import Footer from "#parts/core/footer.svelte";
+import Click from "#parts/ext/click.svelte";
 
 import FlavourSearch from "./flavour-search.svelte";
 import QuickLinks from "./quick-links.svelte";
@@ -28,6 +29,14 @@ onMount(() => {
   <title> Assort · An assortment of all my creations </title>
 </svelte:head>
 
+<div style="position: absolute; top: 0.5rem; right: 0.5rem;">
+  <Click kind="trit" button={() => $popups.prefs.shown = true}>
+    <span class="material-symbols-rounded">
+      page_info
+    </span>
+  </Click>
+</div>
+
 <main>
   <div class="center">
     <section id="super" style:margin="2rem">
@@ -43,7 +52,7 @@ onMount(() => {
     <FlavourSearch />
 
     <section id="welcome">
-      {#if !$visited}
+      {#if $visited === false}
         <Welcome />
       {/if}
     </section>
