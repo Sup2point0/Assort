@@ -1,8 +1,8 @@
 {
   "name": "Assort",
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  // "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {},
-  "updateContentCommand": "git submodule update --init && cd .site && npm install && cd ../.stranger-quarkdown && bundle install && cd ..",
+  // "updateContentCommand": "git submodule update --init && cd .site && npm install && cd ../.stranger-quarkdown && bundle install && cd ..",
 
   "customizations": {
     "vscode": {
