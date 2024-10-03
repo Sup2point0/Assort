@@ -2,10 +2,11 @@
 <!-- #SQUARK live! feat!
 | dest = dev/decoded
 | title = decoded
+| desc = difficulties, challenges and lessons from years of software development
+| head = decoded
 | style = dev
-| duality = dark
 | index = dev / notes
-| date = 2024 Apr
+| date = 2024 / April
 -->
 
 <section class="synopsis">
