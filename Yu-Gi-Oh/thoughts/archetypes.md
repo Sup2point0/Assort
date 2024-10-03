@@ -12,6 +12,18 @@ Just laying out my thoughts on all the archetypes in *Yu-Gi-Oh* I’ve faced, wa
 <br>
 
 
+## Adamancipator
+
+> rocking the rocks
+
+I used to face this a lot in Master Duel, but I haven’t seen them for a while – probably since [Block Dragon<sup>↗</sup>](~) was banned. Aw man, this thing with Block Dragon was just... like, how is it even fair for you to search 3 cards with 1 effect. The spam was crazy. The excavating took so long. And ofc, they’d end up with a board with negates upon negates. Not very fun.
+
+From a design perspective tho, I really love the cards! The little explorers excavating cards is sooo on-point. [Dragite<sup>↗</sup>](~) is a top-notch Yu-Gi-Oh Dragon, I’ll give them that. The way the archetype synergises with other Rock Monsters is pretty awesome, even if it results in broken boards.
+
+
+<br>
+
+
 ## Branded
 
 I remember when I first saw these cards all over *Master Duel* – this was just about when I was getting back into the game, so they were totally unfamiliar to me – and thinking, *’damn, cool names, cool art, cool cards’*. It was a wonderful kind of blissful ignorance.[^bliss-feel] While I thought the cards were cool, I really didn’t like how the deck functioned at first. A very linear and efficient combo, just felt kinda scummy for such low effort.
@@ -46,6 +58,23 @@ Love the concept – the names!! The portmanteaus with *-code* are sooo amazing,
 [^code-talker-names]: What’d’y’know, this is an archetype I’ve remade into custom cards before 0.o
 
 It’s a shame that most Code Talkers have pretty useless effects, and while make decent plot tools for the anime, can’t really see much usage irl. I get they existed for symmetry in the Attributes (+ enabling Extra Link), but then [Heatsoul<sup>↗</sup>](https://yugipedia.com/wiki/Decode_Talker_Heatsoul) came along and messed it all up =|
+
+
+<br>
+
+
+## Cyber Dragon 
+
+Ngl, the archetype / deck is pretty much carried by a couple of key cards,[^cydra-carry] and most of the archetype is basically useless. Now it’s fine to have some cards that are better than others, but like... what even is [Cyber Dragon Barrier<sup>↗</sup>](~) doing...
+
+As a whole, the deck has pretty much fallen behind in modern Yu-Gi-Oh. It lacks a lot of things that are really important nowadays, like some form of removal, protection, or even just the ability to set up *more than 1 interruption* turn 1 TvT. It also easily dies to any interruption, handtrap of removal. Really, the archetype just lacks toolboxing, which is pretty fair given it dates back to prehistoric Yu-Gi-Oh.[^prehistoric-yugioh]
+
+[^cydra-carry]: [Machine Duplication<sup>↗</sup>](~), ofc.
+[^prehistoric-yugioh]: I’m using this to refer to when Fusion Summoning was all the rage, to be clear.
+
+Nevertheless, it was pretty fun to play in Master Duel, when it worked. [Infinity<sup>↗</sup>](~) is a pretty nice Ace Monster (altho it’s a bit weak in the ATK department), and the Power Bond OTK was hella satisfying to pull off. It was a very ‘fast’ and efficient anime deck which was great for casual duels.
+
+Also, the archetype has one of the coolest nicknames, so cool that it would be a wicked archetype name just on its own – *Cydra*.
 
 
 <br>
@@ -99,6 +128,18 @@ Then we have to talk about the gimmick, which I really, really enjoy. I think th
 > wombo combo!
 
 Not really very opinionated on this, moreso [Borrel + Rokket](#Borrel-Rokket). Like [Pendulum Magician](#Pendulum-Magician), its combos are really something, especially at full power when the banlist allows for it. Sometimes it even feels like their moves lose advantage, like when destroying monsters on field simply to recover a [Rokket Synchron<sup>↗</sup>](https://yugipedia.com/wiki/Rokket_Tracer)?!
+
+
+<br>
+
+
+## Eldlich
+
+I don’t know why, but the name just gives me the heebie-jeebies.
+
+In all honesty, I don’t like this archetype very much. I don’t really vibe with the art style, and it’s just generally a bit frustrating to play against the constant cycling of Eldlich and various Traps. Like, you just can’t get rid of [Eldlich the Golden Lord<sup>↗</sup>](~). He keeps coming back.
+
+It’s made worse by the fact the archetype is often combined with Zombie support like [Zombie World<sup>↗</sup>](~). Or even worse, just straight up floodgates, that was not uncommon at all in Master Duel.
 
 
 <br>
