@@ -5,7 +5,7 @@ import type { MouseEventHandler } from "svelte/elements";
 
 export let intern: string | undefined = undefined;
 export let button: MouseEventHandler<HTMLElement> | undefined = undefined;
-export let col: string | undefined = undefined;
+export let col: string | undefined = "var(--col-card)";
 
 </script>
 
