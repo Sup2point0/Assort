@@ -15,6 +15,7 @@
       "pages": [
         "AI.md",
         "desmos/dev/readme.md",
+        "~dev/Python Syntax.md",
         "~writing/commit.md",
         "~writing/roots.md",
         "~writing/wriiting.md",
@@ -28,7 +29,7 @@
       ]
     },
     "yugioh": {
-      "route": null,
+      "route": "Yu-Gi-Oh/readme.md",
       "pages": [
         "Yu-Gi-Oh/archetypes/Darquess.md",
         "Yu-Gi-Oh/archetypes/Rubic.md",
@@ -68,6 +69,12 @@
         "Yu-Gi-Oh/thoughts/favourites.md"
       ]
     },
+    "affine": {
+      "route": "affine/readme.md",
+      "pages": [
+        "affine/affinitys.md"
+      ]
+    },
     "desmos": {
       "route": null,
       "pages": [
@@ -78,9 +85,12 @@
       "route": "~dev/readme.md",
       "pages": [
         "desmos/dev/readme.md",
+        "~dev/Coding Conventions.md",
         "~dev/Gems in the Abstruse Internet.md",
         "~dev/In Perfection/python.md",
         "~dev/In Perfection/ruby.md",
+        "~dev/Python Syntax.md",
+        "~dev/Slithering Hump-Back Kebabs.md",
         "~dev/buttons.md",
         "~dev/decoded.md",
         "~dev/fix.md",
@@ -161,6 +171,7 @@
       "Yu-Gi-Oh/thoughts/archetypes.md",
       "desmos/dev/readme.md",
       "~dev/Python Syntax.md",
+      "~dev/Slithering Hump-Back Kebabs.md",
       "~dev/buttons.md",
       "~writing/commit.md",
       "~writing/roots.md",
@@ -180,7 +191,6 @@
       "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md",
       "Yu-Gi-Oh/psct.md",
       "Yu-Gi-Oh/psssccct.md",
-      "Yu-Gi-Oh/readme.md",
       "Yu-Gi-Oh/thoughts/archetypes.md",
       "Yu-Gi-Oh/thoughts/art.md",
       "Yu-Gi-Oh/thoughts/favourites.md",
@@ -193,6 +203,7 @@
       "Yu-Gi-Oh/thoughts/art.md",
       "Yu-Gi-Oh/thoughts/favourites.md",
       "Yu-Gi-Oh/thoughts/names.md",
+      "~dev/Coding Conventions.md",
       "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
       "~dev/Python Syntax.md"
@@ -219,10 +230,12 @@
     "dev": [
       "Yu-Gi-Oh/psct.md",
       "desmos/dev/readme.md",
+      "~dev/Coding Conventions.md",
       "~dev/Gems in the Abstruse Internet.md",
       "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
       "~dev/Python Syntax.md",
+      "~dev/Slithering Hump-Back Kebabs.md",
       "~dev/buttons.md",
       "~dev/decoded.md",
       "~dev/fix.md",
@@ -235,6 +248,7 @@
       "Yu-Gi-Oh/thoughts/favourites.md",
       "Yu-Gi-Oh/thoughts/names.md",
       "Yu-Gi-Oh/thoughts/showerthoughts.md",
+      "affine/affinitys.md",
       "~dev/Gems in the Abstruse Internet.md",
       "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
@@ -245,6 +259,9 @@
     ],
     "fav": [
       "Yu-Gi-Oh/thoughts/favourites.md"
+    ],
+    "affine": [
+      "affine/affinitys.md"
     ],
     "desmos": [
       "desmos/dev/readme.md"
@@ -343,7 +360,7 @@
   "pages": {
     ".squarkdown/content/frequerys.md": {
       "path": ".squarkdown/content/frequerys.md",
-      "last_deploy": "2024-10-03 07:16:36 +0000",
+      "last_deploy": "2024-10-01 07:24:57 +0100",
       "slocs": 59,
       "chars": 2249,
       "isIndex": false,
@@ -366,7 +383,7 @@
     },
     ".squarkdown/content/privacy.md": {
       "path": ".squarkdown/content/privacy.md",
-      "last_deploy": "2024-09-13 13:45:18 +0000",
+      "last_deploy": "2024-07-16 21:16:33 +0100",
       "slocs": 15,
       "chars": 583,
       "isIndex": false,
@@ -389,7 +406,7 @@
     },
     ".squarkdown/content/synopsis.md": {
       "path": ".squarkdown/content/synopsis.md",
-      "last_deploy": "2024-09-13 13:45:18 +0000",
+      "last_deploy": "2024-07-16 21:16:48 +0100",
       "slocs": 16,
       "chars": 680,
       "isIndex": false,
@@ -412,7 +429,7 @@
     },
     "AI.md": {
       "path": "AI.md",
-      "last_deploy": "2024-09-16 09:19:41 +0000",
+      "last_deploy": "2024-09-13 18:27:16 +0100",
       "slocs": 50,
       "chars": 3078,
       "isIndex": false,
@@ -437,7 +454,7 @@
     },
     "Phigros/favourites.md": {
       "path": "Phigros/favourites.md",
-      "last_deploy": "2024-10-03 07:16:44 +0000",
+      "last_deploy": "2024-09-26 19:34:04 +0100",
       "slocs": 466,
       "chars": 10046,
       "isIndex": false,
@@ -460,7 +477,7 @@
     },
     "Yu-Gi-Oh/Creating Custom Cards.md": {
       "path": "Yu-Gi-Oh/Creating Custom Cards.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-10-03 17:07:34 +0100",
       "slocs": 116,
       "chars": 6557,
       "isIndex": false,
@@ -486,7 +503,7 @@
     },
     "Yu-Gi-Oh/archetypes/Darquess.md": {
       "path": "Yu-Gi-Oh/archetypes/Darquess.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-09-15 11:31:52 +0100",
       "slocs": 562,
       "chars": 46795,
       "isIndex": false,
@@ -513,7 +530,7 @@
     },
     "Yu-Gi-Oh/archetypes/Rubic.md": {
       "path": "Yu-Gi-Oh/archetypes/Rubic.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-09-23 18:11:04 +0100",
       "slocs": 856,
       "chars": 66268,
       "isIndex": false,
@@ -540,7 +557,7 @@
     },
     "Yu-Gi-Oh/archetypes/Soul.md": {
       "path": "Yu-Gi-Oh/archetypes/Soul.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-09-15 11:33:00 +0100",
       "slocs": 773,
       "chars": 69633,
       "isIndex": false,
@@ -565,7 +582,7 @@
     },
     "Yu-Gi-Oh/decks/dryconix.md": {
       "path": "Yu-Gi-Oh/decks/dryconix.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-09-29 20:09:41 +0100",
       "slocs": 570,
       "chars": 40835,
       "isIndex": false,
@@ -591,7 +608,7 @@
     },
     "Yu-Gi-Oh/decks/vraptor.md": {
       "path": "Yu-Gi-Oh/decks/vraptor.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-09-26 19:34:05 +0100",
       "slocs": 81,
       "chars": 1052,
       "isIndex": false,
@@ -614,7 +631,7 @@
     },
     "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md": {
       "path": "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-10-02 17:20:12 +0100",
       "slocs": 441,
       "chars": 22338,
       "isIndex": false,
@@ -643,7 +660,7 @@
     },
     "Yu-Gi-Oh/psct.md": {
       "path": "Yu-Gi-Oh/psct.md",
-      "last_deploy": "2024-10-03 07:21:09 +0000",
+      "last_deploy": "2024-10-03 17:07:34 +0100",
       "slocs": 476,
       "chars": 20466,
       "isIndex": false,
@@ -667,7 +684,7 @@
     },
     "Yu-Gi-Oh/psssccct.md": {
       "path": "Yu-Gi-Oh/psssccct.md",
-      "last_deploy": "2024-10-03 07:23:34 +0000",
+      "last_deploy": "2024-10-03 17:07:34 +0100",
       "slocs": 130,
       "chars": 22116,
       "isIndex": false,
@@ -691,22 +708,24 @@
     },
     "Yu-Gi-Oh/readme.md": {
       "path": "Yu-Gi-Oh/readme.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
-      "slocs": 103,
-      "chars": 9319,
-      "isIndex": false,
+      "last_deploy": "2024-10-03 17:07:34 +0100",
+      "slocs": 107,
+      "chars": 9463,
+      "isIndex": true,
       "flags": [
-        "live"
+        "live",
+        "index"
       ],
       "dest": "yugioh",
-      "title": "*Yu-Gi-Oh!*",
-      "head": "*Yu-Gi-Oh!*",
+      "title": "Yu-Gi-Oh!",
+      "head": "Yu-Gi-Oh!",
       "capt": null,
-      "desc": null,
+      "desc": "A childhood card game which I never quite fell out of love with",
       "index": [
-
+        "yugioh"
       ],
       "shard": [
+        "index",
         "yugioh"
       ],
       "date": null,
@@ -714,7 +733,7 @@
     },
     "Yu-Gi-Oh/thoughts/archetypes.md": {
       "path": "Yu-Gi-Oh/thoughts/archetypes.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-10-03 17:07:34 +0100",
       "slocs": 338,
       "chars": 21902,
       "isIndex": false,
@@ -739,7 +758,7 @@
     },
     "Yu-Gi-Oh/thoughts/art.md": {
       "path": "Yu-Gi-Oh/thoughts/art.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-10-03 17:07:34 +0100",
       "slocs": 679,
       "chars": 15873,
       "isIndex": false,
@@ -765,7 +784,7 @@
     },
     "Yu-Gi-Oh/thoughts/favourites.md": {
       "path": "Yu-Gi-Oh/thoughts/favourites.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-10-03 17:07:34 +0100",
       "slocs": 142,
       "chars": 3691,
       "isIndex": false,
@@ -792,7 +811,7 @@
     },
     "Yu-Gi-Oh/thoughts/names.md": {
       "path": "Yu-Gi-Oh/thoughts/names.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-10-03 17:07:34 +0100",
       "slocs": 106,
       "chars": 2648,
       "isIndex": false,
@@ -817,7 +836,7 @@
     },
     "Yu-Gi-Oh/thoughts/showerthoughts.md": {
       "path": "Yu-Gi-Oh/thoughts/showerthoughts.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-09-18 17:36:15 +0100",
       "slocs": 37,
       "chars": 710,
       "isIndex": false,
@@ -840,9 +859,59 @@
       "date": null,
       "date_display": null
     },
+    "affine/affinitys.md": {
+      "path": "affine/affinitys.md",
+      "last_deploy": "2024-10-03 17:07:34 +0100",
+      "slocs": 113,
+      "chars": 7617,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "affine/affinitys",
+      "title": "Affinitys",
+      "head": "Affinitys",
+      "capt": null,
+      "desc": "All the known affinitys",
+      "index": [
+        "affine"
+      ],
+      "shard": [
+        "affine",
+        "lists"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "affine/readme.md": {
+      "path": "affine/readme.md",
+      "last_deploy": "2024-10-03 17:07:34 +0100",
+      "slocs": 273,
+      "chars": 9844,
+      "isIndex": true,
+      "flags": [
+        "live",
+        "index",
+        "depr"
+      ],
+      "dest": "affine",
+      "title": "Affine",
+      "head": "Affine",
+      "capt": null,
+      "desc": "magic, the way I envision it",
+      "index": [
+        "affine"
+      ],
+      "shard": [
+        "affine",
+        "index"
+      ],
+      "date": null,
+      "date_display": null
+    },
     "desmos/dev/functions.md": {
       "path": "desmos/dev/functions.md",
-      "last_deploy": "2024-09-20 14:40:26 +0000",
+      "last_deploy": "2024-09-20 17:25:56 +0100",
       "slocs": 195,
       "chars": 2850,
       "isIndex": false,
@@ -865,7 +934,7 @@
     },
     "desmos/dev/nomenclature.md": {
       "path": "desmos/dev/nomenclature.md",
-      "last_deploy": "2024-09-16 09:19:42 +0000",
+      "last_deploy": "2024-09-15 17:54:28 +0100",
       "slocs": 61,
       "chars": 3066,
       "isIndex": false,
@@ -888,7 +957,7 @@
     },
     "desmos/dev/readme.md": {
       "path": "desmos/dev/readme.md",
-      "last_deploy": "2024-09-16 09:19:42 +0000",
+      "last_deploy": "2024-09-15 17:54:45 +0100",
       "slocs": 63,
       "chars": 2219,
       "isIndex": false,
@@ -913,11 +982,35 @@
       "date": "2024-01-01",
       "date_display": "2024 autumn"
     },
+    "~dev/Coding Conventions.md": {
+      "path": "~dev/Coding Conventions.md",
+      "last_deploy": "2024-10-03 17:07:34 +0100",
+      "slocs": 164,
+      "chars": 3245,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "dev/coding-conventions",
+      "title": "Coding Conventions",
+      "head": "Coding Conventions",
+      "capt": null,
+      "desc": "My unconventional coding conventions",
+      "index": [
+        "dev"
+      ],
+      "shard": [
+        "dev",
+        "opinion"
+      ],
+      "date": null,
+      "date_display": null
+    },
     "~dev/Gems in the Abstruse Internet.md": {
       "path": "~dev/Gems in the Abstruse Internet.md",
-      "last_deploy": "2024-09-13 15:01:41 +0000",
-      "slocs": 129,
-      "chars": 5054,
+      "last_deploy": "2024-10-03 17:07:34 +0100",
+      "slocs": 102,
+      "chars": 4212,
       "isIndex": false,
       "flags": [
         "live"
@@ -940,7 +1033,7 @@
     },
     "~dev/In Perfection/python.md": {
       "path": "~dev/In Perfection/python.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-09-29 21:21:18 +0100",
       "slocs": 109,
       "chars": 3745,
       "isIndex": false,
@@ -966,7 +1059,7 @@
     },
     "~dev/In Perfection/ruby.md": {
       "path": "~dev/In Perfection/ruby.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-09-29 21:21:18 +0100",
       "slocs": 112,
       "chars": 2934,
       "isIndex": false,
@@ -992,9 +1085,9 @@
     },
     "~dev/Python Syntax.md": {
       "path": "~dev/Python Syntax.md",
-      "last_deploy": "2024-09-16 09:19:42 +0000",
+      "last_deploy": "2024-10-03 17:07:34 +0100",
       "slocs": 231,
-      "chars": 12035,
+      "chars": 12050,
       "isIndex": false,
       "flags": [
         "live"
@@ -1005,7 +1098,8 @@
       "capt": null,
       "desc": "A deep dive into my Python syntax preferences and conventions.",
       "index": [
-
+        "dev",
+        "writing"
       ],
       "shard": [
         "dev",
@@ -1015,9 +1109,33 @@
       "date": "2024-01-01",
       "date_display": "2024 spring"
     },
+    "~dev/Slithering Hump-Back Kebabs.md": {
+      "path": "~dev/Slithering Hump-Back Kebabs.md",
+      "last_deploy": "2024-10-03 17:07:34 +0100",
+      "slocs": 72,
+      "chars": 2520,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "dev/kebabs",
+      "title": "Slithering Hump-Back Kebabs",
+      "head": "Slithering Hump-Back Kebabs",
+      "capt": null,
+      "desc": "A deep dive into casing in identifier naming",
+      "index": [
+        "dev"
+      ],
+      "shard": [
+        "dev",
+        "writing"
+      ],
+      "date": "2024-01-01",
+      "date_display": "2024 / spring"
+    },
     "~dev/buttons.md": {
       "path": "~dev/buttons.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-09-24 19:33:27 +0100",
       "slocs": 29,
       "chars": 2147,
       "isIndex": false,
@@ -1041,9 +1159,9 @@
     },
     "~dev/decoded.md": {
       "path": "~dev/decoded.md",
-      "last_deploy": "2024-09-16 09:19:42 +0000",
-      "slocs": 44,
-      "chars": 3201,
+      "last_deploy": "2024-10-03 17:07:34 +0100",
+      "slocs": 45,
+      "chars": 3242,
       "isIndex": false,
       "flags": [
         "live",
@@ -1051,9 +1169,9 @@
       ],
       "dest": "dev/decoded",
       "title": "decoded",
-      "head": "*decoded*",
+      "head": "decoded",
       "capt": null,
-      "desc": null,
+      "desc": "difficulties, challenges and lessons from years of software development",
       "index": [
         "dev",
         "notes"
@@ -1062,12 +1180,12 @@
         "dev",
         "notes"
       ],
-      "date": "2024-04-01",
-      "date_display": "2024 Apr"
+      "date": "2024-01-01",
+      "date_display": "2024 / April"
     },
     "~dev/fix.md": {
       "path": "~dev/fix.md",
-      "last_deploy": "2024-09-16 09:19:42 +0000",
+      "last_deploy": "2024-09-14 11:38:43 +0100",
       "slocs": 56,
       "chars": 3772,
       "isIndex": false,
@@ -1094,7 +1212,7 @@
     },
     "~dev/git.md": {
       "path": "~dev/git.md",
-      "last_deploy": "2024-09-16 09:19:42 +0000",
+      "last_deploy": "2024-09-13 17:53:34 +0100",
       "slocs": 78,
       "chars": 1407,
       "isIndex": false,
@@ -1119,7 +1237,7 @@
     },
     "~dev/readme.md": {
       "path": "~dev/readme.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-09-29 21:21:18 +0100",
       "slocs": 14,
       "chars": 372,
       "isIndex": true,
@@ -1143,7 +1261,7 @@
     },
     "~games/readme.md": {
       "path": "~games/readme.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-10-03 17:07:35 +0100",
       "slocs": 115,
       "chars": 3268,
       "isIndex": true,
@@ -1167,7 +1285,7 @@
     },
     "~lists/grateful.md": {
       "path": "~lists/grateful.md",
-      "last_deploy": "2024-09-13 13:45:19 +0000",
+      "last_deploy": "2024-09-04 11:05:16 +0100",
       "slocs": 13,
       "chars": 394,
       "isIndex": false,
@@ -1190,9 +1308,9 @@
     },
     "~lists/readme.md": {
       "path": "~lists/readme.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-09-28 20:49:00 +0100",
       "slocs": 19,
-      "chars": 417,
+      "chars": 398,
       "isIndex": true,
       "flags": [
         "live",
@@ -1214,7 +1332,7 @@
     },
     "~misc/filltext.md": {
       "path": "~misc/filltext.md",
-      "last_deploy": "2024-09-16 09:19:42 +0000",
+      "last_deploy": "2024-09-13 17:55:12 +0100",
       "slocs": 41,
       "chars": 3923,
       "isIndex": false,
@@ -1238,7 +1356,7 @@
     },
     "~personal/evodread.md": {
       "path": "~personal/evodread.md",
-      "last_deploy": "2024-09-13 13:45:19 +0000",
+      "last_deploy": "2024-09-06 11:49:17 +0100",
       "slocs": 34,
       "chars": 1591,
       "isIndex": false,
@@ -1261,7 +1379,7 @@
     },
     "~personal/interests.md": {
       "path": "~personal/interests.md",
-      "last_deploy": "2024-09-16 09:19:42 +0000",
+      "last_deploy": "2024-09-15 17:42:18 +0100",
       "slocs": 130,
       "chars": 2147,
       "isIndex": false,
@@ -1286,7 +1404,7 @@
     },
     "~personal/slinqui.md": {
       "path": "~personal/slinqui.md",
-      "last_deploy": "2024-09-16 09:19:42 +0000",
+      "last_deploy": "2024-09-13 18:25:19 +0100",
       "slocs": 26,
       "chars": 2142,
       "isIndex": false,
@@ -1312,7 +1430,7 @@
     },
     "~poetry/Assort.md": {
       "path": "~poetry/Assort.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-09-21 08:50:04 +0100",
       "slocs": 35,
       "chars": 809,
       "isIndex": false,
@@ -1337,7 +1455,7 @@
     },
     "~poetry/Forsitan.md": {
       "path": "~poetry/Forsitan.md",
-      "last_deploy": "2024-09-13 13:45:19 +0000",
+      "last_deploy": "2024-09-04 09:21:58 +0100",
       "slocs": 33,
       "chars": 614,
       "isIndex": false,
@@ -1361,7 +1479,7 @@
     },
     "~poetry/Fractured, Shattered, Hearted.md": {
       "path": "~poetry/Fractured, Shattered, Hearted.md",
-      "last_deploy": "2024-09-13 13:45:19 +0000",
+      "last_deploy": "2024-09-03 19:45:55 +0100",
       "slocs": 59,
       "chars": 1596,
       "isIndex": false,
@@ -1386,7 +1504,7 @@
     },
     "~poetry/Heartburn.md": {
       "path": "~poetry/Heartburn.md",
-      "last_deploy": "2024-09-13 13:45:19 +0000",
+      "last_deploy": "2024-07-23 22:54:37 +0100",
       "slocs": 42,
       "chars": 1271,
       "isIndex": false,
@@ -1410,9 +1528,9 @@
     },
     "~poetry/Heavy Crown.md": {
       "path": "~poetry/Heavy Crown.md",
-      "last_deploy": "2024-09-13 13:45:19 +0000",
+      "last_deploy": "2024-07-23 22:54:58 +0100",
       "slocs": 36,
-      "chars": 874,
+      "chars": 838,
       "isIndex": false,
       "flags": [
         "live"
@@ -1434,9 +1552,9 @@
     },
     "~poetry/Lifeless.md": {
       "path": "~poetry/Lifeless.md",
-      "last_deploy": "2024-09-13 13:45:19 +0000",
+      "last_deploy": "2024-07-23 22:55:15 +0100",
       "slocs": 39,
-      "chars": 894,
+      "chars": 855,
       "isIndex": false,
       "flags": [
         "live"
@@ -1458,7 +1576,7 @@
     },
     "~poetry/Love Letter.md": {
       "path": "~poetry/Love Letter.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-10-03 17:07:35 +0100",
       "slocs": 28,
       "chars": 841,
       "isIndex": false,
@@ -1483,7 +1601,7 @@
     },
     "~poetry/Nameless.md": {
       "path": "~poetry/Nameless.md",
-      "last_deploy": "2024-09-13 13:45:19 +0000",
+      "last_deploy": "2024-09-05 19:30:57 +0100",
       "slocs": 38,
       "chars": 798,
       "isIndex": false,
@@ -1508,7 +1626,7 @@
     },
     "~poetry/Perfect.md": {
       "path": "~poetry/Perfect.md",
-      "last_deploy": "2024-09-13 13:45:19 +0000",
+      "last_deploy": "2024-07-23 22:56:31 +0100",
       "slocs": 20,
       "chars": 644,
       "isIndex": false,
@@ -1532,9 +1650,9 @@
     },
     "~poetry/Quantitative Quantitivity.md": {
       "path": "~poetry/Quantitative Quantitivity.md",
-      "last_deploy": "2024-09-13 13:45:19 +0000",
+      "last_deploy": "2024-07-23 22:57:04 +0100",
       "slocs": 62,
-      "chars": 1390,
+      "chars": 1328,
       "isIndex": false,
       "flags": [
         "live"
@@ -1556,9 +1674,9 @@
     },
     "~poetry/Reverie.md": {
       "path": "~poetry/Reverie.md",
-      "last_deploy": "2024-09-13 13:45:19 +0000",
+      "last_deploy": "2024-07-23 22:58:33 +0100",
       "slocs": 41,
-      "chars": 1113,
+      "chars": 1072,
       "isIndex": false,
       "flags": [
         "live"
@@ -1580,7 +1698,7 @@
     },
     "~poetry/Strive.md": {
       "path": "~poetry/Strive.md",
-      "last_deploy": "2024-09-13 13:45:19 +0000",
+      "last_deploy": "2024-07-23 22:59:00 +0100",
       "slocs": 48,
       "chars": 945,
       "isIndex": false,
@@ -1605,9 +1723,9 @@
     },
     "~poetry/Teardrop.md": {
       "path": "~poetry/Teardrop.md",
-      "last_deploy": "2024-09-16 09:20:44 +0000",
+      "last_deploy": "2024-09-16 17:34:17 +0100",
       "slocs": 37,
-      "chars": 913,
+      "chars": 876,
       "isIndex": false,
       "flags": [
         "live"
@@ -1630,9 +1748,9 @@
     },
     "~poetry/The Programmer's Plight.md": {
       "path": "~poetry/The Programmer's Plight.md",
-      "last_deploy": "2024-09-16 09:19:42 +0000",
+      "last_deploy": "2024-09-13 18:25:32 +0100",
       "slocs": 128,
-      "chars": 4236,
+      "chars": 4108,
       "isIndex": false,
       "flags": [
         "live",
@@ -1657,9 +1775,9 @@
     },
     "~poetry/This.md": {
       "path": "~poetry/This.md",
-      "last_deploy": "2024-09-13 13:45:19 +0000",
+      "last_deploy": "2024-07-23 22:59:46 +0100",
       "slocs": 34,
-      "chars": 873,
+      "chars": 839,
       "isIndex": false,
       "flags": [
         "live"
@@ -1681,9 +1799,9 @@
     },
     "~poetry/Time of the Times.md": {
       "path": "~poetry/Time of the Times.md",
-      "last_deploy": "2024-09-13 13:45:19 +0000",
+      "last_deploy": "2024-07-23 23:00:20 +0100",
       "slocs": 29,
-      "chars": 815,
+      "chars": 786,
       "isIndex": false,
       "flags": [
         "live"
@@ -1705,7 +1823,7 @@
     },
     "~poetry/Titles.md": {
       "path": "~poetry/Titles.md",
-      "last_deploy": "2024-09-16 09:20:57 +0000",
+      "last_deploy": "2024-09-16 17:34:17 +0100",
       "slocs": 49,
       "chars": 1318,
       "isIndex": false,
@@ -1730,9 +1848,9 @@
     },
     "~poetry/What Was This Called Again.md": {
       "path": "~poetry/What Was This Called Again.md",
-      "last_deploy": "2024-09-13 13:45:19 +0000",
+      "last_deploy": "2024-07-23 23:01:07 +0100",
       "slocs": 26,
-      "chars": 586,
+      "chars": 560,
       "isIndex": false,
       "flags": [
         "live"
@@ -1754,7 +1872,7 @@
     },
     "~poetry/Wordless.md": {
       "path": "~poetry/Wordless.md",
-      "last_deploy": "2024-09-13 13:45:19 +0000",
+      "last_deploy": "2024-09-03 19:44:13 +0100",
       "slocs": 56,
       "chars": 1365,
       "isIndex": false,
@@ -1778,7 +1896,7 @@
     },
     "~poetry/fractal fracking.md": {
       "path": "~poetry/fractal fracking.md",
-      "last_deploy": "2024-09-16 09:19:55 +0000",
+      "last_deploy": "2024-09-16 17:34:17 +0100",
       "slocs": 44,
       "chars": 1397,
       "isIndex": false,
@@ -1803,9 +1921,9 @@
     },
     "~poetry/readme.md": {
       "path": "~poetry/readme.md",
-      "last_deploy": "2024-10-03 07:16:45 +0000",
+      "last_deploy": "2024-09-28 21:05:19 +0100",
       "slocs": 50,
-      "chars": 1343,
+      "chars": 1293,
       "isIndex": true,
       "flags": [
         "live",
@@ -1827,7 +1945,7 @@
     },
     "~poetry/折磨.md": {
       "path": "~poetry/折磨.md",
-      "last_deploy": "2024-09-16 09:21:10 +0000",
+      "last_deploy": "2024-09-16 17:34:17 +0100",
       "slocs": 58,
       "chars": 512,
       "isIndex": false,
@@ -1851,7 +1969,7 @@
     },
     "~writing/commit.md": {
       "path": "~writing/commit.md",
-      "last_deploy": "2024-09-16 09:19:42 +0000",
+      "last_deploy": "2024-09-14 11:38:43 +0100",
       "slocs": 16,
       "chars": 237,
       "isIndex": false,
@@ -1875,7 +1993,7 @@
     },
     "~writing/roots.md": {
       "path": "~writing/roots.md",
-      "last_deploy": "2024-09-16 09:19:42 +0000",
+      "last_deploy": "2024-09-14 11:38:43 +0100",
       "slocs": 29,
       "chars": 1028,
       "isIndex": false,
@@ -1900,7 +2018,7 @@
     },
     "~writing/wriiting.md": {
       "path": "~writing/wriiting.md",
-      "last_deploy": "2024-09-13 13:45:19 +0000",
+      "last_deploy": "2024-07-16 17:24:52 +0100",
       "slocs": 59,
       "chars": 3411,
       "isIndex": false,
@@ -1925,7 +2043,7 @@
     },
     "~writing/writing.md": {
       "path": "~writing/writing.md",
-      "last_deploy": "2024-09-16 09:19:42 +0000",
+      "last_deploy": "2024-09-14 11:38:43 +0100",
       "slocs": 61,
       "chars": 4267,
       "isIndex": false,

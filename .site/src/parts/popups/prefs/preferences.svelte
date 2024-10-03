@@ -23,8 +23,8 @@ import A11yPrefs from "./views/prefs.a11y.svelte";
 <div class="popup" on:click={event => event.stopPropagation()}>
   <PrefsNav />
 
-  <div class="prefs">
-    <div style:float="right">
+  <div class="prefs" style:position="relative">
+    <div style="position: absolute; top: 0.5rem; right: 0.5rem;">
       <Click kind="trit" button={() => $popups.prefs.shown = false}>
         <span class="material-symbols-rounded">
           close
@@ -52,7 +52,7 @@ import A11yPrefs from "./views/prefs.a11y.svelte";
         <h2> Accessibility </h2>
         <A11yPrefs />
       {:else}
-        <!-- empty -->
+        <p> Uh, no page selected? </p>
       {/if}
     </div>
 
