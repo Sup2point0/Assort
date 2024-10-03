@@ -1,3 +1,25 @@
+/* GitHub Dark
+ * 1.0.0
+ * The GitHub dark theme
+ */
+.github-dark {
+  --col-prot: oklch(63.54% 0.198 255.83);
+  --col-deut: oklch(63.8% 0.196 19.13);
+  --col-flavour: oklch(64.01% 0.175 146.74);
+  --col-text: white;
+  --col-text-prot: oklch(90.68% 0.15 95.36);
+  --col-text-deut: oklch(69.21% 0.015 248.04);
+  --col-back: oklch(27.81% 0.012 248.25);
+  --col-back-prot: oklch(38.9% 0.132 256.56);
+  --col-back-deut: oklch(41.56% 0.019 248.28);
+  --col-back-trit: oklch(32.91% 0.016 248.3);
+  --col-card: oklch(48.53% 0.018 251.31);
+  --col-card-hover: oklch(55.14% 0.019 250.98);
+  --col-link: oklch(63.54% 0.198 255.83);
+  --col-link-visit: oklch(59.11% 0.165 297.31);
+  --col-link-hover: red;
+}
+
 /* Ignite
  * 1.0
  * 
@@ -27,11 +49,10 @@
 }
 
 /* soup
- * 1.0
+ * 2.1.0
  * Light colours for the Assort site
  */
 .soup {
-  --col-version: 2.0.0;
   --col-prot: oklch(65.12% 0.18 262.62);
   --col-deut: #ff055f;
   --col-flavour: oklch(80% 0.096 301.79);
@@ -55,8 +76,8 @@
   --col-link-hover: #ff0090;
   --col-link-click: #9040f1;
   --col-card: oklch(96% 0.01 269.69);
-  --col-card-hover: oklch(95% 0.005 269.69);
-  --col-card-click: oklch(85% 0.005 269.69);
+  --col-card-hover: oklch(92% 0.02 269.69);
+  --col-card-click: oklch(84% 0.02 269.69);
 }
 
 /* souper
@@ -85,4 +106,51 @@
   --col-card: ;
   --col-card-hover: ;
   --col-card-click: ;
+}
+
+/* Tokyo Night
+ * 1.0.0
+ * A beautiful combo of dark blues and vivid neons, inspired by the beautiful city of Tokyo at night.
+ */
+.tokyo-night {
+  --col-credits: folke/tokyonight.nvim;
+  --col-prot: #7aa2f7;
+  --col-deut: #ff757f;
+  --col-flavour: #ff9e64;
+  --col-focus: #b4f9f8;
+  --col-text: white;
+  --col-text-prot: #ffc777;
+  --col-text-deut: #737aa2;
+  --col-back: #1f2335;
+  --col-back-prot: #3b4261;
+  --col-back-deut: #292e42;
+  --col-back-trit: #24283b;
+  --col-line: #394b70;
+  --col-link: #41a6b5;
+  --col-link-visit: #9d7cd8;
+  --col-link-hover: red;
+  --col-card: #545c7e;
+  --col-card-hover: #737aa2;
+  --col-card-click: #565f89;
+}
+
+/* Tomorrow Night Blue
+ * 1.0.0
+ * The Tomorrow Night Blue VSCode theme.
+ */
+.tomorrow-night-blue {
+  --col-prot: #d1f1a9;
+  --col-deut: #ff9da4;
+  --col-hover: rgba(255 255 255 / 5%);
+  --col-text: white;
+  --col-text-prot: #ff9da4;
+  --col-text-deut: #7285b7;
+  --col-back: #001c40;
+  --col-back-prot: #002451;
+  --col-back-deut: #001733;
+  --col-line: #7285b7;
+  --col-link: #99ffff;
+  --col-link-visit: #ebbbff;
+  --col-link-hover: red;
+  --col-card: #7285b7;
 }

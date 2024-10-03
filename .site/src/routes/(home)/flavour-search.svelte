@@ -1,10 +1,18 @@
 <script>
 
-import { base } from "$app/paths";
-
 import { flavourStatus } from "#modules/utils";
 
 import Search from "#parts/ext/search.svelte";
+
+import { base } from "$app/paths";
+import { onMount } from "svelte";
+
+
+let status = "";
+
+onMount(() => {
+  status = flavourStatus();
+});
 
 </script>
 
@@ -15,18 +23,10 @@ import Search from "#parts/ext/search.svelte";
   }}
 />
 
-<p>
-  {flavourStatus()}
-</p>
+<p> {status} </p>
 
 
 <style lang="scss">
-
-.flavour-status {
-  // min-width: 20rem;
-  // margin: 1rem 0 3rem;
-  // padding: 0.5rem 0;
-}
 
 p {
   margin: 0 1.5em;
