@@ -12,7 +12,14 @@ import PaletteCard from "../parts/card.palette.svelte";
 
 <PrefsCell name="Colour Theme"
   desc="Enforce a light or dark colour palette. If neither is selected, the page’s default will be used."
-/>
+>
+  <select bind:value={$prefs.cols.duality}>
+    <option value={null}> no preference </option>
+    <option>light</option>
+    <option>dark</option>
+    <option>system</option>
+  </select>
+</PrefsCell>
 
 <PrefsCell name="Dual Palettes"
   desc="Enable to use different colour palettes for light and dark pages."
