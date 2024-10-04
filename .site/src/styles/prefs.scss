@@ -3,17 +3,36 @@
 @use './src/styles/mixins/~interact' as *;
 
 
+$check-size: 1.5em;
+$check-fill: 0.6;
+
+
 input[type="checkbox"] {
   appearance: none;
-  width: 1.5em;
-  height: 1.5em;
+    -webkit-appearance: none;
+  width: $check-size;
+  height: $check-size;
   position: relative;
   border: 2px solid var(--col-line);
   border-radius: 0.75rem;
   color: white;
 
+  &::before {
+    visibility: hidden;
+    width: calc($check-size * $check-fill);
+    height: calc($check-size * $check-fill);;
+    border-radius: 0.5rem;
+    background-color: var(--col-deut);
+    content: "";
+    position: absolute;
+    left: calc($check-size * (1 - $check-fill) / 4);
+    top: calc($check-size * (1 - $check-fill) / 4);
+  }
+
   &:checked {
-    background: var(--col-deut);
+    &::before {
+      visibility: visible;
+    }
   }
 
   &:hover {
