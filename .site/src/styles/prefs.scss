@@ -30,24 +30,24 @@ select, option {
 select {
   min-width: 8rem;
   padding: 0.5em;
-  background-color: var(--col-back-trit);
+  background-color: var(--col-card);
   border: none;
   border-radius: 0.5rem;
 
   @include focus-outline;
   @include interactive(
-    var(--col-prot),
-    var(--col-back)
+    var(--col-card-hover),
+    var(--col-card-click)
   );
 }
 
 option {
   margin: 1rem;
   padding: 1rem;
-  background-color: var(--col-back-trit);
+  background-color: var(--col-card);
   border: none;
 
   &:checked {
-    background-color: red;
+    background-color: var(--col-back-prot);
   }
 }
