@@ -118,7 +118,8 @@
   --col-deut: #ff757f;
   --col-flavour: #ff9e64;
   --col-hover: rgba(255 255 255 / 8%);
-  --col-focus: #b4f9f8;
+  --col-focus: #4fd6be;
+  --col-select: #ff007c;
   --col-text: white;
   --col-text-prot: #ffc777;
   --col-text-deut: #737aa2;
@@ -126,8 +127,9 @@
   --col-back: #1f2335;
   --col-back-prot: #3b4261;
   --col-back-deut: #292e42;
-  --col-back-trit: #24283b;
+  --col-back-trit: #161927;
   --col-line: #394b70;
+  --col-line-deut: #161927;
   --col-link: #41a6b5;
   --col-link-visit: #9d7cd8;
   --col-link-hover: #ff007c;
