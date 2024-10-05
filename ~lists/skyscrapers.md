@@ -26,6 +26,7 @@ A collection of really awesome Skyscrapers puzzles.
 
 | date | notes |
 | :--- | :---- |
+| [2024 October 5](https://www.brainbashers.com/p082457) | VICTORY |
 | [2024 September 14](https://www.brainbashers.com/p330726) | terrifying at first, but absolutely doable |
 | [Jan 31](https://www.brainbashers.com/showskyscrapers.asp?date=0131&size=6&diff=3) | |
 | [Feb 7](https://www.brainbashers.com/showskyscrapers.asp?date=0207&size=6&diff=3) | |
