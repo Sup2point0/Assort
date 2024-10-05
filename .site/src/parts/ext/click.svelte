@@ -10,8 +10,6 @@ export let button: MouseEventHandler<HTMLElement> | undefined = undefined;
 export let action: "show" | "hide" | "change" | undefined = undefined;
   export let store: any = undefined;
 
-export let radius: number | undefined = undefined;
-
 
 let callback: MouseEventHandler<HTMLElement>;
 
@@ -47,14 +45,14 @@ if (action) {
 
 {#if link || intern}
   <a href={link || `${base}/${intern}`}
-    style:border-radius={`${radius}rem`}
+    style={$$restProps.style}
   >
     <slot />
   </a>
 
 {:else}
   <button class={kind} on:click={callback}
-    style:border-radius={`${radius}rem`}
+    style={$$restProps.style}
   >
     <slot />
   </button>
