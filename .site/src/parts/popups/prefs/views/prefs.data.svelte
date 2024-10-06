@@ -4,9 +4,9 @@ import { prefs } from "#modules/stores";
 
 import PrefsCell from "../parts/prefs.cell.svelte";
 
-// import UpdatePrefs from "../parts/data.update.svelte";
+import UpdatePrefs from "../parts/data.update.svelte";
 import ExportPrefs from "../parts/data.export.svelte";
-// import ImportPrefs from "../parts/data.import.svelte";
+import ImportPrefs from "../parts/data.import.svelte";
 
 </script>
 
@@ -17,25 +17,19 @@ import ExportPrefs from "../parts/data.export.svelte";
 <PrefsCell name="Update Preferences"
   desc="Update your preferences format to include newer options."
 >
-  <!-- <UpdatePrefs /> -->
+  <UpdatePrefs />
 </PrefsCell>
 
-<PrefsCell name="Update Preferences"
-  desc="Update your preferences format to include newer options."
+<PrefsCell name="Export Preferences"
+  desc="Export preferences as a JSON file."
 >
   <ExportPrefs />
-  <p class="caption">
-    Export preferences as a JSON file.
-  </p>
 </PrefsCell>
 
-<PrefsCell name="Update Preferences"
+<PrefsCell name="Import Preferences"
   desc="Import preferences from a JSON file."
 >
-  <!-- <ImportPrefs /> -->
-  <p class="caption">
-    Import preferences from a JSON file.
-  </p>
+  <ImportPrefs />
 </PrefsCell>
 
 

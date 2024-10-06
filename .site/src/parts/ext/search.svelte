@@ -20,24 +20,24 @@ const dispatch = createEventDispatcher();
 
 
 <search>
-  <input type="search"
-    {placeholder}
-    bind:value={options.query}
-  />
+  <form on:submit|preventDefault={() => dispatch("search", { query: options.query })}>
+    <input type="search"
+      {placeholder}
+      bind:value={options.query}
+    />
 
-  <button on:click={() => {
-    dispatch("search", { query: options.query});
-  }}>
-    <span class="material-symbols-rounded">
-      search
-    </span>
-  </button>
+    <button type="submit">
+      <span class="material-symbols-rounded">
+        search
+      </span>
+    </button>
+  </form>
 </search>
 
 
 <style lang="scss">
 
-search {
+form {
   width: 100%;
   height: 3rem;
   min-width: 20rem;

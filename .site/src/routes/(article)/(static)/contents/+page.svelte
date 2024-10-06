@@ -1,83 +1,23 @@
 <script lang="ts">
 
-import { ratio } from "fuzzball";
-
-import { base } from "$app/paths";
-import { onMount } from "svelte";
-
 import Site from "#src/site";
 
+import { SearchOptions } from "#modules/types";
 import type { PageData } from "#modules/types";
 
+import Search from "#parts/ext/search.svelte";
 
-const pages = Object.values(Site.pages);
-let pageSelection = [];
-
-onMount(() => {
-  pageSelection = searchFilter(pages);
-})
+import { base } from "$app/paths";
 
 
-let searchData = {
-  query: "",
-  field: null,
-  reverse: false,
-}
-
-function searchFilter(pages: Array<PageData>): Array<PageData> {
-  let source = [...pages];
-
-  let querying = (searchData.query && searchData.query);
-
-  // check sufficient relevance first
-  if (querying) {
-    source = source.filter(
-      page => ratio(page.title, searchData.query) > 10
-    )
-  }
-
-  if (searchData.field) {
-    // sort by field relevance
-    source.sort((prot, deut) => {
-      (deut[field] - prot[field]) * (searchData.reverse ? -1 : 1)
-    });
-  } else {
-    // sort by query relevance
-    if (searchData.query && searchData.query != "") {
-      source.sort((prot, deut) => (
-        (
-          (
-            ratio(deut.title, searchData.query)
-          + (deut.title.toLowerCase().includes(searchData.query.toLowerCase()) ? 100 : 0)
-          ) - (
-            ratio(prot.title, searchData.query)
-          + (prot.title.toLowerCase().includes(searchData.query.toLowerCase()) ? 100 : 0)
-          )
-        ) * (searchData.reverse ? -1 : 1)
-      ));
-    }
-  }
-
-  return source;
-}
+let searchOptions = new SearchOptions<PageData>();
 
 </script>
 
 
 <p> Explore all the pages in Assort! </p>
 
-<div id="search-controls">
-  <input id="search-bar" type="search"
-    placeholder="Search..."
-    bind:value={searchData.query}
-  />
-
-  <button id="search-button" on:click={() => {
-    pageSelection = searchFilter(pages);
-  }}>
-    <span class="material-symbols-outlined"> search </span>
-  </button>
-</div>
+<Search bind:options={searchOptions} />
 
 <table>
   <tr>
@@ -89,9 +29,9 @@ function searchFilter(pages: Array<PageData>): Array<PageData> {
     <th> Chars </th>
   </tr>
 
-  {#each pageSelection as page}
-    {@const indexed = page.index.map(each => Site.index[each])}
-    {@const shards = page.shard.map(each => Site.shard[each])}
+  {#each searchOptions.apply(Object.values(Site.pages)) as page}
+    {@const indexed = page.index?.map(each => Site.index[each])}
+    {@const shards = page.shard?.map(each => Site.shard[each])}
 
     <tr>
       <td>
@@ -100,7 +40,7 @@ function searchFilter(pages: Array<PageData>): Array<PageData> {
 
       <!-- INDEX -->
       <td>
-        {#each indexed as index}
+        {#each indexed ?? [] as index}
           <!-- very annoying hack here to avoid random spaces being injected -->
           <a href="{base}/{index?.path}">{index?.display ?? "?"}</a
           >{#if index != indexed[indexed.length -1]}
@@ -112,7 +52,7 @@ function searchFilter(pages: Array<PageData>): Array<PageData> {
 
       <!-- SHARD -->
       <td>
-        {#each shards as shard}
+        {#each shards ?? [] as shard}
           <a href="{base}/{shard?.path}">{shard?.display ?? "?"}</a
             >{#if shard != shards[shards.length -1]}
               <span class="divider">/</span>
