@@ -2,7 +2,7 @@ import Site from "#src/site";
 
 
 export default class Preferences {
-  _version = "2.1.0";
+  _version = "2.1.1";
   nav = new NavOptions();
   tools = new ToolsOptions();
   text = new TextOptions();
@@ -26,7 +26,7 @@ class TextOptions {
 }
 
 class ColsOptions {
-  duality: "light" | "dark" | null = null;
+  duality: "light" | "dark" | "system" | null = null;
   palettes = {
     light: "soup",
     dark: "ignite",

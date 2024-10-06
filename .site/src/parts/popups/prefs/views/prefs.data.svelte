@@ -14,20 +14,29 @@ import ExportPrefs from "../parts/data.export.svelte";
 
 <p> Preferences are saved to local storage. </p>
 
-<!-- <UpdatePrefs /> -->
-<p class="caption">
-  Update your preferences format to include newer options.
-</p>
+<PrefsCell name="Update Preferences"
+  desc="Update your preferences format to include newer options."
+>
+  <!-- <UpdatePrefs /> -->
+</PrefsCell>
 
-<ExportPrefs />
-<p class="caption">
-  Export preferences as a JSON file.
-</p>
+<PrefsCell name="Update Preferences"
+  desc="Update your preferences format to include newer options."
+>
+  <ExportPrefs />
+  <p class="caption">
+    Export preferences as a JSON file.
+  </p>
+</PrefsCell>
 
-<!-- <ImportPrefs /> -->
-<p class="caption">
-  Import preferences from a JSON file.
-</p>
+<PrefsCell name="Update Preferences"
+  desc="Import preferences from a JSON file."
+>
+  <!-- <ImportPrefs /> -->
+  <p class="caption">
+    Import preferences from a JSON file.
+  </p>
+</PrefsCell>
 
 
 <style lang="scss">

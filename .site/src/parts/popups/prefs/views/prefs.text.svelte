@@ -17,7 +17,7 @@ import { prefs } from "#modules/stores";
 <PrefsCell name="Typeface">
   <select bind:value={$prefs.text.typeface}>
     {#each Site.fonts as font}
-      <option> {font} </option>
+      <option>{font}</option>
     {/each}
   </select>
 </PrefsCell>
