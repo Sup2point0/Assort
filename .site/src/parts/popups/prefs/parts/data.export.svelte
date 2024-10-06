@@ -22,5 +22,5 @@ function exportPrefs() {
 <Click kind="prot" button={exportPrefs}
   style="border-radius: 0.5rem; padding: 0.5em 1em;"
 >
-  Export JSON
+  <p> Export JSON </p>
 </Click>

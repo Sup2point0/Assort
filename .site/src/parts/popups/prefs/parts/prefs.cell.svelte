@@ -5,7 +5,7 @@ A row in a preferences page.
 
 <script lang="ts">
 
-export let name: string;
+export let name: string | undefined = undefined;
 export let desc: string | undefined = undefined;
 
 </script>
@@ -13,7 +13,10 @@ export let desc: string | undefined = undefined;
 
 <section>
   <header>
-    <h4> {name} </h4>
+    {#if name}
+      <h4> {name} </h4>
+    {/if}
+
     {#if desc}
       <p class="caption"> {@html desc} </p>
     {/if}
