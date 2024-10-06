@@ -1,7 +1,7 @@
 import Site from "#src/site";
 
 
-export default class Preferences {
+export class Preferences {
   _version = "2.1.1";
   nav = new NavOptions();
   tools = new ToolsOptions();

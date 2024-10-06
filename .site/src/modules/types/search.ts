@@ -1,7 +1,7 @@
 import { searchRatio } from "../utils/search-ratio";
 
 
-export default class SearchOptions<T>
+export class SearchOptions<T>
 {
   query: string;
   queryWith: ((data: T) => string);

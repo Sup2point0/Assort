@@ -1,4 +1,5 @@
-export default interface PageData {
+export interface PageData
+{
   path: string;
   last_deploy: string;
   isIndex: boolean;
