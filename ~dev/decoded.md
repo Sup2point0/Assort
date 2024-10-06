@@ -6,7 +6,7 @@
 | head = decoded
 | style = dev
 | index = dev / notes
-| date = 2024 / April
+| date = 2024 April
 -->
 
 <section class="synopsis">

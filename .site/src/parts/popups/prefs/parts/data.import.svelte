@@ -28,5 +28,5 @@ function importPrefs() {
 <Click kind="prot" button={importPrefs}
   style="border-radius: 0.5rem; padding: 0.5em 1em;"
 >
-  Import JSON
+  <p> Import JSON </p>
 </Click>

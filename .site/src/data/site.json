@@ -1,5 +1,5 @@
 {
-  "exported": "2024-10-04",
+  "exported": "2024-10-06",
   "index": {
     "info": {
       "route": null,
@@ -134,7 +134,6 @@
         "~poetry/Heartburn.md",
         "~poetry/Heavy Crown.md",
         "~poetry/Lifeless.md",
-        "~poetry/Love Letter.md",
         "~poetry/Nameless.md",
         "~poetry/Quantitative Quantitivity.md",
         "~poetry/Reverie.md",
@@ -146,6 +145,7 @@
         "~poetry/Titles.md",
         "~poetry/What Was This Called Again.md",
         "~poetry/Wordless.md",
+        "~poetry/export public protected static final const Love.md",
         "~poetry/fractal fracking.md",
         "~poetry/折磨.md"
       ]
@@ -288,7 +288,6 @@
       "~poetry/Heartburn.md",
       "~poetry/Heavy Crown.md",
       "~poetry/Lifeless.md",
-      "~poetry/Love Letter.md",
       "~poetry/Nameless.md",
       "~poetry/Quantitative Quantitivity.md",
       "~poetry/Reverie.md",
@@ -300,6 +299,7 @@
       "~poetry/Titles.md",
       "~poetry/What Was This Called Again.md",
       "~poetry/Wordless.md",
+      "~poetry/export public protected static final const Love.md",
       "~poetry/fractal fracking.md",
       "~poetry/折磨.md"
     ],
@@ -321,12 +321,6 @@
       "~poetry/Reverie.md",
       "~poetry/Strive.md"
     ],
-    "ironic": [
-      "~poetry/Love Letter.md"
-    ],
-    "heartfelt": [
-      "~poetry/Love Letter.md"
-    ],
     "ramblings": [
       "~poetry/Quantitative Quantitivity.md",
       "~poetry/Titles.md",
@@ -346,6 +340,12 @@
     "nerdy": [
       "~poetry/Titles.md",
       "~poetry/fractal fracking.md"
+    ],
+    "ironic": [
+      "~poetry/export public protected static final const Love.md"
+    ],
+    "heartfelt": [
+      "~poetry/export public protected static final const Love.md"
     ],
     "chinese": [
       "~poetry/折磨.md"
@@ -477,9 +477,9 @@
     },
     "Yu-Gi-Oh/Creating Custom Cards.md": {
       "path": "Yu-Gi-Oh/Creating Custom Cards.md",
-      "last_deploy": "2024-10-03 17:07:34 +0100",
+      "last_deploy": "2024-10-06 13:48:12 +0100",
       "slocs": 116,
-      "chars": 6557,
+      "chars": 6555,
       "isIndex": false,
       "flags": [
         "live",
@@ -498,8 +498,8 @@
         "writing",
         "opinion"
       ],
-      "date": "2024-01-01",
-      "date_display": "2024 / September"
+      "date": "2024-09-01",
+      "date_display": "2024 September"
     },
     "Yu-Gi-Oh/archetypes/Darquess.md": {
       "path": "Yu-Gi-Oh/archetypes/Darquess.md",
@@ -1111,9 +1111,9 @@
     },
     "~dev/Slithering Hump-Back Kebabs.md": {
       "path": "~dev/Slithering Hump-Back Kebabs.md",
-      "last_deploy": "2024-10-03 17:07:34 +0100",
+      "last_deploy": "2024-10-06 13:48:10 +0100",
       "slocs": 72,
-      "chars": 2520,
+      "chars": 2518,
       "isIndex": false,
       "flags": [
         "live"
@@ -1131,7 +1131,7 @@
         "writing"
       ],
       "date": "2024-01-01",
-      "date_display": "2024 / spring"
+      "date_display": "2024 spring"
     },
     "~dev/buttons.md": {
       "path": "~dev/buttons.md",
@@ -1159,9 +1159,9 @@
     },
     "~dev/decoded.md": {
       "path": "~dev/decoded.md",
-      "last_deploy": "2024-10-03 17:07:34 +0100",
+      "last_deploy": "2024-10-06 13:47:54 +0100",
       "slocs": 45,
-      "chars": 3242,
+      "chars": 3240,
       "isIndex": false,
       "flags": [
         "live",
@@ -1180,8 +1180,8 @@
         "dev",
         "notes"
       ],
-      "date": "2024-01-01",
-      "date_display": "2024 / April"
+      "date": "2024-04-01",
+      "date_display": "2024 April"
     },
     "~dev/fix.md": {
       "path": "~dev/fix.md",
@@ -1574,31 +1574,6 @@
       "date": "2023-04-01",
       "date_display": "2023 April"
     },
-    "~poetry/Love Letter.md": {
-      "path": "~poetry/Love Letter.md",
-      "last_deploy": "2024-10-03 17:07:35 +0100",
-      "slocs": 28,
-      "chars": 841,
-      "isIndex": false,
-      "flags": [
-        "live"
-      ],
-      "dest": "poetry/love-letter",
-      "title": "Love Letter",
-      "head": "Love Letter",
-      "capt": null,
-      "desc": "A love letter to programming",
-      "index": [
-        "poetry"
-      ],
-      "shard": [
-        "poetry",
-        "ironic",
-        "heartfelt"
-      ],
-      "date": "2024-01-01",
-      "date_display": "2024 autumn"
-    },
     "~poetry/Nameless.md": {
       "path": "~poetry/Nameless.md",
       "last_deploy": "2024-09-05 19:30:57 +0100",
@@ -1893,6 +1868,31 @@
       ],
       "date": "2023-12-01",
       "date_display": "2023 December"
+    },
+    "~poetry/export public protected static final const Love.md": {
+      "path": "~poetry/export public protected static final const Love.md",
+      "last_deploy": "2024-10-06 13:48:56 +0100",
+      "slocs": 28,
+      "chars": 883,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "poetry/love",
+      "title": "export public protected static final const Love;",
+      "head": "export public protected static final const Love;",
+      "capt": null,
+      "desc": "\"\"\"A love letter to programming\"\"\"",
+      "index": [
+        "poetry"
+      ],
+      "shard": [
+        "poetry",
+        "ironic",
+        "heartfelt"
+      ],
+      "date": "2024-01-01",
+      "date_display": "2024 autumn"
     },
     "~poetry/fractal fracking.md": {
       "path": "~poetry/fractal fracking.md",

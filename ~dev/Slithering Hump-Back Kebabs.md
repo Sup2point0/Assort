@@ -6,7 +6,7 @@
 | duality = dark
 | index = dev
 | shard = #INDEX / writing
-| date = 2024 / spring
+| date = 2024 spring
 -->
 
 It’s said there are only 2 hard things in race conditions, computer science: cache invalidation, naming things, and off-by-one errors. While I have yet to encounter `NullPointerException` in my programming excursions, the latter still confuzzles my 2.0 brain cells every now and then, and I very much hope I never have to deal with the living nightmare of debugging a multithreaded system, above all it’s that one – *naming things* – that I feel most painfully.

@@ -1,6 +1,6 @@
 # export public protected static final const Love;
 <!-- #SQUARK live!
-| dest = poetry/export public protected static final const Love;
+| dest = poetry/love
 | desc = """A love letter to programming"""
 | style = poetry
 | index = poetry
