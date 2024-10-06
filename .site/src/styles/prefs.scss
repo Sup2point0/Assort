@@ -11,10 +11,15 @@ input[type="checkbox"] {
   appearance: none;
     -webkit-appearance: none;
   width: $check-size;
+    min-width: $check-size;
+    max-width: $check-size;
   height: $check-size;
+    min-height: $check-size;
+    max-height: $check-size;
+  margin: 0;
   position: relative;
   border: 2px solid var(--col-line);
-  border-radius: 0.75rem;
+  border-radius: calc($check-size / 2);
   color: white;
 
   &::before {
@@ -52,6 +57,7 @@ select {
   background-color: var(--col-card);
   border: none;
   border-radius: 0.5rem;
+  outline: none;
 
   @include focus-outline;
   @include interactive(
@@ -65,8 +71,13 @@ option {
   padding: 1rem;
   background-color: var(--col-card);
   border: none;
+  outline: none;
 
-  &:checked {
-    background-color: var(--col-back-prot);
+  // &:checked {
+  //   background-color: var(--col-back-prot);
+  // }
+
+  &:hover {
+    background-color: var(--col-card-click);
   }
 }

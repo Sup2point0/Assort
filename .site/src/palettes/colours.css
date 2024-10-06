@@ -1,3 +1,5 @@
+/* MODIFIED */
+
 /* GitHub Dark
  * 1.0.0
  * The GitHub dark theme
@@ -158,4 +160,5 @@
   --col-link-hover: #d1f1a9;
   --col-card: #002451;
   --col-card-hover: #00346e;
+  --col-card-click: #00346e;
 }

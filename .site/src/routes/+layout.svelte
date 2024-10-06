@@ -9,7 +9,16 @@ import WindowOverlay from "#parts/popups/window-overlay.svelte";
 import Preferences from "#parts/popups/prefs/preferences.svelte";
 
 
-$: duality = $prefs.cols.duality ?? "light";
+// always fallback to light
+$: duality = $prefs.cols.duality ? (
+  ($prefs.cols.duality == "system") ? (
+    (
+      window.matchMedia &&
+      window.matchMedia("(prefers-color-scheme: dark").matches
+    ) ? "dark" : "light"
+  )
+  : ($prefs.cols.duality == "dark") ? "dark" : "light"
+) : "light";
 
 </script>
 
