@@ -1,4 +1,4 @@
-export default class PopupsState {
+export class PopupsState {
   prefs = new Prefs();
 }
 
