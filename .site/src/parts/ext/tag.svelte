@@ -11,21 +11,21 @@ export let col: string | undefined = "var(--col-card)";
 
 
 {#if intern}
-  <a class="tag" style:--col={colour}
+  <a class="tag" style:--col={col}
     href="{base}/{intern}"
   >
     <slot />
   </a>
 
 {:else if button}
-  <button class="tag" style:--col={colour}
+  <button class="tag" style:--col={col}
     on:click={button}
   >
     <slot />
   </button>
 
 {:else}
-  <div class="tag" style:--col={colour}>
+  <div class="tag" style:--col={col}>
     <slot />
   </div>
 
