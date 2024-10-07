@@ -1,0 +1,39 @@
+DECLARE INTEGER VARIABLE i
+ASSIGN 0 TO i
+
+REPEAT FOR i FROM 1 TO 3
+  SHOULD i > 2 HENCE
+    PUTOUT "Hello World!"
+  CLOSE SHOULD
+INCREMENT i
+
+DECLARE STRING VARIABLE in
+ASSIGN " " TO in
+
+REPEAT WHILE in = " "
+
+  PUTOUT "What’s your name?"
+  PUTIN in
+
+  ATTEMPT
+    CONVERT in TO INTEGER
+  PASS HENCE
+    ASSIGN " " TO in
+    PUTOUT "Invalid name!"
+  CATCH HENCE
+    SHOULD length OF in < 2 HENCE
+      ASSIGN " " TO in
+      PUTOUT "Invalid name!"
+    OTHERWISE
+      PUTOUT "Nice to meet you " + in
+    CLOSE SHOULD
+  CLOSE ATTEMPT
+
+CLOSE WHILE
+
+DEFINE IsEven:x SUCH
+  DECLARE BOOLEAN VARIABLE new
+  ASSIGN (x % 2 = 0) TO new
+  RETURN new
+
+CLOSE DEFINE

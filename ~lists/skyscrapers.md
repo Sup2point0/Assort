@@ -10,6 +10,7 @@ A collection of really awesome Skyscrapers puzzles.
 
 | date | notes |
 | :--- | :---- |
+| [2024 October 6](https://www.brainbashers.com/p705390) | end of a speedrun session, turned out to be quite nontrivial |
 | [2024 October 4](https://www.brainbashers.com/p961237) | crazy crux |
 | [April 22](https://www.brainbashers.com/p637037) | ending collapse! |
 | [Nov 22](https://www.brainbashers.com/p228337)
