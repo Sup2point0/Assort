@@ -50,6 +50,27 @@ Personally, I don’t think this archetype should exist, like [Knightmare](#Knig
 <br>
 
 
+## Clear Wing
+
+> bring the SPEED
+
+Oh my, what a collection of insanely awesome anime-level Dragon Aces. I’m actually struggling to express my feelings here.
+
+“Clear Wing”! It’s so simple, but it iust sounds *so* cool. “Clear Wing Synchro Dragon” just flows in such a delicious way[^clear-wing-flow] that makes it so satisfying to say. I think it’s the combination of the 2 really ‘polished’ words “clear” and “wing”, along with the power of “Synchro Dragon”. It sounds... idk, *sharp*. It’s got an *edge*. Then you have *Crystal Wing*, which sounds like a perfect upgrade, into ***Crystal Clear Wing*** – this sorta hierarchy is what I LIVE FOR. It’s so. Damn. AWESOME.[^clear-wing-awesome]
+
+[^clear-wing-awesome]: Alliteration ON-POINT.
+
+Art-wise, well. [Clear Wing Synchro Dragon’s<sup>↗</sup>](~) front-pose one is definitely the coolest, but [Clear Wing Rider<sup>↗</sup>](~) has a sick angle too, and [Crystal Clear Wing<sup>↗</sup>](~) has a real ‘boss’ pose. I love the whole aesthetic of the archetype (green isn’t my favourite colour by any means, but it is *really* pretty here), especially with the long, segmented tails. Also WIND is a cool (hah) attribute,[^clear-wing-wind]
+
+[^clear-wing-flow]: Tbf, all the Dimension Dragons’ names do too.
+[^clear-wing-wind]: It IS [my second favourite Attribute](favourites.md).
+
+I don’t know what it is with Synchro Dragon Ace Monsters all having negates, but that was the theme here, oh well. It’s a *liiittle* stupid how many negates the archetype has as a whole, but it’s still cool anyway. Also pulling off a double negate through Clear Wing Synchro Dragon is kinda funny. I do like the ATK gain effects, it’s very anime-esque but not broken. I think of all of them Crystal Clear Wing has the most stellar set of effects, really fitting for an archetypal boss.
+
+
+<br>
+
+
 ## Code Talker
 
 > *Rinku Shokan!*
