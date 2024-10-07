@@ -1,6 +1,7 @@
 # JavaScript Import Order
 
 ```js
+import { Module } from "external";
 import "style.scss";
 
 import Site from "#src/site";
