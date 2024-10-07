@@ -1,15 +1,13 @@
-## Todo
+# Site
 
-### Tweaks
-- tags
-- fix import orders
-- fix links during squarkup
-- render GitHub special blockquotes properly
-- render GitHub footnotes properly
+Project within a project, eh?
 
-### Features
-- search filtering
-- expand/collapse navpane sections
-- select palettes in preferences
-- page footers
-- different font styles based on preferences
+Yeah, the *Assort* site is pretty massive, and I shudder to imagine anyone trying to navigate this for the first time. In all honesty tho, it’s really not that bad, and I’m sure professional projects are even larger scale.
+
+
+<br>
+
+
+## Directory
+
+Here’s an overview of where everything is!
