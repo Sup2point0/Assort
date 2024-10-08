@@ -17,7 +17,7 @@ onMount(() => {
 </script>
 
 
-<Search
+<Search style="max-width: 40rem"
   on:search={e => {
     window.location.href = `${base}/search?query=${e.detail.query}`;
   }}

@@ -19,7 +19,7 @@ const dispatch = createEventDispatcher();
 </script>
 
 
-<search>
+<search style={$$restProps.style}>
   <form on:submit|preventDefault={() => dispatch("search", { query: options.query })}>
     <input type="search"
       {placeholder}
@@ -36,6 +36,10 @@ const dispatch = createEventDispatcher();
 
 
 <style lang="scss">
+
+search {
+  width: 100%;
+}
 
 form {
   width: 100%;

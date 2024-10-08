@@ -115,7 +115,6 @@
  * A beautiful combo of dark blues and vivid neons, inspired by the beautiful city of Tokyo at night.
  */
 .tokyo-night {
-  --col-credits: folke/tokyonight.nvim;
   --col-prot: #7aa2f7;
   --col-deut: #ff757f;
   --col-flavour: #ff9e64;
