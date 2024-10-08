@@ -203,6 +203,31 @@ One of the archetypes I respect the most from a conceptual perspective. *This* i
 <br>
 
 
+## HERO
+
+I’m not familiar with the *whole* archetype (and all the lore), so all I have to go off of here is what I see in Master Duel, and, well... it’s pretty repetitive. And also mostly just [Destroyer Phoenix Enforcer<sup>↗</sup>](...) :P
+
+The deck doesn’t do much tbh, and I’m not that much of a fan of the art. I like how they split it into Elemental, Evil, etc. factions tho, it’s a cool way to add more dimensions to an archetype.[^hero-factions] The capitalisation on “HERO” is stylish too.
+
+[^hero-factions]: Ofc, this would be less cool if overdone.
+
+
+<br>
+
+
+## Kaiju
+
+I love this archetype’s existence, because while I have always loved playing unaffecteds,[^kaiju-unaffecteds] I do not think they are healthy for the game, and having more ways to deal with them is not a bad thing. The cards are also very well-designed to be useful but not too unfair,[^kaiju-unfair] preventing multiple from being used and Summoning to the opponent’s field (altho this has become more useful than not in recent years).
+
+[^kaiju-unaffecteds]: [Ultimate Falcon<sup>↗</sup>](...). Actually, I’ve always loved protection of any kind. It just feels a bit stupid when your Ace Monster is so easily destroyed, y’know? Ofc, now I understand there are *other* ways of making a monster good...
+[^kaiju-unfair]: Fairer than [Lava Golem<sup>↗</sup>](...), at least...
+
+And of course, as an Ultraman fan since childhood I absolutely adore the references to [Ultraman Belial<sup>↗</sup>](~) and [Dark Lugiel<sup>↗</sup>](~) in [Radian <sup>↗</sup>](https://yugipedia.com/wiki/Radian,_the_Multidimensional_Kaiju), not least the whole theme of ‘kaiju’ itself.
+
+
+<br>
+
+
 ## Kashtira
 
 > I will sacrifice my soul to steal yours
