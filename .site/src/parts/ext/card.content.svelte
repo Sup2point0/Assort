@@ -13,34 +13,18 @@ export let right: boolean = false;
 </script>
 
 
-{#if extern}
-  <a style={$$restProps.style} style:color="var(--col-link)"
-    class="no-link-style"
-    class:right
-    href={link}
-    target="_blank"
-  >
-    <h4> {title} </h4>
-    {#if capt}
-      <p class="caption"> {capt} </p>
-    {/if}
-    <slot />
-  </a>
-
-{:else}
-  <a style={$$restProps.style} style:color="var(--col-link)"
-    class="no-link-style"
-    class:right
-    href="{intern ? base + "/" : ""}{intern ?? link}"
-  >
-    <h4> {title} </h4>
-    {#if capt}
-      <p class="caption"> {capt} </p>
-    {/if}
-    <slot />
-  </a>
-
-{/if}
+<a style={$$restProps.style} style:color="var(--col-link)"
+  class="no-link-style"
+  class:right
+  href={extern || link || `${base}/${intern}`}
+  target = {extern ? "_blank" : "_self"}
+>
+  <h4> {title} </h4>
+  {#if capt}
+    <p class="caption"> {capt} </p>
+  {/if}
+  <slot />
+</a>
 
 
 <style lang="scss">
