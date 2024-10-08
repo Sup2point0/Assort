@@ -22,16 +22,11 @@ $: live = intern && browser && window.location.pathname.includes(intern);
 </script>
 
 
-{#if intern || link}
+{#if link || intern || extern}
   <a
     class:live={live}
-    href={link || (base + "/" + intern)}
-  > {text} </a>
-
-{:else if extern}
-  <a
-    class:live={live}
-    href={link} target="_blank"
+    href={extern || link || `${base}/${intern}`}
+    target = {extern ? "_blank" : "_self"}
   > {text} </a>
 
 {:else if button}
