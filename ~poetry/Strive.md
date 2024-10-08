@@ -37,7 +37,7 @@ Awaiting,
 Someone, something,  
 Right there for the taking.  
 
-Just a stretch of timea away,  
+Just a stretch of time away,  
 An age of brighter days,  
 Perhaps it was not meant to be.  
 
