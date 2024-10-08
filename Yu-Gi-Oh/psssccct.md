@@ -3,7 +3,8 @@
 | dest = yugioh/psssccct
 | desc = A more efficient fork of Yu-Gi-Oh card text
 | style = yugioh
-| shard = yugioh
+| index = yugioh
+| shard = #INDEX
 | clean = braces
 -->
 

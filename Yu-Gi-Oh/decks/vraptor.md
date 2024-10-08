@@ -4,7 +4,8 @@
 | desc = A mostly pure Raidraptor deck, the first modern deck I built.
 | style = yugioh
 | duality = dark
-| shard = yugioh
+| index = yugioh-decks
+| shard = #INDEX / yugioh
 -->
 
 After returning to *Yu-Gi-Oh*, this was the first deck I built.

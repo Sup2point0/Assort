@@ -4,7 +4,7 @@
 | desc = My thoughts on all the Yu-Gi-Oh archetypes I’ve watched, researched, or played against
 | style = yugioh
 | index = yugioh
-| shard = yugioh / writing / opinion / long
+| shard = #SHARD / writing / opinion / long
 | clean = angles
 -->
 

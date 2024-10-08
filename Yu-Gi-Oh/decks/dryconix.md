@@ -4,7 +4,8 @@
 | desc = My 60-card Dogmatika Drytron Ritual tech deck.
 | style = yugioh
 | duality = dark
-| shard = yugioh / long
+| index = yugioh-decks
+| shard = #INDEX / yugioh / long
 -->
 
 This is my absolute favourite deck of all time. Despite having 9 Ritual Monsters, single copies of staples, and ~~nearing~~ 60 cards, it’s still surprisingly consistent, insanely versatile, and can definitely hold its own.
