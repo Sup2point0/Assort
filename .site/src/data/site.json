@@ -1,9 +1,10 @@
 {
-  "exported": "2024-10-06",
+  "exported": "2024-10-08",
   "index": {
     "info": {
       "route": null,
       "pages": [
+        ".squarkdown/content/_license.md",
         ".squarkdown/content/frequerys.md",
         ".squarkdown/content/privacy.md",
         ".squarkdown/content/synopsis.md",
@@ -33,7 +34,8 @@
       "pages": [
         "Yu-Gi-Oh/archetypes/Darquess.md",
         "Yu-Gi-Oh/archetypes/Rubic.md",
-        "Yu-Gi-Oh/archetypes/Soul.md"
+        "Yu-Gi-Oh/archetypes/Soul.md",
+        "Yu-Gi-Oh/thoughts/archetypes.md"
       ]
     },
     "yugioh-archetypes": {
@@ -145,7 +147,7 @@
         "~poetry/Titles.md",
         "~poetry/What Was This Called Again.md",
         "~poetry/Wordless.md",
-        "~poetry/export public protected static final const Love.md",
+        "~poetry/export protected final const Love.md",
         "~poetry/fractal fracking.md",
         "~poetry/折磨.md"
       ]
@@ -159,6 +161,7 @@
   },
   "shard": {
     "info": [
+      ".squarkdown/content/_license.md",
       ".squarkdown/content/frequerys.md",
       ".squarkdown/content/privacy.md",
       ".squarkdown/content/synopsis.md",
@@ -222,7 +225,8 @@
     ],
     "long": [
       "Yu-Gi-Oh/decks/dryconix.md",
-      "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md"
+      "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md",
+      "Yu-Gi-Oh/thoughts/archetypes.md"
     ],
     "stranded-saga": [
       "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md"
@@ -299,7 +303,7 @@
       "~poetry/Titles.md",
       "~poetry/What Was This Called Again.md",
       "~poetry/Wordless.md",
-      "~poetry/export public protected static final const Love.md",
+      "~poetry/export protected final const Love.md",
       "~poetry/fractal fracking.md",
       "~poetry/折磨.md"
     ],
@@ -342,10 +346,10 @@
       "~poetry/fractal fracking.md"
     ],
     "ironic": [
-      "~poetry/export public protected static final const Love.md"
+      "~poetry/export protected final const Love.md"
     ],
     "heartfelt": [
-      "~poetry/export public protected static final const Love.md"
+      "~poetry/export protected final const Love.md"
     ],
     "chinese": [
       "~poetry/折磨.md"
@@ -358,11 +362,34 @@
     ]
   },
   "pages": {
+    ".squarkdown/content/_license.md": {
+      "path": ".squarkdown/content/_license.md",
+      "last_deploy": "2024-10-07 17:33:59 +0100",
+      "slocs": 14,
+      "chars": 730,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "license",
+      "title": "License",
+      "head": "License",
+      "capt": "Content copyrights",
+      "desc": "Content copyrights",
+      "index": [
+        "info"
+      ],
+      "shard": [
+        "info"
+      ],
+      "date": null,
+      "date_display": null
+    },
     ".squarkdown/content/frequerys.md": {
       "path": ".squarkdown/content/frequerys.md",
-      "last_deploy": "2024-10-01 07:24:57 +0100",
+      "last_deploy": "2024-10-07 17:33:59 +0100",
       "slocs": 59,
-      "chars": 2249,
+      "chars": 1865,
       "isIndex": false,
       "flags": [
         "live"
@@ -383,9 +410,9 @@
     },
     ".squarkdown/content/privacy.md": {
       "path": ".squarkdown/content/privacy.md",
-      "last_deploy": "2024-07-16 21:16:33 +0100",
-      "slocs": 15,
-      "chars": 583,
+      "last_deploy": "2024-10-07 17:33:59 +0100",
+      "slocs": 17,
+      "chars": 805,
       "isIndex": false,
       "flags": [
         "live"
@@ -393,16 +420,16 @@
       "dest": "privacy",
       "title": "Privacy",
       "head": "Privacy",
-      "capt": null,
-      "desc": null,
+      "capt": "Data and Cookies",
+      "desc": "Assort’s (nonexistent) privacy policy.",
       "index": [
         "info"
       ],
       "shard": [
         "info"
       ],
-      "date": null,
-      "date_display": null
+      "date": "2024-10-01",
+      "date_display": "2024 October"
     },
     ".squarkdown/content/synopsis.md": {
       "path": ".squarkdown/content/synopsis.md",
@@ -733,12 +760,13 @@
     },
     "Yu-Gi-Oh/thoughts/archetypes.md": {
       "path": "Yu-Gi-Oh/thoughts/archetypes.md",
-      "last_deploy": "2024-10-03 17:07:34 +0100",
-      "slocs": 338,
-      "chars": 21902,
+      "last_deploy": "2024-10-08 18:10:43 +0100",
+      "slocs": 385,
+      "chars": 25406,
       "isIndex": false,
       "flags": [
-        "live"
+        "live",
+        "dev"
       ],
       "dest": "yugioh/thoughts-on-archetypes",
       "title": "Thoughts on Archetypes",
@@ -746,12 +774,13 @@
       "capt": null,
       "desc": "My thoughts on all the Yu-Gi-Oh archetypes I’ve watched, researched, or played against",
       "index": [
-
+        "yugioh"
       ],
       "shard": [
         "yugioh",
         "writing",
-        "opinion"
+        "opinion",
+        "long"
       ],
       "date": null,
       "date_display": null
@@ -1673,9 +1702,9 @@
     },
     "~poetry/Strive.md": {
       "path": "~poetry/Strive.md",
-      "last_deploy": "2024-07-23 22:59:00 +0100",
+      "last_deploy": "2024-10-08 18:10:43 +0100",
       "slocs": 48,
-      "chars": 945,
+      "chars": 944,
       "isIndex": false,
       "flags": [
         "live"
@@ -1869,18 +1898,18 @@
       "date": "2023-12-01",
       "date_display": "2023 December"
     },
-    "~poetry/export public protected static final const Love.md": {
-      "path": "~poetry/export public protected static final const Love.md",
-      "last_deploy": "2024-10-06 13:48:56 +0100",
+    "~poetry/export protected final const Love.md": {
+      "path": "~poetry/export protected final const Love.md",
+      "last_deploy": "2024-10-08 18:10:43 +0100",
       "slocs": 28,
-      "chars": 883,
+      "chars": 869,
       "isIndex": false,
       "flags": [
         "live"
       ],
       "dest": "poetry/love",
-      "title": "export public protected static final const Love;",
-      "head": "export public protected static final const Love;",
+      "title": "export protected final const Love;",
+      "head": "export protected final const Love;",
       "capt": null,
       "desc": "\"\"\"A love letter to programming\"\"\"",
       "index": [

@@ -21,7 +21,7 @@ function updatePalette() {
 
 
 <button
-  class:selected
+  class:selected={selected}
   class={palette.shard}
   on:click={updatePalette}
 >
@@ -51,10 +51,13 @@ button {
   border: none;
   border-radius: 1rem;
 
-  filter: drop-shadow(0 0 2px var(--col-prot));
+  // filter: drop-shadow(0 0 2px var(--col-prot));
+  transition-property: outline, filter;
+  transition-duration: 0.2s;
+  transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
 
   &.selected:not(:hover) {
-    outline: 2px solid light-dark(black, white);
+    outline: var(--col-prot) solid 2px;
   }
 
   &:hover {
