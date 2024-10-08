@@ -1,9 +1,10 @@
 # Programming Style Cipher Text
 <!-- #SQUARK live!
 | dest = yugioh/psct
-| desc = An esoteric reimagining of Yu-Gi-Oh card text for programmers.
+| desc = An esoteric reimagining of Yu-Gi-Oh card text for programmers
 | style = dev
-| shard = yugioh / dev
+| index = yugioh
+| shard = #INDEX / dev
 | clean = braces / angles
 -->
 

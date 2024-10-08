@@ -3,7 +3,8 @@
 | dest = yugioh/art
 | desc = My favourite Yu-Gi-Oh card arts
 | style = yugioh
-| shard = yugioh / lists / opinion
+| index = yugioh
+| shard = #INDEX / lists / opinion
 -->
 
 Yu-Gi-Oh’s card art is one-of-a-kind. It’s one of the things I love most about the game, and what first drew me in. I could spend hours just admiring the intricacies and love put into all of them. So, that’s exactly what we’re gonna do here.

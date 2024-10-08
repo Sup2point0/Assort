@@ -4,7 +4,8 @@
 | capt = Exploring what goes into creating custom Yu-Gi-Oh cards
 | desc = My thoughts on what goes into a good custom Yu-Gi-Oh archetype, after creating countless myself.
 | style = yugioh
-| shard = yugioh / writing / opinion
+| index = yugioh
+| shard = #INDEX / writing / opinion / long
 | date = 2024 September
 -->
 

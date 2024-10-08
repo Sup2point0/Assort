@@ -5,7 +5,7 @@
 | desc = My favourites in Yu-Gi-Oh!
 | head = Yu-Gi-Oh! Favourites
 | style = yugioh
-| index = lists / fav
+| index = yugioh / lists / fav
 | shard = #INDEX / yugioh / opinion
 -->
 
