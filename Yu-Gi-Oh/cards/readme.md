@@ -6,7 +6,7 @@
 
 All the custom cards I’ve created.[^create] Of course, this is nowhere near complete, since tracking every single card I’ve made would take a little too much effort; nevertheless, most of the major archetypes I’ve created are here.
 
-[^create]: ‘create’ here means either that the card exists (or did exist at some point) on [DuelingBook<sup>↗</sup](https://duelingbook.com).
+[^create]: ‘create’ here means either that the card exists (or did exist at some point) on [DuelingBook<sup>↗</sup>](https://duelingbook.com).
 
 You probably notice a lot of cards with similar or half-identical names to existing cards – yeah that’s intentional, I really enjoy making parodies of existing cards fsr ;P
 
