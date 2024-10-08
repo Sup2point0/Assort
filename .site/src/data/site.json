@@ -32,10 +32,17 @@
     "yugioh": {
       "route": "Yu-Gi-Oh/readme.md",
       "pages": [
+        "Yu-Gi-Oh/Creating Custom Cards.md",
         "Yu-Gi-Oh/archetypes/Darquess.md",
         "Yu-Gi-Oh/archetypes/Rubic.md",
         "Yu-Gi-Oh/archetypes/Soul.md",
-        "Yu-Gi-Oh/thoughts/archetypes.md"
+        "Yu-Gi-Oh/psct.md",
+        "Yu-Gi-Oh/psssccct.md",
+        "Yu-Gi-Oh/thoughts/archetypes.md",
+        "Yu-Gi-Oh/thoughts/art.md",
+        "Yu-Gi-Oh/thoughts/favourites.md",
+        "Yu-Gi-Oh/thoughts/names.md",
+        "Yu-Gi-Oh/thoughts/showerthoughts.md"
       ]
     },
     "yugioh-archetypes": {
@@ -44,6 +51,19 @@
         "Yu-Gi-Oh/archetypes/Darquess.md",
         "Yu-Gi-Oh/archetypes/Rubic.md",
         "Yu-Gi-Oh/archetypes/Soul.md"
+      ]
+    },
+    "yugioh-cards": {
+      "route": "Yu-Gi-Oh/cards/readme.md",
+      "pages": [
+
+      ]
+    },
+    "yugioh-decks": {
+      "route": null,
+      "pages": [
+        "Yu-Gi-Oh/decks/dryconix.md",
+        "Yu-Gi-Oh/decks/vraptor.md"
       ]
     },
     "stranded-saga": {
@@ -194,8 +214,8 @@
       "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md",
       "Yu-Gi-Oh/psct.md",
       "Yu-Gi-Oh/psssccct.md",
-      "Yu-Gi-Oh/thoughts/archetypes.md",
       "Yu-Gi-Oh/thoughts/art.md",
+      "Yu-Gi-Oh/thoughts/favourites.md",
       "Yu-Gi-Oh/thoughts/favourites.md",
       "Yu-Gi-Oh/thoughts/names.md",
       "Yu-Gi-Oh/thoughts/showerthoughts.md"
@@ -211,6 +231,12 @@
       "~dev/In Perfection/ruby.md",
       "~dev/Python Syntax.md"
     ],
+    "long": [
+      "Yu-Gi-Oh/Creating Custom Cards.md",
+      "Yu-Gi-Oh/decks/dryconix.md",
+      "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md",
+      "Yu-Gi-Oh/thoughts/archetypes.md"
+    ],
     "yugioh-archetypes": [
       "Yu-Gi-Oh/archetypes/Darquess.md",
       "Yu-Gi-Oh/archetypes/Rubic.md",
@@ -223,10 +249,9 @@
       "Yu-Gi-Oh/archetypes/Rubic.md",
       "~poetry/fractal fracking.md"
     ],
-    "long": [
+    "yugioh-decks": [
       "Yu-Gi-Oh/decks/dryconix.md",
-      "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md",
-      "Yu-Gi-Oh/thoughts/archetypes.md"
+      "Yu-Gi-Oh/decks/vraptor.md"
     ],
     "stranded-saga": [
       "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md"
@@ -246,6 +271,9 @@
       "~dev/git.md",
       "~poetry/The Programmer's Plight.md",
       "~writing/roots.md"
+    ],
+    "#shard": [
+      "Yu-Gi-Oh/thoughts/archetypes.md"
     ],
     "lists": [
       "Yu-Gi-Oh/thoughts/art.md",
@@ -504,9 +532,9 @@
     },
     "Yu-Gi-Oh/Creating Custom Cards.md": {
       "path": "Yu-Gi-Oh/Creating Custom Cards.md",
-      "last_deploy": "2024-10-06 13:48:12 +0100",
-      "slocs": 116,
-      "chars": 6555,
+      "last_deploy": "2024-10-08 18:28:57 +0100",
+      "slocs": 117,
+      "chars": 6579,
       "isIndex": false,
       "flags": [
         "live",
@@ -518,12 +546,13 @@
       "capt": "Exploring what goes into creating custom Yu-Gi-Oh cards",
       "desc": "My thoughts on what goes into a good custom Yu-Gi-Oh archetype, after creating countless myself.",
       "index": [
-
+        "yugioh"
       ],
       "shard": [
         "yugioh",
         "writing",
-        "opinion"
+        "opinion",
+        "long"
       ],
       "date": "2024-09-01",
       "date_display": "2024 September"
@@ -607,11 +636,35 @@
       "date": null,
       "date_display": null
     },
+    "Yu-Gi-Oh/cards/readme.md": {
+      "path": "Yu-Gi-Oh/cards/readme.md",
+      "last_deploy": "2024-10-08 18:27:26 +0100",
+      "slocs": 692,
+      "chars": 16852,
+      "isIndex": true,
+      "flags": [
+        "live",
+        "index"
+      ],
+      "dest": "yugioh/cards",
+      "title": "Cards",
+      "head": "Cards",
+      "capt": null,
+      "desc": null,
+      "index": [
+        "yugioh-cards"
+      ],
+      "shard": [
+        "yugioh-cards"
+      ],
+      "date": null,
+      "date_display": null
+    },
     "Yu-Gi-Oh/decks/dryconix.md": {
       "path": "Yu-Gi-Oh/decks/dryconix.md",
-      "last_deploy": "2024-09-29 20:09:41 +0100",
-      "slocs": 570,
-      "chars": 40835,
+      "last_deploy": "2024-10-08 18:27:40 +0100",
+      "slocs": 571,
+      "chars": 40867,
       "isIndex": false,
       "flags": [
         "live",
@@ -624,9 +677,10 @@
       "capt": null,
       "desc": "My 60-card Dogmatika Drytron Ritual tech deck.",
       "index": [
-
+        "yugioh-decks"
       ],
       "shard": [
+        "yugioh-decks",
         "yugioh",
         "long"
       ],
@@ -635,9 +689,9 @@
     },
     "Yu-Gi-Oh/decks/vraptor.md": {
       "path": "Yu-Gi-Oh/decks/vraptor.md",
-      "last_deploy": "2024-09-26 19:34:05 +0100",
-      "slocs": 81,
-      "chars": 1052,
+      "last_deploy": "2024-10-08 18:27:48 +0100",
+      "slocs": 82,
+      "chars": 1084,
       "isIndex": false,
       "flags": [
         "live"
@@ -648,9 +702,10 @@
       "capt": null,
       "desc": "A mostly pure Raidraptor deck, the first modern deck I built.",
       "index": [
-
+        "yugioh-decks"
       ],
       "shard": [
+        "yugioh-decks",
         "yugioh"
       ],
       "date": null,
@@ -687,9 +742,9 @@
     },
     "Yu-Gi-Oh/psct.md": {
       "path": "Yu-Gi-Oh/psct.md",
-      "last_deploy": "2024-10-03 17:07:34 +0100",
-      "slocs": 476,
-      "chars": 20466,
+      "last_deploy": "2024-10-08 18:29:13 +0100",
+      "slocs": 477,
+      "chars": 20482,
       "isIndex": false,
       "flags": [
         "live"
@@ -698,9 +753,9 @@
       "title": "Programming Style Cipher Text",
       "head": "Programming Style Cipher Text",
       "capt": null,
-      "desc": "An esoteric reimagining of Yu-Gi-Oh card text for programmers.",
+      "desc": "An esoteric reimagining of Yu-Gi-Oh card text for programmers",
       "index": [
-
+        "yugioh"
       ],
       "shard": [
         "yugioh",
@@ -711,9 +766,9 @@
     },
     "Yu-Gi-Oh/psssccct.md": {
       "path": "Yu-Gi-Oh/psssccct.md",
-      "last_deploy": "2024-10-03 17:07:34 +0100",
-      "slocs": 130,
-      "chars": 22116,
+      "last_deploy": "2024-10-08 18:29:22 +0100",
+      "slocs": 131,
+      "chars": 22133,
       "isIndex": false,
       "flags": [
         "live",
@@ -725,7 +780,7 @@
       "capt": null,
       "desc": "A more efficient fork of Yu-Gi-Oh card text",
       "index": [
-
+        "yugioh"
       ],
       "shard": [
         "yugioh"
@@ -760,7 +815,7 @@
     },
     "Yu-Gi-Oh/thoughts/archetypes.md": {
       "path": "Yu-Gi-Oh/thoughts/archetypes.md",
-      "last_deploy": "2024-10-08 18:10:43 +0100",
+      "last_deploy": "2024-10-08 18:28:08 +0100",
       "slocs": 385,
       "chars": 25406,
       "isIndex": false,
@@ -777,7 +832,7 @@
         "yugioh"
       ],
       "shard": [
-        "yugioh",
+        "#shard",
         "writing",
         "opinion",
         "long"
@@ -787,9 +842,9 @@
     },
     "Yu-Gi-Oh/thoughts/art.md": {
       "path": "Yu-Gi-Oh/thoughts/art.md",
-      "last_deploy": "2024-10-03 17:07:34 +0100",
-      "slocs": 679,
-      "chars": 15873,
+      "last_deploy": "2024-10-08 18:28:16 +0100",
+      "slocs": 680,
+      "chars": 15890,
       "isIndex": false,
       "flags": [
         "live",
@@ -801,7 +856,7 @@
       "capt": null,
       "desc": "My favourite Yu-Gi-Oh card arts",
       "index": [
-
+        "yugioh"
       ],
       "shard": [
         "yugioh",
@@ -813,9 +868,9 @@
     },
     "Yu-Gi-Oh/thoughts/favourites.md": {
       "path": "Yu-Gi-Oh/thoughts/favourites.md",
-      "last_deploy": "2024-10-03 17:07:34 +0100",
+      "last_deploy": "2024-10-08 18:28:26 +0100",
       "slocs": 142,
-      "chars": 3691,
+      "chars": 3700,
       "isIndex": false,
       "flags": [
         "live"
@@ -826,10 +881,12 @@
       "capt": null,
       "desc": "My favourites in Yu-Gi-Oh!",
       "index": [
+        "yugioh",
         "lists",
         "fav"
       ],
       "shard": [
+        "yugioh",
         "lists",
         "fav",
         "yugioh",
@@ -840,9 +897,9 @@
     },
     "Yu-Gi-Oh/thoughts/names.md": {
       "path": "Yu-Gi-Oh/thoughts/names.md",
-      "last_deploy": "2024-10-03 17:07:34 +0100",
-      "slocs": 106,
-      "chars": 2648,
+      "last_deploy": "2024-10-08 18:28:36 +0100",
+      "slocs": 107,
+      "chars": 2665,
       "isIndex": false,
       "flags": [
         "live"
@@ -853,11 +910,11 @@
       "capt": null,
       "desc": "My favourite Yu-Gi-Oh card names",
       "index": [
-
+        "yugioh"
       ],
       "shard": [
-        "lists",
         "yugioh",
+        "lists",
         "opinion"
       ],
       "date": null,
@@ -865,9 +922,9 @@
     },
     "Yu-Gi-Oh/thoughts/showerthoughts.md": {
       "path": "Yu-Gi-Oh/thoughts/showerthoughts.md",
-      "last_deploy": "2024-09-18 17:36:15 +0100",
-      "slocs": 37,
-      "chars": 710,
+      "last_deploy": "2024-10-08 18:28:42 +0100",
+      "slocs": 38,
+      "chars": 727,
       "isIndex": false,
       "flags": [
         "live",
@@ -879,7 +936,7 @@
       "capt": null,
       "desc": null,
       "index": [
-
+        "yugioh"
       ],
       "shard": [
         "yugioh",
