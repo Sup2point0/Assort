@@ -1,6 +1,7 @@
 ## Todo
 
 ### Tweaks
+- use `export let data` instead of `$page.data`
 - tags
 - fix import orders
 - fix links during squarkup
