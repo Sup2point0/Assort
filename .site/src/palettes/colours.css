@@ -117,11 +117,12 @@
   --col-deut: #ff757f;
   --col-flavour: #ff9e64;
   --col-hover: rgba(255 255 255 / 8%);
-  --col-focus: #b4f9f8;
+  --col-focus: #4fd6be;
   --col-select: #ff007c;
   --col-text: white;
   --col-text-prot: #ffc777;
   --col-text-deut: #737aa2;
+  --col-text-trit: ##565f89;
   --col-back: #1f2335;
   --col-back-prot: #3b4261;
   --col-back-deut: #292e42;

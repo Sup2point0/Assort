@@ -638,9 +638,9 @@
     },
     "Yu-Gi-Oh/cards/readme.md": {
       "path": "Yu-Gi-Oh/cards/readme.md",
-      "last_deploy": "2024-10-08 18:27:26 +0100",
+      "last_deploy": "2024-10-08 18:31:40 +0100",
       "slocs": 692,
-      "chars": 16852,
+      "chars": 16853,
       "isIndex": true,
       "flags": [
         "live",
