@@ -6,7 +6,7 @@
 | capt = Index Page
 | style = yugioh
 | index = yugioh
-| shard = index / franchise / yugioh / long
+| shard = #INDEX / index / franchise / long
 -->
 
 I’ve played *Yu-Gi-Oh!* since childhood. You don’t understand how much I love this card game. No seriously. I’ve browsed [Yugipedia<sup>↗</sup>](https://yugipedia.com) extensively in my free time, read the translations of the lore books, started writing [my *own* lore book](lore/Stranded%20Saga/) – and above all, I absolutely cannot stop creating custom cards.
