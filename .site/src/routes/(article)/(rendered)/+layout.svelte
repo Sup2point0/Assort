@@ -23,6 +23,13 @@ const special = $page.data.flags.includes("index");
   />
 {/if}
 
+{#if $page.data.flags.includes("depr")}
+  <Notice icon="pural-portal-faded.png"
+    title="Nostalgia warning"
+    desc="The content in this article has been <strong>deprecated</strong>, so may no longer be relevant or accurate."
+  />
+{/if}
+
 <slot />
 
 {#if !special}
