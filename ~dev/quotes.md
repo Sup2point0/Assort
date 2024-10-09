@@ -1,10 +1,9 @@
 # Especially Ingenious Quotes on Software Development
-<!-- #QUARK live!
-  EXPORT: lists/quotes/software-dev
-  STYLE: quotes
-  DUALITY: dark
-  INDEX: lists quotes dev
-  SHARD: auto
+<!-- #SQUARK live!
+| dest = dev/quotes
+| style = quotes
+| index = dev / lists / quotes
+| shard = #INDEX
 -->
 
 - All code becomes legacy code the moment it’s written.
