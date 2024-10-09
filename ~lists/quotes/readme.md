@@ -1,14 +1,16 @@
 # Quotes
-<!-- #QUARK live!
-  EXPORT: quotes
-  STYLE: poetry
-  DUALITY: light
-  SHARDS: lists
+<!-- #SQUARK live!
+| dest = lists/quotes
+| desc = Yep, I collect quotes.
+| style = quotes
+| index = lists / quotes
+| shard = #INDEX
 -->
 
-<!-- #QUARK synopsis? -->
 Yep, I collect quotes.
-<!-- #QUARK synopsis. -->
+
+
+<br>
 
 
 ## Quotes to Live By
@@ -72,25 +74,8 @@ This one’s from Elon Musk.
 
 ***Never forget that the toes you step on today may be connected to the ass you have to kiss tomorrow.***
 
+***Happiness is like peeing in your pants. Everyone can see it, but only you can feel its warmth.***  
+– fish-kun
+
 
 <br>
-
-
-## Quotes of Mine
-
-***sup sup’s sups sup sup’s sup sup sup sup’s sup sups***
-
-***(Almost) everything is an anthropological construct.***  
-Also ‘everything is a human construct’.
-
-***Everything will be alright.***  
-Also ‘everything will be fine’.
-
-***Repetition reinforces, repeated repetition reduces.***
-
-***There is no glass, life is a lie.***
-
-***I can, but I can't.***  
-Also ‘‹pronoun› can, but ‹pronoun› can’t’.
-
-***If a capacitative capacitor capacitatively capacitates capacitance, would a capacitively capacitive capacitator capacitate capacitatively capacitated capacitance?***
