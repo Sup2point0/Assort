@@ -1,73 +1,29 @@
 # *Yu-Gi-Oh!*
-<!-- #SQUARK live! index!
+<!-- #SQUARK live! index! dev!
 | dest = yugioh
-| title = Yu-Gi-Oh!
-| desc = A childhood card game which I never quite fell out of love with
+| desc = A childhood card game I never quite fell out of love with
 | head = Yu-Gi-Oh!
+| capt = Index Page
+| style = yugioh
 | index = yugioh
-| shard = index / yugioh
+| shard = index / franchise / yugioh / long
 -->
 
-I’ve played *Yu-Gi-Oh!* ever since I was a child, with a fairly long interlude during the *VRAINS* era. Not too long ago, I fell in love with it once more, being utterly blown away when I discovered I could create *and play with* my own custom cards on *DuelingBook*. That then led me to try the actual game again, and I crafted a *Raidraptor* deck (since I loved [Kurosaki<sup>↗</sup>](https://yugipedia.com/wiki/Shay_Obsidian) from *ARC-V*) on [*DuelingNexus*<sup>↗</sup>](https://duelingnexus.com), picking up (surprisingly quickly, I must say) what modern Yu-Gi-Oh feels like.
+I’ve played *Yu-Gi-Oh!* since childhood. You don’t understand how much I love this card game. No seriously. I’ve browsed [Yugipedia<sup>↗</sup>](https://yugipedia.com) extensively in my free time, read the translations of the lore books, started writing [my *own* lore book](lore/Stranded%20Saga/) – and above all, I absolutely cannot stop creating custom cards.
 
 
 <br>
 
 
-## Custom Cards
+## Directory
 
-You don’t understand how much I love Yu-Gi-Oh. No seriously. I’ve browsed [Yugipedia](https://yugipedia.com) in my free time, read the translations of the lore books, and above all, I absolutely cannot stop creating custom cards. So, here are all the (documented) decks of custom cards I’ve created, in chronological order. You can also find documentation for the [archetypes](archetypes) and [individual cards](cards) I’ve created.
-
-Favourite decks are **weighted**. Those marked with `*` have been deprecated.
-
-### Flagships
-The original, high-quality decks I play with the most.
-
-| deck | types | archetypes | style | card text | version |
-| :--- | :---- | :--------- | :---- | :-------- | :------ |
-| [Essence<sup>↗</sup>](https://duelingbook.com/deck?id=11724812) | Fusion, Pendulum, Link | [*Ninjato*](archetypes/Ninjato.md) + [*Manifestation*](Manifestation.md) | versatile, ace-based, dynamic | indexed canon PSCT | 5.0 |
-| [**Vengeance**<sup>↗</sup>](https://duelingbook.com/deck?id=11423800) | Ritual, Synchro | [*Soul*](archetypes/Soul.md) | Grave, Synchro swarming | classic PSCT | 4.0 |
-| [**Vapurion**<sup>↗</sup>](https://duelingbook.com/deck?id=11882083) | Rank-Up Xyz | [*Vapour-Eyes*](archetypes/Vapour-Eyes.md) + [*Lightning*](archetypes/Lightning.md) | [animesque](https://github.com/Sup2point0/Antarctica/blob/home/logistics/linque/dict.md#animesque 'anime-like') ace-based | modern PSCT | 3.0 |
-| [Cyburst<sup>↗</sup>](https://duelingbook.com/deck?id=11997304) | Link | [*The Specialists*](archetypes/The%20Specialists.md) + [*Next-Gen*](archetypes/Next-Gen.md) | link swarm | indexed modern PSCT | 3.0 |
-| [Arcana<sup>↗</sup>](https://duelingbook.com/deck?id=12012335) | All | [*k-Knight*](archetypes/k-Knight.md) + [*World Affinity*](archetypes/World%20Affinity.md) | all-type swarming | *PSSSCCCT* | 3.0 |
-| [Darquessence<sup>↗</sup>](https://duelingbook.com/deck?id=12053993) | Ritual, Fusion | [*Darquess*](archetypes/Darquess.md) | draining control | classic PSCT | 3.0 |
-| [**Rubix**<sup>↗</sup>](https://duelingbook.com/deck?id=12381789) | Synchro, Xyz, Link | [Rubic](archetypes/Rubic.md) | ultimate versatility | indexed modern PSCT | 1.0 |
-| Arachnyx | Xyz, Link | [*Arachnis*](archetypes/Arachnis.md) | evil control | *PSSSCCCT* | 0.0 |
-| [Shards<sup>↗</sup>](https://duelingbook.com/deck?id=14562468) | Accel Synchro, Accel Xyz | *Fractured*, *Shattered* | punishment | indexed canon PSCT | 1.0 |
-| Ephemeris | Spirit, Ritual, Synchro | *Ephemeral*, *Spiritual* | bouncy | indexed classic PSCT | 0.0 |
-| SLYNQY | Trap, Link | *-LYNQ /*, *-SYNQ /* | Trap crazy | indexed classic PSCT | 0.0 |
-
-### Assorted
-Downright remakes of existing archetypes, one of my favourite things to do.
-
-| deck | types | archetypes | notes | style | card text |
-| :--- | :---- | :--------- | :---- | :---- | :-------- |
-| *[Technyx<sup>↗</sup>](https://duelingbook.com/deck?id=11617228) | Fusion, Xyz, Link | [Next-Gen](archetypes/Next-Gen.md) [Cyber](archetypes/Next-Gen%20Cyber%20Dragon.md), [A-to-Z](archetypes/Next-Gen%20A-to-Z.md) + [Kinetic Warrior](archetypes/Kinetic%20Warrior.md) | *Next-Gen* revitalisations of existing archetypes | vicious beatdown | |
-| *[Astrix<sup>↗</sup>](https://duelingbook.com/deck?id=11963497) | Ritual, Xyz | Aquilyrynx + Delphoenix | revitalisation of [Drytron<sup>↗</sup>](https://yugipedia.com/wiki/Drytron) | | PSSSCCCT |
-| *[Stranded<sup>↗</sup>](https://duelingbook.com/deck?id=12190377) | Fusion, Synchro, Xyz | [Stranded](archetypes/Stranded.md) | parody of [Branded<sup>↗</sup>](https://yugipedia.com/wiki/Branded) | polytypal mashup | PSSSCCCT |
-| [Dystopia<sup>↗</sup>](https://duelingbook.com/deck?id=12502309) | Rank-Down Xyz | [Dystopia](archetypes/Dystopia.md) | parody of [Utopia<sup>↗</sup>](https://yugipedia.com/wiki/Utopia_(archetype)) | self-destruction, single-attack-kill | PSSSCCCT |
-| [Dragmatika<sup>↗</sup>](https://duelingbook.com/deck?id=12753373) | Ritual | [Dragmatika](archetypes/Dragmatika.md) | revitalisation of [Dogmatika<sup>↗</sup>](https://yugipedia.com/wiki/Dogmatika) | anti-Extra Deck | PSSSCCCT |
-| *[Vraptor<sup>↗</sup>](https://duelingbook.com/deck?id=12893390) | Rank-Up Xyz | [Next-Gen](archetypes/Next-Gen.md) [Raidraptor](archetypes/Next-Gen%20Raidraptor.md) | revitalisation of [Raidraptor<sup>↗</sup>](https://yugipedia.com/wiki/Raidraptor) | revolutionary comeback, animesque ace and swarming | PSSSCCCT |
-| [Arc-Z<sup>↗</sup>](https://duelingbook.com/deck?id=12974231) | Pendulum, Fusion, Synchro, Xyz | [Eternal King](archetypes/.md) | revitalisation of Z-ARC’s [Supreme King<sup>↗</sup>](https://yugipedia.com/wiki/Supreme_King) deck | more akin to the anime | PSSSCCCT |
-
-### Fun
-Random decks I decided to make for fun, but rarely play with.
-
-| deck | types | archetypes | notes | card text |
-| :--- | :---- | :--------- | :---- | :-------- |
-| [Vyrux<sup>↗</sup>](https://duelingbook.com/deck?id=11560225) | Fusion, Xyz | [Virus](archetypes/Virus.md) + [Dead-Eyes](archetypes/Dead-Eyes.md) | Grave, deck virus | classic PSCT |
-| [Chemix<sup>↗</sup>](https://duelingbook.com/deck?id=12188545) | Gemini | Chemicool, Chemikalamity, Chemikaze | beatdown | classic PSCT |
-| *[Antarctron<sup>↗</sup>](https://duelingbook.com/deck?id=12150091) | Accel Synchro | [Antarctron](archetypes/Antarctron.md) | | PSSSCCCT |
-| Led | All | joke | classic PSCT |
-| *[Ultra<sup>↗</sup>](https://duelingbook.com/deck?id=11509638) | Fusion | [GUYS](archetypes/GUYS.md), [METEOR](archetypes/METEOR.md) + [Ultraman](archetypes/Ultraman.md) | | classic PSCT |
-| *[Bananas<sup>↗</sup>](https://duelingbook.com/deck?id=12097955) | All | Bloons TD 6 | versatility | classic PSCT |
-| *[Apples<sup>↗</sup>](https://duelingbook.com/deck?id=11855890) | Xyz, Link | Plants vs. Zombies 2 | | classic PSCT |
-
-### Other
-
-| deck | series | notes | card text |
-| :--- | :----- | :---- | :-------- |
-| [staples](https://duelingbook.com/deck?id=12239205) | [staples](archetypes/staples.md) | all my custom staple cards! | indexed canon PSCT |
+| directory | notes |
+| :-------- | :---- |
+| [decks](decks/) | The canon decks I play with |
+| [archetypes](archetypes/) | All my custom archetypes |
+| [cards](cards/) | My most significant custom cards. |
+| [lore](lore/) | My lore-related content (currently only the [Stranded Saga](lore/Stranded%20Saga/)) |
+| [thoughts](thoughts/) | Various pieces of writing relating to Yu-Gi-Oh |
 
 
 <br>
@@ -75,33 +31,44 @@ Random decks I decided to make for fun, but rarely play with.
 
 ## Playing
 
-I played in real life as a kid, though that was very much ‘playground Yu-Gi-Oh’. Since returning, I’ve played on [*DuelingBook*<sup>↗</sup>](https://duelingbook.com), [*DuelingNexus*<sup>↗</sup>](https://duelingnexus.com), and [*Master Duel*<sup>↗</sup>](https://www.konami.com/yugioh/masterduel). Recently I even built my [Drytron deck](dryconix.md) in real life, and got my sister an Exosister deck to play against me with.
+> [!Note]
+> Long section of personal stories ahead!
 
-I play with both custom cards and canon cards, though I like to keep the two entirely separate, so never mix customs with reals. Unfortunately, now I don’t have much time for proper long duels on DuelingBook (not that that’s stopped me from creating ever more custom cards :v). So it’s primarily dueling with canon cards on DuelingNexus.
+I’ve had several ‘phases’ (hah) of Yu-Gi-Oh, to be honest.
 
-I’ve played with a couple of decks in my time, but I’m not really one to play a whole lot of different decks – I enjoy picking those I love the most and being deeply familiar with them. Here are all of them, in chronological order.
+### Main Phase 1
+I was introduced to Yu-Gi-Oh by some friends in primary school, who were kind enough to give me some cards for free(!). I still remember those cards to this day. [Dragonpulse Magician <sup>↗</sup>](~), [Gagaga Child <sup>↗</sup>](~), [Goblindbergh<sup>↗</sup>](https://yugipedia.com/wiki/Goblindbergh), [The A Forces<sup>↗</sup>](~)... I used to lie in bed and admire them under the summer evening light.[^admiring-cards] Such different times :’) I managed to pull off procuring some pretty cool cards purely from trading with (read: scamming[^scamming]) other people. Unfortunately our school had a card limit since some numpties were stealing other people’s cards[^stealing], so we couldn’t play actual Yu-Gi-Oh – naturally, we had our own “playground rules” 🔥
 
-> [!Tip]
-> Favourites are **weighted**.
+[^admiring-cards]: Yes, this is why I’m intimately familiar with the colours, shapes and layouts of Pendulum Monsters ;P
+[^scamming]: I’m only joking! I never purposefully scammed or tricked or manipulated people. Most trades *were* a (small) net gain, so y’know – with time, I managed to build up a pretty nice collection.
+[^stealing]: Primary school children, honestly.
 
-| deck | archetypes | notes |
-| :--- | :--------- | :---- |
-| **Draptor** | [*Raidraptor*<sup>↗</sup>](https://yugipedia.com/wiki/Raidraptor), [*Phantom Knights*<sup>↗</sup>](https://yugipedia.com/wiki/Phantom_Knights) | |
-| **Dryconix** | [*Drytron*<sup>↗</sup>](https://yugipedia.com/wiki/Drytron), [*Dogmatika*<sup>↗</sup>](https://yugipedia.com/wiki/Dogmatika), Ritual tech | |
-| Cyburst | [*Cyber Dragon*<sup>↗</sup>](https://yugipedia.com/wiki/Cyber_Dragon) | Yeah, same name as the custom. Why not. |
-| Processlayer | [*Mathmech*<sup>↗</sup>](https://yugipedia.com/wiki/Mathmech), Cyberse tech | Was fun in Master Duel. Deprecated now ofc cuz of the Circular ban. |
-| Sentrion | [*Centur-Ion*<sup>↗</sup>](https://yugipedia.com/wiki/Centur-Ion), [*P.U.N.K.*<sup>↗</sup>](https://yugipedia.com/wiki/P.U.N.K.), Synchro tech | Wonderfully versatile. Not as fun to play after a while, but waiting and looking for more interesting things to do. Oh yeah, and no Crimson Dragon. At all. |
+### Draw Phase
+
+### Standby Phase
+I stopped playing after primary school for a couple years. Then came summer of 2022, where I think I was just really bored one day. I thought I’d search up Yu-Gi-Oh to see where the game was at. I can’t really remember what I even found (first) at this point, but it was some order of a random custom card creator, [DuelingNexus<sup>↗</sup>](~), and [DuelingBook<sup>↗</sup>](~).
+
+The custom card creator was pretty insignificant,[^insignificant] but DuelingNexus started to draw me back into the game. I tried building my old physical full 60-card deck (which I never properly played with), and immediately realised how many better Monsters there were. I proceeded to fill my deck with all the beatsticks I could fine, and headed into a duel where I got destroyed by Cyber Dragon. That was something.
+
+[^insignificant]: I made a **Galactron STAR Legend**, which I laugh to see now.
+
+The catalyst for sure tho, was DuelingBook. I think I asked an online friend about Yu-Gi-Oh and he told me of its existence, but anyhow – damn. I was utterly *blown away* that I could not only create my own custom cards (which actually looked accurate), but also DUEL WITH THEM. Like, that is *dream come true*, holy mackerel. I started making some, and built a small deck to battle with said friend.
+
+Around this time I also started watching [*ARC-V*<sup>↗</sup>](https://yugipedia.com/wiki/Yu-Gi-Oh!_ARC-V) (the English dub on YouTube), and this actually gave me a really good feel for how much Yu-Gi-Oh had evolved from the classical Duel Monsters that was all I had to go off.
+
+### Damage Step
+I decided to craft a [*Raidraptor*](~) deck. I loved [Kurosaki Shun<sup>↗</sup>](~) from the anime, and after watching him duel a few times thought “yo, I actually really want to play that deck.” I just threw in all the archetypal cards on DuelingNexus, practiced a bit against AI, and then went into actual online duels. I’ve gotta say, I picked up the hang of things *really* quickly. Ofc, I was plenty familiar with Yu-Gi-Oh already, and the anime did help explain some mechanics too. But in no time at all, I’d become accustomed to the much faster pace of modern Yu-Gi-Oh.
+
+### Main Phase 2
+My adventures in custom card development really kicked off after that. I started creating more and more cards and archetypes, and dueling against people online in the customs lobby.
+
+### Battle Phase
+Towards the start of 2024, I decided I really wanted to build my Drytron deck irl, so that I could play physically with friends or at locals. Turned out the quickest and easiest way to build the deck was to just buy the singles on Cardmarket, so that’s what we started doing.
+
+We’re still missing a couple of cards (including [Drytron Nova<sup>↗</sup>](~), which is one of the most important 💀), but the deck is pretty much complete.
+
+### Damage Calculation
+Nowadays, I really don’t have time to create custom cards – or play Yu-Gi-Oh – but I still keep coming back to make some more every now and then.
 
 
 <br>
-
-
-## Content
-
-Naturally, I watched some of [*Duel Monsters*<sup>↗</sup>](https://yugipedia.com/wiki/Yu-Gi-Oh!_(anime)) (the [*Battle City*<sup>↗</sup>](https://yugipedia.com/wiki/Battle_City_(disambiguation)) arc, I believe?). I’ve now watched all of [*ARC-V*<sup>↗</sup>](https://yugipedia.com/wiki/Yu-Gi-Oh!_ARC-V) and [*VRAINS*<sup>↗</sup>](https://yugipedia.com/wiki/Yu-Gi-Oh!_VRAINS) (in that order), and I’m currently (not) watching [*ZEXAL*<sup>↗</sup>](https://yugipedia.com/wiki/Yu-Gi-Oh!_ZEXAL).
-
-<!-- #QUARK
-EXPORT: yu-gi-oh/index
-STYLE: auto
-POLARITY: dark
--->
