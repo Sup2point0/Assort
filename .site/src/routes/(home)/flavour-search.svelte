@@ -23,7 +23,7 @@ onMount(() => {
   }}
 />
 
-<p> {status} </p>
+<p> {@html status} </p>
 
 
 <style lang="scss">
