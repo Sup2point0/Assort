@@ -28,7 +28,7 @@
 | Alan Walker, Noah Cyrus, Digital Farm Animals | All Falls Down | electronic / house / melodramatic |
 | Anamanaguchi | Miku | electronic / vocaloid / bop |
 | Approaching Nirvana | Deep Dark Blue (instrumental) | electronic / rhythm / drum N' bass |
-| Attoclef | The Chariot ~REVIIVAL~ | electronic / rhythm / bop |
+| Attoclef | The Chariot \~REVIIVAL~ | electronic / rhythm / bop |
 | Au5 | Awaken | electronic / rhythm / bass / dubstep / complextro |
 | Avril Lavigne | Breakaway | pop / nostalgic |
 |               | Complicated | pop / rock |
@@ -166,6 +166,7 @@
 | MYUKKE. | FULi AUTO BUSTER | electronic / rhythm / arcade |
 |         | FULi AUTO SHOOTER | electronic / rhythm / arcade |
 |         | NO ONE YES MAN | electronic / rhythm / arcade |
+|         | Triad of Dryad | electronic / rhythm / arcade |
 |         | TTTTTONE | electronic / rhythm / arcade |
 | Naomi Scott | Speechless | musical / orchestral |
 | Noah | Indelible Scar | electronic / rhythm / orchestral |
