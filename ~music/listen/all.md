@@ -2,6 +2,11 @@
 
 | artist | track | vibes |
 | :----- | :---- | :---- |
+| A-39 | WATER | electronic / rhythm / vocaloid / slap |
+|      | 聖夜讃歌 | electronic / rhythm / breakdown |
+|      | 心の記憶 | electronic / rhythm / breakdown / vocaloid |
+|      | 雪降り、メリクリ | electronic / rhythm / vocaloid |
+|      | 回転を止めた惑星 | electronic / rhythm / breakdown / vocaloid |
 | Abyss Idols | Eternal Snow | electronic / rhythm / J-pop / girly |
 |             | Rainy Season | electronic / J-pop / anime |
 | Alan Walker | Alone | electronic / house / nostalgic |
@@ -108,6 +113,7 @@
 | Hinkik, A Himitsu | Realms | electronic / rhythm |
 | HyuN, KLYDIX, Lee Yu Jin | Time To Night Sky | electronic / rhythm / jazz |
 | Iris | Journey with You | electronic / rhythm / breakdown |
+| Iyowa, Kafu | Kyu-kurarin | electronic / rhythm / J-pop / cute |
 | Jim Yosef | Link | electronic / house |
 | Jim Yosef, Anna Yvette | Linked | electronic / house |
 | Johannes Bornlöf | Adventure Awaits | orchestral / heroic |
@@ -167,11 +173,14 @@
 | Normal1zer, Broken Nerdz | DESTRUCTION 3,2,1 | electronic / piano / rhythm / hardcore / sound |
 | Olivia Rodrigo | Can't Catch Me Now | alt pop / film |
 | Owl City | Fireflies | pop / nostalgic / bop |
-| PIKASONIC | Lockdown | electronic / rhythm / kawaii bass / hardcore |
-|           | Miss You | electronic / rhythm / kawaii bass |
+| PIKASONIC | Miss You | electronic / rhythm / kawaii bass |
 |           | New Start | electronic / rhythm / kawaii bass |
-|           | Shizuku | electronic / rhythm / kawaii bass / hardcore |
 |           | Skydive | electronic / rhythm / kawaii bass |
+| PIKASONIC, nakotanmaru | 追憶 | electronic / rhythm |
+| PIKASONIC, Tatsunoshin | Lockdown | electronic / rhythm / kawaii bass / hardcore |
+|                        | Shizuku | electronic / rhythm / kawaii bass / hardcore |
+| PIKASONIC, Tatsunoshin, Tsugumi Nagahara | Euphoria | electronic / rhythm |
+| Ponchi♪, はぁち | インフェルノシティ | electronic / rock / melodramatic |
 | PRASTIC DANCEFLOOR | TECHNOPOLIS 2085 | electronic / rhythm / arcade / quirky |
 | Puru | Grimheart | electronic / piano / chill / atmos |
 | QUEEN BEE | Mephisto | J-pop / orchestral / anime / bop / edgy |
@@ -225,6 +234,7 @@
 |              | Idols | pop / mashup |
 | YOASOBI | IDOL | J-pop / rap / electronic / anime / edgy |
 |         | Tabun ("Probably") | J-pop / jazz / lofi / chill |
+|         | Yoru ni Kakeru | electronic / rhythm / J-pop |
 | Warak | 暗夜苏醒 (REANIMATE) | electronic / rhythm / bop |
 | 茶鸣拾贰律 | Feast远东之宴 | electronic / rhythm / oriental |
 |          | The Day We Become Family | electronic / rhythm / breakdown |
@@ -237,5 +247,7 @@
 |       | Spasmodic | electronic / rhythm / arcade |
 |       | 心之所向 | electronic / rhythm |
 |       | 光 | electronic / rhythm / hardcore |
-| 影虎。 | Reimei | rhythm / electronic / oriental |
+| 影虎。 | Reimei | electronic / rhythm / oriental |
+| ころねぽち | ぱぴぷぴぷぴぱ | electronic / rhythm / vocaloid / quirky |
 | Jim Yosef, Electro-Light, Anna Yvette, Deaf Kev, Tobu | Destiny | electronic / house / melodramatic |
+| ? | バグ | electronic / rhythm / vocaloid |
