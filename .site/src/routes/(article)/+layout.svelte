@@ -6,8 +6,15 @@ import Footer from "#parts/core/footer.svelte";
 
 import Header from "#parts/page/header.page.svelte";
 
+import { page } from "$app/stores";
+
 </script>
 
+
+<svelte:head>
+  <title> {$page.data.title} </title>
+  <meta name="description" content={$page.data.desc} />
+</svelte:head>
 
 <div id="page-split">
   <Nav />
