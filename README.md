@@ -10,6 +10,14 @@ Here you’ll find all my interests, thoughts, writing, time-wasting, and maybe 
 
 ---
 
+<a href="https://sup2point0.github.io/Assort">
+  <img
+    alt="Assort, Assort"
+    width="80%"
+    src=".assets/assort/poem.png"
+  >
+</a>
+
 </div>
 
 
@@ -19,7 +27,7 @@ Here you’ll find all my interests, thoughts, writing, time-wasting, and maybe 
 ## Portal
 
 > [!Tip]
-> New here? Consider starting out on the <a target="_blank" href="https://sup2point0.github.io/Assort">site<sup>↗</sup></a> for a much nicer browsing experience!
+> New here? Consider starting out on the [site<sup>↗</sup>](https://sup2point0.github.io/Assort) for a much nicer browsing experience!
 
 ### Folders
 📁 [affine](affine/)  
@@ -27,17 +35,11 @@ Here you’ll find all my interests, thoughts, writing, time-wasting, and maybe 
 📁 [kenzokinetics](kenzokinetics/)  
 📁 [xeriqui](xeriqui/)  
 
+📁 [dev](~dev/)  
 📁 [graphic design](~graphics/)  
-📁 [writing pieces](~writing.)  
+📁 [writing pieces](~writing/)  
 📁 [music](~music/)  
 📁 [poetry](~poetry/)  
-
-### Files
-📂 [*On the Origins on Sup#2.0*](~writing/origins.md) – the lore behind Sup#2.0  
-📂 [Rubic](Yu-Gi-Oh/archetypes/Rubic.md) – a custom *Yu-Gi-Oh!* archetype  
-📂 [koniokinetis](affine/affinitys/koniokinetis.md) – a fictional affinity  
-📂 [Ultraman Infinity](Ultraman/Ultraman%20Infinity.md) – a fictional Ultraman  
-📂 [fictional elements](Ascense/elements.md) – a list of invented elements  
 
 
 <br>
