@@ -187,7 +187,9 @@
 | PIKASONIC, Tatsunoshin, Tsugumi Nagahara | Euphoria | electronic / rhythm |
 | Ponchi♪, はぁち | インフェルノシティ | electronic / rock / melodramatic |
 | PRASTIC DANCEFLOOR | TECHNOPOLIS 2085 | electronic / rhythm / arcade / quirky |
-| Puru | Grimheart | electronic / piano / chill / atmos |
+| Puru | Filament | electronic / rhythm / breakdown / chill / atmos |
+|      | Grimheart | electronic / rhythm / piano / chill / atmos |
+|      | Trap Crow | electronic / rhythm / piano / chill / atmos |
 | QUEEN BEE | Mephisto | J-pop / orchestral / anime / bop / edgy |
 | RADWIMPS | KANATAHARUKA | J-pop / orchestral / melodramatic |
 | RADWIMPS, Toaka | Suzume | J-pop / orchestral / nostalgic |
