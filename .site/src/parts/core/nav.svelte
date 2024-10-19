@@ -15,7 +15,9 @@ import AssortIcon from "#parts/misc/assort-icon.svelte";
     <div class="content">
       <section id="top">
         <!-- <img alt="Assort" src="{base}/assort-block.png"> -->
-        <AssortIcon size={50} col="#ff0090" />
+        <a href="https://sup2point0.github.io/Assort">
+          <AssortIcon size={50} col="var(--col-prot)" />
+        </a>
 
         <Click kind="trit" button={() => $prefs.nav.shown = false}>
           <span class="material-symbols-rounded">
