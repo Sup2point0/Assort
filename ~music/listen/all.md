@@ -7,6 +7,7 @@
 |      | 心の記憶 | electronic / rhythm / breakdown / vocaloid |
 |      | 雪降り、メリクリ | electronic / rhythm / vocaloid |
 |      | 回転を止めた惑星 | electronic / rhythm / breakdown / vocaloid |
+|      | さようなら | electronic / rhythm / vocaloid |
 | Abyss Idols | Eternal Snow | electronic / rhythm / J-pop / girly |
 |             | Rainy Season | electronic / J-pop / anime |
 | Alan Walker | Alone | electronic / house / nostalgic |
@@ -18,16 +19,17 @@
 |             | Lost Control | electronic / sad |
 |             | Sing Me To Sleep | electronic / house / sad |
 |             | The Spectre | electronic / house / nostalgic |
-| Lay | Sheep (Alan Walker Relift) | electronic / rap / edgy |
 | Alan Walker, Alex Skrindo | Sky | electronic / bop |
 | Alan Walker, David Whistle | Routine | electronic / bop |
 | Alan Walker, K-391, Ahrix | End of Time | electronic / house / nostalgic |
 | Alan Walker, K-391, Emelie Hollow | Lily | electronic / house / melodramatic / bop |
 | Alan Walker, K-391, Julie Bergan, Seungri | Ignite | electronic / house / sad |
+| Alan Walker, Lay | Sheep (Alan Walker Relift) | electronic / rap / edgy |
 | Alan Wlker, Tungevaag, Mangoo | PLAY | electronic / house / melodramatic |
 | Alan Walker, Noah Cyrus, Digital Farm Animals | All Falls Down | electronic / house / melodramatic |
 | Anamanaguchi | Miku | electronic / vocaloid / bop |
 | Approaching Nirvana | Deep Dark Blue (instrumental) | electronic / rhythm / drum N' bass |
+| asdfmovie, Schmoyoho | THE MUFFIN SONG | electronic / quirky / meme |
 | Attoclef | The Chariot \~REVIIVAL~ | electronic / rhythm / bop |
 | Au5 | Awaken | electronic / rhythm / bass / dubstep / complextro |
 | Avril Lavigne | Breakaway | pop / nostalgic |
@@ -41,7 +43,7 @@
 |            | Are You Happy | piano / sad / deep |
 |            | FaceTime with My Mom | electronic / pop / lofi / funny |
 |            | Five Years | electronic / pop / lofi |
-|            | From God's Perspective | piano / funny |
+|            | From God’s Perspective | piano / funny |
 |            | Kill Yourself | piano / funny |
 |            | Lower Your Expectations | piano / funny |
 |            | Nerds | alt pop / rap / quirky / clever |
@@ -104,6 +106,7 @@
 | Fountains of Wayne | Stacy's Mom | pop / upbeat / funny |
 | Friends with Animals | Turning Tide | electronic / nostalgic |
 | Frums | Credits | music |
+|       | XNOR XNOR XNOR | music / rich |
 | Function Phantom | Algebra | electronic / rhythm / flavour / atmos |
 | GEMN | Fatal | J-pop / rap / anime / edgy |
 | Giga | Beyond the Way | electronic / rhythm / vocaloid / edgy / hop |
@@ -174,6 +177,7 @@
 | Normal1zer, Broken Nerdz | DESTRUCTION 3,2,1 | electronic / piano / rhythm / hardcore / sound |
 | Olivia Rodrigo | Can't Catch Me Now | alt pop / film |
 | Owl City | Fireflies | pop / nostalgic / bop |
+| Paper Skies, Nytrix | Freefalling | electronic / rhythm / hardcore / rich |
 | PIKASONIC | Miss You | electronic / rhythm / kawaii bass |
 |           | New Start | electronic / rhythm / kawaii bass |
 |           | Skydive | electronic / rhythm / kawaii bass |
@@ -183,7 +187,9 @@
 | PIKASONIC, Tatsunoshin, Tsugumi Nagahara | Euphoria | electronic / rhythm |
 | Ponchi♪, はぁち | インフェルノシティ | electronic / rock / melodramatic |
 | PRASTIC DANCEFLOOR | TECHNOPOLIS 2085 | electronic / rhythm / arcade / quirky |
-| Puru | Grimheart | electronic / piano / chill / atmos |
+| Puru | Filament | electronic / rhythm / breakdown / chill / atmos |
+|      | Grimheart | electronic / rhythm / piano / chill / atmos |
+|      | Trap Crow | electronic / rhythm / piano / chill / atmos |
 | QUEEN BEE | Mephisto | J-pop / orchestral / anime / bop / edgy |
 | RADWIMPS | KANATAHARUKA | J-pop / orchestral / melodramatic |
 | RADWIMPS, Toaka | Suzume | J-pop / orchestral / nostalgic |
@@ -248,7 +254,9 @@
 |       | Spasmodic | electronic / rhythm / arcade |
 |       | 心之所向 | electronic / rhythm |
 |       | 光 | electronic / rhythm / hardcore |
+| 皮卡丘多多 | 落日親吻銀光海 | electronic / C-pop / bop |
 | 影虎。 | Reimei | electronic / rhythm / oriental |
 | ころねぽち | ぱぴぷぴぷぴぱ | electronic / rhythm / vocaloid / quirky |
 | Jim Yosef, Electro-Light, Anna Yvette, Deaf Kev, Tobu | Destiny | electronic / house / melodramatic |
+| 光吉猛修, 穴山大輔, Kai, 水野健治, 大国奏音 | 祈 -我ら神祖と共に歩む者なり- | electronic / rhythm / arcade |
 | ? | バグ | electronic / rhythm / vocaloid |
