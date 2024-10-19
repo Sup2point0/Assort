@@ -1,5 +1,5 @@
 {
-  "exported": "2024-10-08",
+  "exported": "2024-10-10",
   "index": {
     "info": {
       "route": null,
@@ -81,7 +81,10 @@
         "~dev/In Perfection/ruby.md",
         "~dev/fix.md",
         "~dev/git.md",
+        "~dev/quotes.md",
+        "~lists/quotes/readme.md",
         "~personal/interests.md",
+        "~personal/quotes.md",
         "~personal/slinqui.md"
       ]
     },
@@ -117,6 +120,7 @@
         "~dev/decoded.md",
         "~dev/fix.md",
         "~dev/git.md",
+        "~dev/quotes.md",
         "~poetry/The Programmer's Plight.md",
         "~writing/roots.md"
       ]
@@ -125,6 +129,14 @@
       "route": null,
       "pages": [
         "~dev/decoded.md"
+      ]
+    },
+    "quotes": {
+      "route": null,
+      "pages": [
+        "~dev/quotes.md",
+        "~lists/quotes/readme.md",
+        "~personal/quotes.md"
       ]
     },
     "games": {
@@ -144,6 +156,7 @@
       "pages": [
         "~personal/evodread.md",
         "~personal/interests.md",
+        "~personal/quotes.md",
         "~personal/slinqui.md"
       ]
     },
@@ -269,6 +282,7 @@
       "~dev/decoded.md",
       "~dev/fix.md",
       "~dev/git.md",
+      "~dev/quotes.md",
       "~poetry/The Programmer's Plight.md",
       "~writing/roots.md"
     ],
@@ -286,7 +300,10 @@
       "~dev/In Perfection/ruby.md",
       "~dev/fix.md",
       "~dev/git.md",
+      "~dev/quotes.md",
+      "~lists/quotes/readme.md",
       "~personal/interests.md",
+      "~personal/quotes.md",
       "~personal/slinqui.md"
     ],
     "fav": [
@@ -305,12 +322,18 @@
       "~dev/fix.md",
       "~poetry/The Programmer's Plight.md"
     ],
+    "quotes": [
+      "~dev/quotes.md",
+      "~lists/quotes/readme.md",
+      "~personal/quotes.md"
+    ],
     "misc": [
       "~misc/filltext.md"
     ],
     "personal": [
       "~personal/evodread.md",
       "~personal/interests.md",
+      "~personal/quotes.md",
       "~personal/slinqui.md"
     ],
     "poetry": [
@@ -790,25 +813,28 @@
     },
     "Yu-Gi-Oh/readme.md": {
       "path": "Yu-Gi-Oh/readme.md",
-      "last_deploy": "2024-10-03 17:07:34 +0100",
-      "slocs": 107,
-      "chars": 9463,
+      "last_deploy": "2024-10-09 18:01:19 +0100",
+      "slocs": 74,
+      "chars": 5332,
       "isIndex": true,
       "flags": [
         "live",
-        "index"
+        "index",
+        "dev"
       ],
       "dest": "yugioh",
       "title": "Yu-Gi-Oh!",
       "head": "Yu-Gi-Oh!",
-      "capt": null,
-      "desc": "A childhood card game which I never quite fell out of love with",
+      "capt": "Index Page",
+      "desc": "A childhood card game I never quite fell out of love with",
       "index": [
         "yugioh"
       ],
       "shard": [
+        "yugioh",
         "index",
-        "yugioh"
+        "franchise",
+        "long"
       ],
       "date": null,
       "date_display": null
@@ -1321,6 +1347,33 @@
       "date": null,
       "date_display": null
     },
+    "~dev/quotes.md": {
+      "path": "~dev/quotes.md",
+      "last_deploy": "2024-10-09 17:30:54 +0100",
+      "slocs": 21,
+      "chars": 1202,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "dev/quotes",
+      "title": "Especially Ingenious Quotes on Software Development",
+      "head": "Especially Ingenious Quotes on Software Development",
+      "capt": null,
+      "desc": null,
+      "index": [
+        "dev",
+        "lists",
+        "quotes"
+      ],
+      "shard": [
+        "dev",
+        "lists",
+        "quotes"
+      ],
+      "date": null,
+      "date_display": null
+    },
     "~dev/readme.md": {
       "path": "~dev/readme.md",
       "last_deploy": "2024-09-29 21:21:18 +0100",
@@ -1388,6 +1441,31 @@
       ],
       "shard": [
 
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "~lists/quotes/readme.md": {
+      "path": "~lists/quotes/readme.md",
+      "last_deploy": "2024-10-09 17:30:54 +0100",
+      "slocs": 81,
+      "chars": 2121,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "lists/quotes",
+      "title": "Quotes",
+      "head": "Quotes",
+      "capt": null,
+      "desc": "Yep, I collect quotes.",
+      "index": [
+        "lists",
+        "quotes"
+      ],
+      "shard": [
+        "lists",
+        "quotes"
       ],
       "date": null,
       "date_display": null
@@ -1484,6 +1562,33 @@
       "shard": [
         "personal",
         "lists"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "~personal/quotes.md": {
+      "path": "~personal/quotes.md",
+      "last_deploy": "2024-10-09 17:30:54 +0100",
+      "slocs": 22,
+      "chars": 609,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "lists/quotes/self",
+      "title": "Personal Quotes",
+      "head": "Personal Quotes",
+      "capt": null,
+      "desc": null,
+      "index": [
+        "lists",
+        "quotes",
+        "personal"
+      ],
+      "shard": [
+        "lists",
+        "quotes",
+        "personal"
       ],
       "date": null,
       "date_display": null
