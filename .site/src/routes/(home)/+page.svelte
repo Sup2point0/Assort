@@ -12,6 +12,7 @@ import FeaturedCards from "./cards.featured.svelte";
 import ExploreCards from "./cards.explore.svelte";
 import FranchiseCards from "./cards.franchises.svelte";
 import NewlyReleased from "./cards.new.svelte";
+import FlavourPoem from "./flavour-poem.svelte";
 
 import { onMount } from "svelte";
 
@@ -75,6 +76,12 @@ onMount(() => {
     <section id="releases">
       <h2> Newly Released </h2>
       <NewlyReleased />
+    </section>
+
+    <section id="poem">
+      <hr>
+      <FlavourPoem />
+      <hr>
     </section>
   </div>
 </main>

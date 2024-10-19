@@ -1,13 +1,20 @@
-<script>
-
-import ContentCard from "#parts/ext/card.content.svelte";
+<script lang="ts">
 
 import Site from "#src/site";
 
 import { pick } from "#modules/utils";
+import type { PageData } from "#modules/types";
+
+import ContentCard from "#parts/ext/card.content.svelte";
+
+import { onMount } from "svelte";
 
 
-const featuredPages = pick(6, Site.featured);
+let featuredPages: PageData[] = [];
+
+onMount(() => {
+  featuredPages = pick(6, Site.featured);
+});
 
 </script>
 
@@ -17,7 +24,7 @@ const featuredPages = pick(6, Site.featured);
     {#each featuredPages as page}
       <ContentCard style="--width: 20rem"
         title={page.title ?? "..."}
-        capt={page.capt ?? "..."}
+        capt={page.capt ?? undefined}
         intern={page.dest}
       />
     {/each}
