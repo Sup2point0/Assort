@@ -1,5 +1,11 @@
 # The Wormhole of Wikipedia
-<!-- #QUARK live! -->
+<!-- #QUARK live! dev!
+| dest = writing/wormhole-of-wikipedia
+| desc = An inevitable phenomenon when browsing Wikipedia
+| style = writing
+| index = writing
+| shard = #INDEX
+-->
 
 One of my favourite indulgences is freely browsing Wikipedia. Maybe it’s down to my natural interest for anything and everything, but it’s kinda unreal how much I enjoy it, and how long I can go on for, just reading whatever interesting articles I come across.
 
@@ -36,7 +42,3 @@ Other than that, sometimes I just need to tell myself to stop, and stop opening 
 But that’s no fun, so actually I’ve now got ~20 Wikipedia pages open at all times in my browser, which just perpetually exist, sometimes shrinking, sometimes exploding, existing in happy kinda-stable equilibrium. It’s fine. I mean my device’s memory has other complaints but we can ignore those.
 
 And this, is the wormhole of Wikipedia.
-
-<!-- #QUARK
-EXPORT: wormhole-of-wikipedia
--->
