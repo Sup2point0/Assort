@@ -1,6 +1,6 @@
-revitalisation# Next-Gen A-to-Z
+# Next-Gen A-to-Z
 
-An archetype of LIGHT Machine Union monsters, harnessing contact fusion, a revitalyzacion of the original [*A-to-Z*](https://yugipedia.com/wiki/A-to-Z) archetype.
+An archetype of LIGHT Machine Union monsters, harnessing contact fusion, a revitalisation of the original [*A-to-Z*<sup>↗</sup>](https://yugipedia.com/wiki/A-to-Z) archetype.
 
 
 <br>
@@ -23,18 +23,18 @@ An archetype of LIGHT Machine Union monsters, harnessing contact fusion, a revit
 | [Next-Gen B-Buster Drake](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
 | [Next-Gen C-Claw Wyvern](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
 | [Next-Gen D-Delta Claw](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
-| [Next-Gen E](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
-| [Next-Gen F](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
+| [Next-Gen E-Edge Attacker](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
+| [Next-Gen F-Force](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
 | [Next-Gen G](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
 | [Next-Gen I](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
 | [Next-Gen J](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
 | [Next-Gen K](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
 | [Next-Gen L](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
-| [Next-Gen P](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
-| [Next-Gen Q-Ring](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
-| [Next-Gen R](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
-| [Next-Gen S](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
-| [Next-Gen T](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
+| [Next-Gen P-Jack](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
+| [Next-Gen Q-Ring Swift](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
+| [Next-Gen R-Drive Hybrid](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
+| [Next-Gen S-Cube ](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
+| [Next-Gen T-Joint](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
 | [Next-Gen V-Core Thruster](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
 | [Next-Gen W-Wing Catapult](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | – / – | Union |
 | [Next-Gen X-Head Cannon](../cards/monsters/union/Next-Gen%20.md) | 4 ★★★★ | 1800 / 1500 | Union |
@@ -59,8 +59,8 @@ An archetype of LIGHT Machine Union monsters, harnessing contact fusion, a revit
 | [Next-Gen IJKL-](../cards/monsters/link/Next-Gen%20.md) | ~ | – | Union Fusion | – |
 | [Next-Gen VWXY-Dragon Core Cannon](../cards/monsters/link/Next-Gen%20.md) | ~ | – | Union Fusion | – |
 | [Next-Gen ZWXY-Dragon Crush Catapult](../cards/monsters/link/Next-Gen%20.md) | ~ | – | Union Fusion | – |
-| [Next-Gen ABCDE-](../cards/monsters/link/Next-Gen%20.md) | ~ | – | Union Fusion | – |
-| [Next-Gen PQRST-](../cards/monsters/link/Next-Gen%20.md) | ~ | – | Union Fusion | – |
+| [Next-Gen ABCDE-Delta Claw Attacker](../cards/monsters/link/Next-Gen%20.md) | ~ | – | Union Fusion | – |
+| [Next-Gen PQRST-Hybrid Geometric Vapouriser](../cards/monsters/link/Next-Gen%20.md) | ~ | – | Union Fusion | – |
 | [Next-Gen VWXYZ-Dragon Core Catapult Crusher](../cards/monsters/link/Next-Gen%20.md) | 10 ★★★★★★★★★★ | – / – | Union Fusion | – |
 | [Next-Gen A-to-Z-Myriad Vanquish](../cards/monsters/link/Next-Gen%20.md) | 12 ★★★★★★★★★★★★ | – / – | Union Fusion | – |
 | [XYZ-Gen Cyber Crush Overdragon](../cards/monsters/fusion/Next-Gen%20.md) | 12 ★★★★★★★★★★★★ | – / – | Union Fusion | – |
