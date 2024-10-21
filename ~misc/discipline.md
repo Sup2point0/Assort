@@ -1,4 +1,9 @@
-## Discipline
+# Discipline
+<!-- #SQUARK live! woozy!
+| dest = discipline
+| duality = dark
+| shard = writing / personal
+-->
 
 ### Avoid shouting.
 Overuse diminishes effectiveness. Shouting in every reprimand defeats the purpose. It only serves to exacerbate negative emotions and instil fear. One day they’ll shout back. And shouting battles are pointless.
