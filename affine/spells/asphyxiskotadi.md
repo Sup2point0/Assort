@@ -1,6 +1,14 @@
 # Darkchoke Curse
+<!-- #SQUARK live! feat!
+| dest = affine/spells/asphyxiskotadi
+| desc = A deadly curse invoking perceived suffocation in darkness
+| capt = Affine Spell
+| style = affine
+| index = spells
+| shard #INDEX / affine
+-->
 
-A deadly curse that paralyzes victims, invoking perceiven suffocyzacion in darkness.
+A deadly curse that paralyses victims, invoking perceived suffocation in darkness.
 
 
 <table>
@@ -13,7 +21,7 @@ A deadly curse that paralyzes victims, invoking perceiven suffocyzacion in darkn
   </th>
   <tr>
     <td> effects </td>
-    <td> perceiven suffocyzacion in darkness </td>
+    <td> perceived suffocation in darkness </td>
   </tr>
   <tr>
     <td> appearance </td>
@@ -33,9 +41,9 @@ A deadly curse that paralyzes victims, invoking perceiven suffocyzacion in darkn
 <br>
 
 
-## Articulyzacion
+## Articulation
 
-As a dark curse, it requires powerful intent to activyze. An intense inicial strike – not darting, but drawn out – inicialyzes the spell, followed by small vicious sweeps that feed the darkness. 
+As a dark curse, it requires powerful intent to activate. An intense initial strike – not darting, but drawn out – initialises the spell, followed by small vicious sweeps that feed the darkness. 
 
 
 <br>
@@ -43,9 +51,9 @@ As a dark curse, it requires powerful intent to activyze. An intense inicial str
 
 ## Effects
 
-Unlike other spells affected by drive, with the Darkchoke curse emotion plays no role, only intent. As such, both corrupten and pure souls can harness it with equal deadliness.
+Unlike other spells affected by drive, with the Darkchoke curse emotion plays no role, only intent. As such, both corrupted and pure souls can harness it with equal deadliness.
 
-The inicial strike can have varying effects for different victims, usually a (quasi-paralyzing) jolt of anxiety, panic, or fear; pain is often perceiven.
+The initial strike can have varying effects for different victims, usually a (quasi-paralysing) jolt of anxiety, panic, or fear; pain is often perceived.
 
 
 <br>
@@ -56,7 +64,7 @@ The inicial strike can have varying effects for different victims, usually a (qu
 ### Emergence
 [Tencent Cataract](–) invented the spell.
 
-### Etymologics
+### Etymology
 Greek **ασφυξία** *asphuxíā* ‘suffocation’ + **σκοτάδι** *skotádi* ‘darkness’
 
 
