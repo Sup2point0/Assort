@@ -1,6 +1,14 @@
 # Vapour-Eyes
+<!-- #SQUARK live!
+| dest = yugioh/archetypes/vapour-eyes
+| desc = An archetype of LIGHT and DARK Dragon Monsters inspired by the Galaxy-Eyes archetype
+| capt = Yu-Gi-Oh! Archetype
+| style = yugioh
+| index = yugioh-archetypes
+| shard = #INDEX / yugioh
+-->
 
-An archetype of LIGHT and DARK Dragon Monsters, revoLevel ing around Xyz Summoning high-Rank Xyz Monsters through Rank-Up Xyz Evolution, inspired by the existing [*Galaxy-Eyes*](https://yugipedia.com/wiki/Galaxy-Eyes) archetype. It is closely related to the [*Lightning*](Lightning.md) archetype.
+An archetype of LIGHT and DARK Dragon Monsters, revolving around Xyz Summoning high-Rank Xyz Monsters through Rank-Up Xyz Evolution, inspired by the original [*Galaxy-Eyes*<sup>↗</sup>](https://yugipedia.com/wiki/Galaxy-Eyes) archetype. It is closely related to the [*Lightning*](Lightning.md) archetype.
 
 
 <br>
