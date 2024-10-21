@@ -1,4 +1,11 @@
 # Ultraman Infinity
+<!-- #SQUARK live! dev!
+| dest = ultraman/infinity
+| desc = A really overpowered fictionak Ultraman
+| capt = Fictional Ultraman
+| index = ultraman
+| shard = #INDEX / archives
+-->
 
 > *I am Ultraman Infinity. Born from the infinite light of the Plasma Spark.*
 
