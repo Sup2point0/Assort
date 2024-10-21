@@ -1,6 +1,14 @@
 # Koniokinetis
+<!-- #SQUARK live! dev!
+| dest = affine/affinitys/koniokinetis
+| desc = The ability to psychokinetically control dust and other fine particulates
+| capt = Affinity
+| style = affine
+| index = affinitys
+| shard = #INDEX / long
+-->
 
-A highly specialyzen deryvatic of [telekinetis](telekinetis.md), opting to control only dust and other fine particulates, which grants enhancen capabilitys.
+A highly specialised derivative of [telekinetis](telekinetis.md), opting to control only dust and other fine particulates.
 
 
 <table>
@@ -13,7 +21,7 @@ A highly specialyzen deryvatic of [telekinetis](telekinetis.md), opting to contr
   </tr>
   <tr>
     <td> <a href="../readme.md#Types">type</a> </td>
-    <td> <a href="../readme.md#Matter-Manipulyzacion">matter manipulyzacion</a> </td>
+    <td> <a href="../readme.md#Matter-Manipulation">matter manipulation</a> </td>
   </tr>
   <tr>
     <td> <a href="../readme.md#Attributes">attribute</a> </td>
@@ -21,17 +29,17 @@ A highly specialyzen deryvatic of [telekinetis](telekinetis.md), opting to contr
   </tr>
   <tr>
     <td> <a href="../readme.md#Channels">channels</a> </td>
-    <td> <a href="../readme.md#Psychive">psychive</a> </td>
+    <td> <a href="../readme.md#Psychic">psychic</a> </td>
   </tr>
   <tr>
     <td> <a href="../readme.md#Classes">classes</a> </td>
-    <td> <a href="../readme.md#Specialyzacion">specialyzacion spectrus</a> </td>
+    <td> <a href="../readme.md#Specialisation">specialisation spectrum</a> </td>
   </tr>
   <tr>
     <th colspan="2"> <h4> Nomenclature </h4> </th>
   </tr>
   <tr>
-    <td> pronouncyzacion </td>
+    <td> pronunciation </td>
     <td> <code> /ˌkoʊniːoʊkɪˈnɛtɪs/ </code> </td>
   </tr>
   <tr>
@@ -43,7 +51,7 @@ A highly specialyzen deryvatic of [telekinetis](telekinetis.md), opting to contr
     <td> koniokinetic </td>
   </tr>
   <tr>
-    <td> pronouncyzacion </td>
+    <td> pronunciation </td>
     <td> <code> /ˌkoʊniːoʊkɪˈnɛtɪk/ </code> </td>
   </tr>
   <tr>
@@ -55,18 +63,18 @@ A highly specialyzen deryvatic of [telekinetis](telekinetis.md), opting to contr
   </tr>
   <tr>
     <td> obscurity </td>
-    <td> moderative </td>
+    <td> moderate </td>
   </tr>
   <tr>
-    <td> deryvacion </td>
+    <td> derivend </td>
     <td> <a href="telekinetis.md">telekinetis</a> </td>
   </tr>
   <tr>
-    <td> deryvates </td>
+    <td> derivatives </td>
     <td> none </td>
   </tr>
   <tr>
-    <td> relyzen </td>
+    <td> related </td>
     <td> <a href="–">–</a> </td>
   </tr>
 </table>
@@ -79,10 +87,10 @@ A highly specialyzen deryvatic of [telekinetis](telekinetis.md), opting to contr
 
 ### Absolute
 
-| class | term | pronouncyzacion | etymologics |
+| class | term | pronunciation | etymologics |
 | :---- | :--- | :------------ | :---------- |
-| affinity | koniokinetis | `/ˌkəʊniːəʊkɪˈnɛtɪs/` | Greek **κόνῐς** *konis* ‘dust’ + Antarctican ***kinetis*** ‘supernatural manipulyzacion’ |
-| affinitic | koniokinetic | `/ˌkəʊniːəʊkɪˈnɛtɪk/` | Greek **κόνῐς** *konis* ‘dust’ + Antarctican ***kinetic*** ‘supernatural manipulyzer’ |
+| affinity | koniokinetis | `/ˌkəʊniːəʊkɪˈnɛtɪs/` | Greek **κόνῐς** *konis* ‘dust’ + Antarctican ***kinetis*** ‘supernatural manipulation’ |
+| affinitic | koniokinetic | `/ˌkəʊniːəʊkɪˈnɛtɪk/` | Greek **κόνῐς** *konis* ‘dust’ + Antarctican ***kinetic*** ‘supernatural manipulater’ |
 
 
 <br>
