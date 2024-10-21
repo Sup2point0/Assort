@@ -1,5 +1,12 @@
 # The Last Cavern
-<!-- #QUARK live! -->
+<!-- #SQUARK live!
+| dest = writing/the-last-cavern
+| style = writing
+| duality = light
+| index = writing
+| shard = #INDEX / archives
+| date = 2022 June
+-->
 
 It’s always an excursion getting here, but it’s always worth it.  
 &emsp; No one, to my knowledge, has ever discovered this place. It’s shielded behind several layers of ancient ice pillars, perfectly arranged as if by some supernatural force so that they totally conceal what’s inside to the unobservant eye. From afar, the opening appears as only a jagged crack in an ordinary crevice of just another ice cliff, unappealing to even the most curious of adventurers; except, it seems, me.  
@@ -14,10 +21,6 @@ It’s always an excursion getting here, but it’s always worth it.
 <br>
 
 
+<!-- #SQUARK leave? -->
 (June 2022)
-
-<!-- #QUARK
-EXPORT: the-last-cavern
-STYLE: creative
-POLARITY: light
--->
+<!-- #SQUARK leave. -->
