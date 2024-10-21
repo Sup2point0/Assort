@@ -1,5 +1,12 @@
 # Expanse
-<!-- #QUARK live! -->
+<!-- #SQUARK live!
+| dest = writing/expanse
+| style = writing
+| duality = light
+| index = writing
+| shard = #INDEX / poignant / antarctica
+| date = 2022 March
+-->
 
 They had told me what to expect. I came anyway.  
 &emsp; Through the lacerated, parched surface of the view pane, a glimmer of white slips through, trailing the piercing echo of a harsh landscape outside. My eyes instinctively squint, expecting light – but the outside world is dark. It has been for a long time. I prop myself up, and gaze out, scrutinizing whatever is visible. Among the murky haze, I can just make out the indistinct outlines of the barren plains, covered in silver snow, shaped by years of abrasion. They stretch into the distance, endless.  
@@ -14,10 +21,6 @@ They had told me what to expect. I came anyway.
 <br>
 
 
+<!-- #SQUARK leave? -->
 (March 2022)
-
-<!-- #QUARK
-EXPORT: expanse
-STYLE: cretive
-POLARITY: light
--->
+<!-- #SQUARK leave. -->
