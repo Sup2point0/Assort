@@ -1,4 +1,12 @@
 # k-Knight
+<!-- #SQUARK live!
+| dest = yugioh/archetypes/k-knight
+| desc = A superarchetype of Celestial Warrior Monsters inspired by the Mekk-Knight archetype
+| capt = Yu-Gi-Oh! Archetype
+| style = yugioh
+| index = yugioh-archetypes
+| shard = #INDEX / yugioh / long
+-->
 
 A superarchetype of Celestial Warrior Monsters of every Attribute, harnessing every Summon technique (except Pendulum), inspired by the [*Mekk-Knight*](https://yugipedia.com/wiki/Mekk-Knight) archetype. It is supported by the [*World Affinity*](World%20Affinity.md) archetype, which is also inspired by the [*World Legacy*](https://yugipedia.com/wiki/World_Legacy) archetype.
 
@@ -47,7 +55,7 @@ A superarchetype of Celestial Warrior Monsters of every Attribute, harnessing ev
 
 > Last updated: June 2023
 
-- View the deck on [DuelingBook](https://duelingbook.com/deck?id=12012335)!
+- View the deck on [DuelingBook<sup>↗</sup>](https://duelingbook.com/deck?id=12012335)!
 - Tip: hover over a card to view its card text.
 - Note: the number of copies are not exact – they only indicate a card’s place within the archetype.
 
