@@ -1,10 +1,9 @@
 # *On the Origins of Sup#2.0*
-<!-- #SQUARK dead!
+<!-- #SQUARK dead! feat! dev!
 | dest = writing/origins
-| capt = A deep dive into the lore behind the username.
-| desc = #capt
+| capt = A deep dive into the lore behind the username
 | index = writing / personal
-| shard = #index / long / jokes
+| shard = #INDEX / long / jokes
 -->
 <!-- ↗ ↑ ↓ -->
 
