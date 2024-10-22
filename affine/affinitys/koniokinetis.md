@@ -6,6 +6,7 @@
 | style = affine
 | index = affinitys
 | shard = #INDEX / long
+| clean = braces
 -->
 
 A highly specialised derivative of [telekinetis](telekinetis.md), opting to control only dust and other fine particulates.
