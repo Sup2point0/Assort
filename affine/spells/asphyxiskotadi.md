@@ -18,7 +18,7 @@ A deadly curse that paralyses victims, invoking perceived suffocation in darknes
   <tr>
     <td> class </td>
     <td> curse </td>
-  </th>
+  </tr>
   <tr>
     <td> effects </td>
     <td> perceived suffocation in darkness </td>
