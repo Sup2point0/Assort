@@ -47,6 +47,15 @@ const Site: SiteData = {
 
   index:
   {
+    affine: {
+      display: "Affine",
+    },
+    affinitys: {
+      display: "Affinitys",
+    },
+    antarctica: {
+      display: "Antarctica",
+    },
     desmos: {
       display: "Desmos",
     },
@@ -61,7 +70,7 @@ const Site: SiteData = {
       display: "games",
     },
     info: {
-      display: "Info",
+      display: "info",
     },
     lists: {
       display: "lists",
@@ -82,6 +91,9 @@ const Site: SiteData = {
       display: "poetry",
       colour: "#f190f1",
     },
+    spells: {
+      display: "Affine Spells",
+    },
     "stranded-saga": {
       display: "Stranded Saga",
     },
@@ -91,7 +103,18 @@ const Site: SiteData = {
     },
     "yugioh-archetypes": {
       display: "Yu-Gi-Oh! Archetypes",
-      colour: "ff0090",
+      colour: "#ff0090",
+    },
+    "yugioh-cards": {
+      display: "Yu-Gi-Oh! Cards",
+      colour: "#ff0090",
+    },
+    "yugioh-decks": {
+      display: "Yu-Gi-Oh! Decks",
+      colour: "#ff0090",
+    },
+    ultraman: {
+      display: "Ultraman",
     },
     writing: {
       display: "writing",
@@ -101,17 +124,32 @@ const Site: SiteData = {
 
   shard:
   {
+    index: {
+      display: "index",
+    },
+    archives: {
+      display: "archives",
+    },
+    fantasy: {
+      display: "fantasy",
+    },
+    franchise: {
+      display: "franchise",
+    },
+    funny: {
+      display: "funny",
+    },
+    long: {
+      display: "long",
+    },
+    melodramatic: {
+      display: "melodramatic",
+    },
+    opinion: {
+      display: "opinion",
+    },
     sad: {
       display: "sad",
-    },
-    "stranded-saga": {
-      display: "Stranded Saga",
-    },
-    yugioh: {
-      display: "Yu-Gi-Oh!",
-    },
-    "yugioh-archetypes": {
-      display: "Yu-Gi-Oh! Archetypes",
     },
   },
 };
