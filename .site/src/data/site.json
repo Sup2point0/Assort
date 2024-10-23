@@ -1,5 +1,5 @@
 {
-  "exported": "2024-10-10",
+  "exported": "2024-10-23",
   "index": {
     "info": {
       "route": null,
@@ -17,7 +17,13 @@
         "AI.md",
         "desmos/dev/readme.md",
         "~dev/Python Syntax.md",
+        "~writing/Broken World.md",
         "~writing/commit.md",
+        "~writing/creative/Eclipse.md",
+        "~writing/creative/Expanse.md",
+        "~writing/creative/Friend.md",
+        "~writing/creative/Seclusion.md",
+        "~writing/creative/The Last Cavern.md",
         "~writing/roots.md",
         "~writing/wriiting.md",
         "~writing/writing.md"
@@ -27,6 +33,12 @@
       "route": null,
       "pages": [
         "Phigros/favourites.md"
+      ]
+    },
+    "ultraman": {
+      "route": null,
+      "pages": [
+        "Ultraman/Ultraman Infinity.md"
       ]
     },
     "yugioh": {
@@ -50,7 +62,15 @@
       "pages": [
         "Yu-Gi-Oh/archetypes/Darquess.md",
         "Yu-Gi-Oh/archetypes/Rubic.md",
-        "Yu-Gi-Oh/archetypes/Soul.md"
+        "Yu-Gi-Oh/archetypes/Soul.md",
+        "Yu-Gi-Oh/archetypes/Vapour-Eyes.md",
+        "Yu-Gi-Oh/archetypes/k-Knight.md"
+      ]
+    },
+    "yugioh/archetypes": {
+      "route": "Yu-Gi-Oh/archetypes/readme.md",
+      "pages": [
+
       ]
     },
     "yugioh-cards": {
@@ -60,7 +80,7 @@
       ]
     },
     "yugioh-decks": {
-      "route": null,
+      "route": "Yu-Gi-Oh/decks/readme.md",
       "pages": [
         "Yu-Gi-Oh/decks/dryconix.md",
         "Yu-Gi-Oh/decks/vraptor.md"
@@ -94,10 +114,22 @@
         "Yu-Gi-Oh/thoughts/favourites.md"
       ]
     },
+    "affinitys": {
+      "route": null,
+      "pages": [
+        "affine/affinitys/koniokinetis.md"
+      ]
+    },
     "affine": {
       "route": "affine/readme.md",
       "pages": [
         "affine/affinitys.md"
+      ]
+    },
+    "spells": {
+      "route": null,
+      "pages": [
+        "affine/spells/asphyxiskotadi.md"
       ]
     },
     "desmos": {
@@ -209,7 +241,14 @@
       "~dev/Python Syntax.md",
       "~dev/Slithering Hump-Back Kebabs.md",
       "~dev/buttons.md",
+      "~misc/discipline.md",
+      "~writing/Broken World.md",
       "~writing/commit.md",
+      "~writing/creative/Eclipse.md",
+      "~writing/creative/Expanse.md",
+      "~writing/creative/Friend.md",
+      "~writing/creative/Seclusion.md",
+      "~writing/creative/The Last Cavern.md",
       "~writing/roots.md",
       "~writing/wriiting.md",
       "~writing/writing.md"
@@ -217,11 +256,23 @@
     "phigros": [
       "Phigros/favourites.md"
     ],
+    "ultraman": [
+      "Ultraman/Ultraman Infinity.md"
+    ],
+    "archives": [
+      "Ultraman/Ultraman Infinity.md",
+      "~writing/creative/Eclipse.md",
+      "~writing/creative/Friend.md",
+      "~writing/creative/Seclusion.md",
+      "~writing/creative/The Last Cavern.md"
+    ],
     "yugioh": [
       "Yu-Gi-Oh/Creating Custom Cards.md",
       "Yu-Gi-Oh/archetypes/Darquess.md",
       "Yu-Gi-Oh/archetypes/Rubic.md",
       "Yu-Gi-Oh/archetypes/Soul.md",
+      "Yu-Gi-Oh/archetypes/Vapour-Eyes.md",
+      "Yu-Gi-Oh/archetypes/k-Knight.md",
       "Yu-Gi-Oh/decks/dryconix.md",
       "Yu-Gi-Oh/decks/vraptor.md",
       "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md",
@@ -246,14 +297,18 @@
     ],
     "long": [
       "Yu-Gi-Oh/Creating Custom Cards.md",
+      "Yu-Gi-Oh/archetypes/k-Knight.md",
       "Yu-Gi-Oh/decks/dryconix.md",
       "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md",
-      "Yu-Gi-Oh/thoughts/archetypes.md"
+      "Yu-Gi-Oh/thoughts/archetypes.md",
+      "affine/affinitys/koniokinetis.md"
     ],
     "yugioh-archetypes": [
       "Yu-Gi-Oh/archetypes/Darquess.md",
       "Yu-Gi-Oh/archetypes/Rubic.md",
-      "Yu-Gi-Oh/archetypes/Soul.md"
+      "Yu-Gi-Oh/archetypes/Soul.md",
+      "Yu-Gi-Oh/archetypes/Vapour-Eyes.md",
+      "Yu-Gi-Oh/archetypes/k-Knight.md"
     ],
     "degen": [
       "Yu-Gi-Oh/archetypes/Darquess.md"
@@ -309,8 +364,14 @@
     "fav": [
       "Yu-Gi-Oh/thoughts/favourites.md"
     ],
+    "affinitys": [
+      "affine/affinitys/koniokinetis.md"
+    ],
     "affine": [
       "affine/affinitys.md"
+    ],
+    "spells": [
+      "affine/spells/asphyxiskotadi.md"
     ],
     "desmos": [
       "desmos/dev/readme.md"
@@ -327,14 +388,15 @@
       "~lists/quotes/readme.md",
       "~personal/quotes.md"
     ],
-    "misc": [
-      "~misc/filltext.md"
-    ],
     "personal": [
+      "~misc/discipline.md",
       "~personal/evodread.md",
       "~personal/interests.md",
       "~personal/quotes.md",
       "~personal/slinqui.md"
+    ],
+    "misc": [
+      "~misc/filltext.md"
     ],
     "poetry": [
       "~poetry/Assort.md",
@@ -383,7 +445,8 @@
       "~poetry/Wordless.md"
     ],
     "antarctica": [
-      "~poetry/Teardrop.md"
+      "~poetry/Teardrop.md",
+      "~writing/creative/Expanse.md"
     ],
     "fantasy": [
       "~poetry/Teardrop.md",
@@ -405,11 +468,15 @@
     "chinese": [
       "~poetry/折磨.md"
     ],
+    "rambling": [
+      "~writing/Broken World.md",
+      "~writing/writing.md"
+    ],
     "wack": [
       "~writing/commit.md"
     ],
-    "rambling": [
-      "~writing/writing.md"
+    "poignant": [
+      "~writing/creative/Expanse.md"
     ]
   },
   "pages": {
@@ -553,6 +620,31 @@
       "date": null,
       "date_display": null
     },
+    "Ultraman/Ultraman Infinity.md": {
+      "path": "Ultraman/Ultraman Infinity.md",
+      "last_deploy": "2024-10-23 11:42:23 +0100",
+      "slocs": 590,
+      "chars": 9205,
+      "isIndex": false,
+      "flags": [
+        "live",
+        "dev"
+      ],
+      "dest": "ultraman/infinity",
+      "title": "Ultraman Infinity",
+      "head": "Ultraman Infinity",
+      "capt": "Fictional Ultraman",
+      "desc": "A really overpowered fictionak Ultraman",
+      "index": [
+        "ultraman"
+      ],
+      "shard": [
+        "ultraman",
+        "archives"
+      ],
+      "date": null,
+      "date_display": null
+    },
     "Yu-Gi-Oh/Creating Custom Cards.md": {
       "path": "Yu-Gi-Oh/Creating Custom Cards.md",
       "last_deploy": "2024-10-08 18:28:57 +0100",
@@ -659,6 +751,80 @@
       "date": null,
       "date_display": null
     },
+    "Yu-Gi-Oh/archetypes/Vapour-Eyes.md": {
+      "path": "Yu-Gi-Oh/archetypes/Vapour-Eyes.md",
+      "last_deploy": "2024-10-23 11:42:23 +0100",
+      "slocs": 280,
+      "chars": 15001,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "yugioh/archetypes/vapour-eyes",
+      "title": "Vapour-Eyes",
+      "head": "Vapour-Eyes",
+      "capt": "Yu-Gi-Oh! Archetype",
+      "desc": "An archetype of LIGHT and DARK Dragon Monsters inspired by the Galaxy-Eyes archetype",
+      "index": [
+        "yugioh-archetypes"
+      ],
+      "shard": [
+        "yugioh-archetypes",
+        "yugioh"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "Yu-Gi-Oh/archetypes/k-Knight.md": {
+      "path": "Yu-Gi-Oh/archetypes/k-Knight.md",
+      "last_deploy": "2024-10-23 11:42:23 +0100",
+      "slocs": 208,
+      "chars": 27953,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "yugioh/archetypes/k-knight",
+      "title": "k-Knight",
+      "head": "k-Knight",
+      "capt": "Yu-Gi-Oh! Archetype",
+      "desc": "A superarchetype of Celestial Warrior Monsters inspired by the Mekk-Knight archetype",
+      "index": [
+        "yugioh-archetypes"
+      ],
+      "shard": [
+        "yugioh-archetypes",
+        "yugioh",
+        "long"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "Yu-Gi-Oh/archetypes/readme.md": {
+      "path": "Yu-Gi-Oh/archetypes/readme.md",
+      "last_deploy": "2024-10-23 11:42:23 +0100",
+      "slocs": 141,
+      "chars": 4690,
+      "isIndex": true,
+      "flags": [
+        "live",
+        "index"
+      ],
+      "dest": "yugioh/archetypes",
+      "title": "Archetypes",
+      "head": "Archetypes",
+      "capt": "Index Page",
+      "desc": "All the custom archetypes I’ve designed",
+      "index": [
+        "yugioh/archetypes"
+      ],
+      "shard": [
+        "index",
+        "yugioh-archetypes"
+      ],
+      "date": null,
+      "date_display": null
+    },
     "Yu-Gi-Oh/cards/readme.md": {
       "path": "Yu-Gi-Oh/cards/readme.md",
       "last_deploy": "2024-10-08 18:31:40 +0100",
@@ -706,6 +872,31 @@
         "yugioh-decks",
         "yugioh",
         "long"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "Yu-Gi-Oh/decks/readme.md": {
+      "path": "Yu-Gi-Oh/decks/readme.md",
+      "last_deploy": "2024-10-23 11:42:23 +0100",
+      "slocs": 87,
+      "chars": 7341,
+      "isIndex": true,
+      "flags": [
+        "live",
+        "index"
+      ],
+      "dest": "yugioh/decks",
+      "title": "Yu-Gi-Oh! Decks",
+      "head": "*Yu-Gi-Oh!* Decks",
+      "capt": "Index Page",
+      "desc": "All the Yu-Gi-Oh decks I’ve built and played",
+      "index": [
+        "yugioh-decks"
+      ],
+      "shard": [
+        "index",
+        "yugioh"
       ],
       "date": null,
       "date_display": null
@@ -971,6 +1162,31 @@
       "date": null,
       "date_display": null
     },
+    "affine/affinitys/koniokinetis.md": {
+      "path": "affine/affinitys/koniokinetis.md",
+      "last_deploy": "2024-10-23 11:42:23 +0100",
+      "slocs": 280,
+      "chars": 14374,
+      "isIndex": false,
+      "flags": [
+        "live",
+        "dev"
+      ],
+      "dest": "affine/affinitys/koniokinetis",
+      "title": "Koniokinetis",
+      "head": "Koniokinetis",
+      "capt": "Affinity",
+      "desc": "The ability to psychokinetically control dust and other fine particulates",
+      "index": [
+        "affinitys"
+      ],
+      "shard": [
+        "affinitys",
+        "long"
+      ],
+      "date": null,
+      "date_display": null
+    },
     "affine/affinitys.md": {
       "path": "affine/affinitys.md",
       "last_deploy": "2024-10-03 17:07:34 +0100",
@@ -1017,6 +1233,30 @@
       "shard": [
         "affine",
         "index"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "affine/spells/asphyxiskotadi.md": {
+      "path": "affine/spells/asphyxiskotadi.md",
+      "last_deploy": "2024-10-23 11:42:23 +0100",
+      "slocs": 74,
+      "chars": 1599,
+      "isIndex": false,
+      "flags": [
+        "live",
+        "feat"
+      ],
+      "dest": "affine/spells/asphyxiskotadi",
+      "title": "Darkchoke Curse",
+      "head": "Darkchoke Curse",
+      "capt": "Affine Spell",
+      "desc": "A deadly curse invoking perceived suffocation in darkness",
+      "index": [
+        "spells"
+      ],
+      "shard": [
+        "spells"
       ],
       "date": null,
       "date_display": null
@@ -1490,6 +1730,31 @@
       ],
       "shard": [
         "lists"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "~misc/discipline.md": {
+      "path": "~misc/discipline.md",
+      "last_deploy": "2024-10-23 11:42:23 +0100",
+      "slocs": 45,
+      "chars": 2752,
+      "isIndex": false,
+      "flags": [
+        "live",
+        "woozy"
+      ],
+      "dest": "discipline",
+      "title": "Discipline",
+      "head": "Discipline",
+      "capt": null,
+      "desc": null,
+      "index": [
+
+      ],
+      "shard": [
+        "writing",
+        "personal"
       ],
       "date": null,
       "date_display": null
@@ -2158,6 +2423,30 @@
       "date": "2024-01-01",
       "date_display": "2024 Summer"
     },
+    "~writing/Broken World.md": {
+      "path": "~writing/Broken World.md",
+      "last_deploy": "2024-10-23 11:42:23 +0100",
+      "slocs": 47,
+      "chars": 5473,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "writing/broken-world",
+      "title": "Broken World",
+      "head": "Broken World",
+      "capt": null,
+      "desc": "What if the world is broken?",
+      "index": [
+        "writing"
+      ],
+      "shard": [
+        "writing",
+        "rambling"
+      ],
+      "date": null,
+      "date_display": null
+    },
     "~writing/commit.md": {
       "path": "~writing/commit.md",
       "last_deploy": "2024-09-14 11:38:43 +0100",
@@ -2181,6 +2470,129 @@
       ],
       "date": "2024-09-02",
       "date_display": "2024 September 2"
+    },
+    "~writing/creative/Eclipse.md": {
+      "path": "~writing/creative/Eclipse.md",
+      "last_deploy": "2024-10-23 11:42:23 +0100",
+      "slocs": 21,
+      "chars": 2038,
+      "isIndex": false,
+      "flags": [
+        "live",
+        "deep"
+      ],
+      "dest": "writing/eclipse",
+      "title": "Eclipse",
+      "head": "Eclipse",
+      "capt": null,
+      "desc": null,
+      "index": [
+        "writing"
+      ],
+      "shard": [
+        "writing",
+        "archives"
+      ],
+      "date": "2021-09-01",
+      "date_display": "2021 September"
+    },
+    "~writing/creative/Expanse.md": {
+      "path": "~writing/creative/Expanse.md",
+      "last_deploy": "2024-10-23 11:42:23 +0100",
+      "slocs": 26,
+      "chars": 3331,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "writing/expanse",
+      "title": "Expanse",
+      "head": "Expanse",
+      "capt": null,
+      "desc": null,
+      "index": [
+        "writing"
+      ],
+      "shard": [
+        "writing",
+        "poignant",
+        "antarctica"
+      ],
+      "date": "2022-03-01",
+      "date_display": "2022 March"
+    },
+    "~writing/creative/Friend.md": {
+      "path": "~writing/creative/Friend.md",
+      "last_deploy": "2024-10-23 11:42:23 +0100",
+      "slocs": 29,
+      "chars": 2374,
+      "isIndex": false,
+      "flags": [
+        "live",
+        "woozy"
+      ],
+      "dest": "writing/friend",
+      "title": "Friend",
+      "head": "Friend",
+      "capt": null,
+      "desc": null,
+      "index": [
+        "writing"
+      ],
+      "shard": [
+        "writing",
+        "archives"
+      ],
+      "date": "2020-09-01",
+      "date_display": "2020 September"
+    },
+    "~writing/creative/Seclusion.md": {
+      "path": "~writing/creative/Seclusion.md",
+      "last_deploy": "2024-10-23 11:42:23 +0100",
+      "slocs": 28,
+      "chars": 2224,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "writing/seclusion",
+      "title": "Seclusion",
+      "head": "Seclusion",
+      "capt": null,
+      "desc": null,
+      "index": [
+        "writing"
+      ],
+      "shard": [
+        "writing",
+        "archives"
+      ],
+      "date": "2022-06-01",
+      "date_display": "2022 June"
+    },
+    "~writing/creative/The Last Cavern.md": {
+      "path": "~writing/creative/The Last Cavern.md",
+      "last_deploy": "2024-10-23 11:42:23 +0100",
+      "slocs": 26,
+      "chars": 2953,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "writing/the-last-cavern",
+      "title": "The Last Cavern",
+      "head": "The Last Cavern",
+      "capt": null,
+      "desc": null,
+      "index": [
+        "writing"
+      ],
+      "shard": [
+        "writing",
+        "archives"
+      ],
+      "date": "2022-06-01",
+      "date_display": "2022 June"
     },
     "~writing/roots.md": {
       "path": "~writing/roots.md",

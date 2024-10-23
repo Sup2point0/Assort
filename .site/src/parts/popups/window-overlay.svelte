@@ -4,11 +4,9 @@ A blurred overlay across the entire screen for displaying modals or warnings ove
 -->
 
 <script lang="ts">
-  
-import type { MouseEventHandler } from "svelte/elements";
 
 export let store: any | undefined = undefined;
-export let exit: MouseEventHandler<HTMLElement> | undefined = undefined;
+export let exit: any | undefined = undefined;
 
 
 const callback = exit ?? (() => store.exit());
@@ -16,7 +14,10 @@ const callback = exit ?? (() => store.exit());
 </script>
 
 <!-- TODO add keypress handler -->
-<div class="overlay" on:click={callback}>
+<div class="overlay" role="dialog"
+  on:click={callback}
+  on:keydown={event => event.key == "Escape" && callback(event)}
+>
   <slot>
     <p> Uh, something went wrong! Click anywhere to exit... </p>
   </slot>
