@@ -30,8 +30,8 @@ let searchOptions = new SearchOptions<PageData>();
   </tr>
 
   {#each searchOptions.apply(Object.values(Site.pages)) as page}
-    {@const indexed = page.index?.map(each => Site.index[each])}
-    {@const shards = page.shard?.map(each => Site.shard[each])}
+    {@const indexed = page.index?.map(each => Site.index[each] ?? each)}
+    {@const shards = page.shard?.map(each => Site.shard[each] ?? each)}
 
     <tr>
       <td>
@@ -41,9 +41,12 @@ let searchOptions = new SearchOptions<PageData>();
       <!-- INDEX -->
       <td>
         {#each indexed ?? [] as index}
-          <!-- very annoying hack here to avoid random spaces being injected -->
-          <a href="{base}/{index?.path}">{index?.display ?? "?"}</a
-          >{#if index != indexed[indexed.length -1]}
+          {@const path = typeof(index) == "string" ? index : index?.path ?? ""}
+          {@const text = typeof(index) == "string" ? index : index?.display ?? "?"}
+
+          <a href="{base}/{path}">{text}</a>{
+            #if index != indexed[indexed.length -1]
+          }
             <span class="divider">/</span>
           {/if}
 
@@ -53,10 +56,13 @@ let searchOptions = new SearchOptions<PageData>();
       <!-- SHARD -->
       <td>
         {#each shards ?? [] as shard}
-          <a href="{base}/{shard?.path}">{shard?.display ?? "?"}</a
-            >{#if shard != shards[shards.length -1]}
-              <span class="divider">/</span>
-            {/if}
+          {@const text = typeof(shard) == "string" ? shard : shard?.display ?? "?"}
+
+          <a href="{base}/search?queryValue={shard}&in=shard">{text}</a>{
+            #if shard != shards[shards.length -1]
+          }
+            <span class="divider">/</span>
+          {/if}
         {/each}
       </td>
 
