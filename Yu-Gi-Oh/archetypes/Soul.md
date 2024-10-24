@@ -205,7 +205,7 @@ There are 3 other Psychic Spirit Monsters, whose name follows the form `<‘-ful
 ### Ritual Monsters
 There are 2 Lv7 Ritual Monsters, [Soul Swordsman](../cards/monsters/ritual/Soul%20Swordsman.md) and [Soul Dragon](../cards/monsters/ritual/Soul%20Dragon.md), which serve as the Ritual aces of the archetype. They are quite similar, with moderate ATK, and a non-targeting soft removal trigger effect that activates whenever a *Soul* Ritual or Synchro Monster is Special Summoned (note that this doesn’t need to be a proper Ritual or Synchro Summon, or even be performed by the player themselves).
 
-> If this card or another ‘Soul’ Ritual or Synchro Monster is Special Summoned: You can {…} 1 card from the field or either player’s Graveyard {…}.
+> Once per turn, if this card or another ‘Soul’ Ritual or Synchro Monster is Special Summoned: You can {…} 1 card from the field or either player’s Graveyard {…}.
 
 They can also protect themselves from destruction by banishing a *Soul* Monster from the Grave instead.
 
@@ -442,7 +442,7 @@ The archetype has 2 Field Spells, which both place Soul Counters on the field, a
   </tr>
 </table>
 
-There are also 2 Continuous Spells. [Soul Sanctuary](#Spells) is an incredible enabler that boost ATK and searches cards, acting like many archetypal Field Spells. Since it is a Continuous Spell instead of a Field Spell, multiple copies on the field will even stack the ATK boost. [Soul Walker](#Spells) then allows the player’s *Soul* Monsters to straight up attack directly, which is very dangerous given the archetype’s ability to spam many, if weak, Monsters with ease. However, it does require the opponent to control more cards, so may not always work if the opponent has an undeveloped field.
+There are also 2 Continuous Spells. [Soul Sanctuary](#Spells) is an incredible enabler that boosts ATK and searches cards, acting like many archetypal Field Spells. Since it is a Continuous Spell instead of a Field Spell, multiple copies on the field will even stack the ATK boost. [Soul Walker](#Spells) then allows the player’s *Soul* Monsters to straight up attack directly, which is very dangerous given the archetype’s ability to spam many, if weak, Monsters with ease. However, it does require the opponent to control more cards, so may not always work if the opponent has an undeveloped field.
 
 <table>
   <tr>
@@ -486,7 +486,7 @@ Soul Rupture happens to synergise nicely with Soul Fracture, in that if the oppo
 
 [Soul Virus](#Traps) slowly eats away at the opponent’s Deck and Extra Deck. It contributes little to the game and barely interacts with the rest of the archetype, but can provide spare [Soul Counters](#Soul-Counters), both by itself or as another card for the [Field Spells](#Lingering-Spells) to place Soul Counters on. Most importantly, it is very difficult to remove, and becomes very damaging indeed if left for too long – before the opponent has realised it, they’ve lost several of their important cards.
 
-[Soul Scream](#Traps) is the archetypal Counter Trap, with the power to negate *all effects* in a Chain, though like [Soul Corruption](#Miscellaneous-Spells), its cost requires setup. While this can be extremely impactful, it doesn’t discriminate between each player, so will render the entire Chain ineffective; as such, it’s most effective in response to an opponent’s [SEGOC](), like [Solemn Silence](../cards/traps/Solemn%20Silence.md)
+[Soul Scream](#Traps) is the archetypal Counter Trap, with the power to negate *all effects* in a Chain, though like [Soul Corruption](#Miscellaneous-Spells), its cost requires setup. While this can be extremely impactful, it doesn’t discriminate between each player, so will render the entire Chain ineffective; as such, it’s most effective in response to an opponent’s [SEGOC<sup>↗</sup>](https://yugipedia.com/wiki/Simultaneous_Effects), like [Solemn Silence](../cards/traps/Solemn%20Silence.md)
 
 <table>
   <tr>
