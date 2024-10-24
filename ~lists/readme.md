@@ -1,8 +1,11 @@
 <!-- #SQUARK live! index!
 | dest = lists
 | title = Lists
+| desc = I love lists.
 | head = Lists
+| capt = Index Page
 | index = lists
+| shard = index / lists
 -->
 
 You do not understand how much I enjoy making lists, or just how many I’ve created.
