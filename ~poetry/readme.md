@@ -5,6 +5,7 @@
 | capt = Index Page
 | duality = light
 | index = poetry
+| shard = #INDEX / index
 -->
 
 Surprisingly, I genuinely enjoy writing poetry.
