@@ -1,5 +1,11 @@
 # Xeriqui
-<!-- #QUARK live! -->
+<!-- #SQUARK live! index!
+| dest = xeriqui
+| desc = A fictional theory of existence and reality
+| capt = Index Page
+| index = xeriqui
+| shard = #INDEX / index / personal / fantasy
+-->
 
 A fictional theory of existence and reality.
 
