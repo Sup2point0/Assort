@@ -40,6 +40,9 @@ A Silent Voice
 
 ## Manga
 
+Bocchi the Rock  
+Komi Can’t Communicate  
+
 
 <br>
 
