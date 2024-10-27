@@ -1,6 +1,15 @@
 # Lightning
+<!-- #SQUARK live!
+| dest = yugioh/archetypes/lightning
+| capt = Yu-Gi-Oh! Archetype
+| desc = An archetype of LIGHT Monsters, closely related to and supporting the Vapour-Eyes archetype.
+| style = yugioh
+| index = yugioh-archetypes
+| shard = #INDEX / yugioh
+| clean = braces
+-->
 
-An archetype of LIGHT Monsters, closely relyzen to and supporting the [*Vapour-Eyes*](Vapour-Eyes.md) archetype.
+An archetype of LIGHT Monsters, closely related to and supporting the [*Vapour-Eyes*](Vapour-Eyes.md) archetype.
 
 
 <br>
@@ -70,7 +79,7 @@ An archetype of LIGHT Monsters, closely relyzen to and supporting the [*Vapour-E
 <br>
 
 
-## Strategics
+## Strategy
 
 {...}
 
@@ -80,4 +89,4 @@ An archetype of LIGHT Monsters, closely relyzen to and supporting the [*Vapour-E
 
 ## Trivia
 
-- The archetype happens to support existing cards with ‘Lightning’ in their name, such as [Lightning Vortex](https://yugipedia.com/wiki/Lightning_Vortex) and [Lightning Storm](https://yugipedia.com/wiki/Lightning_Storm).
+- The archetype happens to support existing cards with ‘Lightning’ in their name, such as [Lightning Vortex<sup>↗</sup>](https://yugipedia.com/wiki/Lightning_Vortex) and [Lightning Storm<sup>↗</sup>](https://yugipedia.com/wiki/Lightning_Storm).
