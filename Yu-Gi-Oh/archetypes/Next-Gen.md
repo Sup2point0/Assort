@@ -1,4 +1,13 @@
 # Next-Gen
+<!-- #SQUARK live!
+| dest = yugioh/archetypes/next-gen
+| capt = Yu-Gi-Oh! Superarchetype
+| desc = A superarchetype of revitalisations of various existing Yu-Gi-Oh archetypes.
+| style = yugioh
+| index = yugioh-archetypes
+| shard = #INDEX / yugioh-superarchetypes / yugioh
+| clean = braces
+-->
 
 A superarchetype of revitalisations of various existing archetypes.
 
@@ -100,4 +109,4 @@ A superarchetype of revitalisations of various existing archetypes.
 
 ## Trivia
 
-- This superarchetype’s name is inspired by the [Next-Gen](https://soul-knight.fandom.com/wiki/Next-gen_SMG) series of weapons from [*Soul Knight*](https://soul-knight.fandom.com).
+- This superarchetype’s name is inspired by the [Next-Gen<sup>↗</sup>](https://soul-knight.fandom.com/wiki/Next-gen_SMG) series of weapons from [*Soul Knight*<sup>↗</sup>](https://soul-knight.fandom.com).
