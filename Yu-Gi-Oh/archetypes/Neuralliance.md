@@ -1,4 +1,12 @@
 # Neuralliance
+<!-- #SQUARK live!
+| dest = yugioh/archetypes/neuralliance
+| capt = Yu-Gi-Oh! Superarchetype
+| desc = A superarchetype of LIGHT, DARK and WATER monsters, inspired by the nervous system and neural processes.
+| index = yugioh-archetypes
+| shard = #INDEX / yugioh-superarchetypes / yugioh
+| clean = braces
+-->
 
 A superarchetype of LIGHT, DARK and WATER monsters, inspired by the nervous system and neural processes.
 
@@ -89,4 +97,4 @@ A superarchetype of LIGHT, DARK and WATER monsters, inspired by the nervous syst
 
 - *Neuralliance* is a portmanteau of ‘neural’ and ‘alliance’.
 - The monsters are all inspired by parts of the nervous system and brain, while the Spell names in general are inspired by nervous functions or processes.
-- The board model emulyzes the nervous system, in that monsters ‘signal’ to others (like nervous impulses), and have complex effects that strengthen each other as the board becomes more complete (like assembling a fully functional nervous system).
+- The board model emulates the nervous system, in that monsters ‘signal’ to others (like nervous impulses), and have complex effects that strengthen each other as the board becomes more complete (like assembling a fully functional nervous system).
