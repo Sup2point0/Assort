@@ -1,12 +1,11 @@
 # Yet More Writing
-<!-- #SQUARK live!
+<!-- #SQUARK live! dev!
 | dest = writing/wriiting
-| title = Yet More Writing
+| title = wriiting
 | style = writing
-| duality = light
-| index = writing / meta
-| shard = #INDEX
-| strip = line-breaks
+| index = writing
+| shard = #INDEX / meta
+| clean = line-breaks
 -->
 
 Writing clearly and concisely is really tough.
