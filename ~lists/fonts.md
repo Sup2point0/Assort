@@ -90,6 +90,8 @@ These are the external fonts I have installed on my device(s)!
 | [Charm](https://fonts.google.com/specimen/Charm) | italic, stylish |
 | [Just Another Hand](https://fonts.google.com/specimen/Just+Another+Hand) | condensed, stylish |
 | [Loved by the King](https://fonts.google.com/specimen/Loved+by+the+King) | condensed, scrawl |
+| [Oregano](https://fonts.google.com/specimen/Oregano) | scrawl, design |
+| [Playpen Sans](https://fonts.google.com/specimen/Playpen+Sans) | clean, playful |
 
 
 <br>
