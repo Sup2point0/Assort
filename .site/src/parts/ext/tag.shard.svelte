@@ -12,7 +12,7 @@ import Tag from "#parts/ext/tag.svelte";
 export let shard: string;
 
 
-const data = Site.shard[shard] ?? Site.index[shard];
+const data = Site.shard[shard] ?? Site.index[shard] ?? shard;
 
 </script>
 
@@ -21,5 +21,5 @@ const data = Site.shard[shard] ?? Site.index[shard];
   intern="search?query={shard}&in=shard"
   col={data?.colour}
 >
-  {data?.display ?? shard}
+  {data?.display}
 </Tag>
