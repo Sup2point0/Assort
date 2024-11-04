@@ -31,7 +31,7 @@ let searchOptions = new SearchOptions<PageData>();
 
   {#each searchOptions.apply(Object.values(Site.pages)) as page}
     {@const indexed = page.index?.map(each => Site.index[each] ?? each)}
-    {@const shards = page.shard?.map(each => Site.shard[each] ?? each)}
+    {@const shards = page.shard?.map(each => Site.shard[each] ?? Site.index[each] ?? each)}
 
     <tr>
       <td>
