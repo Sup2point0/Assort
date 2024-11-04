@@ -1,6 +1,6 @@
 # Next-Gen Code Talker
 <!-- #SQUARK live!
-| dest/yugioh/archetypes/next-gen/code-talker
+| dest = yugioh/archetypes/next-gen/code-talker
 | capt = Yu-Gi-Oh! Archetype
 | desc = A revitalisation of the Code Talker archetype.
 | style = yugioh
