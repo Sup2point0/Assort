@@ -63,6 +63,11 @@ These are the external fonts I have installed on my device(s)!
 - Matrix SC
 - Merriweather
 
+| font | notes |
+| :--- | :---- |
+| [Alegreya](https://fonts.google.com/specimen/Alegreya) | archaic, literary, stylish, titling |
+| [Crimson Pro](https://fonts.google.com/specimen/Crimson+Pro) | literary, titling |
+
 
 <br>
 
@@ -79,6 +84,12 @@ These are the external fonts I have installed on my device(s)!
   - Shadows Into Light Two
 - Shantell Sans
 - Waiting For The Sunrise
+
+| font | notes |
+| :--- | :---- |
+| [Charm](https://fonts.google.com/specimen/Charm) | italic, stylish |
+| [Just Another Hand](https://fonts.google.com/specimen/Just+Another+Hand) | condensed, stylish |
+| [Loved by the King](https://fonts.google.com/specimen/Loved+by+the+King) | condensed, scrawl |
 
 
 <br>
@@ -100,6 +111,10 @@ These are the external fonts I have installed on my device(s)!
 - Julee
 - Orbitron
 - RocknRoll One
+
+| font | notes |
+| :--- | :---- |
+| [Eczar](https://fonts.google.com/specimen/Eczar) | serif, archaic |
 
 
 <br>
