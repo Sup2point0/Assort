@@ -1,7 +1,8 @@
 {
   "index": "index page",
+  "deep": "default to immersive view",
   "feat": "featured page",
   "dev": "under development",
-  "deep": "default to immersive view",
+  "depr": "deprecated page",
   "woozy": "do not show in search results"
 }
