@@ -7,6 +7,7 @@
 | capt = A love letter to Assort
 | shard = meta
 | date = 2024 autumn
+| clean = angles
 -->
 
 *Assort* was born on 9 June, 2022.
