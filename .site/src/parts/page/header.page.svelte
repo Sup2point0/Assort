@@ -10,7 +10,7 @@ import Shard from "#parts/ext/tag.shard.svelte";
 
 
 <header>
-  <div>
+  <div class="left">
     <h1> {$page.data.title} </h1>
     
     {#if $page.data.capt}
@@ -18,7 +18,7 @@ import Shard from "#parts/ext/tag.shard.svelte";
     {/if}
   </div>
 
-  <div>
+  <div class="right">
     {#if $page.data.date_display}
       <p id="date" class="caption"> {$page.data.date_display} </p>
     {/if}
@@ -44,6 +44,10 @@ header {
   @include line(1.5px);
 }
 
+.left { text-align: left; }
+.right { text-align: right; }
+
+
 h1 {
   margin: 1rem 0 0;
   @include font-head;
@@ -63,9 +67,18 @@ p#capt {
   font-size: 150%;
 }
 
+p#date {
+  @include font-ui;
+  font-size: 150%;
+}
+
 #shards {
   max-width: 40vw;
   margin: 1rem 0 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  flex-wrap: wrap;
 }
 
 </style>
