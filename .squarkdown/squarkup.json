@@ -19,7 +19,7 @@
   ],
   "dest": "src/routes/(article)/(rendered)",
   "if-no-dir": ["warn", "create"],
-  "on-error": "kill",
+  "on-error": "warn",
   
   "file-name": "~content",
   "bases": "src/parts/base",
