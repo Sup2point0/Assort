@@ -8,6 +8,8 @@ import { prefs, popups } from "#modules/stores";
 import WindowOverlay from "#parts/popups/window-overlay.svelte";
 import Preferences from "#parts/popups/prefs/preferences.svelte";
 
+import { base } from "$app/paths";
+
 
 // always fallback to light
 $: duality = $prefs.cols.duality ? (
@@ -22,6 +24,10 @@ $: duality = $prefs.cols.duality ? (
 
 </script>
 
+
+<svelte:head>
+  <meta property="og:image" content="{base}/assort/cover.png" />
+</svelte:head>
 
 <div
   id="page"
