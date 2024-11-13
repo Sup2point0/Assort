@@ -64,9 +64,11 @@ import AssortIcon from "#parts/misc/assort-icon.svelte";
           <NavLink text="affinitys" intern="affine/affinitys" />
           <NavLink text="spells" intern="affine/spells" />
         </NavLink>
+        <NavLink text="Victory" link="https://sup2point0.github.io/Victory" />
         <NavLink text="Ascense" intern="ascense" />
         <NavLink text="kenzokinetics" intern="kenzokinetics" />
         <NavLink text="xeriqui" intern="xeriqui" />
+        <NavLink text="Antarctica" link="https://sup2point0.github.io/Antarctica" />
       </section>
       
       <section>
@@ -76,8 +78,18 @@ import AssortIcon from "#parts/misc/assort-icon.svelte";
           <NavLink text="cards" intern="yugioh/cards" />
           <NavLink text="lore" intern="yugioh/lore" />
         </NavLink>
+        <NavLink text="Phigros" intern="games/phigros" />
+        <NavLink text="Bloons" intern="games/bloons" />
+        <NavLink text="AirAttack 3" intern="games/aa3" />
+        <NavLink text="Asphalt Fantasy" intern="games/asphalt-fantasy" />
+        <NavLink text="Soul Knight" intern="games/soul-knight" />
         <NavLink text="Ultraman" intern="ultraman" />
-        <NavLink text="Phigros" intern="phigros" />
+        <NavLink text="diep.2.io" intern="diep2io" />
+      </section>
+
+      <section>
+        <h2> Assorted </h2>
+        <NavLink text="Scratch" intern="scratch" />
         <NavLink text="desmos" intern="desmos" />
       </section>
 
@@ -88,6 +100,7 @@ import AssortIcon from "#parts/misc/assort-icon.svelte";
           <NavLink text="articles" intern="articles" />
           <NavLink text="ads" intern="ads" />
         </NavLink>
+        <NavLink text="corporations" intern="corps" />
       </section>
 
       <section>
