@@ -1,10 +1,10 @@
 # Favourite Charts
 <!-- #SQUARK live!
-| dest = phigros/favourites
+| dest = games/phigros/favourites
 | style = phigros
 | duality = dark
-| index = phigros
-| shard = #INDEX
+| index = phigros / fav
+| shard = #INDEX / games / lists
 -->
 
 Deciding on a single favourite chart would be impossible, so of course, we’ll list a bunch!
@@ -288,7 +288,7 @@ Perfectly Phigros.
     <td> IN 15 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> SUCH a fun chart, especially 1-handed. Charts where they mix all the note types are where Phigros shines most! </td>
   </tr>
   <tr>
     <td rowspan="3" align="center">
@@ -306,7 +306,7 @@ Perfectly Phigros.
     <td> IN 15 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> Perfectly intense and dynamic, which some of the most satisfying animations I’ve seen in a Phigros chart. Could honestly be a boss track of Chapter 8 itself. </td>
   </tr>
   <tr>
     <td rowspan="3" align="center">
@@ -321,10 +321,10 @@ Perfectly Phigros.
     </td>
   </tr>
   <tr>
-    <td> IN 15 </td>
+    <td> IN 14 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> Sometimes the tempo and rhythm of a song is just really perfect for spamming, and this is one of those. </td>
   </tr>
   <tr>
     <td rowspan="3" align="center">
@@ -342,7 +342,7 @@ Perfectly Phigros.
     <td> AT 14 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> Phigros doing Phigros stuff 🔥 </td>
   </tr>
 </table>
 
@@ -371,7 +371,7 @@ When the charters *really* don’t hold back.
     <td> IN 14 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> Wow. </td>
   </tr>
   <tr>
     <td rowspan="3" align="center">
@@ -389,7 +389,7 @@ When the charters *really* don’t hold back.
     <td> IN 15 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> SPAMMMMMMMMM </td>
   </tr>
   <tr>
     <td rowspan="3" align="center">
@@ -407,7 +407,7 @@ When the charters *really* don’t hold back.
     <td> IN 15 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> The chart is absolute cancer, yes. It’s also hilariously fun, and is just Phigros doing Phigros stuff. </td>
   </tr>
   <tr>
     <td rowspan="3" align="center">
@@ -443,7 +443,7 @@ When the charters *really* don’t hold back.
     <td> AT 16 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> *Such* a power chart for the most power song. Not even much non-downscroll shenanigans, they just went “screw in, we’re just spamming notes”. Absolutely fitting for the boss track of the Camellia chapter. </td>
   </tr>
   <tr>
     <td rowspan="3" align="center">
@@ -461,6 +461,6 @@ When the charters *really* don’t hold back.
     <td> AT 16 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> I mean... pffft. What can you even say to this. </td>
   </tr>
 </table>
