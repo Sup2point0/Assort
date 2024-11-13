@@ -21,7 +21,7 @@ export let icon: string | undefined = undefined;
 
   <div class="text">
     <h4> {title} </h4>
-    <p> {desc} </p>
+    <p> {@html desc} </p>
   </div>
 </div>
 
