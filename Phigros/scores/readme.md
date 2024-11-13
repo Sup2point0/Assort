@@ -79,6 +79,25 @@ My most memorable performances!
 
 Most memorable 1-handed scores!
 
+<img width="420px"
+  alt="FC – IN – 风屿"
+  src="1-hand/FC%20-%20IN%20-%20风屿.png">
+<img width="420px"
+  alt="S – IN – REANIMATE"
+  src="1-hand/S%20-%20IN%20-%20REANIMATE.png">
+<img width="420px"
+  alt="S – IN – 夜"
+  src="1-hand/S%20-%20-IN%20-%20夜.png">
+<img width="420px"
+  alt="S – IN – 996"
+  src="1-hand/S%20-%20-IN%20-%20996.png">
+<img width="420px"
+  alt="S – IN – Stray Soul"
+  src="1-hand/S%20-%20-IN%20-%20Stray%20Soul.png">
+<img width="420px"
+  alt="Phi-3 – IN – 盏茗"
+  src="1-hand/Phi-3%20-%20-IN%20-%20盏茗.png">
+
 
 <br>
 
