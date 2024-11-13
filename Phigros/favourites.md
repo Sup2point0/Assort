@@ -34,7 +34,7 @@ Maximum Phigros!!
     <td> HD 7 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> This was one of the first charts I played in Phigros, and it still blows me away to this day. The creativity is on another level. </td>
   </tr>
   <tr>
     <td rowspan="3" align="center">
@@ -52,7 +52,7 @@ Maximum Phigros!!
     <td> IN 12 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> This was also one of the first charts in Phigros, and it really introduces you to all the note types. </td>
   </tr>
   <tr>
     <td rowspan="3" align="center">
@@ -70,7 +70,7 @@ Maximum Phigros!!
     <td> IN 14 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> I mean... WOW. </td>
   </tr>
   <tr>
     <td rowspan="3" align="center">
@@ -88,7 +88,7 @@ Maximum Phigros!!
     <td> AT 16 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> Whenever I show people Phigros, this is the chart I play. It perfectly epitomises what makes Phigros so special, and is so dynamic all throughout. </td>
   </tr>
 </table>
 
@@ -117,7 +117,7 @@ Perfectly Phigros.
     <td> IN 13 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> The fact that playing this chart feels like playing an actual instrument (at least when playing 1-handed) says enough. </td>
   </tr>
   <tr>
     <td rowspan="3" align="center">
@@ -135,7 +135,7 @@ Perfectly Phigros.
     <td> IN 14 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> Such a smooth chart! </td>
   </tr>
   <tr>
     <td rowspan="3" align="center">
@@ -153,7 +153,7 @@ Perfectly Phigros.
     <td> IN 14 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> A blast to play, with a wicked ending. </td>
   </tr>
   <tr>
     <td rowspan="3" align="center">
@@ -171,7 +171,7 @@ Perfectly Phigros.
     <td> IN 14 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> This is another chart which I always show people, since it shows off all the note kinds and has some crazy dual scroll. </td>
   </tr>
   <tr>
     <td rowspan="3" align="center">
@@ -207,7 +207,7 @@ Perfectly Phigros.
     <td> IN 15 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> smooooooth </td>
   </tr>
   <tr>
     <td rowspan="3" align="center">
@@ -225,7 +225,7 @@ Perfectly Phigros.
     <td> IN 15 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> A really well-designed chart that’s energising to play! </td>
   </tr>
   <tr>
     <td rowspan="3" align="center">
@@ -243,7 +243,7 @@ Perfectly Phigros.
     <td> IN 15 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> How do you get more dynamic than this!! It’s got literally every standard Phigros quirk, all packaged into 1 brilliant chart. </td>
   </tr>
   <tr>
     <td rowspan="3" align="center">
@@ -261,7 +261,7 @@ Perfectly Phigros.
     <td> AT 16 </td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> Wow. Charts like these make me wish Phigros had more ATs emphasising dynamic multi-finger play. Some of the sections with a rapidly ascending/descending staircase are SO fun. </td>
   </tr>
 </table>
 
