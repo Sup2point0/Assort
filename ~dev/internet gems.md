@@ -1,17 +1,17 @@
 # Gems in the Abstruse Internet
 <!-- #SQUARK live!
 | dest = dev/internet-gems
-| desc = A collection of incredible creations, resources, sites and articles I’ve discovered in the internet
+| desc = A collection of incredible creations, resources, sites and articles I’ve discovered on the internet
 | style = dev
 | index = dev / lists
 -->
 
-Incredible creations and resources I’ve discovered in the internet through various avenues, just like you discovering this within *Assort*.
+Incredible creations and resources I’ve discovered on the internet through various avenues, just like you discovering this within *Assort*.
 
 I’ve listed them in reverse chronological order, so that the further you go, the more timeless they get!
 
 > [!Note]
-> Depending on how far into the futute you’re reading this, there’s a pretty nonzero some of these sites no longer exist or have changed URL. Unfortunately I can’t, like, archive the entirety of all of these (as much as I’d like to).
+> Depending on how far into the future you’re reading this, there’s a pretty nonzero some of these sites no longer exist or have changed URL. Unfortunately I can’t, like, archive the entirety of all of these (as much as I’d like to).
 
 <!-- #SQUARK only?
 <div class="note">
@@ -39,7 +39,7 @@ At the same time, just get capable devices, people, I swear it’s not that diff
 
 Oh my days, who’s writing this much about mazes...
 
-### [Refactoring Guru](https://refactoring.guru/)
+### [Refactoring Guru](https://refactoring.guru)
 > May 2024
 
 Oooh, isn’t this nice...
@@ -72,9 +72,9 @@ The journey began sometime around here, and I’ve been haphazardly making my wa
 ### [The Codeless Code](http://thecodelesscode.com/contents)
 > Summer 2023
 
-Truly an incredible masterpiece. I’m eternally thankful to my friend @iTechnicals for showing this to me. Binged the entirety of it over that summer. My favourite entries are collected [here](Codeless%20Code.md).
+Truly a timeless masterpiece. I’m eternally thankful to my friend @iTechnicals for showing this to me. Binged the entirety of it over that summer. My favourite entries are collected [here](codeless.md).
 
-### [TheDailyWTF](https://thedailywtf.com/)
+### [TheDailyWTF](https://thedailywtf.com)
 > Summer 2023
 
 Always down for another quick read. These are hilarious.
@@ -93,7 +93,7 @@ From the future: yay, I learnt it!
 
 Ah, this was when I was really into language. She had some cool articles.
 
-### [A Journey to Antarctica](http://mironline.org/ice-diaries-a-journey-to-antarctica/)
+### [A Journey to Antarctica](http://mironline.org/ice-diaries-a-journey-to-antarctica)
 > 2021 (I think)
 
 A journal of a trip to Antarctica. Isn’t that insane. I always wanted to read it. Just never found the time, and interest died away. Maybe I’ll read it sometime.
