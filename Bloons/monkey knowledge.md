@@ -1,4 +1,14 @@
 # Monkey Knowledge
+<!-- #SQUARK live! archive!
+| dest = games/bloons/monkey-knowledge
+| desc = How I reimagined the Monkey Knowledge upgrades
+| index = bloons
+| shard = #INDEX / games
+| date = 2022
+| clean = line-breaks
+-->
+
+How I reimagined the Monkey Knowledge upgrades back from when I was really into BTD6.
 
 
 <br>
