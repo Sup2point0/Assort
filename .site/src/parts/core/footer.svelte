@@ -29,15 +29,15 @@ import GitHubIcon from "#parts/misc/github-icon.svelte";
     <section id="footer-sup">
       <div>
         <p> Made with love by </p>
-        <p class="sup"> <a target="_blank" href="https://github.com/Sup2point0">Sup#2.0</a> </p>
+        <p class="sup"> <a href="https://github.com/Sup2point0">Sup#2.0</a> </p>
       </div>
-      <a target="_blank" href="https://github.com/Sup2point0">
+      <a href="https://github.com/Sup2point0">
         <img alt="Purple Portal" src="{base}/purple-portal.png">
       </a>
     </section>
 
     <section>
-      <p> Built with <a id="svelte" target="_blank" href="https://svelte.dev">Svelte</a>/<a id="svelte-kit" target="_blank" href="https://kit.svelte.dev">Kit</a> </p>
+      <p> Built with <a id="svelte" target="_blank" href="https://svelte.dev">Svelte</a>/<a id="svelte-kit" target="_blank" href="https://svelte.dev/docs/kit/introduction">Kit</a> </p>
       <p> Rendered with <a id="squarkdown" target="_blank" href="https://github.com/Sup2point0/stranger-quarkdown">Squarkdown</a> + <a id="vividity" target="_blank" href="https://github.com/Sup2point0/vividitu">Vividity</a> </p>
       <p> Hosted on <a target="_blank" href="https://pages.github.com">GitHub Pages</a> </p>
     </section>
