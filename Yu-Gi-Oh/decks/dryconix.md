@@ -1,6 +1,7 @@
-# Dryconix
+# *Dryconix*
 <!-- #SQUARK live! feat! dev!
 | dest = yugioh/decks/dryconix
+| title = Dryconix
 | desc = My 60-card Dogmatika Drytron Ritual tech deck.
 | style = yugioh
 | duality = dark
