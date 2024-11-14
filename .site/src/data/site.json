@@ -1,5 +1,5 @@
 {
-  "exported": "2024-11-04",
+  "exported": "2024-11-14",
   "index": {
     "info": {
       "route": null,
@@ -12,12 +12,13 @@
       ]
     },
     "writing": {
-      "route": null,
+      "route": ".squarkdown/content/dist/writing.md",
       "pages": [
         "AI.md",
         "desmos/dev/readme.md",
         "~dev/Python Syntax.md",
         "~writing/Broken World.md",
+        "~writing/Tearful.md",
         "~writing/commit.md",
         "~writing/creative/Eclipse.md",
         "~writing/creative/Expanse.md",
@@ -29,10 +30,24 @@
         "~writing/writing.md"
       ]
     },
+    "bloons": {
+      "route": null,
+      "pages": [
+        "Bloons/monkey knowledge.md"
+      ]
+    },
     "phigros": {
       "route": null,
       "pages": [
-        "Phigros/favourites.md"
+        "Phigros/favourites.md",
+        "Phigros/scores/readme.md"
+      ]
+    },
+    "fav": {
+      "route": null,
+      "pages": [
+        "Phigros/favourites.md",
+        "Yu-Gi-Oh/thoughts/favourites.md"
       ]
     },
     "ultraman": {
@@ -100,23 +115,19 @@
       "route": "~lists/readme.md",
       "pages": [
         "Yu-Gi-Oh/thoughts/favourites.md",
-        "~dev/Gems in the Abstruse Internet.md",
         "~dev/In Perfection/python.md",
         "~dev/In Perfection/ruby.md",
         "~dev/fix.md",
         "~dev/git.md",
+        "~dev/internet gems.md",
         "~dev/quotes.md",
+        "~lists/PowerPoint features.md",
         "~lists/fonts.md",
-        "~lists/quotes/readme.md",
+        "~lists/markdown features.md",
+        "~lists/quotes/.md",
         "~personal/interests.md",
         "~personal/quotes.md",
         "~personal/slinqui.md"
-      ]
-    },
-    "fav": {
-      "route": null,
-      "pages": [
-        "Yu-Gi-Oh/thoughts/favourites.md"
       ]
     },
     "affinitys": {
@@ -148,7 +159,6 @@
       "pages": [
         "desmos/dev/readme.md",
         "~dev/Coding Conventions.md",
-        "~dev/Gems in the Abstruse Internet.md",
         "~dev/In Perfection/python.md",
         "~dev/In Perfection/ruby.md",
         "~dev/Python Syntax.md",
@@ -157,6 +167,7 @@
         "~dev/decoded.md",
         "~dev/fix.md",
         "~dev/git.md",
+        "~dev/internet gems.md",
         "~dev/migration.md",
         "~dev/quotes.md",
         "~dev/solutions.md",
@@ -180,7 +191,7 @@
       "route": null,
       "pages": [
         "~dev/quotes.md",
-        "~lists/quotes/readme.md",
+        "~lists/quotes/.md",
         "~personal/quotes.md"
       ]
     },
@@ -250,6 +261,7 @@
       "~dev/buttons.md",
       "~misc/discipline.md",
       "~writing/Broken World.md",
+      "~writing/Tearful.md",
       "~writing/commit.md",
       "~writing/creative/Eclipse.md",
       "~writing/creative/Expanse.md",
@@ -260,8 +272,42 @@
       "~writing/wriiting.md",
       "~writing/writing.md"
     ],
-    "phigros": [
+    "bloons": [
+      "Bloons/monkey knowledge.md"
+    ],
+    "games": [
+      "Bloons/monkey knowledge.md",
       "Phigros/favourites.md"
+    ],
+    "phigros": [
+      "Phigros/favourites.md",
+      "Phigros/scores/readme.md"
+    ],
+    "fav": [
+      "Phigros/favourites.md",
+      "Yu-Gi-Oh/thoughts/favourites.md"
+    ],
+    "lists": [
+      "Phigros/favourites.md",
+      "Yu-Gi-Oh/thoughts/art.md",
+      "Yu-Gi-Oh/thoughts/favourites.md",
+      "Yu-Gi-Oh/thoughts/names.md",
+      "Yu-Gi-Oh/thoughts/showerthoughts.md",
+      "affine/affinitys.md",
+      "~dev/In Perfection/python.md",
+      "~dev/In Perfection/ruby.md",
+      "~dev/fix.md",
+      "~dev/git.md",
+      "~dev/internet gems.md",
+      "~dev/quotes.md",
+      "~dev/solutions.md",
+      "~lists/PowerPoint features.md",
+      "~lists/fonts.md",
+      "~lists/markdown features.md",
+      "~lists/quotes/.md",
+      "~personal/interests.md",
+      "~personal/quotes.md",
+      "~personal/slinqui.md"
     ],
     "ultraman": [
       "Ultraman/Ultraman Infinity.md"
@@ -348,7 +394,6 @@
       "Yu-Gi-Oh/psct.md",
       "desmos/dev/readme.md",
       "~dev/Coding Conventions.md",
-      "~dev/Gems in the Abstruse Internet.md",
       "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
       "~dev/Python Syntax.md",
@@ -357,6 +402,7 @@
       "~dev/decoded.md",
       "~dev/fix.md",
       "~dev/git.md",
+      "~dev/internet gems.md",
       "~dev/migration.md",
       "~dev/quotes.md",
       "~dev/solutions.md",
@@ -365,28 +411,6 @@
     ],
     "#shard": [
       "Yu-Gi-Oh/thoughts/archetypes.md"
-    ],
-    "lists": [
-      "Yu-Gi-Oh/thoughts/art.md",
-      "Yu-Gi-Oh/thoughts/favourites.md",
-      "Yu-Gi-Oh/thoughts/names.md",
-      "Yu-Gi-Oh/thoughts/showerthoughts.md",
-      "affine/affinitys.md",
-      "~dev/Gems in the Abstruse Internet.md",
-      "~dev/In Perfection/python.md",
-      "~dev/In Perfection/ruby.md",
-      "~dev/fix.md",
-      "~dev/git.md",
-      "~dev/quotes.md",
-      "~dev/solutions.md",
-      "~lists/fonts.md",
-      "~lists/quotes/readme.md",
-      "~personal/interests.md",
-      "~personal/quotes.md",
-      "~personal/slinqui.md"
-    ],
-    "fav": [
-      "Yu-Gi-Oh/thoughts/favourites.md"
     ],
     "affinitys": [
       "affine/affinitys/koniokinetis.md"
@@ -420,7 +444,7 @@
     ],
     "quotes": [
       "~dev/quotes.md",
-      "~lists/quotes/readme.md",
+      "~lists/quotes/.md",
       "~personal/quotes.md"
     ],
     "personal": [
@@ -429,7 +453,8 @@
       "~personal/evodread.md",
       "~personal/interests.md",
       "~personal/quotes.md",
-      "~personal/slinqui.md"
+      "~personal/slinqui.md",
+      "~writing/Tearful.md"
     ],
     "misc": [
       "~misc/filltext.md"
@@ -502,6 +527,7 @@
     ],
     "rambling": [
       "~writing/Broken World.md",
+      "~writing/Tearful.md",
       "~writing/writing.md"
     ],
     "wack": [
@@ -531,6 +557,31 @@
       ],
       "shard": [
         "info"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    ".squarkdown/content/dist/writing.md": {
+      "path": ".squarkdown/content/dist/writing.md",
+      "last_deploy": "2024-11-14 09:36:59 +0000",
+      "slocs": 11,
+      "chars": 211,
+      "isIndex": true,
+      "flags": [
+        "live",
+        "index"
+      ],
+      "dest": "writing",
+      "title": "Writing",
+      "head": "Writing",
+      "capt": "Index Page",
+      "desc": "Writing from throughout my life",
+      "index": [
+        "writing"
+      ],
+      "shard": [
+        "writing",
+        "index"
       ],
       "date": null,
       "date_display": null
@@ -629,20 +680,72 @@
       "date": "2024-06-01",
       "date_display": "2024 June"
     },
+    "Bloons/monkey knowledge.md": {
+      "path": "Bloons/monkey knowledge.md",
+      "last_deploy": "2024-11-14 09:36:59 +0000",
+      "slocs": 244,
+      "chars": 11274,
+      "isIndex": false,
+      "flags": [
+        "live",
+        "archive"
+      ],
+      "dest": "games/bloons/monkey-knowledge",
+      "title": "Monkey Knowledge",
+      "head": "Monkey Knowledge",
+      "capt": null,
+      "desc": "How I reimagined the Monkey Knowledge upgrades",
+      "index": [
+        "bloons"
+      ],
+      "shard": [
+        "bloons",
+        "games"
+      ],
+      "date": "2022-01-01",
+      "date_display": "2022"
+    },
     "Phigros/favourites.md": {
       "path": "Phigros/favourites.md",
-      "last_deploy": "2024-10-30 14:11:44 +0000",
+      "last_deploy": "2024-11-14 09:36:59 +0000",
       "slocs": 466,
-      "chars": 10046,
+      "chars": 11891,
       "isIndex": false,
       "flags": [
         "live"
       ],
-      "dest": "phigros/favourites",
+      "dest": "games/phigros/favourites",
       "title": "Favourite Charts",
       "head": "Favourite Charts",
       "capt": null,
       "desc": null,
+      "index": [
+        "phigros",
+        "fav"
+      ],
+      "shard": [
+        "phigros",
+        "fav",
+        "games",
+        "lists"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "Phigros/scores/readme.md": {
+      "path": "Phigros/scores/readme.md",
+      "last_deploy": "2024-11-14 09:37:00 +0000",
+      "slocs": 118,
+      "chars": 2030,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "games/phigros/scores",
+      "title": "Phigros Scores",
+      "head": "Phigros Scores",
+      "capt": null,
+      "desc": "My most memorable performances",
       "index": [
         "phigros"
       ],
@@ -1159,14 +1262,15 @@
     },
     "Yu-Gi-Oh/readme.md": {
       "path": "Yu-Gi-Oh/readme.md",
-      "last_deploy": "2024-10-30 14:11:48 +0000",
+      "last_deploy": "2024-11-14 09:37:00 +0000",
       "slocs": 74,
-      "chars": 5332,
+      "chars": 5644,
       "isIndex": true,
       "flags": [
         "live",
         "index",
-        "dev"
+        "dev",
+        "feat"
       ],
       "dest": "yugioh",
       "title": "Yu-Gi-Oh!",
@@ -1564,31 +1668,6 @@
       "date": null,
       "date_display": null
     },
-    "~dev/Gems in the Abstruse Internet.md": {
-      "path": "~dev/Gems in the Abstruse Internet.md",
-      "last_deploy": "2024-10-30 14:11:48 +0000",
-      "slocs": 102,
-      "chars": 4212,
-      "isIndex": false,
-      "flags": [
-        "live"
-      ],
-      "dest": "dev/internet-gems",
-      "title": "Gems in the Abstruse Internet",
-      "head": "Gems in the Abstruse Internet",
-      "capt": null,
-      "desc": "A collection of incredible creations, resources, sites and articles I’ve discovered in the internet",
-      "index": [
-        "dev",
-        "lists"
-      ],
-      "shard": [
-        "dev",
-        "lists"
-      ],
-      "date": null,
-      "date_display": null
-    },
     "~dev/In Perfection/python.md": {
       "path": "~dev/In Perfection/python.md",
       "last_deploy": "2024-10-30 14:11:48 +0000",
@@ -1793,6 +1872,31 @@
       "date": null,
       "date_display": null
     },
+    "~dev/internet gems.md": {
+      "path": "~dev/internet gems.md",
+      "last_deploy": "2024-11-14 09:37:00 +0000",
+      "slocs": 102,
+      "chars": 4199,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "dev/internet-gems",
+      "title": "Gems in the Abstruse Internet",
+      "head": "Gems in the Abstruse Internet",
+      "capt": null,
+      "desc": "A collection of incredible creations, resources, sites and articles I’ve discovered on the internet",
+      "index": [
+        "dev",
+        "lists"
+      ],
+      "shard": [
+        "dev",
+        "lists"
+      ],
+      "date": null,
+      "date_display": null
+    },
     "~dev/migration.md": {
       "path": "~dev/migration.md",
       "last_deploy": "2024-11-04 17:26:25 +0000",
@@ -1922,6 +2026,29 @@
       "date": null,
       "date_display": null
     },
+    "~lists/PowerPoint features.md": {
+      "path": "~lists/PowerPoint features.md",
+      "last_deploy": "2024-11-12 17:16:18 +0000",
+      "slocs": 24,
+      "chars": 840,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "lists/powerpoint-features",
+      "title": "Features I’d Love in PowerPoint",
+      "head": "Features I’d Love in PowerPoint",
+      "capt": null,
+      "desc": "PowerPoint is so awesome, but like anything, there’s still plenty of room for improvement!",
+      "index": [
+        "lists"
+      ],
+      "shard": [
+        "lists"
+      ],
+      "date": "2022-06-01",
+      "date_display": "2022 June"
+    },
     "~lists/fonts.md": {
       "path": "~lists/fonts.md",
       "last_deploy": "2024-11-04 17:26:25 +0000",
@@ -1970,9 +2097,32 @@
       "date": null,
       "date_display": null
     },
-    "~lists/quotes/readme.md": {
-      "path": "~lists/quotes/readme.md",
-      "last_deploy": "2024-10-30 14:11:48 +0000",
+    "~lists/markdown features.md": {
+      "path": "~lists/markdown features.md",
+      "last_deploy": "2024-11-12 17:16:18 +0000",
+      "slocs": 104,
+      "chars": 1598,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "lists/markdown-features",
+      "title": "Features I’d Love in Markdown",
+      "head": "Features I’d Love in Markdown",
+      "capt": null,
+      "desc": "Markdown is absolutely awesome, but there are still some things I’d love to become standard in it.",
+      "index": [
+        "lists"
+      ],
+      "shard": [
+        "lists"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "~lists/quotes/.md": {
+      "path": "~lists/quotes/.md",
+      "last_deploy": "2024-11-12 17:16:18 +0000",
       "slocs": 81,
       "chars": 2121,
       "isIndex": false,
@@ -2119,9 +2269,9 @@
     },
     "~personal/quotes.md": {
       "path": "~personal/quotes.md",
-      "last_deploy": "2024-10-30 14:11:48 +0000",
-      "slocs": 22,
-      "chars": 609,
+      "last_deploy": "2024-11-14 09:37:45 +0000",
+      "slocs": 24,
+      "chars": 684,
       "isIndex": false,
       "flags": [
         "live"
@@ -2733,6 +2883,31 @@
       ],
       "date": null,
       "date_display": null
+    },
+    "~writing/Tearful.md": {
+      "path": "~writing/Tearful.md",
+      "last_deploy": "2024-11-12 17:15:45 +0000",
+      "slocs": 45,
+      "chars": 2836,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "writing/tearful",
+      "title": "Tearful",
+      "head": "Tearful",
+      "capt": "Why Do I Cry Now?",
+      "desc": "Why Do I Cry Now?",
+      "index": [
+        "writing"
+      ],
+      "shard": [
+        "writing",
+        "personal",
+        "rambling"
+      ],
+      "date": "2024-11-01",
+      "date_display": "2024 November"
     },
     "~writing/commit.md": {
       "path": "~writing/commit.md",

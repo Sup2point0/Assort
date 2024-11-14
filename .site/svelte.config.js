@@ -2,6 +2,8 @@ import adapter from "@sveltejs/adapter-static";
 import { sveltePreprocess } from "svelte-preprocess";
 
 import { mdsvex } from "mdsvex";
+import remarkGfm from "remark-gfm";
+import rehypeSlug from "rehype-slug";
 
 import scssConfig from "./scss-config.js";
 
@@ -34,6 +36,8 @@ const config = {
   preprocess: [
     mdsvex({
       extensions: [".svelte", ".md", ".svx"],
+      remarkPlugins: [remarkGfm],
+      rehypePlugins: [rehypeSlug],
     }),
     sveltePreprocess({
       scss: scssConfig,
