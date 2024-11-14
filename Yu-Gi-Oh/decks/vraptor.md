@@ -1,6 +1,7 @@
 # *Vraptor*
-<!-- #SQUARK live!
+<!-- #SQUARK live! dev!
 | dest = yugioh/decks/vraptor
+| title = Vraptor
 | desc = A mostly pure Raidraptor deck, the first modern deck I built.
 | style = yugioh
 | duality = dark
