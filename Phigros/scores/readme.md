@@ -16,24 +16,14 @@ My most memorable performances!
 
 (only noteworthy APs)
 
-<table>
-  <tr>
-    <td>
-      <img width="420px"
-        alt="IN – The Chariot ~REVIIVAL~"
-        src="Phi/IN%20-%20Chariot%20-%201st%20IN%2014.PNG">
-    </td>
-    <td>
-      <img width="420px"
-        alt="IN – 风屿"
-        src="Phi/IN%20-%20风屿.PNG">
-    </td>
-  </tr>
-  <tr>
-    <td> was not expecting that!! </td>
-    <td> was not expecting that!! </td>
-  </tr>
-</table>
+### Was NOT expecting these!
+
+<img width="420px"
+  alt="IN – The Chariot ~REVIIVAL~"
+  src="Phi/IN--chariot--1st-IN-14.png">  
+<img width="420px"
+  alt="IN – 风屿"
+  src="Phi/IN--feng-yu.png">
 
 
 <br>
@@ -47,32 +37,35 @@ My most memorable performances!
 
 <img width="420px"
   alt="AT - Feryquitous"
-  src="FC/AT%20-%20Feryquitous%20-%201st%20AT.png">
+  src="FC/AT--feryquitous--1st-AT.png">
 <img width="420px"
   alt="IN – Nhelv"
-  src="FC/IN%20-%20Nhelv.png">
+  src="FC/IN--nhelv.png">
 <img width="420px"
   alt="IN – Retribution"
-  src="FC/IN%20-%20Retribution%20-%201st%2015%20FC.png">
+  src="FC/IN--retribution--1st-IN-15.png">
 
 ### One day, we will Phi these.
 <img width="420px"
   alt="IN – 夜"
-  src="FC/IN%20-%20夜.png">
+  src="FC/IN--a39-ye.png">
 <img width="420px"
   alt="IN – Realms"
-  src="FC/IN%20-%20Realms.png">
+  src="FC/Phi-1-IN--realms.png">
 <img width="420px"
   alt="IN – Shadow"
-  src="FC/IN%20-%20Shadow.png">
+  src="FC/IN--shadow.png">
 <img width="420px"
   alt="IN – Luminescence"
-  src="FC/IN%20-%20Luminescence.png">
+  src="FC/IN--luminescence.png">
 
 ### Hey, I can play these!
 <img width="420px"
   alt="IN – Crush BETA"
-  src="FC/IN%20-%20Crush%20BETA.png">
+  src="FC/IN--crush-beta.png">
+
+
+<br>
 
 
 ## 1-handed
@@ -81,22 +74,19 @@ Most memorable 1-handed scores!
 
 <img width="420px"
   alt="FC – IN – 风屿"
-  src="1-hand/FC%20-%20IN%20-%20风屿.png">
+  src="1-hand/FC-IN--feng-yu.png">
 <img width="420px"
   alt="S – IN – REANIMATE"
-  src="1-hand/S%20-%20IN%20-%20REANIMATE.png">
+  src="1-hand/S-IN--reanimate.png">
 <img width="420px"
   alt="S – IN – 夜"
-  src="1-hand/S%20-%20-IN%20-%20夜.png">
+  src="1-hand/S-IN--a39-ye.png">
 <img width="420px"
   alt="S – IN – 996"
-  src="1-hand/S%20-%20-IN%20-%20996.png">
-<img width="420px"
-  alt="S – IN – Stray Soul"
-  src="1-hand/S%20-%20-IN%20-%20Stray%20Soul.png">
+  src="1-hand/S-IN--996.png">
 <img width="420px"
   alt="Phi-3 – IN – 盏茗"
-  src="1-hand/Phi-3%20-%20-IN%20-%20盏茗.png">
+  src="1-hand/Phi-3-IN--zhan-ming.png">
 
 
 <br>
@@ -116,3 +106,10 @@ High scores on IN charts
 
 
 <br>
+
+
+## Wack
+
+<img width="420px"
+  alt="960000 – Colorful Days"
+  src="960k--colorful-days.png">
