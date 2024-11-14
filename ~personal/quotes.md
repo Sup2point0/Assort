@@ -20,3 +20,5 @@ Also ‘everything will be fine’.
 Also ‘‹pronoun› can, but ‹pronoun› can’t’.
 
 ***If a capacitative capacitor capacitatively capacitates capacitance, would a capacitively capacitive capacitator capacitate capacitatively capacitated capacitance?***
+
+***The most dangerous assumption you can make is that you are correct.***
