@@ -1,16 +1,19 @@
 ## Todo
 
 ### Tweaks
-- use `export let data` instead of `$page.data`
 - tags
 - fix import orders
 - fix links during squarkup
-- render GitHub special blockquotes properly
-- render GitHub footnotes properly
+- remark, rehype
 
 ### Features
+- `archive!` flag
+- 404 page
 - search filtering
 - expand/collapse navpane sections
 - select palettes in preferences
 - page footers
 - different font styles based on preferences
+- preview image
+- featured banner
+- close page banners
