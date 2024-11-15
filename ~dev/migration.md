@@ -13,7 +13,7 @@ I finally upgraded my laptop recently.
 
 I’ve used a Dell Latitude E7450 since about 2016, and while it’s not the most capable,[^capable] it has been lovely. The keyboard is perfect in layout, and the trackpad with separate buttons is really nice for 2-hand navigation. Aside from blackscreening issues that resurface every few months, and pretty concerning thermal instability, this laptop’s fulfilled my needs just fine.[^fulfil-needs] In fact, I’d be happy continuing to use it for a little longer ...if not for its rapidly degrading battery life. Oh, and also, it can’t seem connect to WiFi if it’s more than an arm’s length away from the router. Yeah, that’s a bit of an issue. Just a bit.
 
-[^capable]: 5th Intel i5, 8 GB RAM, 256 GB storage, 1080p60 LCD screen.
+[^capable]: Intel i5-5300U @ 2.30 GHz CPU, 8 GB RAM, 256 GB storage, 1080p60 LCD screen.
 [^fulfil-needs]: If anything, I’ve been seriously impressed. This thing ran games on an Android emulator at pretty solid 24~30 FPS! With those specs??
 
 Anyway, with a new laptop all set up there was 1 final, dreaded challenge: transferring all of my files from my old laptop the new one. Oh boy.
@@ -30,8 +30,9 @@ The goal was to transfer all of my local files on the old laptop to the new one.
 Importantly, I wanted all metadata to be preserved – specifically creation date, since I didn’t want to lose the 7 or so years of history embedded into that file system. Now this, was a nontrivial challenge.
 
 ### Predicament Analysis
-The old laptop was running Windows 10 Enterprise ~. This is a pretty outdated version, since I think I stopped updating Windows some point before... 2020?? The new laptop was freshly ordered, with Windows 11. Both laptops had local accounts,[^local-accounts] so backing up wasn’t really an option.
+The old laptop was running Windows 10 Enterprise 2016.[^old-version] This is a pretty outdated version, since I think I stopped updating Windows some point before... 2020?? The new laptop was freshly ordered, with Windows 11. Both laptops had local accounts,[^local-accounts] so backing up wasn’t really an option.
 
+[^old-version]: Version 1607, OS build 14393.2906, to be specific ;)
 [^local-accounts]: ew, Microsoft.
 
 ### Don’t Burnout
@@ -57,11 +58,13 @@ It does, and I had no clue. You can share folders with other devices connected t
 
 This sounded almost too good to be true. So of course, I should’ve expected that my 2 laptops totally could not find each other on the network. They could all see our router, the printer, even the Chromecast we hadn’t used in years. But not each other.
 
-It was time to go down the YouTube rabbit hole. I found [this<sup>↗</sup>](~) very detailed walkthrough on how to get network sharing up and running.[^video] Naturally, things still did not work after following all those steps. We managed to get a remarkable **An extended error has occurred.** error, which was fun.
+It was time to go down the YouTube rabbit hole. I found [this<sup>↗</sup>](https://youtube.com/watch?v=N-R44Clys9A) very detailed walkthrough on how to get network sharing up and running.[^video] Naturally, things still did not work after following all those steps. We managed to get a remarkable **An extended error has occurred.** error, which was fun.
 
 [^video]: This link might break in future.
 
-Back to the Microsoft Support threads it was, and after trying every single thing in the responses, enabling every service and setting related to local network sharing... it worked.
+Back to the Microsoft Support threads it was, and after trying every single thing in the responses, enabling every service and setting related to local network sharing... it worked.[^microsoft-support]
+
+[^microsoft-support]: Thread for future reference: <https://answers.microsoft.com/en-us/windows/forum/all/cant-see-other-computer-on-network/8ea267ad-e5bf-4019-8b7e-da5b174d0303>
 
 Yo, it actually worked. The laptops could see each other!
 
@@ -89,14 +92,23 @@ You’ll want to carry out all of the following for **both** computers:
 
 - Enable network sharing features.
   - Go to **Control Panel** » **Network & Sharing Centre**.
-  - 
+  - On the left, go to **Change advanced sharing settings** (or some similar option).
+  - Under **Private**, enable **Turn on network discovery** and **turn on file and printer sharing**.
+  - Under **All Networks**, select **Turn off password protected sharing**.
 - Enable network sharing services.
   - Go to **Services**.
     - Search » Services » Run as Administrator (if applicable) *or*
     - win+R » `services.msc`
   - For each of the following, if its Status is not `Running`, right-click it and select **Start**.
-    - `
+    - `Function Discovery Provider Host`
+    - `Function Discovery Resource Publication`
+    - `SSDP Discovery`
+    - `UPnP Device Host`
   - If it’s greyed out, it’s probably because you don’t have admin privileges. Make sure to run Services as Administrator.
+- Enable SMB File Sharing Support & SMB Direct.
+  - win+R » ``optionalfeatures`
+  - Enable **SMB 1.0/CIFS File Sharing Support** and **SMB Direct**.
+  - Restart.
 
 Then, we create a shared folder on 1 of the laptops.
 
@@ -109,7 +121,11 @@ Also, I carried out some command line shenanigans. I’m unclear if they were ne
 - Check the network type.
 
 ```bash
-Get-Connection
+Get-NetConnectionProfile
+```
+
+```bash
+Set-NetConnectionProfile -InterfaceIndex n -NetworkCategory Private
 ```
 
 ### System Link
