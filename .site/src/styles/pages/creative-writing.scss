@@ -1,0 +1,7 @@
+@use './src/styles/mixins/~fonts' as *;
+
+
+p {
+  @include font-serif;
+  font-size: 125%;
+}
