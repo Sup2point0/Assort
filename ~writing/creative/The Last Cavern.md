@@ -1,10 +1,11 @@
 # The Last Cavern
-<!-- #SQUARK live!
+<!-- #SQUARK live! deep!
 | dest = writing/the-last-cavern
-| style = writing
+| desc = It’s always an excursion getting here, but it’s always worth it.
+| style = creative-writing
 | duality = light
-| index = writing
-| shard = #INDEX / archives
+| index = writing / creative-writing
+| shard = #INDEX / archives / antarctica
 | date = 2022 June
 -->
 

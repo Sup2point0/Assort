@@ -1,7 +1,8 @@
 # Expanse
-<!-- #SQUARK live!
+<!-- #SQUARK live! deep!
 | dest = writing/expanse
-| style = writing
+| desc = They had told me what to expect. I came anyway.
+| style = creative-writing
 | duality = light
 | index = writing
 | shard = #INDEX / poignant / antarctica

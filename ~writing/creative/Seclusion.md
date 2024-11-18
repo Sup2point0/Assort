@@ -1,9 +1,10 @@
 # Seclusion
-<!-- #SQUARK live!
+<!-- #SQUARK live! deep!
 | dest = writing/seclusion
-| style = writing
+| desc = Like yesterday, and the day before, and every other day for as long as I can remember, I gaze out to the morning sea.
+| style = creative-writing
 | duality = light
-| index = writing
+| index = writing / creative-writing
 | shard = #INDEX / archives
 | date = 2022 June
 -->
