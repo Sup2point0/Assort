@@ -1,1 +1,13 @@
+@use './src/styles/mixins/~fonts' as *;
 
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  padding: 0.5em 0;
+  @include font-serif;
+  font-size: 150%;
+  font-style: italic;
+}

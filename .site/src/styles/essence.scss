@@ -31,6 +31,7 @@ p {
 }
 
 p code {
+  padding: 0.2em 0.5em;
   @include font-code;
   color: var(--col-text);
   font-size: 90%;

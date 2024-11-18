@@ -1,0 +1,6 @@
+@use './src/styles/mixins/~fonts' as *;
+
+
+p {
+  @include font-hand;
+}
