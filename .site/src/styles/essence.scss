@@ -30,6 +30,23 @@ p {
   }
 }
 
+p code {
+  @include font-code;
+  color: var(--col-text);
+  font-size: 90%;
+  background-color: rgba(175, 184, 193, 0.2);
+  white-space: break-spaces;
+  border-radius: 6px;
+}
+
+pre:has(code) {
+  padding: 0.5em 1em 0.5em;
+  @include font-code;
+  font-size: 100%;
+  background-color: var(--col-back-deut);
+  border-radius: 1em;
+}
+
 
 hr {
   width: 100%;
