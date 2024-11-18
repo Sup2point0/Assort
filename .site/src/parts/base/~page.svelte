@@ -5,4 +5,6 @@ import Content from "./%{file}.svx";
 </script>
 
 
-<Content />
+<div class="page">
+  <Content />
+</div>
