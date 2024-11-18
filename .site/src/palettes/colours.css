@@ -1,3 +1,30 @@
+/* Avid
+ * 0.1.0
+ * The Avidity theme.
+ */
+.avid {
+  --col-prot: #d1f1a9;
+  --col-deut: #ff9da4;
+  --col-flavour: #ffc58f;
+  --col-hover: rgba(255 255 255 / 5%);
+  --col-select: #003f8e;
+  --col-text: white;
+  --col-text-prot: #ff9da4;
+  --col-text-deut: #7285b7;
+  --col-text-trit: #7285b7;
+  --col-back: oklch(58.75% 0.3 13.89);
+  --col-back-prot: oklch(58.75% 0.3 13.89);
+  --col-back-deut: oklch(58.75% 0.3 13.89);
+  --col-line: oklch(58.75% 0.3 13.89);
+  --col-line-deut: #7285b7;
+  --col-link: #99ffff;
+  --col-link-visit: #ebbbff;
+  --col-link-hover: #d1f1a9;
+  --col-card: oklch(58.75% 0.3 13.89);
+  --col-card-hover: oklch(58.75% 0.3 13.89);
+  --col-card-click: oklch(58.75% 0.3 13.89);
+}
+
 /* GitHub Dark
  * 1.0.0
  * The GitHub dark theme
@@ -18,6 +45,28 @@
   --col-link: oklch(63.54% 0.198 255.83);
   --col-link-visit: oklch(59.11% 0.165 297.31);
   --col-link-hover: red;
+}
+
+/* GitHub Light
+ * 1.0.0
+ * The GitHub light theme
+ */
+.github-light {
+  --col-prot: oklch(64.01 0.175 146.74);
+  --col-deut: oklch(52.99 0.19 257.41);
+  --col-flavour: oklch(58.79 0.193 20.47);
+  --col-text: black;
+  --col-text-prot: red;
+  --col-text-deut: oklch(48.53 0.018 251.31);
+  --col-back: white;
+  --col-back-prot: red;
+  --col-back-deut: red;
+  --col-back-trit: red;
+  --col-card: oklch(97.82 0.003 247.86);
+  --col-card-hover: oklch(96.16 0.002 67.8);
+  --col-link: oklch(49.49 0.18 257.6);
+  --col-link-visit: oklch(43.32 0.172 294.32);
+  --col-link-hover: oklch(38.9 0.132 256.56);
 }
 
 /* Ignite

@@ -1,5 +1,5 @@
 {
-  "exported": "2024-11-14",
+  "exported": "2024-11-18",
   "index": {
     "info": {
       "route": null,
@@ -12,7 +12,7 @@
       ]
     },
     "writing": {
-      "route": ".squarkdown/content/dist/writing.md",
+      "route": "writing",
       "pages": [
         "AI.md",
         "desmos/dev/readme.md",
@@ -57,7 +57,7 @@
       ]
     },
     "yugioh": {
-      "route": "Yu-Gi-Oh/readme.md",
+      "route": "yugioh",
       "pages": [
         "Yu-Gi-Oh/Creating Custom Cards.md",
         "Yu-Gi-Oh/archetypes/Darquess.md",
@@ -87,32 +87,28 @@
       ]
     },
     "yugioh/archetypes": {
-      "route": "Yu-Gi-Oh/archetypes/readme.md",
-      "pages": [
-
-      ]
+      "route": "yugioh/archetypes",
+      "pages": []
     },
     "yugioh-cards": {
-      "route": "Yu-Gi-Oh/cards/readme.md",
-      "pages": [
-
-      ]
+      "route": "yugioh/cards",
+      "pages": []
     },
     "yugioh-decks": {
-      "route": "Yu-Gi-Oh/decks/readme.md",
+      "route": "yugioh/decks",
       "pages": [
         "Yu-Gi-Oh/decks/dryconix.md",
         "Yu-Gi-Oh/decks/vraptor.md"
       ]
     },
     "stranded-saga": {
-      "route": "Yu-Gi-Oh/lore/Stranded Saga/readme.md",
+      "route": "yugioh/lore/stranded-saga",
       "pages": [
         "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md"
       ]
     },
     "lists": {
-      "route": "~lists/readme.md",
+      "route": "lists",
       "pages": [
         "Yu-Gi-Oh/thoughts/favourites.md",
         "~dev/In Perfection/python.md",
@@ -137,7 +133,7 @@
       ]
     },
     "affine": {
-      "route": "affine/readme.md",
+      "route": "affine",
       "pages": [
         "affine/affinitys.md"
       ]
@@ -155,7 +151,7 @@
       ]
     },
     "dev": {
-      "route": "~dev/readme.md",
+      "route": "dev",
       "pages": [
         "desmos/dev/readme.md",
         "~dev/Coding Conventions.md",
@@ -176,10 +172,8 @@
       ]
     },
     "xeriqui": {
-      "route": "xeriqui/readme.md",
-      "pages": [
-
-      ]
+      "route": "xeriqui",
+      "pages": []
     },
     "notes": {
       "route": null,
@@ -196,15 +190,14 @@
       ]
     },
     "games": {
-      "route": "~games/readme.md",
-      "pages": [
-
-      ]
+      "route": "games",
+      "pages": []
     },
     "misc": {
       "route": null,
       "pages": [
-        "~misc/filltext.md"
+        "~misc/filltext.md",
+        "~misc/organic-synthesis-reagents.md"
       ]
     },
     "personal": {
@@ -217,7 +210,7 @@
       ]
     },
     "poetry": {
-      "route": "~poetry/readme.md",
+      "route": "poetry",
       "pages": [
         "~poetry/Assort.md",
         "~poetry/Forsitan.md",
@@ -305,6 +298,7 @@
       "~lists/fonts.md",
       "~lists/markdown features.md",
       "~lists/quotes/.md",
+      "~misc/organic-synthesis-reagents.md",
       "~personal/interests.md",
       "~personal/quotes.md",
       "~personal/slinqui.md"
@@ -457,7 +451,8 @@
       "~writing/Tearful.md"
     ],
     "misc": [
-      "~misc/filltext.md"
+      "~misc/filltext.md",
+      "~misc/organic-synthesis-reagents.md"
     ],
     "poetry": [
       "~poetry/Assort.md",
@@ -734,9 +729,9 @@
     },
     "Phigros/scores/readme.md": {
       "path": "Phigros/scores/readme.md",
-      "last_deploy": "2024-11-14 09:37:00 +0000",
-      "slocs": 118,
-      "chars": 2030,
+      "last_deploy": "2024-11-14 12:20:38 +0000",
+      "slocs": 115,
+      "chars": 1762,
       "isIndex": false,
       "flags": [
         "live"
@@ -1084,9 +1079,9 @@
     },
     "Yu-Gi-Oh/decks/dryconix.md": {
       "path": "Yu-Gi-Oh/decks/dryconix.md",
-      "last_deploy": "2024-10-30 14:11:48 +0000",
-      "slocs": 571,
-      "chars": 40867,
+      "last_deploy": "2024-11-14 09:39:11 +0000",
+      "slocs": 572,
+      "chars": 40888,
       "isIndex": false,
       "flags": [
         "live",
@@ -1095,7 +1090,7 @@
       ],
       "dest": "yugioh/decks/dryconix",
       "title": "Dryconix",
-      "head": "Dryconix",
+      "head": "*Dryconix*",
       "capt": null,
       "desc": "My 60-card Dogmatika Drytron Ritual tech deck.",
       "index": [
@@ -1136,15 +1131,16 @@
     },
     "Yu-Gi-Oh/decks/vraptor.md": {
       "path": "Yu-Gi-Oh/decks/vraptor.md",
-      "last_deploy": "2024-10-30 14:11:48 +0000",
-      "slocs": 82,
-      "chars": 1084,
+      "last_deploy": "2024-11-14 09:39:02 +0000",
+      "slocs": 83,
+      "chars": 1107,
       "isIndex": false,
       "flags": [
-        "live"
+        "live",
+        "dev"
       ],
       "dest": "yugioh/decks/vraptor",
-      "title": "*Vraptor*",
+      "title": "Vraptor",
       "head": "*Vraptor*",
       "capt": null,
       "desc": "A mostly pure Raidraptor deck, the first modern deck I built.",
@@ -1262,9 +1258,9 @@
     },
     "Yu-Gi-Oh/readme.md": {
       "path": "Yu-Gi-Oh/readme.md",
-      "last_deploy": "2024-11-14 09:37:00 +0000",
-      "slocs": 74,
-      "chars": 5644,
+      "last_deploy": "2024-11-14 12:27:05 +0000",
+      "slocs": 95,
+      "chars": 7440,
       "isIndex": true,
       "flags": [
         "live",
@@ -1534,12 +1530,8 @@
       "head": "Standard Utility Functions",
       "capt": null,
       "desc": null,
-      "index": [
-
-      ],
-      "shard": [
-
-      ],
+      "index": [],
+      "shard": [],
       "date": null,
       "date_display": null
     },
@@ -1557,12 +1549,8 @@
       "head": "Nomenclature",
       "capt": null,
       "desc": null,
-      "index": [
-
-      ],
-      "shard": [
-
-      ],
+      "index": [],
+      "shard": [],
       "date": null,
       "date_display": null
     },
@@ -1608,9 +1596,7 @@
       "head": "origin",
       "capt": "A love letter to Assort",
       "desc": "A love letter to Assort.",
-      "index": [
-
-      ],
+      "index": [],
       "shard": [
         "meta"
       ],
@@ -1899,9 +1885,9 @@
     },
     "~dev/migration.md": {
       "path": "~dev/migration.md",
-      "last_deploy": "2024-11-04 17:26:25 +0000",
-      "slocs": 143,
-      "chars": 8742,
+      "last_deploy": "2024-11-15 19:16:40 +0000",
+      "slocs": 159,
+      "chars": 9724,
       "isIndex": false,
       "flags": [
         "live",
@@ -2088,12 +2074,8 @@
       "head": "Things I’m Grateful For",
       "capt": null,
       "desc": "All the wonderful things in life that I’m grateful for.",
-      "index": [
-
-      ],
-      "shard": [
-
-      ],
+      "index": [],
+      "shard": [],
       "date": null,
       "date_display": null
     },
@@ -2185,9 +2167,7 @@
       "head": "Discipline",
       "capt": null,
       "desc": null,
-      "index": [
-
-      ],
+      "index": [],
       "shard": [
         "writing",
         "personal"
@@ -2215,6 +2195,30 @@
       ],
       "shard": [
         "misc"
+      ],
+      "date": null,
+      "date_display": null
+    },
+    "~misc/organic-synthesis-reagents.md": {
+      "path": "~misc/organic-synthesis-reagents.md",
+      "last_deploy": "2024-11-17 20:38:57 +0000",
+      "slocs": 55,
+      "chars": 1221,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "organic-synthesis-reagents",
+      "title": "Reagents for Organic Synthesis",
+      "head": "Reagents for Organic Synthesis",
+      "capt": null,
+      "desc": "All the reagents I’ve learnt in organic synthesis.",
+      "index": [
+        "misc"
+      ],
+      "shard": [
+        "misc",
+        "lists"
       ],
       "date": null,
       "date_display": null
@@ -2506,12 +2510,8 @@
       "head": "Perfect",
       "capt": null,
       "desc": null,
-      "index": [
-
-      ],
-      "shard": [
-
-      ],
+      "index": [],
+      "shard": [],
       "date": null,
       "date_display": null
     },

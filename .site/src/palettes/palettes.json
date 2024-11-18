@@ -1,5 +1,35 @@
 [
   {
+    "name": "Avid",
+    "shard": "avid",
+    "desc": "The Avidity theme.",
+    "version": "0.1.0",
+    "credits": "Sup#2.0",
+    "duality": null,
+    "cols": {
+      "prot": "#d1f1a9",
+      "deut": "#ff9da4",
+      "flavour": "#ffc58f",
+      "hover": "rgba(255 255 255 / 5%)",
+      "select": "#003f8e",
+      "text": "white",
+      "text-prot": "#ff9da4",
+      "text-deut": "#7285b7",
+      "text-trit": "#7285b7",
+      "back": "oklch(58.75% 0.3 13.89)",
+      "back-prot": "oklch(58.75% 0.3 13.89)",
+      "back-deut": "oklch(58.75% 0.3 13.89)",
+      "line": "oklch(58.75% 0.3 13.89)",
+      "line-deut": "#7285b7",
+      "link": "#99ffff",
+      "link-visit": "#ebbbff",
+      "link-hover": "#d1f1a9",
+      "card": "oklch(58.75% 0.3 13.89)",
+      "card-hover": "oklch(58.75% 0.3 13.89)",
+      "card-click": "oklch(58.75% 0.3 13.89)"
+    }
+  },
+  {
     "name": "GitHub Dark",
     "shard": "github-dark",
     "desc": "The GitHub dark theme",
@@ -22,6 +52,31 @@
       "link": "oklch(63.54% 0.198 255.83)",
       "link-visit": "oklch(59.11% 0.165 297.31)",
       "link-hover": "red"
+    }
+  },
+  {
+    "name": "GitHub Light",
+    "shard": "github-light",
+    "desc": "The GitHub light theme",
+    "version": "1.0.0",
+    "credits": null,
+    "duality": "light",
+    "cols": {
+      "prot": "oklch(64.01 0.175 146.74)",
+      "deut": "oklch(52.99 0.19 257.41)",
+      "flavour": "oklch(58.79 0.193 20.47)",
+      "text": "black",
+      "text-prot": "red",
+      "text-deut": "oklch(48.53 0.018 251.31)",
+      "back": "white",
+      "back-prot": "red",
+      "back-deut": "red",
+      "back-trit": "red",
+      "card": "oklch(97.82 0.003 247.86)",
+      "card-hover": "oklch(96.16 0.002 67.8)",
+      "link": "oklch(49.49 0.18 257.6)",
+      "link-visit": "oklch(43.32 0.172 294.32)",
+      "link-hover": "oklch(38.9 0.132 256.56)"
     }
   },
   {
@@ -75,7 +130,7 @@
       "text-deut": "oklch(60% 0.04 269.69)",
       "text-trit": "oklch(80% 0.04 269.69)",
       "back": "oklch(98.5% 0.002 269.69)",
-      "back-prot": "red",
+      "back-prot": "oklch(95.29% 0.02 269.69)",
       "back-deut": "oklch(97% 0.004 269.69)",
       "back-trit": "oklch(98% 0.003 269.69)",
       "line": "oklch(90% 0.02 269.69)",
