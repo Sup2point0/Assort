@@ -1,6 +1,8 @@
 # Eclipse
 <!-- #SQUARK live! deep!
 | dest = writing/eclipse
+| desc = It had already fallen dark.
+| style = creative-writing
 | duality = dark
 | index = writing
 | shard = #INDEX / archives

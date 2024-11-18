@@ -1,5 +1,13 @@
 # Precipice
-<!-- #QUARK live! -->
+<!-- #SQUARK live! deep!
+| dest = writing/precipice
+| desc = I hear the water long before I reach the peak.
+| style = creative-writing
+| duality = light
+| index = writing / creative-writing
+| shard = #INDEX / antarctica
+| date = 2023 June
+-->
 
 I hear the water long before I reach the peak.  
 &emsp; It’s a gentle tune that curls over the wall of ice, like a twinkling melody promising of something long lost, maddeningly trickling down the slope until it finds its way into my ears. It’s dizzying. It’s delicious. I would say I instantly perk up at the sound, but that wouldn’t be true: at this point the cold has crawled upwards far beyond my hands; it’s wrapping around my arms, ensnaring my neck, choking my eyes, blinding my ears, and it feels as if my heart has already been buried in the very ice I’m dragging myself across.  
@@ -26,10 +34,6 @@ I hear the water long before I reach the peak.
 <br>
 
 
+<!-- #SQUARK leave? -->
 (June 2023)
-
-<!-- #QUARK
-EXPORT: precipice
-STYLE: creative
-POLARITY: light
--->
+<!-- #SQUARK leave. -->
