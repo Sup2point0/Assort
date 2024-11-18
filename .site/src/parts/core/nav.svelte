@@ -109,6 +109,8 @@ import AssortIcon from "#parts/misc/assort-icon.svelte";
           hover="generative AI statement" />
         <NavLink text="license" intern="license"
           hover="CC BY-SA 4.0" />
+        <NavLink text="stats" intern="stats"
+          hover="stats for nerds" />
         <NavLink text="sup" intern="sup" />
       </section>
     </div>

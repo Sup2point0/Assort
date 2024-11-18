@@ -36,7 +36,8 @@ import Shard from "#parts/ext/tag.shard.svelte";
 
 header {
   width: 100%;
-  padding: 0 0 2rem;
+  margin: 0 0 2rem;
+  padding: 0 0 1rem;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
