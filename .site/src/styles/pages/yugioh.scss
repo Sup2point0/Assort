@@ -1,8 +1,19 @@
-@use './src/styles/font-faces' as *;
+@use './src/styles/mixins/~fonts' as *;
+
+
+@font-face {
+  font-family: 'Matrix Book';
+  src:
+    local('Matrix-Book'),
+    url('/fonts/matrix-book.ttf') format('truetype');
+  font-display: swap;
+}
+
 
 h1,h2,h3,h4,
 p {
-  font-family: "Matrix Book", "Noto Serif", "Segoe UI", serif;
+  @include font-serif;
+  // font-family: 'Matrix Book';  FIXME
 }
 
 img {

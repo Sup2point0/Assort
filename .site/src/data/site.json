@@ -2,7 +2,7 @@
   "meta": {
     "exported": "2024-11-18",
     "file_count": 318,
-    "page_count": 105
+    "page_count": 106
   },
   "index": {
     "info": {
@@ -27,6 +27,7 @@
         "~writing/creative/Eclipse.md",
         "~writing/creative/Expanse.md",
         "~writing/creative/Friend.md",
+        "~writing/creative/Precipice.md",
         "~writing/creative/Seclusion.md",
         "~writing/creative/The Last Cavern.md",
         "~writing/roots.md",
@@ -237,6 +238,14 @@
         "~poetry/fractal fracking.md",
         "~poetry/折磨.md"
       ]
+    },
+    "creative-writing": {
+      "route": null,
+      "pages": [
+        "~writing/creative/Precipice.md",
+        "~writing/creative/Seclusion.md",
+        "~writing/creative/The Last Cavern.md"
+      ]
     }
   },
   "shard": {
@@ -263,6 +272,7 @@
       "~writing/creative/Eclipse.md",
       "~writing/creative/Expanse.md",
       "~writing/creative/Friend.md",
+      "~writing/creative/Precipice.md",
       "~writing/creative/Seclusion.md",
       "~writing/creative/The Last Cavern.md",
       "~writing/roots.md",
@@ -502,7 +512,9 @@
     ],
     "antarctica": [
       "~poetry/Teardrop.md",
-      "~writing/creative/Expanse.md"
+      "~writing/creative/Expanse.md",
+      "~writing/creative/Precipice.md",
+      "~writing/creative/The Last Cavern.md"
     ],
     "fantasy": [
       "~poetry/Teardrop.md",
@@ -534,6 +546,11 @@
     ],
     "poignant": [
       "~writing/creative/Expanse.md"
+    ],
+    "creative-writing": [
+      "~writing/creative/Precipice.md",
+      "~writing/creative/Seclusion.md",
+      "~writing/creative/The Last Cavern.md"
     ]
   },
   "pages": {
@@ -2939,9 +2956,9 @@
     },
     "~writing/creative/Eclipse.md": {
       "path": "~writing/creative/Eclipse.md",
-      "last_deploy": "2024-10-30 14:11:48 +0000",
-      "slocs": 21,
-      "chars": 2038,
+      "last_deploy": "2024-11-18 19:12:46 +0000",
+      "slocs": 23,
+      "chars": 2102,
       "isIndex": false,
       "flags": [
         "live",
@@ -2951,7 +2968,7 @@
       "title": "Eclipse",
       "head": "Eclipse",
       "capt": null,
-      "desc": null,
+      "desc": "It had already fallen dark.",
       "index": [
         "writing"
       ],
@@ -2964,18 +2981,19 @@
     },
     "~writing/creative/Expanse.md": {
       "path": "~writing/creative/Expanse.md",
-      "last_deploy": "2024-10-30 14:11:48 +0000",
-      "slocs": 26,
-      "chars": 3331,
+      "last_deploy": "2024-11-18 19:13:55 +0000",
+      "slocs": 27,
+      "chars": 3403,
       "isIndex": false,
       "flags": [
-        "live"
+        "live",
+        "deep"
       ],
       "dest": "writing/expanse",
       "title": "Expanse",
       "head": "Expanse",
       "capt": null,
-      "desc": null,
+      "desc": "They had told me what to expect. I came anyway.",
       "index": [
         "writing"
       ],
@@ -2989,19 +3007,20 @@
     },
     "~writing/creative/Friend.md": {
       "path": "~writing/creative/Friend.md",
-      "last_deploy": "2024-10-30 14:11:48 +0000",
-      "slocs": 29,
-      "chars": 2374,
+      "last_deploy": "2024-11-18 19:13:52 +0000",
+      "slocs": 31,
+      "chars": 2477,
       "isIndex": false,
       "flags": [
         "live",
+        "deep",
         "woozy"
       ],
       "dest": "writing/friend",
       "title": "Friend",
       "head": "Friend",
       "capt": null,
-      "desc": null,
+      "desc": "He’s sitting on the bench, at our usual spot, waiting for me.",
       "index": [
         "writing"
       ],
@@ -3012,25 +3031,55 @@
       "date": "2020-09-01",
       "date_display": "2020 September"
     },
-    "~writing/creative/Seclusion.md": {
-      "path": "~writing/creative/Seclusion.md",
-      "last_deploy": "2024-10-30 14:11:48 +0000",
-      "slocs": 28,
-      "chars": 2224,
+    "~writing/creative/Precipice.md": {
+      "path": "~writing/creative/Precipice.md",
+      "last_deploy": "2024-11-18 19:13:46 +0000",
+      "slocs": 39,
+      "chars": 3274,
       "isIndex": false,
       "flags": [
-        "live"
+        "live",
+        "deep"
+      ],
+      "dest": "writing/precipice",
+      "title": "Precipice",
+      "head": "Precipice",
+      "capt": null,
+      "desc": "I hear the water long before I reach the peak.",
+      "index": [
+        "writing",
+        "creative-writing"
+      ],
+      "shard": [
+        "writing",
+        "creative-writing",
+        "antarctica"
+      ],
+      "date": "2023-06-01",
+      "date_display": "2023 June"
+    },
+    "~writing/creative/Seclusion.md": {
+      "path": "~writing/creative/Seclusion.md",
+      "last_deploy": "2024-11-18 19:14:19 +0000",
+      "slocs": 29,
+      "chars": 2385,
+      "isIndex": false,
+      "flags": [
+        "live",
+        "deep"
       ],
       "dest": "writing/seclusion",
       "title": "Seclusion",
       "head": "Seclusion",
       "capt": null,
-      "desc": null,
+      "desc": "Like yesterday, and the day before, and every other day for as long as I can remember, I gaze out to the morning sea.",
       "index": [
-        "writing"
+        "writing",
+        "creative-writing"
       ],
       "shard": [
         "writing",
+        "creative-writing",
         "archives"
       ],
       "date": "2022-06-01",
@@ -3038,24 +3087,28 @@
     },
     "~writing/creative/The Last Cavern.md": {
       "path": "~writing/creative/The Last Cavern.md",
-      "last_deploy": "2024-10-30 14:11:48 +0000",
-      "slocs": 26,
-      "chars": 2953,
+      "last_deploy": "2024-11-18 19:15:05 +0000",
+      "slocs": 27,
+      "chars": 3074,
       "isIndex": false,
       "flags": [
-        "live"
+        "live",
+        "deep"
       ],
       "dest": "writing/the-last-cavern",
       "title": "The Last Cavern",
       "head": "The Last Cavern",
       "capt": null,
-      "desc": null,
+      "desc": "It’s always an excursion getting here, but it’s always worth it.",
       "index": [
-        "writing"
+        "writing",
+        "creative-writing"
       ],
       "shard": [
         "writing",
-        "archives"
+        "creative-writing",
+        "archives",
+        "antarctica"
       ],
       "date": "2022-06-01",
       "date_display": "2022 June"
