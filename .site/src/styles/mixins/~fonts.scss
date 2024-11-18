@@ -3,18 +3,24 @@
   font-weight: 350;
 }
 
-@mixin font-body {
-  font-family: 'Fira Sans', 'Segoe UI', system-ui, sans-serif;
-  font-weight: 400;
-}
-
 @mixin font-head {
   font-family: 'Outfit', 'Segoe UI', system-ui, sans-serif;
   font-weight: 400;
 }
 
+@mixin font-body {
+  font-family: 'Fira Sans', 'Segoe UI', system-ui, sans-serif;
+  font-weight: 400;
+}
+
+@mixin font-serif {
+  font-family: 'Lora', 'Georgia', serif;
+  font-weight: 400;
+}
+
 @mixin font-code {
   font-family: 'Fira Mono', 'Roboto Mono', 'SF Mono', 'Consolas', monospace;
+  font-weight: 400;
 }
 
 @mixin font-hand {
