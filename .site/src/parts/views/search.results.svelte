@@ -25,7 +25,7 @@ export let options: SearchOptions<PageData>;
       capt={page.capt ?? "..."}
       intern={page.dest}
     >
-      <p> {page.desc} </p>
+      <p> {page.desc ?? "..."} </p>
       
       {#each page.shard ?? [] as shard}
         <Shard shard={shard} />

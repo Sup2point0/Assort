@@ -1,5 +1,9 @@
 {
-  "exported": "2024-11-18",
+  "meta": {
+    "exported": "2024-11-18",
+    "file_count": 318,
+    "page_count": 105
+  },
   "index": {
     "info": {
       "route": null,
@@ -2886,9 +2890,9 @@
     },
     "~writing/Tearful.md": {
       "path": "~writing/Tearful.md",
-      "last_deploy": "2024-11-12 17:15:45 +0000",
+      "last_deploy": "2024-11-18 17:34:00 +0000",
       "slocs": 45,
-      "chars": 2836,
+      "chars": 2835,
       "isIndex": false,
       "flags": [
         "live"
