@@ -2,6 +2,7 @@
 
 import "#styles/font-faces.scss";
 import "#styles/essence.scss";
+import "#styles/prism-night-owl.css";
 
 import { prefs, popups } from "#modules/stores";
 

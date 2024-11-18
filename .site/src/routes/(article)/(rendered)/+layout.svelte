@@ -17,14 +17,14 @@ const special = $page.data.flags.includes("index");
 </title>
 
 {#if $page.data.flags.includes("dev")}
-  <Notice icon="purple-portal.png"
+  <Notice icon="under-construction.png"
     title="Under development!"
     desc="This article is currently unfinished. If I haven’t modified it in a while, I must’ve forgotten about it!"
   />
 {/if}
 
 {#if $page.data.flags.includes("depr")}
-  <Notice icon="pural-portal-faded.png"
+  <Notice icon="deprecated.png"
     title="Nostalgia warning"
     desc="The content in this article has been <strong>deprecated</strong>, so may no longer be relevant or accurate."
   />
