@@ -27,6 +27,11 @@ That stuff’s becoming ancient history now...
 <br>
 
 
+### [Thoughtspile](https://thoughtspile.github.io)
+> November 2024
+
+Really well-written software development blog!
+
 ### [Everyone has JavaScript, right?](https://www.kryogenix.org/code/browser/everyonehasjs.html)
 > May 2024
 
