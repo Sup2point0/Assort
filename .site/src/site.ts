@@ -4,6 +4,7 @@ import type { PageData } from "./modules/types";
 
 
 const site_data = await import("./data/site.json");
+const site_stats = await import("./data/stats.json");
 const palettes_data = await import("./palettes/palettes.json");
 
 
@@ -29,7 +30,10 @@ interface PalettesData {
 
 
 const Site: SiteData = {
-  meta: site_data.meta,
+  meta: {
+    site_data.meta,
+    site_stats,
+  }
 
   pages: site_data.pages,
   featured: Object.values(site_data.pages).filter(
