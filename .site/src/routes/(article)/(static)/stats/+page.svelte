@@ -3,8 +3,8 @@
 import Site from "#src/site";
 
 
-const files = Site.meta.file_count;
-const pages = Site.meta.page_count;
+const stats = Site.meta;
+
 const slocs = (
   Object.values(Site.pages)
   .map(page => page.slocs)
@@ -21,8 +21,36 @@ const chars = (
 
 <table>
   <tr>
+    <th> last deployed </th>
+    <td> {stats.exported} </td>
+  </tr>
+  <tr>
     <th> source files </th>
-    <td> {files} </td>
+    <td> {stats["source-files"]} </td>
+  </tr>
+  <tr>
+    <th> source folders </th>
+    <td> {stats["source-folders"]} </td>
+  </tr>
+  <tr>
+    <th> README files </th>
+    <td> {stats["readme"]} </td>
+  </tr>
+  <tr>
+    <th> Markdown files </th>
+    <td> {stats["md"]} </td>
+  </tr>
+  <tr>
+    <th> Svelte files </th>
+    <td> {stats["svelte"]} </td>
+  </tr>
+  <tr>
+    <th> TypeScript files </th>
+    <td> {stats["ts"]} </td>
+  </tr>
+  <tr>
+    <th> SCSS stylesheets </th>
+    <td> {stats["scss"]} </td>
   </tr>
   <tr>
     <th> deployed pages </th>
