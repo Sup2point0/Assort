@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exported": "2024-11-18",
+    "exported": "2024-11-25",
     "file_count": 318,
     "page_count": 106
   },
@@ -119,8 +119,8 @@
         "~dev/In Perfection/python.md",
         "~dev/In Perfection/ruby.md",
         "~dev/fix.md",
+        "~dev/gems.md",
         "~dev/git.md",
-        "~dev/internet gems.md",
         "~dev/quotes.md",
         "~lists/PowerPoint features.md",
         "~lists/fonts.md",
@@ -167,8 +167,8 @@
         "~dev/buttons.md",
         "~dev/decoded.md",
         "~dev/fix.md",
+        "~dev/gems.md",
         "~dev/git.md",
-        "~dev/internet gems.md",
         "~dev/migration.md",
         "~dev/quotes.md",
         "~dev/solutions.md",
@@ -304,8 +304,8 @@
       "~dev/In Perfection/python.md",
       "~dev/In Perfection/ruby.md",
       "~dev/fix.md",
+      "~dev/gems.md",
       "~dev/git.md",
-      "~dev/internet gems.md",
       "~dev/quotes.md",
       "~dev/solutions.md",
       "~lists/PowerPoint features.md",
@@ -409,8 +409,8 @@
       "~dev/buttons.md",
       "~dev/decoded.md",
       "~dev/fix.md",
+      "~dev/gems.md",
       "~dev/git.md",
-      "~dev/internet gems.md",
       "~dev/migration.md",
       "~dev/quotes.md",
       "~dev/solutions.md",
@@ -1854,6 +1854,31 @@
       "date": "2024-05-01",
       "date_display": "2024 May"
     },
+    "~dev/gems.md": {
+      "path": "~dev/gems.md",
+      "last_deploy": "2024-11-23 09:30:49 +0000",
+      "slocs": 107,
+      "chars": 4315,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "dev/internet-gems",
+      "title": "Gems in the Abstruse Internet",
+      "head": "Gems in the Abstruse Internet",
+      "capt": null,
+      "desc": "A collection of incredible creations, resources, sites and articles I’ve discovered on the internet",
+      "index": [
+        "dev",
+        "lists"
+      ],
+      "shard": [
+        "dev",
+        "lists"
+      ],
+      "date": null,
+      "date_display": null
+    },
     "~dev/git.md": {
       "path": "~dev/git.md",
       "last_deploy": "2024-10-30 14:11:48 +0000",
@@ -1868,31 +1893,6 @@
       "head": "`git checkout future-reference`",
       "capt": null,
       "desc": "Really important Git commands to remember.",
-      "index": [
-        "dev",
-        "lists"
-      ],
-      "shard": [
-        "dev",
-        "lists"
-      ],
-      "date": null,
-      "date_display": null
-    },
-    "~dev/internet gems.md": {
-      "path": "~dev/internet gems.md",
-      "last_deploy": "2024-11-14 09:37:00 +0000",
-      "slocs": 102,
-      "chars": 4199,
-      "isIndex": false,
-      "flags": [
-        "live"
-      ],
-      "dest": "dev/internet-gems",
-      "title": "Gems in the Abstruse Internet",
-      "head": "Gems in the Abstruse Internet",
-      "capt": null,
-      "desc": "A collection of incredible creations, resources, sites and articles I’ve discovered on the internet",
       "index": [
         "dev",
         "lists"
