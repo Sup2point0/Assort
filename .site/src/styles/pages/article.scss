@@ -64,17 +64,12 @@ i, em {
   font-style: italic;
 }
 
-code {
-  @include font-code;
-  color: var(--col-text-prot);
-}
-
 
 ul {
   padding-left: 1em;
 }
 
-li {
+li:not(code) {
   @include font-body;
   line-height: 150%;
   color: var(--col-text);

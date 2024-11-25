@@ -4,14 +4,14 @@
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
-		"devx": "npm run prep && vite dev",
+      "devx": "npm run prep && vite dev",
 		"prep": "cd ../.stranger-quarkdown && rake squark[fonts,scss] && cd ../.site",
-		"prepx": "npm run squarkx && npm run vivid",
+      "prepx": "npm run squarkx && python .dev/stats.py && npm run vivid",
 		"squark": "cd ../.stranger-quarkdown && rake squark --trace && cd ../.site",
-		"squarkx": "cd ../.stranger-quarkdown && rake squark[fonts,scss,assets] --trace && cd ../.site",
+      "squarkx": "cd ../.stranger-quarkdown && rake squark[fonts,scss,assets] --trace && cd ../.site",
 		"vivid": "python vividity/export --root=src/palettes --css=colours.css css json",
 		"build": "vite build",
-		"buildx": "npm run prepx && vite build",
+      "buildx": "npm run prepx && vite build",
 		"preview": "vite preview"
 	},
 	"dependencies": {

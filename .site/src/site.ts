@@ -12,7 +12,7 @@ interface SiteData {
   meta: object;
   pages: PagesData;
   featured: PageData[];
-  palettes: PalettesData[];
+  palettes: PalettesData;
   font: string;
   fonts: string[];
   index: object;
@@ -31,9 +31,9 @@ interface PalettesData {
 
 const Site: SiteData = {
   meta: {
-    site_data.meta,
-    site_stats,
-  }
+    ...site_data.meta,
+    ...site_stats,
+  },
 
   pages: site_data.pages,
   featured: Object.values(site_data.pages).filter(
