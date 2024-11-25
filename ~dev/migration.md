@@ -106,7 +106,7 @@ You’ll want to carry out all of the following for **both** computers:
     - `UPnP Device Host`
   - If it’s greyed out, it’s probably because you don’t have admin privileges. Make sure to run Services as Administrator.
 - Enable SMB File Sharing Support & SMB Direct.
-  - win+R » ``optionalfeatures`
+  - win+R » `optionalfeatures`
   - Enable **SMB 1.0/CIFS File Sharing Support** and **SMB Direct**.
   - Restart.
 
@@ -134,7 +134,7 @@ If all’s good, 1 of the computers can now access the other’s shared folders.
 We use the inbuilt Windows **robocopy** command to copy the files. For instance, if I had a `C:/Users/sup/Desktop/projects/` folder I wanted to duplicate over, I did:
 
 ```bash
-C:Users\sup > cd Desktop\projects
+C:Users/sup > cd Desktop/projects
 
 robocopy projects _projects /e
 ```
