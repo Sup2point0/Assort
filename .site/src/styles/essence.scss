@@ -30,7 +30,7 @@ p {
   }
 }
 
-p code {
+p code, li code {
   padding: 0.2em 0.5em;
   @include font-code;
   color: var(--col-text);
