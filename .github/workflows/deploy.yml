@@ -37,7 +37,7 @@ jobs:
       - name: 'python / vividity / install'
         run: |
           cd vividity
-          pip install jsonschema
+          pip install jsonschema, GitPython
         # python -m pip install --upgrade pip
         # pip install pip-tools
         # FIXME
