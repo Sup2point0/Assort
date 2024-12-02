@@ -1,11 +1,11 @@
 {
-  "commits": "3975",
-  "total-size": 3059498726,
-  "source-files": 11558,
+  "commits": "3982",
+  "total-size": 3067054674,
+  "source-folders": 1682,
+  "source-files": 11627,
   "readme": 230,
-  "md": 582,
-  "svelte": 173,
-  "ts": 761,
-  "scss": 25,
-  "source-folders": 11558
+  "md": 584,
+  "svelte": 174,
+  "ts": 762,
+  "scss": 25
 }

@@ -34,7 +34,7 @@ p {
   color: var(--col-prot);
   font-size: 80%;
   text-align: center;
-  filter: drop-shadow(0 2px 3px rgba(black, 20%));
+  filter: drop-shadow(0 1px 1px rgba(black, 16%));
 }
 
 </style>

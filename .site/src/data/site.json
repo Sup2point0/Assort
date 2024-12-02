@@ -1,8 +1,8 @@
 {
   "meta": {
-    "exported": "2024-11-25",
-    "file_count": 318,
-    "page_count": 106
+    "exported": "2024-12-02",
+    "file_count": 320,
+    "page_count": 107
   },
   "index": {
     "info": {
@@ -31,6 +31,7 @@
         "~writing/creative/Seclusion.md",
         "~writing/creative/The Last Cavern.md",
         "~writing/roots.md",
+        "~writing/wriiiting.md",
         "~writing/wriiting.md",
         "~writing/writing.md"
       ]
@@ -276,6 +277,7 @@
       "~writing/creative/Seclusion.md",
       "~writing/creative/The Last Cavern.md",
       "~writing/roots.md",
+      "~writing/wriiiting.md",
       "~writing/wriiting.md",
       "~writing/writing.md"
     ],
@@ -462,7 +464,8 @@
       "~personal/interests.md",
       "~personal/quotes.md",
       "~personal/slinqui.md",
-      "~writing/Tearful.md"
+      "~writing/Tearful.md",
+      "~writing/wriiiting.md"
     ],
     "misc": [
       "~misc/filltext.md",
@@ -539,6 +542,7 @@
     "rambling": [
       "~writing/Broken World.md",
       "~writing/Tearful.md",
+      "~writing/wriiiting.md",
       "~writing/writing.md"
     ],
     "wack": [
@@ -3137,6 +3141,31 @@
       ],
       "date": null,
       "date_display": null
+    },
+    "~writing/wriiiting.md": {
+      "path": "~writing/wriiiting.md",
+      "last_deploy": "2024-12-02 20:04:07 +0000",
+      "slocs": 59,
+      "chars": 3016,
+      "isIndex": false,
+      "flags": [
+        "live"
+      ],
+      "dest": "writint/wriiiting",
+      "title": "wriiiting?",
+      "head": "wriiiting?",
+      "capt": null,
+      "desc": "I need to write.",
+      "index": [
+        "writing"
+      ],
+      "shard": [
+        "writing",
+        "personal",
+        "rambling"
+      ],
+      "date": "2024-11-28",
+      "date_display": "2024 November 28"
     },
     "~writing/wriiting.md": {
       "path": "~writing/wriiting.md",

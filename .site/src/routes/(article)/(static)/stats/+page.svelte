@@ -25,12 +25,12 @@ const chars = (
     <td> {stats.exported} </td>
   </tr>
   <tr>
-    <th> source files </th>
-    <td> {stats["source-files"]} </td>
-  </tr>
-  <tr>
     <th> source folders </th>
     <td> {stats["source-folders"]} </td>
+  </tr>
+  <tr>
+    <th> source files </th>
+    <td> {stats["source-files"]} </td>
   </tr>
   <tr>
     <th> README files </th>
@@ -54,7 +54,7 @@ const chars = (
   </tr>
   <tr>
     <th> deployed pages </th>
-    <td> {pages} </td>
+    <td> {stats["page_count"]} </td>
   </tr>
   <tr>
     <th> total slocs </th>

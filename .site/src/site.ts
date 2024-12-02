@@ -9,14 +9,18 @@ const palettes_data = await import("./palettes/palettes.json");
 
 
 interface SiteData {
-  meta: object;
+  meta: Accessible;
   pages: PagesData;
   featured: PageData[];
   palettes: PalettesData;
   font: string;
   fonts: string[];
-  index: object;
-  shard: object;
+  index: Accessible;
+  shard: Accessible;
+}
+
+interface Accessible {
+  [key: string]: any;
 }
 
 interface PagesData {
@@ -32,7 +36,7 @@ interface PalettesData {
 const Site: SiteData = {
   meta: {
     ...site_data.meta,
-    ...site_stats,
+    ...site_stats.default,
   },
 
   pages: site_data.pages,
@@ -169,3 +173,4 @@ for (let [index, data] of Object.entries(site_data.index)) {
 }
 
 export default Site;
+console.log(Site)
