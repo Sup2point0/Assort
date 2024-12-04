@@ -112,7 +112,7 @@ The *Catastropical Lands*, as they came to be known, were the remnants of a plan
       <img alt="Catastropical Howler" title="Catastropical Howler" height="240px"
         src="../../../.assets/yugioh/stranded-saga/howler">
     </td>
-    <td> Wind that cuts, piercing through the landscape itself. Mountains have been torn down by its force. </td>
+    <td> There was nowhere to hide with rain that beat and wind that cut. They pierced the landscape, tearing down mountains and floating islands alike. </td>
   </tr>
   <tr>
     <th> Pyrovein </th>
@@ -129,7 +129,7 @@ The *Catastropical Lands*, as they came to be known, were the remnants of a plan
 
 <p align="center">〔~✦~〕</p>
 
-After who knew how long wandering in the water, Luce approached the edge of a deserted island – no, a desert island. In place of the water was sand, a muted sickly pale colour under the faded sky. Trudging through it dragged at his skin.
+After who knew how long wandering in the water, Luce approached the edge of a deserted island – a desert island, on closer inspection. In place of the water was sand, a muted sickly pale colour under the faded sky. Trudging through it dragged at his skin. Further in to the island lay a forest. The trees were sparse, but obscured any sights within.
 
 <p align="center">〔~✦~〕</p>
 
@@ -149,7 +149,39 @@ The dots tilted. He could see the whole blob jiggling as it moved.
 
 “I don’t know what you are, but I think you might’ve just saved me from whatever that was.”
 
-Luce put out his hand. To his surprise, the blob rolled onto it without hesitation, and stayed firmly in place. As he got himself off the ground, the blob felt weightless in his hand. It was the strangest sensation, like he wasn’t even holding anything at all.
+Luce put out his hand. To his surprise, the blob rolled onto it without hesitation, and stayed firmly in place. As he got himself off the ground, it felt weightless in his hand. It was the strangest sensation, like he wasn’t even holding anything at all.
+
+“Are you joining me, then?”
+
+The blob only looked at Luce, unmoving.
+
+“You’re cute.”
+
+He shrugged, and looked around. Everything appeared to have returned to how it was before. The air was calm. The water did not look especially safe to drink.
+
+Luce lifted his arm up, and the blob slid straight down onto his shoulder. Together they set off, ever deeper into the forest.
+
+<p align="center">〔~✦~〕</p>
+
+Luce had been walking for what felt like hours. What he had thought was a small island was much larger than he could have imagined. The trees were starting to blur into each other, and the sky showed no signs of changing. He wondered if time had frozen. It felt like he was in a dream.
+
+Luce’s only relief from insanity was talking to the blob. It had found its spot firmly on his shoulder, and silently bobbed along with each step. He couldn’t tell if it could understand him, or even hear him, but talking to it kept him going.
+
+“Hey, what are you, really?”
+
+The ground was unusually littered with twigs. Luce winced slightly at the constant cracking as he stepped over them.
+
+“You look like... well, I mean, you’re just a blob, really. How are you even alive?”
+
+The blob jiggled slightly, but Luce couldn’t tell if it had heard him or it was just being itself.
+
+“I... I should give you a name.”
+
+Luce realised he didn’t even know his own name. He knew that he *had* one, but his mind came up empty when trying to remember what it was.
+
+A branch crumpled as he stepped on it, and he realised it had flattened to ash. He froze. Before him lay a graveyard of trees, all fallen and burnt. They looked mangled and folded, scarily so. It was a grey wasteland.
+
+At that moment, Xlob started twisting frantically on Luce’s shoulder. He felt it clench down on him, as if trying to get his attention. He looked down to find Xlob starting intently at a point in the distance.
 
 
 <h3 align="center"> Inadvertent Destiny </h3>
@@ -289,19 +321,25 @@ With that Xeros and Hyakil vanished into air, and Topo led a dazed Luce away to 
   </tr>
 </table>
 
-Avier was as much a character as Topo, and together the two were a formidable team. In time, Luce became great friends with them, and happily settled into his new lifestyle. But as much as he tried, he could still not remember where he came from.
+Avier was as much a character as Topo, and together the two were a formidable team. Once Luce’s body had recovered, they began his training.
 
-One night, Luce was out for a stroll at twilight, when all of a sudden a searing pain rushed down his arm. He looked down to find a dark blob writhing on his arm. “Xlob, what?!” he cried out, trying to shake it off. The dark split, one slither falling to the ground, still twisting unnaturally. It was not Xlob.
+As much as he tried, Luce could not remember from where he came. It was as much a mystery to him as how Topo could be so lucky every time they fought. Every night he searched his mind, to no avail; it was all murky.
+
+<p align="center">〔~✦~〕</p>
+
+It was pure-night, and Luce was out for a stroll when a searing pain rushed down his arm. He looked down to find a dark blob writhing on his arm. “Xlob, what?!” he cried out, trying to shake it off. The dark split, one slither falling to the ground, still twisting unnaturally. It was not Xlob.
 
 The pain worsened. Luce collapsed onto the ground and bit back a scream. In that moment, the blob on the ground was engulfed in a luminous glow, before vanishing into nothing. He raised his arm to find those on his arm gone as well.
 
-As it turned out, Luce had *affinityzen* – unknowingly, he had manifested his affinity. When he told Xeros, the elder’s eyes widened.
+When Luce told Avier what had happened, Avier frowned and said he’d never heard anything like it. Topo reassured him it would be fine, and with that the matter was dropped and they continued their training.
 
-“I have not seen this affinity before, yet I have theorised about it.”
+<p align="center">〔~✦~〕</p>
 
-Luce rubbed his arm. “So what is it?”
+It opened with the Arkhelm Academy. There were no witnesses, but in moments the Upper Wing was engulfed in a dark, swirling cloud – from which erupted an onslaught of flying creatures.
 
-“*Xeriportalis*,” Xeros said. “The ability to travel between worlds.”
+Teachers and students alike rushed in to engage them in combat – Secari, Quakes, Oblivia – yet they kept on coming. The creatures swarmed around affinitics until they were smothered.
+
+Then the Upper Wing collapsed, smashing into the Training Fields below. From the explosion of darkness emerged several figures.
 
 
 <h3 align="center"> A Quest Across Time </h3>
