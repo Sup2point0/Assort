@@ -83,6 +83,7 @@ const Site: SiteData = {
     },
     lists: {
       display: "lists",
+      colour: "#518afc",
     },
     misc: {
       display: "miscellaneous",
@@ -156,9 +157,11 @@ const Site: SiteData = {
     },
     opinion: {
       display: "opinion",
+      colour: "#ff0090",
     },
     sad: {
       display: "sad",
+      colour: "#a63998",
     },
   },
 };
