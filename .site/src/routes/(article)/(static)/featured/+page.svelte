@@ -21,6 +21,7 @@ $: featuredPages = searchOptions.apply(featured);
   bind:options={searchOptions}
   on:search={e => console.log(e.detail)}
 />
+<!-- FIXME -->
 
 <ul>
   {#each featuredPages as page}
