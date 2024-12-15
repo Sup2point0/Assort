@@ -1,6 +1,6 @@
 # wriiiting?
 <!-- #SQUARK live!
-| dest = writint/wriiiting
+| dest = writing/wriiiting
 | desc = I need to write.
 | style = handwriting
 | index = writing
