@@ -1,6 +1,7 @@
 # 42 Methods of Flawless Fail-Safe Fixing
 <!-- #SQUARK live! feat!
 | dest = dev/fix
+| desc = Got an issue? Here’s some tips to fix it.
 | style = dev
 | duality = dark
 | index = lists / dev
