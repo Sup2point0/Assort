@@ -103,8 +103,8 @@
  */
 .soup {
   --col-prot: oklch(65.12% 0.18 262.62);
-  --col-deut: #ff055f;
-  --col-flavour: oklch(80% 0.096 301.79);
+  --col-deut: oklch(63.81% 0.2537 7.5);
+  --col-flavour: oklch(76% 0.146 301.8);
   --col-hover: rgba(0 0 0 / 8%);
   --col-click: rgba(0 0 0 / 16%);
   --col-focus: oklch(75.8% 0.1336 243.03);
@@ -113,17 +113,17 @@
   --col-text-prot: #204080;
   --col-text-deut: oklch(60% 0.04 269.69);
   --col-text-trit: oklch(80% 0.04 269.69);
-  --col-back: oklch(98.5% 0.002 269.69);
-  --col-back-prot: oklch(95.29% 0.02 269.69);
-  --col-back-deut: oklch(97% 0.004 269.69);
-  --col-back-trit: oklch(98% 0.003 269.69);
+  --col-back: oklch(99% 0.002 269.69);
+  --col-back-prot: oklch(96% 0.02 269.69);
+  --col-back-deut: oklch(97.5% 0.004 269.69);
+  --col-back-trit: oklch(98.5% 0.003 269.69);
   --col-line: oklch(90% 0.02 269.69);
-  --col-line-prot: red;
-  --col-line-deut: oklch(85% 0.02 269.69);
+  --col-line-prot: oklch(76% 0.146 301.8);
+  --col-line-deut: oklch(92% 0.02 269.69);
   --col-link: oklch(44% 0.16 260);
-  --col-link-visit: #404090;
-  --col-link-hover: #ff0090;
-  --col-link-click: #9040f1;
+  --col-link-visit: oklch(36.35% 0.16 281.48);
+  --col-link-hover: oklch(63.81% 0.2537 7.5);
+  --col-link-click: oklch(63.81% 0.2256 298.6);
   --col-card: oklch(96% 0.01 269.69);
   --col-card-hover: oklch(92% 0.02 269.69);
   --col-card-click: oklch(84% 0.02 269.69);
