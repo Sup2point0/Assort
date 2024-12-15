@@ -173,4 +173,3 @@ for (let [index, data] of Object.entries(site_data.index)) {
 }
 
 export default Site;
-console.log(Site)

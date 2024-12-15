@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exported": "2024-12-02",
+    "exported": "2024-12-15",
     "file_count": 320,
     "page_count": 107
   },
@@ -1181,9 +1181,9 @@
     },
     "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md": {
       "path": "Yu-Gi-Oh/lore/Stranded Saga/The Stranded Saga.md",
-      "last_deploy": "2024-10-30 14:11:48 +0000",
-      "slocs": 441,
-      "chars": 22338,
+      "last_deploy": "2024-12-06 17:53:57 +0000",
+      "slocs": 479,
+      "chars": 24902,
       "isIndex": false,
       "flags": [
         "live",
@@ -3144,14 +3144,14 @@
     },
     "~writing/wriiiting.md": {
       "path": "~writing/wriiiting.md",
-      "last_deploy": "2024-12-02 20:04:07 +0000",
+      "last_deploy": "2024-12-06 17:54:15 +0000",
       "slocs": 59,
       "chars": 3016,
       "isIndex": false,
       "flags": [
         "live"
       ],
-      "dest": "writint/wriiiting",
+      "dest": "writing/wriiiting",
       "title": "wriiiting?",
       "head": "wriiiting?",
       "capt": null,
