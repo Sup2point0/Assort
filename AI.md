@@ -19,15 +19,9 @@ This is how it goes. You search up a question or how-to, skip past the ads and A
 
 Then you get to a fairly chonky paragraph, and a sinking feeling comes. There’s just something about the way it reads, a déja vu maybe, as if you’ve read this exact thing before.
 
-So you fire up [Scribbr’s AI detector](https://www.scribbr.co.uk/ai-detector), and ctrl+CV.
+So you fire up [Quillbot AI detector](https://quillbot.com/ai-content-detector), and ctrl+CV.
 
-100%.
-
-Without fail. Not even like, 92% or something. 100% chance of AI generation.
-
-How do you even do that. Like, surely if you even just slightly edit it, that would break the probability chain and bring that score down.
-
-But no. 100%.
+Yeup, AI gen.
 
 It’s honestly depressing.
 
@@ -45,6 +39,6 @@ Everything you see read in *Assort* was lovingly handcrafted, painstakingly edit
 
 As one does, I tried searching up ‘all blogs use AI reddit’ and found [a reddit post](https://www.reddit.com/r/Blogging/comments/191t6lf/is_the_rise_of_ai_content_threatening_the_future) asking if AI will kill blogs. Can you guess what one of the comments was?
 
-![100%.](.assets/writing/ai-reddit.png)
+![66.](.assets/writing/ai-reddit.png)
 
-100%.
+Go figure.
