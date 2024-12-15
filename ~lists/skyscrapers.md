@@ -35,6 +35,7 @@ A collection of really awesome Skyscrapers puzzles.
 ### Solved
 | date | notes |
 | :--- | :---- |
+| [2024 December 14](https://www.brainbashers.com/p273095) | |
 | [2024 October 27](https://www.brainbashers.com/p840623) | endurance |
 | [2024 October 5](https://www.brainbashers.com/p082457) | VICTORY |
 | [2024 September 14](https://www.brainbashers.com/p330726) | terrifying at first, but absolutely doable |
