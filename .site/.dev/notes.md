@@ -3,7 +3,6 @@
 ### Tweaks
 - tags
 - fix import orders
-- fix links during squarkup
 - remark, rehype
 
 ### Features
