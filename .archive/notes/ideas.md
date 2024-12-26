@@ -4,6 +4,21 @@
 <br>
 
 
+## Projects
+
+### supper
+- supcode compiler
+
+### VRAINNs
+- Very Rudimentary Adventures In Neural Networks
+
+### antect
+- Antarctican machine learning
+
+
+<br>
+
+
 ## Games
 
 ### PopOps
