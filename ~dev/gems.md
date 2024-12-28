@@ -54,6 +54,11 @@ Oooh, isn’t this nice...
 
 Really well written.
 
+### [Easing Functions Cheat Sheet](https://easings.net/#)
+> 2024
+
+I love that this exists.
+
 ### [The Book of Shaders](https://thebookofshaders.com)
 > Winter 2023/2024
 
