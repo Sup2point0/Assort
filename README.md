@@ -29,12 +29,13 @@ Here you’ll find all my interests, thoughts, writing, time-wasting, and maybe 
 > [!Tip]
 > New here? Consider starting out on the [site<sup>↗</sup>](https://sup2point0.github.io/Assort) for a much nicer browsing experience!
 
-### Folders
+### Franchises
 📁 [affine](affine/)  
 📁 [Yu-Gi-Oh!](Yu-Gi-Oh/)  
 📁 [kenzokinetics](kenzokinetics/)  
 📁 [xeriqui](xeriqui/)  
 
+### Topics
 📁 [dev](~dev/)  
 📁 [graphic design](~graphics/)  
 📁 [writing pieces](~writing/)  
@@ -45,24 +46,37 @@ Here you’ll find all my interests, thoughts, writing, time-wasting, and maybe 
 <br>
 
 
+## Subprojects
+
+I’ve included some of my other projects as submodules inside *Assort* too.
+
+- [Antarctica](https://github.com/Sup2point0/Antarctica)
+- [Integrity](https://sup2point0.github.io/integrity)
+- [Victory](https://github.com/Sup2point0/Victory)
+
+
 ## [Frequerys](https://github.com/Sup2point0/Antarctica/blob/home/readme.md#what-does-frequerys-even-mean 'frequent queries')
 
 ### What’s all this for?
-I absolutely *love* creating things, and over the years I’ve created so much stuff that it’s all dispersed across multiple mediums – paper, phones, tablets, laptops, wikis – which is slightly a logistical nightmare. So, this is a repository to collect, store and archive (almost) everything I create. What exactly does that include? Well, content of any kind – documenting my ideas for games, graphic design and creative writing, lists, phenomena, worldbuilding and all. And also the fictional nation of [Antarctica](https://github.com/Sup2point0/Antarctica), but that’s so extensive that it’s in its own repo.
+I absolutely *love* creating things, and over the years I’ve created so much stuff that it’s all dispersed across multiple mediums – paper, phones, tablets, laptops, wikis – which is slightly a logistical nightmare. So, *Assort* is a repository to collect, store and archive (almost) everything I create. What exactly does that include? Well, content of any kind – my ideas and planning for games, graphic design, creative writing, poetry, lists, showerthoughts, phenomena, worldbuilding and everything in between.
 
 ### Why use GitHub?
-GitHub is absolutely perfect for this, since I can organise everything into individual folders with infinite hierarchy, and even be able to access and share it from anywhere. Y’know, say I’ve got a piece of writing I want to show a friend, I can just send them a link like [https://github.com/Sup2point0/Assort/blob/origin/~writing/creative/Expanse.md](~writing/creative/Expanse.md), and done!
+GitHub is absolutely perfect for this, since I can organise everything into individual folders with infinite hierarchy, and even be able to access and share it from anywhere. Y’know, say I’ve got a piece of writing I want to show a friend, I can just send them a link like [https://github.com/Sup2point0/Assort/blob/origin/~writing/creative/Expanse.md](~writing/creative/Expanse.md), and done! They find an error? I can just bring up GitHub on my phone and fix it on the go. Version control is also a wonderful bonus ^v^
 
 ### What am I even supposed to do?
 Hey, first of all, thank you so much for stopping by! I don’t really create all this for others to view, but the thought of someone exploring my content with intrepid fascination fills me with an inexplicable delight. Anyway yeah, browse whatever you want – a whole lot of it is `.md` files, which GitHub will be render so that you can read, and there’ll be some images or PDF files that’ll probably be so large they exceed the size of the page. You can scroll through them, read whatever you find interesting, all up to you ^v^
 
 ### How is there so much stuff?
-This is, like, everything from pretty much my entire life, so, y’know.
+This is, like, everything from pretty much my entire life, so. Y’know.
 
-I also want to clarify that *everything* here is organic – handwritten, hand-typed, hand-transcribed, and all – no use of AI or automation at all. The only exception would be `docs/`, but that’s just the HTML renders of other organic content in this repo (and some important pages are even manually written HTML ;)
+### How is the website built?
+The content is automatically exported from the repo with my [Squarkdown](https://github.com/Sup2point0/stranger-quarkdown) engine!
 
 ### Woah, I found something empty!
 Yeah, that happens. There are probably corners of *Assort* which I haven’t touched in years, and lie forgotten... maybe one day I’ll finish what I intended to start :P
+
+### Uh, why is this sentence unfinished?
+Yeah, I’ll GET TO IT GIMME A BREAK
 
 ### What do the folder prefixes indicate?
 Uppercase and lowercase are simply stylistic choices. Those with `~` are categories, while those with `.` are developmental files you don’t need to see. (ofc, if you want, you can take a look anyway ;)
