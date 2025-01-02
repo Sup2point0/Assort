@@ -37,6 +37,12 @@ This is cool. Website looks nice.
 <br>
 
 
+## [JSONCrack](https://jsoncrack.com)
+> December 2024
+
+Visualise JSON!
+
+
 ## [Thoughtspile](https://thoughtspile.github.io)
 > November 2024
 
