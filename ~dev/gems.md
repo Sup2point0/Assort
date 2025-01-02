@@ -175,7 +175,7 @@ Ah, this was when I was really into language. She had some cool articles.
 <br>
 
 
-## [A Journey to Antarctica](http://mironline.org/ice-diaries-a-journey-to-antarctica)
+## [A Journey to Antarctica](https://mirarchive.co.uk/ice-diaries-a-journey-to-antarctica)
 > 2021 (I think)
 
 A journal of a trip to Antarctica. Isn’t that insane. I always wanted to read it. Just never found the time, and interest died away. Maybe I’ll read it sometime.
