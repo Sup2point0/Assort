@@ -1,9 +1,9 @@
 # Emoticons
 <!-- #SQUARK dead!
-| dest = self/emoticons
+| dest = sup/emoticons
 | desc = A collection of all the emoticons I use!
-| style = personal
-| index = personal / lists
+| style = sup
+| index = sup / lists
 | shard = #INDEX
 -->
 
