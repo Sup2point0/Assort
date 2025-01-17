@@ -28,6 +28,15 @@ That stuff’s becoming ancient history now...
 <br>
 
 
+## [Unicode Spaces](https://jkorpela.fi/chars/spaces.html)
+> January 2025
+
+Very, very useful!
+
+
+<br>
+
+
 ## [cooked.wiki](https://cooked.wiki)
 > December 2024
 
