@@ -1,12 +1,12 @@
 # evodread
 <!-- #SQUARK live!
-| dest = self/evodread
+| dest = sup/evodread
 | title = Evodread
 | capt = Dying inside.
 | desc = A peculiar psychological afflication that comes and goes.
 | style = personal
 | duality = dark
-| index = personal
+| index = sup
 -->
 
 Dread is such an inexplicable feeling.

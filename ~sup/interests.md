@@ -1,8 +1,8 @@
 # Interests Index
 <!-- #SQUARK live!
-| dest = self/interests
+| dest = sup/interests
 | desc = All my loves, interests, and hobbies.
-| index = personal / lists
+| index = sup / lists
 -->
 
 I love a lot of things. Like, maybe a bit too many.

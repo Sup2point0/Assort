@@ -1,8 +1,8 @@
 # Personal Quotes
 <!-- #SQUARK live!
-| dest = lists/quotes/self
+| dest = lists/quotes/sup
 | style = quotes
-| index = lists / quotes / personal
+| index = lists / quotes / sup
 | shard = #INDEX
 -->
 
