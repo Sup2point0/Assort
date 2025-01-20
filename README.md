@@ -29,18 +29,18 @@ Here you’ll find all my interests, thoughts, writing, time-wasting, and maybe 
 > [!Tip]
 > New here? Consider starting out on the [site<sup>↗</sup>](https://sup2point0.github.io/Assort) for a much nicer browsing experience!
 
+### Categories
+📁 [music](~music/)  
+📁 [dev](~dev/)  
+📁 [writing](~writing/)  
+📁 [poetry](~poetry/)  
+📁 [graphic design](~graphics/)  
+
 ### Franchises
 📁 [affine](affine/)  
 📁 [Yu-Gi-Oh!](Yu-Gi-Oh/)  
 📁 [kenzokinetics](kenzokinetics/)  
 📁 [xeriqui](xeriqui/)  
-
-### Topics
-📁 [dev](~dev/)  
-📁 [graphic design](~graphics/)  
-📁 [writing pieces](~writing/)  
-📁 [music](~music/)  
-📁 [poetry](~poetry/)  
 
 
 <br>
@@ -50,9 +50,12 @@ Here you’ll find all my interests, thoughts, writing, time-wasting, and maybe 
 
 I’ve included some of my other projects as submodules inside *Assort* too.
 
-- [Antarctica](https://github.com/Sup2point0/Antarctica)
-- [Integrity](https://sup2point0.github.io/integrity)
-- [Victory](https://github.com/Sup2point0/Victory)
+❄️ [Antarctica](https://github.com/Sup2point0/Antarctica)  
+❄️ [Integrity](https://sup2point0.github.io/integrity)  
+❄️ [Victory](https://github.com/Sup2point0/Victory)  
+
+
+<br>
 
 
 ## [Frequerys](https://github.com/Sup2point0/Antarctica/blob/home/readme.md#what-does-frequerys-even-mean 'frequent queries')
