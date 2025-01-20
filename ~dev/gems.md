@@ -28,6 +28,12 @@ That stuff’s becoming ancient history now...
 <br>
 
 
+## [overreacted](https://overreacted.io)
+> January 2025
+
+Please remember to actually read Sup
+
+
 ## [Unicode Spaces](https://jkorpela.fi/chars/spaces.html)
 > January 2025
 
