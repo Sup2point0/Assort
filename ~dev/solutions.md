@@ -18,6 +18,43 @@ Of course, these are liable to become outdated themselves. But hey, one day 1 of
 <br>
 
 
+## Hanging localhost Port
+
+| encountered | topics |
+| :---------- | :----- |
+| 2025 January 21 | VSCode / Windows / web / bug |
+
+### Issue
+- `npm run dev` started server on `localhost:5173`
+- VSCode closed?
+- `npm run dev` again now started server on `localhost:5174`
+- No way to close or kill hanging terminal in VSCode
+
+### Solution
+Command line:
+
+```bash
+netstat -ano | findstr :8080
+```
+
+Look for `LISTENING` PID, then run:
+
+```bash
+taskkill /pid <PID> /F
+```
+
+### Notes
+
+- Need `/F` to forcefully kill task
+
+### Sources
+
+- [StackOverflow<sup>↗</sup>](https://stackoverflow.com/questions/8688949/how-to-close-tcp-and-udp-ports-via-windows-command-line)
+
+
+<br>
+
+
 ## Slideshow Background
 
 | encountered | topics |
@@ -26,8 +63,8 @@ Of course, these are liable to become outdated themselves. But hey, one day 1 of
 
 ### Issue
 - Set background to Slideshow
-- Switch virtual desktops (Ctrl+Win+Left/Right)
-- Background reverts to Spotlight??
+- Switched virtual desktops (Ctrl+Win+Left/Right)
+- Background reverted to Spotlight??
 
 ### Solution
 - Revert background to non-slideshow
@@ -39,4 +76,4 @@ Of course, these are liable to become outdated themselves. But hey, one day 1 of
 - Right click desktop » next background
 
 ### Sources
-[Microsoft Support Forum<sup>↗</sup>](https://answers.microsoft.com/en-us/windows/forum/all/my-desktop-background-keeps-switching-from/5ca94a33-7dae-494e-b36a-70eeafcbfae8?page=3)
+- [Microsoft Support Forum<sup>↗</sup>](https://answers.microsoft.com/en-us/windows/forum/all/my-desktop-background-keeps-switching-from/5ca94a33-7dae-494e-b36a-70eeafcbfae8?page=3)
