@@ -19,7 +19,7 @@ So, here we go!
 ## Antiquity – Electronic
 
 ### Discovering Music
-I discovered I liked music – that is, noticed it existed and that I wanted to actively listen to it – while watching [.io games](~) videos on YouTube (especially by [iXPLODE](../../~writing/origins.md#Conformity)). I must’ve finally realised I could find links to the songs in the descriptions of videos, and I stumbled across Elektronomia, the first artist I grew attached to.
+I discovered I liked music – that is, noticed it existed and that I wanted to actively listen to it – while watching .io games videos on YouTube (especially by [iXPLODE](../../~writing/origins.md#Conformity)). I must’ve finally realised I could find links to the songs in the descriptions of videos, and I stumbled across Elektronomia, the first artist I grew attached to.
 
 ### Elektronomia
 
