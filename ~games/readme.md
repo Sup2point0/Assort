@@ -17,7 +17,7 @@ I don’t think I can really class as a hardcore gamer – I end up making games
 
 ## Rhythm Games
 
-I got *really* into rhythm games during a summer camp in 2023. It started with an attempt in an arcade, followed by me trying [*Phigros*](~) on my friend’s iPad, and finally [*osu!*](~) on someone’s gaming laptop. I fell into it way quicker than I could’ve ever imagined.
+I got *really* into rhythm games during a summer camp in 2023. It started with an attempt in an arcade, followed by me trying [*Phigros*](https://www.reddit.com/r/phigrosGame) on my friend’s iPad, and finally [*osu!*](https://osu.ppy.sh/) on someone’s gaming laptop. I fell into it way quicker than I could’ve ever imagined.
 
 In summer 2024, I started trying out other rhythm games too. I searched for them all over arcades while in China, in particular looking for CHUNITHM, a rhythm game which I’d heard (idek how) was really rare, but really fun. I also downloaded Arcaea and Deemo. I realise all these rhythm games are quite different in style (I think that was my unconscious reasoning when picking which to try), which makes it quite refreshing to flit between them!
 
