@@ -40,6 +40,19 @@ Assort: *archaic* place in a group; classify.
 
 Ayo, archaic?
 
+### Are the dates real?
+Of course they’re real :D
+
+You don’t have to believe me, of course. But I include dates on pages for myself. So that I can look back and see when I made everything I did. And I strive to include as precise a date as I can for the really old and miscellaneous stuff, because for those even the specific time of day can incite a fond memory ^v^
+
+### Why is the site design so trash?
+Aww =(
+
+If you think the site design has issues or could be improved, [let me know on GitHub] and I’ll do my best to improve it. But at the end of the day, this is my wiki, so I decide how I want it to look :v
+
+### Why doesn’t the site work?
+Ah, if there’s a technical issue, then [definitely let me know on GitHub]. I’m still trying to work stuff out on mobile browsers, particularly Safari. The JavaScript always breaks, it’s really frustrating. I think it’s to do with top-level `await`.
+
 #### What other questions could you ask?
 Idk, people always manage to find new ones.
 
