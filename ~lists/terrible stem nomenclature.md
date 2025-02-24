@@ -8,3 +8,6 @@ Scientists and mathematicians are infamous for being absolutely terrible at nami
 
 ### rarefaction
 Ew.
+
+### what is “collinear”
+Co-linear. English did not English.
