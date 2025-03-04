@@ -242,6 +242,9 @@ as *productively unproductive*
 ## scaur
 
 
+## skirk
+
+
 ## smh my head
 
 ### Remark
@@ -287,6 +290,8 @@ Currently lacking a meaning! I used it somewhere but have now forgotten what I i
 ### Etymology
 
  - Influenced by *splotch* and *spot*.
+
+## squirly
 
 
 ## *yeup*
