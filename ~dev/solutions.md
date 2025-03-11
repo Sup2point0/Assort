@@ -43,6 +43,19 @@ Look for `LISTENING` PID, then run:
 taskkill /pid <PID> /F
 ```
 
+### Newer Solution
+Command line:
+
+```bash
+npx kill-port <PORT>
+```
+
+If multiple ports have been hanging:
+
+```bash
+npx kill-port 517*
+```
+
 ### Notes
 
 - Need `/F` to forcefully kill task
