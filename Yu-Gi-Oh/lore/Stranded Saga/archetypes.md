@@ -3,7 +3,7 @@
 > [!Note]
 > It would be ridiculous to create all the cards for all the archetypes in the Stranded Saga (even for me), so most are documented here instead of their own separate file in [archetypes](../../archetypes).
 
-The archetypes of the Stranded Saga can broadly be divided into 2 halves – protagonist and antagonist – where the cards in each archetype are designed to sometimes work together within their half, and sometimes counter the opposite the other half, whether directly or indirectly. Not all cards have overlapping or synergising effects, allowing each archetype to maintain its own character, but the links and crossovers between them enables the potential of mixing them interchangeably into a single cohesive deck.
+The archetypes of the *Stranded Saga* can broadly be divided into 2 halves – *protagonist* and *antagonist*. The cards in each half are often designed to work well together and/or counter the opposite half, whether directly or indirectly. This doesn’t mean all cards have overlapping or synergising effects, so each archetype can still keep its own character; but the links and crossovers between them does unlock the potential of mixing them into a single cohesive deck.
 
 <table>
   <tr>
@@ -161,6 +161,7 @@ Nerra, Affine Vitakinetic
 Topo Tychis, Affine Felixus  
 Xeros, Affine Superior  
 Vinita Arkhelm, Affine Legend  
+Hyakil Chratos, Affine Eye  
 
 </details>
 
@@ -168,6 +169,7 @@ Vinita Arkhelm, Affine Legend
   <summary> <b> Spell/Traps </b> </summary>
 
 Affine Legacy  
+Enyx Tower of the Frozen Winds  
 
 </details>
 
