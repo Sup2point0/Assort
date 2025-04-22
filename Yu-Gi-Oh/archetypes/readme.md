@@ -30,8 +30,8 @@ Aquily
 &emsp; Aquilyra  
 &emsp; Aquilynx  
 Arachnis  
-Aversus
 AVERTRON  
+&emsp; Aversus  
 [Battle Sheep](Battle%20Sheep.md)  
 Cryptron  
 &emsp; Decryptron  
@@ -45,16 +45,23 @@ Ephemeral
 Eternal King  
 &emsp; Eternal King Dragon  
 &emsp; Eternal King Servant  
+Fallen  
+Forsaken  
 [Fractured](Fractured.md)  
 [Galactron](Galactron.md)  
 [GUYS](GUYS.md)  
 &emsp; [METEOR](METEOR.md)  
+Harmonic  
+&emsp; EN-Harmonic  
+&emsp; IN-Harmonic  
 Hypno-Eyes  
 [Immuni](Immuni.md)  
 &emsp; [Immunicipality](Immunicipality.md)  
 &emsp; [Immunit](Immunit.md)  
 &emsp; [Immunition](Immunition.md)  
 Inkurzen  
+Integration  
+Invictus  
 [Kinetic Warrior](Kinetic%20Warrior.md)  
 [**k-Knight**](k-Knight.md)  
 &emsp; [Tekk-Knight](Tekk-Knight.md)  
@@ -73,7 +80,11 @@ Manifestation
 &emsp; Next-Gen Processlayer  
 &emsp; Next-Gen Raidraptor  
 [Ninjato](Ninjato.md)  
+N#XUS  
+&emsp; ::  
+&emsp; :::  
 Ominous  
+Opskit  
 Overthink  
 Quaternion  
 Quick  
