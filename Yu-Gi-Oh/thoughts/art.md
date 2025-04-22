@@ -27,7 +27,7 @@ The child inside is freaking out rn.
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> Maximum classical <em>Yu-Gi-Oh!</em>, in every way possible. Killer pose, killer colours, killer art style. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -49,7 +49,7 @@ The child inside is freaking out rn.
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> Maximum modern <em>Yu-Gi-Oh!</em>, in the best way possible. <em>So cool</em>. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -60,7 +60,7 @@ The child inside is freaking out rn.
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> It just radiates perfection. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -71,7 +71,7 @@ The child inside is freaking out rn.
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> Something about the lightning is just so juicy. All of the <em>Mathmech</em> monsters are exquisitely intricate. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -82,7 +82,7 @@ The child inside is freaking out rn.
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> What do you even say anymore. </td>
   </tr>
 </table>
 
@@ -91,6 +91,8 @@ The child inside is freaking out rn.
 
 
 ## Cool
+
+Peak *Yu-Gi-Oh!* art.
 
 <table>
   <tr>
@@ -113,7 +115,7 @@ The child inside is freaking out rn.
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> That angle makes you inhale. It’s so intense. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -135,7 +137,7 @@ The child inside is freaking out rn.
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> I love Clear Wing’s design. Definitely the coolest out of the dimension dragons. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -146,7 +148,7 @@ The child inside is freaking out rn.
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> My favourite Dark Magician variant. Exudes coolness. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -168,7 +170,7 @@ The child inside is freaking out rn.
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> As a meta card it doesn’t get looked at closely too much, but the way <a target="_blank" href="https://yugipedia.com/wiki/Cyber_Dragon_Infinity">Cyber Dragon Infinity</a>’s crumbling is really cool. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -179,7 +181,7 @@ The child inside is freaking out rn.
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> Another killer angle. Conveys the raw power so well. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -190,7 +192,7 @@ The child inside is freaking out rn.
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> Awesome in a kinda low-key way. Check <em>this</em> out. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -201,7 +203,7 @@ The child inside is freaking out rn.
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> YES. <em>That</em> is how you pose an ace Monster. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -212,7 +214,7 @@ The child inside is freaking out rn.
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> My favourite pose of all the Sky Striker ace variants. Yes, the sleek long missile launcher and stilts do help. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -256,7 +258,7 @@ The child inside is freaking out rn.
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> Might crumble of cuteness </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -311,7 +313,7 @@ I’m losing my eyes in them #.#
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> Actually crumbling from cuteness </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -333,7 +335,7 @@ I’m losing my eyes in them #.#
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> No comment. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -344,7 +346,7 @@ I’m losing my eyes in them #.#
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> MY EYES </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -355,7 +357,7 @@ I’m losing my eyes in them #.#
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> Yes!! </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -366,7 +368,7 @@ I’m losing my eyes in them #.#
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> Nooo comment. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -388,7 +390,7 @@ I’m losing my eyes in them #.#
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> Colour!!! </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -399,7 +401,7 @@ I’m losing my eyes in them #.#
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> Visas, Visas, Visas. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -410,7 +412,7 @@ I’m losing my eyes in them #.#
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> Dogmatika art is elite. </td>
   </tr>
 </table>
 
@@ -432,7 +434,7 @@ These are truly special.
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> COLOURS!!! </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -443,7 +445,7 @@ These are truly special.
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> Oh, my. How could I ever not love Branded lore. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -498,7 +500,7 @@ I don’t even know what to say anymore. Such a feast for the eyes. The detail i
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> This genuinely leaves me speechless. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -520,7 +522,7 @@ I don’t even know what to say anymore. Such a feast for the eyes. The detail i
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> This is unreal. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -564,7 +566,7 @@ I don’t even know what to say anymore. Such a feast for the eyes. The detail i
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> WHAT DID I SAY ABOUT DOGMATIKA ART. ELITE. ABSOLUTELY ELITE. </td>
   </tr>
 </table>
 
@@ -595,7 +597,7 @@ I don’t even know what to say anymore. Such a feast for the eyes. The detail i
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> Angle. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -606,7 +608,7 @@ I don’t even know what to say anymore. Such a feast for the eyes. The detail i
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> Angle. Colours. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -650,7 +652,7 @@ I don’t even know what to say anymore. Such a feast for the eyes. The detail i
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> Everything. </td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -672,7 +674,7 @@ I don’t even know what to say anymore. Such a feast for the eyes. The detail i
     </th>
   </tr>
   <tr>
-    <td> </td>
+    <td> Hey Visas, Michael here. </td>
   </tr>
 </table>
 
