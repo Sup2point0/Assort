@@ -12,8 +12,7 @@ It seems I cannot for the life of me stop creating custom cards. Even after I th
 
 So, here are all the archetypes of custom cards I’ve created – although this it isn’t even all of them, since some cards don’t belong to archetypes, and some archetypes I haven’t added to the list yet :v
 
-> [!Tip]
-> Especially developed pages are **weighted**, so there’ll be more to explore in those.
+Especially developed pages are **weighted**, so there’ll be more to explore in those. Theoretical archetypes are in *italics*. Deprecated archetypes are ~~struckthrough~~.
 
 
 <br>
@@ -25,29 +24,32 @@ So, here are all the archetypes of custom cards I’ve created – although this
 Antarctic  
 [Antarctron](Antarctron.md)  
 Affectis  
+Allura  
 Apocalyptus  
-Aquily  
-&emsp; Aquilyra  
-&emsp; Aquilynx  
+~~Aquily~~  
+&emsp; ~~Aquilyra~~  
+&emsp; ~~Aquilynx~~  
 Arachnis  
+Arceus  
 AVERTRON  
 &emsp; Aversus  
 [Battle Sheep](Battle%20Sheep.md)  
-Cryptron  
-&emsp; Decryptron  
-&emsp; Encryptron  
+*Cryptron*  
+&emsp; *Decryptron*  
+&emsp; *Encryptron*  
 [**Darquess**](Darquess.md)  
 [Dead-Eyes](Dead-Eyes.md)  
 Deaden  
+Disillusioned  
 Dragmatika  
 [Dystopia](Dystopia.md)  
 Ephemeral  
 Eternal King  
 &emsp; Eternal King Dragon  
 &emsp; Eternal King Servant  
-Fallen  
+*Fallen*  
 Forsaken  
-[Fractured](Fractured.md)  
+Fractured  
 [Galactron](Galactron.md)  
 [GUYS](GUYS.md)  
 &emsp; [METEOR](METEOR.md)  
@@ -55,10 +57,10 @@ Harmonic
 &emsp; EN-Harmonic  
 &emsp; IN-Harmonic  
 Hypno-Eyes  
-[Immuni](Immuni.md)  
-&emsp; [Immunicipality](Immunicipality.md)  
-&emsp; [Immunit](Immunit.md)  
-&emsp; [Immunition](Immunition.md)  
+[*Immuni*](Immuni.md)  
+&emsp; [*Immunicipality*](Immunicipality.md)  
+&emsp; [*Immunit*](Immunit.md)  
+&emsp; [*Immunition*](Immunition.md)  
 Inkurzen  
 Integration  
 Invictus  
@@ -71,6 +73,8 @@ Invictus
 &emsp; &emsp; [Dark-Knight](Dark-Knight.md)  
 [Lightning](Lightning.md)  
 Manifestation  
+**Mirrormage**  
+Necroblade  
 [Neuralliance](Neuralliance.md)  
 [Next-Gen](Next-Gen.md)  
 &emsp; [Next-Gen A-to-Z](Next-Gen%20A-to-Z.md)  
@@ -83,18 +87,19 @@ Manifestation
 N#XUS  
 &emsp; ::  
 &emsp; :::  
-Ominous  
+Oblivion  
+*Ominous*  
 Opskit  
 Overthink  
 Quaternion  
 Quick  
 [**Rubic**](Rubic.md)  
 [Shadow](Shadow.md)  
-[Shattered](Shattered.md)  
+Shattered  
 Spiritual  
 [**Soul**](Soul.md)  
 &emsp; [Soul Shard](Soul.md)  
-[Stranded](Stranded.md)  
+[*Stranded*](Stranded.md)  
 &emsp; [Aetern](Aetern.md)  
 &emsp; &emsp; [Aeternal](Aeternal.md)  
 &emsp; &emsp; [Aeternity](Aeternity.md)  
