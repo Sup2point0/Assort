@@ -280,7 +280,7 @@ The Monster also grants the protection effect of the [Synchro aces](#High-Level-
 </table>
 
 ### High-Level Synchro Monsters
-[Soul Swordsman](#Ritual-Monsters) and [Soul Dragon](#Ritual-Monsters) evolve into [Soul Shard Swordsman](../cards/monsters/synchro/Soul%20Shard%20Swordsman.md) and [Soul Shard Dragon](../cards/monsters/synchro/Soul%20Shard%20Dragon.md), Lv9 Synchro Tuners with significantly higher ATK and a far more dangerous disruptive effects.
+[Soul Swordsman](#Ritual-Monsters) and [Soul Dragon](#Ritual-Monsters) evolve into [Soul Shard Swordsman](../cards/monsters/synchro/Soul%20Shard%20Swordsman.md) and [Soul Shard Dragon](../cards/monsters/synchro/Soul%20Shard%20Dragon.md), Lv9 Synchro Tuners with significantly higher ATK and far more dangerous disruptive effects.
 
 They require their Ritual counterpart and any number of *Soul Shard* Monsters as Material – which could be 2 [Soul Shard](#Soul-Shard)s, 1 [Soul Fragment](#Soul-Shard), or even a Lv2 [Soul Shard Synchron](#Tuners) – and have the condition that they must first be Synchro Summoned with exactly those Materials, preventing them from being cheated out as easily.
 
@@ -404,7 +404,7 @@ There are quite a few ‘consistency’ or ‘driver’ Spells that unlock acces
   <tr>
     <th> notes </th>
     <td> self-recursing, can even search itself </td>
-    <td> can lead to ridiculous card advantage through both drawing *and* milling </td>
+    <td> can lead to ridiculous card advantage through both drawing <em>and</em> milling </td>
     <td> allows for more precise searching, while also milling </td>
     <td> helpful consistency boost, recovers a <em>Soul</em> Spell/Trap from the Grave </td>
     <td> helpful for comebacks or combos, recovers a banished <em>Soul</em> card </td>
@@ -486,7 +486,7 @@ Soul Rupture happens to synergise nicely with Soul Fracture, in that if the oppo
 
 [Soul Virus](#Traps) slowly eats away at the opponent’s Deck and Extra Deck. It contributes little to the game and barely interacts with the rest of the archetype, but can provide spare [Soul Counters](#Soul-Counters), both by itself or as another card for the [Field Spells](#Lingering-Spells) to place Soul Counters on. Most importantly, it is very difficult to remove, and becomes very damaging indeed if left for too long – before the opponent has realised it, they’ve lost several of their important cards.
 
-[Soul Scream](#Traps) is the archetypal Counter Trap, with the power to negate *all effects* in a Chain, though like [Soul Corruption](#Miscellaneous-Spells), its cost requires setup. While this can be extremely impactful, it doesn’t discriminate between each player, so will render the entire Chain ineffective; as such, it’s most effective in response to an opponent’s [SEGOC<sup>↗</sup>](https://yugipedia.com/wiki/Simultaneous_Effects), like [Solemn Silence](../cards/traps/Solemn%20Silence.md)
+[Soul Scream](#Traps) is the archetypal Counter Trap, with the power to negate *all effects* in a Chain, though like [Soul Corruption](#Miscellaneous-Spells), its cost requires setup. While this can be extremely impactful, it doesn’t discriminate between each player, so will render the entire Chain ineffective; as such, it’s most effective in response to an opponent’s [SEGOC<sup>↗</sup>](https://yugipedia.com/wiki/Simultaneous_Effects), like [Solemn Silence](../cards/traps/Solemn%20Silence.md).
 
 <table>
   <tr>
@@ -518,7 +518,7 @@ The archetype is also designed entirely to go second – since the key enablers,
 Despite its ability to swarm the field with sacrifices or Material for Ritual or Synchro Summons, the archetype likely struggles to OTK. Instead, it tends towards a more comeback-oriented playstyle, with a myriad of removal effects to deal with any ace Monsters the opponent throws.
 
 ### Combos
-With such diversity, the archetype’s playstyle is highly non-linear – to encapsulate it informally, *just spam bodies and hope for the best*.
+With such diversity, the archetype’s playstyle is highly nonlinear – to encapsulate it informally, *just spam bodies and hope for the best*.
 
 That being said, there are indeed many cards that are integral to being able to combo. Naturally, that includes [Soul Synchron](#Tuners), the only easily accessible Main Deck Tuner; [Soul Shard](#Soul-Shard), which provides spare Material and access to *Soul Shard* Monsters like [Soul Shard Synchron](#Tuners); and having [Soul Knight](#Low-Level-Synchro-Monsters) in circulation to consistently provide a body is a huge bonus.
 
@@ -545,7 +545,7 @@ Other than that, the archetype’s greatest weakness is consistency. If it gets 
 
 ### Notes
 - The cards are ordered in a logical order rather than by properties.
-- The number of copies are not exact – they only indicate a card’s place within the deck.
+- The number of copies are not exact – they only indicate a card’s approximate status within the deck.
 - The staples provided are not exhaustive – they are only those that synergise especially well with the deck.
 
 <details open>
