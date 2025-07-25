@@ -30,37 +30,37 @@ An archetype of primarily DARK Warrior Monsters, revolving around the ace Monste
 <details open>
   <summary> <b> Main Deck </b> </summary> <br>
 
-| card | Level | Scale | ATK/DEF | Type | Ability | Attribute |
-| :--- | :---- | :---- | :------ | :--- | :------ | :-------- |
-| [Ninjato](../cards/monsters/standard/–.md) | 4 ★★★★ | | 1700 / 1200 | Warrior | | DARK |
-| [Silent Assassin](../cards/monsters/standard/–.md) | 5 ★★★★★ | | 2100 / 1300 | Warrior | | DARK |
-| [Wizardo](../cards/monsters/standard/–.md) | 4 ★★★★ | | 1600 / 1900 | Spellcaster | | DARK |
-| [Faithful Cleric](../cards/monsters/standard/–.md) | 3 ★★★ | 2 ◈ | 600 / 2000 | Spellcaster Pendulum | Tuner | LIGHT |
-| [Berserker Blader](../cards/monsters/standard/–.md) | 4 ★★★★ | | 1800 / 1600 | Warrior | Gemini | FIRE |
-| [Spellblade](../cards/monsters/standard/–.md) | 5 ★★★★★ | 3 ◈ | 2100 / 2300 | Spellcaster Pendulum Normal | | LIGHT |
-| [Ghostblade](../cards/monsters/standard/–.md) | 5 ★★★★★ | 6 ◈ | 2300 / 2100 | Spellcaster Pendulum Normal | | DARK |
-| [Arcane Battlemage](../cards/monsters/standard/–.md) | 7 ★★★★★★★ | 7 ◈ | 2700 / 2100 | Spellcaster Pendulum | | LIGHT |
-| [Legendary Dragon Spirit](../cards/monsters/standard/–.md) | 8 ★★★★★★★★ | | 0 / 3300 | Dragon | | LIGHT |
+| card | Level | ATK/DEF | Type | Ability | Attribute |
+| :--- | :---- | :------ | :--- | :------ | :-------- |
+| [Ninjato](../cards/monsters/standard/–.md) | 4 ★★★★ | 1700 / 1200 | Warrior | | DARK |
+| [Silent Assassin](../cards/monsters/standard/–.md) | 5 ★★★★★ | 2100 / 1300 | Warrior | | DARK |
+| [Wizardo](../cards/monsters/standard/–.md) | 4 ★★★★ | 1600 / 1900 | Spellcaster | | DARK |
+| [Faithful Cleric](../cards/monsters/standard/–.md) | 3 ★★★ <br> 2 ◈◈ | 600 / 2000 | Spellcaster Pendulum | Tuner | LIGHT |
+| [Berserker Blader](../cards/monsters/standard/–.md) | 4 ★★★★ | 1800 / 1600 | Warrior | Gemini | FIRE |
+| [Spellblade](../cards/monsters/standard/–.md) | 5 ★★★★★ <br> 3 ◈◈◈ | 2100 / 2300 | Spellcaster Pendulum Normal | | LIGHT |
+| [Ghostblade](../cards/monsters/standard/–.md) | 5 ★★★★★ <br> 6 ◈◈◈◈◈◈ | 2300 / 2100 | Spellcaster Pendulum Normal | | DARK |
+| [Arcane Battlemage](../cards/monsters/standard/–.md) | 7 ★★★★★★★ <br> 7 ◈◈◈◈◈◈◈ | 2700 / 2100 | Spellcaster Pendulum | | LIGHT |
+| [Legendary Dragon Spirit](../cards/monsters/standard/–.md) | 8 ★★★★★★★★ | 0 / 3300 | Dragon | | LIGHT |
 
 </details>
 
 <details open>
   <summary> <b> Extra Deck </b> </summary> <br>
 
-| card | Level/Rank/Link | Scale | ATK/DEF | Type | Attribute | Material |
-| :--- | :-------------- | :---- | :------ | :--- | :-------- | :------- |
-| [Ninjax](../cards/monsters/–/–.md) | 8 ★★★★★★★★ | | 2700 / 2300 | Warrior Fusion | DARK | 3 ‘Ninjato’ Monsters, including *Ninjato* |
-| [Ninjato of the Silent Arts](../cards/monsters/–/–.md) | 7 ★★★★★★★ | | 2600 / 1900 | Warrior Fusion | DARK | 1 ‘Ninjato’ Monster + *Silent Assassin* or 1 DARK Monster |
-| [Ninjato of the Mystical Arts](../cards/monsters/–/–.md) | 6 ★★★★★★ | | 2100 / 2700 | Warrior Fusion | DARK | 1 ‘Ninjato’ Monster + *Wizardo* or 1 Spell/Trap |
-| [Ninjato of the Sealing Arts](../cards/monsters/–/–.md) | 5 ★★★★★ | | 2300 / 1700 | Warrior Fusion | DARK | 1 ‘Ninjato’ Monster + *Berserker Blader* or 1 Normal Monster |
-| [Ninjato of the Arcane Arts](../cards/monsters/–/–.md) | 9 ★★★★★★★★★ | 9 ◈ | 2900 / 2300 | Warrior Fusion Pendulum | DARK | 1 ‘Ninjato’ Monster + *Arcane Battlemage* or 1 Pendulum Monster |
-| [Ninjato of the Master Arts](../cards/monsters/–/–.md) | 10 ★★★★★★★★★★ | 11 ◈ | 3300 / 2600 | Warrior Fusion Pendulum | DARK | 1 ‘Ninjato’ Monster + 1 Ritual or Extra Deck Monster |
-| [Ninjato of the Sacred Arts](../cards/monsters/–/–.md) | 7 ★★★★★★★ | | 1900 / 2300 | Warrior Synchro | LIGHT | 1 ‘Ninjato’ Monster + *Faithful Cleric* or 1 Tuner |
-| [Ninjato of the Shadow Arts](../cards/monsters/–/–.md) | 4 ★★★★ | | 1900 / 2300 | Warrior Xyz | DARK | 2 Level 4 Monsters, including *Ninjato* |
-| [Dancing Rain](../cards/monsters/–/–.md) | Link-1 | | 1200 | Warrior Link | WATER | 1 Level 3 or 4 Warrior or Spellcaster Monster |
-| [Architechnician](../cards/monsters/–/–.md) | Link-2 | | 1800 | Cyberse Link | EARTH | 2 Monsters with different names |
-| [Unspecialized](../cards/monsters/–/–.md) | Link-3 | | 2500 | Warrior Link | LIGHT | 3 Monsters with different Types or Attributes, including a Normal Monster |
-| [Lone Autumn Leaf](../cards/monsters/–/–.md) | 10 ★★★★★★★★★★ | | 3000 / 3000 | Spellcaster Fusion | LIGHT | 1 Level 7 or higher “Battlemage” Monster + 1 Dragon Monster |
+| card | Level/Rank/Link | ATK/DEF | Type | Attribute | Material |
+| :--- | :-------------- | :------ | :--- | :-------- | :------- |
+| [Ninjax](../cards/monsters/–/–.md) | 8 ★★★★★★★★ | 2700 / 2300 | Warrior Fusion | DARK | 3 ‘Ninjato’ Monsters, including *Ninjato* |
+| [Ninjato of the Silent Arts](../cards/monsters/–/–.md) | 7 ★★★★★★★ | 2600 / 1900 | Warrior Fusion | DARK | 1 ‘Ninjato’ Monster + *Silent Assassin* or 1 DARK Monster |
+| [Ninjato of the Mystical Arts](../cards/monsters/–/–.md) | 6 ★★★★★★ | 2100 / 2700 | Warrior Fusion | DARK | 1 ‘Ninjato’ Monster + *Wizardo* or 1 Spell/Trap |
+| [Ninjato of the Sealing Arts](../cards/monsters/–/–.md) | 5 ★★★★★ | 2300 / 1700 | Warrior Fusion | DARK | 1 ‘Ninjato’ Monster + *Berserker Blader* or 1 Normal Monster |
+| [Ninjato of the Arcane Arts](../cards/monsters/–/–.md) | 9 ★★★★★★★★★ <br> 9 ◈◈◈◈◈◈◈◈◈ | 2900 / 2300 | Warrior Fusion Pendulum | DARK | 1 ‘Ninjato’ Monster + *Arcane Battlemage* or 1 Pendulum Monster |
+| [Ninjato of the Master Arts](../cards/monsters/–/–.md) | 10 ★★★★★★★★★★ <br>  11 ◈◈◈◈◈◈◈◈◈◈◈ | 3300 / 2600 | Warrior Fusion Pendulum | DARK | 1 ‘Ninjato’ Monster + 1 Ritual or Extra Deck Monster |
+| [Ninjato of the Sacred Arts](../cards/monsters/–/–.md) | 7 ★★★★★★★ | 1900 / 2300 | Warrior Synchro | LIGHT | 1 ‘Ninjato’ Monster + *Faithful Cleric* or 1 Tuner |
+| [Ninjato of the Shadow Arts](../cards/monsters/–/–.md) | 4 ★★★★ | 1900 / 2300 | Warrior Xyz | DARK | 2 Level 4 Monsters, including *Ninjato* |
+| [Dancing Rain](../cards/monsters/–/–.md) | Link-1 | 1200 | Warrior Link | WATER | 1 Level 3 or 4 Warrior or Spellcaster Monster |
+| [Architechnician](../cards/monsters/–/–.md) | Link-2 | 1800 | Cyberse Link | EARTH | 2 Monsters with different names |
+| [Unspecialized](../cards/monsters/–/–.md) | Link-3 | 2500 | Warrior Link | LIGHT | 3 Monsters with different Types or Attributes, including a Normal Monster |
+| [Lone Autumn Leaf](../cards/monsters/–/–.md) | 10 ★★★★★★★★★★ | 3000 / 3000 | Spellcaster Fusion | LIGHT | 1 Level 7 or higher “Battlemage” Monster + 1 Dragon Monster |
 
 </details>
 
