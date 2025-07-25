@@ -171,7 +171,7 @@ Ninjato has 5 regular Fusion evolutions and 1 final Fusion form. Each regular ev
 
 It’s worth noting these Fusion upgrades do not list “Ninjato” as Material, only “Ninjato” Monsters – meaning we can fuse Fusions into other Fusions if need be.
 
-### Assassin
+### Silent Arts
 Ninjato’s ace Fusion form is **Ninjato of the Silent Arts**, requiring it to fuse with [Silent Assassin](). Alternatively, we can use a DARK Monster, which is fairly accessible in a *Ninjato* deck, not to mention very common in matchups.[^dark]
 
 [^dark]: DARK is famously the most common Attribute in *Yu-Gi-Oh*.
@@ -358,16 +358,21 @@ This opening sets up an endboard with [Master Arts](#master-arts) with its power
 If more resources are available, it may be viable to Link climb into [Architechnician]() or [Unspecialized]().
 
 #### Full
+Setup:
 - Have **Ninjato** in hand.
   - The [search chain]() is **Ninja Dojo** » **Ninja Manifestation** » **Ninjato**. If all 3 are played at 3, this makes Ninjato a 9-of.
 - Have **Faithful Cleric** in hand.
    - This can be searched by **Spellcaster’s Sanctuary**. If both are played at 3, this makes Cleric a 6-of.
+
+Execution:
 - NS Cleric, unlock extra NS.
 - NS Ninjato, search **Manifestation Magic**.
 - Tune both for **Sacred Arts**, send **Manifestation Manoeuvres** to revive Ninjato.
 - Link Ninjato for **Dancing Rain**.
 - Banish Manoeuvres and Manifestation Fusion. Using effect of Sacred Arts, banish Ninjato from Grave and fuse with Dancing Rain for **Master Arts**.
 - Manifestation Magic to return Sacred Arts for **Arcane Arts**.
+
+Finish:
 - Master Arts can Set Manifestation Fusion for next turn, another Manoeuvres for more Material, Ninja Dojo if it was not in the combo, Ninja Artifice, etc. – whatever’s appropriate for the situation.
 
 ### Strengths
@@ -432,11 +437,11 @@ Along the way, we had some pretty outrageous moments.
 #### Deprecated Fusion Evolutions
 There were originally even more Fusion evolution forms. From memory, these included:
 
-- **Ninjato Knight** (Brisker Knight or a Warrior Monster)
-  - This has been retrained into Ninjato of the Sealing Arts, fusing with Berserker Blader.
-  - **Ninjato of the Rogue Arts**[^rogue] (Darting Rogue or a Flip Monster
-  - **Ninjato of the Advance Arts** (Advance Archer or a Level 5 or higher Monster
-  - **Ninjato of the Healing Arts** (Faithful Cleric or a Tuner Monster)
+- **Ninjato Knight** (*Brisker Knight* or a Warrior Monster)
+  - This has been retrained into [Ninjato of the Sealing Arts](#sealing-arts), fusing with [Berserker Blader]().
+  - **Ninjato of the Rogue Arts**[^rogue] (*Darting Rogue* or a Flip Monster
+  - **Ninjato of the Advance Arts** (*Advance Archer* or a Level 5 or higher Monster
+  - **Ninjato of the Healing Arts** (*Faithful Cleric* or a Tuner Monster)
 
 [^rogue]: Also known as *Ninjato of the Rogue Darts*.
 
@@ -445,7 +450,7 @@ I removed them since it was difficult to find meaningful effects for them, and I
 #### Deprecated Manifestation Spells
 In maybe the 3rd or 4th revision, I introduced the manifestation (Fusion-switching) gimmick. Originally, I created 7 Manifestation Spells. Yup, 7. All with different criteria, some increasing the Level, some decreasing it, some by 1, some by 2.
 
-Ther art was the same as the current *Manifestation* card art, but with each card in different colours (blue, green, yellow, etc.). 1 of the Spellz returned a *Ninjato* Fusion Monster to the Extra Deck to then Summon 2 others at once. A bit strong, ngl.
+Ther art was the same as the current *Manifestation* card art, but with each card in different colours (blue, green, yellow, etc.). 1 of the Spells returned a *Ninjato* Fusion Monster to the Extra Deck to then Summon 2 others at once. A bit strong, ngl.
 
 I pretty quickly realised how impractical and inconsistent it was to have 7 different Manifestation Spells (all of which require a Fusion to already be on the field...), and I retired the suite in favour of 2 much simpler Spells – Manifestation Magic to fuse, and Manifestation Magic to change.
 
@@ -483,7 +488,7 @@ The first version of [Ninjax](#ninjax) made it unaffected by the opponent’s Mo
 I found this made them too consistent and recyclable, and while they don’t do much by themselves, the constant cycling of hand advantage still felt too strong. With the current restriction, the Summons are cut down a lot, and they’re not instantly usable on recovery, so there’s a lot more thought needed for resource management.
 
 #### Nerf: Manifestation Manoeuvres
-[Manifestation Manoeuvres](#manifestation-trap)’s secondary effect used to send the *Manifestation* Spell to the Grave, thereby acting as a search by burying it from the Deck in the early game. (The Spell can then recover itself through its secondary effect.) The strength of this effect passed by me for a while, until I realised how well it synergised with [Sacred Arts]() and it became part of the full opening combo.
+[Manifestation Manoeuvres](#manifestation-trap)’s secondary effect used to send the *Manifestation* Spell to the Grave, thereby acting as a search by burying it from the Deck in the early game. (The Spell can then recover itself through its secondary effect.) The strength of this effect passed by me for a while, until I realised how well it synergised with [Sacred Arts](#synchro--xyz) and it became part of the full opening combo.
 
 I had known it was probably too strong for a while, but I deemed it too fundamental to the Deck’s combos and versatility. I also couldn’t see how I could meaningfully nerf it without totally killing the card. Eventually, someone actually pointed out in a Duel (not too politely) that the card was kinda broken.
 
@@ -509,3 +514,6 @@ I really thought over how I could balance it, and I realised banising the *Manif
   - A lot of the card art (for the Main Deck Monsters) is taken from the 全职高手 manga (manhua).
 - Faithful Cleric was renamed to **Faithful Clerique** when I was into Antarctican English. (It’s now been reverted.)
 - Wizardo is a reference to the same card in [*Victory!*]().
+
+
+<br>
