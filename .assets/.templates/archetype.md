@@ -130,4 +130,10 @@ title=""> </a>
 
 ## Trivia
 
-‘’ ◈ ⚡︎ ∞ ✦ ⟡ ↵
+‘’
+⚡︎ Quick
+∞ Continuous
+✦ Field
+◈ Ritual
+⟡ Equip
+↵ Counter
