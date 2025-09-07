@@ -18,7 +18,33 @@ Of course, these are liable to become outdated themselves. But hey, one day 1 of
 <br>
 
 
-## Hanging localhost Port
+## Symlink for Nested Unity `.vscode/`
+
+| encountered | topics |
+| :---------- | :----- |
+| 2025 August | VSCode / Windows / Unity |
+
+### Issue
+- If Unity project is not repo root, `.vscode/` folder created by Unity will be nested, which VSCode can’t detect
+
+### Solution
+Create a symlink to map a `.vscode/` folder in the project root to the nested `.vscode/`.
+
+Command line (as admin):
+
+```bash
+mklink /d <dest> <source>
+```
+
+### Sources
+- AI LLM for solution
+- [Microsoft Learn](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/mklink) for command
+
+
+<br>
+
+
+## Hanging `localhost` Port
 
 | encountered | topics |
 | :---------- | :----- |
