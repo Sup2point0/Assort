@@ -23,6 +23,9 @@ Oh yeah, and yeah no, I’m aware half of them don’t make any sense at all, an
 <!-- #SQUARK leave? -->
 ## Index
 
+### 2025
+> Looks like we had quite an occupied year. Didn’t end up finishing any...
+
 ### 2024
 [折磨](折磨.md)  
 [Fractured, Shattered, Hearted](Fractured,%20Shattered,%20Hearted.md)  
