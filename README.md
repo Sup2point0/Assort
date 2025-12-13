@@ -6,11 +6,11 @@
 
 ### Welcome to ***Assort***, an endless wormhole where I keep everything I create!
 
-Here you’ll find all my interests, thoughts, writing, time-wasting, and maybe secrets...
+Here you’ll find all my interests, thoughts, writing, and productive unproductivity...
 
 ---
 
-<a href="https://sup2point0.github.io/Assort">
+<a href="~poetry/assort.md">
   <img
     alt="Assort, Assort"
     width="80%"
@@ -88,7 +88,7 @@ Uppercase and lowercase are simply stylistic choices. Those with `~` are categor
 <br>
 
 
-## License
+## Licence
 
 This is all my own content, so I do claim ownership over it. I’m also aware I have absolutely no means of stopping you from copying it. I think if you’re reading this you probably (maybe) have the integrity to give credit if you do ^v^
 
@@ -100,7 +100,7 @@ I’ve licensed Assort under [CC BY-SA<sup>↗</sup>](https://creativecommons.or
 
 ## Generative AI
 
-See [AI](AI.md)~
+See [AI](AI.md) o7
 
 
 <br>
