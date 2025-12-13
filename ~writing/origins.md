@@ -354,6 +354,32 @@ The word `point` is an expansion of `.`, since `2.0` is read ‘two-point-oh’.
 
 <h2 name="Analysis"> PRISTINE PERFECTION </h2>
 
+Considering the rarity with which `Sup#2.0` can be used as a username on a platform without modification, it is quite special when it does. Visually, it is significantly more distinctive, and very much more appealing, than `Sup2point0` or even `Sup2.0`.
+
+In this section we will aim to answer the following question:
+
+> *Why do I love Sup#2.0 so much?*
+
+### Nominal & Lexical Analysis
+`Sup#2.0` is nontrivial to categorise. It is short in length, but dense. Containing both letters, numbers, and wider punctuation, it is evidently not purely alphanumeric. With the rarely seen `#`, the only fitting category for this is *full flavour*.
+
+A sensible deconstruction splits the username into `Sup` `#` `2.0`, although `Sup` `#2.0` could be argued as a logical deconstruction as well. We will take the former as the canonical deconstruction, considering the etymological context of each segment. Regardless, it is evident the username consists of individual modules which slot together in an orderly fashion, hence we deem it *constructed*.
+
+The only ‘word’ present is `Sup`, and `#` is somewhat too short to be meaningfully categorised. There is also the question of whether to consider `2.0` as a single ‘digit’ or a multi-digit ‘number’. It is clear this username does not fall into any of the common categories defined in [*Structural & Stylistic Features*](...).
+
+Intriguingly, the username has a distinctive symmetry either side of `#`, despite the small width of the `.` which one would expect to significantly reduce the width of the right. The shape of `Sup` and `2.0`, however, are very different, with the left having a declining x-height and the right remaining flat. Due to the lack of correlation, this is functionally neither odd nor even. This symmetry in width but asymmetry in height, we deem *x-symmetrical*.
+
+We conclude that the most effective classification of `Sup#2.0` is an *x-symmetrically constructed high-density full-flavour* username.
+
+### Contextual Analysis
+Visual attractiveness is surely subjective, but there are nevertheless many reasons why Sup#2.0 has always been perfectly attractive to me.
+
+The choice of “Sup” is certainly an interesting one. While it alone does not pack much intrigue or perhaps ‘gravitas’ as an otherwise more dramatic or charged word (take *dawn* or *retribution* as examples), it is very much the `2.0` afterwards that ignites its character.
+
+The aforementioned symmetry has become quite satisfying in graphic design when accrediting works. The symmetry around the `#` gives the whole username a pleasing ‘balance’ – in conjunction with its rather small width, this makes it very flexible for placement anywhere in a page, including on a central axis. The diverse types of characters in the username also unlocks opportunities for ambitious typeface choice, where more of a typeface’s flourish can be revealed than through a purely alphanumeric username. Though I have yet to use this, the modularity of the username also lends itself nicely to varied colourings.
+
+A challenge that does emerge surprisingly often is in the kerning of the `.` in `2.0`. With many typefaces, the apparent space between `.` and `0` appears unforgivably larger than the space between `2` and `.`. Unfortunately, this is often unavoidable and simply a consequence of their drastically different shapes: `2` ends with a sharp edge, while `0` curves in away from the previous character. This issue can be grating at large render sizes, but often vanishes if the text is sufficiently small.
+
 
 <br>
 
@@ -566,6 +592,7 @@ I would like to extend my gratitude towards the following:
 `2023/12/15` We’ve gotta keep going with this. 行くぜ!  
 `2024/02/22` Ok, nvm, we’ll continue this at some later date...  
 `2024/09/04` Damn, we did not keep going with this.  
+`2025/12/13` lmao, we really did not keep going with this.  
 
 
 <br>
