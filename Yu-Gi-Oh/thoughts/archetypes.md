@@ -6,6 +6,7 @@
 | index = yugioh
 | shard = #SHARD / writing / opinion / long
 | clean = angles
+| update = 2025 December 13
 -->
 
 Just laying out my thoughts on all the archetypes in *Yu-Gi-Oh* I’ve faced, watched and understood throughout my time playing. Being such a prolific custom card creator and having created so many archetypes, I find I hold perhaps quite different perspectives to the rest of the playerbase, caring significantly more about design tropes and principles.
@@ -206,7 +207,7 @@ One of the archetypes I respect the most from a conceptual perspective. *This* i
 
 ## HERO
 
-I’m not familiar with the *whole* archetype (and all the lore), so all I have to go off of here is what I see in Master Duel, and, well... it’s pretty repetitive. And also mostly just [Destroyer Phoenix Enforcer<sup>↗</sup>](...) :P
+I’m not familiar with the *whole* archetype (and all the lore), so all I have to go off of here is what I see in Master Duel, and, well... it’s pretty repetitive. And also mostly just [Destroyer Phoenix Enforcer<sup>↗</sup>](https://yugipedia.com/wiki/Destiny_HERO_-_Destroyer_Phoenix_Enforcer) :P
 
 The deck doesn’t do much tbh, and I’m not that much of a fan of the art. I like how they split it into Elemental, Evil, etc. factions tho, it’s a cool way to add more dimensions to an archetype.[^hero-factions] The capitalisation on “HERO” is stylish too.
 
@@ -220,8 +221,8 @@ The deck doesn’t do much tbh, and I’m not that much of a fan of the art. I l
 
 I love this archetype’s existence, because while I have always loved playing unaffecteds,[^kaiju-unaffecteds] I do not think they are healthy for the game, and having more ways to deal with them is not a bad thing. The cards are also very well-designed to be useful but not too unfair,[^kaiju-unfair] preventing multiple from being used and Summoning to the opponent’s field (altho this has become more useful than not in recent years).
 
-[^kaiju-unaffecteds]: [Ultimate Falcon<sup>↗</sup>](...). Actually, I’ve always loved protection of any kind. It just feels a bit stupid when your Ace Monster is so easily destroyed, y’know? Ofc, now I understand there are *other* ways of making a monster good...
-[^kaiju-unfair]: Fairer than [Lava Golem<sup>↗</sup>](...), at least...
+[^kaiju-unaffecteds]: [Ultimate Falcon<sup>↗</sup>](https://yugipedia.com/wiki/Raidraptor_-_Ultimate_Falcon). Actually, I’ve always loved protection of any kind. It just feels a bit stupid when your Ace Monster is so easily destroyed, y’know? Ofc, now I understand there are *other* ways of making a monster good...
+[^kaiju-unfair]: Fairer than [Lava Golem<sup>↗</sup>](https://yugipedia.com/wiki/Lava_Golem), at least...
 
 And of course, as an Ultraman fan since childhood I absolutely adore the references to [Ultraman Belial<sup>↗</sup>](~) and [Dark Lugiel<sup>↗</sup>](~) in [Radian <sup>↗</sup>](https://yugipedia.com/wiki/Radian,_the_Multidimensional_Kaiju), not least the whole theme of ‘kaiju’ itself.
 
