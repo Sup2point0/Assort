@@ -5,12 +5,14 @@
 | style = writing
 | index = writing
 | shard = #INDEX / rambling
+| date = 2023 June 21
+| update = 2025 December 13
 -->
 
 > [!Note]
 > This piece of writing is a bit broken too.
 
-What if the world is broken?
+What if... the world is broken?
 
 So, humanity’s come pretty far.
 
@@ -22,9 +24,9 @@ Now imagine if all of human life – as in, the history of our existence, from t
 
 And so, if that’s the case, is what we need just a total fresh start?
 
-I look at all the stuff, specifically the human constructs, that exist around us – cities, laws, economics, social hierarchy, even language – and I’m both blown away by how we’ve managed to come up with such intricate and broad systems, and yet immensely questioning of whether it’s all... right. We’ve had so much time, generations upon generations, to build upon and tweak all of these things, but perhaps it just wasn’t right from the start, and there’s a better way that we just haven’t realised.
+I look at all the stuff, specifically the human constructs, that exist around us – cities, laws, economics, social hierarchy, even language – and I’m both blown away by how we’ve managed to come up with such intricate and broad systems, and yet immensely questioning of whether it’s all... right. We’ve had so much time, generations upon generations, to build upon and tweak all of these things, and maybe this is the way they’re meant to be. But maybe it isn’t. Perhaps it just wasn’t right from the start, and there’s a better way that we just haven’t realised.
 
-This can happen with anything. A piece of writing (yeah, the irony), typed – constant tweaking, deleting huge chunks at once, relentless restructuring. That part doesn’t flow quite right... right, let’s just wipe it all, and try a different approach. Or a [~].
+This can happen with anything. A piece of writing (yeah, the irony), typed – constant tweaking, deleting huge chunks at once, relentless restructuring. That part doesn’t flow quite right... right, let’s just wipe it all, and try a different approach.
 
 It’s that thing, a tunnel vision of sorts, where fixating on one project for too long restricts your thinking, binds you within a box of your own creation, until everything starts to lose focus and perspective.
 
@@ -32,11 +34,11 @@ Like when making a tier list. It’s unbelievably difficult to remain consistent
 
 Now in the case of humanity, we’ve been doing that... for everything... for millenia... granted, it’s not one person binging at their computer for half an hour, but hey, I think it’s certainly possible that the hive mind of humanity might have closed off windows for itself, by relying too much on tradition or taking things for granted.
 
-Imagine if some fundamental axiom of mathematics turned out to be untrue – or rather, flawed – that’d probably be pretty devastating, and would require an entire update to cascade throughout various areas of maths as we rethink how we... think. Now, this *has* happened, happened plenty, in science, what with all the atomic models and elementary particles. And it’s been fine – we just update our science, and gradually it becomes second nature as everyone accepts it. But doing that with something like society? Surely that’ll be astronomically more difficult. Think of what it would take to
+Imagine if some fundamental axiom of mathematics turned out to be untrue – or rather, flawed – that’d probably be pretty devastating, and would require an entire update to cascade throughout various areas of maths as we rethink how we... think. Now, this *has* happened, happened plenty, in science, what with all the atomic models and elementary particles. And it’s been fine – we just update our science, and gradually it becomes second nature as everyone accepts it. But doing that with something like society? Surely that’ll be astronomically more difficult. Think of what it would take to get the whole world to switch to a 10-day week or make any other drastic change to their lives.
 
 But above all, the one I think about the most, is technological development.
 
-We talk about mathematics, electronics, processing power, space exploration, intelligence (natural and artificial alike) and all, and we rank the development of hypothetical galactic civilisations depending on their ability to harness energy. But here’s the thing – who’s to say these things are universal? This comes down to ‘everything being a human construct’ again. How do we know what applies to us applies to other civilisations; in fact, why should anything be *alive* or *intelligent*? These are all concepts we’ve ourselves defined, but there’s no guarantee they’re applicable or even significant to other civilisations.
+We talk about mathematics, electronics, processing power, space exploration, intelligence (natural and artificial alike) and all, and we rank the development of hypothetical galactic civilisations depending on their ability to harness energy. But here’s the thing – who’s to say these things are universal? This comes down to “everything being a human construct” again. How do we know what applies to us applies to other civilisations; in fact, why should anything be *alive* or *intelligent*? These are all concepts we’ve ourselves defined, but there’s no guarantee they’re applicable or even significant to other civilisations.
 
 Apologies for all the questions, but this is what I mean – we don’t, and really we can’t, know exactly what constitutes ‘development’ on a civilisational level, since we only have ourselves as a reference. And so how do, how *can* we know that we’re on the right track? As with anything, it’s when you *don’t know* what you don’t know that’s most terrifying.
 
