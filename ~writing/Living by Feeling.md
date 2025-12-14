@@ -4,11 +4,12 @@
 | desc = Not everything has to be perfectly precise.
 | index = writing
 | date = 2025 January 12
+| update = 2025 December 13
 -->
 
 There’s a well-known axiom in music production: “Mix with your ears, not your eyes.”
 
-When I first heard this, it made perfect sense to me; my reaction was that sort of “*Oh yeah, of course, right?*” But after mulling over it a bit I realised how true it was – technology, digital tools and numbers are great and all, but if it sounds good, it sounds good. Fully realising this was quite mindblowing for me, and, if you’ll excuse the pun, it really struck a chord.[^struck-chord]
+When I first heard this, it made perfect sense to me; my reaction was that sort of “*Oh yeah, of course, right?*” But after mulling over it a bit I realised how true it was – technology, digital tools and numbers are great and all, but at the end of the day, if it sounds good, it sounds good. Fully realising this was quite mindblowing for me, and, if you’ll excuse the pun, it really struck a chord.[^struck-chord]
 
 [^struck-chord]: I mean, partially also because I realised I did still mix with my eyes in a lot of places like volume automation. But also, yes.
 
@@ -28,4 +29,9 @@ In volume. (Argh, another sound one.) Did you know I only turn the volume on my 
 
 And in life. Live in the moment. Savour the moment. You don’t always need to know the time; just enjoy life as it passes. I often find myself rationalising the progress of the day so much with the time that I find myself restricting my own activities and mindset based on the clock. Again, it’s ludicrous.
 
-Of course, I love numbers. But sometimes, life is more carefree and colourful without them.
+Of course, I love numbers.[^numbers] But sometimes, life is more carefree and colourful without them.
+
+[^numbers]: I am, after all, a mathematician, programmer and scientist :P
+
+
+<br>
