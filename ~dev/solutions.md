@@ -18,6 +18,34 @@ Of course, these are liable to become outdated themselves. But hey, one day 1 of
 <br>
 
 
+## Rename Past *N* Git Commits
+
+| encountered | topics |
+| :---------- | :----- |
+| 2025 December 26 | Git / VSCode |
+
+### Issue
+- Made a few commits in conventional commit format, in a project that does not use conventional commits
+
+### Solution
+Command line:
+
+```bash
+# to go back 3 commits:
+> git rebase -i HEAD~3
+```
+
+In the interactive editor, replace `pick` with `rename`. Note that the commit messages here are purely informational, editing them does nothing.
+
+Close the file. For each commit VSCode will open a new file – edit the commit message on the first line, then close the file. Once all files have been addressed the terminal will return input back to you.
+
+### Sources
+- [StackOverflow<sup>↗</sup>](https://stackoverflow.com/questions/59625255/cant-change-git-commit-message-with-interactive-rebase)
+
+
+<br>
+
+
 ## Symlink for Nested Unity `.vscode/`
 
 | encountered | topics |
@@ -38,7 +66,7 @@ mklink /d <dest> <source>
 
 ### Sources
 - AI LLM for solution
-- [Microsoft Learn](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/mklink) for command
+- [Microsoft Learn<sup>↗</sup>](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/mklink) for command
 
 
 <br>
@@ -94,7 +122,7 @@ npx kill-port 517*
 <br>
 
 
-## Slideshow Background
+## Windows Slideshow Background
 
 | encountered | topics |
 | :---------- | :----- |
