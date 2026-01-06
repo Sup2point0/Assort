@@ -28,6 +28,60 @@ That stuff’s becoming ancient history now...
 <br>
 
 
+## [Ludicity](https://ludic.mataroa.blog)
+> Fall 2025
+
+Pragmatic and efficient extended essays on software development
+
+
+<br>
+
+
+## [Colton Voege](https://colton.dev)
+> Fall 2025
+
+Maybe articles on software development. Bit empty when I found it, but maybe by the time you’re reading this it’ll be pretty full.
+
+
+<br>
+
+
+## [One Div Zero](https://james-iry.blogspot.com)
+> Fall 2025
+
+An exploration of software development
+
+
+<br>
+
+
+## [Grumpy Gamer](https://grumpygamer.com)
+> Summer 2025
+
+Many years of posts on game development
+
+
+<br>
+
+
+## [Hacksplaining](https://hacksplaining.com/lessons)
+> 2025
+
+Nicely written and presented tutorials on cybersecurity and web vulnerabilities
+
+
+<br>
+
+
+## [martinfowler.com](https://martinfowler.com)
+> 2025
+
+Essays on the art of software development
+
+
+<br>
+
+
 ## [80.lv](https://80.lv)
 > January 2025
 
@@ -68,6 +122,9 @@ This is cool. Website looks nice.
 > December 2024
 
 Visualise JSON!
+
+
+<br>
 
 
 ## [Thoughtspile](https://thoughtspile.github.io)
