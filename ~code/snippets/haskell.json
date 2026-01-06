@@ -1,0 +1,9 @@
+{
+  "main": {
+    "prefix": "/hs~main",
+    "body": [
+      "main :: IO ()",
+      "main = "
+    ]
+  }
+}
