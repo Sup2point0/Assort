@@ -28,6 +28,15 @@ That stuff’s becoming ancient history now...
 <br>
 
 
+## [The Dictionary of Obscure Sorrows](https://www.thedictionaryofobscuresorrows.com/word/plata-rasa)
+> Early 2026
+
+Words, words, words.
+
+
+<br>
+
+
 ## [Ludicity](https://ludic.mataroa.blog)
 > Fall 2025
 
