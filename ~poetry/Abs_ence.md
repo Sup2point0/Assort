@@ -1,13 +1,13 @@
 # Abs_ence
 
-no None without a Some   
-no  withoutwords  
-in the darkness I see you come  
-as you once did, and enter here  
+no cold without the warmth  
+no tears without the care  
+no fall without the rise  
+no &emsp;&emsp; without you there.  
 
-your trace I trace   
+your trace I trace  
 your touch I touch  
-...  
+your gaze I gaze  
 but it’s never enough  
 
 and they’re thinking these words  
@@ -22,7 +22,7 @@ into the inevitable, crushing arrival of the utter
 
 what can I do but curl and scream  
 until the only feeling that remains  
-carved in flesh, through   
+carved in flesh, through hopeless dreams  
 is endless, boundless, infinite pain.  
 
 in sleep we search for peace  
@@ -31,21 +31,20 @@ of you,
 of us,  
 of who you were,  
 of who we were,  
-forever resting in the frozen dark  
+forever resting in frozen dark  
 beside the remnants of a broken heart.  
 
 you poisoned me with dopamine  
-and now I feel the cost  
-hope for me  
-is the sense of something beautiful lost.  
+and now I feel the fall  
+what can I do but grasp onto the last hope for me  
 
 make it stop,  
 please,  
-  please,  
-    please,  
+&emsp;  please,  
+&emsp; &emsp;    please,  
 
 in your wake you leave  
-        a  
+ &emsp; &emsp; &emsp; a  
 and as I wake I feel  
         
 and wide awake I bleed  
@@ -64,6 +63,14 @@ neutralisation in the eyes
 singularity in the soul  
 annihilation of the whole  
 
+emptiness gnaws away from within,  
+and we exist, but we do not  
+for all we can feel in every inch of skin  
+is the pain of something beautiful lost.  
+
+no sadness greater than losing yourself,  
+no sound harsher than the silence of loss.  
+
 in time the world returns to as it was before  
 and in this solitude the night bleeds into day  
 inside we stow and guard our one last mourn,  
@@ -72,8 +79,7 @@ the dying whisper of a fragile thought:
 “stay.”  
 
 
+<br>
 
-<br>    
 
-
-(14 – 18 February 2026)
+(14 – 28 February 2026)
