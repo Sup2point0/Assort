@@ -10,6 +10,3 @@
 [submodule ".site/vividity"]
 	path = .site/vividity
 	url = https://github.com/Sup2point0/vividity
-[submodule "integrity"]
-	path = integrity
-	url = https://github.com/Sup2point0/integrity
