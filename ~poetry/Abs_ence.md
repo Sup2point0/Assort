@@ -1,4 +1,12 @@
 # Abs_ence
+<!-- #SQUARK live!
+| dest = poetry/abs_ence
+| style = poetry
+| index = poetry
+| shard = #INDEX / sad / melodramatic
+| date = 2026 February 14
+| update = 2026 February 28
+-->
 
 no cold without the warmth  
 no tears without the care  
@@ -35,8 +43,7 @@ forever resting in frozen dark
 beside the remnants of a broken heart.  
 
 you poisoned me with dopamine  
-and now I feel the fall  
-what can I do but grasp onto the last hope for me  
+and the memories of you are choking me  
 
 make it stop,  
 please,  
@@ -65,7 +72,7 @@ annihilation of the whole
 
 emptiness gnaws away from within,  
 and we exist, but we do not  
-for all we can feel in every inch of skin  
+for all we feel in every inch of skin  
 is the pain of something beautiful lost.  
 
 no sadness greater than losing yourself,  
