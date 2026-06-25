@@ -26,8 +26,8 @@ Here you’ll find all my interests, thoughts, writing, and productive unproduct
 
 ## Portal
 
-> [!Tip]
-> New here? Consider starting out on the [site<sup>↗</sup>](https://sup2point0.github.io/Assort) for a much nicer browsing experience!
+<!-- > [!Tip]
+> New here? Consider starting out on the [site<sup>↗</sup>](https://sup2point0.github.io/Assort) for a much nicer browsing experience! -->
 
 ### Categories
 📁 [music](~music/)  
