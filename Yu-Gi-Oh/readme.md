@@ -19,7 +19,7 @@ I’ve played *Yu-Gi-Oh!* since childhood. You don’t understand how much I lov
 
 | folder | notes |
 | :----- | :---- |
-| [decks](decks/) | The canon decks I play with |
+| [decks](decks/) | The decks I play with (canon and custom) |
 | [archetypes](archetypes/) | All my custom archetypes |
 | [cards](cards/) | My noteworthy custom cards |
 | [lore](lore/) | My lore-related content (currently only the [Stranded Saga](lore/Stranded%20Saga/)) |
