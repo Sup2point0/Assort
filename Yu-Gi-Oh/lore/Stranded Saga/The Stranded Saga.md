@@ -59,7 +59,7 @@ Luce floundered up, choking on liquid. His eyes were blurred with tears. He felt
 
 He could barely hear himself. The sound was muffled, like it was being swallowed as soon as it left his mouth.
 
-“I–“
+“I–”
 
 All he could see was endless grey in all directions. The same, still ocean, with a blanket of mist obscuring the air. He tried moving his leg, and watched the ripples vanish as quickly as they appeared.
 
@@ -165,7 +165,7 @@ Luce lifted his arm up, and the blob slid straight down onto his shoulder. Toget
 
 Luce had been walking for what felt like hours. What he had thought was a small island was much larger than he could have imagined. The trees were starting to blur into each other, and the sky showed no signs of changing. He wondered if time had frozen. It felt like he was in a dream.
 
-Luce’s only relief from insanity was talking to the blob. It had found its spot firmly on his shoulder, and silently bobbed along with each step. He couldn’t tell if it could understand him, or even hear him, but talking to it kept him going.
+His only relief from insanity was talking to the blob. It had found its spot firmly on his shoulder, and silently bobbed along with each step. He couldn’t tell if it could understand him, or even hear him, but talking to it kept him going.
 
 “Hey, what are you, really?”
 
@@ -173,7 +173,7 @@ The ground was unusually littered with twigs. Luce winced slightly at the consta
 
 “You look like... well, I mean, you’re just a blob, really. How are you even alive?”
 
-The blob jiggled slightly, but Luce couldn’t tell if it had heard him or it was just being itself.
+The blob jiggled slightly, but Luce couldn’t tell if it had heard him or was just being itself.
 
 “I... I should give you a name.”
 
@@ -187,7 +187,7 @@ At that moment, Xlob started twisting frantically on Luce’s shoulder. He felt 
 <h3 align="center"> Inadvertent Destiny </h3>
 
 > [!Note]
-> *There is nothing restricting affinical powers to only humanoids. Any entity, animate or inanimate, corporeal or abstract, is capable of being infused with or itself harnessing affine. Hence, the term ‘being’ is used here to inclusively refer to any ‘affinityzable’ entity.*
+> *There is nothing restricting affinical powers to only humanoids. Any entity, animate or inanimate, corporeal or abstract, is capable of harnessing or being infused with affine. Hence, the term ‘being’ is used here to inclusively refer to any ‘affinityzable’ entity.*
 
 In the world of affine, beings are bestowed a great power in their life – what is known as an ‘affinity’. It is, certainly, not an uncommon phenomenon, occuring in plenty of other worlds under the name of ‘magic’.
 
@@ -291,7 +291,7 @@ Taken aback, Luce wondered how they knew his name.
 
 “As an eye, I have already seen the futures where Xeros tells me your name. There is no need for introductions.” Hyakil said with a small smile.
 
-Luce could only scratch his head in understanding.
+Luce could only blink in understanding.
 
 “Xeros, the peace has persisted for too long. While our lives have never been better, I fear our complacency may be our undoing.”
 
