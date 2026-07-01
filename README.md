@@ -15,7 +15,7 @@ Here you’ll find all my interests, thoughts, writing, and productive unproduct
     alt="Assort, Assort"
     width="80%"
     src=".assets/assort/poem.png"
-  >
+  />
 </a>
 
 </div>
@@ -37,8 +37,8 @@ Here you’ll find all my interests, thoughts, writing, and productive unproduct
 📁 [graphic design](~graphics/)  
 
 ### Franchises
-📁 [affine](affine/)  
 📁 [Yu-Gi-Oh!](Yu-Gi-Oh/)  
+📁 [affine](affine/)  
 📁 [kenzokinetics](kenzokinetics/)  
 📁 [xeriqui](xeriqui/)  
 
@@ -51,7 +51,6 @@ Here you’ll find all my interests, thoughts, writing, and productive unproduct
 I’ve included some of my other projects as submodules inside *Assort* too.
 
 ❄️ [Antarctica](https://github.com/Sup2point0/Antarctica)  
-❄️ [Integrity](https://sup2point0.github.io/integrity)  
 ❄️ [Victory](https://github.com/Sup2point0/Victory)  
 
 
