@@ -3,6 +3,7 @@
 | dest = ai
 | index = info / writing
 | date = 2024 June
+| update = 2026 August 22
 -->
 
 In an age of proliferating generative AI, human content is increasingly difficult to find.
@@ -19,7 +20,7 @@ This is how it goes. You search up a question or how-to, skip past the ads and A
 
 Then you get to a fairly chonky paragraph, and a sinking feeling comes. There’s just something about the way it reads, a déja vu maybe, as if you’ve read this exact thing before.
 
-So you fire up [Quillbot AI detector](https://quillbot.com/ai-content-detector), and ctrl+CV.
+So you fire up an AI detector, and ctrl+CV.
 
 Yeup, AI gen.
 
@@ -37,7 +38,7 @@ Everything you see read in *Assort* was lovingly handcrafted, painstakingly edit
 
 [^obviously]: It takes a *lot* for me to use this word, btw.
 
-As one does, I tried searching up ‘all blogs use AI reddit’ and found [a reddit post](https://www.reddit.com/r/Blogging/comments/191t6lf/is_the_rise_of_ai_content_threatening_the_future) asking if AI will kill blogs. Can you guess what one of the comments was?
+As one does, I tried searching up “all blogs use AI reddit” and found [a reddit post](https://www.reddit.com/r/Blogging/comments/191t6lf/is_the_rise_of_ai_content_threatening_the_future) asking if AI will kill blogs. Can you guess what one of the comments was?
 
 ![66.](.assets/writing/ai-reddit.png)
 
