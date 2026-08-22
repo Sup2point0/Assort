@@ -26,6 +26,9 @@ Here you’ll find all my interests, thoughts, writing, and productive unproduct
 
 ## Portal
 
+> [!Note]
+> The *Assort* site is desperately in need of a renovation, I’m working on it!
+
 <!-- > [!Tip]
 > New here? Consider starting out on the [site<sup>↗</sup>](https://sup2point0.github.io/Assort) for a much nicer browsing experience! -->
 
@@ -42,14 +45,7 @@ Here you’ll find all my interests, thoughts, writing, and productive unproduct
 📁 [kenzokinetics](kenzokinetics/)  
 📁 [xeriqui](xeriqui/)  
 
-
-<br>
-
-
-## Subprojects
-
-I’ve included some of my other projects as submodules inside *Assort* too.
-
+### Subprojects
 ❄️ [Antarctica](https://github.com/Sup2point0/Antarctica)  
 ❄️ [Victory](https://github.com/Sup2point0/Victory)  
 
