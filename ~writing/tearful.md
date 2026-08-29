@@ -29,7 +29,7 @@ I mean, it’s not a bad thing by any means, I’d rather be emotional than a so
 
 Honestly, I think I just grew up.
 
-Now I’ve realised what a cold and heartless place the world can be. We live in such a [broken world](Broken World.md) that batters you down til you’re broken. The harsh futility of life has hit me – I won’t say ‘truly’, since I’m sure it’ll become ever truer for me in future – and, idk. There are so many woes and anxieties we have to deal with that sometimes we forget to enjoy life.
+Now I’ve realised what a cold and heartless place the world can be. We live in such a [broken world](<broken world.md>) that batters you down til you’re broken. The harsh futility of life has hit me – I won’t say ‘truly’, since I’m sure it’ll become ever truer for me in future – and, idk. There are so many woes and anxieties we have to deal with that sometimes we forget to enjoy life.
 
 So when I’m hit with something that’s so perfect, a glint of hope in the darkness, it just tugs unbearably at my heartstrings; I know it’s scripted, and half the time it’s cliché, but it GETS ME–
 
