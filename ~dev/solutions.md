@@ -18,6 +18,28 @@ Of course, these are liable to become outdated themselves. But hey, one day 1 of
 <br>
 
 
+## Rename All Git Commits
+
+| encountered | topics |
+| :---------- | :----- |
+| 2026 September 2 | Git |
+
+### Issue
+- Want to strip conventional commits from a project
+
+### Solution
+Command line:
+
+```bash
+git rebase -i --root
+```
+
+The rest is the same as renaming *N* commits below!
+
+
+<br>
+
+
 ## Rename Past *N* Git Commits
 
 | encountered | topics |
