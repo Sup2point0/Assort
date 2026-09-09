@@ -73,9 +73,18 @@ Using red for anything other than errors will always feel wrong to me. (No, my f
 It’s very satisfying when I get something wrong and get blasted with deeply saturated blood red. Oh boy, that’s a crash alright.
 
 
+<br>
+
+
 ## Code Constructs
 
 ### Keywords: Nova Blue
+```math
+\colorbox{000020}{\textcolor{4090f1}{\texttt{for}}}
+\texttt{x}
+\colorbox{000020}{\textcolor{4090f1}{\texttt{in}}}
+\texttt{y}
+```
 
 #### Includes
 - all language keywords such as `if`, `function`, `import`, etc.
@@ -92,6 +101,10 @@ Fun fact, there was a time I used Solar Yellow (#ffc720) for keywords, to mirror
 
 
 ### Namespaces: Nova Teal
+```math
+\colorbox{000020}{\textcolor{4090f1}{\texttt{import}}}
+\colorbox{000020}{\textcolor{40f190}{\texttt{antigravity}}}
+```
 
 #### Includes
 - imported modules, such as Python’s `import random` or TypeScript’s `import * as path from "path"`
@@ -102,6 +115,12 @@ Nova Teal is probably the ‘brightest’ colour in the supcode Nova palette; it
 
 
 ### Functions: Nova Pink
+```math
+\colorbox{000020}{
+   \textcolor{4090f1}{\texttt{function}}
+   \textcolor{ff0090}{\texttt{identifier}}
+}
+```
 
 #### Includes
 - functions
@@ -110,6 +129,11 @@ Nova Teal is probably the ‘brightest’ colour in the supcode Nova palette; it
 
 
 ### Function Parameters: Pink
+```math
+\colorbox{000020}{\texttt{
+   \textcolor{ff0090}{identifier}(\textcolor{f190f1}{parameter})
+}}
+```
 
 #### Includes
 - functions parameters
@@ -120,6 +144,13 @@ Nova Teal is probably the ‘brightest’ colour in the supcode Nova palette; it
 
 
 ### Types: Nova Lilac
+```math
+\colorbox{000020}{\texttt{
+   \textcolor{4090f1}{var}
+   ident\textcolor{90969e}{:}
+   \textcolor{9090f1}{Data}
+}}
+```
 
 #### Includes
 - classes
@@ -129,7 +160,12 @@ Nova Teal is probably the ‘brightest’ colour in the supcode Nova palette; it
 
 
 ### Interfaces: Crescent Lilac
-weaker
+```math
+\colorbox{000020}{\texttt{
+   \textcolor{4090f1}{interface}
+   \textcolor{c7c7ff}{Interface}
+}}
+```
 
 #### Includes
 - interfaces
@@ -137,6 +173,12 @@ weaker
 
 
 ### Type Parameters: Spirit Blue
+```math
+\colorbox{000020}{\texttt{
+   \textcolor{4090f1}{class}
+   \textcolor{9090f1}{SomeClass}\textcolor{ff9020}{<}\textcolor{60c7ff}{Type}\textcolor{ff9020}{>}
+}}
+```
 
 #### Includes
 - type parameters in any context
