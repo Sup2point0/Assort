@@ -80,9 +80,9 @@ It’s very satisfying when I get something wrong and get blasted with deeply sa
 
 ### Keywords: Nova Blue
 ```math
-\colorbox{000020}{\textcolor{4090f1}{\texttt{for}}}
+\textcolor{4090f1}{\texttt{for}}}
 \texttt{x}
-\colorbox{000020}{\textcolor{4090f1}{\texttt{in}}}
+\textcolor{4090f1}{\texttt{in}}}
 \texttt{y}
 ```
 
@@ -102,8 +102,8 @@ Fun fact, there was a time I used Solar Yellow (#ffc720) for keywords, to mirror
 
 ### Namespaces: Nova Teal
 ```math
-\colorbox{000020}{\textcolor{4090f1}{\texttt{import}}}
-\colorbox{000020}{\textcolor{40f190}{\texttt{antigravity}}}
+\textcolor{4090f1}{\texttt{import}}}
+\textcolor{40f190}{\texttt{antigravity}}
 ```
 
 #### Includes
@@ -116,7 +116,7 @@ Nova Teal is probably the ‘brightest’ colour in the supcode Nova palette; it
 
 ### Functions: Nova Pink
 ```math
-\colorbox{000020}{
+
    \textcolor{4090f1}{\texttt{function}}
    \textcolor{ff0090}{\texttt{identifier}}
 }
@@ -130,9 +130,9 @@ Nova Teal is probably the ‘brightest’ colour in the supcode Nova palette; it
 
 ### Function Parameters: Pink
 ```math
-\colorbox{000020}{\texttt{
+\texttt{
    \textcolor{ff0090}{identifier}(\textcolor{f190f1}{parameter})
-}}
+}
 ```
 
 #### Includes
@@ -145,11 +145,11 @@ Nova Teal is probably the ‘brightest’ colour in the supcode Nova palette; it
 
 ### Types: Nova Lilac
 ```math
-\colorbox{000020}{\texttt{
+\texttt{
    \textcolor{4090f1}{var}
    ident\textcolor{90969e}{:}
    \textcolor{9090f1}{Data}
-}}
+}
 ```
 
 #### Includes
@@ -161,10 +161,10 @@ Nova Teal is probably the ‘brightest’ colour in the supcode Nova palette; it
 
 ### Interfaces: Crescent Lilac
 ```math
-\colorbox{000020}{\texttt{
+\texttt{
    \textcolor{4090f1}{interface}
    \textcolor{c7c7ff}{Interface}
-}}
+}
 ```
 
 #### Includes
@@ -174,10 +174,10 @@ Nova Teal is probably the ‘brightest’ colour in the supcode Nova palette; it
 
 ### Type Parameters: Spirit Blue
 ```math
-\colorbox{000020}{\texttt{
+\texttt{
    \textcolor{4090f1}{class}
    \textcolor{9090f1}{SomeClass}\textcolor{ff9020}{<}\textcolor{60c7ff}{Type}\textcolor{ff9020}{>}
-}}
+}
 ```
 
 #### Includes
