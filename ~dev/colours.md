@@ -1,7 +1,7 @@
 # My Syntax Highlighting Colours
 <!-- #SQUARK live!
 | date = 2026 July 29
-| update = 2026 September 8
+| update = 2026 September 10
 -->
 
 I’ve stuck with (pretty much) the same colours for syntax highlighting code ever since I first customised them in VSCode. Some of my colour choices have firm principles behind them, but a lot were also kinda random. I thought I’d try justifying them, just for fun!
@@ -46,7 +46,6 @@ Luckily, since supcode Nova colours are so saturated, they naturally have high c
 
 ## General
 
-
 ### Background: Midnight Blue
 
 I’m famously a light mode enjoyer, but when it comes to code – or more accurately, anything that requires heavy use of contrasting colours – dark mode is definitely better.
@@ -79,12 +78,6 @@ It’s very satisfying when I get something wrong and get blasted with deeply sa
 ## Code Constructs
 
 ### Keywords: Nova Blue
-```math
-\textcolor{4090f1}{\texttt{for}}}
-\texttt{x}
-\textcolor{4090f1}{\texttt{in}}}
-\texttt{y}
-```
 
 #### Includes
 - all language keywords such as `if`, `function`, `import`, etc.
@@ -101,10 +94,6 @@ Fun fact, there was a time I used Solar Yellow (#ffc720) for keywords, to mirror
 
 
 ### Namespaces: Nova Teal
-```math
-\textcolor{4090f1}{\texttt{import}}}
-\textcolor{40f190}{\texttt{antigravity}}
-```
 
 #### Includes
 - imported modules, such as Python’s `import random` or TypeScript’s `import * as path from "path"`
@@ -115,12 +104,6 @@ Nova Teal is probably the ‘brightest’ colour in the supcode Nova palette; it
 
 
 ### Functions: Nova Pink
-```math
-
-   \textcolor{4090f1}{\texttt{function}}
-   \textcolor{ff0090}{\texttt{identifier}}
-}
-```
 
 #### Includes
 - functions
@@ -128,12 +111,7 @@ Nova Teal is probably the ‘brightest’ colour in the supcode Nova palette; it
 - callable objects, such as callback parameters
 
 
-### Function Parameters: Pink
-```math
-\texttt{
-   \textcolor{ff0090}{identifier}(\textcolor{f190f1}{parameter})
-}
-```
+### Function Parameters: Spirit Pink
 
 #### Includes
 - functions parameters
@@ -144,13 +122,6 @@ Nova Teal is probably the ‘brightest’ colour in the supcode Nova palette; it
 
 
 ### Types: Nova Lilac
-```math
-\texttt{
-   \textcolor{4090f1}{var}
-   ident\textcolor{90969e}{:}
-   \textcolor{9090f1}{Data}
-}
-```
 
 #### Includes
 - classes
@@ -160,12 +131,6 @@ Nova Teal is probably the ‘brightest’ colour in the supcode Nova palette; it
 
 
 ### Interfaces: Crescent Lilac
-```math
-\texttt{
-   \textcolor{4090f1}{interface}
-   \textcolor{c7c7ff}{Interface}
-}
-```
 
 #### Includes
 - interfaces
@@ -173,12 +138,6 @@ Nova Teal is probably the ‘brightest’ colour in the supcode Nova palette; it
 
 
 ### Type Parameters: Spirit Blue
-```math
-\texttt{
-   \textcolor{4090f1}{class}
-   \textcolor{9090f1}{SomeClass}\textcolor{ff9020}{<}\textcolor{60c7ff}{Type}\textcolor{ff9020}{>}
-}
-```
 
 #### Includes
 - type parameters in any context
@@ -304,7 +263,7 @@ I don’t get to use use italics enough, this is a great place to sprinkle them 
 I used to colour them Crescent Lilac due to a lack of colours. Not a great choice, because they conflicted with interfaces. But this was while I still mained Python, so we didn’t exactly have interfaces.
 
 
-### Enums: Lilac
+### Enums: Crescent Lilac
 
 
 ### Enum Members: Crescent Teal
@@ -388,7 +347,6 @@ Ran out of colours here. It’s actually not ideal, but yeah.
 
 ## Non-Code
 
-
 ### Comments: Nova Grey
 
 #### Includes
@@ -403,7 +361,7 @@ Not much to say, pretty standard.
 Colours are precious, so I don’t want to expend one on comments. Grey also stands out *more* than an actual colour would, but is still discreet (especially en-masse) so I can tune it out when unneeded.
 
 
-### Documentation: Teal
+### Documentation: Nova Teal
 
 #### Includes
 - documentation comments, like `///` and `/** */`
@@ -413,15 +371,15 @@ These are semantically different to regular comments because they show up in the
 Teal is similarly muted to the Nova Grey of comments, so can be tuned out when necessary.
 
 
-### Comment Markers: Yellow
+### Comment Markers: Nova Yellow
 
 #### Includes
-- TODO
-- NOTE
-- SAFETY
+- `TODO`
+- `NOTE`
+- `SAFETY`
 
 #### Excludes
-- FIXME (that one’s red)
+- `FIXME` (that one’s red)
 
 
 <br>
@@ -437,7 +395,7 @@ However, that does mean ...even more colours to decide.
 #### Escaped Characters
 #### Repetitions
 #### Sets
-#### Matching Groups
+#### Matching Groups: Electric Pink
 #### Non-Matching Groups
 #### Positive Lookaround
 #### Negative Lookaround
@@ -453,7 +411,7 @@ Some languages I’ve worked with have very unique constructs which have require
 Yeah, it’s mostly Rust.
 
 
-### Labels & Regions: Yellow
+### Labels & Regions: Nova Yellow
 
 ### Lifetimes: Hot Pink
 
@@ -467,6 +425,9 @@ I really love my colour palette. At this point, it’s a core part of how I code
 
 Here I’ve described how I map this colour palette onto different programming languages, which all share similar concepts and constructs. But what about for markup or config languages, like HTML, CSS, Markdown, LaTeX, TOML, etc.?
 
-### Keys
-### Values
+### Keys: Spirit Pink
+### Values: Crescent Mellow
 ### Categories
+
+
+<br>
