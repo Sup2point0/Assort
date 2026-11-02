@@ -1,9 +1,0 @@
-@mixin line($thickness, $direction: none) {
-  @if ($direction == "left") {
-    border-left: $thickness solid var(--col-line);
-  } @else if ($direction == "right") {
-    border-right: $thickness solid var(--col-line);
-  } @else {
-    border-bottom: $thickness solid var(--col-line);
-  }
-}
