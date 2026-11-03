@@ -28,7 +28,7 @@ let data = $derived(page.data as PageData<"long">);
 		{@render children()}
 	{:else}
 		<p class="error">
-			Something went wrong rendering the page!
+			Something went wrong rendering the site!
 		</p>
 	{/if}
 </div>
