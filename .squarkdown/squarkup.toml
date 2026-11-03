@@ -26,6 +26,7 @@ exclude = [
 [out]
 folder = 'src/routes/(love)/(dyna)'
 site-data-path = 'src/data/site.json'
+shorter-fields = false
 
 [format]
 externalise-links = true

@@ -15,38 +15,40 @@ if (process.argv.includes("--open")) {
 }
 
 
-export default defineConfig(
+const config = sveltekit(
 {
-	plugins: [
-		sveltekit({
-			adapter: adapterStatic({
-				pages: "build",
-				assets: "build",
-				fallback: "404.html",
-				precompress: false,
-				strict: true,
-			}),
-			preprocess: [
-				mdsvex({
-					extensions: [".md", ".svx"],
-					remarkPlugins: [
-						remarkMath,
-					],
-					rehypePlugins: [
-						rehypeKatex,
-					],
-				}),
-				sveltePreprocess({
-					includePaths: ["src/styles"],
-					prependData: `
-						@use 'mixins/fonts' as *;
-					`,
-				}),
+	extensions: [".svelte", ".svx"],
+	adapter: adapterStatic({
+		pages: "build",
+		assets: "build",
+		fallback: "404.html",
+		precompress: false,
+		strict: true,
+	}),
+	preprocess: [
+		mdsvex({
+			extensions: [".md", ".svx"],
+			remarkPlugins: [
+				remarkMath,
 			],
-			prerender: {
-				handleHttpError: "warn",
-				handleMissingId: "warn",
-			},
+			rehypePlugins: [
+				rehypeKatex,
+			],
+		}),
+		sveltePreprocess({
+			scss: {
+				includePaths: ["src/styles"],
+				prependData: `
+					@use 'mixins/fonts' as *;
+				`,
+			}
 		}),
 	],
+	prerender: {
+		handleHttpError: "warn",
+		handleMissingId: "warn",
+	},
 });
+
+
+export default defineConfig({ plugins: [config] });
