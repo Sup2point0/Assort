@@ -4,3 +4,6 @@
 [submodule "Victory"]
 	path = Victory
 	url = https://github.com/Sup2point0/Victory
+[submodule ".site/src/scripts/suppety"]
+	path = .site/src/scripts/suppety
+	url = https://github.com/Sup2point0/suppety
