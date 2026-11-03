@@ -1,6 +1,16 @@
-build/
+# Squarkdown
+**/(love)/(dyna)/*
+!**/(love)/(dyna)/.gitkeep
 
-node_modules/
+src/data/*
+!src/data/.gitkeep
+
+# SvelteKit
+build/
 .svelte-kit/
+
+# Tools
+node_modules/
 test-results/
+
 vite.config.*.timestamp-*

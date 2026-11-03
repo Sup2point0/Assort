@@ -13,7 +13,7 @@ link-inactive = 'mark-dead'
 
 [paths]
 site = '.site/'
-sources = ['*']
+sources = []
 exclude = [
 	'.archive/',
 	'.assets/',
