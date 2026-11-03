@@ -21,7 +21,7 @@
 
   "imports": {
     "#src/*":     "./src/*",
-    "#parts/*":   "./src/parts/*",
+    "#parts/*":   "./src/parts/*/index.js",
     "#styles/*":  "./src/styles/*",
     "#scripts/*": "./src/scripts/*"
   },

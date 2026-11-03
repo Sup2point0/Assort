@@ -25,6 +25,13 @@ const config = sveltekit(
 		precompress: false,
 		strict: true,
 	}),
+	// NOTE: Duplicated from `package.json` since otherwise imports break in VSCode ,_,
+	alias: {
+		"#src/*":     "./src/*",
+		"#parts/*":   "./src/parts/*",
+		"#styles/*":  "./src/styles/*",
+		"#scripts/*": "./src/scripts/*",
+	},
 	preprocess: [
 		mdsvex({
 			extensions: [".md", ".svx"],
@@ -39,6 +46,7 @@ const config = sveltekit(
 			scss: {
 				includePaths: ["src/styles"],
 				prependData: `
+					@use 'mixins/colours' as *;
 					@use 'mixins/fonts' as *;
 				`,
 			}
