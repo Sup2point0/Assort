@@ -46,8 +46,11 @@ const config = sveltekit(
 			scss: {
 				includePaths: ["src/styles"],
 				prependData: `
-					@use 'mixins/colours' as *;
-					@use 'mixins/fonts' as *;
+					@use 'sass:color' as colour;
+					
+					@use 'shared/globals' as *;
+					@use 'shared/colours' as *;
+					@use 'shared/fonts' as *;
 				`,
 			}
 		}),
