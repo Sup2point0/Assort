@@ -7,20 +7,36 @@
 import type { route } from "#scripts/types";
 import { BASE } from "#src/site";
 
+import { page } from "$app/state";
+import { slide } from "svelte/transition";
+import { expoInOut } from "svelte/easing";
+import type { Snippet } from "svelte";
+
 
 interface Props {
   text: string
   intern: route | string
-  hover?: string  // TODO
+  hover?: string
+  children?: Snippet
 }
 
-let { text, intern, hover }: Props = $props();
+let { text, intern, hover, children }: Props = $props();
+
+
+let is_related_to_current_page = $derived(
+		intern !== ""
+	&& page.url.pathname === `/${intern}`
+);
+
+let dropdown_is_open = $derived(
+	is_related_to_current_page
+);
 
 </script>
 
 
 <a
-	class:live={false}  // TODO
+	class:current={is_related_to_current_page}
 	href="{BASE}/{intern}"
 >
 	{@html text}
@@ -32,6 +48,12 @@ let { text, intern, hover }: Props = $props();
 	{/if}
 </a>
 
+{#if dropdown_is_open && children != undefined}
+	<div class="dropdown" transition:slide={{ duration: 1000, easing: expoInOut }}>
+		{@render children?.()}
+	</div>
+{/if}
+
 
 <style lang="scss">
 
@@ -41,7 +63,7 @@ a {
 	@include font-ui;
 	color: white;
 	text-decoration: none;
-	border-radius: 0.2rem;
+	border-radius: $border-radius;
 	transition: all 0.12s ease-out;
 
 	.hover-text {
@@ -71,6 +93,17 @@ a {
 			transition-delay: 0.5s;
 		}
 	}
+
+	&.current {
+		color: $col-cyan;
+		font-weight: 400;
+	}
+}
+
+.dropdown {
+	margin-left: 1rem;
+	display: flex;
+	flex-flow: column nowrap;
 }
 
 </style>
