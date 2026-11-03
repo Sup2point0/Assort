@@ -1,0 +1,10 @@
+engineStrict: true
+
+allowBuilds:
+  '@parcel/watcher': false
+  esbuild: true
+  svelte-preprocess: true
+
+minimumReleaseAge: 1440
+minimumReleaseAgeExclude:
+  - stranger-quarkdown

@@ -1,0 +1,51 @@
+{
+  "type": "module",
+
+  "name": "Assort",
+  "version": "3.0",
+  "private": true,
+
+  "scripts":
+  {
+    "dev":    "vite dev",
+      "devx": "npm run prep && vite dev --open",
+    
+    "prep":    "squarkdown",
+      "prepx": "squarkdown --fonts --assets",
+
+    "build":    "vite build",
+      "buildx": "npm run prepx && vite build",
+
+    "preview": "vite preview"
+  },
+
+  "imports": {
+    "#src/*":     "./src/*",
+    "#parts/*":   "./parts/*",
+    "#styles/*":  "./styles/*",
+    "#scripts/*": "./scripts/*"
+  },
+
+  "dependencies":
+  {
+    "svelte-persisted-store": "^0.12"
+  },
+
+  "devDependencies":
+  {
+    "stranger-quarkdown": "^4.0",
+    "@playwright/test": "^1.60",
+    "@sveltejs/adapter-static": "^3.0",
+    "@sveltejs/kit": "^2.0",
+    "@sveltejs/vite-plugin-svelte": "^7.0",
+    "@types/node": "^26.0",
+    "mdsvex": "^0.12.8",
+    "rehype-katex-svelte": "^1.2.0",
+    "remark-math": "^3.0.0",
+    "sass": "^1.100",
+    "svelte": "^5.0",
+    "svelte-preprocess": "^6.0",
+    "typescript": "^6.0",
+    "vite": "^8.0"
+  }
+}
