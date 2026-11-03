@@ -1,0 +1,43 @@
+#:schema https://sup2point0.github.io/stranger-quarkdown/schemas/v4.7.json
+
+[project]
+name = 'Assort'
+github = 'Sup2point0/Assort'
+
+[errors]
+strict = true
+on-error = 'warn'
+file-already-exists = 'overwrite'
+link-broken = 'mark-dead'
+link-inactive = 'mark-dead'
+
+[paths]
+site = '.site/'
+sources = ['*']
+exclude = [
+	'.archive/',
+	'.assets/',
+	'.github/',
+	'.site/',
+	'Antarctica/',
+	'Victory/',
+]
+
+[out]
+folder = 'src/routes/(love)/(dyna)'
+site-data-path = 'src/data/site.json'
+
+[format]
+externalise-links = true
+
+[assets]
+folder = '.assets/'
+site-assets-folder = '.assets/.site/'
+
+[fonts]
+queries = [
+	'Fira+Mono:wght@400;500;700',
+	'Nanum+Pen+Script',
+	'Noto+Serif:ital,wght@0,100..900;1,100..900',
+	'Outfit:wght@100..900',
+]
