@@ -2,8 +2,8 @@
 Styles specifically for `+page.svx` Markdown content.
 */
 
-@use './mixins/colours' as *;
-@use './mixins/fonts' as *;
+@use './shared/colours' as *;
+@use './shared/fonts' as *;
 
 
 // == HEADINGS == //

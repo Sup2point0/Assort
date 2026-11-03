@@ -2,7 +2,7 @@
 Global styles applied to every page.
 */
 
-@use './mixins/fonts' as *;
+@use './shared/fonts' as *;
 
 
 * {
