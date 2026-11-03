@@ -5,8 +5,11 @@ import { sveltePreprocess } from "svelte-preprocess";
 import adapterStatic from "@sveltejs/adapter-static";
 
 import { mdsvex } from "mdsvex";
+import remarkFootnotes from "remark-footnotes";
+import remarkIndexFootnotes from "remark-numbered-footnote-labels";
 import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex-svelte";
+import rehypeSlug from "rehype-slug";
 
 import { fileURLToPath } from "node:url";
 
@@ -38,10 +41,13 @@ const config = sveltekit(
 		mdsvex({
 			extensions: [".md", ".svx"],
 			remarkPlugins: [
+				remarkFootnotes,
+				remarkIndexFootnotes,
 				remarkMath,
 			],
 			rehypePlugins: [
 				rehypeKatex,
+				rehypeSlug,
 			],
 		}),
 		sveltePreprocess({
@@ -55,6 +61,7 @@ const config = sveltekit(
 					@use 'shared/globals' as *;
 					@use 'shared/colours' as *;
 					@use 'shared/fonts' as *;
+					@use 'shared/links' as *;
 				`,
 			}
 		}),
