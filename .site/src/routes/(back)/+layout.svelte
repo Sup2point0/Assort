@@ -1,6 +1,6 @@
 <script lang="ts">
 
-import { Nav} from "#parts/core";
+import { Nav, Footer } from "#parts/core";
 
 import { BASE } from "#src/site";
 
@@ -10,7 +10,7 @@ let { children } = $props();
 </script>
 
 
-<img id="back" src="{BASE}/back/sunset.png" />
+<img id="back" alt="" src="{BASE}/back/sunset.png" />
 
 <div class="layout">
 	<main>
@@ -26,6 +26,8 @@ let { children } = $props();
 	<Nav />
 </div>
 
+<Footer />
+
 
 <style lang="scss">
 
@@ -38,18 +40,20 @@ img#back {
 	left: 0;
 	z-index: -1;
 	transform: scale(150%) scaleY(-1);
-	filter: brightness(90%) saturate(120%) blur(80px);
+	filter: brightness(90%) saturate(120%) blur(60px);
 }
 
 .layout {
-	padding: 1rem 1rem;;
+	margin-bottom: 4rem;
+	padding: 1rem 2rem;
 	display: flex;
 	flex-flow: row nowrap;
-}
 
-main {
-	width: 100%;
-	padding: 0 1rem;
+	main {
+		width: 100%;
+		margin-left: 2rem;
+		margin-right: 4rem;
+	}
 }
 
 </style>

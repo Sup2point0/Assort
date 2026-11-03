@@ -2,6 +2,7 @@
 Styles specifically for `+page.svx` Markdown content.
 */
 
+@use './shared/globals' as *;
 @use './shared/colours' as *;
 @use './shared/fonts' as *;
 
@@ -76,13 +77,14 @@ article
 		padding: 0.1rem 0.25rem;
 		@include font-code;
 		background: rgb(#000020, 12%);
-		border-radius: 0.1rem;
+		border-radius: calc($border-radius / 2);
 	}
 
 	pre:has(code) {
 		padding: 1rem;
 		line-height: 1.5;
 		background: rgb(#000020, 60%);
+		border-radius: $border-radius;
 
 		code {
 			@include font-code;
