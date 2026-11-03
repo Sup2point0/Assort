@@ -50,7 +50,7 @@ import NavLink from "./nav.link.svelte";
 		<NavLink text="genAI" intern="ai" hover="generative AI statement" />
 		<NavLink text="licence" intern="licence" hover="CC BY-SA 4.0" />
 		<NavLink text="stats" intern="stats" hover="stats for nerds" />
-		<NavLink text="sup" intern="sup" />
+		<NavLink text="sup" intern="sup" hover="??" />
 	</section>
 </nav>
 

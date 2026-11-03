@@ -71,7 +71,7 @@ a {
 		padding: 0.25rem 0.5rem;
 		position: absolute;
 		top: 0;
-		left: -0.5rem;
+		left: -0.75rem;
 
 		color: white;
 		text-align: right;

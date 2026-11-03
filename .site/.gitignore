@@ -1,6 +1,6 @@
 # Squarkdown
-src/routes/(love)/(dyna)/**/+page.svx
-src/routes/(love)/(dyna)/**/+page.ts
+**/(dyna)/**/+page.svx
+**/(dyna)/**/+page.ts
 
 src/data/*.json
 
