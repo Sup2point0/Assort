@@ -1,3 +1,10 @@
+/*
+Global styles applied to every page.
+*/
+
+@use './mixins/fonts' as *;
+
+
 * {
   box-sizing: border-box;
   padding: 0;

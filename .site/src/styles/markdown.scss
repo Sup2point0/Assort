@@ -1,0 +1,92 @@
+/*
+Styles specifically for `+page.svx` Markdown content.
+*/
+
+@use './mixins/fonts' as *;
+
+
+// == HEADINGS == //
+article
+{
+	h2 {
+		margin-top: 5rem;
+		margin-bottom: 2rem;
+		@include font-head;
+		color: oklch(0.8485 0.1702 87.35);
+		font-weight: 200;
+		font-size: 250%;
+		width: 100%;
+		padding-bottom: 0.5rem;
+		border-bottom: 1px solid rgb(white, 20%);
+		text-shadow: 0 1px 2px black;
+	}
+
+	h3 {
+		margin-top: 1.5rem;
+		margin-bottom: 0.5rem;
+		@include font-head;
+		color: white;
+		font-weight: 300;
+		font-size: 150%;
+		text-shadow: 0 0.5px 1px black;
+	}
+
+	h4 {
+		margin-top: 0.75rem;
+		margin-bottom: 0.25rem;
+		@include font-head;
+		color: white;
+		font-weight: 100;
+		font-size: 125%;
+		text-shadow: 0 0.5px 1px black;
+	}
+}
+
+// == PLAIN == //
+article
+{
+	p {
+		margin: 0.75rem 0;
+		@include font-body;
+		color: white;
+		text-shadow: 0 0.5px 1px rgb(black, 60%);
+	}
+
+	li {
+		@include font-body;
+		color: white;
+		text-shadow: 0 0.5px 1px black;
+	}
+}
+
+// == LEVELS == //
+article
+{
+	ul {
+		list-style: '›    ';
+		margin-left: 1.25em;
+	}
+}
+
+// == CODE == //
+article
+{
+	:not(pre) code {
+		padding: 0.1rem 0.25rem;
+		@include font-code;
+		background: rgb(#000020, 12%);
+		border-radius: 0.1rem;
+	}
+
+	pre:has(code) {
+		padding: 1rem;
+		line-height: 1.5;
+		background: rgb(#000020, 60%);
+
+		code {
+			@include font-code;
+			color: white;
+			font-size: 90%;
+		}
+	}
+}

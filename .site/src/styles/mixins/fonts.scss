@@ -1,0 +1,14 @@
+@mixin font-body {
+	font-family: var(--font-body, 'Outfit');
+	font-weight: 200;
+}
+
+@mixin font-head {
+	font-family: var(--font-head, 'Outfit');
+}
+
+@mixin font-code {
+	font-family: 'Fira Mono';
+	font-size: 80%;
+	font-weight: normal;
+}
