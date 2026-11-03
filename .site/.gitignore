@@ -1,9 +1,8 @@
 # Squarkdown
-**/(love)/(dyna)/*
-!**/(love)/(dyna)/.gitkeep
+src/routes/(love)/(dyna)/**/+page.svx
+src/routes/(love)/(dyna)/**/+page.ts
 
-src/data/*
-!src/data/.gitkeep
+src/data/*.json
 
 # SvelteKit
 build/
