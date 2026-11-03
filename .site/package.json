@@ -21,9 +21,9 @@
 
   "imports": {
     "#src/*":     "./src/*",
-    "#parts/*":   "./parts/*",
-    "#styles/*":  "./styles/*",
-    "#scripts/*": "./scripts/*"
+    "#parts/*":   "./src/parts/*",
+    "#styles/*":  "./src/styles/*",
+    "#scripts/*": "./src/scripts/*"
   },
 
   "dependencies":
