@@ -8,6 +8,8 @@ import { mdsvex } from "mdsvex";
 import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex-svelte";
 
+import { fileURLToPath } from "node:url";
+
 
 // yes, I prefer Edge’s smooth scrolling :P
 if (process.argv.includes("--open")) {
@@ -44,7 +46,9 @@ const config = sveltekit(
 		}),
 		sveltePreprocess({
 			scss: {
-				includePaths: ["src/styles"],
+				includePaths: [
+					fileURLToPath(new URL("./src/styles", import.meta.url))
+				],
 				prependData: `
 					@use 'sass:color' as colour;
 					
