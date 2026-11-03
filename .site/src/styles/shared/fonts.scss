@@ -1,6 +1,9 @@
+$default-font-family: 'Outfit';
+$default-font-weight: 200;
+
 @mixin font-body {
-	font-family: var(--font-body, 'Outfit');
-	font-weight: 200;
+	font-family: var(--font-body, $default-font-family);
+	font-weight: $default-font-weight;
 }
 
 @mixin font-head {
@@ -17,4 +20,8 @@
 @mixin font-ui {
 	font-family: 'Outfit';
 	font-weight: 250;
+}
+
+@mixin font-fun {
+	font-family: 'Nanum Pen Script';
 }

@@ -14,11 +14,17 @@ import { BASE } from "#src/site.ts";
 		<h3> an assortment of all my creations! </h3>
 
 		<p> Creative Commons Attribution-ShareAlike </p>
-		<p> CC BY-SA 4.0 </p>
+		<p>
+			<a href="https://creativecommons.org/licenses/by-sa/4.0">
+				CC BY-SA 4.0
+			</a>
+		</p>
 	</div>
 
 	<div class="right">
-		<p> built with Svelte 5 + SvelteKit 3 + Stranger Quarkdown </p>
+		<p>
+			built with <a target="_blank" href="https://svelte.dev">Svelte 5</a> + <a target="_blank" href="https://svelte.dev/docs/kit">SvelteKit 3</a> + <a target="_blank" href="https://github.com/Sup2point0/stranger-quarkdown">Stranger Quarkdown</a>
+		</p>
 	</div>
 </footer>
 
@@ -26,9 +32,38 @@ import { BASE } from "#src/site.ts";
 <style lang="scss">
 
 footer {
-	margin: 0 4rem;
 	min-height: 16rem;
+	padding-top: 1rem;
+	margin: 0 4rem;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
 	border-top: 1px solid rgb(white, 20%);
+}
+
+.left {
+	@include font-ui;
+	color: white;
+
+	h3 {
+		margin-bottom: 1rem;
+		@include font-fun;
+		font-size: 300%;
+		font-weight: normal;
+	}
+
+	a {
+		@include link($underline: true);
+	}
+}
+
+.right {
+	@include font-ui;
+	color: white;
+
+	a {
+		@include link($underline: true);
+	}
 }
 
 </style>
