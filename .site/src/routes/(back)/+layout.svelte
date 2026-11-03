@@ -40,7 +40,7 @@ img#back {
 	left: 0;
 	z-index: -1;
 	transform: scale(150%) scaleY(-1);
-	filter: brightness(90%) saturate(120%) blur(60px);
+	filter: brightness(84%) saturate(120%) blur(60px);
 }
 
 .layout {

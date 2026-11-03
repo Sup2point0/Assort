@@ -1,0 +1,35 @@
+@use 'colours' as *;
+
+
+@mixin link($underline: false) {
+	position: relative;
+	color: $col-assort-light;
+	text-decoration: none;
+	transition: all 0.12s ease-out;
+
+	&:hover, &:focus-visible {
+		color: $col-yellow;
+	}
+
+	@if $underline {
+		&::after {
+			content: '';
+			position: absolute;
+			left: 5%;
+			bottom: -0.2em;
+			width: 90%;
+			height: 1px;
+			background-color: $col-yellow;
+			visibility: none;
+			opacity: 0;
+			transform: translateY(-0.1em);
+			transition: all 0.12s ease-out;
+		}
+
+		&:hover::after, &:focus-visible::after {
+			visibility: visible;
+			opacity: 1;
+			transform: none;
+		}
+	}
+}
