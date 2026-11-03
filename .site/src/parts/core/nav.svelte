@@ -18,7 +18,7 @@ import NavLink from "./nav.link.svelte";
 
 	<section>
 		<h2> Explore </h2>
-		<NavLink text="home" intern="{BASE}" hover="Where it all begins" />
+		<NavLink text="home" intern="" hover="Where it all begins" />
 		<NavLink text="FAQ" intern="info/faq" hover="Fervently Acquired Questions" />
 		<NavLink text="featured" intern="featured" hover="Explore my favourite pages" />
 		<NavLink text="contents" intern="contents" hover="Explore all the pages" />
@@ -35,7 +35,12 @@ import NavLink from "./nav.link.svelte";
 
 	<section>
 		<h2> Franchises </h2>
-		<NavLink text="Yu-Gi-Oh!" intern="yugioh" />
+		<NavLink text="Yu-Gi-Oh!" intern="yugioh">
+			<NavLink text="archetypes" intern="yugioh/archetypes" />
+			<NavLink text="decks" intern="yugioh/decks" />
+			<NavLink text="cards" intern="yugioh/cards" />
+			<NavLink text="lore" intern="yugioh/lore" />
+		</NavLink>
 	</section>
 	
 	<section>
@@ -53,22 +58,23 @@ import NavLink from "./nav.link.svelte";
 <style lang="scss">
 
 nav {
-	width: 20vw;
+	width: 16vw;
 	min-width: 12em;
 	max-width: 20em;
 	min-height: 80vh;
 	max-height: max-content;
-	padding: 1rem;
+	padding: 1rem 0.5rem;
 	background: rgb(white, 20%);
 }
 
 section {
-	margin-bottom: 1rem;
+	margin-bottom: 1.5rem;
 	display: flex;
 	flex-flow: column nowrap;
 
 	h2 {
-		margin-bottom: 0.5rem;
+		margin-left: 0.6rem;
+		margin-bottom: 0.25rem;
 		@include font-head;
 		color: $col-yellow;
 		font-size: 120%;

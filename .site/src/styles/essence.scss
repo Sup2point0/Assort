@@ -2,6 +2,7 @@
 Global styles applied to every page.
 */
 
+@use './shared/colours' as *;
 @use './shared/fonts' as *;
 
 
@@ -18,4 +19,5 @@ Global styles applied to every page.
 
 html {
   scrollbar-width: thin;
+  scrollbar-color: $col-assort black;
 }

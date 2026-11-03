@@ -44,6 +44,7 @@ let data = $derived(page.data as PageData<"long">);
 }
 
 main {
+	width: 100%;
 	padding: 0 1rem;
 }
 

@@ -5,6 +5,8 @@ The header for a page.
 
 <script lang="ts">
 
+import { BASE } from "#src/site";
+
 import type { PageData } from "stranger-quarkdown";
 
 
@@ -29,10 +31,24 @@ let { page, text }: Props = $props();
 			{@html page.heading}
 		</h1>
 
-		{#if page.caption}
-			<p class="caption">
-				{@html page.caption}
-			</p>
+		{#if page.caption || page.tags?.length}
+			<div class="lower">
+				{#if page.caption}
+					<p class="caption">
+						{@html page.caption}
+					</p>
+				{/if}
+
+				{#if page.tags?.length}
+					<div class="tags">
+						{#each page.tags as tag}
+							<a class="tag" href="{BASE}/portal?tag={tag}">
+								{tag}
+							</a>
+						{/each}
+					</div>
+				{/if}
+			</div>
 		{/if}
 
 	{:else}
@@ -46,7 +62,7 @@ let { page, text }: Props = $props();
 
 header {
 	margin-bottom: 4rem;
-	padding-bottom: 1rem;
+	padding-bottom: 0.75rem;
 	border-bottom: 1px solid rgb(white, 20%);
 }
 
@@ -55,6 +71,40 @@ h1 {
 	color: white;
 	font-weight: 100;
 	font-size: 300%;
+}
+
+.lower {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+
+	p.caption {
+		margin-top: 0.5rem;
+		@include font-body;
+		color: rgb(white, 70%);
+		font-size: 125%;
+	}
+
+	.tags {
+		display: flex;
+		flex-flow: row wrap;
+		align-items: end;
+		gap: 0.5rem;
+
+		.tag {
+			padding: 0.2rem 0.75rem 0.3rem;
+			@include font-ui;
+			color: white;
+			text-decoration: none;
+			background: rgb(white, 20%);
+			border-radius: $border-radius;
+			transition: all 0.12s ease-out;
+
+			&:hover {
+				background: $col-assort;
+			}
+		}
+	}
 }
 
 </style>
