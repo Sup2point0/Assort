@@ -12,3 +12,9 @@
 	font-size: 80%;
 	font-weight: normal;
 }
+
+
+@mixin font-ui {
+	font-family: 'Outfit';
+	font-weight: 250;
+}

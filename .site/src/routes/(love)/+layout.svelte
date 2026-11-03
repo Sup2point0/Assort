@@ -10,17 +10,13 @@ let { children } = $props();
 
 <img id="back" src="{BASE}/back/sunset.png" />
 
-<div class="layout">
-	<main>
-		{#if children != undefined}
-			{@render children()}
-		{:else}
-			<p class="error">
-				Something went wrong rendering the page!
-			</p>
-		{/if}
-	</main>
-</div>
+{#if children != undefined}
+	{@render children()}
+{:else}
+	<p class="error">
+		Something went wrong rendering the page!
+	</p>
+{/if}
 
 
 <style lang="scss">
@@ -35,12 +31,6 @@ img#back {
 	z-index: -1;
 	transform: scale(150%) scaleY(-1);
 	filter: brightness(90%) saturate(120%) blur(80px);
-}
-
-.layout {
-	main {
-		padding: 1rem 2rem;
-	}
 }
 
 </style>

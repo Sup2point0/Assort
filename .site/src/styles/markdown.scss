@@ -2,6 +2,7 @@
 Styles specifically for `+page.svx` Markdown content.
 */
 
+@use './mixins/colours' as *;
 @use './mixins/fonts' as *;
 
 
@@ -12,7 +13,7 @@ article
 		margin-top: 5rem;
 		margin-bottom: 2rem;
 		@include font-head;
-		color: oklch(0.8485 0.1702 87.35);
+		color: $col-yellow;
 		font-weight: 200;
 		font-size: 250%;
 		width: 100%;
@@ -89,4 +90,10 @@ article
 			font-size: 90%;
 		}
 	}
+}
+
+// == SPECIAL == //
+article
+{
+	// TODO
 }

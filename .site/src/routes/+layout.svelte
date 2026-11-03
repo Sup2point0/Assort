@@ -1,5 +1,5 @@
 <!--
-The root layout which wraps everything in `<div#root>` for setting global attributes, but does NOT contribute any elements beyond that.
+	The root layout which wraps everything in `<div#root>` for setting global attributes, but does NOT contribute any elements beyond that.
 -->
 
 <script lang="ts">
@@ -24,6 +24,15 @@ let font_head = $derived(get_font_for_theme(FONT_HEAD, data.tags));
 
 </script>
 
+
+<svelte:head>
+	<!-- TODO add category -->
+	{#if data.title != undefined && data.title !== ""}
+		<title> {data.title} · Assort </title>
+	{:else}
+		<title> Assort · Sup#2.0 </title>
+	{/if}
+</svelte:head>
 
 <div id="root"
 	class={data?.tags}
