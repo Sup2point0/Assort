@@ -3,11 +3,7 @@
 | dest = dev/in-perfection/ruby
 | title = Ruby
 | desc = Everything I love and dislove about the Ruby programming language
-| style = dev
-| duality = dark
-| series = In Perfection
-| index = lists / dev
-| shard = #INDEX / opinion
+| tags = dev / in-perfection / lists / opinion
 -->
 
 
