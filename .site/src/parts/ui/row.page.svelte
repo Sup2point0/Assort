@@ -50,7 +50,8 @@ a {
 
 	h3 {
 		margin: 0;
-		@include font-head;
+		@include font-ui;
+		color: white;
 		font-size: 125%;
 	}
 

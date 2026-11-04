@@ -60,6 +60,7 @@ let breadcrumbs = $derived.by(() => {
 
 ul.breadcrumbs {
 	list-style: none;
+	margin-bottom: 2rem;
 	display: flex;
 	flex-flow: row wrap;
 

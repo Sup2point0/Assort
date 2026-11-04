@@ -30,7 +30,7 @@ article
 		@include font-head;
 		color: white;
 		font-weight: 300;
-		font-size: 150%;
+		font-size: 200%;
 		text-shadow: 0 0.5px 1px rgb(black, 60%);
 	}
 
@@ -40,7 +40,7 @@ article
 		@include font-head;
 		color: white;
 		font-weight: 100;
-		font-size: 125%;
+		font-size: 150%;
 		text-shadow: 0 0.5px 1px rgb(black, 60%);
 	}
 }
@@ -57,6 +57,7 @@ article
 	}
 
 	li {
+		margin: 0.5rem 0;
 		@include font-body;
 		color: white;
 		text-shadow: 0 0.5px 1px black;
@@ -70,7 +71,9 @@ article
 // == LINKS == //
 article
 {
-	p a:not(.footnote-ref) {
+	p a:not(.footnote-ref),
+	li a:not(.footnote-ref)
+	{
 		@include link;
 		font-weight: calc($default-font-weight + 100);
 	}

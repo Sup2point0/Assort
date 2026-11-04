@@ -33,12 +33,12 @@ import { BASE } from "#src/site.ts";
 
 footer {
 	min-height: 16rem;
+	padding: 0 4rem;
 	padding-top: 1rem;
-	margin: 0 4rem;
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: space-between;
-	border-top: 1px solid $col-line;
+	background: rgb(black, 10%);
 }
 
 .left {

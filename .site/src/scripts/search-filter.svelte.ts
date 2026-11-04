@@ -7,7 +7,7 @@ export class SearchFilter
 {
 	query = $state("")
 	
-	view: "list" | "grid" = $state("list")
+	view: "list" | "grid" = $state("grid")
 
 
 	/** Apply the search filters to the given `pages`. Returns `null` if no filtering needs to be applied. */
