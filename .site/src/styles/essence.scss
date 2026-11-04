@@ -21,3 +21,8 @@ html {
   scrollbar-width: thin;
   scrollbar-color: $col-assort black;
 }
+
+::selection {
+  color: white !important;
+  background: $col-assort !important;
+}
