@@ -29,6 +29,7 @@ site-data-path = 'src/data/site.json'
 shorter-fields = false
 
 [format]
+inject-head = false
 externalise-links = true
 
 [assets]
