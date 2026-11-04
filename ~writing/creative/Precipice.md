@@ -2,10 +2,7 @@
 <!-- #SQUARK live! deep!
 | dest = writing/precipice
 | desc = I hear the water long before I reach the peak.
-| style = creative-writing
-| duality = light
-| index = writing / creative-writing
-| shard = #INDEX / antarctica
+| tags = writing / creative-writing / antarctica
 | date = 2023 June
 -->
 

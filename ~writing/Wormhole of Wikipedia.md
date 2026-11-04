@@ -2,9 +2,7 @@
 <!-- #QUARK live! dev!
 | dest = writing/wormhole-of-wikipedia
 | desc = An inevitable phenomenon when browsing Wikipedia
-| style = writing
-| index = writing
-| shard = #INDEX
+| tags = writing
 -->
 
 One of my favourite indulgences is freely browsing Wikipedia. Maybe it’s down to my natural interest for anything and everything, but it’s kinda unreal how much I enjoy it, and how long I can go on for, just reading whatever interesting articles I come across.

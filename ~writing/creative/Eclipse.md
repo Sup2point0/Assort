@@ -2,10 +2,7 @@
 <!-- #SQUARK live! deep!
 | dest = writing/eclipse
 | desc = It had already fallen dark.
-| style = creative-writing
-| duality = dark
-| index = writing
-| shard = #INDEX / archives
+| tags = writing / archives
 | date = 2021 September
 -->
 

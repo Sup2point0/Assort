@@ -2,9 +2,7 @@
 <!-- #SQUARK live! dev!
 | dest = writing/wriiting
 | title = wriiting
-| style = writing
-| index = writing
-| shard = #INDEX / meta
+| tags = writing / meta
 | clean = line-breaks
 -->
 

@@ -2,10 +2,7 @@
 <!-- #SQUARK live! deep! woozy!
 | dest = writing/friend
 | desc = He’s sitting on the bench, at our usual spot, waiting for me.
-| style = creative-writing
-| duality = dark
-| index = writing
-| shard = #INDEX / archives
+| tags = writing / archives
 | date = 2020 September
 | clean = braces
 -->

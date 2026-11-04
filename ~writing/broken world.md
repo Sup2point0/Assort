@@ -2,9 +2,7 @@
 <!-- #SQUARK live!
 | dest = writing/broken-world
 | desc = What if the world is broken?
-| style = writing
-| index = writing
-| shard = #INDEX / rambling
+| tags = writing / rambling
 | date = 2023 June 21
 | update = 2025 December 13
 -->
