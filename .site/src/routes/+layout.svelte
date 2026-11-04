@@ -66,3 +66,12 @@ onNavigate(navigation => {
 		</p>
 	{/if}
 </div>
+
+
+<style lang="scss">
+
+.root {
+	max-width: 100vw;
+}
+
+</style>
