@@ -76,11 +76,11 @@ import NavLink from "./nav.link.svelte";
 	
 	<section>
 		<h2> Meta </h2>
-		<NavLink text="synopsis" intern="synopsis" hover="What is Assort?" />
-		<NavLink text="decoded" intern="decoded" hover="Lessons and learnings from Assort" />
-		<NavLink text="genAI" intern="ai" hover="generative AI statement" />
+		<NavLink text="synopsis" intern="info/synopsis" hover="What is Assort?" />
+		<NavLink text="decoded" intern="info/decoded" hover="Lessons and learnings from Assort" />
+		<NavLink text="genAI" intern="info/ai" hover="generative AI statement" />
 		<NavLink text="licence" intern="info/licence" hover="CC BY-SA 4.0" />
-		<NavLink text="stats" intern="stats" hover="stats for nerds" />
+		<NavLink text="stats" intern="info/stats" hover="stats for nerds" />
 		<NavLink text="sup" intern="sup" hover="??" />
 	</section>
 </nav>

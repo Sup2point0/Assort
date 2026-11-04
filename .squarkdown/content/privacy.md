@@ -1,9 +1,9 @@
 # Privacy
 <!-- #SQUARK live!
-| dest = meta/privacy
+| dest = info/privacy
 | desc = Assort’s (nonexistent) privacy policy
 | capt = Data and Cookies
-| tags = meta
+| tags = info
 | date = 2024 October
 | update = 2026 November
 -->

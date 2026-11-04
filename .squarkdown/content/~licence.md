@@ -1,8 +1,8 @@
 # License
 <!-- #SQUARK live!
-| dest = meta/licence
+| dest = info/licence
 | capt = Copyright on Content from <em>Assort</em>
-| tags = meta
+| tags = info
 | update = 2026 November 4
 -->
 
