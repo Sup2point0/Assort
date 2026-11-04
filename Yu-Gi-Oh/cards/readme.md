@@ -1,7 +1,7 @@
 # Cards
 <!-- #SQUARK live! index!
 | dest = yugioh/cards
-| index = yugioh-cards
+| tags = yugioh-cards
 -->
 
 All the custom cards I’ve created.[^create] Of course, this is nowhere near complete, since tracking every single card I’ve made would take a little too much effort; nevertheless, most of the major archetypes I’ve created are here.

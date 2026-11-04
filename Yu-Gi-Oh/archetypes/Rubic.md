@@ -3,9 +3,7 @@
 | dest = yugioh/archetypes/rubic
 | capt = Yu-Gi-Oh! Archetype
 | desc = An archetype of DARK Cyberse Monsters inspired by trigonometry and Rubik’s cubes.
-| style = yugioh
-| index = yugioh / yugioh-archetypes
-| shard = #INDEX / maths
+| tags = yugioh / yugioh-archetypes / maths
 | clean = braces
 -->
 

@@ -4,9 +4,7 @@
 | title = The Stranded Saga
 | desc = A custom Yu-Gi-Oh lore storyline
 | capt = Yu-Gi-Oh! Storyline
-| style = yugioh
-| index = stranded-saga
-| shard = #INDEX / yugioh
+| tags = yugioh / stranded-saga
 -->
 
 The *Stranded Saga* is a storyline connecting several archetypes, including the eponymous [*Stranded*](../../archetypes/Stranded.md) archetype.

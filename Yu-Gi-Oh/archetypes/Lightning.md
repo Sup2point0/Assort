@@ -3,9 +3,7 @@
 | dest = yugioh/archetypes/lightning
 | capt = Yu-Gi-Oh! Archetype
 | desc = An archetype of LIGHT Monsters, closely related to and supporting the Vapour-Eyes archetype.
-| style = yugioh
-| index = yugioh-archetypes
-| shard = #INDEX / yugioh
+| tags = yugioh / yugioh-archetypes
 | clean = braces
 -->
 

@@ -3,10 +3,7 @@
 | dest = yugioh/decks/vraptor
 | title = Vraptor
 | desc = A mostly pure Raidraptor deck, the first modern deck I built.
-| style = yugioh
-| duality = dark
-| index = yugioh-decks
-| shard = #INDEX / yugioh
+| tags = yugioh / yugioh-decks
 -->
 
 After returning to *Yu-Gi-Oh*, this was the first deck I built.
