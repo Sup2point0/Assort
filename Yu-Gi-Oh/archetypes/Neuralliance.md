@@ -3,7 +3,7 @@
 | dest = yugioh/archetypes/neuralliance
 | capt = Yu-Gi-Oh! Superarchetype
 | desc = A superarchetype of LIGHT, DARK and WATER monsters, inspired by the nervous system and neural processes.
-| tags = yugioh / yugioh-archetypes-superarchetypes / yugioh
+| tags = yugioh / yugioh-superarchetypes / yugioh
 | clean = braces
 -->
 

@@ -3,7 +3,7 @@
 | dest = yugioh/archetypes/next-gen
 | capt = Yu-Gi-Oh! Superarchetype
 | desc = A superarchetype of revitalisations of various existing Yu-Gi-Oh archetypes.
-| tags = yugioh / yugioh / yugioh-archetypes-superarchetypes
+| tags = yugioh / yugioh / yugioh-superarchetypes
 | clean = braces
 -->
 
