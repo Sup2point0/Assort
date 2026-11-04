@@ -1,7 +1,7 @@
 @use 'colours' as *;
 
 
-@mixin link($underline: false) {
+@mixin link($underline: true) {
 	position: relative;
 	color: $col-assort-light;
 	text-decoration: none;
