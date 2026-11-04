@@ -55,6 +55,12 @@ let { page, text }: Props = $props();
 			</div>
 		</div>
 	{/if}
+	
+	{#if page?.last_update_raw != undefined}
+		<p class="date">
+			last updated <span>{page.last_update_raw}</span>
+		</p>
+	{/if}
 </header>
 
 
@@ -62,6 +68,7 @@ let { page, text }: Props = $props();
 
 header {
 	margin-bottom: 4rem;
+	position: relative;
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: space-between;
@@ -106,6 +113,18 @@ header {
 				background: $col-assort;
 			}
 		}
+	}
+}
+
+p.date {
+	position: absolute;
+	right: 0;
+	bottom: -2rem;
+	@include font-ui;
+	color: rgb(white, 50%);
+
+	span {
+		color: $col-cyan;
 	}
 }
 

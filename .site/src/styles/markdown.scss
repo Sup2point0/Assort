@@ -118,7 +118,7 @@ article
 	}
 
 	tr:nth-child(even) {
-		background: rgb(white, 4%);
+		background: rgb(black, 8%);
 	}
 
 	th, td {
@@ -132,9 +132,14 @@ article
 	}
 
 	th {
-		@include font-body;
+		@include font-head;
 		font-weight: calc($default-font-weight + 200);
 		background: $col-line;
+		border-bottom: 1px solid $col-yellow;
+	}
+
+	td {
+		@include font-body;
 	}
 }
 

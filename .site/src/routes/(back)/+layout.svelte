@@ -32,7 +32,7 @@ let { children } = $props();
 <style lang="scss">
 
 .layout {
-	margin-bottom: 4rem;
+	margin-bottom: 6rem;
 	padding: 0 2rem;
 	padding-top: 3rem;
 	display: flex;
