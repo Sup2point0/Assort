@@ -2,7 +2,7 @@
 <!-- #SQUARK live!
 | dest = dev/shards
 | capt = A casing standard for permanent unique readable identifiers
-| index = dev
+| tags = dev
 | date = 2025 September
 | update = 2025 December 13
 -->

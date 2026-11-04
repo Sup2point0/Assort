@@ -1,9 +1,7 @@
 # Especially Ingenious Quotes on Software Development
 <!-- #SQUARK live!
 | dest = dev/quotes
-| style = quotes
-| index = dev / lists / quotes
-| shard = #INDEX
+| tags = dev / lists / quotes
 -->
 
 - All code becomes legacy code the moment it’s written.

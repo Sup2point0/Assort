@@ -1,5 +1,6 @@
 # My Style Guide for Code
-<!-- #SQUARK live!
+<!-- #SQUARK live! dev!
+| dest = dev/style
 | date = 2026 July 12
 -->
 

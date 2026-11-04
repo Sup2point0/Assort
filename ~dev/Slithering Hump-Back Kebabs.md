@@ -2,10 +2,7 @@
 <!-- #SQUARK live!
 | dest = dev/kebabs
 | desc = A deep dive into casing in identifier naming
-| style = dev
-| duality = dark
-| index = dev
-| shard = #INDEX / writing
+| tags = dev / writing
 | date = 2024 spring
 -->
 

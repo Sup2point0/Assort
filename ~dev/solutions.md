@@ -2,9 +2,7 @@
 <!-- #SQUARK live! dev!
 | dest = dev/solutions
 | desc = An archive of technical issues I’ve faced throughout the years, and the solutions I eventually discovered
-| style = dev
-| index = dev
-| shard = #INDEX / lists
+| tags = dev / resources / lists
 | date = 2024 autumn
 -->
 

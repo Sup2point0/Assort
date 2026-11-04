@@ -2,8 +2,7 @@
 <!-- #SQUARK live!
 | dest = dev/internet-gems
 | desc = A collection of incredible creations, resources, sites and articles I’ve discovered on the internet
-| style = dev
-| index = dev / lists
+| tags = dev / lists
 | clean = line-breaks
 -->
 
