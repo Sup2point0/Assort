@@ -1,5 +1,32 @@
 <script lang="ts">
 
+import SITE from "#src/site";
+
+import { Search } from "#parts/ui";
+
+
+let query = $state("");
+
+let results = $derived.by(() => {
+	let out = (
+		Object.values(SITE.pages)
+			.filter(page => page.title.toLowerCase().includes(query.toLowerCase()))
+	);
+
+	return out;
+});
+
 </script>
 
 
+<p> yooo, thanks for checking out <em>Assort</em>! </p>
+<p> Here you’ll find a complete collection of all the pages in <em>Assort</em> (well, those that are on the site at least ;) </p>
+
+
+<div style:height="2rem"></div>
+
+<Search bind:value={query} />
+
+{#each results as page}
+	<code> {JSON.stringify(page)} </code>
+{/each}
