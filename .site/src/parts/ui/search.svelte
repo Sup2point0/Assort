@@ -6,15 +6,17 @@
 
 import { FrozenWeightedList } from "@sup2.0/weighted-list";
 
+import type { SearchFilter } from "#scripts/search-filter.svelte.ts";
+
 import { onMount } from "svelte";
 
 
 interface Props {
-  value: string
+  filters: SearchFilter
   placeholder?: string
 }
 
-let { value = $bindable(), placeholder = "Search" }: Props = $props();
+let { filters = $bindable(), placeholder = "Search" }: Props = $props();
 
 
 const PLACEHOLDERS = new FrozenWeightedList(
@@ -25,7 +27,7 @@ const PLACEHOLDERS = new FrozenWeightedList(
 );
 
 onMount(() => {
-	placeholder = PLACEHOLDERS.sample_value();
+	placeholder = PLACEHOLDERS.sample_value() ?? "Search";
 })
 
 </script>
@@ -33,13 +35,23 @@ onMount(() => {
 
 <search>
 	<input type="search"
-		bind:value
+		bind:value={filters.query}
 		{placeholder}
 	/>
+
+	<button class:current={filters.view === "list"} onclick={() => filters.view = "list"}> List </button>
+	<button class:current={filters.view === "grid"} onclick={() => filters.view = "grid"}> Grid </button>
 </search>
 
 
 <style lang="scss">
+
+search {
+	display: flex;
+	flex-flow: row nowrap;
+	align-items: stretch;
+	gap: 0.5rem;
+}
 
 input[type='search'] {
 	appearance: none;
@@ -71,6 +83,22 @@ input[type='search'] {
 
 	&::-webkit-search-cancel-button {
 		display: none;
+	}
+}
+
+button {
+	padding: 0.5rem 1rem;
+	@include font-ui;
+	color: white;
+	@include card("light");
+	border: none;
+
+	&.current {
+		background: rgb(white, 40%);
+	}
+
+	&:hover, &:focus-visible {
+		cursor: pointer;
 	}
 }
 

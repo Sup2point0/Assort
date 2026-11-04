@@ -39,6 +39,7 @@ let { children } = $props();
 	flex-flow: row nowrap;
 
 	main {
+		flex: 1;
 		margin-left: 2rem;
 		margin-right: 4rem;
 	}

@@ -24,12 +24,9 @@ let { page }: Props = $props();
 	</div>
 
 	<div class="right">
-		{#if page.release_date_raw}
-			<p> released <span>{page.release_date_raw}</span> </p>
-		{/if}
-		{#if page.last_update_raw && page.last_update_raw != page.release_date_raw}
-			<p> updated <span>{page.last_update_raw}</span> </p>
-		{/if}
+		{#each page.tags ?? [] as tag}
+			<span class="tag"> {tag} </span>
+		{/each}
 	</div>
 </a>
 
@@ -37,21 +34,20 @@ let { page }: Props = $props();
 <style lang="scss">
 
 a {
-	max-width: 40rem;
+	max-width: 50rem;
 	padding: 0.5rem 1rem;
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: space-between;
 	align-items: start;
+	gap: 1rem;
 	@include card("dark");
 	text-decoration: none;
-
-	p {
-		text-shadow: none;
-	}
 }
 
 .left {
+	flex: 2;
+
 	h3 {
 		margin: 0;
 		@include font-head;
@@ -63,22 +59,30 @@ a {
 		@include font-body;
 		color: rgb(white, 40%);
 		font-size: 90%;
+		text-shadow: none;
 	}
 }
 
 .right {
-	min-width: max-content;
-	text-align: right;
+	flex: 1;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: end;
+	gap: 0.5rem;
 
-	p {
-		margin: 0;
+	.tag {
+		min-width: max-content;
+		padding: 0.2rem 0.75rem 0.3rem;
 		@include font-ui;
-		color: rgb(white, 50%);
-		font-size: 80%;
-		box-shadow: none;
-		
-		span {
-			color: white;
+		color: white;
+		font-size: 90%;
+		text-decoration: none;
+		background: $col-line;
+		border-radius: $border-radius;
+		transition: all 0.12s ease-out;
+
+		&:hover {
+			background: $col-assort;
 		}
 	}
 }

@@ -8,11 +8,15 @@ import { Search, PageRow } from "#parts/ui";
 
 const pages = Object.values(SITE.pages);
 
+// svelte-ignore non_reactive_update: inner reactivity
 let filters = new SearchFilter();
 
 let results = $derived(
-		filters.apply(pages)
-	?? pages.toSorted((page1, page2) => page1.title?.localeCompare(page2.title) ?? 0)
+	filters.apply(pages)
+		?? pages.toSorted((page1, page2) =>
+			(page1.title ?? "Untitled").localeCompare(page2.title ?? "Untitled")
+				?? 0
+		)
 );
 
 </script>
@@ -24,11 +28,11 @@ let results = $derived(
 
 <div style:height="3rem"></div>
 
-<Search bind:value={filters.query} />
+<Search bind:filters />
 
-<div style:height="1rem"></div>
+<div style:height="2rem"></div>
 
-<ol class="results">
+<ol class="results {filters.view}">
 	{#each results as page}
 		<PageRow {page} />
 	{/each}
@@ -40,8 +44,20 @@ let results = $derived(
 ol {
 	list-style: none;
 
-	> :global(*) {
-		margin-top: 0.5rem;
+	&.list {
+		display: flex;
+		flex-flow: column nowrap;
+		gap: 0.5rem;
+	}
+
+	&.grid {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 0.5rem;
+
+		@media (min-width: 1441px) {
+			grid-template-columns: 1fr 1fr 1fr;
+		}
 	}
 }
 
