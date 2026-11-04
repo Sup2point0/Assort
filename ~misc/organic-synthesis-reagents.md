@@ -2,8 +2,7 @@
 <!-- #SQUARK live!
 | dest = organic-synthesis-reagents
 | desc = All the reagents I’ve learnt in organic synthesis.
-| index = misc
-| shard = #INDEX / lists
+| tags = misc / lists
 -->
 
 Y’know what, it’d be really useful to collect and archive all of the reagents I’ve learnt in organic synthesis.

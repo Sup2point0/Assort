@@ -1,8 +1,7 @@
 # Discipline
 <!-- #SQUARK live! woozy!
 | dest = discipline
-| duality = dark
-| shard = writing / personal
+| tags = writing / personal
 -->
 
 ### Avoid shouting.

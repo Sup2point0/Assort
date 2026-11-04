@@ -2,7 +2,7 @@
 <!-- #SQUARK live! feat!
 | dest = filltext
 | desc = Multi-purpose filler text that’s more fun than Lorem Ipsum
-| index = misc
+| tags = resources
 -->
 
 Yes, I spent my time on this.
