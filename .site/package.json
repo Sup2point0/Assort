@@ -29,6 +29,8 @@
   "dependencies":
   {
     "@sup2.0/weighted-list": "^0.2",
+    "@stdlib/random-sample": "^0.2",
+    "fuzzball": "^2.2",
     "svelte-persisted-store": "^0.12"
   },
 
