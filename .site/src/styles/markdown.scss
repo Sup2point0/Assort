@@ -61,6 +61,10 @@ article
 		color: white;
 		text-shadow: 0 0.5px 1px black;
 	}
+
+	strong {
+		font-weight: calc($default-font-weight + 200);
+	}
 }
 
 // == LINKS == //
