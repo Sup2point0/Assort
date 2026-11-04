@@ -2,10 +2,7 @@
 <!-- #SQUARK live! deep!
 | dest = writing/seclusion
 | desc = Like yesterday, and the day before, and every other day for as long as I can remember, I gaze out to the morning sea.
-| style = creative-writing
-| duality = light
-| index = writing / creative-writing
-| shard = #INDEX / archives
+| tags = writing / creative-writing / archives
 | date = 2022 June
 -->
 

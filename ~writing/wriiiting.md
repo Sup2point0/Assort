@@ -2,9 +2,7 @@
 <!-- #SQUARK live!
 | dest = writing/wriiiting
 | desc = I need to write.
-| style = handwriting
-| index = writing
-| shard = #INDEX / personal / rambling
+| tags = writing / personal / rambling
 | date = 2024 November 28
 -->
 

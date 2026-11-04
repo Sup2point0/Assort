@@ -2,8 +2,7 @@
 <!-- #SQUARK dead! feat! dev!
 | dest = writing/origins
 | capt = A deep dive into the lore behind the username
-| index = writing / personal
-| shard = #INDEX / long / jokes
+| tags = writing / personal / long / jokes
 -->
 <!-- ↗ ↑ ↓ -->
 

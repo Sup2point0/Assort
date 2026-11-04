@@ -2,9 +2,7 @@
 <!-- #SQUARK live!
 | dest = writing/tearful
 | capt = Why Do I Cry Now?
-| style = handwriting
-| index = writing
-| shard = #INDEX / personal / rambling
+| tags = writing / personal / rambling
 | date = 2024 November
 -->
 

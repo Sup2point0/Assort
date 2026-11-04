@@ -2,9 +2,7 @@
 <!-- #SQUARK live!
 | dest = writing/writing
 | desc = Why do we write?
-| style = handwriting
-| index = writing
-| shard = #INDEX / rambling
+| tags = writing / rambling
 | date = 2023 summer
 -->
 
