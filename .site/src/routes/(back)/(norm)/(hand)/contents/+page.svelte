@@ -6,8 +6,14 @@ import SITE from "#src/site";
 import { Search, PageRow } from "#parts/ui";
 
 
+const pages = Object.values(SITE.pages);
+
 let filters = new SearchFilter();
-let results = $derived(filters.apply(Object.values(SITE.pages)));
+
+let results = $derived(
+		filters.apply(pages)
+	?? pages.toSorted((page1, page2) => page1.title?.localeCompare(page2.title) ?? 0)
+);
 
 </script>
 

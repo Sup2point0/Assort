@@ -1,5 +1,4 @@
 import { partial_ratio } from "fuzzball";
-import random_sample from "@stdlib/random-sample"
 
 import type { PageData } from "#scripts/types";
 
@@ -11,10 +10,11 @@ export class SearchFilter
 	view: "list" | "grid" = $state("list")
 
 
-	public apply(pages: PageData[]): PageData[]
+	/** Apply the search filters to the given `pages`. Returns `null` if no filtering needs to be applied. */
+	public apply(pages: PageData[]): PageData[] | null
 	{
 		if (this.query === "") {
-			return random_sample(pages);
+			return null;
 		}
 
 		return pages
