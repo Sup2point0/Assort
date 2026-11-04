@@ -38,7 +38,7 @@ footer {
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: space-between;
-	border-top: 1px solid rgb(white, 20%);
+	border-top: 1px solid $col-line;
 }
 
 .left {
@@ -53,7 +53,7 @@ footer {
 	}
 
 	a {
-		@include link($underline: true);
+		@include link;
 	}
 }
 
@@ -62,7 +62,7 @@ footer {
 	color: white;
 
 	a {
-		@include link($underline: true);
+		@include link;
 	}
 }
 

@@ -63,7 +63,7 @@ let { page, text }: Props = $props();
 header {
 	margin-bottom: 4rem;
 	padding-bottom: 0.75rem;
-	border-bottom: 1px solid rgb(white, 20%);
+	border-bottom: 1px solid $col-line;
 }
 
 h1 {
@@ -96,7 +96,7 @@ h1 {
 			@include font-ui;
 			color: white;
 			text-decoration: none;
-			background: rgb(white, 20%);
+			background: $col-line;
 			border-radius: $border-radius;
 			transition: all 0.12s ease-out;
 
