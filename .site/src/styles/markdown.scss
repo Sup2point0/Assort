@@ -164,6 +164,11 @@ article .footnotes
 // == SPECIAL == //
 article
 {
+	img {
+		padding: 1rem 3rem;
+		max-width: 100%;
+	}
+
 	hr {
 		display: none;
 	}
