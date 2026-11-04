@@ -12,6 +12,7 @@ import { get_font_for_theme, FONT_BODY, FONT_HEAD } from "./fonts";
 import { BASE } from "#src/site";
 
 import { page } from "$app/state";
+import { onNavigate } from "$app/navigation";
 
 import type { PageData } from "stranger-quarkdown";
 
@@ -23,6 +24,21 @@ let data = $derived(page.data as PageData<"long">);
 
 let font_body = $derived(data.font?.[0] ?? get_font_for_theme(FONT_BODY, data.tags));
 let font_head = $derived(data.font?.[0] ?? get_font_for_theme(FONT_HEAD, data.tags));
+
+
+onNavigate(navigation => {
+	if (document.startViewTransition == undefined) {
+		return;
+	}
+
+	return new Promise(resolve => {
+		document.startViewTransition(async () => {
+			resolve();
+			await navigation.complete;
+			window?.scrollTo(0, 0);
+		});
+	});
+})
 
 </script>
 
