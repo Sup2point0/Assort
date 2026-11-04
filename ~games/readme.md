@@ -3,10 +3,7 @@
 | dest = games
 | desc = All the games I’ve played and loved.
 | capt = Index Page
-| style = dev
-| duality = dark
-| index = games
-| shard = #INDEX / index / interests
+| tags = games / index / interests
 -->
 
 I don’t think I can really class as a hardcore gamer – I end up making games more than I play them, as you do – but I do enjoy my games.

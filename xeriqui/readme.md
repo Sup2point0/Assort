@@ -3,8 +3,7 @@
 | dest = xeriqui
 | desc = A fictional theory of existence and reality
 | capt = Index Page
-| index = xeriqui
-| shard = #INDEX / index / personal / fantasy
+| tags = xeriqui / index / personal / fantasy
 -->
 
 A fictional theory of existence and reality.
