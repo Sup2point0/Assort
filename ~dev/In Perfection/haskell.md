@@ -1,5 +1,7 @@
 # In Perfection – Haskell
 <!-- #SQUARK live!
+| dest = dev/in-perfection/haskell
+| tags = dev / in-perfection / lists / opinion
 | date = 2025 December 19
 | update = 2026 July 17
 -->

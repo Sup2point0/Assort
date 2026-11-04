@@ -1,7 +1,7 @@
 # *In Perfection*
 <!-- #SQUARK live!
 | dest = dev/in-perfection
-| index = dev / in-perfection
+| tags = dev / in-perfection
 | date = 2026 September 7
 | update = 2026 September 9
 -->
