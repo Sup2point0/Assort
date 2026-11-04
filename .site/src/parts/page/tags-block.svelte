@@ -40,7 +40,10 @@ let data = $derived(page.data as PageData);
 
 aside {
 	margin-top: 5rem;
-	padding: 2rem 0;
+	width: 90vw;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 2rem;
 	padding-left: 3rem;
 	border-top: 1px solid $col-line;
 	border-bottom: 1px solid $col-line;

@@ -7,6 +7,8 @@ The header for a page.
 
 import { BASE } from "#src/site";
 
+import { page as current_page } from "$app/state";
+
 import type { PageData } from "stranger-quarkdown";
 
 
@@ -27,8 +29,10 @@ let { page, text }: Props = $props();
 				{@html text}
 			{:else if page != undefined}
 				{@html page.heading}
+			{:else if current_page.data.heading}
+				{@html current_page.data.heading}
 			{:else}
-				{@const _ = console.warn("[Assort] `<Header>` received neither raw text nor page data!")}
+				{@const _ = console.warn("[Assort] `<Header>` received no heading to render!")}
 				Untitled Page
 			{/if}
 		</h1>
