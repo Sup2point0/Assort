@@ -73,6 +73,7 @@ header {
 	flex-flow: row wrap;
 	justify-content: space-between;
 	align-items: end;
+	gap: 1rem;
 	padding-bottom: 0.75rem;
 	border-bottom: 1px solid $col-line;
 }
@@ -124,7 +125,8 @@ p.date {
 	color: rgb(white, 50%);
 
 	span {
-		color: $col-cyan;
+		color: $col-assort-light;
+		font-weight: calc($default-font-weight + 100);
 	}
 }
 
