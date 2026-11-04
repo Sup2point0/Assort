@@ -5,6 +5,8 @@
 <script lang="ts">
 
 import "#styles/essence.scss";
+import "#styles/markdown.scss";
+import "#styles/realms.scss";
 
 import { get_font_for_theme, FONT_BODY, FONT_HEAD } from "./fonts";
 import { BASE } from "#src/site";
@@ -19,8 +21,8 @@ let { children } = $props();
 let data = $derived(page.data as PageData<"long">);
 
 
-let font_body = $derived(get_font_for_theme(FONT_BODY, data.tags));
-let font_head = $derived(get_font_for_theme(FONT_HEAD, data.tags));
+let font_body = $derived(data.font?.[0] ?? get_font_for_theme(FONT_BODY, data.tags));
+let font_head = $derived(data.font?.[0] ?? get_font_for_theme(FONT_HEAD, data.tags));
 
 </script>
 

@@ -1,7 +1,5 @@
 <script lang="ts">
 
-import "#styles/markdown.scss";
-
 import { Breadcrumbs, Header } from "#parts/page";
 
 import { page } from "$app/state";

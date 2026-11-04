@@ -1,8 +1,9 @@
 <script lang="ts">
 
-import { Nav, Footer } from "#parts/core";
-
 import { BASE } from "#src/site";
+
+import { Nav, Footer } from "#parts/core";
+import { AssortIcon } from "#parts/special";
 
 
 let { children } = $props();
@@ -13,6 +14,10 @@ let { children } = $props();
 <img id="back" alt="" src="{BASE}/back/sunset.png" />
 
 <div class="layout">
+	<a class="assort" href="{BASE}/">
+		<AssortIcon size={50} colour="white" />
+	</a>
+
 	<main>
 		{#if children != undefined}
 			{@render children()}
@@ -31,18 +36,6 @@ let { children } = $props();
 
 <style lang="scss">
 
-img#back {
-	width: 100vw;
-	height: 100vh;
-	object-fit: cover;
-	position: fixed;
-	top: 0;
-	left: 0;
-	z-index: -1;
-	transform: scale(150%) scaleY(-1);
-	filter: brightness(84%) saturate(120%) blur(60px);
-}
-
 .layout {
 	margin-bottom: 4rem;
 	padding: 0 2rem;
@@ -55,6 +48,25 @@ img#back {
 		margin-left: 2rem;
 		margin-right: 4rem;
 	}
+}
+
+img#back {
+	width: 100vw;
+	height: 100vh;
+	object-fit: cover;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	transform: scale(150%) scaleY(-1);
+	filter: brightness(84%) saturate(120%) blur(60px);
+}
+
+.assort {
+	position: absolute;
+	top: 2rem;
+	left: 50%;
+	transform: translateX(-50%);
 }
 
 </style>
