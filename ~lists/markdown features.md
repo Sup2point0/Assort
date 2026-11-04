@@ -2,8 +2,7 @@
 <!-- #SQUARK live!
 | dest = lists/markdown-features
 | desc = Markdown is absolutely awesome, but there are still some things I’d love to become standard in it.
-| index = lists
-| shard = #INDEX
+| tags = lists
 -->
 
 Markdown is absolutely awesome, but there are still some things I’d love to become standard in it.

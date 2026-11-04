@@ -2,8 +2,7 @@
 <!-- #SQUARK live!
 | dest = lists/fonts
 | desc = The external fonts I have installed on my devices
-| index = lists
-| shard = #INDEX / personal / archives
+| tags = lists / personal / archives
 | date = 2024 autumn
 -->
 
