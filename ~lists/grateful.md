@@ -2,7 +2,6 @@
 <!-- #SQUARK live!
 | dest = lists/gratefulness
 | desc = All the wonderful things in life that I’m grateful for.
-| duality = light
 -->
 
 <br>

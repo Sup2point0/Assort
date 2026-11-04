@@ -1,7 +1,7 @@
 # Does Anyone Else
 <!-- #SQUARK live!
 | dest = lists/does-anyone-else
-| index = lists
+| tags = lists
 | update = 2025 December 13
 -->
 

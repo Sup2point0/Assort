@@ -2,8 +2,7 @@
 <!-- #SQUARK live!
 | dest = lists/powerpoint-features
 | desc = PowerPoint is so awesome, but like anything, there’s still plenty of room for improvement!
-| index = lists
-| shard = #INDEX
+| tags = lists
 | date = 2022 June
 -->
 

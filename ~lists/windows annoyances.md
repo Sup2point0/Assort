@@ -1,7 +1,7 @@
 # Annoyances I Have With Microsoft Windows
 <!-- #SQUARK live!
 | dest = lists/windows-annoyances
-| index = lists
+| tags = lists
 | date = 2025 December 10
 -->
 
