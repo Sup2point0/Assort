@@ -4,8 +4,7 @@
 | desc = Writing from throughout my life
 | head = Writing
 | capt = Index Page
-| index = writing
-| shard = #INDEX / index
+| tags = writing / index
 -->
 
 <!-- #SQUARK index~ -->

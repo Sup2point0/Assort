@@ -1,8 +1,7 @@
 # A Primer to Programming in Desmos
 <!-- #SQUARK live!
 | dest = desmos/dev
-| index = desmos / dev / writing
-| shard = #INDEX
+| tags = desmos / dev / writing
 | date = 2024 autumn
 | clean = braces
 -->
