@@ -7,6 +7,8 @@
 import { SITE, BASE } from "#src/site";
 import type { route } from "#scripts/types";
 
+import { AssortIcon } from "#parts/special";
+
 import type { PageData } from "stranger-quarkdown";
 
 
@@ -40,6 +42,10 @@ let breadcrumbs = $derived.by(() => {
 
 
 <ul class="breadcrumbs">
+	<a href="{BASE}/">
+		<AssortIcon size={20} colour="#ff0090" />
+	</a>
+
 	{#each breadcrumbs as { title, intern }}
 		<span class="separator"> › </span>
 
@@ -63,10 +69,6 @@ ul.breadcrumbs {
 		a {
 			@include link;
 		}
-	}
-
-	> :first-child {
-		display: none;
 	}
 }
 
