@@ -1,9 +1,7 @@
 # Personal Quotes
 <!-- #SQUARK live!
 | dest = lists/quotes/sup
-| style = quotes
-| index = lists / quotes / sup
-| shard = #INDEX
+| tags = lists / quotes / sup
 -->
 
 I am nowhere near far along in life to share quotes of timeless wisdom, but...

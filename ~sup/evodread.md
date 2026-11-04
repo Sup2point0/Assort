@@ -4,9 +4,7 @@
 | title = Evodread
 | capt = Dying inside.
 | desc = A peculiar psychological afflication that comes and goes.
-| style = personal
-| duality = dark
-| index = sup
+| tags = sup / personal
 -->
 
 Dread is such an inexplicable feeling.
