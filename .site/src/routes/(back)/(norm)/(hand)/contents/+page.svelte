@@ -1,16 +1,17 @@
 <script lang="ts">
 
 import SITE from "#src/site";
+import type { PageData } from "#scripts/types";
 
-import { Search } from "#parts/ui";
+import { Search, PageRow } from "#parts/ui";
 
 
 let query = $state("");
 
-let results = $derived.by(() => {
+let results: PageData[] = $derived.by(() => {
 	let out = (
 		Object.values(SITE.pages)
-			.filter(page => page.title.toLowerCase().includes(query.toLowerCase()))
+			.filter(page => page.title?.toLowerCase().includes(query.toLowerCase()))
 	);
 
 	return out;
@@ -23,10 +24,27 @@ let results = $derived.by(() => {
 <p> Here you’ll find a complete collection of all the pages in <em>Assort</em> (well, those that are on the site at least ;) </p>
 
 
-<div style:height="2rem"></div>
+<div style:height="3rem"></div>
 
 <Search bind:value={query} />
 
-{#each results as page}
-	<code> {JSON.stringify(page)} </code>
-{/each}
+<div style:height="1rem"></div>
+
+<ol class="results">
+	{#each results as page}
+		<PageRow {page} />
+	{/each}
+</ol>
+
+
+<style lang="scss">
+
+ol {
+	list-style: none;
+
+	> :global(*) {
+		margin-top: 0.5rem;
+	}
+}
+
+</style>

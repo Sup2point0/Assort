@@ -1,0 +1,31 @@
+@use 'globals' as *;
+@use 'trans' as *;
+
+
+@mixin card($kind, $interactive: true) {
+	@if $kind == "light" {
+		background: rgb(white, 15%);
+	} @else if $kind == "dark" {
+		background: rgb(black, 15%);
+	}
+	border-radius: $border-radius;
+	transition: #{trans()};
+
+	@if $interactive {
+		&:hover, &:focus-visible {
+			@if $kind == "light" {
+				background: rgb(white, 30%);
+			} @else if $kind == "dark" {
+				background: rgb(black, 30%);
+			}
+		}
+
+		&:active {
+			@if $kind == "light" {
+				background: rgb(grey, 30%);
+			} @else if $kind == "dark" {
+				background: rgb(black, 60%);
+			}
+		}
+	}
+}
