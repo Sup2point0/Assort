@@ -1,9 +1,7 @@
 # What Was This Called Again?
 <!-- #SQUARK live!
 | dest = poetry/what-was-this-called-again
-| style = poetry
-| index = poetry
-| shard = #INDEX / ramblings
+| tags = poetry / ramblings
 | date = 2023 March
 -->
 

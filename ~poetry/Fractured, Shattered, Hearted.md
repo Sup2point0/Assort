@@ -1,9 +1,7 @@
 # Shattered, Fractured, Hearted
 <!-- #SQUARK live!
 | dest = poetry/shattered-fractured-hearted
-| style = poetry
-| index = poetry
-| shard = #INDEX / sad / melodramatic
+| tags = poetry / sad / melodramatic
 | date = 2024 August 30
 -->
 

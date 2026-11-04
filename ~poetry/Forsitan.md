@@ -1,9 +1,7 @@
 # Forsitan
 <!-- #SQUARK live!
 | dest = poetry/forsitan
-| style = poetry
-| index = poetry
-| shard = #INDEX / melodramatic
+| tags = poetry / melodramatic
 | date = 2021 December 11
 -->
 

@@ -1,9 +1,7 @@
 # Wordless
 <!-- #SQUARK live!
 | dest = poetry/wordless
-| style = poetry
-| index = poetry
-| shard = #INDEX / ramblings
+| tags = poetry / ramblings
 | date = 2023 December
 -->
 

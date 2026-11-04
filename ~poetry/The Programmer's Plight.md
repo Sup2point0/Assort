@@ -1,9 +1,7 @@
 # The Programmer’s Plight
 <!-- #SQUARK live! feat!
 | dest = poetry/the-programmers-plight
-| style = poetry
-| index = poetry / dev
-| shard = #INDEX / funny
+| tags = poetry / dev / funny
 | date = 2024 July 27
 -->
 

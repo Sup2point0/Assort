@@ -1,9 +1,7 @@
 # Heavy Crown
 <!-- #SQUARK live!
 | dest = poetry/heavy-crown
-| style = poetry
-| index = poetry
-| shard = #INDEX / melodramatic
+| tags = poetry / melodramatic
 | date = 2021 September
 -->
 

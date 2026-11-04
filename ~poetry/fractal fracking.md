@@ -1,9 +1,7 @@
 # fractal fracking
 <!-- #SQUARK live!
 | dest = poetry/fracking
-| style = poetry 
-| index = poetry
-| shard = #INDEX / nerdy / maths
+| tags = poetry / nerdy / maths
 | date = 2024 May 28
 -->
 
