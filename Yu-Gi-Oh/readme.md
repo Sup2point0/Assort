@@ -4,9 +4,7 @@
 | desc = A childhood card game I never quite fell out of love with
 | head = Yu-Gi-Oh!
 | capt = Index Page
-| style = yugioh
-| index = yugioh
-| shard = #INDEX / index / franchise / long
+| tags = yugioh / index / franchise / long
 -->
 
 I’ve played *Yu-Gi-Oh!* since childhood. You don’t understand how much I love this card game. No seriously. I’ve browsed [Yugipedia<sup>↗</sup>](https://yugipedia.com) extensively in my free time, read the translations of the lore books, started writing [my *own* lore book](lore/Stranded%20Saga/) – and above all, I absolutely cannot stop creating custom cards.
@@ -33,7 +31,7 @@ I’ve played *Yu-Gi-Oh!* since childhood. You don’t understand how much I lov
 
 I play Yu-Gi-Oh for fun.[^play-for-fun] I love just the experience of dueling – that strategising, the back-and-forth, those twists, manoeuvres and comebacks. I don’t really derive my pleasure from winning, but rather just having a good duel. It’s why I play (and try to make) decks that are fun rather than good.[^fun-good] In other words, I’m an anime enjoyer.
 
-[^play-fun-fun]: Well, obviously? You’d think, but from the way some people playing this game act you wouldn’t be able to tell.
+[^play-for-fun]: Well, obviously? You’d think, but from the way some people playing this game act you wouldn’t be able to tell.
 [^fun-good]: Not that these are mutually exclusive!
 
 
@@ -60,7 +58,7 @@ That meant we couldn’t play actual Yu-Gi-Oh with 40-60 card-decks – so natur
 ### Draw Phase
 At some point the stealing issue at school became so severe that Yu-Gi-Oh cards were banned entirely. Yeup.
 
-So naturally, we started making our own! 2 of my friends and I came together to build our own version of Yu-Gi-Oh. We came up with cards, made them with pen and paper, and distributed them to everyone. The paper was cut from A4 sheets folded thrice (giving A7), and we’d draw the art and write the effects between us. Good times.
+So naturally, we started making our own! 2 of my friends and I came together to build our own version of Yu-Gi-Oh. We came up with cards, made them with pen[^pens] and paper, and distributed them to everyone. The paper was cut from A4 sheets folded thrice (giving A7), and we’d draw the art and write the effects between us. Good times.
 
 [^pens]: Pilot V5 Tecpoint pens, my beloved ^v^
 

@@ -3,9 +3,7 @@
 | dest = yugioh/archetypes/darquess
 | capt = Yu-Gi-Oh! Archetype
 | desc = An archetype of DARK and primarily Spellcaster Monsters revolving around banishing cards and dealing damage to the player themselves.
-| style = yugioh
-| index = yugioh / yugioh-archetypes
-| shard = #INDEX / degen
+| tags = yugioh / yugioh-archetypes
 | clean = braces
 -->
 

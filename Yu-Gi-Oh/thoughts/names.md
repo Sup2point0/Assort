@@ -2,9 +2,7 @@
 <!-- #SQUARK live!
 | dest = yugioh/names
 | desc = My favourite Yu-Gi-Oh card names
-| style = yugioh
-| index = yugioh
-| shard = #INDEX / lists / opinion
+| tags = yugioh / lists / opinion
 -->
 
 Yu-Gi-Oh has [incredible art](art.md), but what goes less appreciated is all the ingenuity behind card names – especially Japanese for anyone who reads the “Trivia” on [Yugipedia<sup>↗</sup>](https://yugipedia.com).

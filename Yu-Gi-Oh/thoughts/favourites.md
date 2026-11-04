@@ -4,9 +4,7 @@
 | title = Favourites / Yu-Gi-Oh!
 | desc = My favourites in Yu-Gi-Oh!
 | head = Yu-Gi-Oh! Favourites
-| style = yugioh
-| index = yugioh / lists / fav
-| shard = #INDEX / yugioh / opinion
+| tags = yugioh / lists / fav / yugioh / opinion
 -->
 
 There’s a lot of things to like in Yu-Gi-Oh, so deciding on favourites isn’t easy. Here we go, anyway!

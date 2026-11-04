@@ -5,9 +5,7 @@
 | desc = An epic saga of dreams and tragedy
 | head = The Stranded Saga
 | capt = Yu-Gi-Oh! Storyline
-| style = yugioh
-| index = stranded-saga
-| shard = #INDEX / yugioh / writing / long
+| tags = stranded-saga / yugioh / writing / long
 -->
 
 An abridged localisation of *The Stranded Saga*, a recovered transcription of the original chronicle as told by Veya. The names, genders and speech of the involved beings and characters have been normalised to those standard on this Earth, so as to avoid unnecessarily disrupting understanding.

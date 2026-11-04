@@ -2,9 +2,7 @@
 <!-- #SQUARK live!
 | dest = yugioh/psct
 | desc = An esoteric reimagining of Yu-Gi-Oh card text for programmers
-| style = dev
-| index = yugioh
-| shard = #INDEX / dev
+| tags = yugioh / dev
 | clean = braces / angles
 -->
 

@@ -1,8 +1,7 @@
 # Yu-Gi-Oh! Showerthoughts
 <!-- #SQUARK live! dev!
 | dest = yugioh/showerthoughts
-| index = yugioh
-| shard = #INDEX / lists
+| tags = yugioh / lists
 -->
 
 Convo starters, combo starters, whatever you want them to be, here are some random questions you've probably never thought of!

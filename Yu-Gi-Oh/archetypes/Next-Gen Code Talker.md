@@ -3,9 +3,7 @@
 | dest = yugioh/archetypes/next-gen/code-talker
 | capt = Yu-Gi-Oh! Archetype
 | desc = A revitalisation of the Code Talker archetype.
-| style = yugioh
-| index = yugioh-archetypes
-| shard = #INDEX / yugioh
+| tags = yugioh / yugioh-archetypes
 | clean = braces
 -->
 

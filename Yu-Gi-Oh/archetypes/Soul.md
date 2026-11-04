@@ -3,9 +3,7 @@
 | dest = yugioh/archetypes/soul
 | capt = Yu-Gi-Oh! Archetype
 | desc = An archetype of DARK Monsters of various Types, revolving around Ritual and Synchro Summoning, with Grave effects and non-targeting soft removal.
-| style = yugioh
-| index = yugioh / yugioh-archetypes
-| shard = #INDEX
+| tags = yugioh / yugioh-archetypes
 | clean = braces
 -->
 

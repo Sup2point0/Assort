@@ -3,9 +3,7 @@
 | dest = yugioh/archetypes/k-knight
 | desc = A superarchetype of Celestial Warrior Monsters inspired by the Mekk-Knight archetype
 | capt = Yu-Gi-Oh! Archetype
-| style = yugioh
-| index = yugioh-archetypes
-| shard = #INDEX / yugioh / long
+| tags = yugioh / yugioh-archetypes / long
 | clean = braces
 -->
 
