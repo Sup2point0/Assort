@@ -1,10 +1,7 @@
 # Favourite Charts
 <!-- #SQUARK live!
 | dest = games/phigros/favourites
-| style = phigros
-| duality = dark
-| index = phigros / fav
-| shard = #INDEX / games / lists
+| tags = phigros / fav / games / lists
 -->
 
 Deciding on a single favourite chart would be impossible, so of course, we’ll list a bunch!

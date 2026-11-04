@@ -2,8 +2,7 @@
 <!-- #SQUARK live!
 | dest = games/phigros/scores
 | desc = My most memorable performances
-| index = phigros
-| shard = #INDEX
+| tags = phigros
 -->
 
 My most memorable performances!
