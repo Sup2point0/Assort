@@ -62,6 +62,8 @@ const config = sveltekit(
 					@use 'shared/colours' as *;
 					@use 'shared/fonts' as *;
 					@use 'shared/links' as *;
+					@use 'shared/cards' as *;
+					@use 'shared/trans' as *;
 				`,
 			}
 		}),

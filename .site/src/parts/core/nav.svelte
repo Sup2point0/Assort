@@ -95,7 +95,7 @@ nav {
 	min-height: 80vh;
 	max-height: max-content;
 	padding: 1rem 0.5rem;
-	background: $col-line;
+	background: rgb(white, 20%);
 }
 
 section {
