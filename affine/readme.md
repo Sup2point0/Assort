@@ -2,9 +2,7 @@
 <!-- #SQUARK live! index! depr!
 | dest = affine
 | desc = magic, the way I envision it
-| style = affine
-| index = affine
-| shard = #INDEX / index
+| tags = affine / index
 -->
 
 > [!Note]

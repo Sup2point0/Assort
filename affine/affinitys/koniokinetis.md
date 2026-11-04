@@ -3,9 +3,7 @@
 | dest = affine/affinitys/koniokinetis
 | desc = The ability to psychokinetically control dust and other fine particulates
 | capt = Affinity
-| style = affine
-| index = affinitys
-| shard = #INDEX / long
+| tags = affine / affinitys / long
 | clean = braces
 -->
 

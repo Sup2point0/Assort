@@ -2,9 +2,7 @@
 <!-- #SQUARK live!
 | dest = affine/affinitys
 | desc = All the known affinitys
-| style = affine
-| index = affine
-| shard = #INDEX / lists
+| tags = affine / lists
 -->
 
 | affinity | affinitic | ability |
