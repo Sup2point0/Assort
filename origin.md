@@ -5,7 +5,7 @@
 | desc = A love letter to Assort.
 | head = origin
 | capt = A love letter to Assort
-| shard = meta
+| tags = meta
 | date = 2024 autumn
 | clean = angles
 -->

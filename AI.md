@@ -1,7 +1,7 @@
 # Generative AI
 <!-- #SQUARK live!
-| dest = ai
-| index = info / writing
+| dest = meta/ai
+| tags = meta / writing
 | date = 2024 June
 | update = 2026 August 22
 -->
