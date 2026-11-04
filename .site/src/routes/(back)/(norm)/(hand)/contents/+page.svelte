@@ -1,21 +1,13 @@
 <script lang="ts">
 
+import { SearchFilter } from "#scripts/search-filter.svelte.ts";
 import SITE from "#src/site";
-import type { PageData } from "#scripts/types";
 
 import { Search, PageRow } from "#parts/ui";
 
 
-let query = $state("");
-
-let results: PageData[] = $derived.by(() => {
-	let out = (
-		Object.values(SITE.pages)
-			.filter(page => page.title?.toLowerCase().includes(query.toLowerCase()))
-	);
-
-	return out;
-});
+let filters = new SearchFilter();
+let results = $derived(filters.apply(Object.values(SITE.pages)));
 
 </script>
 
@@ -26,7 +18,7 @@ let results: PageData[] = $derived.by(() => {
 
 <div style:height="3rem"></div>
 
-<Search bind:value={query} />
+<Search bind:value={filters.query} />
 
 <div style:height="1rem"></div>
 
