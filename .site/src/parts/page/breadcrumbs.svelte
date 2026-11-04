@@ -50,7 +50,7 @@ let breadcrumbs = $derived.by(() => {
 		<span class="separator"> › </span>
 
 		<li>
-			<a href="{BASE}/{intern}">{title}</a>
+			<a href={intern}>{title}</a>
 		</li>
 	{/each}
 </ul>
