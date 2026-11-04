@@ -1,10 +1,8 @@
 # Archetype
 <!-- #SQUARK live!
-| dest = yugioh/archetypes/~
+| dest = yugioh/archetypes
 | capt = Yu-Gi-Oh! Archetype
-| style = yugioh
-| index = yugioh-archetypes
-| shard = #INDEX / yugioh
+| tags = yugioh / yugioh-archetypes
 -->
 
 An archetype of – Monsters, revolving around – Summoning, inspired by the [*–*<sup>↗</sup>]() archetype.

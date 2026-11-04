@@ -1,12 +1,10 @@
 # Frequerys
 <!-- #SQUARK live!
-| dest = frequerys
+| dest = meta/frequerys
 | title = Frequerys
 | capt = Frequent Queries
 | desc = Frequent queries related to Assort
-| duality = light
-| index = info
-| shard = #INDEX
+| tags = meta
 -->
 
 #### What’s this?

@@ -1,12 +1,10 @@
 # Synopsis
 <!-- #SQUARK live!
-| dest = synopsis
+| dest = meta/synopsis
 | capt = What is Assort?
 | title = Synopsis
 | desc = An assortment of all my creations!
-| duality = light
-| index = info
-| shard = #INDEX
+| tags = meta
 -->
 
 *Assort* is a [GitHub repository](https://github.com/Sup2point0/Assort) containing my creations over the years. I’d say ‘all’, but realistically it’s more like ‘somewhat nearly all my creations’.
