@@ -17,8 +17,15 @@ interface Props {
 let { value = $bindable(), placeholder = "Search" }: Props = $props();
 
 
+const PLACEHOLDERS = new FrozenWeightedList(
+	[20, "Search"],
+	[5,  "Where to today?"],
+	[5,  "Where to next?"],
+	[1,  "Deeper into the wormhole we go..."],
+);
+
 onMount(() => {
-	
+	placeholder = PLACEHOLDERS.sample_value();
 })
 
 </script>
