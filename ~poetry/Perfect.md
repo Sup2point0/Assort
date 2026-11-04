@@ -1,7 +1,6 @@
 # Perfect
 <!-- #SQUARK live! woozy!
 | dest = poetry/perfect
-| style = poetry
 -->
 
 Quasi-sarcastive ironicity,  

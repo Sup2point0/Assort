@@ -1,11 +1,10 @@
 # Nameless
 <!-- #SQUARK live! feat!
 | dest = poetry/nameless
-| index = poetry
-| style = poetry
-| duality = dark
-| shard = #INDEX / sad
+| tags = poetry / sad
 | date = 2023 May
+---
+| font = Lora
 -->
 
 Words are knives.  

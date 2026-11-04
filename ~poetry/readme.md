@@ -3,9 +3,7 @@
 | dest = poetry
 | desc = yeah, I write poetry.
 | capt = Index Page
-| duality = light
-| index = poetry
-| shard = #INDEX / index
+| tags = poetry / index
 -->
 
 Surprisingly, I genuinely enjoy writing poetry.

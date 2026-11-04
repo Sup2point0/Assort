@@ -1,9 +1,7 @@
 # Strive
 <!-- #SQUARK live!
 | dest = poetry/strive
-| style = poetry
-| index = poetry
-| shard = #INDEX / sad / melodramatic
+| tags = poetry / sad / melodramatic
 | date = 2022 June
 -->
 
