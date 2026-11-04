@@ -2,10 +2,7 @@
 <!-- #SQUARK live!
 | dest = dev/python-syntax
 | desc = A deep dive into my Python syntax preferences and conventions.
-| style = dev
-| duality = dark
-| index = dev / writing
-| shard = #INDEX / opinion
+| tags = dev / writing / opinion
 | date = 2024 spring
 | clean = braces / angles
 -->

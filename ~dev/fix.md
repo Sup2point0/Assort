@@ -2,10 +2,7 @@
 <!-- #SQUARK live! feat!
 | dest = dev/fix
 | desc = Got an issue? Here’s some tips to fix it.
-| style = dev
-| duality = dark
-| index = lists / dev
-| shard = #INDEX / funny
+| tags = lists / dev / funny
 | date = 2024 May
 -->
 

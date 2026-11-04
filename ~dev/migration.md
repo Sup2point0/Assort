@@ -3,9 +3,7 @@
 | dest = dev/migrating
 | desc = Transferring 100 GB of files from an outdated old Windows laptop to a new one
 | capt = A Tale of Triumph in Persistence
-| style = dev
-| index = dev
-| shard = #INDEX / resources / stories
+| tags = dev / resources / stories
 | date = 2024 October
 -->
 

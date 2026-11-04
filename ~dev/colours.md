@@ -1,5 +1,7 @@
 # My Syntax Highlighting Colours
 <!-- #SQUARK live!
+| dest = dev/colours
+| tags = dev
 | date = 2026 July 29
 | update = 2026 September 10
 -->
