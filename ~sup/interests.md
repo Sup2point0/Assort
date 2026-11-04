@@ -2,7 +2,7 @@
 <!-- #SQUARK live!
 | dest = sup/interests
 | desc = All my loves, interests, and hobbies.
-| index = sup / lists
+| tags = sup / lists
 -->
 
 I love a lot of things. Like, maybe a bit too many.

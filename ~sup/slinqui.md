@@ -1,9 +1,7 @@
 # slinqui
 <!-- #SQUARK live! feat!
 | dest = sup/slinqui
-| style = sup
-| index = sup / lists
-| shard = #INDEX
+| tags = sup / lists
 -->
 
 A dictionary for all my words, phrases, quips and quirks.

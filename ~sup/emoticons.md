@@ -2,9 +2,7 @@
 <!-- #SQUARK dead!
 | dest = sup/emoticons
 | desc = A collection of all the emoticons I use!
-| style = sup
-| index = sup / lists
-| shard = #INDEX
+| tags = sup / lists
 -->
 
 I love emoticons – that’s what I’m calling these (: text faces :) – since they work on any platform (regardless of emoji support) and blend in really nicely with the text (which emojis really don’t). I like the consistency, I suppose :v
