@@ -45,7 +45,8 @@ img#back {
 
 .layout {
 	margin-bottom: 4rem;
-	padding: 1rem 2rem;
+	padding: 0 2rem;
+	padding-top: 3rem;
 	display: flex;
 	flex-flow: row nowrap;
 

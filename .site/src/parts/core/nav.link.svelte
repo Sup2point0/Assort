@@ -15,7 +15,7 @@ import type { Snippet } from "svelte";
 
 interface Props {
   text: string
-  intern: route | string
+  intern: route
   hover?: string
   children?: Snippet
 }
@@ -85,13 +85,17 @@ a {
 
 	&:hover, &:focus-visible {
 		color: $col-yellow;
-		background: rgb(black, 9%);
+		background: rgb(black, 10%);
 
 		.hover-text {
 			visibility: visible;
 			opacity: 1;
 			transition-delay: 0.5s;
 		}
+	}
+
+	&:active {
+		background: rgb(black, 40%);
 	}
 
 	&.current {

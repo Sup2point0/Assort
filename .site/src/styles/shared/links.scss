@@ -11,6 +11,10 @@
 		color: $col-yellow;
 	}
 
+	&:active {
+		filter: brightness(75%);
+	}
+
 	@if $underline {
 		&::after {
 			content: '';
