@@ -24,7 +24,7 @@ exclude = [
 ]
 
 [out]
-folder = 'src/routes/(love)/(dyna)'
+folder = 'src/routes/(back)/(dyna)'
 site-data-path = 'src/data/site.json'
 shorter-fields = false
 
@@ -38,6 +38,7 @@ site-assets-folder = '.assets/.site/'
 [fonts]
 queries = [
 	'Fira+Mono:wght@400;500;700',
+	'Lora:ital,wght@0,400..700;1,400..700',
 	'Nanum+Pen+Script',
 	'Noto+Serif:ital,wght@0,100..900;1,100..900',
 	'Outfit:wght@100..900',

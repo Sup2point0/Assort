@@ -1,5 +1,5 @@
 /*
-Styles specifically for `+page.svx` Markdown content.
+	Styles specifically for `+page.svx` Markdown content.
 */
 
 @use './shared/globals' as *;
@@ -144,9 +144,6 @@ article .footnotes
 	margin-top: 2rem;
 	padding: 1rem;
 	border-top: 1px solid $col-line;
-
-	ol {
-	}
 
 	li {
 		margin-bottom: 0.75rem;

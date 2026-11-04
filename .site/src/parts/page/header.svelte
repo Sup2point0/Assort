@@ -21,39 +21,39 @@ let { page, text }: Props = $props();
 
 
 <header>
-	{#if text}
+	<div class="left">
 		<h1>
-			{@html text}
+			{#if text}
+				{@html text}
+			{:else if page != undefined}
+				{@html page.heading}
+			{:else}
+				{@const _ = console.warn("[Assort] `<Header>` received neither raw text nor page data!")}
+				Untitled Page
+			{/if}
 		</h1>
 
-	{:else if page != undefined}
-		<h1>
-			{@html page.heading}
-		</h1>
-
-		{#if page.caption || page.tags?.length}
+		{#if page?.caption}
 			<div class="lower">
 				{#if page.caption}
 					<p class="caption">
 						{@html page.caption}
 					</p>
 				{/if}
-
-				{#if page.tags?.length}
-					<div class="tags">
-						{#each page.tags as tag}
-							<a class="tag" href="{BASE}/portal?tag={tag}">
-								{tag}
-							</a>
-						{/each}
-					</div>
-				{/if}
 			</div>
 		{/if}
+	</div>
 
-	{:else}
-		{@const _ = console.warn("[Assort] `<Header>` received neither raw text nor page data!")}
-
+	{#if page?.tags?.length}
+		<div class="right">
+			<div class="tags">
+				{#each page.tags as tag}
+					<a class="tag" href="{BASE}/portal?tag={tag}">
+						{tag}
+					</a>
+				{/each}
+			</div>
+		</div>
 	{/if}
 </header>
 
@@ -62,21 +62,21 @@ let { page, text }: Props = $props();
 
 header {
 	margin-bottom: 4rem;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+	align-items: end;
 	padding-bottom: 0.75rem;
 	border-bottom: 1px solid $col-line;
 }
 
-h1 {
-	@include font-head;
-	color: white;
-	font-weight: 100;
-	font-size: 300%;
-}
-
-.lower {
-	display: flex;
-	flex-flow: row wrap;
-	justify-content: space-between;
+.left {
+	h1 {
+		@include font-head;
+		color: white;
+		font-weight: 100;
+		font-size: 300%;
+	}
 
 	p.caption {
 		margin-top: 0.5rem;
@@ -84,7 +84,9 @@ h1 {
 		color: rgb(white, 70%);
 		font-size: 125%;
 	}
+}
 
+.right {
 	.tags {
 		display: flex;
 		flex-flow: row wrap;
