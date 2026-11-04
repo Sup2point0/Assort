@@ -22,8 +22,10 @@ let results = $derived(
 </script>
 
 
-<p> yooo, thanks for checking out <em>Assort</em>! </p>
-<p> Here you’ll find a complete collection of all the pages in <em>Assort</em> (well, those that are on the site at least ;) </p>
+<article>
+	<p> yooo, thanks for checking out <em>Assort</em>! </p>
+	<p> Here you’ll find a complete collection of all the pages in <em>Assort</em> (well, those that are on the site at least ;) </p>
+</article>
 
 
 <div style:height="3rem"></div>

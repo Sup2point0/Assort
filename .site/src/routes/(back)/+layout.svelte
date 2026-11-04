@@ -1,9 +1,10 @@
+<!--
+	The layout for most of the pages on the site, which provides the default background.
+-->
+
 <script lang="ts">
 
 import { BASE } from "#src/site";
-
-import { Nav, Footer } from "#parts/core";
-
 
 let { children } = $props();
 
@@ -12,38 +13,16 @@ let { children } = $props();
 
 <img id="back" alt="" src="{BASE}/back/sunset.png" />
 
-<div class="layout">
-	<main>
-		{#if children != undefined}
-			{@render children()}
-		{:else}
-			<p class="error">
-				Something went wrong rendering the page!
-			</p>
-		{/if}
-	</main>
-
-	<Nav />
-</div>
-
-<Footer />
+{#if children != undefined}
+	{@render children()}
+{:else}
+	<p class="error">
+		Something went wrong rendering the page!
+	</p>
+{/if}
 
 
 <style lang="scss">
-
-.layout {
-	margin-bottom: 6rem;
-	padding: 0 2rem;
-	padding-top: 3rem;
-	display: flex;
-	flex-flow: row nowrap;
-
-	main {
-		flex: 1;
-		margin-left: 2rem;
-		margin-right: 4rem;
-	}
-}
 
 img#back {
 	width: 100vw;

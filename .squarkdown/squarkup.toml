@@ -24,7 +24,7 @@ exclude = [
 ]
 
 [out]
-folder = 'src/routes/(back)/(norm)/(dyna)'
+folder = 'src/routes/(back)/(dyna)'
 site-data-path = 'src/data/site.json'
 shorter-fields = false
 

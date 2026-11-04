@@ -32,13 +32,14 @@ import { BASE } from "#src/site.ts";
 <style lang="scss">
 
 footer {
+	margin-top: 6rem;
 	min-height: 16rem;
 	padding: 0 4rem;
 	padding-top: 1rem;
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: space-between;
-	background: rgb(black, 10%);
+	background: colour.change($col-dark, $alpha: 10%);
 }
 
 .left {
