@@ -1,4 +1,4 @@
-# License
+# Licence
 <!-- #SQUARK live!
 | dest = info/licence
 | capt = Copyright on Content from <em>Assort</em>
