@@ -40,6 +40,7 @@ const config = sveltekit(
 	preprocess: [
 		mdsvex({
 			extensions: [".md", ".svx"],
+			smartypants: false,
 			remarkPlugins: [
 				remarkFootnotes,
 				remarkIndexFootnotes,
