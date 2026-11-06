@@ -1,4 +1,4 @@
-#:schema https://sup2point0.github.io/stranger-quarkdown/schemas/v4.7.json
+#:schema https://sup2point0.github.io/stranger-quarkdown/schemas/v4.8
 
 [project]
 name = 'Assort'
@@ -13,7 +13,7 @@ link-inactive = 'mark-dead'
 
 [paths]
 site = '.site/'
-sources = []
+sources = []  # entire repo
 exclude = [
 	'.archive/',
 	'.assets/',
@@ -21,6 +21,12 @@ exclude = [
 	'.site/',
 	'Antarctica/',
 	'Victory/',
+]
+
+[charm]
+flags = [
+	"feat", "dev",
+	"woozy",
 ]
 
 [out]
@@ -31,8 +37,10 @@ shorter-fields = false
 [format]
 inject-head = false
 externalise-links = true
+repair-html = true
 
 [assets]
+base-path = "/Assort/"
 folder = '.assets/'
 site-assets-folder = '.assets/.site/'
 
