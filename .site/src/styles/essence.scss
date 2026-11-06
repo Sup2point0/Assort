@@ -14,6 +14,8 @@
 
 :root {
   color-scheme: light dark;
+  @include font-ui;
+  color: white;
   font-size: 100%;
 }
 
