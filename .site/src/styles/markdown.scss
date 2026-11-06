@@ -2,6 +2,8 @@
 	Styles specifically for `+page.svx` Markdown content.
 */
 
+@use 'sass:color' as colour;
+
 @use './shared/globals' as *;
 @use './shared/colours' as *;
 @use './shared/fonts' as *;
@@ -90,6 +92,24 @@ article
 	ul {
 		list-style: '›    ';
 		margin-left: 1.25em;
+	}
+
+	blockquote {
+		margin: 1rem 0;
+		padding: 0.1rem 1.5rem;
+		background: rgb(white, 8%);
+
+		&.note {
+			background: colour.change($col-yellow, $alpha: 20%);
+		}
+
+		p.gfm-alert-indicator {
+			font-size: 90%;
+		}
+
+		&.gfm-alert.note .gfm-alert-indicator {
+			color: $col-yellow;
+		}
 	}
 }
 
