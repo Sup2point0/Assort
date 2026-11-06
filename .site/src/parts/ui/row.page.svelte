@@ -40,13 +40,14 @@ a {
 	flex-flow: row wrap;
 	justify-content: space-between;
 	align-items: start;
-	gap: 1rem;
+	gap: 2rem;
 	@include card("dark");
 	text-decoration: none;
 }
 
 .left {
 	flex: 2;
+	max-width: max-content;
 
 	h3 {
 		margin: 0;
