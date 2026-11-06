@@ -159,7 +159,7 @@ There are 3 other Psychic Spirit Monsters, whose name follows the form `<‘-ful
 
 2 of them are Lv2, with [Vengeful Soul](#Monsters) being Lv3. They share the following effects:
 
-> Return this banished card to the Graveyard at the end of each turn. If you take damage: You can Special Summon this card from your Graveyard. If this card is banished: You can {…}. You can only use this effect of {…} once per turn.
+> Return this banished card to the Graveyard at the end of each turn. If you take damage: You can Special Summon this card from your Graveyard. If this card is banished: You can {...}. You can only use this effect of {...} once per turn.
 
 <table>
   <tr>
@@ -203,7 +203,7 @@ There are 3 other Psychic Spirit Monsters, whose name follows the form `<‘-ful
 ### Ritual Monsters
 There are 2 Lv7 Ritual Monsters, [Soul Swordsman](../cards/monsters/ritual/Soul%20Swordsman.md) and [Soul Dragon](../cards/monsters/ritual/Soul%20Dragon.md), which serve as the Ritual aces of the archetype. They are quite similar, with moderate ATK, and a non-targeting soft removal trigger effect that activates whenever a *Soul* Ritual or Synchro Monster is Special Summoned (note that this doesn’t need to be a proper Ritual or Synchro Summon, or even be performed by the player themselves).
 
-> Once per turn, if this card or another ‘Soul’ Ritual or Synchro Monster is Special Summoned: You can {…} 1 card from the field or either player’s Graveyard {…}.
+> Once per turn, if this card or another ‘Soul’ Ritual or Synchro Monster is Special Summoned: You can {...} 1 card from the field or either player’s Graveyard {...}.
 
 They can also protect themselves from destruction by banishing a *Soul* Monster from the Grave instead.
 
