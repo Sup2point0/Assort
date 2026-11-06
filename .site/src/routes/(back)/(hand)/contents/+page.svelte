@@ -40,6 +40,14 @@ let results = $derived(
 	{/each}
 </ol>
 
+<p class="count">
+	{#if filters.query}
+		{results.length} result{#if results.length !== 1}s{/if} from
+	{/if}
+	
+	{pages.length} pages
+</p>
+
 
 <style lang="scss">
 
@@ -61,6 +69,11 @@ ol {
 			grid-template-columns: 1fr 1fr 1fr;
 		}
 	}
+}
+
+p.count {
+	margin-top: 1rem;
+	float: right;
 }
 
 </style>
