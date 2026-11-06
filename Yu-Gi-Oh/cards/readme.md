@@ -11,7 +11,7 @@ All the custom cards I’ve created.[^create] Of course, this is nowhere near co
 You probably notice a lot of cards with similar or half-identical names to existing cards – yeah that’s intentional, I really enjoy making parodies of existing cards fsr ;P
 
 > [!Tip]
-> [Linked]() cards have their own individual pages.
+> [Linked](.) cards have their own individual pages.
 
 > [!Note]
 > Most cards from the [*Stranded Saga*](../lore/Stranded%20Saga/) have not been included, since those were never created and so are subject to change.
