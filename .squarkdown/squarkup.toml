@@ -25,8 +25,12 @@ exclude = [
 
 [charm]
 flags = [
-	"feat", "dev",
-	"woozy",
+	"feat", "index",
+	"dev", "depr", "archive",
+	"deep", "woozy",
+]
+fields = [
+	"font",
 ]
 
 [out]
