@@ -23,19 +23,20 @@ import NavLink from "./nav.link.svelte";
 
 	<section>
 		<h2> Explore </h2>
-		<NavLink text="home" intern="" hover="Where it all begins" />
+		<NavLink text="home"     intern=""         hover="Where it all begins" />
+		<NavLink text="recent"   intern="recent"   hover="Explore newly released pages" />
 		<NavLink text="featured" intern="featured" hover="Explore my favourite pages" />
 		<NavLink text="contents" intern="contents" hover="Explore all the pages" />
-		<NavLink text="FAQ" intern="info/faq" hover="Fervently Acquired Questions" />
+		<NavLink text="FAQ"      intern="info/faq" hover="Fervently Acquired Questions" />
 	</section>
 
 	<section>
 		<h2> Creatives </h2>
-		<NavLink text="dev" intern="dev" />
-		<NavLink text="writing" intern="writing" />
-		<NavLink text="poetry" intern="poetry" />
+		<NavLink text="dev"      intern="dev" />
+		<NavLink text="writing"  intern="writing" />
+		<NavLink text="poetry"   intern="poetry" />
 		<NavLink text="graphics" intern="graphics" />
-		<NavLink text="lists" intern="lists" />
+		<NavLink text="lists"    intern="lists" />
 	</section>
 
 	<section>
@@ -77,11 +78,11 @@ import NavLink from "./nav.link.svelte";
 	<section>
 		<h2> Meta </h2>
 		<NavLink text="synopsis" intern="info/synopsis" hover="What is Assort?" />
-		<!-- <NavLink text="decoded" intern="info/decoded" hover="Lessons and learnings from Assort" /> -->
-		<NavLink text="genAI" intern="info/ai" hover="Generative AI statement" />
-		<NavLink text="licence" intern="info/licence" hover="CC BY-SA 4.0" />
-		<NavLink text="stats" intern="info/stats" hover="Stats for nerds" />
-		<NavLink text="sup" intern="sup" hover="??" debug />
+		<!-- <NavLink text="decoded"  intern="info/decoded" hover="Lessons and learnings from Assort" /> -->
+		<NavLink text="genAI"    intern="info/ai" hover="Generative AI statement" />
+		<NavLink text="licence"  intern="info/licence" hover="CC BY-SA 4.0" />
+		<NavLink text="stats"    intern="info/stats" hover="Stats for nerds" />
+		<NavLink text="sup"      intern="sup" hover="??" debug />
 	</section>
 </nav>
 
