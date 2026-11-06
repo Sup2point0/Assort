@@ -30,6 +30,7 @@ export class SearchFilter
 				] as [number, PageData]
 			)
 			.toSorted(([score1, _], [score2, __]) => score2 - score1)
+			.filter(([score, _page]) => score > Math.min(69, 42 + this.query.length * 3))
 			.map(([_score, page]) => page)
 	}
 }
