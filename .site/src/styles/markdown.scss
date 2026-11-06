@@ -99,16 +99,17 @@ article
 		padding: 0.1rem 1.5rem;
 		background: rgb(white, 8%);
 
-		&.note {
-			background: colour.change($col-yellow, $alpha: 20%);
-		}
-
 		p.gfm-alert-indicator {
 			font-size: 90%;
 		}
 
-		&.gfm-alert.note .gfm-alert-indicator {
-			color: $col-yellow;
+		&.tip {
+			background: colour.change($col-yellow, $alpha: 20%);
+			.gfm-alert-indicator { color: $col-yellow }
+		}
+		&.note {
+			background: colour.change($col-assort-light, $alpha: 20%);
+			.gfm-alert-indicator { color: $col-assort-light }
 		}
 	}
 }

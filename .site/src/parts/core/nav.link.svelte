@@ -24,20 +24,14 @@ interface Props {
 let { text, intern, hover, children, debug }: Props = $props();
 
 
-let is_related_to_current_page = $derived(
-		intern !== ""
-	&& page.url.pathname === `/${intern}`
-);
-
-let dropdown_is_open = $derived(
-	is_related_to_current_page
-);
+let is_current = $derived(intern !== "" && page.url.pathname === `/${intern}`);
+let is_related = $derived(intern !== "" && page.url.pathname.startsWith(`/${intern}`));
 
 </script>
 
 
 <a
-	class:current={is_related_to_current_page}
+	class:current={is_current}
 	class:debug
 	href="{BASE}/{intern}"
 >
@@ -50,7 +44,7 @@ let dropdown_is_open = $derived(
 	{/if}
 </a>
 
-{#if dropdown_is_open && children != undefined}
+{#if is_related && children != undefined}
 	<div class="dropdown" transition:slide={{ duration: 1000, easing: expoInOut }}>
 		{@render children?.()}
 	</div>
