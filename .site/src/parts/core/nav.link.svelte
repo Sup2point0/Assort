@@ -18,9 +18,10 @@ interface Props {
   intern: route
   hover?: string
   children?: Snippet
+  debug?: boolean
 }
 
-let { text, intern, hover, children }: Props = $props();
+let { text, intern, hover, children, debug }: Props = $props();
 
 
 let is_related_to_current_page = $derived(
@@ -37,6 +38,7 @@ let dropdown_is_open = $derived(
 
 <a
 	class:current={is_related_to_current_page}
+	class:debug
 	href="{BASE}/{intern}"
 >
 	{@html text}
@@ -101,6 +103,10 @@ a {
 	&.current {
 		color: $col-cyan;
 		font-weight: 400;
+	}
+
+	&.debug:not(:where(:hover, :focus-visible)) {
+		opacity: 0;
 	}
 }
 
