@@ -17,6 +17,12 @@ let data = $derived(page.data as PageData);
 
 
 <aside>
+	{#if data.release_date_raw}
+		<p class="date">
+			released on <span>{data.release_date_raw}</span>
+		</p>
+	{/if}
+
 	<table><tbody>
 		{#each data.tags as tag}
 			<tr>
@@ -46,6 +52,7 @@ aside {
 	width: 90vw;
 	margin-left: auto;
 	margin-right: auto;
+	position: relative;
 	background: rgb(white, 2%);
 	padding: 2rem;
 	padding-left: 3rem;
@@ -83,6 +90,19 @@ td {
 		&.current {
 			color: $col-cyan;
 		}
+	}
+}
+
+p.date {
+	position: absolute;
+	right: 0;
+	top: -2rem;
+	@include font-ui;
+	color: rgb(white, 50%);
+
+	span {
+		color: $col-assort-light;
+		font-weight: calc($default-font-weight + 100);
 	}
 }
 
