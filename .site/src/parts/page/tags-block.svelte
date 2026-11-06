@@ -25,7 +25,10 @@ let data = $derived(page.data as PageData);
 					{#each SITE.tags[tag] as other_file}
 						{@const other_page = SITE.pages[other_file]}
 
-						<a href="{BASE}/{other_page.destination}">
+						<a
+							class:current={other_page.destination === data.destination}
+							href="{BASE}/{other_page.destination}"
+						>
 							{other_page.title}
 						</a>
 					{/each}
@@ -43,6 +46,7 @@ aside {
 	width: 90vw;
 	margin-left: auto;
 	margin-right: auto;
+	background: rgb(white, 2%);
 	padding: 2rem;
 	padding-left: 3rem;
 	border-top: 1px solid $col-line;
@@ -75,6 +79,10 @@ td {
 		color: white;
 		text-decoration: none;
 		@include card("light");
+
+		&.current {
+			color: $col-cyan;
+		}
 	}
 }
 
