@@ -6,18 +6,17 @@ The header for a page.
 <script lang="ts">
 
 import { BASE } from "#src/site";
+import type { PageData } from "#scripts/types";
 
 import { page as current_page } from "$app/state";
 
-import type { PageData } from "stranger-quarkdown";
-
 
 interface Props {
-	page?: PageData<"long">
+	page?: PageData
 	text?: string
 }
 
-let { page, text }: Props = $props();
+let { page = current_page.data as PageData, text }: Props = $props();
 
 </script>
 
@@ -29,8 +28,6 @@ let { page, text }: Props = $props();
 				{@html text}
 			{:else if page != undefined}
 				{@html page.heading}
-			{:else if current_page.data.heading}
-				{@html current_page.data.heading}
 			{:else}
 				{@const _ = console.warn("[Assort] `<Header>` received no heading to render!")}
 				Untitled Page
@@ -38,13 +35,7 @@ let { page, text }: Props = $props();
 		</h1>
 
 		{#if page?.caption}
-			<div class="lower">
-				{#if page.caption}
-					<p class="caption">
-						{@html page.caption}
-					</p>
-				{/if}
-			</div>
+			<p class="caption"> {@html page.caption} </p>
 		{/if}
 	</div>
 
