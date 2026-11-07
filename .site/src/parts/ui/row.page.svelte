@@ -4,7 +4,7 @@
 
 <script lang="ts">
 
-import { BASE } from "#src/site";
+import { SITE, BASE } from "#src/site";
 import type { PageData } from "#scripts/types";
 
 
@@ -25,7 +25,9 @@ let { page }: Props = $props();
 
 	<div class="right">
 		{#each page.tags ?? [] as tag}
-			<span class="tag"> {tag} </span>
+			<span class="tag">
+				{SITE.tags[tag].title}
+			</span>
 		{/each}
 	</div>
 </a>
@@ -82,10 +84,6 @@ a {
 		background: $col-line;
 		border-radius: $border-radius;
 		transition: all 0.12s ease-out;
-
-		&:hover {
-			background: $col-assort;
-		}
 	}
 }
 

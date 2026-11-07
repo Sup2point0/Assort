@@ -9,7 +9,7 @@ The header for a page, which includes the:
 
 <script lang="ts">
 
-import { BASE } from "#src/site";
+import { SITE, BASE } from "#src/site";
 import type { PageData } from "#scripts/types";
 
 import { Breadcrumbs } from "#parts/page";
@@ -59,8 +59,8 @@ let { page = current_page.data as PageData }: Props = $props();
 			<div class="right">
 				<div class="tags">
 					{#each page.tags as tag}
-						<a class="tag" href="{BASE}/portal?tag={tag}">
-							{tag}
+						<a class="tag" href="{BASE}/contents?tag={tag}">
+							{SITE.tags[tag]?.title}
 						</a>
 					{/each}
 				</div>
