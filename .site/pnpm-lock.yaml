@@ -58,8 +58,8 @@ importers:
         specifier: ^1.100
         version: 1.107.1
       stranger-quarkdown:
-        specifier: ^4.0
-        version: 4.8.0
+        specifier: ^4.8.1
+        version: 4.8.1
       svelte:
         specifier: ^5.0
         version: 5.57.3
@@ -1751,8 +1751,8 @@ packages:
   space-separated-tokens@2.0.2:
     resolution: {integrity: sha512-PEGlAwrG8yXGXRjW32fGbg66JAlOAwbObuqVoJpv/mRgoWDQfgH1wDPvtzWyUSNAXBGSk8h755YDbbcEy3SH2Q==}
 
-  stranger-quarkdown@4.8.0:
-    resolution: {integrity: sha512-JyaT8YBQIkJdvGBlPgLr16EozFOq2968pzr9QuQ4pRNWlArbzGQr9zZ/BjSPX7Z1worwO8NneUhJHW8pV7Ya/w==}
+  stranger-quarkdown@4.8.1:
+    resolution: {integrity: sha512-7YlTKL3zZ9GA/cPD7V2NnPeISp1uQtQMF4QcbM7JF7ZsUr/NXsIPbIppTGoFEtrW+1ChKYoXLlH2LvjEYRxaTQ==}
     cpu: [x64]
     os: [win32, linux]
     hasBin: true
@@ -3728,7 +3728,7 @@ snapshots:
 
   space-separated-tokens@2.0.2: {}
 
-  stranger-quarkdown@4.8.0: {}
+  stranger-quarkdown@4.8.1: {}
 
   supports-preserve-symlinks-flag@1.0.0: {}
 
