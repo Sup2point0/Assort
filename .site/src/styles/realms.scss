@@ -6,6 +6,8 @@
 // == POETRY == //
 .poetry:not(.index) article
 {
+	--font-body: 'Lora';
+
 	p {
 		margin-bottom: 2rem;
 		font-size: 150%;
