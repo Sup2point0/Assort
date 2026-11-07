@@ -29,6 +29,8 @@ Apocalyptus
 &emsp; ~~Aquilynx~~  
 Arachnis  
 Arceus  
+Arcrisis  
+Arcritical  
 AVERTRON  
 &emsp; Aversus  
 [Battle Sheep](Battle%20Sheep.md)  
@@ -54,6 +56,7 @@ Fractured
 Harmonic  
 &emsp; EN-Harmonic  
 &emsp; IN-Harmonic  
+Heartslayer  
 Hypno-Eyes  
 [*Immuni*](Immuni.md)  
 &emsp; [*Immunicipality*](Immunicipality.md)  
