@@ -55,4 +55,5 @@ queries = [
 	'Nanum+Pen+Script',
 	'Noto+Serif:ital,wght@0,100..900;1,100..900',
 	'Outfit:wght@100..900',
+	'ZCOOL+XiaoWei',
 ]
