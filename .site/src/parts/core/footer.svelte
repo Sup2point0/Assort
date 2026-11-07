@@ -32,7 +32,9 @@ The global page footer.
 	</section>
 
 	<section class="tail">
-		<p> made with love by Sup#2.0 </p>
+		<p> <a href="https://sup2point0.github.io">
+			made with love by Sup#2.0
+		</a> </p>
 	</section>
 </footer>
 
@@ -76,10 +78,19 @@ section.core {
 }
 
 section.tail {
-	@include font-fun;
-	color: rgb(white, 50%);
-	font-size: 125%;
 	text-align: center;
+
+	a {
+		@include font-fun;
+		color: rgb(white, 50%);
+		font-size: 125%;
+		text-decoration: none;
+		transition: #{trans()};
+
+		&:hover {
+			color: white;
+		}
+	}
 }
 
 </style>
