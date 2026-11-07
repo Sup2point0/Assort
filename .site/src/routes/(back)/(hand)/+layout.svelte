@@ -14,13 +14,8 @@
 import { Nav, Footer } from "#parts/core";
 import { Header } from "#parts/page";
 
-import { page } from "$app/state";
-import type { PageData } from "stranger-quarkdown";
-
 
 let { children } = $props();
-
-let data = $derived(page.data as PageData<"long">);
 
 </script>
 

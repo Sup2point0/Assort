@@ -19,6 +19,8 @@ interface Props {
 let { filters = $bindable(), placeholder = "Search" }: Props = $props();
 
 
+let self: HTMLInputElement;
+
 const PLACEHOLDERS = new FrozenWeightedList(
 	[20, "Search"],
 	[5,  "Where to today?"],
@@ -28,6 +30,7 @@ const PLACEHOLDERS = new FrozenWeightedList(
 
 onMount(() => {
 	placeholder = PLACEHOLDERS.sample_value() ?? "Search";
+	self?.focus();
 })
 
 </script>
@@ -35,6 +38,7 @@ onMount(() => {
 
 <search>
 	<input type="search"
+		bind:this={self}
 		bind:value={filters.query}
 		{placeholder}
 	/>
