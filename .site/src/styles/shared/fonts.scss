@@ -1,5 +1,6 @@
-$default-font-family: 'Outfit';
+$default-font-family: 'Outfit', 'ZCool XiaoWei', system-ui, sans-serif;
 $default-font-weight: 200;
+
 
 @mixin font-body {
 	font-family: var(--font-body, $default-font-family);
@@ -7,21 +8,21 @@ $default-font-weight: 200;
 }
 
 @mixin font-head {
-	font-family: var(--font-head, 'Outfit');
+	font-family: var(--font-head, 'Outfit'), system-ui, sans-serif;
 }
 
 @mixin font-code {
-	font-family: 'Fira Mono';
+	font-family: 'Fira Mono', monospace;
 	font-size: 80%;
 	font-weight: normal;
 }
 
 
 @mixin font-ui {
-	font-family: 'Outfit';
+	font-family: 'Outfit', system-ui, sans-serif;
 	font-weight: 250;
 }
 
 @mixin font-fun {
-	font-family: 'Nanum Pen Script';
+	font-family: 'Nanum Pen Script', system-ui, sans-serif;
 }
