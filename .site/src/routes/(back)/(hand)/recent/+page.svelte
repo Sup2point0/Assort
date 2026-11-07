@@ -19,8 +19,6 @@ const recent_pages =
 		.slice(0, 16)
 ;
 
-$inspect(recent_pages)
-
 let results = $derived(
 	filters.apply(recent_pages) ?? recent_pages
 );

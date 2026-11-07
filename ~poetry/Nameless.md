@@ -3,8 +3,6 @@
 | dest = poetry/nameless
 | tags = poetry / sad
 | date = 2023 May
----
-| font = Lora
 -->
 
 Words are knives.  

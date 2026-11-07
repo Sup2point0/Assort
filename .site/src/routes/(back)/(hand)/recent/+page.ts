@@ -7,7 +7,7 @@ export function load(): PageData<"long">
 		destination: "recent",
 		title: "Recent",
 		heading: "Recent",
-		caption: "Newly released",
+		caption: "Newly released & updated",
 		tags: ["explore"],
 	};
 }
