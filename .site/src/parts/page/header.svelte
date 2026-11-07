@@ -1,6 +1,10 @@
 <!-- @component `<Header>`
 
-The header for a page.
+The header for a page, which includes the:
+
+- Breadcrumbs
+- Search bar
+- Title
 -->
 
 <script lang="ts">
@@ -8,54 +12,67 @@ The header for a page.
 import { BASE } from "#src/site";
 import type { PageData } from "#scripts/types";
 
+import { Breadcrumbs } from "#parts/page";
+
 import { page as current_page } from "$app/state";
 
 
 interface Props {
 	page?: PageData
-	text?: string
 }
 
-let { page = current_page.data as PageData, text }: Props = $props();
+let { page = current_page.data as PageData }: Props = $props();
 
 </script>
 
 
 <header>
-	<div class="left">
-		<h1>
-			{#if text}
-				{@html text}
-			{:else if page != undefined}
-				{@html page.heading}
-			{:else}
-				{@const _ = console.warn("[Assort] `<Header>` received no heading to render!")}
-				Untitled Page
-			{/if}
-		</h1>
+	<div class="upper">
+		<Breadcrumbs />
 
-		{#if page?.caption}
-			<p class="caption"> {@html page.caption} </p>
+		{#if current_page.url.pathname !== `${BASE}/contents`}
+			<a class="search" href="{BASE}/contents" title="Search">
+				<svg viewBox="0 0 2598 2598" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" overflow="hidden">
+					<g><path d="M236.5 1162C236.5 661.354 642.354 255.5 1143 255.5 1643.65 255.5 2049.5 661.354 2049.5 1162 2049.5 1662.65 1643.65 2068.5 1143 2068.5 642.354 2068.5 236.5 1662.65 236.5 1162Z" stroke="currentColor" stroke-width="366.667" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/><path d="M1784.5 1803.5 2362.39 2343.65" stroke="currentColor" stroke-width="366.667" stroke-linecap="round" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/></g>
+				</svg>
+			</a>
 		{/if}
 	</div>
 
-	{#if page?.tags?.length}
-		<div class="right">
-			<div class="tags">
-				{#each page.tags as tag}
-					<a class="tag" href="{BASE}/portal?tag={tag}">
-						{tag}
-					</a>
-				{/each}
-			</div>
+	<div class="lower">
+		<div class="left">
+			<h1>
+				{#if page != undefined}
+					{@html page.heading}
+				{:else}
+					{@const _ = console.warn("[Assort] `<Header>` received no heading to render!")}
+					Untitled Page
+				{/if}
+			</h1>
+
+			{#if page?.caption}
+				<p class="caption"> {@html page.caption} </p>
+			{/if}
 		</div>
-	{/if}
-	
-	{#if page?.last_update_raw != undefined}
-		<p class="date">
-			last updated <span>{page.last_update_raw}</span>
-		</p>
-	{/if}
+
+		{#if page?.tags?.length}
+			<div class="right">
+				<div class="tags">
+					{#each page.tags as tag}
+						<a class="tag" href="{BASE}/portal?tag={tag}">
+							{tag}
+						</a>
+					{/each}
+				</div>
+			</div>
+		{/if}
+		
+		{#if page?.last_update_raw != undefined}
+			<p class="date">
+				last updated <span>{page.last_update_raw}</span>
+			</p>
+		{/if}
+	</div>
 </header>
 
 
@@ -64,13 +81,47 @@ let { page = current_page.data as PageData, text }: Props = $props();
 header {
 	margin-bottom: 4rem;
 	position: relative;
+	padding-bottom: 0.75rem;
+	border-bottom: 1px solid $col-line;
+}
+
+
+.upper {
+	margin-bottom: 2rem;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+
+	a.search {
+		box-sizing: content-box;
+		width: 1rem;
+		height: 1rem;
+		padding: 0.5rem;
+		display: block;
+		color: #ccc;
+		text-decoration: none;
+		border-radius: $border-radius;
+		transition: #{trans()};
+
+		&:hover, &:focus-visible {
+			cursor: pointer;
+			color: white;
+			background: $col-assort;
+		}
+
+		&:active {
+			filter: brightness(75%);
+		}
+	}
+}
+
+
+.lower {
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: space-between;
 	align-items: end;
 	gap: 1rem;
-	padding-bottom: 0.75rem;
-	border-bottom: 1px solid $col-line;
 }
 
 .left {
@@ -96,7 +147,7 @@ header {
 		align-items: end;
 		gap: 0.5rem;
 
-		.tag {
+		a.tag {
 			padding: 0.2rem 0.75rem 0.3rem;
 			@include font-ui;
 			color: white;
@@ -105,8 +156,12 @@ header {
 			border-radius: $border-radius;
 			transition: all 0.12s ease-out;
 
-			&:hover {
+			&:hover, &:focus-visible {
 				background: $col-assort;
+			}
+
+			&:active {
+				filter: brightness(75%);
 			}
 		}
 	}
