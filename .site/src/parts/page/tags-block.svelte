@@ -28,7 +28,7 @@ let data = $derived(page.data as PageData);
 			<tr>
 				<th> {tag} </th>
 				<td>
-					{#each SITE.tags[tag] as other_file}
+					{#each SITE.tags[tag].toSorted() as other_file}
 						{@const other_page = SITE.pages[other_file]}
 
 						<a
