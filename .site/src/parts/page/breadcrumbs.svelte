@@ -5,19 +5,14 @@
 <script lang="ts">
 
 import { SITE, BASE } from "#src/site";
-import type { route } from "#scripts/types";
+import type { route, PageData } from "#scripts/types";
 
 import { AssortIcon } from "#parts/special";
 
-import type { PageData } from "stranger-quarkdown";
+import { page } from "$app/state";
 
 
-interface Props {
-  page: PageData<"long">;
-}
-
-let { page }: Props = $props();
-
+let data = $derived(page.data as PageData);
 
 interface Breadcrumb {
 	title: string
@@ -28,7 +23,7 @@ let breadcrumbs = $derived.by(() => {
 	let out: Breadcrumb[] = [];
 	let current: route = `${BASE}`;
 
-	let frags = page.destination.split("/");
+	let frags = data.destination.split("/");
 
 	for (let frag of frags) {
 		current += `/${frag}`;
@@ -60,7 +55,6 @@ let breadcrumbs = $derived.by(() => {
 
 ul.breadcrumbs {
 	list-style: none;
-	margin-bottom: 2rem;
 	display: flex;
 	flex-flow: row wrap;
 

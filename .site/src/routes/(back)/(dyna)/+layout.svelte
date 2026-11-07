@@ -12,7 +12,7 @@
 <script lang="ts">
 
 import { Nav, Footer } from "#parts/core";
-import { Breadcrumbs, Header, TagsBlock } from "#parts/page";
+import { Header, TagsBlock } from "#parts/page";
 
 import { page } from "$app/state";
 import type { PageData } from "stranger-quarkdown";
@@ -27,7 +27,6 @@ let data = $derived(page.data as PageData<"long">);
 
 <div class="layout">
 	<main>
-		<Breadcrumbs page={data} />
 		<Header />
 
 		<article>
