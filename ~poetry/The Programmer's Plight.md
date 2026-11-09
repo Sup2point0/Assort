@@ -111,16 +111,3 @@ The squiggly underline of a new bug detected:
 <!-- #SQUARK leave? -->
 (25–27 June 2024)
 <!-- #SQUARK leave. -->
-
-
-<!-- #SQUARK only?
-
-<style lang="scss">
-
-p {
-  font-family: 'Fira Sans', #SQUARK font-body;
-}
-
-</style>
-
-     #SQUARK only. -->
