@@ -4,7 +4,6 @@
 | capt = Yu-Gi-Oh! Archetype
 | desc = An archetype of DARK Monsters of various Types, revolving around Ritual and Synchro Summoning, with Grave effects and non-targeting soft removal.
 | tags = yugioh / yugioh-archetypes
-| clean = braces
 -->
 
 An archetype of DARK Monsters of various Types, revolving around Ritual and Synchro Summoning, with Grave effects and non-targeting soft removal.

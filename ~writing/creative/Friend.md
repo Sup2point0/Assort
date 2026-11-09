@@ -4,7 +4,6 @@
 | desc = He’s sitting on the bench, at our usual spot, waiting for me.
 | tags = writing / archives
 | date = 2020 September
-| clean = braces
 -->
 
 I round the corner, out of breath. He’s sitting on the bench, at our usual spot, waiting for me. Like always. Except this time he isn’t smiling. Instead, his face looks flushed from tears, and the knuckles on his left hand are bruised.  

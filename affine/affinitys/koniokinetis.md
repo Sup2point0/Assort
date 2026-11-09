@@ -4,7 +4,6 @@
 | desc = The ability to psychokinetically control dust and other fine particulates
 | capt = Affinity
 | tags = affine / affinitys / long
-| clean = braces
 -->
 
 A highly specialised derivative of [telekinetis](telekinetis.md), opting to control only dust and other fine particulates.

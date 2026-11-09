@@ -3,7 +3,6 @@
 | dest = writing/wriiting
 | title = wriiting
 | tags = writing / meta
-| clean = line-breaks
 -->
 
 Writing clearly and concisely is really tough.

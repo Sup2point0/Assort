@@ -3,7 +3,6 @@
 | dest = yugioh/psssccct
 | desc = A more efficient fork of Yu-Gi-Oh card text
 | tags = yugioh
-| clean = braces
 -->
 
 I’ve always thought card text in *Yu-Gi-Oh!* is wonderfully written (in that it flows like regular text, allowing even younger players to understand what it does) ...but at the same time is also horrendously cluttered and inefficient for playing a card game, especially one on tiny pieces of cardboard. [Problem-Solving Card Text](https://yugipedia.com/wiki/Problem-Solving_Card_Text) is awesome, don’t get me wrong, but it has plenty of issues, inefficiencies, and inconsistencies that should really be addressed.

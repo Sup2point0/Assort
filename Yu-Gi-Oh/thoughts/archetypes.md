@@ -3,7 +3,6 @@
 | dest = yugioh/thoughts-on-archetypes
 | desc = My thoughts on all the Yu-Gi-Oh archetypes I’ve watched, researched, or played against
 | tags = yugioh / writing / opinion / long
-| clean = angles
 | update = 2025 December 13
 -->
 

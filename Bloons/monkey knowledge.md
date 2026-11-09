@@ -4,7 +4,6 @@
 | desc = How I reimagined the Monkey Knowledge upgrades
 | tags = bloons / games
 | date = 2022
-| clean = line-breaks
 -->
 
 How I reimagined the Monkey Knowledge upgrades back from when I was really into BTD6.

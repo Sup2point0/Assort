@@ -4,7 +4,6 @@
 | capt = Yu-Gi-Oh! Archetype
 | desc = An archetype of LIGHT Monsters, closely related to and supporting the Vapour-Eyes archetype.
 | tags = yugioh / yugioh-archetypes
-| clean = braces
 -->
 
 An archetype of LIGHT Monsters, closely related to and supporting the [*Vapour-Eyes*](Vapour-Eyes.md) archetype.

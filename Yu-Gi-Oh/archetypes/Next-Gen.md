@@ -4,7 +4,6 @@
 | capt = Yu-Gi-Oh! Superarchetype
 | desc = A superarchetype of revitalisations of various existing Yu-Gi-Oh archetypes.
 | tags = yugioh / yugioh / yugioh-superarchetypes
-| clean = braces
 -->
 
 A superarchetype of revitalisations of various existing archetypes.

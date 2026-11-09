@@ -4,7 +4,6 @@
 | desc = A deep dive into my Python syntax preferences and conventions.
 | tags = dev / writing / opinion
 | date = 2024 spring
-| clean = braces / angles
 -->
 
 If you‘ve taken a look at any of my code written in Python, you may have noticed its syntax is perhaps unconventional in many aspects – nothing that actually affects functionality, but plenty of idiosyncrasies that would immediately stick out to any seasoned Pythonista. I am well aware of this, and I apologise if this has caused any difficulty or distress (as I have been notified of – on several occasions) to anyone perusing my code.
