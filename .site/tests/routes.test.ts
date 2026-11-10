@@ -4,8 +4,6 @@
 import { test, chromium, expect } from "@playwright/test";
 
 
-type url = string;
-
 const WHITE = `\x1b[0m`;
 const BLACK = `\x1b[30m`;
 const GREY  = `\x1b[90m`;
@@ -24,23 +22,23 @@ test("crawl-routes", async () =>
 {
 	test.setTimeout(60 * 1000);
 
-	let visited = new Set<url>();
-	let failed_routes: url[] = [];
+	let visited = new Set<string>();
+	let failed_routes: string[] = [];
 
 	let to_visit = [
-		{ url: "/", source: "." },
-		{ url: "/contents", source: "." },
+		{ url: "/Assort/contents", source: "START" },
 	];
 
 	let pending_routes = 0;
 	let routes_visited = 0;
 
 	await Promise.allSettled(Array.from({ length: 4 }, (_, i) =>
-		(async () => {
+		(async () =>
+		{
 			await sleep(i * 1000);
 
 			const WORKER = `${PINK}[worker ${i+1}]${WHITE}`;
-			console.info(`${GREY}>> ${WORKER} ${YELLOW}Scanning for links...`);
+			console.info(`${GREY}» ${WORKER} ${YELLOW}Scanning for links...`);
 
 			let ctx = await browser.newContext();
 			let page = await ctx.newPage();
@@ -64,7 +62,7 @@ test("crawl-routes", async () =>
 				visited.add(target);
 
 				try {
-					console.info(`${GREY}-- ${WORKER} Visiting: ${CYAN}${u(target)}`);
+					console.info(`${GREY}› ${WORKER} Visiting: ${CYAN}${u(target)}`);
 
 					pending_routes++;
 					routes_visited++;
@@ -75,13 +73,12 @@ test("crawl-routes", async () =>
 					let links = await page.locator("a").evaluateAll(
 						anchors => anchors
 							.map(a => !a.disabled && a.href)
-							.filter(url => url != undefined && url.includes("://localhost:") && !url.includes("#"))
+							.filter(url => url?.includes("://localhost:") && !url?.includes("#"))
 					);
 					to_visit.push(...links.map(url => ({ url, source: target })));
 				}
 				catch (e) {
-					console.error(`${RED}!! ${WORKER} Failed: ${CYAN}${u(target)}${WHITE}; linked from: ${BLUE}${u(source)}${RED}`);
-					console.error(e.message);
+					console.error(`${RED}× ${WORKER} ${RED}${e}: ${CYAN}${u(target)}${WHITE} —— ${GREY}linked from: ${BLUE}${u(source)}`);
 
 					failed_routes.push(target);
 				}
@@ -91,7 +88,7 @@ test("crawl-routes", async () =>
 
 			await ctx.close();
 
-			console.info(`${GREY}>> ${WORKER} ${YELLOW}Finished scanning.`);
+			console.info(`${GREY}» ${WORKER} ${YELLOW}Finished scanning.`);
 		})()
 	));
 

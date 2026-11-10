@@ -37,6 +37,9 @@ const config = sveltekit(
 		"#styles/*":  "./src/styles/*",
 		"#scripts/*": "./src/scripts/*",
 	},
+	paths: {
+		base: process.argv.includes("dev") ? "" : "/Assort",
+	},
 	preprocess: [
 		mdsvex({
 			extensions: [".md", ".svx"],
