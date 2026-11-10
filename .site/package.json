@@ -7,16 +7,18 @@
 
   "scripts":
   {
-    "dev":    "vite dev",
-      "devx": "npm run prep && vite dev --open",
+    "dev":      "vite dev",
+      "devx":   "npm run prep && vite dev --open",
     
-    "prep":    "squarkdown",
-      "prepx": "squarkdown --fonts --assets",
+    "prep":     "squarkdown",
+      "prepx":  "squarkdown --fonts --assets",
 
     "build":    "vite build",
       "buildx": "npm run prepx && vite build",
 
-    "preview": "vite preview"
+    "preview":  "vite preview",
+
+    "test":     "playwright test"
   },
 
   "imports": {
