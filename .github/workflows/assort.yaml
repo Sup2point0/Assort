@@ -28,7 +28,7 @@ jobs:
       - name: 'Setup Node'
         uses: actions/setup-node@v7
         with:
-          cache: 'npm'
+          cache: 'pnpm'
 
       - name: '› npm audit'
         run: |
