@@ -18,7 +18,6 @@ Oh yeah, and yeah no, I’m aware half of them don’t make any sense at all, an
 
 <!-- #SQUARK index~ -->
 
-<!-- #SQUARK leave? -->
 ## Index
 
 ### 2025
@@ -49,4 +48,3 @@ Oh yeah, and yeah no, I’m aware half of them don’t make any sense at all, an
 [Time of the Times](Time%20of%20the%20Times.md)  
 [Heavy Crown](Heavy%20Crown.md)  
 [This](This.md)  
-<!-- #SQUARK leave. -->
