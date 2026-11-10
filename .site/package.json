@@ -18,7 +18,8 @@
 
     "preview":  "vite preview",
 
-    "test":     "playwright test"
+    "test":     "playwright test",
+      "testx":  "npm run buildx && playwright test"
   },
 
   "imports": {
