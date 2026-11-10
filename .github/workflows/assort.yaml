@@ -39,9 +39,23 @@ jobs:
         run: |
           npm ci
 
-      - name: '› npm run buildx'
+      # - name: '› npm run buildx'
+      #   run: |
+      #     npm run buildx
+
+      - name: '› npm run prepx'
         run: |
-          npm run buildx
+          npm run prepx
+
+      - name: 'Upload Artifact'
+        uses: actions/upload-artifact@v4
+        with:
+          name: 'svx'
+          path: 'src/routes/**/*.svx'
+
+      - name: '› npm run build'
+        run: |
+          npm run build
 
       - name: 'Upload Artifact'
         uses: actions/upload-pages-artifact@v3
