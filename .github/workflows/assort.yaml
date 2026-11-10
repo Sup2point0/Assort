@@ -25,15 +25,18 @@ jobs:
           submodules: true
           token: ${{ secrets.SUPPETY_PAT }}
 
-      - name: 'Setup PNPM'
-        uses: pnpm/setup@v3
+      - name: 'Setup Node'
+        uses: actions/setup-node@v7
         with:
-          version: 11
-          cache: true
+          cache: 'npm'
 
-      - name: '› pnpm audit'
+      - name: '› npm audit'
         run: |
-          pnpm audit --audit-level=moderate
+          npm audit --audit-level=moderate
+
+      - name: '› npm ci'
+        run: |
+          npm ci
 
       - name: '› npm run buildx'
         run: |
