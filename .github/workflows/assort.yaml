@@ -31,13 +31,9 @@ jobs:
           version: 11
           cache: true
 
-      - name: '› npm audit'
+      - name: '› pnpm audit'
         run: |
-          npm audit --audit-level=moderate
-
-      - name: '› npm ci'
-        run: |
-          npm ci
+          pnpm audit --audit-level=moderate
 
       - name: '› npm run buildx'
         run: |
