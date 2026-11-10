@@ -1,4 +1,4 @@
-name: 'Assort'
+name: 'assort'
 
 on:
   workflow_dispatch:
