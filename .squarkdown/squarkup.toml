@@ -1,4 +1,4 @@
-#:schema https://sup2point0.github.io/stranger-quarkdown/schemas/v4.8
+#:schema https://sup2point0.github.io/stranger-quarkdown/schemas/v4.9
 
 [project]
 name = 'Assort'
@@ -41,7 +41,9 @@ shorter-fields = false
 [format]
 inject-head = false
 externalise-links = true
-repair-html = true
+escape-angles = true
+escape-braces = true
+repair-tables = true
 
 [assets]
 base-path = "/Assort/"
@@ -55,5 +57,6 @@ queries = [
 	'Nanum+Pen+Script',
 	'Noto+Serif:ital,wght@0,100..900;1,100..900',
 	'Outfit:wght@100..900',
+	'Readex+Pro:wght@160..700',
 	'ZCOOL+XiaoWei',
 ]
