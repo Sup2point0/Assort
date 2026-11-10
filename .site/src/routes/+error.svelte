@@ -5,7 +5,7 @@ import { BASE } from "#src/site";
 </script>
 
 
-<img id="back" alt="" src="{BASE}/back/sunset.png" />
+<img id="back" alt="" src="{BASE}/svelte/sunset.png" />
 
 <main>
 	<p id="e404"> 404 </p>

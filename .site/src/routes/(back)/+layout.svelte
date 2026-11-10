@@ -11,7 +11,7 @@ let { children } = $props();
 </script>
 
 
-<img id="back" alt="" src="{BASE}/back/sunset.png" />
+<img id="back" alt="" src="{BASE}/svelte/sunset.png" />
 
 {#if children != undefined}
 	{@render children()}

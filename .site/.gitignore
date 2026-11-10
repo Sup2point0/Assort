@@ -5,8 +5,8 @@
 src/data/*.json
 
 # SvelteKit
-static/
-!static/.gitkeep
+static/*
+!static/svelte
 
 build/
 .svelte-kit/
