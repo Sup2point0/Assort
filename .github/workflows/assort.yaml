@@ -51,7 +51,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: 'svx'
-          path: 'src/routes/**/*.svx'
+          path: '.site/src/routes/**/*.svx'
 
       - name: '› npm run build'
         run: |
