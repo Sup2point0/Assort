@@ -28,6 +28,7 @@ jobs:
       - name: 'Setup PNPM'
         uses: pnpm/setup@v3
         with:
+          version: ^11.0
           cache: true
 
       - name: '› npm audit'

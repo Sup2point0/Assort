@@ -26,8 +26,6 @@
     "#scripts/*": "./src/scripts/*"
   },
 
-  "packageManager": "pnpm@11.0.0",
-
   "dependencies":
   {
     "@sup2.0/weighted-list": "^0.2",
