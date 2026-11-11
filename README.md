@@ -26,11 +26,8 @@ Here you’ll find all my interests, thoughts, writing, and productive unproduct
 
 ## Portal
 
-> [!Note]
-> The *Assort* site is desperately in need of a renovation, I’m working on it!
-
-<!-- > [!Tip]
-> New here? Consider starting out on the [site<sup>↗</sup>](https://sup2point0.github.io/Assort) for a much nicer browsing experience! -->
+> [!Tip]
+> New here? Consider starting out on the [site<sup>↗</sup>](https://sup2point0.github.io/Assort) for a nicer browsing experience!
 
 ### Categories
 📁 [music](~music/)  
@@ -44,10 +41,6 @@ Here you’ll find all my interests, thoughts, writing, and productive unproduct
 📁 [affine](affine/)  
 📁 [kenzokinetics](kenzokinetics/)  
 📁 [xeriqui](xeriqui/)  
-
-### Subprojects
-❄️ [Antarctica](https://github.com/Sup2point0/Antarctica)  
-❄️ [Victory](https://github.com/Sup2point0/Victory)  
 
 
 <br>
@@ -101,6 +94,4 @@ See [AI](AI.md) o7
 <br>
 
 
----
-
-yo, still here?
+<!-- yo, still here? -->
