@@ -4,6 +4,8 @@
 
 <script lang="ts">
 
+import HomeLinks from "./links.home.svelte";
+
 import { BASE } from "#src/site";
 
 import { onMount } from "svelte";
@@ -93,11 +95,16 @@ function schedule($stage: Stage, next: () => any)
 		</h1>
 
 		<p id="assort-desc"
-			in:slide={{ duration: 1500, axis: "x", easing: expoOut, delay: 1500 }}
+			in:slide={{ duration: 1500, axis: "x", easing: expoOut, delay: 1000 }}
 			out:blur={{ duration: 1500 }}
 		>
 			an assortment of all my creations!
 		</p>
+
+	{:else if stage === Stage.DONE}
+		<div class="links">
+			<HomeLinks />
+		</div>
 	
 	{/if}
 </main>
