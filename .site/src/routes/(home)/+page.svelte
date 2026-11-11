@@ -8,28 +8,59 @@ import { BASE } from "#src/site";
 
 import { onMount } from "svelte";
 import { scale, blur, slide } from "svelte/transition";
-import { expoInOut, expoOut } from "svelte/easing";
+import { expoIn, expoOut } from "svelte/easing";
 
 
 // svelte-ignore non_reactive_update
-enum Stage {
+enum Stage
+{
+	/** Waiting for the page to mount client-side. */
 	WAITING,
+
+	/** Show "welcome to". */
 	WELCOME,
+
+	/** Show "Assort". */
 	ASSORT,
+
+	/** Animation is finished! */
 	DONE,
 }
 
+/** Durations of each animatino stage. */
+const DURATION: Record<Stage, number> = {
+	[Stage.WELCOME]: 2000,
+	[Stage.ASSORT]: 4000,
+};
+
+
+/** What stage of the entrance animation are we at? */
 let stage = $state(Stage.WAITING);
 
 onMount(() => {
 	stage = Stage.WELCOME;
 
-	let next = setTimeout(() => {
-		stage = Stage.ASSORT;
-	}, 2000);
-
-	return () => clearTimeout(next);
+	return schedule(Stage.ASSORT, () =>
+		schedule(Stage.DONE, () => {})
+	);
 })
+
+
+/** Set the animation stage to `$stage`, after waiting for the previous stage to end.
+ * 
+ * Then schedule `next`, which should be a recursive call to `schedule()`, or a no-op if this is the last stage to schedule. */
+function schedule($stage: Stage, next: () => any): () => void
+{
+	let timeout = setTimeout(
+		() => {
+			stage = $stage;
+			return next();
+		},
+		DURATION[$stage - 1 as Stage]
+	);
+
+	return () => clearTimeout(timeout);
+}
 
 </script>
 
@@ -47,15 +78,17 @@ onMount(() => {
 			welcome to
 		</p>
 	
-		{:else if stage === Stage.ASSORT}
+	{:else if stage === Stage.ASSORT}
 		<h1 id="assort"
 			in:blur={{ duration: 2000 }}
+			out:scale={{ duration: 2000, easing: expoIn }}
 		>
 			Assort
 		</h1>
 
 		<p id="assort-desc"
 			in:slide={{ duration: 1500, axis: "x", easing: expoOut, delay: 1500 }}
+			out:blur={{ duration: 1500 }}
 		>
 			an assortment of all my creations!
 		</p>
