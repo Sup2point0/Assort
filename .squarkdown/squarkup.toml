@@ -27,7 +27,8 @@ exclude = [
 flags = [
 	"feat", "index",
 	"dev", "depr", "archive",
-	"deep", "woozy",
+	"deep", # immerse
+	"woozy", # confuse
 ]
 fields = [
 	"font",
