@@ -43,14 +43,10 @@ jobs:
         run: |
           npm run buildx
 
-      - name: '› npm run prepx'
-        run: |
-          npm run prepx
-
       - name: 'Upload Artifact'
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'build/'
+          path: '.site/build/'
 
   deploy:
     needs: build
