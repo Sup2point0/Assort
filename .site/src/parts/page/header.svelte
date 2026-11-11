@@ -60,7 +60,7 @@ let { page = current_page.data as PageData }: Props = $props();
 				<div class="tags">
 					{#each page.tags as tag}
 						<a class="tag" href="{BASE}/contents?tag={tag}">
-							{SITE.tags[tag]?.title}
+							{SITE.tags[tag]?.title ?? tag}
 						</a>
 					{/each}
 				</div>

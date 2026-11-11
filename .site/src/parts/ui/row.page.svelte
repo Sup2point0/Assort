@@ -26,7 +26,7 @@ let { page }: Props = $props();
 	<div class="right">
 		{#each page.tags ?? [] as tag}
 			<span class="tag">
-				{SITE.tags[tag].title}
+				{SITE.tags[tag]?.title ?? tag}
 			</span>
 		{/each}
 	</div>

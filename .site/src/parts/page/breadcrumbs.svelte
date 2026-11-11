@@ -4,7 +4,7 @@
 
 <script lang="ts">
 
-import { SITE, BASE } from "#src/site";
+import { BASE } from "#src/site";
 import type { route, PageData } from "#scripts/types";
 
 import { AssortIcon } from "#parts/special";

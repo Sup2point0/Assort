@@ -24,7 +24,7 @@ export const SITE: SiteData = {
 					pages: pages
 				}
 			])
-	)
+	),
 } satisfies SiteData;
 export default SITE;
 
