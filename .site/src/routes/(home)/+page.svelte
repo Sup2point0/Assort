@@ -37,29 +37,32 @@ const DURATION: Record<Stage, number> = {
 /** What stage of the entrance animation are we at? */
 let stage = $state(Stage.WAITING);
 
+/** The global timeout for advancing to the next animation stage, used for pre-emptive cancelling. */
+let timeout: NodeJS.Timeout;
+
 onMount(() => {
 	stage = Stage.WELCOME;
 
-	return schedule(Stage.ASSORT, () =>
+	schedule(Stage.ASSORT, () =>
 		schedule(Stage.DONE, () => {})
 	);
+
+	return () => clearTimeout(timeout);
 })
 
 
 /** Set the animation stage to `$stage`, after waiting for the previous stage to end.
  * 
  * Then schedule `next`, which should be a recursive call to `schedule()`, or a no-op if this is the last stage to schedule. */
-function schedule($stage: Stage, next: () => any): () => void
+function schedule($stage: Stage, next: () => any)
 {
-	let timeout = setTimeout(
+	timeout = setTimeout(
 		() => {
 			stage = $stage;
-			return next();
+			next();
 		},
 		DURATION[$stage - 1 as Stage]
 	);
-
-	return () => clearTimeout(timeout);
 }
 
 </script>
@@ -69,7 +72,10 @@ function schedule($stage: Stage, next: () => any): () => void
 
 <!-- svelte-ignore a11y_no_noninteractive_element_interactions -->
 <!-- svelte-ignore a11y_click_events_have_key_events -->
-<main onclick={() => { stage = Stage.DONE; }}>
+<main onclick={() => {
+	clearTimeout(timeout);
+	stage = Stage.DONE;
+}}>
 	{#if stage === Stage.WELCOME}
 		<p id="welcome"
 			in:scale={{ duration: 2000, start: 0, easing: expoOut, delay: 500 }}
