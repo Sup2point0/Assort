@@ -53,6 +53,7 @@ site-assets-folder = '.assets/.site/'
 
 [fonts]
 queries = [
+	'Crimson+Pro:ital,wght@0,200..900;1,200..900',
 	'Fira+Mono:wght@400;500;700',
 	'Lora:ital,wght@0,400..700;1,400..700',
 	'Nanum+Pen+Script',
