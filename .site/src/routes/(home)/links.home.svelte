@@ -70,7 +70,7 @@ const links = [
 	scroll-timeline: --home-links;
 	max-height: 100vh;
 	overflow-y: scroll;
-	// scrollbar-width: none;
+	scrollbar-width: none;
 
 	.scroll-body {
 		height: 300vh;
