@@ -18,10 +18,11 @@ interface Props {
   intern: route
   hover?: string
   children?: Snippet
+  disabled?: boolean
   debug?: boolean
 }
 
-let { text, intern, hover, children, debug }: Props = $props();
+let { text, intern, hover, children, disabled, debug }: Props = $props();
 
 
 let is_current = $derived(intern !== "" && page.url.pathname === `/${intern}`);
@@ -32,6 +33,7 @@ let is_related = $derived(intern !== "" && page.url.pathname.startsWith(`/${inte
 
 <a
 	class:current={is_current}
+	class:disabled
 	class:debug
 	href="{BASE}/{intern}"
 >
@@ -97,6 +99,11 @@ a {
 	&.current {
 		color: $col-cyan;
 		font-weight: 400;
+	}
+
+	&.disabled {
+		pointer-events: none;
+		opacity: 0.5;
 	}
 
 	&.debug:not(:where(:hover, :focus-visible)) {
