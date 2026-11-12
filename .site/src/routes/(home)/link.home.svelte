@@ -59,6 +59,7 @@ a {
 		rotateY(calc( -1 * cos($angle) * 40deg ))
 		perspective(100rem)
 	;
+	filter: blur(calc($z * 0.25px));
 
 	animation: zoom linear;
 	animation-timeline: --home-links;
@@ -68,12 +69,13 @@ a {
 		to   { --zoom: 100 }
 	}
 
-	padding: 0.5rem 1rem;
+	padding: 0.25rem 1rem 0.2rem;
 	@include font-fun;
 	color: white;
 	font-size: 200%;
 	background: rgb(white, 10%);
 	text-decoration: none;
+	transition: #{trans()};
 
 	&:hover {
 		background: rgb(white, 30%);
