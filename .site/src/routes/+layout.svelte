@@ -8,6 +8,8 @@ import "#styles/essence.scss";
 import "#styles/markdown.scss";
 import "#styles/realms.scss";
 
+import "core-js/actual/array/to-sorted";
+
 import { get_font_for_theme, FONT_BODY, FONT_HEAD } from "./fonts";
 import { BASE } from "#src/site";
 

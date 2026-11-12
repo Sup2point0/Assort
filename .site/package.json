@@ -33,6 +33,7 @@
   {
     "@sup2.0/weighted-list": "^0.2",
     "@stdlib/random-sample": "^0.2",
+    "core-js": "^3.51",
     "fuzzball": "^2.2",
     "svelte-persisted-store": "^0.12"
   },
