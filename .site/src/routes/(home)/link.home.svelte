@@ -70,6 +70,7 @@ a {
 	}
 
 	padding: 0.25rem 1rem 0.2rem;
+	white-space: pre;
 	@include font-fun;
 	color: white;
 	font-size: 200%;

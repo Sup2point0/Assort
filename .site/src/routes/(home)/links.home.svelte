@@ -17,44 +17,26 @@ const links = [
 	{ text: "Featured", intern: "featured" },
 	{ text: "Recent",   intern: "recent" },
 	
-	{ text: "Contents", intern: "contents" },
-	{ text: "Featured", intern: "featured" },
-	{ text: "Recent",   intern: "recent" },
-	{ text: "Contents", intern: "contents" },
-	{ text: "Featured", intern: "featured" },
-	{ text: "Recent",   intern: "recent" },
-	{ text: "Contents", intern: "contents" },
-	{ text: "Featured", intern: "featured" },
-	{ text: "Recent",   intern: "recent" },
-	{ text: "Contents", intern: "contents" },
-	{ text: "Featured", intern: "featured" },
-	{ text: "Recent",   intern: "recent" },
-	{ text: "Contents", intern: "contents" },
-	{ text: "Featured", intern: "featured" },
-	{ text: "Recent",   intern: "recent" },
-	{ text: "Contents", intern: "contents" },
-	{ text: "Featured", intern: "featured" },
-	{ text: "Recent",   intern: "recent" },
-	{ text: "Contents", intern: "contents" },
-	{ text: "Featured", intern: "featured" },
-	{ text: "Recent",   intern: "recent" },
-	{ text: "Contents", intern: "contents" },
-	{ text: "Featured", intern: "featured" },
-	{ text: "Recent",   intern: "recent" },
-	{ text: "Contents", intern: "contents" },
-	{ text: "Featured", intern: "featured" },
-	{ text: "Recent",   intern: "recent" },
-	{ text: "Contents", intern: "contents" },
-	{ text: "Featured", intern: "featured" },
-	{ text: "Recent",   intern: "recent" },
+	{ text: "dev",      intern: "dev" },
+	{ text: "writing",  intern: "writing" },
+	{ text: "poetry",   intern: "poetry" },
+	{ text: "lists",    intern: "lists" },
+	{ text: "Yu-Gi-Oh", intern: "yugioh" },
+	{ text: "affine",   intern: "affine" },
+
+	{ text: "synopsis", intern: "info/synopsis" },
+	{ text: "licence", intern: "info/licence" },
+	{ text: "FAQ", intern: "info/faq" },
 ];
+
+const LINKS = [...links, ...links, ...links];
 
 </script>
 
 
 <div class="links" bind:this={scroll_container}>
 	<div class="perspective">
-		{#each links as { text, intern }, index}
+		{#each LINKS as { text, intern }, index}
 			<HomeLink {text} {intern} {index} />
 		{/each}
 	</div>
