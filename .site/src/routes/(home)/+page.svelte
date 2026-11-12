@@ -9,7 +9,7 @@ import HomeLinks from "./links.home.svelte";
 import { BASE } from "#src/site";
 
 import { onMount } from "svelte";
-import { scale, blur, slide } from "svelte/transition";
+import { fade, blur, scale, slide } from "svelte/transition";
 import { expoIn, expoOut } from "svelte/easing";
 
 
@@ -89,7 +89,7 @@ function schedule($stage: Stage, next: () => any)
 	{:else if stage === Stage.ASSORT}
 		<h1 id="assort"
 			in:blur={{ duration: 2000 }}
-			out:scale={{ duration: 2000, easing: expoIn }}
+			out:scale={{ duration: 1500, easing: expoIn }}
 		>
 			Assort
 		</h1>
@@ -103,7 +103,7 @@ function schedule($stage: Stage, next: () => any)
 
 	{:else if stage === Stage.DONE}
 		<HomeLinks />
-		<div id="vignette"></div>
+		<div id="vignette" in:fade={{ duration: 1000 }}></div>
 	
 	{/if}
 </main>
@@ -167,7 +167,7 @@ h1#assort {
 	) 0 0 / 800% 100% no-repeat;
 	-webkit-background-clip: text;
 	background-clip: text;
-	animation: 2s forwards ease-in-out flavour;
+	animation: 2.5s forwards ease-in-out flavour;
 
 	@keyframes flavour {
 		from { background-position-x: 0 }
