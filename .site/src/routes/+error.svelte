@@ -2,13 +2,16 @@
 
 import { BASE } from "#src/site";
 
+
+let { error } = $props();
+
 </script>
 
 
 <img id="back" alt="" src="{BASE}/svelte/sunset.png" />
 
 <main>
-	<p id="e404"> 404 </p>
+	<p id="e404"> {error.status ?? 404} </p>
 
 	<div>
 		<h1> sup, intrepid adventurer. </h1>
