@@ -40,7 +40,7 @@ import NavLink from "./nav.link.svelte";
 	</section>
 
 	<section>
-		<h2> Creations </h2>
+		<h2> Realms </h2>
 		<NavLink text="affine" intern="affine">
 			<NavLink text="affinitys" intern="affine/affinitys" />
 			<NavLink text="spells" intern="affine/spells" />
