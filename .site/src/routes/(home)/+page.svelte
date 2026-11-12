@@ -103,6 +103,7 @@ function schedule($stage: Stage, next: () => any)
 
 	{:else if stage === Stage.DONE}
 		<HomeLinks />
+		<div id="vignette"></div>
 	
 	{/if}
 </main>
@@ -181,6 +182,21 @@ p#assort-desc {
 	transform: translateX(-50%) translateY(20vh);
 	@include font-fun;
 	font-size: 2vw;
+}
+
+#vignette {
+	pointer-events: none;
+	width: 100vw;
+	height: 80vw;
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	translate: -50% -50%;
+	background: radial-gradient(transparent 40%, black);
+
+	@media (max-width: 120vh) {
+		height: 100vh;
+	}
 }
 
 </style>

@@ -25,9 +25,9 @@ let { text, intern, index }: Props = $props();
 <div class="link"
 >
 	<a
-	transition:blur|global={{ duration: 2000, easing: expoOut, delay: index * 100 }}
 		href="{BASE}/{intern}"
 		style:--i={index}
+		in:blur|global={{ duration: 2000, easing: expoOut, delay: index * 100 }}
 	>
 		{text}
 	</a>
