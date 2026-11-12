@@ -7,7 +7,7 @@ A special link on the home page.
 
 import { BASE } from "#src/site.ts";
 
-import { scale } from "svelte/transition";
+import { fade, blur } from "svelte/transition";
 import { expoOut } from "svelte/easing";
 
 
@@ -22,13 +22,16 @@ let { text, intern, index }: Props = $props();
 </script>
 
 
-<a
-	href="{BASE}/{intern}"
-	style:--i={index}
-	transition:scale={{ duration: 2000, easing: expoOut }}
+<div class="link"
 >
-	{text}
-</a>
+	<a
+	transition:blur|global={{ duration: 2000, easing: expoOut, delay: index * 100 }}
+		href="{BASE}/{intern}"
+		style:--i={index}
+	>
+		{text}
+	</a>
+</div>
 
 
 <style lang="scss">
@@ -45,25 +48,24 @@ a {
 	left: 50vw;
 
 	$i: var(--i);
-	$z: max(0, calc(var(--zoom) * var(--i) / 100));
-	$angle: calc($i * $i * 7deg);
-	$dist: calc(20vh + $i * 2vh);
+	$z: max(0, calc(var(--zoom) * $i*$i / 900));
+	$angle: calc($i * 137deg - ($z + log(3*$z)) * 3deg);
+	$dist: calc(5vh + ($i + log($i)) * 1vh);
 	transform:
 		translateX(calc( -50% + cos($angle) * $dist * $z ))
 		translateY(calc( -50% - sin($angle) * $dist * $z ))
-		// rotateX(calc( sin($angle) * 45deg ))
+		scale(calc($z))
 		// rotateX(calc( -1 * sin($angle) * 30deg ))
 		// rotateY(calc( -1 * cos($angle) * 30deg ))
 		perspective(100rem)
-		scale(calc(2 * $z))
 	;
 
 	animation: zoom linear;
 	animation-timeline: --home-links;
 
 	@keyframes zoom {
-		from { --zoom: 2 }
-		to   { --zoom: 50 }
+		from { --zoom: 1 }
+		to   { --zoom: 100 }
 	}
 
 	padding: 0.5rem 1rem;

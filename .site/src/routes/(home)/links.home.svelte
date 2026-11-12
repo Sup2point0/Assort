@@ -2,6 +2,15 @@
 
 import HomeLink from "./link.home.svelte";
 
+import { onMount } from "svelte";
+
+
+let scroll_container: HTMLElement;
+
+onMount(() => {
+	scroll_container.scrollTo({ top: 200 })
+})
+
 
 const links = [
 	{ text: "Contents", intern: "contents" },
@@ -26,12 +35,24 @@ const links = [
 	{ text: "Contents", intern: "contents" },
 	{ text: "Featured", intern: "featured" },
 	{ text: "Recent",   intern: "recent" },
+	{ text: "Contents", intern: "contents" },
+	{ text: "Featured", intern: "featured" },
+	{ text: "Recent",   intern: "recent" },
+	{ text: "Contents", intern: "contents" },
+	{ text: "Featured", intern: "featured" },
+	{ text: "Recent",   intern: "recent" },
+	{ text: "Contents", intern: "contents" },
+	{ text: "Featured", intern: "featured" },
+	{ text: "Recent",   intern: "recent" },
+	{ text: "Contents", intern: "contents" },
+	{ text: "Featured", intern: "featured" },
+	{ text: "Recent",   intern: "recent" },
 ];
 
 </script>
 
 
-<div class="links">
+<div class="links" bind:this={scroll_container}>
 	<div class="perspective">
 		{#each links as { text, intern }, index}
 			<HomeLink {text} {intern} {index} />
@@ -52,7 +73,7 @@ const links = [
 	// scrollbar-width: none;
 
 	.scroll-body {
-		height: 200vh;
+		height: 300vh;
 	}
 
 	.perspective {
