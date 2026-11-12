@@ -102,9 +102,7 @@ function schedule($stage: Stage, next: () => any)
 		</p>
 
 	{:else if stage === Stage.DONE}
-		<div class="links">
-			<HomeLinks />
-		</div>
+		<HomeLinks />
 	
 	{/if}
 </main>
@@ -138,6 +136,7 @@ img#back {
 }
 
 main {
+	overflow: hidden;
 	width: 100vw;
 	height: 100vh;
 	text-align: center;

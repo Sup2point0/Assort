@@ -14,23 +14,17 @@ import { expoOut } from "svelte/easing";
 interface Props {
 	text: string
 	intern: string
-	
-	/** The angle to offset this link from the page centre. */
-	angle: number
-
-	/** How far to offset this link from the page centre, in CSS units. */
-	distance: string
+	index: number
 }
 
-let { text, intern, angle, distance }: Props = $props();
+let { text, intern, index }: Props = $props();
 
 </script>
 
 
 <a
 	href="{BASE}/{intern}"
-	style:--angle="{angle}deg"
-	style:--dist={distance}
+	style:--i={index}
 	transition:scale={{ duration: 2000, easing: expoOut }}
 >
 	{text}
@@ -39,21 +33,49 @@ let { text, intern, angle, distance }: Props = $props();
 
 <style lang="scss">
 
+@property --zoom {
+	syntax: "<number>";
+	inherits: false;
+	initial-value: 1;
+}
+
 a {
 	position: fixed;
-	top: 50%;
-	left: 50%;
+	top: 50vh;
+	left: 50vw;
+
+	$i: var(--i);
+	$z: max(0, calc(var(--zoom) * var(--i) / 100));
+	$angle: calc($i * $i * 7deg);
+	$dist: calc(20vh + $i * 2vh);
 	transform:
-		translateX(calc(cos(var(--angle)) * var(--dist)))
-		translateY(calc(sin(var(--angle)) * var(--dist)))
+		translateX(calc( -50% + cos($angle) * $dist * $z ))
+		translateY(calc( -50% - sin($angle) * $dist * $z ))
+		// rotateX(calc( sin($angle) * 45deg ))
+		// rotateX(calc( -1 * sin($angle) * 30deg ))
+		// rotateY(calc( -1 * cos($angle) * 30deg ))
+		perspective(100rem)
+		scale(calc(2 * $z))
 	;
 
-	padding: 1rem;
+	animation: zoom linear;
+	animation-timeline: --home-links;
+
+	@keyframes zoom {
+		from { --zoom: 2 }
+		to   { --zoom: 50 }
+	}
+
+	padding: 0.5rem 1rem;
 	@include font-fun;
 	color: white;
 	font-size: 200%;
-	background: rgb(black, 10%);
+	background: rgb(white, 10%);
 	text-decoration: none;
+
+	&:hover {
+		background: rgb(white, 30%);
+	}
 }
 
 </style>
