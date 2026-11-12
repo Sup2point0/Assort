@@ -55,8 +55,8 @@ a {
 		translateX(calc( -50% + cos($angle) * $dist * $z ))
 		translateY(calc( -50% - sin($angle) * $dist * $z ))
 		scale(calc($z))
-		// rotateX(calc( -1 * sin($angle) * 30deg ))
-		// rotateY(calc( -1 * cos($angle) * 30deg ))
+		rotateX(calc( -1 * sin($angle) * 30deg ))
+		rotateY(calc( -1 * cos($angle) * 40deg ))
 		perspective(100rem)
 	;
 
