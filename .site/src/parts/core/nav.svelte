@@ -32,21 +32,21 @@ import NavLink from "./nav.link.svelte";
 
 	<section>
 		<h2> Creatives </h2>
-		<NavLink text="dev"      intern="dev" />
-		<NavLink text="writing"  intern="writing" />
-		<NavLink text="poetry"   intern="poetry" />
-		<NavLink text="graphics" intern="graphics" />
+		<NavLink text="dev"      intern="dev"      hover="Software Development" />
+		<NavLink text="writing"  intern="writing"  hover="Writing Pieces" />
+		<NavLink text="poetry"   intern="poetry"/>
+		<NavLink text="graphics" intern="graphics" hover="Graphic Design" />
 		<NavLink text="lists"    intern="lists" />
 	</section>
 
 	<section>
 		<h2> Realms </h2>
-		<NavLink text="affine" intern="affine">
+		<NavLink text="affine" intern="affine" hover="Magic">
 			<NavLink text="affinitys" intern="affine/affinitys" />
 			<NavLink text="spells" intern="affine/spells" />
 		</NavLink>
-		<NavLink disabled text="Ascense" intern="ascense" />
-		<NavLink disabled text="kenzokinetics" intern="kenzokinetics" />
+		<NavLink text="Ascense" intern="ascense" hover="Fictional Elements" />
+		<NavLink text="kenzokinetics" intern="kenzokinetics" />
 		<NavLink text="xeriqui" intern="xeriqui" />
 	</section>
 
@@ -59,10 +59,11 @@ import NavLink from "./nav.link.svelte";
 			<NavLink text="lore" intern="yugioh/lore" />
 		</NavLink>
 		<NavLink text="AirAttack 3" intern="games/aa3" />
-		<NavLink disabled text="Asphalt Fantasy" intern="games/asphalt-fantasy" />
+		<NavLink text="Asphalt Fantasy" intern="games/asphalt-fantasy" />
+		<NavLink text="Plants vs Zombies 2" intern="games/pvz2" />
 		<NavLink disabled text="Soul Knight" intern="games/soul-knight" />
-		<NavLink disabled text="Ultraman" intern="ultraman" />
-		<NavLink disabled text="diep.2.io" intern="diep2io" />
+		<NavLink text="Ultraman" intern="ultraman" />
+		<!-- <NavLink disabled text="diep.2.io" intern="diep2io" /> -->
 	</section>
 
 	<!-- <section>
@@ -82,7 +83,7 @@ import NavLink from "./nav.link.svelte";
 		<NavLink text="genAI"    intern="info/ai" hover="Generative AI statement" />
 		<NavLink text="licence"  intern="info/licence" hover="CC BY-SA 4.0" />
 		<NavLink text="stats"    intern="info/stats" hover="Stats for nerds" />
-		<NavLink disabled text="sup"      intern="sup" hover="??" debug />
+		<NavLink text="sup"      intern="sup" hover="??" debug />
 	</section>
 </nav>
 
