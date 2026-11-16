@@ -42,6 +42,7 @@ let { children } = $props();
 <style lang="scss">
 	
 .layout {
+	max-width: 100vw;
 	padding: 0 2rem;
 	padding-top: 3rem;
 	display: flex;
@@ -51,6 +52,11 @@ let { children } = $props();
 		flex: 1;
 		margin-left: 2rem;
 		margin-right: 4rem;
+
+		@media (max-width: $width-mobile) {
+			margin-left: 0;
+			margin-right: 2rem;
+		}
 	}
 }
 
