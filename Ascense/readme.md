@@ -1,4 +1,7 @@
 # ASCENSE
+<!-- #SQUARK live! index!
+| dest = ascense
+-->
 
 The Antarctican Scientific Complete Enumeration of Natural and Synthesyzed Elements.
 

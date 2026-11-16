@@ -1,4 +1,7 @@
 # Kenzokinetics
+<!-- #SQUARK live! index!
+| dest = kenzokinetics
+-->
 
 {desc}
 
