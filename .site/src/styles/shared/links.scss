@@ -36,4 +36,8 @@
 			transform: none;
 		}
 	}
+
+	&.dead-link {
+		opacity: 60%;
+	}
 }
