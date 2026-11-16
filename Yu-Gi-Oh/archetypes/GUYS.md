@@ -3,7 +3,7 @@
 | dest = yugioh/archetypes/guys
 | capt = Yu-Gi-Oh! Archetype
 | desc = An archetype of polyattributive Machine Union monsters, inspired by CREW GUYS in Ultraman Mebius.
-| tags = yugioh / yugioh-archetypes
+| tags = yugioh-archetypes / yugioh / ultraman
 -->
 
 An archetype of polyattributive Machine Union monsters, inspired by [CREW GUYS](https://ultra.fandom.com/wiki/GUYS_(Guards_for_UtilitY_Situation)) in [Ultraman Mebius](https://ultra.fandom.com/wiki/Ultraman_Mebius_(character)).

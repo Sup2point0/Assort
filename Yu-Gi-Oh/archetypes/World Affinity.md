@@ -3,7 +3,7 @@
 | dest = yugioh/archetypes/k-knight/world-affinity
 | capt = Yu-Gi-Oh! Archetype
 | desc = An archetype of Spells and Traps, supporting the Tekk-Knight, Dekk-Knight, Ark-Knight archetypes.
-| tags = yugioh / yugioh-archetypes / k-knight
+| tags = k-knight / yugioh-archetypes / yugioh
 -->
 
 An archetype of Spells and Traps, supporting the [*Tekk-Knight*](Tekk-Knight.md), [*Dekk-Knight*](Dekk-Knight.md), [*Ark-Knight*](Ark-Knight.md) archetypes, inspired by the [*World Affinity*](https://yugipedia.com/wiki/World_Legacy) archetype.

@@ -3,7 +3,7 @@
 | dest = yugioh/archetypes/battle-sheep
 | capt = Yu-Gi-Oh! Archetype
 | desc = A series of upgrade FIRE Beast monsters that can attack directly and have resistance to destruction by battle.
-| tags = yugioh / yugioh-archetypes
+| tags = yugioh-archetypes / yugioh
 -->
 
 A series of upgrade FIRE Beast monsters that can attack directly and have resistance to destruction by battle, inspired by the (Enraged) Battle Ox from [Yu-Gi-No](https://youtube.com/watch?v=9KSGUVcNfZM).

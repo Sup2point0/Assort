@@ -3,7 +3,7 @@
 | dest = yugioh/archetypes/rubic
 | capt = Yu-Gi-Oh! Archetype
 | desc = An archetype of DARK Cyberse Monsters inspired by trigonometry and Rubik’s cubes.
-| tags = yugioh / yugioh-archetypes / maths
+| tags = yugioh-archetypes / yugioh / maths
 -->
 
 An archetype of DARK Cyberse Monsters, harnessing Synchro, Xyz, Link Summoning and revolving around moving cards on the field, inspired by [trigonometry<sup>↗</sup>](https://wikipedia.org/wiki/Trigonometry) and [Rubik’s cubes<sup>↗</sup>](https://wikipedia.org/wiki/Rubik%27s_Cube).

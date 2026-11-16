@@ -3,7 +3,7 @@
 | dest = yugioh/archetypes/next-gen/a-to-z
 | capt = Yu-Gi-Oh! Archetype
 | desc = An archetype of LIGHT Machine Union monsters, harnessing contact fusion, a revitalisation of the original A-to-Z archetype.
-| tags = yugioh / yugioh-archetypes / next-gen
+| tags = next-gen / yugioh-archetypes / yugioh
 -->
 
 An archetype of LIGHT Machine Union monsters, harnessing contact fusion, a revitalisation of the original [*A-to-Z*<sup>↗</sup>](https://yugipedia.com/wiki/A-to-Z) archetype.

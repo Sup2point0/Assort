@@ -3,7 +3,7 @@
 | dest = yugioh/archetypes/next-gen/cyber-dragon
 | capt = Yu-Gi-Oh! Archetype
 | desc = An archetype of LIGHT Machine monsters, a revitalisation of the original Cyber Dragon archetype.
-| tags = yugioh / yugioh-archetypes / next-gen
+| tags = next-gen / yugioh-archetypes / yugioh
 -->
 
 An archetype of LIGHT Machine monsters, a revitalisation of the original [Cyber Dragon](https://yugipedia.com/wiki/Cyber_Dragon_(archetype)) archetype.

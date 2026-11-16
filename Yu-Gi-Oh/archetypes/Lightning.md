@@ -3,7 +3,7 @@
 | dest = yugioh/archetypes/lightning
 | capt = Yu-Gi-Oh! Archetype
 | desc = An archetype of LIGHT Monsters, closely related to and supporting the Vapour-Eyes archetype.
-| tags = yugioh / yugioh-archetypes
+| tags = yugioh-archetypes / yugioh
 -->
 
 An archetype of LIGHT Monsters, closely related to and supporting the [*Vapour-Eyes*](Vapour-Eyes.md) archetype.

@@ -3,7 +3,7 @@
 | dest = yugioh/archetypes/kinetic-warrior
 | capt = Yu-Gi-Oh! Archetype
 | desc = A series of Machine Union monsters that combine to form much more powerful Xyz monsters.
-| tags = yugioh / yugioh-archetypes
+| tags = yugioh-archetypes / yugioh
 -->
 
 A series of Machine Union monsters that combine to form much more powerful Xyz monsters, inspired by the original [Magnet Warriors](yugioh.fandom.com/wiki/Magnet_Warrior).

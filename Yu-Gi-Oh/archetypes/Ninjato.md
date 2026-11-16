@@ -3,7 +3,7 @@
 | dest = yugioh/archetypes/ninjato
 | capt = Yu-Gi-Oh! Archetype
 | desc = An archetype of primarily DARK Warrior Monsters, revolving around the ace Monster Ninjato who transforms into many Fusion evolutions by fusing with different Materials.
-| tags = yugioh / yugioh-archetypes
+| tags = yugioh-archetypes / yugioh
 -->
 
 An archetype of primarily DARK Warrior Monsters, revolving around the ace Monster [Ninjato](../cards/monsters/standard/Ninjato.md) who transforms into many Fusion evolutions by fusing with different Materials.

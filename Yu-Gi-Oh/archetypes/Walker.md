@@ -3,7 +3,7 @@
 | dest = yugioh/archetypes/walker
 | capt = Yu-Gi-Oh! Archetype
 | desc = An archetype of LIGHT and DARK Monsters, part of the Stranded Saga.
-| tags = yugioh / yugioh-archetypes / stranded-saga
+| tags = yugioh-archetypes / stranded-saga / yugioh
 -->
 
 An archetype of LIGHT and DARK Monsters, part of the [*Stranded Saga*](../lore/Stranded%20Saga) storyline.
