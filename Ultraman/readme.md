@@ -1,6 +1,7 @@
 # Ultraman
-
-{desc}
+<!-- #SQUARK live! index!
+| dest = ultraman
+-->
 
 Unsure where to start? Try checking out some of these!
 
