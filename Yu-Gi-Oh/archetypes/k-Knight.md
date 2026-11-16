@@ -1,9 +1,9 @@
 # k-Knight
 <!-- #SQUARK live!
 | dest = yugioh/archetypes/k-knight
-| desc = A superarchetype of Celestial Warrior Monsters inspired by the Mekk-Knight archetype
+| desc = A superarchetype of Celestial Warrior Monsters inspired by the Mekk-Knight archetype.
 | capt = Yu-Gi-Oh! Archetype
-| tags = yugioh / yugioh-archetypes / long
+| tags = yugioh / yugioh-archetypes / k-knight / long
 -->
 
 A superarchetype of Celestial Warrior Monsters of every Attribute, harnessing every Summon technique (except Pendulum), inspired by the [*Mekk-Knight*](https://yugipedia.com/wiki/Mekk-Knight) archetype. It is supported by the [*World Affinity*](World%20Affinity.md) archetype, which is also inspired by the [*World Legacy*](https://yugipedia.com/wiki/World_Legacy) archetype.

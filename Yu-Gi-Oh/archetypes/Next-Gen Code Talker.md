@@ -2,8 +2,8 @@
 <!-- #SQUARK live!
 | dest = yugioh/archetypes/next-gen/code-talker
 | capt = Yu-Gi-Oh! Archetype
-| desc = A revitalisation of the Code Talker archetype.
-| tags = yugioh / yugioh-archetypes
+| desc = An archetype of Cyberse Link Monsters, a revitalisation of the Code Talker archetype.
+| tags = yugioh / yugioh-archetypes / next-gen
 -->
 
 An archetype of Cyberse Link Monsters, a revitalisation of the [*Code Talker*<sup>↗</sup>](https://yugipedia.com/wiki/Code_Talker_(archetype)) archetype.

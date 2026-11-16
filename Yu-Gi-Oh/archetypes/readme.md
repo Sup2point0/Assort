@@ -18,9 +18,9 @@ Especially developed pages are **weighted**, so there’ll be more to explore in
 
 ## Index
 
-[Antarctech](Antarctech.md)  
+Antarctech  
 Antarctic  
-[Antarctron](Antarctron.md)  
+Antarctron  
 Affectis  
 Allura  
 Apocalyptus  
@@ -50,7 +50,7 @@ Eternal King
 *Fallen*  
 Forsaken  
 Fractured  
-[Galactron](Galactron.md)  
+Galactron  
 [GUYS](GUYS.md)  
 &emsp; [METEOR](METEOR.md)  
 Harmonic  
@@ -58,10 +58,10 @@ Harmonic
 &emsp; IN-Harmonic  
 Heartslayer  
 Hypno-Eyes  
-[*Immuni*](Immuni.md)  
+*Immuni*  
 &emsp; [*Immunicipality*](Immunicipality.md)  
-&emsp; [*Immunit*](Immunit.md)  
-&emsp; [*Immunition*](Immunition.md)  
+&emsp; *Immunit*  
+&emsp; *Immunition*  
 Inkurzen  
 Integration  
 Invictus  
@@ -69,9 +69,9 @@ Invictus
 [**k-Knight**](k-Knight.md)  
 &emsp; [Tekk-Knight](Tekk-Knight.md)  
 &emsp; &emsp; [Hi-Tekk-Knight](Tekk-Knight.md)  
-&emsp; [Dekk-Knight](Dekk-Knight.md)  
-&emsp; [Ark-Knight](Ark-Knight.md)  
-&emsp; &emsp; [Dark-Knight](Dark-Knight.md)  
+&emsp; Dekk-Knight  
+&emsp; Ark-Knight  
+&emsp; &emsp; Dark-Knight  
 [Lightning](Lightning.md)  
 Manifestation  
 **Mirrormage**  
@@ -95,27 +95,27 @@ Overthink
 Quaternion  
 Quick  
 [**Rubic**](Rubic.md)  
-[Shadow](Shadow.md)  
+Shadow  
 Shattered  
 Spiritual  
 [**Soul**](Soul.md)  
 &emsp; [Soul Shard](Soul.md)  
 [*Stranded*](Stranded.md)  
-&emsp; [Aetern](Aetern.md)  
-&emsp; &emsp; [Aeternal](Aeternal.md)  
-&emsp; &emsp; [Aeternity](Aeternity.md)  
+&emsp; Aetern  
+&emsp; &emsp; Aeternal  
+&emsp; &emsp; Aeternity  
 &emsp; Affine  
 &emsp; Avertroci    
-&emsp; &emsp; [Avertrocious](Avertrocious.md)  
-&emsp; &emsp; [Avertrocity](Avertrocit.md)  
-&emsp; [Catastropical](Catastropical.md)  
+&emsp; &emsp; [Avertrocious](../lore/Stranded%20Saga/archetypes.md#Avertroci)  
+&emsp; &emsp; [Avertrocity](../lore/Stranded%20Saga/archetypes.md#Avertroci)  
+&emsp; [Catastropical](../lore/Stranded%20Saga/archetypes.md#Catastropical)  
 &emsp; Cephradica  
-&emsp; &emsp; [Cephradicated](Cephradicated.md)  
-&emsp; &emsp; [Cephradicator](Cephradicator.md)  
-&emsp; [Construct](Construct.md)  
-&emsp; [Delphoenix](Delphoenix.md)  
-&emsp; [Dyverse](Dyverse.md)  
-&emsp; [Dyvoid](Dyvoid.md)  
+&emsp; &emsp; [Cephradicated](../lore/Stranded%20Saga/archetypes.md#Cephradicated)  
+&emsp; &emsp; [Cephradicator](../lore/Stranded%20Saga/archetypes.md#Cephradicator)  
+&emsp; [Construct](../lore/Stranded%20Saga/archetypes.md#Construct)  
+&emsp; [Delphoenix](../lore/Stranded%20Saga/archetypes.md#Delphoenix)  
+&emsp; [Dyverse](../lore/Stranded%20Saga/archetypes.md#Dyverse)  
+&emsp; [Dyvoid](../lore/Stranded%20Saga/archetypes.md#Dyvoid)  
 &emsp; Excursion  
 &emsp; [Supnautic](Supnautic.md)  
 &emsp; Walker  

@@ -1,4 +1,10 @@
 # Dead-Eyes
+<!-- #SQUARK live!
+| dest = yugioh/archetypes/dead-eyes
+| capt = Yu-Gi-Oh! Archetype
+| desc = An ‘X-Eyes Dragon’ archetype of DARK Zombie Dragon monsters.
+| tags = yugioh / yugioh-archetypes
+-->
 
 An ‘*X*-Eyes Dragon’ archetype of DARK Zombie Dragon monsters.
 

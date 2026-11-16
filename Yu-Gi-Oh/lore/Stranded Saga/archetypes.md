@@ -1,4 +1,9 @@
 # Archetypes
+<!-- #SQUARK live!
+| dest = yugioh/lore/stranded-saga/archetypes
+| capt = Archetypes of the Stranded Saga
+| tags = stranded-saga / yugioh
+-->
 
 > [!Note]
 > It would be ridiculous to create all the cards for all the archetypes in the Stranded Saga (even for me), so most are documented here instead of their own separate file in [archetypes](../../archetypes).

@@ -1,4 +1,10 @@
 # Stranded
+<!-- #SQUARK live!
+| dest = yugioh/archetypes/stranded
+| capt = Yu-Gi-Oh! Archetype
+| desc = An archetype connecting the various archetypes in the The Stranded Saga.
+| tags = yugioh / yugioh-archetypes / stranded-saga
+-->
 
 An archetype connecting the various archetypes in the [*The Stranded Saga*](../lore/Stranded%20Saga) storyline, a parody of the [*Branded*](https://yugipedia.com/wiki/Branded) archetype. It has few monsters, instead focusing on supportive Spell/Traps, many of which link to other archetypes.
 

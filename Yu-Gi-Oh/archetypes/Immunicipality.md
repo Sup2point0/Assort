@@ -1,4 +1,10 @@
 # Immunicipality
+<!-- #SQUARK live!
+| dest = yugioh/archetypes/immunicipality
+| capt = Yu-Gi-Oh! Archetype
+| desc = An archetype of WATER Psychic monsters and Continuous Spells, with a myriad of effects that combine to form an almost impenetrable defence, inspired by the immune system.
+| tags = yugioh / yugioh-archetypes
+-->
 
 An archetype of WATER Psychic monsters and Continuous Spells, with a myriad of effects that combine to form an almost impenetrable defence, inspired by the immune system.
 

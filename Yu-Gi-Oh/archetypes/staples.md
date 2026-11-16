@@ -1,6 +1,12 @@
 # Staples
+<!-- #SQUARK live!
+| dest = yugioh/archetypes/staples
+| desc = A series of custom staple cards, many being parodies of existing cards.
+| capt = Yu-Gi-Oh! Archetype
+| tags = yugioh / yugioh-archetypes
+-->
 
-A series of custom staple cards, many parodies of existing cards.
+A series of custom staple cards, many being parodies of existing cards.
 
 
 <br>

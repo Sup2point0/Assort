@@ -1,4 +1,10 @@
 # METEOR
+<!-- #SQUARK live!
+| dest = yugioh/archetypes/kinetic-warrior
+| capt = Yu-Gi-Oh! Archetype
+| desc = A series of Machine Union monsters that combine to form much more powerful Xyz monsters.
+| tags = yugioh / yugioh-archetypes
+-->
 
 A series of Quick Spells specifically supporting the [GUYS](GUYS.md) archetype, inspired by the METEOR technology in [*Ultraman Mebius*](https://ultra.fandom.com/wiki/Ultraman_Mebius_(character)).
 

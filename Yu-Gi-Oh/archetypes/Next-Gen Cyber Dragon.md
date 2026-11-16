@@ -1,6 +1,12 @@
-revitalisation# Next-Gen Cyber Dragon
+# Next-Gen Cyber Dragon
+<!-- #SQUARK live!
+| dest = yugioh/archetypes/next-gen/cyber-dragon
+| capt = Yu-Gi-Oh! Archetype
+| desc = An archetype of LIGHT Machine monsters, a revitalisation of the original Cyber Dragon archetype.
+| tags = yugioh / yugioh-archetypes / next-gen
+-->
 
-An archetype of LIGHT Machine monsters, a revitalyzacion of the original [Cyber Dragon](https://yugipedia.com/wiki/Cyber_Dragon_(archetype)) archetype.
+An archetype of LIGHT Machine monsters, a revitalisation of the original [Cyber Dragon](https://yugipedia.com/wiki/Cyber_Dragon_(archetype)) archetype.
 
 
 <br>

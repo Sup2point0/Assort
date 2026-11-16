@@ -1,4 +1,10 @@
 # Dystopia
+<!-- #SQUARK live!
+| dest = yugioh/archetypes/dystopia
+| capt = Yu-Gi-Oh! Archetype
+| desc = An archetype of protively Warrior DARK Monsters, reolving around Xyz Summoning through Rank-Down-Magic and destroying their own cards.
+| tags = yugioh / yugioh-archetypes
+-->
 
 An archetype of protively Warrior DARK Monsters, reolving around Xyz Summoning through Rank-Down-Magic and destroying their own cards, a parody of the [*Utopic*](https://yugipedia.com/wiki/Utopic) archetype.
 

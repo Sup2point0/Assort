@@ -1,4 +1,10 @@
 # The Specialists
+<!-- #SQUARK live!
+| dest = yugioh/archetypes/the-specialists
+| capt = Yu-Gi-Oh! Archetype
+| desc = A series of Cyberse Monsters, revolving around Link Summoning, with various supportive effects for Cynex cards and other Cyberse Monsters.
+| tags = yugioh / yugioh-archetypes
+-->
 
 A series of Cyberse Monsters, revolving around Link Summoning, with various supportive effects for [*Cynex*](Cynex.md) cards and other Cyberse Monsters.
 

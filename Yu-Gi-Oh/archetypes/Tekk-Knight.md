@@ -1,4 +1,10 @@
 # Tekk-Knight
+<!-- #SQUARK live!
+| dest = yugioh/archetypes/k-knight/tekk-knight
+| capt = Yu-Gi-Oh! Archetype
+| desc = An archetype of Celestial Warrior Monsters of every Attribute, inspired by the Mekk-Knight archetype.
+| tags = yugioh / yugioh-archetypes / k-knight
+-->
 
 An archetype of Celestial Warrior Monsters of every Attribute, inspired by the [*Mekk-Knight*](https://yugipedia.com/wiki/Mekk-Knight) archetype. It is part of the [k-Knight](k-Knight.md) superarchetype.
 
