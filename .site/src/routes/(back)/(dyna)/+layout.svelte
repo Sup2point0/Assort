@@ -15,12 +15,9 @@ import { Nav, Footer } from "#parts/core";
 import { Header, TagsBlock } from "#parts/page";
 
 import { page } from "$app/state";
-import type { PageData } from "stranger-quarkdown";
 
 
 let { children } = $props();
-
-let data = $derived(page.data as PageData<"long">);
 
 </script>
 
@@ -53,15 +50,20 @@ let data = $derived(page.data as PageData<"long">);
 <style lang="scss">
 	
 .layout {
+	max-width: 100vw;
 	padding: 0 2rem;
 	padding-top: 3rem;
 	display: flex;
 	flex-flow: row nowrap;
 
 	main {
-		flex: 1;
 		margin-left: 2rem;
 		margin-right: 4rem;
+
+		@media (max-width: $width-mobile) {
+			margin-left: 0;
+			margin-right: 2rem;
+		}
 	}
 }
 
