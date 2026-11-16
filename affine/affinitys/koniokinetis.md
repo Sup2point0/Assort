@@ -264,14 +264,6 @@ Koniokinetics’ versatility makes them fantastic for support, working from behi
 <br>
 
 
-## Emergence
-
-[Tencent Cataract](../../~.md) invented the affinity when creating xis aspect for the [Supxerique](../../~.md).
-
-
-<br>
-
-
 ## Trivia
 
 - Koniokinetics are nice to live with, as they always keep every surface meticulously clean; however, this doesn’t prevent their home from being extremely deadly, as they often hide dust in hidden crevices and inconspicuous corners.
