@@ -3,7 +3,7 @@
 | dest = poetry
 | desc = yeah, I write poetry.
 | capt = Index Page
-| tags = poetry / index
+| tags = poetry
 -->
 
 Surprisingly, I genuinely enjoy writing poetry.

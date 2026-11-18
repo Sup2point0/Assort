@@ -4,7 +4,7 @@
 | desc = I love lists.
 | head = Lists
 | capt = Index Page
-| tags = lists / index / lists
+| tags = lists / lists
 -->
 
 You do not understand how much I enjoy making lists, or just how many I’ve created.

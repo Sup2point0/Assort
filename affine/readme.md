@@ -2,7 +2,7 @@
 <!-- #SQUARK live! index! depr!
 | dest = affine
 | desc = magic, the way I envision it
-| tags = affine / index
+| tags = affine
 -->
 
 > [!Note]

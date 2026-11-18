@@ -1,7 +1,7 @@
 # Graphic Design
 <!-- #SQUARK live! index!
 | dest = graphics
-| tags = graphics / index
+| tags = graphics
 -->
 
 I’m not a dedicated graphic design, but I do like graphic design. I care. Mostly because I like things that look nice, and it bothers me when they don’t. A nicely designed UI/UX feels so, so good, whether it be a dynamic application or a static infographic.

@@ -3,7 +3,7 @@
 | dest = xeriqui
 | desc = A fictional theory of existence and reality
 | capt = Index Page
-| tags = xeriqui / index / personal / fantasy
+| tags = xeriqui / personal / fantasy
 -->
 
 A fictional theory of existence and reality.

@@ -5,7 +5,7 @@
 | desc = All the Yu-Gi-Oh decks I’ve built and played
 | head = <em>Yu-Gi-Oh!</em> Decks
 | capt = Index Page
-| tags = yugioh / yugioh-decks / index
+| tags = yugioh / yugioh-decks
 -->
 
 I’ve built a lot of decks in my time ...most of them custom.
