@@ -1,9 +1,10 @@
 # Poetry
 <!-- #SQUARK live! index!
+| index = poetry
 | dest = poetry
 | desc = yeah, I write poetry.
 | capt = Index Page
-| tags = poetry
+| series = interests
 -->
 
 Surprisingly, I genuinely enjoy writing poetry.

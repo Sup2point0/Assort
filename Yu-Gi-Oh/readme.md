@@ -1,10 +1,12 @@
 # *Yu-Gi-Oh!*
 <!-- #SQUARK live! index! dev! feat!
+| index = yugioh
 | dest = yugioh
 | desc = A childhood card game I never quite fell out of love with
 | head = Yu-Gi-Oh!
 | capt = Index Page
-| tags = yugioh / franchise / long
+| series = yugioh
+| tags = franchise / long
 -->
 
 I’ve played *Yu-Gi-Oh!* since childhood. You don’t understand how much I love this card game. No seriously. I’ve browsed [Yugipedia<sup>↗</sup>](https://yugipedia.com) extensively in my free time, read the translations of the lore books, started writing [my *own* lore book](lore/Stranded%20Saga/) – and above all, I absolutely cannot stop creating custom cards.

@@ -1,5 +1,6 @@
 # Affine
 <!-- #SQUARK live! index! depr!
+| index = affine
 | dest = affine
 | desc = magic, the way I envision it
 | tags = affine

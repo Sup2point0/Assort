@@ -1,7 +1,9 @@
 # *Air Attack 3*
 <!-- #SQUARK live! index!
+| index = air-attack
 | dest = games/aa3
 | head = Air Attack 3
+| series = games
 -->
 
 A trequel to *[Air Attack](https://en.wikipedia.org/wiki/AirAttack)* and *[Air Attack 2](https://en.wikipedia.org/wiki/AirAttack_2)*, 2 of my favourite childhood games. Released in 2020.

@@ -1,9 +1,10 @@
 # Archetypes
 <!-- #SQUARK live! index!
+| index = yugioh-archetypes
 | dest = yugioh/archetypes
 | desc = All the custom archetypes I’ve designed
 | capt = Index Page
-| tags = index / yugioh-archetypes
+| series = yugioh-archetypes
 -->
 
 It seems I cannot for the life of me stop creating custom cards. Even after I think I’ve exhausted all my ideas. They just keep on coming.

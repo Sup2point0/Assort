@@ -1,11 +1,12 @@
 # *Yu-Gi-Oh!* Decks
 <!-- #SQUARK live! index!
+| index = yugioh-decks
 | dest = yugioh/decks
 | title = Yu-Gi-Oh! Decks
 | desc = All the Yu-Gi-Oh decks I’ve built and played
 | head = <em>Yu-Gi-Oh!</em> Decks
 | capt = Index Page
-| tags = yugioh / yugioh-decks
+| series = yugioh
 -->
 
 I’ve built a lot of decks in my time ...most of them custom.

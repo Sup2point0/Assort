@@ -1,11 +1,11 @@
 # Adventures in Software Development
 <!-- #SQUARK live! index!
+| index = dev
 | dest = dev
 | title = dev
 | desc = Adventures in software development
 | head = dev
 | capt = Index Page
-| tags = dev
 -->
 
 If it’s not apparent already, I’m a programmer at heart. Here you’ll find my thoughts and takes on all things software development.

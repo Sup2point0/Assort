@@ -1,7 +1,9 @@
 # *Asphalt X: Fantasy*
 <!-- #SQUARK live! index!
+| index = asphalt-fantasy
 | dest = games/asphalt-fantasy
 | head = Asphalt X: Fantasy
+| series = games
 -->
 
 A sequel to [*Asphalt 9: Legends*](https://asphaltlegends.com/) and the finale to the [*Asphalt*](https://en.wikipedia.org/wiki/Asphalt_(series)) series.

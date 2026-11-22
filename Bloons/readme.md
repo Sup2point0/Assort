@@ -1,5 +1,6 @@
 # Bloons TD 6
 <!-- #SQUARK live! index!
+| index = bloons
 | dest = games/bloons
 -->
 

@@ -1,5 +1,6 @@
 # Xeriqui
 <!-- #SQUARK live! index!
+| index = xeriqui
 | dest = xeriqui
 | desc = A fictional theory of existence and reality
 | capt = Index Page

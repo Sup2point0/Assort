@@ -1,5 +1,6 @@
 # ASCENSE
 <!-- #SQUARK live! index!
+| index = ascense
 | dest = ascense
 -->
 
