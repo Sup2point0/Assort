@@ -3,7 +3,7 @@
 | dest = info/privacy
 | desc = Assort’s (nonexistent) privacy policy
 | capt = Data and Cookies
-| tags = info
+| series = info
 | date = 2024 October
 | update = 2026 November
 -->

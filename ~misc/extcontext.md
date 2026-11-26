@@ -2,7 +2,8 @@
 <!-- #SQUARK live! dev!
 | dest = extcontext
 | desc = The unofficial tradition of the highest humorous sophistication.
-| tags = writing / ironic
+| series = writing
+| tags = ironic
 | date = 2024 December
 -->
 

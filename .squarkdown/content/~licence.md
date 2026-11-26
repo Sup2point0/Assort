@@ -2,7 +2,7 @@
 <!-- #SQUARK live!
 | dest = info/licence
 | capt = Copyright on Content from <em>Assort</em>
-| tags = info
+| series = info
 | update = 2026 November 4
 -->
 

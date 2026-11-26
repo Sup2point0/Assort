@@ -1,7 +1,7 @@
 # Discipline
 <!-- #SQUARK live! woozy!
 | dest = discipline
-| tags = writing / personal
+| series = writing / personal
 -->
 
 ### Avoid shouting.

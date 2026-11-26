@@ -2,7 +2,8 @@
 <!-- #SQUARK live!
 | dest = writing/writing
 | desc = Why do we write?
-| tags = writing / rambling
+| series = writing
+| tags = rambling
 | date = 2023 summer
 -->
 

@@ -2,7 +2,9 @@
 <!-- #SQUARK live! deep!
 | dest = writing/expanse
 | desc = They had told me what to expect. I came anyway.
-| tags = writing / antarctica / poignant
+| series = writing
+| tags = antarctica
+| tags = poignant
 | date = 2022 March
 -->
 

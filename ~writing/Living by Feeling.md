@@ -2,7 +2,7 @@
 <!-- #SQUARK live!
 | dest = living-by-feeling
 | desc = Not everything has to be perfectly precise.
-| tags = writing / personal
+| series = writing / personal
 | date = 2025 January 12
 | update = 2025 December 13
 -->

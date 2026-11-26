@@ -1,7 +1,8 @@
 # 2 September 2024
 <!-- #SQUARK live!
 | dest = writing/commit
-| tags = writing / wack
+| series = writing
+| tags = wack
 | date = 2024 September 2
 -->
 

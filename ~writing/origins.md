@@ -2,7 +2,8 @@
 <!-- #SQUARK dead! feat! dev!
 | dest = writing/origins
 | capt = A deep dive into the lore behind the username
-| tags = writing / personal / long / jokes
+| series = writing / personal
+| tags = long / jokes
 -->
 <!-- ↗ ↑ ↓ -->
 

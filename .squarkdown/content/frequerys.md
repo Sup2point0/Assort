@@ -4,7 +4,7 @@
 | title = Frequerys
 | capt = Frequent Queries
 | desc = Frequent questions about Assort
-| tags = info
+| series = info
 | update = 2026 November 6
 -->
 

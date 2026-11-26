@@ -4,7 +4,7 @@
 | capt = What is Assort?
 | title = Synopsis
 | desc = An assortment of all my creations!
-| tags = info
+| series = info
 | update = 2026 November 4
 -->
 

@@ -2,7 +2,8 @@
 <!-- #SQUARK live! dev!
 | dest = writing/wriiting
 | title = wriiting
-| tags = writing / meta
+| series = writing
+| tags = meta
 -->
 
 Writing clearly and concisely is really tough.

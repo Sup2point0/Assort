@@ -2,7 +2,8 @@
 <!-- #SQUARK live!
 | dest = writing/wriiiting
 | desc = I need to write.
-| tags = writing / personal / rambling
+| series = writing / personal
+| tags = rambling
 | date = 2024 November 28
 -->
 

@@ -2,7 +2,8 @@
 <!-- #SQUARK live! deep!
 | dest = writing/the-last-cavern
 | desc = It’s always an excursion getting here, but it’s always worth it.
-| tags = writing / creative-writing / archives / antarctica
+| series = writing / creative-writing / archives
+| tags = antarctica
 | date = 2022 June
 -->
 

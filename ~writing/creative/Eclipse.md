@@ -2,7 +2,7 @@
 <!-- #SQUARK live! deep!
 | dest = writing/eclipse
 | desc = It had already fallen dark.
-| tags = writing / archives
+| series = writing / archives
 | date = 2021 September
 -->
 
