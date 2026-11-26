@@ -3,7 +3,7 @@
 | dest = ultraman/infinity
 | desc = A really overpowered fictionak Ultraman
 | capt = Fictional Ultraman
-| tags = ultraman / archives
+| series = ultraman / archives
 -->
 
 > *I am Ultraman Infinity. Born from the infinite light of the Plasma Spark.*

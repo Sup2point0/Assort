@@ -1,7 +1,7 @@
 # slinqui
 <!-- #SQUARK live! feat!
 | dest = sup/slinqui
-| tags = sup / lists
+| series = sup / lists
 -->
 
 A dictionary for all my words, phrases, quips and quirks.

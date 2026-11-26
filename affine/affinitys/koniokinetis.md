@@ -3,7 +3,7 @@
 | dest = affine/affinitys/koniokinetis
 | desc = The ability to psychokinetically control dust and other fine particulates
 | capt = Affinity
-| index = affine / affinities
+| series = affine / affinities
 | tags = long
 -->
 

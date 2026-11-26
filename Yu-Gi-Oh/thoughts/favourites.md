@@ -4,7 +4,8 @@
 | title = Favourites / Yu-Gi-Oh!
 | desc = My favourites in Yu-Gi-Oh!
 | head = Yu-Gi-Oh! Favourites
-| tags = yugioh / lists / fav / yugioh / opinion
+| series = yugioh / lists / fav
+| tags = opinion
 -->
 
 There’s a lot of things to like in Yu-Gi-Oh, so deciding on favourites isn’t easy. Here we go, anyway!
