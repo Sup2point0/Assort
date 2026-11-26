@@ -21,6 +21,7 @@ export const SITE: SiteData = {
 			series,
 			{
 				...data,
+				title: TAGS[series] ?? (series[0].toUpperCase() + series.slice(1)),
 				index_page: pages[data.index_page],
 			}
 		])
@@ -45,6 +46,13 @@ export default SITE;
 interface SiteData
 {
 	pages: Record<string, PageData>
+
+	series:
+		Record<string, {
+			title: string
+			index_page: PageData
+			pages: string[]
+		}>
 
 	tags:
 		Record<string, {
