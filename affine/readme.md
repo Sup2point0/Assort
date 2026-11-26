@@ -3,7 +3,7 @@
 | index = affine
 | dest = affine
 | desc = magic, the way I envision it
-| tags = affine
+| index = affine
 -->
 
 > [!Note]

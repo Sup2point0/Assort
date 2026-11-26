@@ -4,7 +4,8 @@
 | title = Assorted Assortments
 | head = Assort
 | desc = A poem to Assort.
-| tags = poetry / meta
+| index = poetry
+| tags = meta
 | date = 2024 September
 -->
 

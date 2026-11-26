@@ -1,7 +1,7 @@
 # Favourite Charts
 <!-- #SQUARK live!
 | dest = games/phigros/favourites
-| tags = phigros / fav / games / lists
+| series = phigros / fav / games / lists
 -->
 
 Deciding on a single favourite chart would be impossible, so of course, we’ll list a bunch!

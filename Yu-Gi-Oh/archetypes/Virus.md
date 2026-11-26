@@ -3,7 +3,7 @@
 | dest = yugioh/archetypes/virus
 | capt = Yu-Gi-Oh! Archetype
 | desc = An archetype of DARK Zombie monsters and complementary Traps that focus on destroying the opponent’s Deck.
-| tags = yugioh-archetypes / yugioh
+| series = yugioh-archetypes / yugioh
 -->
 
 An archetype of DARK Zombie monsters and complementary Traps that focus on destroying the opponent’s Deck.

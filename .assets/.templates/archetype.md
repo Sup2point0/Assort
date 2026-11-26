@@ -2,7 +2,7 @@
 <!-- #SQUARK live!
 | dest = yugioh/archetypes
 | capt = Yu-Gi-Oh! Archetype
-| tags = yugioh-archetypes / yugioh
+| series = yugioh-archetypes / yugioh
 -->
 
 An archetype of – Monsters, revolving around – Summoning, inspired by the [*–*<sup>↗</sup>]() archetype.

@@ -1,7 +1,7 @@
 # A Primer to Programming in Desmos
 <!-- #SQUARK live!
 | dest = desmos/dev
-| tags = desmos / dev / writing
+| series = desmos / dev / writing
 | date = 2024 autumn
 -->
 

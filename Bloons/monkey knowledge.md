@@ -2,7 +2,7 @@
 <!-- #SQUARK live! archive!
 | dest = games/bloons/monkey-knowledge
 | desc = How I reimagined the Monkey Knowledge upgrades
-| tags = bloons / games
+| series = bloons / games
 | date = 2022
 -->
 

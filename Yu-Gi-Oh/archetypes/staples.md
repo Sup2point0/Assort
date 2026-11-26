@@ -3,7 +3,7 @@
 | dest = yugioh/archetypes/staples
 | desc = A series of custom staple cards, many being parodies of existing cards.
 | capt = Yu-Gi-Oh! Archetype
-| tags = yugioh-archetypes / yugioh
+| series = yugioh-archetypes / yugioh
 -->
 
 A series of custom staple cards, many being parodies of existing cards.

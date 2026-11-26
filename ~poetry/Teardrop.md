@@ -1,7 +1,8 @@
 # Teardrop
 <!-- #SQUARK live!
 | dest = poetry/teardrop
-| tags = poetry / antarctica / fantasy
+| index = poetry
+| tags = antarctica / fantasy
 | date = 2022 September
 -->
 

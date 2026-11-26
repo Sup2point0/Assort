@@ -3,7 +3,7 @@
 | dest = affine/spells/asphyxiskotadi
 | desc = A deadly curse invoking perceived suffocation in darkness
 | capt = Affine Spell
-| tags = spells / affine
+| series = spells / affine
 -->
 
 A deadly curse that paralyses victims, invoking perceived suffocation in darkness.
