@@ -3,7 +3,7 @@
 | dest = dev/in-perfection/ruby
 | title = Ruby
 | desc = Everything I love and dislove about the Ruby programming language
-| index = in-perfection / dev / lists
+| series = in-perfection / dev / lists
 | tags = opinion
 -->
 

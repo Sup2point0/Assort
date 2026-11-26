@@ -3,7 +3,8 @@
 | dest = yugioh/creating-custom-cards
 | capt = Exploring what goes into creating custom Yu-Gi-Oh cards
 | desc = My thoughts on what goes into a good custom Yu-Gi-Oh archetype, after creating countless myself.
-| tags = yugioh / writing / opinion / long
+| series = yugioh / writing / opinion
+| tags = long
 | date = 2024 September
 -->
 

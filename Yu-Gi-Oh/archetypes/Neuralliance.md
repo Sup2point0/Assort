@@ -1,9 +1,10 @@
 # Neuralliance
-<!-- #SQUARK live!
+<!-- #SQUARK live! index!
+| index = neuralliance
 | dest = yugioh/archetypes/neuralliance
 | capt = Yu-Gi-Oh! Superarchetype
 | desc = A superarchetype of LIGHT, DARK and WATER monsters, inspired by the nervous system and neural processes.
-| tags = yugioh / yugioh-superarchetypes / yugioh
+| series = yugioh-superarchetypes / yugioh-archetypes / yugioh
 -->
 
 A superarchetype of LIGHT, DARK and WATER monsters, inspired by the nervous system and neural processes.

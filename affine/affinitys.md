@@ -2,7 +2,7 @@
 <!-- #SQUARK live!
 | dest = affine/affinitys
 | desc = All the known affinitys
-| index = affine / lists
+| series = affine / lists
 -->
 
 | affinity | affinitic | ability |

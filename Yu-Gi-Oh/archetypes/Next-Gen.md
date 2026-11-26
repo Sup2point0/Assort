@@ -1,9 +1,10 @@
 # Next-Gen
-<!-- #SQUARK live!
+<!-- #SQUARK live! index!
+| index = next-gen
 | dest = yugioh/archetypes/next-gen
 | capt = Yu-Gi-Oh! Superarchetype
 | desc = A superarchetype of revitalisations of various existing Yu-Gi-Oh archetypes.
-| tags = yugioh / yugioh / yugioh-superarchetypes
+| series = yugioh-superarchetypes / yugioh-archetypes / yugioh
 -->
 
 A superarchetype of revitalisations of various existing archetypes.

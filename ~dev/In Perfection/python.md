@@ -3,7 +3,7 @@
 | dest = dev/in-perfection/python
 | title = Python
 | desc = Everything I love and dislove about the Python programming language
-| index = in-perfection / dev / lists
+| series = in-perfection / dev / lists
 | tags = opinion
 -->
 

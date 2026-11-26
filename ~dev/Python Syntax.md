@@ -2,7 +2,7 @@
 <!-- #SQUARK live!
 | dest = dev/python-syntax
 | desc = A deep dive into my Python syntax preferences and conventions.
-| index = dev / writing
+| series = dev / writing
 | tags = opinion
 | date = 2024 spring
 -->
