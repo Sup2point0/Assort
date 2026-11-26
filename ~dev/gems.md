@@ -2,7 +2,7 @@
 <!-- #SQUARK live!
 | dest = dev/internet-gems
 | desc = A collection of incredible creations, resources, sites and articles I’ve discovered on the internet
-| tags = dev / lists
+| index = dev / resources / lists
 -->
 
 Incredible creations and resources I’ve discovered on the internet through various avenues, just like you discovering this within *Assort*.

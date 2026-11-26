@@ -1,7 +1,8 @@
 # In Perfection – Rust
 <!-- #SQUARK live!
 | dest = dev/in-perfection/rust
-| tags = dev / in-perfection / lists / opinion
+| index = in-perfection / dev / lists
+| tags = opinion
 | date = 2025 December 20
 | update = 2026 September 7
 -->

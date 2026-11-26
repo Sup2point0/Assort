@@ -4,7 +4,8 @@
 | title = decoded
 | desc = difficulties, challenges and lessons from years of software development
 | head = decoded
-| tags = dev / notes
+| index = dev
+| tags = notes
 | date = 2024 April
 -->
 

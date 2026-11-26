@@ -3,7 +3,8 @@
 | dest = dev/in-perfection/ruby
 | title = Ruby
 | desc = Everything I love and dislove about the Ruby programming language
-| tags = dev / in-perfection / lists / opinion
+| index = in-perfection / dev / lists
+| tags = opinion
 -->
 
 
