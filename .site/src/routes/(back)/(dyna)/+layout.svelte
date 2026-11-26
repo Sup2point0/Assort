@@ -40,7 +40,7 @@ let { children } = $props();
 	<Nav />
 </div>
 
-{#if !page.data.tags?.includes("index")}
+{#if page.data.series}
 	<SeriesBlock />
 {/if}
 

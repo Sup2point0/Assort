@@ -26,10 +26,13 @@ let data = $derived(page.data as PageData);
 	<table><tbody>
 		{#each data.series as series}
 			{@const series_data = SITE.series[series]}
+			{@const link = series_data.index_page?.destination ?? `contents?tag=${series}`}
 
 			<tr>
 				<th>
-					{series_data?.title ?? series}
+					<a href="{BASE}/{link}">
+						{series_data?.title ?? series}
+					</a>
 				</th>
 				<td>
 					{#each series_data?.pages.toSorted() as other_file}
@@ -77,6 +80,10 @@ th {
 	min-width: max-content;
 	padding-right: 2rem;
 	@include font-ui;
+
+	a {
+		@include link;
+	}
 }
 
 td {
