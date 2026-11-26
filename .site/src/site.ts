@@ -9,24 +9,37 @@ export const BASE = dev ? "" : "/Assort";
 import type { PageData } from "#scripts/types";
 
 import { TAGS } from "./tags";
-import { pages, tags } from "#src/data/site.json" with { type: "json" };
+import { pages, series, tags } from "#src/data/site.json" with { type: "json" };
 
 /** Aggregated site data from Squarkdown. */
 export const SITE: SiteData = {
 	pages,
 
+	series: Object.fromEntries(
+		Object.entries(series)
+		.map(([series, data]) => [
+			series,
+			{
+				...data,
+				index_page: pages[data.index_page],
+			}
+		])
+	),
+
 	tags: Object.fromEntries(
 		Object.entries(tags)
-			.map(([tag, pages]) => [
-				tag,
-				{
-					title: TAGS[tag] ?? (tag[0].toUpperCase() + tag.slice(1)),
-					pages: pages
-				}
-			])
+		.map(([tag, pages]) => [
+			tag,
+			{
+				title: TAGS[tag] ?? (tag[0].toUpperCase() + tag.slice(1)),
+				pages,
+			}
+		])
 	),
 } satisfies SiteData;
 export default SITE;
+
+// console.log(SITE);
 
 /** Aggregated site data from Squarkdown. */
 interface SiteData

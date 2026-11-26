@@ -1,6 +1,6 @@
-<!-- @component `<TagsBlock>`
+<!-- @component `<SeriesBlock>`
 
-An expanded block containing links to other pages that share a tag with the current page.
+An expanded block containing links to other pages that are part of the same series as the current page.
 -->
 
 <script lang="ts">
@@ -24,13 +24,15 @@ let data = $derived(page.data as PageData);
 	{/if}
 
 	<table><tbody>
-		{#each data.tags as tag}
+		{#each data.series as series}
+			{@const series_data = SITE.series[series]}
+
 			<tr>
 				<th>
-					{SITE.tags[tag]?.title ?? tag}
+					{series_data?.title ?? series}
 				</th>
 				<td>
-					{#each SITE.tags[tag].pages.toSorted() as other_file}
+					{#each series_data?.pages.toSorted() as other_file}
 						{@const other_page = SITE.pages[other_file]}
 
 						<a
