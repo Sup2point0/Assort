@@ -23,8 +23,8 @@ Antarctech
 Antarctic  
 Antarctron  
 Affectis  
-Allura  
-Apocalyptus  
+*Allura*  
+*Apocalyptus*  
 ~~Aquily~~  
 &emsp; ~~Aquilyra~~  
 &emsp; ~~Aquilynx~~  
@@ -106,19 +106,19 @@ Spiritual
 &emsp; &emsp; Aeternal  
 &emsp; &emsp; Aeternity  
 &emsp; Affine  
-&emsp; Avertroci    
-&emsp; &emsp; [Avertrocious](../lore/Stranded%20Saga/archetypes.md#Avertroci)  
-&emsp; &emsp; [Avertrocity](../lore/Stranded%20Saga/archetypes.md#Avertroci)  
-&emsp; [Catastropical](../lore/Stranded%20Saga/archetypes.md#Catastropical)  
-&emsp; Cephradica  
-&emsp; &emsp; [Cephradicated](../lore/Stranded%20Saga/archetypes.md#Cephradicated)  
-&emsp; &emsp; [Cephradicator](../lore/Stranded%20Saga/archetypes.md#Cephradicator)  
+&emsp; *Avertroci*    
+&emsp; &emsp; [*Avertrocious*](../lore/Stranded%20Saga/archetypes.md#Avertroci)  
+&emsp; &emsp; [*Avertrocity*](../lore/Stranded%20Saga/archetypes.md#Avertroci)  
+&emsp; [*Catastropical*](../lore/Stranded%20Saga/archetypes.md#Catastropical)  
+&emsp; *Cephradica*  
+&emsp; &emsp; [*Cephradicated*](../lore/Stranded%20Saga/archetypes.md#Cephradicated)  
+&emsp; &emsp; [*Cephradicator*](../lore/Stranded%20Saga/archetypes.md#Cephradicator)  
 &emsp; [Construct](../lore/Stranded%20Saga/archetypes.md#Construct)  
-&emsp; [Delphoenix](../lore/Stranded%20Saga/archetypes.md#Delphoenix)  
-&emsp; [Dyverse](../lore/Stranded%20Saga/archetypes.md#Dyverse)  
-&emsp; [Dyvoid](../lore/Stranded%20Saga/archetypes.md#Dyvoid)  
+&emsp; [*Delphoenix*](../lore/Stranded%20Saga/archetypes.md#Delphoenix)  
+&emsp; [*Dyverse*](../lore/Stranded%20Saga/archetypes.md#Dyverse)  
+&emsp; [*Dyvoid*](../lore/Stranded%20Saga/archetypes.md#Dyvoid)  
 &emsp; Excursion  
-&emsp; [Supnautic](Supnautic.md)  
+&emsp; [*Supnautic*](Supnautic.md)  
 &emsp; Walker  
 [The Specialists](The%20Specialists.md)  
 [**Vapour-Eyes**](Vapour-Eyes.md)  
