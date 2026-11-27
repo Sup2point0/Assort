@@ -35,6 +35,13 @@ img#back {
 	transform: scale(150%) scaleY(-1);
 	transform-origin: 48% 48%;
 	filter: brightness(84%) saturate(120%) blur(60px);
+	opacity: 0;
+	animation: 2s ease-out 1s forwards fade-in;
+
+	@keyframes fade-in {
+		from { opacity: 0; }
+		to   { opacity: 1; }
+	}
 }
 
 </style>
