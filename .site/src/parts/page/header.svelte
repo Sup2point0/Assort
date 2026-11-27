@@ -17,11 +17,7 @@ import { Breadcrumbs } from "#parts/page";
 import { page as current_page } from "$app/state";
 
 
-interface Props {
-	page?: PageData
-}
-
-let { page = current_page.data as PageData }: Props = $props();
+let page = $derived(current_page.data as PageData);
 
 </script>
 
@@ -45,7 +41,6 @@ let { page = current_page.data as PageData }: Props = $props();
 				{#if page != undefined}
 					{@html page.heading}
 				{:else}
-					{@const _ = console.warn("[Assort] `<Header>` received no heading to render!")}
 					Untitled Page
 				{/if}
 			</h1>
@@ -55,17 +50,16 @@ let { page = current_page.data as PageData }: Props = $props();
 			{/if}
 		</div>
 
-		{#if page?.tags?.length}
-			<div class="right">
-				<div class="tags">
-					{#each page.tags as tag}
-						<a class="tag" href="{BASE}/contents?tag={tag}">
-							{SITE.tags[tag]?.title ?? tag}
-						</a>
-					{/each}
-				</div>
-			</div>
-		{/if}
+		<div class="right">
+			{#each page.series ?? [] as series}
+				{@const series_data = SITE.series[series]}
+				{@const link = series_data?.index_page?.destination ?? `contents?series=${series}`}
+
+				<a href="{BASE}/{link}">
+					{series_data.title ?? series}
+				</a>
+			{/each}
+		</div>
 		
 		{#if page?.last_update_raw != undefined}
 			<p class="date">
@@ -141,28 +135,28 @@ header {
 }
 
 .right {
-	.tags {
-		display: flex;
-		flex-flow: row wrap;
-		align-items: end;
-		gap: 0.5rem;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: end;
+	align-items: end;
+	gap: 0.5rem;
 
-		a.tag {
-			padding: 0.2rem 0.75rem 0.3rem;
-			@include font-ui;
-			color: white;
-			text-decoration: none;
-			background: $col-line;
-			border-radius: $border-radius;
-			transition: all 0.12s ease-out;
+	a {
+		padding: 0.2rem 0.75rem 0.3rem;
+		@include font-ui;
+		color: white;
+		font-size: 90%;
+		text-decoration: none;
+		background: $col-line;
+		border-radius: $border-radius;
+		transition: all 0.12s ease-out;
 
-			&:hover, &:focus-visible {
-				background: $col-assort;
-			}
+		&:hover, &:focus-visible {
+			background: $col-assort;
+		}
 
-			&:active {
-				filter: brightness(75%);
-			}
+		&:active {
+			filter: brightness(75%);
 		}
 	}
 }

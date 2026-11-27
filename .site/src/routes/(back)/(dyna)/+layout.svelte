@@ -12,7 +12,7 @@
 <script lang="ts">
 
 import { Nav, Footer } from "#parts/core";
-import { Header, SeriesBlock } from "#parts/page";
+import { Header, Tags, SeriesBlock } from "#parts/page";
 
 import { page } from "$app/state";
 
@@ -40,7 +40,11 @@ let { children } = $props();
 	<Nav />
 </div>
 
-{#if page.data.series}
+{#if page.data.tags?.length}
+	<Tags />
+{/if}
+
+{#if page.data.series?.length}
 	<SeriesBlock />
 {/if}
 
