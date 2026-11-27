@@ -82,6 +82,7 @@ th {
 	@include font-ui;
 
 	a {
+		white-space: pre;
 		@include link;
 	}
 }
