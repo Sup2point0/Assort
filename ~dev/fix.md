@@ -2,7 +2,8 @@
 <!-- #SQUARK live! feat!
 | dest = dev/fix
 | desc = Got an issue? Here’s some tips to fix it.
-| tags = lists / dev / funny
+| series = lists / dev
+| tags = funny
 | date = 2024 May
 -->
 

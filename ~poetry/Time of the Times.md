@@ -1,7 +1,7 @@
 # Time of the Times
 <!-- #SQUARK live!
 | dest = poetry/time-of-the-times
-| index = poetry / monkeyopolis-times
+| series = poetry / monkeyopolis-times
 | date = 2021 November
 -->
 

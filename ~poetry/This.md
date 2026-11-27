@@ -1,7 +1,7 @@
 # This
 <!-- #SQUARK live!
 | dest = poetry/this
-| index = poetry
+| series = poetry
 | tags = fantasy
 | date = 2021 April
 -->

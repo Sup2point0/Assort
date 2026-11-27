@@ -1,7 +1,7 @@
 # Heartburn
 <!-- #SQUARK live!
 | dest = poetry/heartburn
-| index = poetry
+| series = poetry
 | tags = sad
 | date = 2024 February
 -->

@@ -1,7 +1,7 @@
 # Nameless
 <!-- #SQUARK live! feat!
 | dest = poetry/nameless
-| index = poetry
+| series = poetry
 | tags = sad
 | date = 2023 May
 -->

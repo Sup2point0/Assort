@@ -1,7 +1,7 @@
 # NO-t ev:ry tiT|e Has2b3 Ide.NticalIy_G1
 <!-- #SQUARK live!
 | dest = poetry/titles
-| index = poetry
+| series = poetry
 | tags = nerdy / ramblings
 | date = 2023 April
 -->

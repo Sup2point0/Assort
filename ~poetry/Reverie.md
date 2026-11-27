@@ -1,7 +1,7 @@
 # Reverie
 <!-- #SQUARK live!
 | dest = poetry/reverie
-| index = poetry
+| series = poetry
 | tags = sad
 | date = 2021 December
 -->

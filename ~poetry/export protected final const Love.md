@@ -2,7 +2,7 @@
 <!-- #SQUARK live!
 | dest = poetry/love
 | desc = """A love letter to programming"""
-| index = poetry
+| series = poetry
 | tags = ironic / heartfelt
 | date = 2024 autumn
 -->

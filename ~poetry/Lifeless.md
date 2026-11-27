@@ -1,7 +1,7 @@
 # Lifeless
 <!-- #SQUARK live!
 | dest = poetry/lifeless
-| index = poetry
+| series = poetry
 | tags = sad
 | date = 2023 April
 -->

@@ -1,7 +1,7 @@
 # Quantitative Quantitivity
 <!-- #SQUARK live!
 | dest = poetry/quantitative-quantitivity
-| index = poetry
+| series = poetry
 | tags = ramblings
 | date = 2023 March
 -->

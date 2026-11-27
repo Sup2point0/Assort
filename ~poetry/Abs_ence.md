@@ -1,7 +1,7 @@
 # Abs_ence
 <!-- #SQUARK live!
 | dest = poetry/abs_ence
-| index = poetry
+| series = poetry
 | tags = sad / melodramatic
 | date = 2026 February 14
 | update = 2026 February 28
