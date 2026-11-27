@@ -1,7 +1,7 @@
 # Buttons: More Complicated Than They Look
 <!-- #SQUARK live!
 | dest = dev/buttons
-| index = dev / writing
+| series = dev / writing
 -->
 
 I don’t see this covered anywhere for some reason – maybe cuz frameworks and game engines already handle it for you, or people just don’t consider that deeply when programming buttons themselves.

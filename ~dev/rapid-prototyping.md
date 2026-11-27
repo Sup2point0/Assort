@@ -3,7 +3,7 @@
 | dest = dev/rapid-prototyping
 | title = Prototyping
 | desc = Overcoming the fear of spinning up a prototype
-| index = dev / writing
+| series = dev / writing
 -->
 
 Sometimes, when I think of testing something I’m unsure about, or developing a little demo, maybe as a proof of concept – a prototype, really – a part of me just goes “ugh, can’t be bothered”.
