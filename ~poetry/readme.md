@@ -17,8 +17,6 @@ Oh yeah, and yeah no, I’m aware half of them don’t make any sense at all, an
 <br>
 
 
-<!-- #SQUARK index~ -->
-
 ## Index
 
 ### 2025

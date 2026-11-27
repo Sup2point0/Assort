@@ -8,14 +8,12 @@
 
 A sequel to [*Asphalt 9: Legends*](https://asphaltlegends.com/) and the finale to the [*Asphalt*](https://en.wikipedia.org/wiki/Asphalt_(series)) series.
 
+<!-- #SQUARK only?
 
-<br>
+<script>
+  import SeriesIndex from "#parts/page/series-index.svelte";
+</script>
 
+<SeriesIndex series="asphalt-fantasy" />
 
-## Index
-
-<table>
-  <td>
-    <a href="#"> – </a> <br>
-  </td>
-</table>
+     #SQUARK only. -->

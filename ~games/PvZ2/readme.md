@@ -7,3 +7,13 @@
 -->
 
 All the fictional content that I’ve come up with for my beloved childhood game, PvZ2.
+
+<!-- #SQUARK only?
+
+<script>
+  import SeriesIndex from "#parts/page/series-index.svelte";
+</script>
+
+<SeriesIndex series="pvz2" />
+
+     #SQUARK only. -->

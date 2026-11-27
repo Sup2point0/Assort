@@ -10,5 +10,12 @@
 
 If it’s not apparent already, I’m a programmer at heart. Here you’ll find my thoughts and takes on all things software development.
 
+<!-- #SQUARK only?
 
-<!-- #SQUARK index~ -->
+<script>
+  import SeriesIndex from "#parts/page/series-index.svelte";
+</script>
+
+<SeriesIndex series="dev" />
+
+     #SQUARK only. -->

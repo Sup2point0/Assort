@@ -16,8 +16,8 @@ A trequel to *[Air Attack](https://en.wikipedia.org/wiki/AirAttack)* and *[Air A
 
 <table>
   <td>
-    <a href="#campaign/readme.md"> Campaign </a> <br>
-    <a href="#planes/readme.md"> Planes </a> <br>
+    <a href="campaign/readme.md"> Campaign </a> <br>
+    <a href="planes/readme.md"> Planes </a> <br>
     <a href="#events/readme.md"> Events </a> <br>
     <a href="#achievements.md"> Achievements </a> <br>
     <a href="#store.md"> Store </a>

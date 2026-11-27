@@ -17,5 +17,12 @@ On second thoughts...
 
 Nah.
 
+<!-- #SQUARK only?
 
-<!-- #SQUARK index~ -->
+<script>
+  import SeriesIndex from "#parts/page/series-index.svelte";
+</script>
+
+<SeriesIndex series="lists" />
+
+     #SQUARK only. -->

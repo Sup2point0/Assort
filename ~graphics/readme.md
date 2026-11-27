@@ -11,4 +11,12 @@ I’ve always loved experimenting with fonts (*typefaces, hehe), and in recent y
 
 Anyway, here you’ll find pages archiving some of the infographics (‘posters’, sure) I’ve created over the years. Yes, most of them were for school. They’re all made in Microsoft PowerPoint 2016 – the offline version, to be clear, because Office online is an anomination.
 
-<!-- #SQUARK index~ -->
+<!-- #SQUARK only?
+
+<script>
+  import SeriesIndex from "#parts/page/series-index.svelte";
+</script>
+
+<SeriesIndex series="graphics" />
+
+     #SQUARK only. -->
