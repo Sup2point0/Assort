@@ -6,7 +6,7 @@
 	The main differences are:
 
 	- This does not have an `<article>` wrapper.
-	- This does not add a `<TagBlock>` at the end.
+	- This does not add `<Tags>` and `<SeriesBlock>` at the end.
 -->
 
 <script lang="ts">

@@ -1,5 +1,6 @@
-<!-- @component `<>`
+<!-- @component `<Tags>`
 
+A list of tags shown at the end of a page.
 -->
 
 <script lang="ts">
